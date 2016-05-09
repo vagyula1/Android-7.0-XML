@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mapType">
+        <enum name="hybrid" value="4" />
+        <enum name="none" value="0" />
+        <enum name="normal" value="1" />
+        <enum name="satellite" value="2" />
+        <enum name="terrain" value="3" />
+    </attr>
+    <attr name="cameraBearing" format="float" />
+    <attr name="cameraTargetLat" format="float" />
+    <attr name="cameraTargetLng" format="float" />
+    <attr name="cameraTilt" format="float" />
+    <attr name="cameraZoom" format="float" />
+    <attr name="liteMode" format="boolean" />
+    <attr name="uiCompass" format="boolean" />
+    <attr name="uiRotateGestures" format="boolean" />
+    <attr name="uiScrollGestures" format="boolean" />
+    <attr name="uiTiltGestures" format="boolean" />
+    <attr name="uiZoomControls" format="boolean" />
+    <attr name="uiZoomGestures" format="boolean" />
+    <attr name="useViewLifecycle" format="boolean" />
+    <attr name="zOrderOnTop" format="boolean" />
+    <attr name="uiMapToolbar" format="boolean" />
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+    <attr name="imageAspectRatioAdjust">
+        <enum name="none" value="0" />
+        <enum name="adjust_height" value="2" />
+        <enum name="adjust_width" value="1" />
+    </attr>
+    <attr name="imageAspectRatio" format="float" />
+    <attr name="circleCrop" format="boolean" />
+    <attr name="avatarPosition">
+        <enum name="end" value="0" />
+        <enum name="start" value="1" />
+    </attr>
+    <attr name="chipBackground" format="reference" />
+    <attr name="chipDelete" format="reference" />
+    <attr name="chipFontSize" format="reference" />
+    <attr name="chipHeight" format="reference" />
+    <attr name="chipPadding" format="reference" />
+    <attr name="disableDelete" format="boolean" />
+    <attr name="invalidChipBackground" format="reference" />
+    <attr name="imageSpanAlignment">
+        <enum name="baseline" value="1" />
+        <enum name="bottom" value="0" />
+    </attr>
+    <attr name="unselectedChipBackgroundColor" format="color" />
+    <attr name="unselectedChipTextColor" format="color" />
+    <attr name="segment_label" format="string" />
+    <attr name="expandable_line_max" format="integer" />
+    <attr name="count_days" format="integer" />
+    <attr name="label_marginStart" format="dimension" />
+    <attr name="draw_hours" format="boolean" />
+    <attr name="draw_month_label" format="boolean" />
+    <attr name="label_color" format="color" />
+    <attr name="dropdown_label_color" format="color" />
+    <attr name="unlisted_color_label" format="string" />
+    <attr name="bt_layout_maxWidth" format="boolean" />
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="rowCount" format="integer" />
+    <attr name="columnCount" format="integer" />
+    <attr name="useDefaultMargins" format="boolean" />
+    <attr name="alignmentMode">
+        <enum name="alignBounds" value="0" />
+        <enum name="alignMargins" value="1" />
+    </attr>
+    <attr name="rowOrderPreserved" format="boolean" />
+    <attr name="columnOrderPreserved" format="boolean" />
+    <attr name="layout_row" format="integer" />
+    <attr name="layout_rowSpan" format="integer" min="1" />
+    <attr name="layout_rowWeight" format="float" />
+    <attr name="layout_column" format="integer" />
+    <attr name="layout_columnSpan" format="integer" min="1" />
+    <attr name="layout_columnWeight" format="float" />
+    <attr name="layout_gravity">
+        <flag name="end" value="0x00800005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="layout_spaceStart" format="dimension" />
+    <attr name="layout_spaceEnd" format="dimension" />
+    <attr name="layout_spaceBetween" format="dimension" />
+    <attr name="layout_maxItemWidthHint" format="dimension" />
+    <attr name="annotate_location_timezone" format="string" />
+    <attr name="date_format">
+        <enum name="ShowTime" value="2" />
+        <enum name="ShowWeekdayDate" value="1" />
+        <enum name="ShowWeekdayDateTime" value="0" />
+    </attr>
+    <attr name="show_place_name" format="boolean" />
+</resources>

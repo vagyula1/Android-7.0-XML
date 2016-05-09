@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f Saniyə</item>
+        <item quantity="one">1 Saniyə</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d etiket yeniləndi</item>
+        <item quantity="zero">Yeni etiket yoxdur</item>
+        <item quantity="one">1 etiket yeniləndi</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d düyməsi təyin olunub</item>
+        <item quantity="one">%d düyməsi təyin olunub</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s %2$d element göstərir.</item>
+        <item quantity="one">%1$s showing %2$d item.</item>
+    </plurals>
+</resources>

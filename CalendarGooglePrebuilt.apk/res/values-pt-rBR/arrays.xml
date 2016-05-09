@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notific.</item>
+        <item>e-mail</item>
+        <item>SMS</item>
+        <item>alarme</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Nenhum</item>
+        <item>0 minutos</item>
+        <item>Um minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>Uma hora</item>
+        <item>Duas horas</item>
+        <item>Três horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>Dois dias</item>
+        <item>Uma semana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado(a)</item>
+        <item>Disponível</item>
+        <item>Tentativa</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primeiro(a)</item>
+        <item>segundo(a)</item>
+        <item>terceiro(a)</item>
+        <item>quarto(a)</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ainda não respondeu</item>
+        <item>vai</item>
+        <item>talvez</item>
+        <item>não vai</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Este evento</item>
+        <item>Todos os eventos seguintes</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Este evento e eventos futuros</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Somente este evento</item>
+        <item>Todos os eventos da série</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+        <item>Compromissos</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Ocupado</item>
+        <item>Disponível</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomate</item>
+        <item>Tangerina</item>
+        <item>Abóbora</item>
+        <item>Manga</item>
+        <item>Banana</item>
+        <item>Limão</item>
+        <item>Abacate</item>
+        <item>Pistache</item>
+        <item>Manjericão</item>
+        <item>Eucalipto</item>
+        <item>Sálvia</item>
+        <item>Pavão</item>
+        <item>Cobalto</item>
+        <item>Mirtilo</item>
+        <item>Lavanda</item>
+        <item>Glicínia</item>
+        <item>Ametista</item>
+        <item>Uva</item>
+        <item>Magenta</item>
+        <item>Cerejeira</item>
+        <item>Flamingo</item>
+        <item>Chocolate</item>
+        <item>Grafite</item>
+        <item>Bétula</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Chegarei c/ alguns mins. de atraso.</item>
+        <item>Chegarei em cerca de 10 minutos.</item>
+        <item>Vá em frente e comece sem mim.</item>
+        <item>Desculpe, não chegarei. Precisaremos remarcar.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Agenda</item>
+        <item>Bonito e fácil de pesquisar</item>
+        <item>Preencha sua agenda de forma rápida e fácil</item>
+        <item>Eventos do Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Aproveite ao máximo cada dia.</item>
+        <item>Visualização de programação com imagens e mapas na sua agenda.</item>
+        <item>Ajuda com sugestões de títulos, contatos e lugares conforme você digita.</item>
+        <item>Reservas de voos, restaurantes e muito mais, adicionados automaticamente a partir de e-mails.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Usa a localização do dispositivo.</item>
+        <item></item>
+        <item>Você pode mudar isso em \"Ajustes\".</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Adicione pessoas, receba informações de contato</item>
+        <item>{LOCATION_ICON} Adicione lugares, encontre rotas</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Com quem?</item>
+        <item>Adicione alguém, receba informações de contato</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}A simples adição dos contatos não envia os convites</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Onde?</item>
+        <item>Adicione um local, encontre rotas</item>
+    </string-array>
+</resources>

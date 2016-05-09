@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.AdvancedSearch_SpinnerBase" parent="@android:style/Widget.Material.Light.Spinner" />
+    <style name="TextAppearance.EditEvent_SpinnerBase" parent="@android:style/Widget.Material.Light.Spinner" />
+    <style name="EditEvent_LayoutBase" parent="@android:style/Theme.Material.Light" />
+    <style name="CalendarThemeBase" parent="@android:style/Theme.Material.Light" />
+    <style name="CalendarThemeNoActionBar" parent="@android:style/Theme.Material.NoActionBar" />
+    <style name="CalendarThemeDialog" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="PreferencesThemeBase" parent="@android:style/Theme.Material.Light" />
+    <style name="PreferencesTheme" parent="@style/PreferencesThemeBase">
+        <item name="android:actionBarStyle">@style/ActionBarBaseStyle.Preferences</item>
+        <item name="android:colorPrimary">@color/timely_background_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:colorEdgeEffect">@android:color/darker_gray</item>
+    </style>
+    <style name="ActionBarBaseStyle" parent="@android:style/Widget.Material.Light.ActionBar.Solid" />
+    <style name="ActionBarBaseStyle.Preferences" parent="@style/ActionBarBaseStyle">
+        <item name="android:displayOptions">homeAsUp|showTitle</item>
+    </style>
+    <style name="CalendarTheme.BaseBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="CalendarTheme.AllInOneActivity" parent="@style/CalendarTheme.BaseTheme">
+        <item name="android:colorPrimary">@color/timely_background_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:colorEdgeEffect">@android:color/darker_gray</item>
+    </style>
+    <style name="CalendarTheme.WithActionBar" parent="@style/CalendarTheme.BaseTheme">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:colorPrimary">@color/timely_background_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:colorEdgeEffect">@android:color/darker_gray</item>
+    </style>
+    <style name="DetailsThemeBase" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="DetailsThemeCommon" parent="@style/DetailsThemeBase">
+        <item name="android:windowBackground">@color/transparent_background_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:dropDownListViewStyle">@style/NoDropDownDividers</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorPrimary">@color/timely_background_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/details_status_bar_color</item>
+        <item name="android:colorEdgeEffect">@android:color/darker_gray</item>
+    </style>
+    <style name="DayPopUpThemeBase" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="BundleActionBarV21">
+        <item name="android:background">@color/timely_background_color</item>
+        <item name="android:elevation">@dimen/actionbar_elevation</item>
+    </style>
+    <style name="BundleActionBarSeparatorV21">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="NoDropDownDividersBase" parent="@android:style/Widget.Material.ListView.DropDown" />
+    <style name="NotificationSecondaryTextBase" parent="@android:style/TextAppearance.Material" />
+    <style name="TextAppearance.Recurrence_SpinnerButton" parent="@android:style/Widget.Material.Light.Spinner" />
+    <style name="CalendarButton">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Card">
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:elevation">@dimen/card_elevation</item>
+    </style>
+</resources>

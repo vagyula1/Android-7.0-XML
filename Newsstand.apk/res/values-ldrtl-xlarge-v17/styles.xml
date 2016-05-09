@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardArticleItemText.Headline.Magazine" parent="@style/CardArticleItemText.Headline">
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="CardClusterItemHeaderText.SportsScore" parent="@style/PlayMediumBoldText">
+        <item name="android:textSize">45.0dip</item>
+        <item name="android:textColor">@color/play_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+    <style name="CardSpan.ArticleClusterCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,2</item>
+    </style>
+    <style name="CardSpan.ArticleClusterCard.SportsClusterCard" parent="@style/CardSpan.ArticleClusterCard">
+        <item name="layoutSpans">2,2</item>
+    </style>
+    <style name="CardSpan.BigCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,1|2,2</item>
+    </style>
+    <style name="CardSpan.TallCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,2</item>
+    </style>
+    <style name="CardSpan.WideCard" parent="@style/CardSpan">
+        <item name="layoutSpans">2,1</item>
+    </style>
+    <style name="CardClusterItemHeaderText.SportsTeamName" parent="@style/CardClusterItemHeaderText">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/play_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+</resources>

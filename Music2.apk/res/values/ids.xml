@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="BindAdapter_viewA11yCardCount" />
+    <item type="id" name="BindAdapter_viewEqualityFields" />
+    <item type="id" name="BindAdapter_viewGenerator" />
+    <item type="id" name="BindAdapter_viewResId" />
+    <item type="id" name="CardListBuilder_group" />
+    <item type="id" name="CardListBuilder_groupProvider" />
+    <item type="id" name="CardListBuilder_rowId" />
+    <item type="id" name="EditableAdapterView_isEditable" />
+    <item type="id" name="EditableAdapterView_isRemovable" />
+    <item type="id" name="GridGroup_columnSpan" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="bind__card_group_parent" />
+    <item type="id" name="bind__tagDataPagerAdapterObject" />
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="expando_hero" />
+    <item type="id" name="expando_logo" />
+    <item type="id" name="expando_splash" />
+    <item type="id" name="flm_paddingEnd" />
+    <item type="id" name="flm_paddingStart" />
+    <item type="id" name="flm_width" />
+    <item type="id" name="home" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="lb_control_closed_captioning" />
+    <item type="id" name="lb_control_fast_forward" />
+    <item type="id" name="lb_control_fast_rewind" />
+    <item type="id" name="lb_control_high_quality" />
+    <item type="id" name="lb_control_more_actions" />
+    <item type="id" name="lb_control_play_pause" />
+    <item type="id" name="lb_control_repeat" />
+    <item type="id" name="lb_control_shuffle" />
+    <item type="id" name="lb_control_skip_next" />
+    <item type="id" name="lb_control_skip_previous" />
+    <item type="id" name="lb_control_thumbs_down" />
+    <item type="id" name="lb_control_thumbs_up" />
+    <item type="id" name="lb_focus_animator" />
+    <item type="id" name="lb_guidedstep_background" />
+    <item type="id" name="lb_image_download_task_tag" />
+    <item type="id" name="lb_shadow_impl" />
+    <item type="id" name="lb_slide_transition_value" />
+    <item type="id" name="li_ad_creative" />
+    <item type="id" name="menu_add_to_my_library" />
+    <item type="id" name="menu_add_to_playlist" />
+    <item type="id" name="menu_add_to_queue" />
+    <item type="id" name="menu_buy" />
+    <item type="id" name="menu_clear_queue" />
+    <item type="id" name="menu_delete" />
+    <item type="id" name="menu_dismiss" />
+    <item type="id" name="menu_edit_playlist" />
+    <item type="id" name="menu_find_video" />
+    <item type="id" name="menu_follow_playlist" />
+    <item type="id" name="menu_go_to_album" />
+    <item type="id" name="menu_go_to_artist" />
+    <item type="id" name="menu_keep_on_device" />
+    <item type="id" name="menu_play_next" />
+    <item type="id" name="menu_remove_from_my_library" />
+    <item type="id" name="menu_save_queue" />
+    <item type="id" name="menu_share" />
+    <item type="id" name="menu_shop_this_artist" />
+    <item type="id" name="menu_shuffle" />
+    <item type="id" name="menu_shuffle_artist" />
+    <item type="id" name="menu_start_instant_mix" />
+    <item type="id" name="menu_start_radio" />
+    <item type="id" name="menu_start_video" />
+    <item type="id" name="pager" />
+    <item type="id" name="play_header_listview" />
+    <item type="id" name="play_header_spacer" />
+    <item type="id" name="play_header_viewpager" />
+    <item type="id" name="play_onboard__OnboardPage_pageId" />
+    <item type="id" name="play_onboard__OnboardPage_pageInfo" />
+    <item type="id" name="play_onboard__OnboardPagerAdapter_pageGenerator" />
+    <item type="id" name="play_onboard__OnboardSimpleQuizPage_title" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_backgroundColor" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_bodyText" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_iconDrawableId" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_titleText" />
+    <item type="id" name="play_onboard_background" />
+    <item type="id" name="play_onboard_overlay" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="top_charts_header_card_document_tag" />
+    <item type="id" name="top_charts_header_card_position_tag" />
+    <item type="id" name="transitionPosition" />
+    <item type="id" name="tutorial_account_picker_position_tag" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollIndicatorUp">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="scrollIndicatorDown">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="metadata_container">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="fab_play">false</item>
+    <item type="id" name="radio_button">false</item>
+    <item type="id" name="share_button">false</item>
+    <item type="id" name="artist_header_root">false</item>
+    <item type="id" name="artist_art">false</item>
+    <item type="id" name="quiz_art">false</item>
+    <item type="id" name="quiz_name">false</item>
+    <item type="id" name="quiz_checkbox">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="titleandbuttons">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="line2">false</item>
+    <item type="id" name="playpause">false</item>
+    <item type="id" name="ad_frame">false</item>
+    <item type="id" name="ads_view">false</item>
+    <item type="id" name="drawer_container">false</item>
+    <item type="id" name="parent_content">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="ad_content">false</item>
+    <item type="id" name="bottom_drawer">false</item>
+    <item type="id" name="content_container">false</item>
+    <item type="id" name="gray_block">false</item>
+    <item type="id" name="place_holder">false</item>
+    <item type="id" name="create_instant_mix">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="mix_image">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="playlist_name">false</item>
+    <item type="id" name="playlist_description">false</item>
+    <item type="id" name="public_playlist_section">false</item>
+    <item type="id" name="text_view_public">false</item>
+    <item type="id" name="text_view_public_description">false</item>
+    <item type="id" name="switch_button">false</item>
+    <item type="id" name="play_card">false</item>
+    <item type="id" name="li_radio_image">false</item>
+    <item type="id" name="li_title">false</item>
+    <item type="id" name="li_description">false</item>
+    <item type="id" name="li_play_button">false</item>
+    <item type="id" name="li_overflow">false</item>
+    <item type="id" name="li_pin_button">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="curated_radio_rv">false</item>
+    <item type="id" name="downloading_icon">false</item>
+    <item type="id" name="type_icon">false</item>
+    <item type="id" name="empty_icon">false</item>
+    <item type="id" name="empty_header">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="learn_more">false</item>
+    <item type="id" name="empty_spinner">false</item>
+    <item type="id" name="start_sound_search">false</item>
+    <item type="id" name="padding_view">false</item>
+    <item type="id" name="explore_card_image">false</item>
+    <item type="id" name="explore_card_title">false</item>
+    <item type="id" name="explore_card_description">false</item>
+    <item type="id" name="video_upsell_container">false</item>
+    <item type="id" name="video_ads_upsell_textview">false</item>
+    <item type="id" name="video_ads_upsell_button">false</item>
+    <item type="id" name="videoPlayerWithAdPlayback">false</item>
+    <item type="id" name="video_player_container">false</item>
+    <item type="id" name="videoPlayer">false</item>
+    <item type="id" name="genre_name">false</item>
+    <item type="id" name="genre_art">false</item>
+    <item type="id" name="grid_content">false</item>
+    <item type="id" name="progress_container">false</item>
+    <item type="id" name="header_button_container">false</item>
+    <item type="id" name="header_icon">false</item>
+    <item type="id" name="header_button">false</item>
+    <item type="id" name="accessibility_overlay">false</item>
+    <item type="id" name="info_card_title">false</item>
+    <item type="id" name="info_card_content">false</item>
+    <item type="id" name="confirm_btn">false</item>
+    <item type="id" name="ignore_btn">false</item>
+    <item type="id" name="lb_action_button">false</item>
+    <item type="id" name="browse_dummy">false</item>
+    <item type="id" name="browse_frame">false</item>
+    <item type="id" name="browse_container_dock">false</item>
+    <item type="id" name="browse_headers_dock">false</item>
+    <item type="id" name="browse_title_group">false</item>
+    <item type="id" name="info_field">false</item>
+    <item type="id" name="title_text">false</item>
+    <item type="id" name="content_text">false</item>
+    <item type="id" name="art_work">false</item>
+    <item type="id" name="control_bar">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="lb_details_description_title">false</item>
+    <item type="id" name="lb_details_description_subtitle">false</item>
+    <item type="id" name="lb_details_description_body">false</item>
+    <item type="id" name="dummy">false</item>
+    <item type="id" name="details_fragment_root">false</item>
+    <item type="id" name="details_rows_dock">false</item>
+    <item type="id" name="details_frame">false</item>
+    <item type="id" name="details_overview">false</item>
+    <item type="id" name="details_overview_image">false</item>
+    <item type="id" name="details_overview_right_panel">false</item>
+    <item type="id" name="details_overview_description">false</item>
+    <item type="id" name="details_overview_actions">false</item>
+    <item type="id" name="selector">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="action_checkmark">false</item>
+    <item type="id" name="action_icon">false</item>
+    <item type="id" name="action_content">false</item>
+    <item type="id" name="action_title">false</item>
+    <item type="id" name="action_description">false</item>
+    <item type="id" name="action_next_chevron">false</item>
+    <item type="id" name="shadow_layout">false</item>
+    <item type="id" name="breadcrumb">false</item>
+    <item type="id" name="content_frame">false</item>
+    <item type="id" name="content_fragment">false</item>
+    <item type="id" name="action_fragment">false</item>
+    <item type="id" name="error_frame">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="details_root">false</item>
+    <item type="id" name="details_overview_actions_background">false</item>
+    <item type="id" name="guidance_icon">false</item>
+    <item type="id" name="guidance_title">false</item>
+    <item type="id" name="guidance_breadcrumb">false</item>
+    <item type="id" name="guidance_description">false</item>
+    <item type="id" name="guidedactions_background">false</item>
+    <item type="id" name="guidedactions_selector">false</item>
+    <item type="id" name="guidedactions_list">false</item>
+    <item type="id" name="guidedactions_item_checkmark">false</item>
+    <item type="id" name="guidedactions_item_icon">false</item>
+    <item type="id" name="guidedactions_item_content">false</item>
+    <item type="id" name="guidedactions_item_title">false</item>
+    <item type="id" name="guidedactions_item_description">false</item>
+    <item type="id" name="guidedactions_item_chevron">false</item>
+    <item type="id" name="guidedstep_background">false</item>
+    <item type="id" name="row_header">false</item>
+    <item type="id" name="browse_headers_root">false</item>
+    <item type="id" name="browse_headers">false</item>
+    <item type="id" name="fade_out_edge">false</item>
+    <item type="id" name="main_image">false</item>
+    <item type="id" name="extra_badge">false</item>
+    <item type="id" name="row_content">false</item>
+    <item type="id" name="hovercard_panel">false</item>
+    <item type="id" name="playback_progress">false</item>
+    <item type="id" name="controls_container_focus_wrapper">false</item>
+    <item type="id" name="controls_container">false</item>
+    <item type="id" name="control_bar_focus_wrapper">false</item>
+    <item type="id" name="more_actions_dock">false</item>
+    <item type="id" name="current_time">false</item>
+    <item type="id" name="total_time">false</item>
+    <item type="id" name="controls_card">false</item>
+    <item type="id" name="controls_card_right_panel">false</item>
+    <item type="id" name="description_dock">false</item>
+    <item type="id" name="controls_dock">false</item>
+    <item type="id" name="secondary_controls_dock">false</item>
+    <item type="id" name="bottom_spacer">false</item>
+    <item type="id" name="lb_row_container_header_dock">false</item>
+    <item type="id" name="scale_frame">false</item>
+    <item type="id" name="container_list">false</item>
+    <item type="id" name="lb_search_bar_speech_orb">false</item>
+    <item type="id" name="lb_search_bar_items">false</item>
+    <item type="id" name="lb_search_bar_badge">false</item>
+    <item type="id" name="lb_search_text_editor">false</item>
+    <item type="id" name="lb_search_frame">false</item>
+    <item type="id" name="lb_results_frame">false</item>
+    <item type="id" name="lb_search_bar">false</item>
+    <item type="id" name="search_orb">false</item>
+    <item type="id" name="lb_shadow_normal">false</item>
+    <item type="id" name="lb_shadow_focused">false</item>
+    <item type="id" name="title_badge">false</item>
+    <item type="id" name="title_orb">false</item>
+    <item type="id" name="browse_grid">false</item>
+    <item type="id" name="grid_frame">false</item>
+    <item type="id" name="browse_grid_dock">false</item>
+    <item type="id" name="frame">false</item>
+    <item type="id" name="album_wall">false</item>
+    <item type="id" name="image_card_view">false</item>
+    <item type="id" name="image_card_overlay">false</item>
+    <item type="id" name="now_playing_bars">false</item>
+    <item type="id" name="selection_circle">false</item>
+    <item type="id" name="orange_backdrop">false</item>
+    <item type="id" name="no_search_results">false</item>
+    <item type="id" name="song_row_separator">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="song_row_selector">false</item>
+    <item type="id" name="song_row">false</item>
+    <item type="id" name="song_details">false</item>
+    <item type="id" name="track_playing_icon">false</item>
+    <item type="id" name="track_number">false</item>
+    <item type="id" name="track_title">false</item>
+    <item type="id" name="track_artist">false</item>
+    <item type="id" name="track_duration">false</item>
+    <item type="id" name="song_radio">false</item>
+    <item type="id" name="track_radio_icon">false</item>
+    <item type="id" name="subsituation_option_art">false</item>
+    <item type="id" name="subsituation_option_title">false</item>
+    <item type="id" name="subsituation_option_description">false</item>
+    <item type="id" name="subsituation">false</item>
+    <item type="id" name="subsituation_row_separator">false</item>
+    <item type="id" name="subsituation_title">false</item>
+    <item type="id" name="top_subsituation">false</item>
+    <item type="id" name="situation_title">false</item>
+    <item type="id" name="situation_description">false</item>
+    <item type="id" name="subsituation_background">false</item>
+    <item type="id" name="suggested_query">false</item>
+    <item type="id" name="suggested_query_text_wrapper">false</item>
+    <item type="id" name="suggested_query_text">false</item>
+    <item type="id" name="first_column_icon">false</item>
+    <item type="id" name="second_column_icon">false</item>
+    <item type="id" name="play_indicator">false</item>
+    <item type="id" name="left_content">false</item>
+    <item type="id" name="touch_delegate">false</item>
+    <item type="id" name="track_text">false</item>
+    <item type="id" name="line3">false</item>
+    <item type="id" name="card_title">false</item>
+    <item type="id" name="card_content">false</item>
+    <item type="id" name="action">false</item>
+    <item type="id" name="li_avatar">false</item>
+    <item type="id" name="li_subtitle">false</item>
+    <item type="id" name="li_title_bg">false</item>
+    <item type="id" name="li_reason_1">false</item>
+    <item type="id" name="transition_content_wrapper">false</item>
+    <item type="id" name="li_thumbnail_frame">false</item>
+    <item type="id" name="li_center_icon">false</item>
+    <item type="id" name="loading_progress">false</item>
+    <item type="id" name="situation_failure">false</item>
+    <item type="id" name="situation_header">false</item>
+    <item type="id" name="situation_sub_title">false</item>
+    <item type="id" name="top_situations">false</item>
+    <item type="id" name="device_group_title">false</item>
+    <item type="id" name="device_art">false</item>
+    <item type="id" name="close_btn">false</item>
+    <item type="id" name="device_name">false</item>
+    <item type="id" name="last_used_time">false</item>
+    <item type="id" name="storage_usage_view">false</item>
+    <item type="id" name="library_button">false</item>
+    <item type="id" name="added_library_button">false</item>
+    <item type="id" name="description_read_more">false</item>
+    <item type="id" name="full_description">false</item>
+    <item type="id" name="full_description_attribution">false</item>
+    <item type="id" name="thumbs_up_upsell">false</item>
+    <item type="id" name="container_art">false</item>
+    <item type="id" name="title_area">false</item>
+    <item type="id" name="play_header_list">false</item>
+    <item type="id" name="container_metadata">false</item>
+    <item type="id" name="profile_pic">false</item>
+    <item type="id" name="pin_button">false</item>
+    <item type="id" name="subtitle">false</item>
+    <item type="id" name="album_year">false</item>
+    <item type="id" name="album_year_hyphen">false</item>
+    <item type="id" name="song_count">false</item>
+    <item type="id" name="overflow">false</item>
+    <item type="id" name="upsell_button">false</item>
+    <item type="id" name="duration">false</item>
+    <item type="id" name="fade_overlay">false</item>
+    <item type="id" name="left_grabber">false</item>
+    <item type="id" name="audio_output_picker">false</item>
+    <item type="id" name="mr_chooser_list">false</item>
+    <item type="id" name="mr_chooser_route_icon">false</item>
+    <item type="id" name="mr_chooser_route_name">false</item>
+    <item type="id" name="mr_chooser_route_desc">false</item>
+    <item type="id" name="mr_title_bar">false</item>
+    <item type="id" name="mr_name">false</item>
+    <item type="id" name="mr_close">false</item>
+    <item type="id" name="mr_custom_control">false</item>
+    <item type="id" name="mr_default_control">false</item>
+    <item type="id" name="mr_art">false</item>
+    <item type="id" name="mr_volume_group_list">false</item>
+    <item type="id" name="mr_media_main_control">false</item>
+    <item type="id" name="mr_playback_control">false</item>
+    <item type="id" name="mr_control_divider">false</item>
+    <item type="id" name="mr_volume_control">false</item>
+    <item type="id" name="mr_volume_item_icon">false</item>
+    <item type="id" name="mr_volume_slider">false</item>
+    <item type="id" name="mr_control_play_pause">false</item>
+    <item type="id" name="mr_control_title">false</item>
+    <item type="id" name="mr_control_subtitle">false</item>
+    <item type="id" name="mr_group_expand_collapse">false</item>
+    <item type="id" name="li_card_number">false</item>
+    <item type="id" name="li_thumbnail_reason">false</item>
+    <item type="id" name="li_reason">false</item>
+    <item type="id" name="li_reason_2">false</item>
+    <item type="id" name="li_duration">false</item>
+    <item type="id" name="music_menu">false</item>
+    <item type="id" name="music_menu_scroll_container">false</item>
+    <item type="id" name="music_menu_list">false</item>
+    <item type="id" name="left_icon">false</item>
+    <item type="id" name="right_icon">false</item>
+    <item type="id" name="progressContainer">false</item>
+    <item type="id" name="listContainer">false</item>
+    <item type="id" name="okayButton">false</item>
+    <item type="id" name="cancelButton">false</item>
+    <item type="id" name="header_view">false</item>
+    <item type="id" name="close_icon">false</item>
+    <item type="id" name="button_frame">false</item>
+    <item type="id" name="button_row">false</item>
+    <item type="id" name="thumbs_up_unselected">false</item>
+    <item type="id" name="thumbs_up_selected">false</item>
+    <item type="id" name="prev">false</item>
+    <item type="id" name="play">false</item>
+    <item type="id" name="pause">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="thumbs_down_unselected">false</item>
+    <item type="id" name="thumbs_down_selected">false</item>
+    <item type="id" name="disabled_frame">false</item>
+    <item type="id" name="widget_frame">false</item>
+    <item type="id" name="albumart">false</item>
+    <item type="id" name="buttons">false</item>
+    <item type="id" name="info_frame">false</item>
+    <item type="id" name="artist_frame">false</item>
+    <item type="id" name="trackname">false</item>
+    <item type="id" name="dash">false</item>
+    <item type="id" name="artist">false</item>
+    <item type="id" name="album">false</item>
+    <item type="id" name="heading_text">false</item>
+    <item type="id" name="other_ways_to_play_list">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="add_music_list_icon">false</item>
+    <item type="id" name="add_music_list_text_1">false</item>
+    <item type="id" name="add_music_list_text_2">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="youtube_overlay">false</item>
+    <item type="id" name="youtube_play_red">false</item>
+    <item type="id" name="youtube_widget_text">false</item>
+    <item type="id" name="youtube_widget_white">false</item>
+    <item type="id" name="header_metadata">false</item>
+    <item type="id" name="album_small">false</item>
+    <item type="id" name="youtube_tiny_icon">false</item>
+    <item type="id" name="header_text">false</item>
+    <item type="id" name="artistname">false</item>
+    <item type="id" name="overlay_ads_view">false</item>
+    <item type="id" name="header_pager">false</item>
+    <item type="id" name="play_controls">false</item>
+    <item type="id" name="art_pager">false</item>
+    <item type="id" name="media_route_picker">false</item>
+    <item type="id" name="currenttime">false</item>
+    <item type="id" name="repeat">false</item>
+    <item type="id" name="shuffle">false</item>
+    <item type="id" name="top_wrapper_right">false</item>
+    <item type="id" name="queue_switcher">false</item>
+    <item type="id" name="play_pause_header">false</item>
+    <item type="id" name="totaltime">false</item>
+    <item type="id" name="lightsUpInterceptor">false</item>
+    <item type="id" name="tablet_header">false</item>
+    <item type="id" name="tablet_collapsed_play_controls">false</item>
+    <item type="id" name="play_queue_wrapper">false</item>
+    <item type="id" name="queue_header_view">false</item>
+    <item type="id" name="play_queue">false</item>
+    <item type="id" name="btn_close_ads">false</item>
+    <item type="id" name="ads_view_container">false</item>
+    <item type="id" name="overlay_ads_view_shadow">false</item>
+    <item type="id" name="pf_view_pager">false</item>
+    <item type="id" name="li_ad_label_container">false</item>
+    <item type="id" name="li_ad_label">false</item>
+    <item type="id" name="play_card_cluster">false</item>
+    <item type="id" name="cluster_content">false</item>
+    <item type="id" name="cluster_header">false</item>
+    <item type="id" name="header_title_main">false</item>
+    <item type="id" name="header_title_secondary">false</item>
+    <item type="id" name="header_more">false</item>
+    <item type="id" name="li_thumbnail">false</item>
+    <item type="id" name="li_rating">false</item>
+    <item type="id" name="li_label">false</item>
+    <item type="id" name="li_snippet_2">false</item>
+    <item type="id" name="li_snippet_1">false</item>
+    <item type="id" name="loading_progress_bar">false</item>
+    <item type="id" name="rating_badge_container">false</item>
+    <item type="id" name="li_badge">false</item>
+    <item type="id" name="li_snippet_avatar">false</item>
+    <item type="id" name="li_snippet_text">false</item>
+    <item type="id" name="thumbsup">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="account_name">false</item>
+    <item type="id" name="play_drawer_root">false</item>
+    <item type="id" name="play_drawer_list">false</item>
+    <item type="id" name="play_drawer_docked_action">false</item>
+    <item type="id" name="action_text">false</item>
+    <item type="id" name="mini_account_name">false</item>
+    <item type="id" name="mini_display_name">false</item>
+    <item type="id" name="mini_toggle_account_list_button">false</item>
+    <item type="id" name="cover_photo">false</item>
+    <item type="id" name="secondary_avatar_frame_left">false</item>
+    <item type="id" name="secondary_avatar_left">false</item>
+    <item type="id" name="secondary_avatar_frame_right">false</item>
+    <item type="id" name="secondary_avatar_right">false</item>
+    <item type="id" name="account_info_container">false</item>
+    <item type="id" name="display_name">false</item>
+    <item type="id" name="toggle_account_list_button">false</item>
+    <item type="id" name="play_happiness_survey">false</item>
+    <item type="id" name="play_happiness_survey_header">false</item>
+    <item type="id" name="play_happiness_survey_question">false</item>
+    <item type="id" name="play_happiness_survey_answer_option_container">false</item>
+    <item type="id" name="text_content">false</item>
+    <item type="id" name="background_container">false</item>
+    <item type="id" name="alt_play_background">false</item>
+    <item type="id" name="hero_container">false</item>
+    <item type="id" name="tab_bar">false</item>
+    <item type="id" name="pager_tab_strip">false</item>
+    <item type="id" name="play_header_list_tab_scroll">false</item>
+    <item type="id" name="play_header_list_tab_container">false</item>
+    <item type="id" name="tab_bar_title">false</item>
+    <item type="id" name="header_shadow">false</item>
+    <item type="id" name="toolbar_container">false</item>
+    <item type="id" name="play_header_status_bar_underlay">false</item>
+    <item type="id" name="play_header_banner">false</item>
+    <item type="id" name="swipe_refresh_layout_parent">false</item>
+    <item type="id" name="swipe_refresh_layout">false</item>
+    <item type="id" name="scroll_proxy">false</item>
+    <item type="id" name="play_header_toolbar">false</item>
+    <item type="id" name="play_onboard_pager">false</item>
+    <item type="id" name="play_onboard_footer">false</item>
+    <item type="id" name="play_onboard_drops">false</item>
+    <item type="id" name="caption">false</item>
+    <item type="id" name="start_button">false</item>
+    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="end_button">false</item>
+    <item type="id" name="card_list">false</item>
+    <item type="id" name="splash">false</item>
+    <item type="id" name="app_logo">false</item>
+    <item type="id" name="background_disk">false</item>
+    <item type="id" name="play_search">false</item>
+    <item type="id" name="play_search_overlay">false</item>
+    <item type="id" name="play_search_container">false</item>
+    <item type="id" name="play_search_plate">false</item>
+    <item type="id" name="play_search_suggestions_list">false</item>
+    <item type="id" name="text_frame">false</item>
+    <item type="id" name="suggest_text">false</item>
+    <item type="id" name="navigation_button">false</item>
+    <item type="id" name="text_container">false</item>
+    <item type="id" name="search_box_idle_text">false</item>
+    <item type="id" name="search_box_active_text_view">false</item>
+    <item type="id" name="search_box_text_input">false</item>
+    <item type="id" name="action_button">false</item>
+    <item type="id" name="search_suggestions_list">false</item>
+    <item type="id" name="search_suggestions_header">false</item>
+    <item type="id" name="suggestion_list_recycler_view">false</item>
+    <item type="id" name="list_item_icon">false</item>
+    <item type="id" name="list_item_text">false</item>
+    <item type="id" name="play_tutorial_header_title">false</item>
+    <item type="id" name="play_tutorial_header_body_stub">false</item>
+    <item type="id" name="play_tutorial_header_body">false</item>
+    <item type="id" name="play_tutorial_header_actions">false</item>
+    <item type="id" name="popup_selector">false</item>
+    <item type="id" name="popup_list">false</item>
+    <item type="id" name="refresh_button">false</item>
+    <item type="id" name="playing_from">false</item>
+    <item type="id" name="container_info">false</item>
+    <item type="id" name="btn_skip">false</item>
+    <item type="id" name="btn_next">false</item>
+    <item type="id" name="quiz_description">false</item>
+    <item type="id" name="grid_fragment">false</item>
+    <item type="id" name="container_bg">false</item>
+    <item type="id" name="single_container_image">false</item>
+    <item type="id" name="view_flipper">false</item>
+    <item type="id" name="artist_art_top">false</item>
+    <item type="id" name="artist_art_bottom">false</item>
+    <item type="id" name="rating_views">false</item>
+    <item type="id" name="ratingThumbs">false</item>
+    <item type="id" name="thumbsdown">false</item>
+    <item type="id" name="card_1">false</item>
+    <item type="id" name="card_2">false</item>
+    <item type="id" name="card_3">false</item>
+    <item type="id" name="empty_screen">false</item>
+    <item type="id" name="action_resubscribe">false</item>
+    <item type="id" name="action_no_thanks">false</item>
+    <item type="id" name="description_text">false</item>
+    <item type="id" name="add_account_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="show_more_btn_container">false</item>
+    <item type="id" name="btn_show_more">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="shuffle_all_icon">false</item>
+    <item type="id" name="shuffle_all_songs">false</item>
+    <item type="id" name="last_item_line">false</item>
+    <item type="id" name="side_panel_frame">false</item>
+    <item type="id" name="side_panel_list_view">false</item>
+    <item type="id" name="text3">false</item>
+    <item type="id" name="text4">false</item>
+    <item type="id" name="text5">false</item>
+    <item type="id" name="text6">false</item>
+    <item type="id" name="situation_art">false</item>
+    <item type="id" name="try_btn_wrapper">false</item>
+    <item type="id" name="notificationbg">false</item>
+    <item type="id" name="artistalbum">false</item>
+    <item type="id" name="veto">false</item>
+    <item type="id" name="textarea">false</item>
+    <item type="id" name="storage_usage_bar">false</item>
+    <item type="id" name="header_text_other_container">false</item>
+    <item type="id" name="header_tag_other">false</item>
+    <item type="id" name="header_text_other">false</item>
+    <item type="id" name="header_text_music_container">false</item>
+    <item type="id" name="header_tag_music">false</item>
+    <item type="id" name="header_text_music">false</item>
+    <item type="id" name="header_text_free_container">false</item>
+    <item type="id" name="header_tag_free">false</item>
+    <item type="id" name="storage_usage_free_caption">false</item>
+    <item type="id" name="situation_listview">false</item>
+    <item type="id" name="sub_situation_title">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="blue_spacer">false</item>
+    <item type="id" name="nowplaying_bar_container">false</item>
+    <item type="id" name="header_rating_views">false</item>
+    <item type="id" name="top_charts_header_art">false</item>
+    <item type="id" name="top_charts_upsell">false</item>
+    <item type="id" name="header_card_1">false</item>
+    <item type="id" name="header_card_2">false</item>
+    <item type="id" name="header_card_3">false</item>
+    <item type="id" name="header_card_4">false</item>
+    <item type="id" name="header_card_5">false</item>
+    <item type="id" name="divider2">false</item>
+    <item type="id" name="more_button">false</item>
+    <item type="id" name="list_context_menu">false</item>
+    <item type="id" name="keeponselector">false</item>
+    <item type="id" name="left_interaction_icon">false</item>
+    <item type="id" name="sync_progress">false</item>
+    <item type="id" name="account_list_item">false</item>
+    <item type="id" name="account_email">false</item>
+    <item type="id" name="account_list">false</item>
+    <item type="id" name="tutorial_logo">false</item>
+    <item type="id" name="progress_spinner">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="get_offer_spinner">false</item>
+    <item type="id" name="try_nautilus_root">false</item>
+    <item type="id" name="loading_background">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="account_picker">false</item>
+    <item type="id" name="primary_action_button">false</item>
+    <item type="id" name="secondary_action_button">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="tos_text">false</item>
+    <item type="id" name="legal_text">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="cards">false</item>
+    <item type="id" name="offer_text">false</item>
+    <item type="id" name="separator">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="author">false</item>
+    <item type="id" name="details">false</item>
+    <item type="id" name="youtube_view">false</item>
+    <item type="id" name="button_box">false</item>
+    <item type="id" name="positive_button">false</item>
+    <item type="id" name="card_img">false</item>
+    <item type="id" name="no_thanks">false</item>
+    <item type="id" name="yes">false</item>
+    <item type="id" name="buttons_container">false</item>
+    <item type="id" name="wear_progress_pie">false</item>
+    <item type="id" name="wear_manage_downloads_sync_paused">false</item>
+    <item type="id" name="wear_manage_downloads_spinner">false</item>
+    <item type="id" name="wear_manage_downloads_list_view">false</item>
+    <item type="id" name="btn_ifl_widget_background">false</item>
+    <item type="id" name="btn_ifl_radio">false</item>
+    <item type="id" name="btn_ifl_shuffle">false</item>
+    <item type="id" name="pb_ifl">false</item>
+    <item type="id" name="dice_anim">false</item>
+    <item type="id" name="background_theme">false</item>
+    <item type="id" name="background_color">false</item>
+    <item type="id" name="background_imageout">false</item>
+    <item type="id" name="background_imagein">false</item>
+    <item type="id" name="background_dim">false</item>
+    <item type="id" name="download">false</item>
+    <item type="id" name="finish">false</item>
+    <item type="id" name="pressed">false</item>
+    <item type="id" name="manage_download">false</item>
+    <item type="id" name="genre_radio">false</item>
+    <item type="id" name="search">false</item>
+    <item type="id" name="new_station">false</item>
+    <item type="id" name="menu_search">false</item>
+</resources>

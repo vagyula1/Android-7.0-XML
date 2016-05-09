@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f сек</item>
+        <item quantity="one">1 сек</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Ажурирано ознака: %d</item>
+        <item quantity="zero">Нема нових ознака</item>
+        <item quantity="one">1 ознака је ажурирана</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Додељених тастера: %d</item>
+        <item quantity="one">Додељен је %d тастер</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s приказује ставке (%2$d).</item>
+        <item quantity="one">%1$s приказује %2$d ставку.</item>
+    </plurals>
+</resources>

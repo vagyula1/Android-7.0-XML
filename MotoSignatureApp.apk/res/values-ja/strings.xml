@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_registerSmartNotifications">スマート通知に登録</string>
+    <string name="permdesc_registerSmartNotifications">モトローラ署名でログインしたエンドポイントアプリは、スマート通知の同期エンジンに登録が可能</string>
+    <string name="permlab_readNdef">Android Beamデータの読み取り</string>
+    <string name="permdesc_readNdef">別のアプリからのAndroid Beamデータ読み取りが可能</string>
+    <string name="permlab_accessDrm">DRMコンテンツにアクセスする。</string>
+    <string name="permdesc_accessDrm">アプリケーションがDRM保護コンテンツにアクセスすることを許可します。</string>
+    <string name="permlab_volumeSetting">音量設定の定義</string>
+    <string name="permdesc_volumeSetting">音量パネルとハードウェアキーの動作を定義できます</string>
+    <string name="permlab_cameradump">内部カメラの状態を取得</string>
+    <string name="permdesc_cameradump">カメラサービスの内部状態情報を取得することをアプリケーションに許可します。</string>
+    <string name="permdesc_accessCogRadio">無線通信診断データにアクセス</string>
+    <string name="permlab_accessCogRadio">無線通信診断データへのアクセスをアプリに許可します。</string>
+    <string name="permlab_accessCheckin">チェックインプロバイダへのアクセス権</string>
+    <string name="permdesc_accessCheckin">システムアプリによるチェックインプロバイダへのアクセスを許可します。</string>
+</resources>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notification</item>
+        <item>email</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>not yet responded</item>
+        <item>going</item>
+        <item>maybe</item>
+        <item>not going</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>This event</item>
+        <item>All future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>This &amp; future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Only this event</item>
+        <item>All events in the series</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Busy</item>
+        <item>Available</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomato</item>
+        <item>Tangerine</item>
+        <item>Pumpkin</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Citron</item>
+        <item>Avocado</item>
+        <item>Pistachio</item>
+        <item>Basil</item>
+        <item>Eucalyptus</item>
+        <item>Sage</item>
+        <item>Peacock</item>
+        <item>Cobalt</item>
+        <item>Blueberry</item>
+        <item>Lavender</item>
+        <item>Wisteria</item>
+        <item>Amethyst</item>
+        <item>Grape</item>
+        <item>Beetroot</item>
+        <item>Cherry Blossom</item>
+        <item>Flamingo</item>
+        <item>Cocoa</item>
+        <item>Graphite</item>
+        <item>Birch</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Running just a couple of minutes late.</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>South Sudan</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>"Doesn't repeat"</item>
+        <item>Every day</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Every year</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Easy to scan and lovely to look at</item>
+        <item>Fill in your calendar quickly and easily</item>
+        <item>Events from Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Make the most of every day.</item>
+        <item>Schedule View puts images and maps on your calendar.</item>
+        <item>With Assists, suggestions for titles, contacts and places appear as you type.</item>
+        <item>Reservations for flights, restaurants and more, automatically added from emails.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Uses device location.</item>
+        <item></item>
+        <item>You can change this in Settings.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Add people, get contact info</item>
+        <item>{LOCATION_ICON} Add places, get directions</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Who with?</item>
+        <item>Add someone, get contact info</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>"{CHECK_ICON}Adding contacts won't send out an invitation"</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Where?</item>
+        <item>Add a location, get directions</item>
+    </string-array>
+</resources>

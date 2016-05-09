@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Um aplicativo requer a instalação do Google Play Services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Um aplicativo requer a atualização do Google Play Services.</string>
+    <string name="common_google_play_services_needs_enabling_title">Um aplicativo requer a ativação do Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+    <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="common_google_play_services_install_text_tablet">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+    <string name="common_google_play_services_enable_text">Este aplicativo só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+    <string name="common_google_play_services_update_text">Este aplicativo só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_network_error_title">Erro na rede</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_title">Play Services</string>
+    <string name="common_google_play_services_unsupported_text">O Google Play Services, necessário para alguns dos aplicativos, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="common_google_play_services_unsupported_date_text">A data no dispositivo parece incorreta. Verifique a data no dispositivo.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+    <string name="text_quiet">CALMO</string>
+    <string name="text_noisy">RUÍDO</string>
+    <string name="text_loud">ALTO</string>
+    <string name="noise_estimator_title">Níveis de ruído</string>
+    <string name="training_record_1">Diga \"Ok Google\"</string>
+    <string name="training_record_2">Diga \"Ok Google\" novamente</string>
+    <string name="training_record_3">Diga \"Ok Google\" mais uma vez</string>
+    <string name="training_launch_title">Vamos treinar seu telefone</string>
+    <string name="training_record_launch_title">Diga \"Ok Google\"</string>
+    <string name="training_launch_comments_title">Preciso que você:</string>
+    <string name="training_start_comments_1">Vá para um lugar calmo</string>
+    <string name="training_start_comments_2">Mantenha o telefone longe do rosto e fale normalmente</string>
+    <string name="training_start_comments_3">Diga \"Ok Google\" três vezes</string>
+    <string name="training_record">GRAVAR</string>
+    <string name="training_invalid_reneroll_comments">"Alguns dados corrompidos dentro do aplicativo estão impedindo você de treinar novamente.
+
+Para excluir todos os arquivos e treinar novamente, selecione ACEITAR.
+Para continuar com o sistema atual, selecione CANCELAR."</string>
+    <string name="training_recording_cancel">CANCELAR </string>
+    <string name="training_record_again">GRAVE NOVAMENTE</string>
+    <string name="training_try_again_later">TENTE MAIS TARDE</string>
+    <string name="training_accept">ACEITAR</string>
+    <string name="training_record_complete_message">Verificando gravações…</string>
+    <string name="training_record_failed_title">Desculpe…</string>
+    <string name="training_record_failed">O treinamento não pode ser concluído.</string>
+    <string name="training_listening">Ouvindo…</string>
+    <string name="training_recorded">Gravado</string>
+    <string name="training_error">Desculpe, ocorreu algum erro.</string>
+    <string name="training_record_first_error">Esta frase não parece correta. Por favor, diga a frase de forma natural novamente.</string>
+    <string name="training_record_final_error">Ainda não parece correto. Você pode usar esta gravação, mas poderá ter problemas futuramente.</string>
+    <string name="acoustic_file">nn_pt_mfcc_16k_15_big_250_v1_1.raw</string>
+    <string name="phoneme_search">phonemesearch_ptbr_1_0.raw</string>
+    <string name="adapated_moto_acoustic_file">ma_1_okgooglenow_pt_sfs12_delivery2_am.raw</string>
+    <string name="adapated_moto_search_file">ma_1_okgooglenow_pt_sfs12_delivery2_search_8.raw</string>
+    <string name="dsp_adapated_moto_net_file">ma_1_okgooglenow_pt_ma36_delivery2_am.bin</string>
+    <string name="dsp_adapated_moto_grammar_file">ma_1_okgooglenow_pt_ma36_delivery2_search_8.bin</string>
+    <string name="hello_moto_anti_speaker">svsid_triggerogn_ptbr_2_1.raw</string>
+    <string name="udt_anti_speaker">svsid_ptbr_1_0.raw</string>
+    <string name="nuance_acmod_file">acmod4_2500_ptb_gen_car_f16_v1_0_0.dat</string>
+    <string name="nuance_clc_file">clc_ptb_cfg3_v6_0_2.dat</string>
+</resources>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>pemberitahuan</item>
+        <item>email</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Tak Satu Pun</item>
+        <item>0 menit</item>
+        <item>1 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+        <item>2 hari</item>
+        <item>1 minggu</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sabtu</item>
+        <item>Minggu</item>
+        <item>Senin</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Sibuk</item>
+        <item>Ada</item>
+        <item>Sementara</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pertama</item>
+        <item>kedua</item>
+        <item>ketiga</item>
+        <item>keempat</item>
+        <item>terakhir</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>belum ditanggapi</item>
+        <item>hadir</item>
+        <item>mungkin</item>
+        <item>tidak hadir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Acara ini</item>
+        <item>Semua acara berikutnya</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Acara &amp; mendatang ini</item>
+        <item>Semua acara</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Hanya acara ini</item>
+        <item>Semua acara dalam rangkaian</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Hari</item>
+        <item>Minggu</item>
+        <item>Bulan</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Sibuk</item>
+        <item>Tersedia</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomat</item>
+        <item>Jeruk</item>
+        <item>Labu</item>
+        <item>Mangga</item>
+        <item>Pisang</item>
+        <item>Sitrun</item>
+        <item>Avokad</item>
+        <item>Pistacio</item>
+        <item>Selasih</item>
+        <item>Eukaliptus</item>
+        <item>Sage</item>
+        <item>Merak</item>
+        <item>Kobalt</item>
+        <item>Beri biru</item>
+        <item>Lavendel</item>
+        <item>Wisteria</item>
+        <item>Ametis</item>
+        <item>Anggur</item>
+        <item>Radicchio</item>
+        <item>Sakura</item>
+        <item>Flamingo</item>
+        <item>Kakao</item>
+        <item>Grafit</item>
+        <item>Birch</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Dijalankan terlambat beberapa menit.</item>
+        <item>Tiba sekitar 10 menit lagi.</item>
+        <item>Silakan mulai tanpa saya.</item>
+        <item>Maaf, saya tidak bisa. Kita harus menjadwalkan ulang.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australia Tengah - NT</item>
+        <item>Australia Tengah - SA</item>
+        <item>Australia Timur - QLD</item>
+        <item>Australia Timur - NSW</item>
+        <item>Standar Pegunungan - Dawson Creek</item>
+        <item>Standar Tengah - Saskatchewan</item>
+        <item>Standar Timur - Atikokan</item>
+        <item>Standar Atlantik - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Standar Pasifik - Metlakatla</item>
+        <item>Standar Pegunungan - Arizona</item>
+        <item>Pasifik - Baja California</item>
+        <item>Pegunungan - Chihuahua</item>
+        <item>Tengah - Tamaulipas</item>
+        <item>Pegunungan - Sonora</item>
+        <item>Waktu Afrika Timur</item>
+        <item>Waktu Standar Atlantik</item>
+        <item>Waktu Standar Atlantik</item>
+        <item>Waktu Eropa Timur</item>
+        <item>Waktu Kaliningrad</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>Sudan Selatan</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ULANG TIAP HARI</item>
+        <item>ULANG TIAP MINGGU</item>
+        <item>ULANG TIAP BULAN</item>
+        <item>ULANG TIAP TAHUN</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Tidak berulang</item>
+        <item>Setiap hari</item>
+        <item>Setiap minggu</item>
+        <item>Setiap bulan</item>
+        <item>Setiap tahun</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>setiap Minggu pertama</item>
+        <item>setiap Minggu kedua</item>
+        <item>setiap Minggu ketiga</item>
+        <item>setiap Minggu keempat</item>
+        <item>setiap Minggu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>setiap Senin pertama</item>
+        <item>setiap Senin kedua</item>
+        <item>setiap Senin ketiga</item>
+        <item>setiap Senin keempat</item>
+        <item>setiap Senin terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>setiap Selasa pertama</item>
+        <item>setiap Selasa kedua</item>
+        <item>setiap Selasa ketiga</item>
+        <item>setiap Selasa keempat</item>
+        <item>setiap Selasa terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>setiap Rabu pertama</item>
+        <item>setiap Rabu kedua</item>
+        <item>setiap Rabu ketiga</item>
+        <item>setiap Rabu keempat</item>
+        <item>setiap Rabu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>setiap Kamis pertama</item>
+        <item>setiap Kamis kedua</item>
+        <item>setiap Kamis ketiga</item>
+        <item>setiap Kamis keempat</item>
+        <item>setiap Kamis terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>setiap Jumat pertama</item>
+        <item>setiap Jumat kedua</item>
+        <item>setiap Jumat ketiga</item>
+        <item>setiap Jumat keempat</item>
+        <item>setiap Jumat terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>setiap Sabtu pertama</item>
+        <item>setiap Sabtu kedua</item>
+        <item>setiap Sabtu ketiga</item>
+        <item>setiap Sabtu keempat</item>
+        <item>setiap Sabtu terakhir</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Kalender</item>
+        <item>Mudah dilihat dan berpenampilan menarik</item>
+        <item>Isi kalender dengan cepat dan mudah</item>
+        <item>Acara dari Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Maksimalkan setiap hari.</item>
+        <item>Tampilan Jadwal menempatkan gambar dan peta pada kalender.</item>
+        <item>Dengan Bantuan, saran untuk judul, kontak, dan tempat akan muncul saat Anda mengetik.</item>
+        <item>Reservasi penerbangan, restoran, dan lainnya, ditambahkan secara otomatis dari email.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Menggunakan lokasi perangkat.</item>
+        <item></item>
+        <item>Anda dapat mengubahnya di Setelan.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Tambahkan seseorang dan dapatkan info kontak</item>
+        <item>{LOCATION_ICON} Tambahkan tempat dan dapatkan petunjuk arah</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Dengan siapa?</item>
+        <item>Tambahkan seseorang dan dapatkan info kontak</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Menambahkan kontak tidak akan mengirim undangan</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Di mana?</item>
+        <item>+ lokasi dan dapatkan petunjuk arah</item>
+    </string-array>
+</resources>

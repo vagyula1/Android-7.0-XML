@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Perkhidmatan Google Play perlu dikemas kini utk menggunakan aplikasi.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s memerlukan kemas kini apl Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Perkhidmatan Google Play perlu didayakan untuk menggunakan aplikasi.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada telefon anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi kecuali anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_button">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_update_title">Kemas kini perkhidmatan Google Play</string>
+    <string name="common_android_wear_update_title">Kemas kini Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_android_wear_update_text">%1$s tidak akan berfungsi melainkan anda mengemas kini apl Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Perkhidmatan Google Play sdg dikemaskini</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemas kini.</string>
+    <string name="common_google_play_services_network_error_title">Ralat Rangkaian</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk menyambung ke perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akaun Tidak Sah</string>
+    <string name="common_google_play_services_invalid_account_text">Akaun yang dinyatakan tidak wujud pada peranti ini. Sila pilih akaun yang lain.</string>
+    <string name="common_google_play_services_unknown_issue">Isu tidak diketahui dengan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s bergantung pada perkhidmatan Google Play, yang tidak disokong oleh peranti anda. Hubungi pengeluar untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s memerlukan satu atau lebih perkhidmatan Google Play yang tidak tersedia pada masa ini. Sila hubungi pembangun untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Gagal melog masuk</string>
+    <string name="common_google_play_services_sign_in_failed_text">Ralat melog masuk ke akaun yang dinyatakan. Sila pilih akaun yang berbeza.</string>
+    <string name="app_name">Wajah yang Dipercayai</string>
+    <string name="trusted_face_service_app_name">Perkhidmatan Wajah yang Dipercayai</string>
+    <string name="receiver_app_name">Penerima Siaran Wajah yang Dipercayai</string>
+    <string name="intro_screen_title">Mengenai wajah yang dipercayai</string>
+    <string name="intro_screen_header">Buka kunci telefon anda dengan melihatnya</string>
+    <string name="intro_screen_body_start">"Ingat:
+"</string>
+    <string name="intro_screen_bullets">"Pemadanan wajah adalah kurang selamat berbanding corak, PIN atau kata laluan
+
+Seseorang yang berwajah seperti anda boleh membuka kunci telefon anda
+
+Data yang digunakan untuk mengecam wajah anda dirahsiakan pada telefon anda"</string>
+    <string name="intro_screen_continue_label">Sediakan</string>
+    <string name="instructions_screen_title">Tambah muka yang dipercayai</string>
+    <string name="instructions_screen_header">Untuk hasil terbaik:</string>
+    <string name="instructions_screen_bullets">"Cari tempat yang tidak terlalu terang atau terlalu malap di dalam bangunan
+
+Pegang telefon pada paras mata"</string>
+    <string name="instructions_screen_continue_label">Seterusnya</string>
+    <string name="enrollment_screen_title">Tambahkan wajah yang dipercayai</string>
+    <string name="enrollment_screen_message_initializing">Memulakan…</string>
+    <string name="enrollment_screen_message_initialization_error">Tidak dapat mula mencari wajah anda</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kebenaran untuk menggunakan kamera tidak diberikan</string>
+    <string name="enrollment_screen_message_camera_error">Kamera tidak tersedia</string>
+    <string name="enrollment_start_message">Pastikan muka dalam kawasan bertitik</string>
+    <string name="enrollment_screen_message_instructions">Pastikan bahagian atas kepala anda dan bahagian bawah dagu anda terletak dalam lingkungan bulatan</string>
+    <string name="enrollment_screen_message_done">Wajah ditambahkan</string>
+    <string name="enrollment_screen_status_no_face">Tunjukkan wajah anda</string>
+    <string name="enrollment_screen_status_face_off_center">Tidak dapat melihat sebahagian wajah anda</string>
+    <string name="enrollment_screen_status_missing_template">Tidak dapat melihat raut wajah anda</string>
+    <string name="enrollment_screen_continue_label">Seterusnya</string>
+    <string name="enrollment_screen_done_label">Selesai</string>
+    <string name="enrollment_screen_talkback_preview_description">Pratonton kamera</string>
+    <string name="enrollment_screen_talkback_face_added">Wajah ditambahkan</string>
+    <string name="end_screen_title">Selesai!</string>
+    <string name="end_screen_body">Untuk membuka kunci telefon anda, hidupkan sahaja skrin anda dan lihat kamera</string>
+    <string name="end_screen_bullet_one_text">Telefon anda akan dibuka sebaik sahaja mengecam anda</string>
+    <string name="end_screen_bullet_two_text">Jika wajah anda tidak dicam, buka kunci menggunakan corak, PIN atau kata laluan</string>
+    <string name="end_screen_tip_text">Petua: Tingkatkan pemadanan muka dengan menunjukkan rupa anda dalam keadaan yang berbeza</string>
+    <string name="end_screen_licenses_label">Lesen</string>
+    <string name="end_screen_continue_label">Selesai</string>
+    <string name="add_to_setup_intro_screen_title">Tingkatkan pemadanan wajah</string>
+    <string name="add_to_setup_intro_screen_header">Tunjukkan rupa anda dalam keadaan berlainan</string>
+    <string name="add_to_setup_intro_screen_body_start">"Contoh:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Dalam pencahayaan yang berbeza
+
+Dengan atau tanpa kaca mata preskripsi
+
+Berjanggut atau dicukur licin
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Pegang telefon pada paras mata</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seterusnya</string>
+    <string name="license_screen_title">Lesen</string>
+    <string name="license_screen_header">Notis sumber terbuka</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">"Ciri 'Wajah dipercayai' mungkin menggunakan sebahagian daripada pustaka sumber terbuka berikut, yang dilesenkan di bawah lesen berikut:"</string>
+    <string name="license_screen_notices_header">Notis untuk pustaka:</string>
+    <string name="shared_cancel_label">Batal</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Pengecaman wajah telah berubah. Tambahkan wajah yang dipercayai oleh anda sekali lagi untuk terus menggunakannya.</string>
+</resources>

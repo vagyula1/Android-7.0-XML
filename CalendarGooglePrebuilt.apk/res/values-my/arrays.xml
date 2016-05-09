@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>အကြောင်းကြားချက်</item>
+        <item>အီးမေးလ်</item>
+        <item>SMS</item>
+        <item>နှိုးစက်</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>မရှိ</item>
+        <item>၀ မိနစ်</item>
+        <item>၁ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၀ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၂၀ မိနစ်</item>
+        <item>၂၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၄၅ မိနစ်</item>
+        <item>၁ နာရီ</item>
+        <item>၂ နာရီ</item>
+        <item>၃ နာရီ</item>
+        <item>၁၂ နာရီ</item>
+        <item>၂၄ နာရီ</item>
+        <item>၂ ရက်</item>
+        <item>၁ ပတ်</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>စနေ</item>
+        <item>တနင်္ဂနွေ</item>
+        <item>တနင်္လာ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>အလုပ်များနေ</item>
+        <item>ရနိုင်သော</item>
+        <item>အစမ်း</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ပထမ</item>
+        <item>ဒု​တိ​ယ​</item>
+        <item>တတိယ</item>
+        <item>စတုတ္ထ</item>
+        <item>နောက်ဆုံး</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>မတုံ့ပြန်ရသေးပါ</item>
+        <item>သွားမည်</item>
+        <item>ဖြစ်နိုင်</item>
+        <item>မသွားပါ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ဒီဖြစ်ရပ်</item>
+        <item>အောက်ပါ ဖြစ်ရပ်များ အားလုံး</item>
+        <item>ဖြစ်ရပ်များ အားလုံး</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ဒီဟယ &amp;အနာဂတ် ဖြစ်ရပ်များ</item>
+        <item>ဖြစ်ရပ်များ အားလုံး</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ဒီဖြစ်ရပ် သာလျှင်</item>
+        <item>စီးရီးများထဲက ဖြစ်ရပ် အားလုံး</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>ရက်စွဲ</item>
+        <item>အပတ်</item>
+        <item>လ</item>
+        <item>အစီအစဉ်</item>
+        <item>အချိန်အလိုက်</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>မအား</item>
+        <item>ရနိုင်သော</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>ခရမ်းချဉ်သီး</item>
+        <item>လိမ္မော်ရောင်</item>
+        <item>ရွှေဖရုံရောင်</item>
+        <item>သရက်သီးရောင်</item>
+        <item>ငှက်ပျောသီးရောင်</item>
+        <item>ရှောက်သီးရောင်</item>
+        <item>ထောပတ်သီးရောင်</item>
+        <item>စိမ်းဝါနုရောင်</item>
+        <item>ပင်စိမ်းရောင်</item>
+        <item>ယူကလစ်ရောင်</item>
+        <item>Sage</item>
+        <item>ဥဒေါင်း</item>
+        <item>ကိုဗော့ရောင်</item>
+        <item>နက်ပြာရောင်</item>
+        <item>လာဗင်ဒါ</item>
+        <item>ခရမ်းနုရောင်</item>
+        <item>နီလာခရမ်းရောင်</item>
+        <item>စပျစ်ရောင်</item>
+        <item>Radicchio</item>
+        <item>ချယ်ရီ ပန်းရောင်</item>
+        <item>ဖလန်မင်ဂို</item>
+        <item>ကိုကိုးရောင်</item>
+        <item>ခဲနက်ရောင်</item>
+        <item>ဘုဇပတ်ရောင်</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>ပြေးရာမှာ နှစ်မိနစ်ခန့် နောက်ကျနေသည်။</item>
+        <item>အဲဒီကို ၁၀ မိနစ် အတွင်းမှာ ရောက်လာမည်။</item>
+        <item>သွားနှင့်ပြီး ကျွန်ုပ် မပါဘဲ စတင်ပါ။</item>
+        <item>ဆော်ရီး၊ ကျွန်ုပ် အဲဒါကို မလုပ်နိုင်ပါ။ ကျွန်ုပ်တို့ ပြန်ပြီး စီစဉ်ရန် လိုမည်။</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google ပြက္ခဒိန်</item>
+        <item>လွယ်ကူစွာစကင်လုပ်နိုင်ပြီး ကြည့်ရှုစရာအလွန်ကောင်းသည်။</item>
+        <item>သင်၏ပြက္ခဒိန်ကို လျင်မြန်လွယ်ကူစွာဖြည့်စွက်ပါ။</item>
+        <item>Gmail ထဲမှ ဖြစ်ရပ်များ</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>နေ့စဉ်တိုင်းလိုလိုလုပ်ဆောင်ပါ။</item>
+        <item>သင့်ပြက္ခဒိန်ပေါ်တွင် ရုပ်ပုံများနှင့် မြေပုံများကို အစီအစဉ်မြင်ကွင်းဖြင့် ထည့်သွင်းပါ။</item>
+        <item>အကူအညီဖြင့် အကြံပြုခေါင်းစဉ်များ၊ အဆက်အသွယ်များနှင့် နေရာများသည် သင်ရိုက်နှိပ်သကဲ့သို့ ပေါ်လာသည်။</item>
+        <item>လေယာဉ် ခရီးစဉ်များ၊ စားသောက်ဆိုင်များ နှင့် နောက်ထပ် အများအပြား အတွက် မှာယူချက်များကို အီးမေးလ်များ ထဲမှနေပြီး အလိုအလျောက် ထည့်ပေးသည်။</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>ကိရိယာ၏ တည်နေရာကို သုံးသည်။</item>
+        <item></item>
+        <item>သင်သည် ဒါကို ဆက်တင်များ ထဲမှာ ပြောင်းနိုင်သည်။</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} လူများကို ထည့်ပေးရန်၊ အဆက်အသွယ် အင်ဖိုကို ရယူရန်</item>
+        <item>{LOCATION_ICON} နေရာများကို ထည့်ပေးရန်၊ လမ်းညွှန်ချက်များကို ရယူရန်</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>ဘယ်သူနှင့်လဲ?</item>
+        <item>တစ်ယောက်ယောက်ကို ထည့်ရန်၊ အင်ဖို ရယူရန်</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}အဆက်အသွယ်များကို ထည့်ပေးခြင်းက ဖိတ်ကြားချက်ကို ပို့မည် မဟုတ်ပါ</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>ဘယ်မှာလဲ?</item>
+        <item>တည်နေရာကို ထည့်ရန်၊ လမ်းညွှန်ချက်ကို ရယူရန်</item>
+    </string-array>
+</resources>

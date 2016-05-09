@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">Проверка на състоянието на абонамент. Моля, изчакайте...</string>
+    <string name="vzw_error_msg_title">Вашата поръчка не може да бъде обработена</string>
+    <string name="vzw_error_msg">"Ако искате да се абонирате за Mobile Hotspot/Mobile Broadband Connect, обадете се на: 
+ За потребители: (800) 256-4646, 
+ Бизнес: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Необходима е надстройка на услугата</string>
+    <string name="tmo_error_msg">Текущият ви план за данни не включва услугата Smartphone Mobile HotSpot, която ви позволява споделяне на връзката за данни на телефона ви с други устройства. Искате ли да добавите услугата Smartphone Mobile HotSpot към вашия план за данни? Можете да я добавите и онлайн на https://my.t-mobile.com от Управление > Планове и услуги.</string>
+    <string name="app_name">Право</string>
+    <string name="network_connection_title">Грешка във връзката на мрежата</string>
+    <string name="network_connection_error_msg">Вашият телефон не може да се свърже към сървъра на %s. Моля, опитайте отново по-късно.</string>
+    <string name="mobile_hotspot">Mobile Hotspot</string>
+    <string name="spg_dlg_normaltext">За да използвате мобилна точка за достъп, трябва да се абонирате за услугата за мобилна точка за достъп.</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Научете повече и се абонирайте за мобилна точка за достъп, като посетите My Verizon.</a></string>
+    <string name="browser_error_msg">Браузърът не може да се отвори.</string>
+    <string name="alert_dialog_positive_button">OK</string>
+    <string name="alert_dialog_negative_button">Отказ</string>
+    <string name="alert_dialog_yes_button">Да</string>
+    <string name="alert_dialog_no_button">Не</string>
+    <string name="alert_dialog_upgrade_button">Надстройка</string>
+    <string name="alert_dialog_later_button">По-късно</string>
+    <string name="att_error_msg">За разрешаване отидете на att.com/mywireless или наберете 611</string>
+    <string name="att_error_msg_title">Профилът не е конфигуриран за тетъринг</string>
+    <string name="att_error_msg_other">Има временен проблем с мрежата, който предотвратява активирането на функцията Mobile Hotspot. Моля, опитайте отново по-късно.</string>
+    <string name="att_error_msg_other_title">Мрежова грешка</string>
+    <string name="sprint_error_msg">Свързването към мрежата за данни е неуспешно; Може да не успеете да се абонирате за услугите за тетъринг и хотспот; моля, свържете се с вашата телефонна компания.</string>
+    <string name="sprint_error_msg_lte">Не сте абонирани за услугата за тетъринг и хотспот. Искате ли да видите опциите за абонамент?</string>
+    <string name="sprint_error_msg_3g">Неуспешно свързване към мрежата за данни, изключване на тетъринг и хотспот. Вашият план може да не разполага с услугата за тетъринг и хотспот. Искате ли да видите опциите за абонамент?</string>
+    <string name="sprint_error_msg_title">Грешка на тетъринг или хотспот</string>
+    <string name="sprint_notification_msg">Докоснете, за да видите повече подробности</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

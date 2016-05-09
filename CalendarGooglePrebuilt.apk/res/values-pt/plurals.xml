@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Por %d eventos</item>
+        <item quantity="one">Por %d evento</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">A cada %d dia</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">A cada %d semanas</item>
+        <item quantity="one">A cada %d semana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">A cada %d meses</item>
+        <item quantity="one">A cada %d mês</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">A cada %d anos</item>
+        <item quantity="one">A cada %d ano</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d vezes</item>
+        <item quantity="one">; uma vez</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">Todos os dias</item>
+        <item quantity="two">A cada %d dias</item>
+        <item quantity="few">A cada %d dias</item>
+        <item quantity="many">A cada %d dias</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">a cada %d dias</item>
+        <item quantity="one">diária</item>
+        <item quantity="two">a cada %d dias</item>
+        <item quantity="few">a cada %d dias</item>
+        <item quantity="many">a cada %d dias</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="one">A cada %2$s</item>
+        <item quantity="two">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="few">A cada %1$d semanas às/aos %2$s</item>
+        <item quantity="many">A cada %1$d semanas às/aos %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="one">semanalmente às/aos %2$s</item>
+        <item quantity="two">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="few">a cada %1$d semanas às/aos %2$s</item>
+        <item quantity="many">a cada %1$d semanas às/aos %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">A cada %1$d meses</item>
+        <item quantity="one">Mensal</item>
+        <item quantity="two">A cada %1$d meses</item>
+        <item quantity="few">A cada %1$d meses</item>
+        <item quantity="many">A cada %1$d meses</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">a cada %1$d meses</item>
+        <item quantity="one">mensalmente</item>
+        <item quantity="two">a cada %1$d meses</item>
+        <item quantity="few">a cada %1$d meses</item>
+        <item quantity="many">a cada %1$d meses</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">A cada %1$d anos</item>
+        <item quantity="one">Anual</item>
+        <item quantity="two">A cada %1$d anos</item>
+        <item quantity="few">A cada %1$d anos</item>
+        <item quantity="many">A cada %1$d anos</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">a cada %1$d anos</item>
+        <item quantity="one">anualmente</item>
+        <item quantity="two">a cada %1$d anos</item>
+        <item quantity="few">a cada %1$d anos</item>
+        <item quantity="many">a cada %1$d anos</item>
+    </plurals>
+</resources>

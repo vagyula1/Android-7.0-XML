@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Vibrazione breve</string>
+    <string name="app_name">CQATest</string>
+    <string name="str_ok">Attiva vibrazione</string>
+    <string name="str_end">Disattiva vibrazione</string>
+    <string name="vib_on">ON</string>
+    <string name="long_vib">Vibrazione lunga</string>
+    <string name="pattern_vib">Vibra con motivo specifico - SOS</string>
+    <string name="vib_check">Controlla vibrazione su dispositivo</string>
+    <string name="tcmd_vibrator">Vibrazione</string>
+    <string name="rst_cycling">Test buzz</string>
+    <string name="earpiece_verify">Riproduci riconoscimento vocale Harvard</string>
+    <string name="audio_tone" />
+    <string name="bt_mac_text" />
+    <string name="light_text" />
+    <string name="flip_text" />
+    <string name="keytest_text" />
+    <string name="mag_txt_x" />
+    <string name="mmc_text" />
+    <string name="prox_text" />
+    <string name="wifi_txt_1">Wi-Fi</string>
+    <string name="start">Inizia</string>
+    <string name="stop">Interrompi</string>
+    <string name="tcmd_accel">Sensore/Acceleratore</string>
+    <string name="mag_1">Magnetometro</string>
+    <string name="tcmd_mag">Sensore/Magnetometro</string>
+    <string name="tcmd_camera_viewfinder">Fotocamera/Mirino esterno</string>
+    <string name="tcmd_camera_viewfindertorchon">Fotocamera/Torcia mirino attivata</string>
+    <string name="tcmd_touchscreen_MXT1386">Touch screen/MXT1386</string>
+    <string name="tcmd_touchscreen_MXT1386_short">Touch screen/MXT1386 Short</string>
+    <string name="tcmd_touchscreen_MXT224">Touch screen/MXT224</string>
+    <string name="tcmd_display_testPatterns_blackWithWhiteBorder">Display/Motivi test display/Nero con bordo bianco</string>
+    <string name="tcmd_display_testPatterns_blackWithWhiteBorderReverseOrientation">Display/Motivi test display/Orientamento inverso nero con bordo bianco</string>
+    <string name="tcmd_display_testPatterns_whiteWithBlackBorder">Display/Motivi test display/Bianco con bordo nero</string>
+    <string name="tcmd_display_testPatterns_whiteWithBlackBorderReverseOrientation">Display/Motivi test display/Orientamento inverso bianco con bordo nero</string>
+    <string name="tcmd_display_testPatterns_xtalk">Display/Motivi test display/Xtalk</string>
+    <string name="tcmd_display_testPatterns_black">Display/Motivi test display/Nero</string>
+    <string name="tcmd_display_testPatterns_blackReverseOrientation">Display/Motivi test display/Orientamento inverso nero</string>
+    <string name="tcmd_display_testPatterns_grayscale">Display/Motivi test display/Scala di grigi</string>
+    <string name="tcmd_display_testPatterns_bright">Display/Motivi test display/Barra colori brillanti</string>
+    <string name="tcmd_display_testPatterns_medium">Display/Motivi test display/Barra colori medi</string>
+    <string name="tcmd_display_testPatterns_dark">Display/Motivi test display/Barra colori scuri</string>
+    <string name="tcmd_display_testPatterns_focus">Display/Motivi test display/Messa a fuoco</string>
+    <string name="tcmd_display_videoplayback">Display/Riproduzione video</string>
+    <string name="tcmd_display_redlinecapture">Display/Acquisizione redline</string>
+    <string name="proximity_1">Prossimità</string>
+    <string name="tcmd_proximity">Sensore/Prossimità</string>
+    <string name="tcmd_camera_internalvierfinder">Fotocamera/Mirino interno</string>
+    <string name="tcmd_light">Sensore/Luce anteriore</string>
+    <string name="tcmd_version">Versione</string>
+    <string name="tcmd_mmc">Test auto MMC</string>
+    <string name="audio_mediaplay_res">Riproduci file multimediale - testmidi.mid</string>
+    <string name="tcmd_audio_palymediafile">Audio/Altoparlante</string>
+    <string name="tcmd_bt_macaddress">MAC Bluetooth</string>
+    <string name="version_bp">Versione BP:</string>
+    <string name="version_ap">Versione AP:</string>
+    <string name="audio_tonegen">AudioToneGenerator</string>
+    <string name="tcmd_audio_tonegenerator">Audio/Tono audio</string>
+    <string name="tcmd_key_keytest">Tasto/Test tasti</string>
+    <string name="keytest">Nessun tasto premuto</string>
+    <string name="tcmd_audio_ear">Audio/Vivavoce</string>
+    <string name="tcmd_wifi_mac">WLAN/Mac Wi-Fi</string>
+    <string name="tcmd_wifi_network">WLAN/Ricerca reti</string>
+    <string name="tcmd_flip">Test FLIP</string>
+    <string name="tcmd_camera_internalvierfinder_capture">Fotocamera/Acquisizione da fotocamera interna</string>
+    <string name="mmc_multistorage">Conferma se il dispositivo supporta la memoria multipla</string>
+    <string name="mmc_confirm">Richiedi stato corrente MMC</string>
+    <string name="tcmd_audio_loopback">Audio/Loopback microfono</string>
+    <string name="audio_loopback_start">Avvia loopback audio</string>
+    <string name="audio_loopback_stop">Interrompi loopback audio</string>
+    <string name="MsgRed">LedMsg-Rosso</string>
+    <string name="MsgGreen">LedMsg-Verde</string>
+    <string name="MsgBlue">LedMsg-Blu</string>
+    <string name="test_sequence">Avvia test CQA in modalità Sequenza</string>
+    <string name="test_menu">Avvia test CQA in modalità Menu</string>
+    <string name="accel">Acceleratore</string>
+    <string name="led_note">"NOTA: 
+- cancella tutte le notifiche della barra di stato 
+- seleziona la casella per la visualizzazione della notifica del colore 
+- disattiva la visualizzazione una volta selezionata la casella"</string>
+    <string name="textloopback">"NOTA: 
+- Il test loopback microfono sta per essere avviato 
+- Premi il tasto softkey INDIETRO per interrompere il loopback ed uscire dal test"</string>
+    <string name="tcmd_camera_snapallresolutions">Fotocamera/Mostra tutte le risoluzioni</string>
+    <string name="tcmd_led">LED</string>
+</resources>

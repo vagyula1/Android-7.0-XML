@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">กำลังตรวจสอบสถานะการสมัครรับข้อมูล โปรดรอ...</string>
+    <string name="vzw_error_msg_title">ไม่สามารถประมวลผลการสั่งของคุณได้</string>
+    <string name="vzw_error_msg">"หากคุณต้องการสมัครรับข้อมูลฮอตสปอตเคลื่อนที่/Mobile Broadband Connect โทร: 
+ ผู้บริโภค: (800) 256-4646, 
+ ธุรกิจ: (800) 899-4249"</string>
+    <string name="tmo_error_msg_title">ต้องอัปเกรดบริการ</string>
+    <string name="tmo_error_msg">แผนอัตราปัจจุบันของคุณไม่รวมบริการฮอตสปอตเคลื่อนที่สมาร์ทโฟน ซึ่งเปิดใช้งานการแบ่งปันการเชื่อมต่อข้อมูลของโทรศัพท์ของคุณกับอุปกรณ์อื่น คุณต้องการเพิ่มบริการฮอตสปอตเคลื่อนที่สมาร์ทโฟนในแผนอัตราของคุณ? คุณยังสามารถเพิ่มแบบออนไลน์ได้ที่ https://my.t-mobile.com ภายใต้ จัดการ > แผนและบริการ</string>
+    <string name="app_name">การให้สิทธิ</string>
+    <string name="network_connection_title">ข้อผิดพลาดการเชื่อมต่อเครือข่าย</string>
+    <string name="network_connection_error_msg">โทรศัพท์ของคุณไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ %s ได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="mobile_hotspot">ฮอตสปอตเคลื่อนที่</string>
+    <string name="spg_dlg_normaltext">ในการใช้ฮอตสปอตเคลื่อนที่ คุณจะต้องสมัครบริการฮอตสปอตเคลื่อนที่</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">เรียนรู้เพิ่มเติมและสมัครฮอตสปอตเคลื่อนที่โดยไปที่ My Verizon</a></string>
+    <string name="browser_error_msg">เปิดเบราว์เซอร์ไม่ได้</string>
+    <string name="alert_dialog_positive_button">ตกลง</string>
+    <string name="alert_dialog_negative_button">ยกเลิก</string>
+    <string name="alert_dialog_yes_button">ใช่</string>
+    <string name="alert_dialog_no_button">ไม่</string>
+    <string name="alert_dialog_upgrade_button">อัปเกรด</string>
+    <string name="alert_dialog_later_button">ภายหลัง</string>
+    <string name="att_error_msg">ในการเปิดใช้งาน ให้ไปที่ att.com/mywireless หรือโทร 611</string>
+    <string name="att_error_msg_title">ไม่ได้ตั้งค่าบัญชีสำหรับการปล่อยสัญญาณ</string>
+    <string name="att_error_msg_other">เกิดปัญหาเครือข่ายชั่วคราวซึ่งทำให้เปิดใช้งานฟังก์ชันฮอตสปอตเคลื่อนที่ไม่ได้ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="att_error_msg_other_title">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="sprint_error_msg">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูลได้ คุณไม่ได้สมัครรับข้อมูลบริการการปล่อยสัญญาณหรือฮอตสปอต โปรดติดต่อบริษัทโทรศัพท์ของคุณ</string>
+    <string name="sprint_error_msg_lte">คุณไม่ได้สมัครรับข้อมูลบริการการปล่อยสัญญาณและฮอตสปอต คุณต้องการดูตัวเลือกการสมัครรับข้อมูลหรือไม่?</string>
+    <string name="sprint_error_msg_3g">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูลได้ กำลังปิดการปล่อยสัญญาณหรือฮอตสปอต แผนของคุณอาจไม่มีบริการการปล่อยสัญญาณและฮอตสปอต คุณต้องการดูตัวเลือกการสมัครรับข้อมูลหรือไม่?</string>
+    <string name="sprint_error_msg_title">ข้อผิดพลาดการปล่อยสัญญาณหรือฮอตสปอต</string>
+    <string name="sprint_notification_msg">แตะเพื่อดูรายละเอียดเพิ่มเติม</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

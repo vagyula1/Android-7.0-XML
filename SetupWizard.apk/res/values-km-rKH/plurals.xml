@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">បិទក្នុងរយៈពេល %d វិនាទី…</item>
+        <item quantity="one">បិទក្នុងរយៈពេល 1 វិនាទី…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"គណនីខាងក្រោមទាំងនេះត្រៀមរួចរាល់ហើយ៖
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"គណនីខាងក្រោមនេះត្រៀមរួចរាល់ហើយ៖
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">ប៉ះ %d ដងទៀតដើម្បីចាប់ផ្តើុមការដំឡើងកូដ QR</item>
+        <item quantity="one">ប៉ះ %d ដងទៀតដើម្បីចាប់ផ្តើុមការដំឡើងកូដ QR</item>
+    </plurals>
+</resources>

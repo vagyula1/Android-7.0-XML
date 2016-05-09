@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f វិនាទី</item>
+        <item quantity="one">1 វិនាទី</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">បានអាប់ដេតសា្លក %d</item>
+        <item quantity="zero">មិនមានស្លាកថ្មីទេ</item>
+        <item quantity="one">បានអាប់ដេតសា្លក 1</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">បានកំណត់គ្រាប់ចុច %d</item>
+        <item quantity="one">បានកំណត់គ្រាប់ចុច %d</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s បង្ហាញ​ធាតុ %2$d ។</item>
+        <item quantity="one">%1$s បង្ហាញ​ធាតុ %2$d ។</item>
+    </plurals>
+</resources>

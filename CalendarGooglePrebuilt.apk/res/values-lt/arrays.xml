@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>pranešimas</item>
+        <item>el. laišk.</item>
+        <item>SMS</item>
+        <item>signalą</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Nėra</item>
+        <item>0 min.</item>
+        <item>1 min.</item>
+        <item>5 min.</item>
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+        <item>45 min.</item>
+        <item>1 val.</item>
+        <item>2 val.</item>
+        <item>3 val.</item>
+        <item>12 val.</item>
+        <item>24 val.</item>
+        <item>2 d.</item>
+        <item>1 sav.</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Šeštadienis</item>
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Užimtas</item>
+        <item>Pasiekiama</item>
+        <item>Bandomasis</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>pirmas</item>
+        <item>antras</item>
+        <item>trečias</item>
+        <item>ketvirtas</item>
+        <item>paskutinis</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>dar neatsakyta</item>
+        <item>dalyvaus</item>
+        <item>galbūt</item>
+        <item>nedalyvaus</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Šis įvykis</item>
+        <item>Visi kiti įvykiai</item>
+        <item>Visi įvykiai</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Šis ir būsimi įvykiai</item>
+        <item>Visi įvykiai</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tik šis įvykis</item>
+        <item>Visi sekos įvykiai</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Diena</item>
+        <item>Savaitė</item>
+        <item>Mėnuo</item>
+        <item>Darbotvarkė</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Užsiėmęs (-usi)</item>
+        <item>Pasiekiamas (-a)</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Pomidoro</item>
+        <item>Mandarinų</item>
+        <item>Moliūgo</item>
+        <item>Mangų</item>
+        <item>Bananų</item>
+        <item>Citrono</item>
+        <item>Avokado</item>
+        <item>Pistacijų</item>
+        <item>Bazilikų</item>
+        <item>Eukalipto</item>
+        <item>Šalavijų</item>
+        <item>Povo</item>
+        <item>Kobalto</item>
+        <item>Mėlynių</item>
+        <item>Levandų</item>
+        <item>Visterijų</item>
+        <item>Ametisto</item>
+        <item>Vynuogių</item>
+        <item>Salotinės trūkažolės</item>
+        <item>Vyšnios žiedų</item>
+        <item>Flamingo</item>
+        <item>Kakavos</item>
+        <item>Grafito</item>
+        <item>Beržo</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Vėluojama tik kelias minutes.</item>
+        <item>Būkite ten po maždaug 10 min.</item>
+        <item>Pirmyn, pradėkite be manęs.</item>
+        <item>Deja, nespėsiu. Turėsime suplanuoti iš naujo.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Vidurio Australija – Š. Teritor.</item>
+        <item>Vidurio Australija – P. Teritor.</item>
+        <item>Rytų Australija – Kvinslandas</item>
+        <item>Rytų Australija – N. P. Velsas</item>
+        <item>ŠA kalnų žiem. l. – Doson Krikas</item>
+        <item>ŠA cen. žiem. l. – Saskačevanas</item>
+        <item>ŠA Rytų žiemos l. – Atikokanas</item>
+        <item>Atlanto žiemos laikas – Kvebekas</item>
+        <item>Havajų–Aleutų laikas – Havajai</item>
+        <item>Havajų–Aleutų laikas – Aliaska</item>
+        <item>Ramiojo v. žiem. l. – Metlakatla</item>
+        <item>ŠA kalnų žiemos laikas – Arizona</item>
+        <item>Ramiojo v. laikas – Kalifornija</item>
+        <item>Š. Amerikos kalnų l. – Čihuahua</item>
+        <item>ŠA vidurio laikas – Tamaulipasas</item>
+        <item>Š. Amerikos kalnų l. – Sonora</item>
+        <item>Rytų Afrikos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Atlanto žiemos laikas</item>
+        <item>Rytų Europos laikas</item>
+        <item>Kaliningrado laikas</item>
+        <item>Amazonės žiem. laik. – Rondonija</item>
+        <item>Brazilijos laikas – Para</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Martenas</item>
+        <item>Karibų Nyderlandai</item>
+        <item>Kiurasao</item>
+        <item>Pietų Sudanas</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>KARTOTI KASDIEN</item>
+        <item>KARTOTI KAS SAVAITĘ</item>
+        <item>KARTOTI KAS MĖNESĮ</item>
+        <item>KARTOTI KASMET</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Nesikartoja</item>
+        <item>Kasdien</item>
+        <item>Kas savaitę</item>
+        <item>Kas mėnesį</item>
+        <item>Kasmet</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>kiekvieną pirmą sekmadienį</item>
+        <item>kiekvieną antrą sekmadienį</item>
+        <item>kiekvieną trečią sekmadienį</item>
+        <item>kiekvieną ketvirtą sekmadienį</item>
+        <item>kiekvieną paskutinį sekmadienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kiekvieną pirmą pirmadienį</item>
+        <item>kiekvieną antrą pirmadienį</item>
+        <item>kiekvieną trečią pirmadienį</item>
+        <item>kiekvieną ketvirtą pirmadienį</item>
+        <item>kiekvieną paskutinį pirmadienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>kiekvieną pirmą antradienį</item>
+        <item>kiekvieną antrą antradienį</item>
+        <item>kiekvieną trečią antradienį</item>
+        <item>kiekvieną ketvirtą antradienį</item>
+        <item>kiekvieną paskutinį antradienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>kiekvieną pirmą trečiadienį</item>
+        <item>kiekvieną antrą trečiadienį</item>
+        <item>kiekvieną trečią trečiadienį</item>
+        <item>kiekvieną ketvirtą trečiadienį</item>
+        <item>kiekvieną paskut. trečiadienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kiekvieną pirmą ketvirtadienį</item>
+        <item>kiekvieną antrą ketvirtadienį</item>
+        <item>kiekvieną trečią ketvirtadienį</item>
+        <item>kiekvieną ketv. ketvirtadienį</item>
+        <item>kiekvieną pask. ketvirtadienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kiekvieną pirmą penktadienį</item>
+        <item>kiekvieną antrą penktadienį</item>
+        <item>kiekvieną trečią penktadienį</item>
+        <item>kiekvieną ketvirtą penktadienį</item>
+        <item>kiekvieną paskut. penktadienį</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kiekvieną pirmą šeštadienį</item>
+        <item>kiekvieną antrą šeštadienį</item>
+        <item>kiekvieną trečią šeštadienį</item>
+        <item>kiekvieną ketvirtą šeštadienį</item>
+        <item>kiekvieną paskutinį šeštadienį</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>„Google“ kalendorius</item>
+        <item>Lengva nuskaityti ir šauniai atrodo</item>
+        <item>Greitai ir lengvai užpildykite kalendorių</item>
+        <item>Įvykiai iš „Gmail“</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Kuo geriau išnaudokite kiekvieną dieną.</item>
+        <item>Tvarkaraščio rodinys įkelia į kalendorių vaizdus ir žemėlapius.</item>
+        <item>Naudojant Pagalbinių pasiūlymų funkciją pavadinimų, kontaktų ir vietų pasiūlymai rodomi vedant tekstą.</item>
+        <item>Skrydžių, restoranų ir kt. užsakymai, automatiškai pridėti iš el. laiškų.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Naudoja įrenginio vietovę.</item>
+        <item></item>
+        <item>Tai galite pakeisti nustatymuose.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Pridėkite žmonių ir gaukite kontaktinę informaciją.</item>
+        <item>{LOCATION_ICON} Pridėkite vietų ir gaukite nuorodas.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Su kuo?</item>
+        <item>Pridėkite žmonių ir gaukite kontaktinę informaciją.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Pridėjus kontaktų nebus išsiųsti pakvietimai.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Kur?</item>
+        <item>Pridėkite vietovę ir gaukite nuorodas.</item>
+    </string-array>
+</resources>

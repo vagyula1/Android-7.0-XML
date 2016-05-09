@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ActionMessage_actionOnClickListener" />
+    <item type="id" name="ActionMessage_actionText" />
+    <item type="id" name="ActionMessage_crashInfo" />
+    <item type="id" name="ActionMessage_iconDrawable" />
+    <item type="id" name="ActionMessage_messageText" />
+    <item type="id" name="ActionMessage_onClickListener" />
+    <item type="id" name="AdmobAd_adData" />
+    <item type="id" name="AdmobAd_key" />
+    <item type="id" name="AppFamilyList_appFamilyId" />
+    <item type="id" name="AppFamilyList_appFamilySummary" />
+    <item type="id" name="AppFamilyList_description" />
+    <item type="id" name="AppFamilyList_iconId" />
+    <item type="id" name="AppFamilyList_magazineIssues" />
+    <item type="id" name="AppFamilyList_name" />
+    <item type="id" name="AppFamilyList_numIssues" />
+    <item type="id" name="AppFamilyList_updated" />
+    <item type="id" name="ApplicationList_appFamilyId" />
+    <item type="id" name="ApplicationList_appFamilySummary" />
+    <item type="id" name="ApplicationList_appId" />
+    <item type="id" name="ApplicationList_appSummary" />
+    <item type="id" name="ApplicationList_category" />
+    <item type="id" name="ApplicationList_contentDescription" />
+    <item type="id" name="ApplicationList_description" />
+    <item type="id" name="ApplicationList_edition" />
+    <item type="id" name="ApplicationList_iconId" />
+    <item type="id" name="ApplicationList_isArchived" />
+    <item type="id" name="ApplicationList_isPurchased" />
+    <item type="id" name="ApplicationList_piiCollected" />
+    <item type="id" name="ApplicationList_psvActive" />
+    <item type="id" name="ApplicationList_psvPending" />
+    <item type="id" name="ApplicationList_publicationDate" />
+    <item type="id" name="ApplicationList_title" />
+    <item type="id" name="ApplicationList_updated" />
+    <item type="id" name="ArchiveToggle_onClickListener" />
+    <item type="id" name="ArchiveToggle_showDefault" />
+    <item type="id" name="ArticleBodyDataList_defaultPrimaryKey" />
+    <item type="id" name="ArticleBrandLogo_attachmentId" />
+    <item type="id" name="ArticleBrandLogo_imageAspectRatio" />
+    <item type="id" name="ArticleFragment_magazineRenderingType" />
+    <item type="id" name="ArticleHeaderImageView_attachmentId" />
+    <item type="id" name="ArticleHeaderImageView_heightOverride" />
+    <item type="id" name="ArticleHeaderImageView_imageAspectRatio" />
+    <item type="id" name="ArticleHeaderImageView_widthOverride" />
+    <item type="id" name="ArticleHtmlView_fontSizeMultiplier" />
+    <item type="id" name="ArticleHtmlView_spannableText" />
+    <item type="id" name="ArticleHtmlView_textMargin" />
+    <item type="id" name="ArticleImageView_attachmentId" />
+    <item type="id" name="ArticleImageView_attribution" />
+    <item type="id" name="ArticleImageView_caption" />
+    <item type="id" name="ArticleImageView_height" />
+    <item type="id" name="ArticleImageView_imageAspectRatio" />
+    <item type="id" name="ArticleImageView_width" />
+    <item type="id" name="ArticlePullquoteView_quoteText" />
+    <item type="id" name="ArticleSlideshowView_slides" />
+    <item type="id" name="ArticleTailEntityItem_sourceBackgroundId" />
+    <item type="id" name="ArticleTailEntityItem_sourceClickListener" />
+    <item type="id" name="ArticleTailEntityItem_sourceInitials" />
+    <item type="id" name="ArticleTailEntityItem_sourceName" />
+    <item type="id" name="ArticleTailList_isSubscribed" />
+    <item type="id" name="ArticleTailList_rowId" />
+    <item type="id" name="ArticleVideoView_thumbnailAttachmentId" />
+    <item type="id" name="ArticleVideoView_thumbnailHeight" />
+    <item type="id" name="ArticleVideoView_thumbnailWidth" />
+    <item type="id" name="ArticleVideoView_videoAttribution" />
+    <item type="id" name="ArticleVideoView_videoCaption" />
+    <item type="id" name="ArticleVideoView_videoHeight" />
+    <item type="id" name="ArticleVideoView_videoUri" />
+    <item type="id" name="ArticleVideoView_videoWidth" />
+    <item type="id" name="AudioPlaylist_audioItem" />
+    <item type="id" name="AudioPlaylist_postResult" />
+    <item type="id" name="AudioPlaylist_primary" />
+    <item type="id" name="BaseCardListVisitor_analyticsElement" />
+    <item type="id" name="BaseCardListVisitor_resourceBundle" />
+    <item type="id" name="BindAdapter_viewA11yCardCount" />
+    <item type="id" name="BindAdapter_viewEqualityFields" />
+    <item type="id" name="BindAdapter_viewGenerator" />
+    <item type="id" name="BindAdapter_viewImportantForA11y" />
+    <item type="id" name="BindAdapter_viewResId" />
+    <item type="id" name="BlockStyle_alignment" />
+    <item type="id" name="BlockStyle_background" />
+    <item type="id" name="BlockStyle_height" />
+    <item type="id" name="BlockStyle_margin" />
+    <item type="id" name="BlockStyle_maxWidth" />
+    <item type="id" name="BlockStyle_padding" />
+    <item type="id" name="CardActionButtons_primaryButtonClickListener" />
+    <item type="id" name="CardActionButtons_primaryButtonText" />
+    <item type="id" name="CardActionButtons_secondaryButtonClickListener" />
+    <item type="id" name="CardActionButtons_secondaryButtonText" />
+    <item type="id" name="CardAddMore_onClickListener" />
+    <item type="id" name="CardArticleItem_abstract" />
+    <item type="id" name="CardArticleItem_audioOnClickListener" />
+    <item type="id" name="CardArticleItem_audioPostId" />
+    <item type="id" name="CardArticleItem_cardBackground" />
+    <item type="id" name="CardArticleItem_cardTransitionName" />
+    <item type="id" name="CardArticleItem_galleryOnClickListener" />
+    <item type="id" name="CardArticleItem_hasGallery" />
+    <item type="id" name="CardArticleItem_headlineTextColor" />
+    <item type="id" name="CardArticleItem_imageAspectRatio" />
+    <item type="id" name="CardArticleItem_imageAttribution" />
+    <item type="id" name="CardArticleItem_imageEligibleForHeader" />
+    <item type="id" name="CardArticleItem_imageHeight" />
+    <item type="id" name="CardArticleItem_imageId" />
+    <item type="id" name="CardArticleItem_imageWidth" />
+    <item type="id" name="CardArticleItem_isFullImage" />
+    <item type="id" name="CardArticleItem_isRead" />
+    <item type="id" name="CardArticleItem_isVideo" />
+    <item type="id" name="CardArticleItem_maxImageAspectRatio" />
+    <item type="id" name="CardArticleItem_numAudio" />
+    <item type="id" name="CardArticleItem_showLock" />
+    <item type="id" name="CardArticleItem_sourceEdition" />
+    <item type="id" name="CardArticleItem_sourceFamilyName" />
+    <item type="id" name="CardArticleItem_sourceIconId" />
+    <item type="id" name="CardArticleItem_sourceIsSubscribed" />
+    <item type="id" name="CardArticleItem_sourceName" />
+    <item type="id" name="CardArticleItem_sourceOnClickListener" />
+    <item type="id" name="CardArticleItem_sourceTextBackground" />
+    <item type="id" name="CardArticleItem_sourceTextColor" />
+    <item type="id" name="CardArticleItem_sourceTransitionName" />
+    <item type="id" name="CardArticleItem_storyOnClickListener" />
+    <item type="id" name="CardArticleItem_time" />
+    <item type="id" name="CardArticleItem_timeTextColor" />
+    <item type="id" name="CardArticleItem_title" />
+    <item type="id" name="CardArticleItem_titleContentDescription" />
+    <item type="id" name="CardArticleItem_topicColor" />
+    <item type="id" name="CardArticleItem_topicEdition" />
+    <item type="id" name="CardArticleItem_topicName" />
+    <item type="id" name="CardArticleItem_topicTagBackground" />
+    <item type="id" name="CardArticleItem_topicTagOnClickListener" />
+    <item type="id" name="CardArticleItem_version" />
+    <item type="id" name="CardBase_analyticsEvent" />
+    <item type="id" name="CardClusterItemHeader_backgroundDrawable" />
+    <item type="id" name="CardClusterItemHeader_contentDescription" />
+    <item type="id" name="CardClusterItemHeader_firstTeamLogo" />
+    <item type="id" name="CardClusterItemHeader_firstTeamName" />
+    <item type="id" name="CardClusterItemHeader_firstTeamOnClickListener" />
+    <item type="id" name="CardClusterItemHeader_firstTeamScore" />
+    <item type="id" name="CardClusterItemHeader_secondTeamLogo" />
+    <item type="id" name="CardClusterItemHeader_secondTeamName" />
+    <item type="id" name="CardClusterItemHeader_secondTeamOnClickListener" />
+    <item type="id" name="CardClusterItemHeader_secondTeamScore" />
+    <item type="id" name="CardClusterItemHeader_splashImageAttachmentId" />
+    <item type="id" name="CardClusterItemHeader_sportGameStatus" />
+    <item type="id" name="CardClusterItemHeader_subtitle" />
+    <item type="id" name="CardClusterItemHeader_title" />
+    <item type="id" name="CardClusterItem_clusterList" />
+    <item type="id" name="CardClusterItem_clusterListItemShowTopDivider" />
+    <item type="id" name="CardClusterItem_footerData" />
+    <item type="id" name="CardClusterItem_headerData" />
+    <item type="id" name="CardClusterItem_minItemHeight" />
+    <item type="id" name="CardClusterItem_onCardSeenListener" />
+    <item type="id" name="CardClusterItem_primaryKey" />
+    <item type="id" name="CardContinueReading_labelAndTitle" />
+    <item type="id" name="CardContinueReading_onClickListener" />
+    <item type="id" name="CardDebugInfo_body" />
+    <item type="id" name="CardDebugInfo_showShareButton" />
+    <item type="id" name="CardDebugInfo_title" />
+    <item type="id" name="CardFooter_applyIconColorFilter" />
+    <item type="id" name="CardFooter_dividerColorResId" />
+    <item type="id" name="CardFooter_footerBackgroundDrawable" />
+    <item type="id" name="CardFooter_footerIconAttachmentId" />
+    <item type="id" name="CardFooter_footerOnClickListener" />
+    <item type="id" name="CardFooter_footerText" />
+    <item type="id" name="CardFooter_footerTextColorResId" />
+    <item type="id" name="CardFooter_showTopDivider" />
+    <item type="id" name="CardGroupBase_rowViewGenerator" />
+    <item type="id" name="CardGroupBuilder_cardId" />
+    <item type="id" name="CardGroupBuilder_group" />
+    <item type="id" name="CardHeaderSpacer_height" />
+    <item type="id" name="CardIcon_aspectRatio" />
+    <item type="id" name="CardIcon_background" />
+    <item type="id" name="CardIcon_contentDescription" />
+    <item type="id" name="CardIcon_imageId" />
+    <item type="id" name="CardIcon_isSample" />
+    <item type="id" name="CardIcon_onClickListener" />
+    <item type="id" name="CardIcon_transitionName" />
+    <item type="id" name="CardListBuilder_cardId" />
+    <item type="id" name="CardListBuilder_group" />
+    <item type="id" name="CardListBuilder_groupProvider" />
+    <item type="id" name="CardListBuilder_rowId" />
+    <item type="id" name="CardListVisitor_defaultPrimaryKey" />
+    <item type="id" name="CardMagazineItem_clickListener" />
+    <item type="id" name="CardMagazineItem_contentDescription" />
+    <item type="id" name="CardMagazineItem_coverAttachmentId" />
+    <item type="id" name="CardMagazineItem_coverHeightToWidthRatio" />
+    <item type="id" name="CardMagazineItem_isSample" />
+    <item type="id" name="CardMagazineItem_issueName" />
+    <item type="id" name="CardMagazineItem_sourceTransitionName" />
+    <item type="id" name="CardMagazineItem_transitionName" />
+    <item type="id" name="CardMagazinePurchaseableItem_clickListener" />
+    <item type="id" name="CardMagazinePurchaseableItem_coverAttachmentId" />
+    <item type="id" name="CardMagazinePurchaseableItem_coverHeightToWidthRatio" />
+    <item type="id" name="CardMagazinePurchaseableItem_issueName" />
+    <item type="id" name="CardMagazinePurchaseableItem_magazineName" />
+    <item type="id" name="CardMagazinePurchaseableItem_price" />
+    <item type="id" name="CardMagazinePurchaseableItem_rating" />
+    <item type="id" name="CardMagazineTocArticleItem_author" />
+    <item type="id" name="CardMagazineTocArticleItem_imageId" />
+    <item type="id" name="CardMagazineTocArticleItem_isRead" />
+    <item type="id" name="CardMagazineTocArticleItem_onClickListener" />
+    <item type="id" name="CardMagazineTocArticleItem_showLock" />
+    <item type="id" name="CardMagazineTocArticleItem_subtitle" />
+    <item type="id" name="CardMagazineTocArticleItem_title" />
+    <item type="id" name="CardMagazineTocArticleItem_transform" />
+    <item type="id" name="CardMagazineTocArticleItem_version" />
+    <item type="id" name="CardMagazineTocPageItem_imageAspectRatio" />
+    <item type="id" name="CardMagazineTocPageItem_imageId" />
+    <item type="id" name="CardMagazineTocPageItem_isInitialPost" />
+    <item type="id" name="CardMagazineTocPageItem_onClickListener" />
+    <item type="id" name="CardMagazineTocPageItem_subtitle" />
+    <item type="id" name="CardMagazineTocPageItem_textColor" />
+    <item type="id" name="CardMagazineTocPageItem_title" />
+    <item type="id" name="CardMagazineTocPageItem_transform" />
+    <item type="id" name="CardMagazineTocPageItem_version" />
+    <item type="id" name="CardMagazineTocPagesItem_eitherIsInitialPost" />
+    <item type="id" name="CardMagazineTocPagesItem_imageAspectRatio" />
+    <item type="id" name="CardMagazineTocPagesItem_leftImageId" />
+    <item type="id" name="CardMagazineTocPagesItem_leftIsInitialPost" />
+    <item type="id" name="CardMagazineTocPagesItem_leftOnClickListener" />
+    <item type="id" name="CardMagazineTocPagesItem_leftTextColor" />
+    <item type="id" name="CardMagazineTocPagesItem_leftTitle" />
+    <item type="id" name="CardMagazineTocPagesItem_rightImageId" />
+    <item type="id" name="CardMagazineTocPagesItem_rightIsInitialPost" />
+    <item type="id" name="CardMagazineTocPagesItem_rightOnClickListener" />
+    <item type="id" name="CardMagazineTocPagesItem_rightTextColor" />
+    <item type="id" name="CardMagazineTocPagesItem_rightTitle" />
+    <item type="id" name="CardMagazineTocPagesItem_version" />
+    <item type="id" name="CardMapItem_description" />
+    <item type="id" name="CardMapItem_imageUrl" />
+    <item type="id" name="CardMapItem_onClickListener" />
+    <item type="id" name="CardMyNewsGetStartedIcon_editionSummary" />
+    <item type="id" name="CardMyNewsGetStartedIcon_isSubscribed" />
+    <item type="id" name="CardMyNewsGetStartedIcon_onClickListener" />
+    <item type="id" name="CardMyNewsGetStartedIcon_sourceIconId" />
+    <item type="id" name="CardOfferItem_colorInt" />
+    <item type="id" name="CardOfferItem_sourceAspectRatio" />
+    <item type="id" name="CardOfferItem_sourceIconId" />
+    <item type="id" name="CardOfferItem_sourceInfo" />
+    <item type="id" name="CardOfferItem_splashAttachmentId" />
+    <item type="id" name="CardOfferItem_splashOnClickListener" />
+    <item type="id" name="CardOfferItem_splashTitle" />
+    <item type="id" name="CardOfferItem_title" />
+    <item type="id" name="CardRefreshButton_onClickListener" />
+    <item type="id" name="CardSourceItem_curationBackgroundColorResId" />
+    <item type="id" name="CardSourceItem_curationBorderColorResId" />
+    <item type="id" name="CardSourceItem_curationRippleColorResId" />
+    <item type="id" name="CardSourceItem_onCardSeenListener" />
+    <item type="id" name="CardSourceItem_sourceClickListener" />
+    <item type="id" name="CardSourceItem_sourceIconBackground" />
+    <item type="id" name="CardSourceItem_sourceIconId" />
+    <item type="id" name="CardSourceItem_sourceIconNoImage" />
+    <item type="id" name="CardSourceItem_sourceName" />
+    <item type="id" name="CardSourceItem_sourceTransitionName" />
+    <item type="id" name="CardSourceItem_useCurationShadowId" />
+    <item type="id" name="CardSourceListItem_cardBackground" />
+    <item type="id" name="CardSourceListItem_cardContentDescription" />
+    <item type="id" name="CardSourceListItem_cardTransitionName" />
+    <item type="id" name="CardSourceListItem_onCardSeenListener" />
+    <item type="id" name="CardSourceListItem_sourceBackground" />
+    <item type="id" name="CardSourceListItem_sourceClickListener" />
+    <item type="id" name="CardSourceListItem_sourceDescription" />
+    <item type="id" name="CardSourceListItem_sourceDescriptionTextColor" />
+    <item type="id" name="CardSourceListItem_sourceFamilyName" />
+    <item type="id" name="CardSourceListItem_sourceIconAspectRatio" />
+    <item type="id" name="CardSourceListItem_sourceIconId" />
+    <item type="id" name="CardSourceListItem_sourceIconTransitionName" />
+    <item type="id" name="CardSourceListItem_sourceInitials" />
+    <item type="id" name="CardSourceListItem_sourceInitialsBackground" />
+    <item type="id" name="CardSourceListItem_sourceInitialsTextColor" />
+    <item type="id" name="CardSourceListItem_sourceName" />
+    <item type="id" name="CardSourceListItem_sourceNameTextColor" />
+    <item type="id" name="CardSourceListItem_subscribeClickHandler" />
+    <item type="id" name="CardSourceListItem_subscribeDescription" />
+    <item type="id" name="CardSourceListItem_subscribeIcon" />
+    <item type="id" name="CardSourceListItem_subscribeIconBackground" />
+    <item type="id" name="CardSourceMagazineListItem_buyClickListener" />
+    <item type="id" name="CardSplashItem_hintText" />
+    <item type="id" name="CardSplashItem_isSample" />
+    <item type="id" name="CardSplashItem_sourceAspectRatio" />
+    <item type="id" name="CardSplashItem_sourceIconId" />
+    <item type="id" name="CardSplashItem_sourceName" />
+    <item type="id" name="CardSplashItem_splashAttachmentId" />
+    <item type="id" name="CardSplashItem_splashOnClickListener" />
+    <item type="id" name="CardSplashItem_time" />
+    <item type="id" name="CardSplashItem_title" />
+    <item type="id" name="CardVideoAd_adId" />
+    <item type="id" name="CardVideoAd_description" />
+    <item type="id" name="CardVideoAd_title" />
+    <item type="id" name="CardWarmWelcome_body" />
+    <item type="id" name="CardWarmWelcome_centerCropLogo" />
+    <item type="id" name="CardWarmWelcome_logoContentDescription" />
+    <item type="id" name="CardWarmWelcome_logoDrawableId" />
+    <item type="id" name="CardWarmWelcome_logoImportantForAccessibility" />
+    <item type="id" name="CardWarmWelcome_logoOnClickListener" />
+    <item type="id" name="CardWarmWelcome_onCardSeenListener" />
+    <item type="id" name="CardWarmWelcome_optEditionCollectionCardType" />
+    <item type="id" name="CardWarmWelcome_optLogoA2Path" />
+    <item type="id" name="CardWarmWelcome_optPrimaryButtonA2Path" />
+    <item type="id" name="CardWarmWelcome_optSecondaryButtonA2Path" />
+    <item type="id" name="CardWarmWelcome_optWarmWelcomeCardA2Path" />
+    <item type="id" name="CardWarmWelcome_title" />
+    <item type="id" name="CollectionLayoutGroup_cardMaxColSpan" />
+    <item type="id" name="CollectionLayoutGroup_cardMaxRowSpan" />
+    <item type="id" name="CollectionLayoutGroup_shelfEnd" />
+    <item type="id" name="CollectionLayoutGroup_shelfStart" />
+    <item type="id" name="EditableAdapterView_isEditable" />
+    <item type="id" name="EditableAdapterView_isRemovable" />
+    <item type="id" name="EditableCardGroup_editableCardGroup" />
+    <item type="id" name="EditionPagerFragment_pagerTitle" />
+    <item type="id" name="ExploreSingleTopicList_shelfType" />
+    <item type="id" name="ExploreSource_cardId" />
+    <item type="id" name="ExploreTopicsListItem_backgroundColor" />
+    <item type="id" name="ExploreTopicsListItem_entityImageId" />
+    <item type="id" name="ExploreTopicsListItem_initials" />
+    <item type="id" name="ExploreTopicsListItem_onClickListener" />
+    <item type="id" name="ExploreTopicsListItem_topicName" />
+    <item type="id" name="ExploreTopicsSpecialItem_analyticsCardId" />
+    <item type="id" name="ExploreTopicsSpecialItem_background" />
+    <item type="id" name="ExploreTopicsSpecialItem_iconDrawable" />
+    <item type="id" name="ExploreTopicsSpecialItem_onClickListener" />
+    <item type="id" name="ExploreTopicsSpecialItem_title" />
+    <item type="id" name="FlowDataAdapter_viewLayoutTransform" />
+    <item type="id" name="GridGroup_columnSpan" />
+    <item type="id" name="HomePageList_homePage" />
+    <item type="id" name="ImageRotatorView_animateImage" />
+    <item type="id" name="ImageRotatorView_imageId" />
+    <item type="id" name="KeepEditionMenuHelper_editionPinned" />
+    <item type="id" name="LibraryPageList_libraryPage" />
+    <item type="id" name="LibraryPageList_libraryTitle" />
+    <item type="id" name="MagazineEditionCardList_primaryKey" />
+    <item type="id" name="MagazineListUtil_endMonth" />
+    <item type="id" name="MagazineListUtil_month" />
+    <item type="id" name="MagazineListUtil_numIssues" />
+    <item type="id" name="MagazineListUtil_year" />
+    <item type="id" name="MagazineListUtil_yearMonthKey" />
+    <item type="id" name="MediaItemsSource_audioId" />
+    <item type="id" name="MediaItemsSource_audioIndex" />
+    <item type="id" name="MediaItemsSource_mediaItem" />
+    <item type="id" name="MediaItemsSource_postId" />
+    <item type="id" name="MeterDialog_meteredPostsRemaining" />
+    <item type="id" name="MyMagazinesFragment_groupArchiveId" />
+    <item type="id" name="NSOnboardQuizPage_subtitle" />
+    <item type="id" name="NativeAd_adData" />
+    <item type="id" name="NativeAd_attributionIcon" />
+    <item type="id" name="NativeAd_attributionOnClickListener" />
+    <item type="id" name="NativeAd_attributionText" />
+    <item type="id" name="NativeAd_body" />
+    <item type="id" name="NativeAd_c2aOnClickAnalyticsProvider" />
+    <item type="id" name="NativeAd_c2aOnClickListener" />
+    <item type="id" name="NativeAd_c2aText" />
+    <item type="id" name="NativeAd_creativeType" />
+    <item type="id" name="NativeAd_developer" />
+    <item type="id" name="NativeAd_gsaAdUnit" />
+    <item type="id" name="NativeAd_headline" />
+    <item type="id" name="NativeAd_icon" />
+    <item type="id" name="NativeAd_image" />
+    <item type="id" name="NativeAd_imageAspectRatio" />
+    <item type="id" name="NativeAd_imageOnClickListener" />
+    <item type="id" name="NativeAd_key" />
+    <item type="id" name="NativeAd_onCardSeenListener" />
+    <item type="id" name="NativeAd_psaAdUnit" />
+    <item type="id" name="NativeAd_psaShare" />
+    <item type="id" name="NativeAd_rating" />
+    <item type="id" name="NativeAd_sdkImpressionTrackingAnalyticsEventProvider" />
+    <item type="id" name="NativeAd_showSponsoredBanner" />
+    <item type="id" name="NativeAd_sponsoredBannerBackgroundDrawable" />
+    <item type="id" name="NativeAd_store" />
+    <item type="id" name="NativeAppAd_blurb" />
+    <item type="id" name="NativeAppAd_browseOnClickListener" />
+    <item type="id" name="NativeAppAd_buyButtonAnalyticsEventProvider" />
+    <item type="id" name="NativeAppAd_buyButtonBackground" />
+    <item type="id" name="NativeAppAd_buyButtonText" />
+    <item type="id" name="NativeAppAd_buyButtonTextColor" />
+    <item type="id" name="NativeAppAd_conversionAnalyticsEventProvider" />
+    <item type="id" name="NativeAppAd_developer" />
+    <item type="id" name="NativeAppAd_enableExplanation" />
+    <item type="id" name="NativeAppAd_explanationText" />
+    <item type="id" name="NativeAppAd_icon" />
+    <item type="id" name="NativeAppAd_iconResizeTransform" />
+    <item type="id" name="NativeAppAd_packageName" />
+    <item type="id" name="NativeAppAd_paletteTransform" />
+    <item type="id" name="NativeAppAd_preview1" />
+    <item type="id" name="NativeAppAd_preview2" />
+    <item type="id" name="NativeAppAd_preview3" />
+    <item type="id" name="NativeAppAd_preview4" />
+    <item type="id" name="NativeAppAd_preview5" />
+    <item type="id" name="NativeAppAd_previewResizeTransform" />
+    <item type="id" name="NativeAppAd_rating" />
+    <item type="id" name="NativeAppAd_title" />
+    <item type="id" name="NewFeatureCard_excludeDevicesList" />
+    <item type="id" name="NewFeatureCard_image" />
+    <item type="id" name="NewFeatureCard_showPrefKey" />
+    <item type="id" name="NewFeatureCard_text" />
+    <item type="id" name="NewFeatureCard_title" />
+    <item type="id" name="OfferLine_byline" />
+    <item type="id" name="OfferLine_price" />
+    <item type="id" name="OfferLine_title" />
+    <item type="id" name="OnboardQuizItem_clickListener" />
+    <item type="id" name="OnboardQuizItem_contentDescription" />
+    <item type="id" name="OnboardQuizItem_defaultOn" />
+    <item type="id" name="OnboardQuizItem_initials" />
+    <item type="id" name="OnboardQuizItem_itemId" />
+    <item type="id" name="OnboardQuizItem_selected" />
+    <item type="id" name="OnboardQuizItem_selectionColorResId" />
+    <item type="id" name="OnboardQuizItem_sourceIconId" />
+    <item type="id" name="OnboardQuizItem_title" />
+    <item type="id" name="OnboardQuizItem_useRoundedMask" />
+    <item type="id" name="PinnedList_edition" />
+    <item type="id" name="PinnedList_lastSyncStarted" />
+    <item type="id" name="PinnedList_lastSynced" />
+    <item type="id" name="PinnedList_syncFailed" />
+    <item type="id" name="PinnedList_syncProgress" />
+    <item type="id" name="RawOffersList_offerId" />
+    <item type="id" name="RawOffersList_offerSummary" />
+    <item type="id" name="RawOffersList_storeType" />
+    <item type="id" name="ReadNow_shelfType" />
+    <item type="id" name="ReadStateList_isMeteredRead" />
+    <item type="id" name="ReadStateList_postId" />
+    <item type="id" name="ReadStateList_postReadState" />
+    <item type="id" name="ReadingFragment_backgroundColor" />
+    <item type="id" name="ReadingFragment_cardId" />
+    <item type="id" name="ReadingFragment_isMetered" />
+    <item type="id" name="ReadingFragment_linkViewPostTitle" />
+    <item type="id" name="ReadingFragment_linkViewPostUrl" />
+    <item type="id" name="ReadingFragment_linkViewPublisher" />
+    <item type="id" name="ReadingFragment_postId" />
+    <item type="id" name="ReadingFragment_postIndex" />
+    <item type="id" name="ReadingFragment_postOriginalEdition" />
+    <item type="id" name="ReadingFragment_postSummary" />
+    <item type="id" name="ReadingFragment_postUpdated" />
+    <item type="id" name="ReadingFragment_sectionSummary" />
+    <item type="id" name="ReadingFragment_shareParams" />
+    <item type="id" name="ReadingFragment_viewType" />
+    <item type="id" name="RecentlyReadList_edition" />
+    <item type="id" name="RecentlyReadList_lastRead" />
+    <item type="id" name="RoundedCacheableAttachmentView_roundedSourceIconBackground" />
+    <item type="id" name="RoundedCacheableAttachmentView_roundedSourceIconInset" />
+    <item type="id" name="RoundedCacheableAttachmentView_useRoundedSourceIcon" />
+    <item type="id" name="SectionHeaderList_sectionHeader" />
+    <item type="id" name="SectionHeaderList_sectionId" />
+    <item type="id" name="SectionList_sectionId" />
+    <item type="id" name="SectionList_sectionName" />
+    <item type="id" name="SectionList_sectionSummary" />
+    <item type="id" name="ShelfDetailedHeader_buttonText" />
+    <item type="id" name="ShelfDetailedHeader_itemArray" />
+    <item type="id" name="ShelfDetailedHeader_onClickListener" />
+    <item type="id" name="ShelfDetailedHeader_subtitle" />
+    <item type="id" name="ShelfDetailedHeader_title" />
+    <item type="id" name="ShelfDetailedHeader_titleTextColor" />
+    <item type="id" name="ShelfDetailedHeader_titleTransitionName" />
+    <item type="id" name="ShelfHeader_buttonText" />
+    <item type="id" name="ShelfHeader_onClickListener" />
+    <item type="id" name="ShelfHeader_title" />
+    <item type="id" name="ShelfHeader_titleTextColor" />
+    <item type="id" name="ShelfHeader_titleTransitionName" />
+    <item type="id" name="SubscribeDialog_appFamilyId" />
+    <item type="id" name="TextStyle_textAlignment" />
+    <item type="id" name="accountProblemNotification" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="actionable_toast_bar" />
+    <item type="id" name="analytics_visual_element_view_tag" />
+    <item type="id" name="audioNotification" />
+    <item type="id" name="audioNotificationExpanded" />
+    <item type="id" name="bind__card_group_parent" />
+    <item type="id" name="bind__tagDataPagerAdapterObject" />
+    <item type="id" name="card_0" />
+    <item type="id" name="card_1" />
+    <item type="id" name="card_2" />
+    <item type="id" name="card_3" />
+    <item type="id" name="card_4" />
+    <item type="id" name="expando_hero" />
+    <item type="id" name="expando_logo" />
+    <item type="id" name="expando_splash" />
+    <item type="id" name="flm_paddingEnd" />
+    <item type="id" name="flm_paddingStart" />
+    <item type="id" name="flm_width" />
+    <item type="id" name="google_account_added_result" />
+    <item type="id" name="home" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="li_ad_creative" />
+    <item type="id" name="magazine_expando_hero" />
+    <item type="id" name="menu_helpfeedback" />
+    <item type="id" name="menu_move_to_top" />
+    <item type="id" name="menu_pin_edition" />
+    <item type="id" name="menu_remove" />
+    <item type="id" name="menu_search" />
+    <item type="id" name="menu_settings" />
+    <item type="id" name="menu_sharing" />
+    <item type="id" name="play_header_listview" />
+    <item type="id" name="play_header_spacer" />
+    <item type="id" name="play_header_viewpager" />
+    <item type="id" name="play_onboard__OnboardPage_pageId" />
+    <item type="id" name="play_onboard__OnboardPage_pageInfo" />
+    <item type="id" name="play_onboard__OnboardPagerAdapter_pageGenerator" />
+    <item type="id" name="play_onboard__OnboardSimpleQuizPage_title" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_backgroundColor" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_bodyText" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_iconDrawableId" />
+    <item type="id" name="play_onboard__OnboardTutorialPage_titleText" />
+    <item type="id" name="play_onboard_background" />
+    <item type="id" name="play_onboard_overlay" />
+    <item type="id" name="progressDotContainer" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="reading_expando_hero" />
+    <item type="id" name="shelf_header_button" />
+    <item type="id" name="shelf_header_title" />
+    <item type="id" name="social_analytics_account_name_key" />
+    <item type="id" name="social_analytics_application_id_key" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="tagA2Context" />
+    <item type="id" name="tagAdapterId" />
+    <item type="id" name="tagAlphaAnimator" />
+    <item type="id" name="tagDataPagerAdapterObject" />
+    <item type="id" name="tagHandlesAlpha" />
+    <item type="id" name="tagNBBuildContext" />
+    <item type="id" name="texture_video_view" />
+    <item type="id" name="up" />
+    <item type="id" name="upgradeRequiredNotification" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="description_text">false</item>
+    <item type="id" name="action_message">false</item>
+    <item type="id" name="actionable_toast_bar_description_text">false</item>
+    <item type="id" name="actionable_toast_bar_action_text">false</item>
+    <item type="id" name="toggle_image_view">false</item>
+    <item type="id" name="toggle_text_view">false</item>
+    <item type="id" name="dialog_container">false</item>
+    <item type="id" name="dialog_header">false</item>
+    <item type="id" name="dialog_buttons">false</item>
+    <item type="id" name="secondary_button">false</item>
+    <item type="id" name="primary_button">false</item>
+    <item type="id" name="article_tail_parent">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="load_error">false</item>
+    <item type="id" name="article_blocking_container">false</item>
+    <item type="id" name="transition_image_view">false</item>
+    <item type="id" name="article_pager">false</item>
+    <item type="id" name="pager_drop_shadow">false</item>
+    <item type="id" name="toolbar_container">false</item>
+    <item type="id" name="toolbar_shadow">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="drawer">false</item>
+    <item type="id" name="article_pager_fragment">false</item>
+    <item type="id" name="audio_fragment">false</item>
+    <item type="id" name="card_list">false</item>
+    <item type="id" name="audio_inactive">false</item>
+    <item type="id" name="audio_active">false</item>
+    <item type="id" name="audio_meter_2">false</item>
+    <item type="id" name="audio_meter_3">false</item>
+    <item type="id" name="audio_meter_1">false</item>
+    <item type="id" name="buttons">false</item>
+    <item type="id" name="preparing">false</item>
+    <item type="id" name="play_button">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="audio_control_bar">false</item>
+    <item type="id" name="notificationBackground">false</item>
+    <item type="id" name="favicon">false</item>
+    <item type="id" name="playback_buttons">false</item>
+    <item type="id" name="previous_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="audio_text">false</item>
+    <item type="id" name="article_title">false</item>
+    <item type="id" name="publisher">false</item>
+    <item type="id" name="notificationbg">false</item>
+    <item type="id" name="horizontal_divider">false</item>
+    <item type="id" name="previous_button_disabled">false</item>
+    <item type="id" name="next_button_disabled">false</item>
+    <item type="id" name="audio_player">false</item>
+    <item type="id" name="progress_text">false</item>
+    <item type="id" name="duration_text">false</item>
+    <item type="id" name="shadow">false</item>
+    <item type="id" name="story_info_overlay">false</item>
+    <item type="id" name="seekBar">false</item>
+    <item type="id" name="version_spinner">false</item>
+    <item type="id" name="cleanup_spinner">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="callout_overlay">false</item>
+    <item type="id" name="callout_sheet">false</item>
+    <item type="id" name="callout_text_area">false</item>
+    <item type="id" name="callout_title">false</item>
+    <item type="id" name="callout_subtitle">false</item>
+    <item type="id" name="callout_action_wrapper">false</item>
+    <item type="id" name="callout_action_button">false</item>
+    <item type="id" name="callout_sheet_shadow">false</item>
+    <item type="id" name="callout_highlight">false</item>
+    <item type="id" name="button_flow_layout">false</item>
+    <item type="id" name="secondary_button_wrapper">false</item>
+    <item type="id" name="primary_button_wrapper">false</item>
+    <item type="id" name="card">false</item>
+    <item type="id" name="source_topic_and_lock_container">false</item>
+    <item type="id" name="source_topic_no_lock">false</item>
+    <item type="id" name="source_topic_with_lock">false</item>
+    <item type="id" name="imageContainer">false</item>
+    <item type="id" name="lock">false</item>
+    <item type="id" name="post_abstract">false</item>
+    <item type="id" name="text_container">false</item>
+    <item type="id" name="translucent_text_container">false</item>
+    <item type="id" name="audio">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="gradient_text_container">false</item>
+    <item type="id" name="gallery">false</item>
+    <item type="id" name="source_info">false</item>
+    <item type="id" name="source_icon">false</item>
+    <item type="id" name="source_name">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="attribution">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="splash_image_view_background">false</item>
+    <item type="id" name="splash_image_view">false</item>
+    <item type="id" name="subtitle">false</item>
+    <item type="id" name="header_image_rotator">false</item>
+    <item type="id" name="continue_reading">false</item>
+    <item type="id" name="share_button">false</item>
+    <item type="id" name="footer_divider">false</item>
+    <item type="id" name="footer_icon">false</item>
+    <item type="id" name="footer_text">false</item>
+    <item type="id" name="sample_banner">false</item>
+    <item type="id" name="context_menu">false</item>
+    <item type="id" name="download_progress_view">false</item>
+    <item type="id" name="magazine_name">false</item>
+    <item type="id" name="issue_name">false</item>
+    <item type="id" name="rating">false</item>
+    <item type="id" name="price">false</item>
+    <item type="id" name="article_subtitle">false</item>
+    <item type="id" name="leftImageContainer">false</item>
+    <item type="id" name="leftImage">false</item>
+    <item type="id" name="rightImageContainer">false</item>
+    <item type="id" name="rightImage">false</item>
+    <item type="id" name="store_text">false</item>
+    <item type="id" name="item_rating">false</item>
+    <item type="id" name="call_to_action">false</item>
+    <item type="id" name="call_to_action_text">false</item>
+    <item type="id" name="dummy_ad_click_view">false</item>
+    <item type="id" name="nativeAdView">false</item>
+    <item type="id" name="primary_image">false</item>
+    <item type="id" name="source_info_container">false</item>
+    <item type="id" name="source_icon_container">false</item>
+    <item type="id" name="source_family_name">false</item>
+    <item type="id" name="source_icon_no_image">false</item>
+    <item type="id" name="curation_icon_background">false</item>
+    <item type="id" name="buy_button">false</item>
+    <item type="id" name="cover">false</item>
+    <item type="id" name="mute_toggle_button">false</item>
+    <item type="id" name="logo">false</item>
+    <item type="id" name="headline">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="button_panel">false</item>
+    <item type="id" name="title_textbox">false</item>
+    <item type="id" name="content_textbox">false</item>
+    <item type="id" name="accept_button">false</item>
+    <item type="id" name="country_spinner_text_view">false</item>
+    <item type="id" name="button_container">false</item>
+    <item type="id" name="remove_icon">false</item>
+    <item type="id" name="section_pager">false</item>
+    <item type="id" name="header_list_layout">false</item>
+    <item type="id" name="edition_pager_hero">false</item>
+    <item type="id" name="image_header_logo">false</item>
+    <item type="id" name="round_topic_header_logo">false</item>
+    <item type="id" name="sports_section_header">false</item>
+    <item type="id" name="sports_header_logo">false</item>
+    <item type="id" name="team_logo_image">false</item>
+    <item type="id" name="main_fragment">false</item>
+    <item type="id" name="background_image_parent">false</item>
+    <item type="id" name="transition_image">false</item>
+    <item type="id" name="background_image">false</item>
+    <item type="id" name="entityImageView">false</item>
+    <item type="id" name="edition_fragment_container">false</item>
+    <item type="id" name="edition_fragment">false</item>
+    <item type="id" name="plain_edition_container">false</item>
+    <item type="id" name="plain_edition_fragment">false</item>
+    <item type="id" name="home_fragment">false</item>
+    <item type="id" name="home_page_container">false</item>
+    <item type="id" name="ima_video_view">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="replay_button">false</item>
+    <item type="id" name="image_0">false</item>
+    <item type="id" name="image_1">false</item>
+    <item type="id" name="colored_overlay">false</item>
+    <item type="id" name="article_tail">false</item>
+    <item type="id" name="meter_dialog">false</item>
+    <item type="id" name="down_arrow">false</item>
+    <item type="id" name="magazine_accessibility_warning">false</item>
+    <item type="id" name="hero_logo">false</item>
+    <item type="id" name="body_text">false</item>
+    <item type="id" name="widget_article_layout">false</item>
+    <item type="id" name="image_loading">false</item>
+    <item type="id" name="image_loading_icon">false</item>
+    <item type="id" name="image_loading_text">false</item>
+    <item type="id" name="media_drawer_pager_fragment">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="expanded_caption">false</item>
+    <item type="id" name="caption">false</item>
+    <item type="id" name="progress_info">false</item>
+    <item type="id" name="progressText">false</item>
+    <item type="id" name="progressDots">false</item>
+    <item type="id" name="mediaItemContainer">false</item>
+    <item type="id" name="error">false</item>
+    <item type="id" name="offers">false</item>
+    <item type="id" name="source_icon_sizing_layout">false</item>
+    <item type="id" name="learn_more">false</item>
+    <item type="id" name="psv">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="meter_status_text">false</item>
+    <item type="id" name="meter_number_container">false</item>
+    <item type="id" name="meter_number">false</item>
+    <item type="id" name="meter_number_decremented">false</item>
+    <item type="id" name="down_buttons">false</item>
+    <item type="id" name="down_action_button">false</item>
+    <item type="id" name="subscribe">false</item>
+    <item type="id" name="up_action_button">false</item>
+    <item type="id" name="subscribe_hint">false</item>
+    <item type="id" name="molecule__slideshow_view">false</item>
+    <item type="id" name="molecule__video_view">false</item>
+    <item type="id" name="molecule__image_view">false</item>
+    <item type="id" name="molecule__slide_image_view">false</item>
+    <item type="id" name="article_placeholder">false</item>
+    <item type="id" name="widget_empty_layout">false</item>
+    <item type="id" name="empty_view_text">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="next_icon">false</item>
+    <item type="id" name="next_progress">false</item>
+    <item type="id" name="previous">false</item>
+    <item type="id" name="previous_icon">false</item>
+    <item type="id" name="previous_progress">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="line3">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="offer_line">false</item>
+    <item type="id" name="byline">false</item>
+    <item type="id" name="offer_line_progress">false</item>
+    <item type="id" name="offers_fragment">false</item>
+    <item type="id" name="onboard_host_fragment">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="selected_icon">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="retry_layout">false</item>
+    <item type="id" name="app_logo">false</item>
+    <item type="id" name="retry_button">false</item>
+    <item type="id" name="header_image_rotator_back">false</item>
+    <item type="id" name="header_image_rotator_front">false</item>
+    <item type="id" name="li_ad_label_container">false</item>
+    <item type="id" name="li_ad_label">false</item>
+    <item type="id" name="play_card">false</item>
+    <item type="id" name="li_overflow">false</item>
+    <item type="id" name="li_thumbnail_frame">false</item>
+    <item type="id" name="li_thumbnail">false</item>
+    <item type="id" name="li_title">false</item>
+    <item type="id" name="li_rating">false</item>
+    <item type="id" name="li_label">false</item>
+    <item type="id" name="li_subtitle">false</item>
+    <item type="id" name="li_snippet_2">false</item>
+    <item type="id" name="li_snippet_1">false</item>
+    <item type="id" name="li_description">false</item>
+    <item type="id" name="loading_progress_bar">false</item>
+    <item type="id" name="rating_badge_container">false</item>
+    <item type="id" name="li_badge">false</item>
+    <item type="id" name="li_snippet_avatar">false</item>
+    <item type="id" name="li_snippet_text">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="account_name">false</item>
+    <item type="id" name="play_drawer_root">false</item>
+    <item type="id" name="play_drawer_list">false</item>
+    <item type="id" name="play_drawer_docked_action">false</item>
+    <item type="id" name="action_text">false</item>
+    <item type="id" name="switch_button">false</item>
+    <item type="id" name="mini_account_name">false</item>
+    <item type="id" name="mini_display_name">false</item>
+    <item type="id" name="mini_toggle_account_list_button">false</item>
+    <item type="id" name="cover_photo">false</item>
+    <item type="id" name="secondary_avatar_frame_left">false</item>
+    <item type="id" name="secondary_avatar_left">false</item>
+    <item type="id" name="secondary_avatar_frame_right">false</item>
+    <item type="id" name="secondary_avatar_right">false</item>
+    <item type="id" name="account_info_container">false</item>
+    <item type="id" name="display_name">false</item>
+    <item type="id" name="toggle_account_list_button">false</item>
+    <item type="id" name="play_happiness_survey">false</item>
+    <item type="id" name="play_happiness_survey_header">false</item>
+    <item type="id" name="play_happiness_survey_question">false</item>
+    <item type="id" name="play_happiness_survey_answer_option_container">false</item>
+    <item type="id" name="text_content">false</item>
+    <item type="id" name="background_container">false</item>
+    <item type="id" name="alt_play_background">false</item>
+    <item type="id" name="content_container">false</item>
+    <item type="id" name="controls_container">false</item>
+    <item type="id" name="hero_container">false</item>
+    <item type="id" name="tab_bar">false</item>
+    <item type="id" name="pager_tab_strip">false</item>
+    <item type="id" name="play_header_list_tab_scroll">false</item>
+    <item type="id" name="play_header_list_tab_container">false</item>
+    <item type="id" name="tab_bar_title">false</item>
+    <item type="id" name="header_shadow">false</item>
+    <item type="id" name="play_header_status_bar_underlay">false</item>
+    <item type="id" name="play_header_banner">false</item>
+    <item type="id" name="swipe_refresh_layout_parent">false</item>
+    <item type="id" name="swipe_refresh_layout">false</item>
+    <item type="id" name="scroll_proxy">false</item>
+    <item type="id" name="play_header_toolbar">false</item>
+    <item type="id" name="play_onboard_pager">false</item>
+    <item type="id" name="play_onboard_footer">false</item>
+    <item type="id" name="play_onboard_drops">false</item>
+    <item type="id" name="start_button">false</item>
+    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="end_button">false</item>
+    <item type="id" name="splash">false</item>
+    <item type="id" name="background_disk">false</item>
+    <item type="id" name="play_search">false</item>
+    <item type="id" name="play_search_overlay">false</item>
+    <item type="id" name="play_search_container">false</item>
+    <item type="id" name="play_search_plate">false</item>
+    <item type="id" name="play_search_suggestions_list">false</item>
+    <item type="id" name="text_frame">false</item>
+    <item type="id" name="suggest_text">false</item>
+    <item type="id" name="navigation_button">false</item>
+    <item type="id" name="search_box_idle_text">false</item>
+    <item type="id" name="search_box_active_text_view">false</item>
+    <item type="id" name="search_box_text_input">false</item>
+    <item type="id" name="action_button">false</item>
+    <item type="id" name="search_suggestions_list">false</item>
+    <item type="id" name="search_suggestions_header">false</item>
+    <item type="id" name="suggestion_list_recycler_view">false</item>
+    <item type="id" name="psv_challenge_fragment">false</item>
+    <item type="id" name="header_text">false</item>
+    <item type="id" name="first_body_text">false</item>
+    <item type="id" name="second_body_text">false</item>
+    <item type="id" name="loading_view">false</item>
+    <item type="id" name="psv_challenge_webview">false</item>
+    <item type="id" name="action_trigger">false</item>
+    <item type="id" name="dialog_body">false</item>
+    <item type="id" name="offers_container">false</item>
+    <item type="id" name="error_message">false</item>
+    <item type="id" name="offers_progress">false</item>
+    <item type="id" name="reading_fragment">false</item>
+    <item type="id" name="edition_title">false</item>
+    <item type="id" name="edition_subtitle">false</item>
+    <item type="id" name="initialsView">false</item>
+    <item type="id" name="search_fragment">false</item>
+    <item type="id" name="settings_fragment">false</item>
+    <item type="id" name="scores">false</item>
+    <item type="id" name="score_status">false</item>
+    <item type="id" name="first_team">false</item>
+    <item type="id" name="first_team_logo">false</item>
+    <item type="id" name="first_team_logo_image">false</item>
+    <item type="id" name="first_team_name">false</item>
+    <item type="id" name="first_team_score">false</item>
+    <item type="id" name="score_seperator">false</item>
+    <item type="id" name="second_team">false</item>
+    <item type="id" name="second_team_score">false</item>
+    <item type="id" name="second_team_logo">false</item>
+    <item type="id" name="second_team_logo_image">false</item>
+    <item type="id" name="second_team_name">false</item>
+    <item type="id" name="title_issues_fragment">false</item>
+    <item type="id" name="default_language">false</item>
+    <item type="id" name="edition_language">false</item>
+    <item type="id" name="translation_languages">false</item>
+    <item type="id" name="translation_languages_spinner">false</item>
+    <item type="id" name="unsubscribe_warning_text">false</item>
+    <item type="id" name="user_data_collection_fragment">false</item>
+    <item type="id" name="privacy_message">false</item>
+    <item type="id" name="first_party_marketing">false</item>
+    <item type="id" name="third_party_marketing">false</item>
+    <item type="id" name="email_address">false</item>
+    <item type="id" name="first_name">false</item>
+    <item type="id" name="last_name">false</item>
+    <item type="id" name="address1">false</item>
+    <item type="id" name="address2">false</item>
+    <item type="id" name="city">false</item>
+    <item type="id" name="state">false</item>
+    <item type="id" name="postal_code">false</item>
+    <item type="id" name="country_spinner">false</item>
+    <item type="id" name="video_player">false</item>
+    <item type="id" name="link_widget">false</item>
+    <item type="id" name="web_part_fragment">false</item>
+    <item type="id" name="magazines_web_part_fragment">false</item>
+    <item type="id" name="year_month_issues_fragment">false</item>
+    <item type="id" name="callout_overlay_highlight_color">false</item>
+    <item type="id" name="background_layer">false</item>
+    <item type="id" name="disk">false</item>
+    <item type="id" name="inactive_portion">false</item>
+    <item type="id" name="active_portion">false</item>
+    <item type="id" name="toggle_button">false</item>
+    <item type="id" name="download">false</item>
+    <item type="id" name="finish">false</item>
+    <item type="id" name="pressed">false</item>
+    <item type="id" name="solid_circle">false</item>
+    <item type="id" name="menu_share">false</item>
+    <item type="id" name="menu_save">false</item>
+    <item type="id" name="menu_unsave">false</item>
+    <item type="id" name="menu_magazine_alt_formats">false</item>
+    <item type="id" name="menu_see_original_article">false</item>
+    <item type="id" name="menu_translate">false</item>
+    <item type="id" name="menu_undo_translate">false</item>
+    <item type="id" name="menu_sync_on_device">false</item>
+    <item type="id" name="menu_demo">false</item>
+    <item type="id" name="menu_switch_mode">false</item>
+    <item type="id" name="menu_manage_subscriptions">false</item>
+    <item type="id" name="menu_sort">false</item>
+    <item type="id" name="menu_refresh">false</item>
+    <item type="id" name="menu_add_edition">false</item>
+    <item type="id" name="menu_sync_status">false</item>
+    <item type="id" name="menu_keep_on_device">false</item>
+    <item type="id" name="menu_mini_cards">false</item>
+    <item type="id" name="menu_remove_edition">false</item>
+    <item type="id" name="menu_add_to_home_screen">false</item>
+    <item type="id" name="menu_send">false</item>
+</resources>

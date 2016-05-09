@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AddPrinterActivity" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:listSeparatorTextViewStyle">@style/ListSeparator</item>
+        <item name="android:textAppearanceListItemSecondary">@style/ListItemSecondary</item>
+    </style>
+    <style name="Theme.SelectPrinterActivity" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:textAppearanceListItemSecondary">@style/ListItemSecondary</item>
+    </style>
+</resources>

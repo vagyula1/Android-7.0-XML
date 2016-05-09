@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RecipientEditTextView" parent="@style/RecipientEditTextViewBase">
+        <item name="android:imeOptions">actionNext</item>
+    </style>
+    <style name="CalendarTheme.AllInOneActivity" parent="@style/CalendarTheme.BaseTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+</resources>

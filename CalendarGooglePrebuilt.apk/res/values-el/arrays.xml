@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>ειδοποίηση</item>
+        <item>email</item>
+        <item>SMS</item>
+        <item>ξυπνητήρι</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Κανένα</item>
+        <item>0 λεπτά</item>
+        <item>1 λεπτό</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>15 λεπτά</item>
+        <item>20 λεπτά</item>
+        <item>25 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>3 ώρες</item>
+        <item>12 ώρες</item>
+        <item>24 ώρες</item>
+        <item>2 ημέρες</item>
+        <item>1 εβδομάδα</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Σάββατο</item>
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Απασχολημένος/η</item>
+        <item>Διαθέσιμος/η</item>
+        <item>Αβέβαιη παρουσία</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>πρώτο</item>
+        <item>δεύτερο</item>
+        <item>τρίτο</item>
+        <item>τέταρτο</item>
+        <item>τελευταία</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>δεν έχει δοθεί απάντηση ακόμη</item>
+        <item>θα παρευρεθώ</item>
+        <item>ίσως</item>
+        <item>δεν θα παρευρεθώ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Αυτό το συμβάν</item>
+        <item>Όλα τα επόμενα συμβάντα</item>
+        <item>Όλα τα συμβάντα</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Αυτά &amp; τα μελλοντικά συμβάντα</item>
+        <item>Όλα τα συμβάντα</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Μόνο αυτό το συμβάν</item>
+        <item>Όλα τα συμβάντα στη σειρά</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ημέρα</item>
+        <item>Εβδομάδα</item>
+        <item>Μήνας</item>
+        <item>Ατζέντα</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Απασχολημένος</item>
+        <item>Διαθέσιμος</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Πορτοκαλοκόκκινο</item>
+        <item>Πορτοκαλί</item>
+        <item>Κολοκύθα</item>
+        <item>Μάνγκο</item>
+        <item>Μπανάνα</item>
+        <item>Κίτρο</item>
+        <item>Λαχανί</item>
+        <item>Φυστικί</item>
+        <item>Βασιλικός</item>
+        <item>Βεραμάν</item>
+        <item>Μέντα</item>
+        <item>Peacock</item>
+        <item>Κοβάλτιο</item>
+        <item>Μύρτιλλο</item>
+        <item>Λεβάντα</item>
+        <item>Γλυσίνα</item>
+        <item>Λιλά</item>
+        <item>Μοβ</item>
+        <item>Ραντίτσιο</item>
+        <item>Κερασί</item>
+        <item>Πούδρα</item>
+        <item>Κακάο</item>
+        <item>Γραφίτης</item>
+        <item>Ποντικί</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Άφιξη με μια μικρή καθυστέρηση.</item>
+        <item>Θα είμαι εκεί σε 10 λεπτά.</item>
+        <item>Προχωρήστε και συνεχίστε χωρίς εμένα.</item>
+        <item>Λυπάμαι, δεν θα καταφέρω να παρευρεθώ. Θα πρέπει να επαναπρογραμματίσουμε τη συνάντηση.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Κεντρική Αυστραλίας - NT</item>
+        <item>Κεντρική Αυστραλίας - SA</item>
+        <item>Ανατολικής Αυστραλίας - QLD</item>
+        <item>Ανατολικής Αυστραλίας - NSW</item>
+        <item>Ορεινή χειμερινή ώρα - Ντόσον Κρικ</item>
+        <item>Κεντρική χειμερινή - Σασκάτσουαν</item>
+        <item>Ανατολική χειμερινή - Ατικόκαν</item>
+        <item>Χειμερινή Ατλαντικού - Κεμπέκ</item>
+        <item>Χαβάης-Αλεούτιων νήσων - Χαβάη</item>
+        <item>Χαβάης-Αλεούτιων νήσων - Αλάσκα</item>
+        <item>Χειμερινή Ειρηνικού - Μετλακάτλα</item>
+        <item>Ορεινή χειμερινή ώρα - Αριζόνα</item>
+        <item>Ειρηνικού - Μπάχα Καλιφόρνια</item>
+        <item>Ορεινή - Τσιουάουα</item>
+        <item>Κεντρική - Ταμαουλίπας</item>
+        <item>Ορεινή - Σονόρα</item>
+        <item>Ώρα Ανατολικής Αφρικής</item>
+        <item>Χειμερινή ώρα Ατλαντικού</item>
+        <item>Χειμερινή ώρα Ατλαντικού</item>
+        <item>Ώρα Ανατολικής Ευρώπης</item>
+        <item>Ώρα Καλίνινγκραντ</item>
+        <item>Αμαζόνας - Ροντόνια</item>
+        <item>Μπραζίλια - Παρά</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Άγιος Μαρτίνος</item>
+        <item>Μπονέρ, Σεντ Γιουστέσιους, Σάμπα</item>
+        <item>Κουρασάο</item>
+        <item>Νότιο Σουδάν</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ΕΠΑΝΑΛΗΨΗ ΚΑΘΗΜΕΡΙΝΑ</item>
+        <item>ΕΠΑΝΑΛΗΨΗ ΕΒΔΟΜΑΔ.</item>
+        <item>ΕΠΑΝΑΛΗΨΗ ΜΗΝΙΑΙΩΣ</item>
+        <item>ΕΠΑΝΑΛΗΨΗ ΕΤΗΣΙΩΣ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Δεν επαναλαμβάνεται</item>
+        <item>Κάθε ημέρα</item>
+        <item>Κάθε εβδομάδα</item>
+        <item>Κάθε μήνα</item>
+        <item>Κάθε έτος</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>κάθε πρώτη Κυριακή</item>
+        <item>κάθε δεύτερη Κυριακή</item>
+        <item>κάθε τρίτη Κυριακή</item>
+        <item>κάθε τέταρτη Κυριακή</item>
+        <item>κάθε προηγούμενη Κυριακή</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>κάθε πρώτη Δευτέρα</item>
+        <item>κάθε δεύτερη Δευτέρα</item>
+        <item>κάθε τρίτη Δευτέρα</item>
+        <item>κάθε τέταρτη Δευτέρα</item>
+        <item>κάθε προηγούμενη Δευτέρα</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>κάθε πρώτη Τρίτη</item>
+        <item>κάθε δεύτερη Τρίτη</item>
+        <item>κάθε τρίτη Τρίτη</item>
+        <item>κάθε τέταρτη Τρίτη</item>
+        <item>κάθε προηγούμενη Τρίτη</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>κάθε πρώτη Τετάρτη</item>
+        <item>κάθε δεύτερη Τετάρτη</item>
+        <item>κάθε τρίτη Τετάρτη</item>
+        <item>κάθε τέταρτη Τετάρτη</item>
+        <item>κάθε προηγούμενη Τετάρτη</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>κάθε πρώτη Πέμπτη</item>
+        <item>κάθε δεύτερη Πέμπτη</item>
+        <item>κάθε τρίτη Πέμπτη</item>
+        <item>κάθε τέταρτη Πέμπτη</item>
+        <item>κάθε προηγούμενη Πέμπτη</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>κάθε πρώτη Παρασκευή</item>
+        <item>κάθε δεύτερη Παρασκευή</item>
+        <item>κάθε τρίτη Παρασκευή</item>
+        <item>κάθε τέταρτη Παρασκευή</item>
+        <item>κάθε προηγούμενη Παρασκευή</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>κάθε πρώτο Σάββατο</item>
+        <item>κάθε δεύτερο Σάββατο</item>
+        <item>κάθε τρίτο Σάββατο</item>
+        <item>κάθε τέταρτο Σάββατο</item>
+        <item>κάθε προηγούμενο Σάββατο</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Ημερολόγιο Google</item>
+        <item>Πιο ευανάγνωστη και ευχάριστη εμφάνιση Ημερολογίου.</item>
+        <item>Συμπληρώστε το ημερολόγιό σας γρήγορα και εύκολα</item>
+        <item>Συμβάντα από το Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Αξιοποιήστε πλήρως κάθε μέρα.</item>
+        <item>Η Προβολή προγράμματος τοποθετεί εικόνες και χάρτες στο ημερολόγιό σας.</item>
+        <item>Με τους Βοηθούς, εμφανίζονται προτάσεις για τίτλους, επαφές και μέρη καθώς πληκτρολογείτε.</item>
+        <item>Κρατήσεις για πτήσεις, εστιατόρια και άλλα πολλά, προστίθενται αυτόματα από μηνύματα ηλεκτρονικού ταχυδρομείου.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Χρησιμοποιεί τη θέση της συσκευής.</item>
+        <item></item>
+        <item>Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Προσθέστε άτομα, για λήψη των στοιχείων επικοινωνίας τους</item>
+        <item>{LOCATION_ICON} Προσθέστε μέρη, για λήψη οδηγιών</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Με ποιον;</item>
+        <item>Προσθέστε κάποιον, για λήψη των στοιχείων επικοινωνίας του</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Με την προσθήκη επαφών δεν θα αποσταλεί και πρόσκληση</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Πού;</item>
+        <item>Προσθέστε μια τοποθεσία, για λήψη οδηγιών</item>
+    </string-array>
+</resources>

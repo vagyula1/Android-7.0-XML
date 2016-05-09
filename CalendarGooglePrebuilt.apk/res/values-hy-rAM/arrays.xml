@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_rename_labels">
+        <item>Կենտրոնական Ավստրալիա - NT</item>
+        <item>Կենտրոնական Ավստրալիա - SA</item>
+        <item>Արևելյան Ավստրալիա - QLD</item>
+        <item>Արևելյան Ավստրալիա - NSW</item>
+        <item>Լեռնային ստանդարտ - Դոուսոն-Կրիկ</item>
+        <item>Կենտրոնական ստանդարտ - Սասկաչևան</item>
+        <item>Արևելյան ստանդարտ - Ատիկոկան</item>
+        <item>Ատլանտյան ստանդարտ - Քվեբեք</item>
+        <item>Հավայի - Ալեության - Հավայի</item>
+        <item>Հավայի - Ալեության - Ալյասկա</item>
+        <item>Խաղաղօվկիանոսյան Ստանդ. - Մետլակատլա</item>
+        <item>Լեռնային ստանդ. - Արիզոնա</item>
+        <item>Խաղաղօվկիանոսյան - Բաջա Կալիֆորնիա</item>
+        <item>Լեռնային - Չիհուահուա</item>
+        <item>Կենտրոնական - Տամաուլիպաս</item>
+        <item>Լեռնային - Սոնորա</item>
+        <item>Արևելյան Աֆրիկայի ժամանակ</item>
+        <item>Ատլանտյան ստանդարտ ժամանակ</item>
+        <item>Ատլանտյան ստանդարտ ժամանակ</item>
+        <item>Արևելաևրոպական ժամանակ</item>
+        <item>Կալինինգրադի ժամանակ</item>
+        <item>Ամազոն - Ռոնդոնիա</item>
+        <item>Բրազիլիա - Պարա</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Սեն Մարտեն</item>
+        <item>Կարիբյան Նիդերլանդներ</item>
+        <item>Կյուրասաո</item>
+        <item>Հարավային Սուդան</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՕՐ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՇԱԲԱԹ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ԱՄԻՍ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՏԱՐԻ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Չի կրկնվում</item>
+        <item>Ամեն օր</item>
+        <item>Ամեն շաբաթ</item>
+        <item>Ամեն ամիս</item>
+        <item>Ամեն տարի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ամեն առաջին կիրակի</item>
+        <item>ամեն երկրորդ կիրակի</item>
+        <item>ամեն երրորդ կիրակի</item>
+        <item>ամեն չորրորդ կիրակի</item>
+        <item>ամեն վերջին կիրակի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ամեն առաջին երկուշաբթի</item>
+        <item>ամեն երկրորդ երկուշաբթի</item>
+        <item>ամեն երրորդ երկուշաբթի</item>
+        <item>ամեն չորրորդ երկուշաբթի</item>
+        <item>ամեն վերջին երկուշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ամեն առաջին երեքշաբթի</item>
+        <item>ամեն երկրորդ երեքշաբթի</item>
+        <item>ամեն երրորդ երեքշաբթի</item>
+        <item>ամեն չորրորդ երեքշաբթի</item>
+        <item>ամեն վերջին երեքշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ամեն առաջին չորեքշաբթի</item>
+        <item>ամեն երկրորդ չորեքշաբթի</item>
+        <item>ամեն երրորդ չորեքշաբթի</item>
+        <item>ամեն չորրորդ չորեքշաբթի</item>
+        <item>ամեն վերջին չորեքշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ամեն առաջին հինգշաբթի</item>
+        <item>ամեն երկրորդ հինգշաբթի</item>
+        <item>ամեն երրորդ հինգշաբթի</item>
+        <item>ամեն չորրորդ հինգշաբթի</item>
+        <item>ամեն վերջին հինգշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ամեն առաջին ուրբաթ</item>
+        <item>ամեն երկրորդ ուրբաթ</item>
+        <item>ամեն երրորդ ուրբաթ</item>
+        <item>ամեն չորրորդ ուրբաթ</item>
+        <item>ամեն վերջին ուրբաթ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ամեն առաջին շաբաթ օրը</item>
+        <item>ամեն երկրորդ շաբաթ օրը</item>
+        <item>ամեն երրորդ շաբաթ օրը</item>
+        <item>ամեն չորրորդ շաբաթ օրը</item>
+        <item>ամեն վերջին շաբաթ օրը</item>
+    </string-array>
+</resources>

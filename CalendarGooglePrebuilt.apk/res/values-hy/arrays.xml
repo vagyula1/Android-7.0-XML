@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>ծանուցում</item>
+        <item>նամակ</item>
+        <item>SMS</item>
+        <item>ազդանշան</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ոչ մեկը</item>
+        <item>0 րոպե</item>
+        <item>1 րոպե</item>
+        <item>5 րոպե</item>
+        <item>10 րոպե</item>
+        <item>15 րոպե</item>
+        <item>20 րոպե</item>
+        <item>25 րոպե</item>
+        <item>30 րոպե</item>
+        <item>45 րոպե</item>
+        <item>1 ժամ</item>
+        <item>2 ժամ</item>
+        <item>3 ժամ</item>
+        <item>12 ժամ</item>
+        <item>24 ժամ</item>
+        <item>2 օր</item>
+        <item>1 շաբաթ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Շաբաթ</item>
+        <item>Կիրակի</item>
+        <item>Երկուշաբթի</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Զբաղված է</item>
+        <item>Հասանելի է</item>
+        <item>Նախնական</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>առաջին</item>
+        <item>երկրորդ</item>
+        <item>երրորդ</item>
+        <item>չորրորդ</item>
+        <item>վերջին</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>դեռ պատասխան չկա</item>
+        <item>գնալու եմ</item>
+        <item>գուցե</item>
+        <item>չեմ գնալու</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Այս միջոցառումը</item>
+        <item>Առաջիկա բոլոր միջոցառումները</item>
+        <item>Բոլոր իրադարձությունները</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Այս &amp; գալիք իրադարձությունները</item>
+        <item>Բոլոր իրադարձությունները</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Միայն այս իրադարձությունը</item>
+        <item>Շարքի բոլոր իրադարձությունները</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Օր</item>
+        <item>Շաբաթ</item>
+        <item>Ամիս</item>
+        <item>Օրակարգ</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Զբաղված</item>
+        <item>Հասանելի</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Լոլիկ</item>
+        <item>Մանդարին</item>
+        <item>Դդում</item>
+        <item>Մանգո</item>
+        <item>Բանան</item>
+        <item>Կիտրոն</item>
+        <item>Ավոկադո</item>
+        <item>Պիստակ</item>
+        <item>Ռեհան</item>
+        <item>Էվկալիպտ</item>
+        <item>Եղեսպակ</item>
+        <item>Սիրամարգ</item>
+        <item>Կոբալտ</item>
+        <item>Հապալաս</item>
+        <item>Նարդոս</item>
+        <item>Եղրևանի</item>
+        <item>Ամետիստ</item>
+        <item>Խաղող</item>
+        <item>Ռադիկյո</item>
+        <item>Բալենու բողբոջ</item>
+        <item>Ֆլամինգո</item>
+        <item>Կակաո</item>
+        <item>Գրաֆիտ</item>
+        <item>Կեչի</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Ընդամենը մի քանի րոպե անց կլինեմ:</item>
+        <item>Կլինեմ այնտեղ մոտ 10 րոպեից:</item>
+        <item>Գնացեք և սկսեք առանց ինձ:</item>
+        <item>Ներեցեք, ես չեմ կարող հասցնել: Մենք ստիպված կլինենք վերապլանավորել:</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Օրացույց</item>
+        <item>Զննելը՝ հեշտ, տեսքը՝ հաճելի</item>
+        <item>Օրացույցը լրացրեք արագ ու հեշտ</item>
+        <item>Միջոցառումներ Gmail-ից</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Առավելագույնը քաղեք ամեն մի օրից:</item>
+        <item>Ժամանակացույցի ռեժիմում հասանելի են լուսանկարներ և այն վայրերի քարտեզները, որոնք պատրաստվում եք այցելել:</item>
+        <item>Հուշումների գործառույթի շնորհիվ՝ մուտքագրելիս հայտնվում են վերնագրերի, կոնտակտների և վայրերի առաջարկներ:</item>
+        <item>Թռիչքների, ռեստորանների և այլ ամրագրումներն ավտոմատ ավելացվում են էլփոստից:</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Օգտագործում է սարքի տեղադրությունը:</item>
+        <item></item>
+        <item>Սա կարող եք փոխել Կարգավորումներում:</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Ավելացրեք մարդկանց, ստացեք նրանց կոնտակտային տվյալները</item>
+        <item>{LOCATION_ICON} Ավելացրեք վայրեր, ստացեք երթուղիները</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Ում հետ</item>
+        <item>Ավելացրեք մարդկանց, ստացեք նրանց տվյալները</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Կոնտակտ ավելացնելիս հրավեր չի ուղարկվի</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Վայրը</item>
+        <item>Ավելացրեք վայրեր, ստացեք երթուղիները</item>
+    </string-array>
+</resources>

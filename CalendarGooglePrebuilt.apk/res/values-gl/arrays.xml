@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notificación</item>
+        <item>correo</item>
+        <item>SMS</item>
+        <item>alarma</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ningunha</item>
+        <item>0 minutos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Luns</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Dispoñible</item>
+        <item>Provisional</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primeiro</item>
+        <item>segundo</item>
+        <item>terceiro</item>
+        <item>cuarto</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>sen responder</item>
+        <item>vai ir</item>
+        <item>quizais</item>
+        <item>non vai ir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Este evento</item>
+        <item>Todos os eventos seguintes</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Este evento e outros posteriores</item>
+        <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Só este evento</item>
+        <item>Todos os eventos da serie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Axenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Ocupado</item>
+        <item>Dispoñible</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomate</item>
+        <item>Mandarina</item>
+        <item>Cabaza</item>
+        <item>Manga</item>
+        <item>Plátano</item>
+        <item>Cidra</item>
+        <item>Aguacate</item>
+        <item>Pistacho</item>
+        <item>Alfábega</item>
+        <item>Eucalipto</item>
+        <item>Salvia</item>
+        <item>Turquesa</item>
+        <item>Azul cobalto</item>
+        <item>Arando</item>
+        <item>Lavanda</item>
+        <item>Glicinia</item>
+        <item>Ametista</item>
+        <item>Uva</item>
+        <item>Radicchio</item>
+        <item>Flor da cerdeira</item>
+        <item>Flamengo</item>
+        <item>Cacao</item>
+        <item>Grafito</item>
+        <item>Bidueiro</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Chego uns minutos tarde.</item>
+        <item>Chego en 10 minutos.</item>
+        <item>Comezade sen min.</item>
+        <item>Non podo ir, síntoo. Deixarémolo para outra ocasión.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Consulta sinxela e aspecto máis atractivo</item>
+        <item>Completa o calendario de forma rápida e fácil</item>
+        <item>Eventos de Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Tira o maior proveito de cada día.</item>
+        <item>A vista de axenda inclúe imaxes e mapas no teu calendario.</item>
+        <item>Coas axudas, aparecen suxestións para títulos, contactos e lugares a medida que escribes.</item>
+        <item>Engádense automaticamente as reservas de voos, restaurantes e moito máis desde os correos electrónicos.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Usa a localización do dispositivo.</item>
+        <item></item>
+        <item>Podes cambialo en Configuración.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Engade persoas para obter a información de contacto</item>
+        <item>{LOCATION_ICON} Engade lugares para obter indicacións</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Con quen?</item>
+        <item>Engade unha persoa para obter a información de contacto</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Ao engadires un contacto non se envía unha invitación de forma automática</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Onde?</item>
+        <item>Engade unha localización para obter direccións</item>
+    </string-array>
+</resources>

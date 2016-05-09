@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Dialog.FixedSize" />
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Light.Dialog.FixedSize" />
+    <style name="TrackListHeaderSubtitle" parent="@style/SecondaryTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="TrackListHeaderTertiaryTitle" parent="@style/TertiaryTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+    </style>
+    <style name="TrackListHeaderTitle" parent="@style/PrimaryTitle">
+        <item name="android:textSize">36.0sp</item>
+    </style>
+</resources>

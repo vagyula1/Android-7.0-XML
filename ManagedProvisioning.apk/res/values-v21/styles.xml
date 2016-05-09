@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SuwGlifCardContainer">
+        <item name="android:background">?android:colorBackground</item>
+        <item name="android:elevation">5.0dip</item>
+    </style>
+    <style name="SetupWorkSpaceTheme" parent="@style/SuwThemeMaterial.Light">
+        <item name="android:windowBackground">@color/gray_50</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorPrimary">@color/orange</item>
+        <item name="android:colorPrimaryDark">@color/orange</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:indeterminateTint">@color/teal</item>
+    </style>
+    <style name="ManagedProvisioningDialogTheme" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorControlActivated">@color/orange</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+    <style name="SuwThemeMaterial" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
+        <item name="android:textColorLink">@color/suw_link_color_dark</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
+        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
+        <item name="android:colorAccent">@color/suw_color_accent_dark</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:indeterminateTint">@color/suw_progress_bar_color_dark</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+        <item name="suwMarginSides">@dimen/suw_layout_margin_sides</item>
+        <item name="suwCardBackground">@drawable/suw_card_bg</item>
+        <item name="suwListItemIconColor">@color/suw_list_item_icon_color_dark</item>
+        <item name="suwNavBarTheme">@style/SuwNavBarThemeDark</item>
+    </style>
+    <style name="SuwThemeMaterial.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
+        <item name="android:textColorLink">@color/suw_link_color_light</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:textAppearanceListItemSmall">@android:style/TextAppearance.Material.Body1</item>
+        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
+        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
+        <item name="android:colorAccent">@color/suw_color_accent_light</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:indeterminateTint">@color/suw_progress_bar_color_light</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+        <item name="suwMarginSides">@dimen/suw_layout_margin_sides</item>
+        <item name="suwCardBackground">@drawable/suw_card_bg</item>
+        <item name="suwListItemIconColor">@color/suw_list_item_icon_color_light</item>
+        <item name="suwNavBarTheme">@style/SuwNavBarThemeLight</item>
+    </style>
+    <style name="SuwThemeGlif" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
+        <item name="android:textColorLink">@color/suw_link_color_light</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance.SuwGlifItemTitle</item>
+        <item name="android:textAppearanceListItemSmall">@style/TextAppearance.SuwGlifItemSummary</item>
+        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
+        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
+        <item name="android:colorPrimary">@color/suw_color_accent_light</item>
+        <item name="android:colorAccent">@color/suw_color_accent_light</item>
+        <item name="android:statusBarColor">?android:colorPrimary</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:indeterminateTint">?android:colorPrimary</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+        <item name="suwMarginSides">@dimen/suw_glif_margin_sides</item>
+        <item name="suwListItemIconColor">@color/suw_list_item_icon_color_dark</item>
+    </style>
+    <style name="SuwThemeGlif.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:listPreferredItemHeight">@dimen/suw_items_preferred_height</item>
+        <item name="android:textColorLink">@color/suw_link_color_light</item>
+        <item name="android:windowAnimationStyle">@style/Animation.SuwWindowAnimation</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:textAppearanceListItem">@style/TextAppearance.SuwGlifItemTitle</item>
+        <item name="android:textAppearanceListItemSmall">@style/TextAppearance.SuwGlifItemSummary</item>
+        <item name="android:listPreferredItemPaddingStart">?suwMarginSides</item>
+        <item name="android:listPreferredItemPaddingEnd">?suwMarginSides</item>
+        <item name="android:colorPrimary">@color/suw_color_accent_light</item>
+        <item name="android:colorAccent">@color/suw_color_accent_light</item>
+        <item name="android:statusBarColor">?android:colorPrimary</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:indeterminateTint">?android:colorPrimary</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+        <item name="suwMarginSides">@dimen/suw_glif_margin_sides</item>
+        <item name="suwListItemIconColor">@color/suw_list_item_icon_color_light</item>
+    </style>
+    <style name="TextAppearance.SuwDescription" parent="@android:style/TextAppearance.Material.Medium">
+        <item name="android:textSize">@dimen/suw_description_text_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.SuwCardTitle" parent="@android:style/TextAppearance.Material.Display1">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="SuwGlifCardBackground">
+        <item name="android:background">?android:colorPrimary</item>
+    </style>
+    <style name="SuwItemContainer">
+        <item name="android:paddingTop">@dimen/suw_items_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/suw_items_padding_vertical</item>
+        <item name="android:minHeight">?android:listPreferredItemHeight</item>
+        <item name="android:paddingStart">?android:listPreferredItemPaddingStart</item>
+        <item name="android:paddingEnd">?android:listPreferredItemPaddingEnd</item>
+    </style>
+    <style name="SuwItemTitle">
+        <item name="android:textAppearance">?android:textAppearanceListItem</item>
+    </style>
+    <style name="SuwItemSummary">
+        <item name="android:textAppearance">?android:textAppearanceListItemSmall</item>
+    </style>
+    <style name="SuwButtonItem" />
+    <style name="SuwButtonItem.Colored" parent="@style/SuwButtonItem">
+        <item name="android:buttonStyle">@android:style/Widget.Material.Button</item>
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:colorButtonNormal">?android:colorAccent</item>
+    </style>
+    <style name="SuwNavBarButtonStyle" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textSize">@dimen/suw_navbar_text_size</item>
+        <item name="android:textColor">?suwNavBarTextColor</item>
+        <item name="android:background">?suwNavBarButtonBackground</item>
+        <item name="android:paddingLeft">@dimen/suw_navbar_button_padding_sides</item>
+        <item name="android:paddingRight">@dimen/suw_navbar_button_padding_sides</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="SuwNavBarThemeDark" parent="@style/SuwNavBarTheme">
+        <item name="suwNavBarBackgroundColor">@color/suw_navbar_bg_dark</item>
+        <item name="suwNavBarButtonBackground">@drawable/suw_navbar_btn_bg</item>
+    </style>
+    <style name="SuwNavBarThemeLight" parent="@style/SuwNavBarTheme">
+        <item name="suwNavBarBackgroundColor">@color/suw_navbar_bg_light</item>
+        <item name="suwNavBarButtonBackground">@drawable/suw_navbar_btn_bg</item>
+    </style>
+</resources>

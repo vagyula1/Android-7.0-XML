@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Fyrir %d viðburði</item>
+        <item quantity="one">Fyrir %d viðburð</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Á %d daga fresti</item>
+        <item quantity="one">Á %d dags fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Á %d vikna fresti</item>
+        <item quantity="one">Á %d viku fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Á %d mánaða fresti</item>
+        <item quantity="one">Á %d mánaðar fresti</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Á %d ára fresti</item>
+        <item quantity="one">Á %d árs fresti</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d sinnum</item>
+        <item quantity="one">, í eitt skipti</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Á %d daga fresti</item>
+        <item quantity="one">Daglega</item>
+        <item quantity="two">Á %d daga fresti</item>
+        <item quantity="few">Á %d daga fresti</item>
+        <item quantity="many">Á %d daga fresti</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">á %d daga fresti</item>
+        <item quantity="one">daglega</item>
+        <item quantity="two">á %d daga fresti</item>
+        <item quantity="few">á %d daga fresti</item>
+        <item quantity="many">á %d daga fresti</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Á %1$d vikna fresti á %2$s</item>
+        <item quantity="one">Vikulega á %2$s</item>
+        <item quantity="two">Á %1$d vikna fresti á %2$s</item>
+        <item quantity="few">Á %1$d vikna fresti á %2$s</item>
+        <item quantity="many">Á %1$d vikna fresti á %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">á %1$d vikna fresti á %2$s</item>
+        <item quantity="one">vikulega á %2$s</item>
+        <item quantity="two">á %1$d vikna fresti á %2$s</item>
+        <item quantity="few">á %1$d vikna fresti á %2$s</item>
+        <item quantity="many">á %1$d vikna fresti á %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Á %1$d mánaða fresti</item>
+        <item quantity="one">Mánaðarlega</item>
+        <item quantity="two">Á %1$d mánaða fresti</item>
+        <item quantity="few">Á %1$d mánaða fresti</item>
+        <item quantity="many">Á %1$d mánaða fresti</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">á %1$d mánaða fresti</item>
+        <item quantity="one">mánaðarlega</item>
+        <item quantity="two">á %1$d mánaða fresti</item>
+        <item quantity="few">á %1$d mánaða fresti</item>
+        <item quantity="many">á %1$d mánaða fresti</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Á %1$d ára fresti</item>
+        <item quantity="one">Árlega</item>
+        <item quantity="two">Á %1$d ára fresti</item>
+        <item quantity="few">Á %1$d ára fresti</item>
+        <item quantity="many">Á %1$d ára fresti</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">á %1$d ára fresti</item>
+        <item quantity="one">árlega</item>
+        <item quantity="two">á %1$d ára fresti</item>
+        <item quantity="few">á %1$d ára fresti</item>
+        <item quantity="many">á %1$d ára fresti</item>
+    </plurals>
+</resources>

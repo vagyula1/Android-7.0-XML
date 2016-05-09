@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>შეტყობინება</item>
+        <item>ელფოსტა</item>
+        <item>SMS</item>
+        <item>მაღვიძარა</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>არცერთი</item>
+        <item>0 წუთი</item>
+        <item>1 წუთი</item>
+        <item>5 წუთი</item>
+        <item>10 წუთი</item>
+        <item>15 წუთი</item>
+        <item>20 წუთი</item>
+        <item>25 წუთი</item>
+        <item>30 წუთი</item>
+        <item>45 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+        <item>3 საათი</item>
+        <item>12 საათი</item>
+        <item>24 საათი</item>
+        <item>2 დღე</item>
+        <item>1 კვირა</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>შაბათი</item>
+        <item>კვირა</item>
+        <item>ორშაბათი</item>
+    </string-array>
+    <string-array name="availability">
+        <item>დაკავებული</item>
+        <item>ხელმისაწვდომი</item>
+        <item>სავარაუდოდ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>პირველი</item>
+        <item>მეორე</item>
+        <item>მესამე</item>
+        <item>მეოთხე</item>
+        <item>ბოლო</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ჯერ არ უპასუხია</item>
+        <item>ესწრება</item>
+        <item>შესაძლოა</item>
+        <item>არ ესწრება</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ეს მოვლენა</item>
+        <item>ყველა შემდგომი მოვლენა</item>
+        <item>ყველა ღონისძიება</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ეს და მომავალი ღონისძიებები</item>
+        <item>ყველა ღონისძიება</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>მხოლოდ ეს ღონისძიება</item>
+        <item>ყველა ღონისძიება ამ სერიებში</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>დღე</item>
+        <item>კვირა</item>
+        <item>თვე</item>
+        <item>დღის განრიგი</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>დაკავებული</item>
+        <item>ხელმისაწვდომი</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>პომიდვრისფერი</item>
+        <item>მანდარინისფერი</item>
+        <item>გოგრისფერი</item>
+        <item>მანგოსფერი</item>
+        <item>ბანანისფერი</item>
+        <item>ციტრონისფერი</item>
+        <item>ავოკადოსფერი</item>
+        <item>ფსტისფერი</item>
+        <item>მწვანე რეჰანისფერი</item>
+        <item>ევკალიფტისფერი</item>
+        <item>მონაცრისფრო-მომწვანო</item>
+        <item>ფირუზისფერი</item>
+        <item>კობალტისფერი</item>
+        <item>მუქი ლურჯი</item>
+        <item>ლავანდისფერი</item>
+        <item>ღია იისფერი</item>
+        <item>ამეთვისტოსფერი</item>
+        <item>შავი ყურძნისფერი</item>
+        <item>ჟოლოსფერი</item>
+        <item>ალუბლის ყვავილისფერი</item>
+        <item>ღია ვარდისფერი</item>
+        <item>კაკაოსფერი</item>
+        <item>მუქი ნაცრისფერი</item>
+        <item>ღია ნაცრისფერი</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>მაგვიანდება მხოლოდ რამდენიმე წუთით.</item>
+        <item>10 წუთში მანდ ვარ.</item>
+        <item>არ დამელოდოთ, დაიწყეთ უჩემოდ.</item>
+        <item>უკაცრავად, ვერ ვახერხებ. მოგვიწევს ხელახლა დაგეგმვა.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google კალენდარი</item>
+        <item>გაადვილებული სკანირება და სილამაზე</item>
+        <item>შეავსეთ თქვენი კალენდარი სწრაფად და მარტივად</item>
+        <item>მოვლენები Gmail-იდან</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>მაქსიმალურად გამოიყენეთ თქვენი ყოველი დღე.</item>
+        <item>განრიგის ხედი სურათებს და რუკებს თქვენს კალენდარში განათავსებს</item>
+        <item>თქვენი კალენდრის შევსების დახმარების საშუალებით, აკრეფისას გამოჩნდება სათაურების, კონტაქტების და ადგილების შეთავაზებები.</item>
+        <item>რეისების, რესტორნების და სხვა ერთეულების ჯავშნები ავტომატურად ემატება ელფოსტებიდან.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>იყენებს მოწყობილობის მდებარეობას.</item>
+        <item></item>
+        <item>ამის შეცვლა პარამეტრებში შეგიძლიათ.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} დაამატეთ ხალხი და მიიღეთ საკონტაქტო ინფორმაცია</item>
+        <item>{LOCATION_ICON} დაამატეთ ადგილები, მიიღეთ მიმართულებები</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>ვისთან ერთად?</item>
+        <item>დაამატეთ ვინმე და მიიღეთ საკონტაქტო ინფორმაცია</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}კონტაქტების დამატებით მოწვევა არ გაიგზავნება</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>სად?</item>
+        <item>დაამატეთ მდებარეობა და მიიღეთ მიმართულებები</item>
+    </string-array>
+</resources>

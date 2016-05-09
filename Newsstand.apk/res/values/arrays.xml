@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="article_text_size_entries">
+        <item>@string/article_text_size_small</item>
+        <item>@string/article_text_size_normal</item>
+        <item>@string/article_text_size_large</item>
+    </string-array>
+    <string-array name="article_text_size_values">
+        <item>SMALL</item>
+        <item>MEDIUM</item>
+        <item>LARGE</item>
+    </string-array>
+    <string-array name="auto_pin_cleanup">
+        <item>@string/auto_pin_cleanup_keep_all</item>
+        <item>@string/auto_pin_cleanup_keep_latest</item>
+    </string-array>
+    <string-array name="auto_pin_download_versions">
+        <item>@string/auto_pin_version_download_full</item>
+        <item>@string/auto_pin_version_download_lite</item>
+    </string-array>
+    <string-array name="extra_jars">
+        <item>@string/pdflibjar</item>
+    </string-array>
+    <string-array name="image_sync_type_entries">
+        <item>@string/image_sync_type_images_in_bg</item>
+        <item>@string/image_sync_type_no_images</item>
+        <item>@string/image_sync_type_primary_images</item>
+        <item>@string/image_sync_type_all_images</item>
+    </string-array>
+    <string-array name="image_sync_type_values">
+        <item>IMAGES_IN_BG</item>
+        <item>NO_IMAGES</item>
+        <item>PRIMARY_IMAGES</item>
+        <item>ALL_IMAGES</item>
+    </string-array>
+    <string-array name="language_codes_array">
+        <item>af</item>
+        <item>id</item>
+        <item>ms</item>
+        <item>ca</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>de</item>
+        <item>en-GB</item>
+        <item>en-US</item>
+        <item>es</item>
+        <item>es-US</item>
+        <item>fil</item>
+        <item>fr</item>
+        <item>hr</item>
+        <item>zu</item>
+        <item>it</item>
+        <item>sw</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>hu</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt-BR</item>
+        <item>pt-PT</item>
+        <item>ro</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>fi</item>
+        <item>sv</item>
+        <item>vi</item>
+        <item>tr</item>
+        <item>el</item>
+        <item>bg</item>
+        <item>ru</item>
+        <item>sr</item>
+        <item>uk</item>
+        <item>iw</item>
+        <item>ar</item>
+        <item>fa</item>
+        <item>hi</item>
+        <item>th</item>
+        <item>ko</item>
+        <item>zh-CN</item>
+        <item>zh-TW</item>
+        <item>ja</item>
+    </string-array>
+    <string-array name="languages_array">
+        <item>Afrikaans</item>
+        <item>Bahasa Indonesia</item>
+        <item>Bahasa Melayu</item>
+        <item>Català</item>
+        <item>čeština</item>
+        <item>dansk</item>
+        <item>Deutsch</item>
+        <item>English (United Kingdom)</item>
+        <item>English (United States)</item>
+        <item>Español (España)</item>
+        <item>Español (Estados Unidos)</item>
+        <item>Filipino</item>
+        <item>Français</item>
+        <item>Hrvatski</item>
+        <item>IsiZulu</item>
+        <item>Italiano</item>
+        <item>Kiswahili</item>
+        <item>Latviešu</item>
+        <item>Lietuvių</item>
+        <item>Magyar</item>
+        <item>Nederlands</item>
+        <item>Norsk bokmål</item>
+        <item>Polski</item>
+        <item>Português (Brasil)</item>
+        <item>Português (Portugal)</item>
+        <item>Română</item>
+        <item>Slovenčina</item>
+        <item>Slovenščina</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>Български</item>
+        <item>Pусский</item>
+        <item>Српски</item>
+        <item>Українська</item>
+        <item>עברית</item>
+        <item>العربية</item>
+        <item>فارسی</item>
+        <item>हिन्दी</item>
+        <item>ไทย</item>
+        <item>한국어</item>
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+        <item>日本語</item>
+    </string-array>
+    <string-array name="magazine_download_versions">
+        <item>@string/magazine_version_print</item>
+        <item>@string/magazine_version_lite</item>
+    </string-array>
+    <string-array name="my_magazines_sort_by_items">
+        <item>@string/publication_date</item>
+        <item>@string/title</item>
+    </string-array>
+    <string-array name="show_onboard_quiz_entries">
+        <item>"Use server's setting"</item>
+        <item>Never</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="show_onboard_quiz_values">
+        <item>@string/show_onboard_quiz_server</item>
+        <item>@string/show_onboard_quiz_no</item>
+        <item>@string/show_onboard_quiz_yes</item>
+    </string-array>
+</resources>

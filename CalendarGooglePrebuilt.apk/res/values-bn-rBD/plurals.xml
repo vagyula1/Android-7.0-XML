@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%dটি ইভেন্টের জন্য</item>
+        <item quantity="one">%dটি ইভেন্টের জন্য</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">প্রতি %d দিনে</item>
+        <item quantity="one">প্রতি %d দিনে</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">প্রতি %d সপ্তাহে</item>
+        <item quantity="one">প্রতি %d সপ্তাহে</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">প্রতি %d মাসে</item>
+        <item quantity="one">প্রতি %d মাসে</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">প্রতি %d বছরে</item>
+        <item quantity="one">প্রতি %d বছরে</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d বারের জন্য</item>
+        <item quantity="one">; একবারের জন্য</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">প্রতি %d দিনে</item>
+        <item quantity="one">প্রতিদিন</item>
+        <item quantity="two">প্রতি %d দিনে</item>
+        <item quantity="few">প্রতি %d দিনে</item>
+        <item quantity="many">প্রতি %d দিনে</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">প্রতি %d দিনে</item>
+        <item quantity="one">প্রতিদিন</item>
+        <item quantity="two">প্রতি %d দিনে</item>
+        <item quantity="few">প্রতি %d দিনে</item>
+        <item quantity="many">প্রতি %d দিনে</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">প্রতি %1$d সপ্তাহ পরপর %2$s এ</item>
+        <item quantity="one">প্রতি সপ্তাহের %2$s এ</item>
+        <item quantity="two">প্রতি %1$d সপ্তাহ পরপর %2$s এ</item>
+        <item quantity="few">প্রতি %1$d সপ্তাহ পরপর %2$s এ</item>
+        <item quantity="many">প্রতি %1$d সপ্তাহ পরপর %2$s এ</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">প্রতি %1$d সপ্তাহ পর পর %2$s এ</item>
+        <item quantity="one">প্রতি সপ্তাহের %2$s এ</item>
+        <item quantity="two">প্রতি %1$d সপ্তাহ পর পর %2$s এ</item>
+        <item quantity="few">প্রতি %1$d সপ্তাহ পর পর %2$s এ</item>
+        <item quantity="many">প্রতি %1$d সপ্তাহ পর পর %2$s এ</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">প্রতি %1$d মাসে</item>
+        <item quantity="one">মাসিক</item>
+        <item quantity="two">প্রতি %1$d মাসে</item>
+        <item quantity="few">প্রতি %1$d মাসে</item>
+        <item quantity="many">প্রতি %1$d মাসে</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">প্রতি %1$d মাসে</item>
+        <item quantity="one">মাসিক</item>
+        <item quantity="two">প্রতি %1$d মাসে</item>
+        <item quantity="few">প্রতি %1$d মাসে</item>
+        <item quantity="many">প্রতি %1$d মাসে</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">প্রতি %1$d বছরে</item>
+        <item quantity="one">বাৎসরিক</item>
+        <item quantity="two">প্রতি %1$d বছরে</item>
+        <item quantity="few">প্রতি %1$d বছরে</item>
+        <item quantity="many">প্রতি %1$d বছরে</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">প্রতি %1$d বছরে</item>
+        <item quantity="one">বাৎসরিক</item>
+        <item quantity="two">প্রতি %1$d বছরে</item>
+        <item quantity="few">প্রতি %1$d বছরে</item>
+        <item quantity="many">প্রতি %1$d বছরে</item>
+    </plurals>
+</resources>

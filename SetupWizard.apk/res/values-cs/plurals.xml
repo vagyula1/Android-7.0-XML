@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Zařízení se za %d sekund vypne…</item>
+        <item quantity="one">Zařízení se za 1 sekundu vypne…</item>
+        <item quantity="few">Zařízení se za %d sekundy vypne…</item>
+        <item quantity="many">Zařízení se za %d sekundy vypne…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Následující účet je připraven:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Následující účty jsou připraveny:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d dalšími klepnutími zahájíte nastavení pomocí QR kódu</item>
+        <item quantity="one">%d dalším klepnutím zahájíte nastavení pomocí QR kódu</item>
+        <item quantity="few">%d dalšími klepnutími zahájíte nastavení pomocí QR kódu</item>
+        <item quantity="many">%d dalšího klepnutí zahájíte nastavení pomocí QR kódu</item>
+    </plurals>
+</resources>

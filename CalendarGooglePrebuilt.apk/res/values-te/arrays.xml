@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>నోటిఫికేషన్</item>
+        <item>ఇమెయిల్</item>
+        <item>SMS</item>
+        <item>అలారం</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ఏదీ కాదు</item>
+        <item>0 నిమిషాలు</item>
+        <item>1 నిమిషం</item>
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+        <item>3 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>24 గంటలు</item>
+        <item>2 రోజులు</item>
+        <item>1 వారం</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>శనివారం</item>
+        <item>ఆదివారం</item>
+        <item>సోమవారం</item>
+    </string-array>
+    <string-array name="availability">
+        <item>బిజీగా ఉంది</item>
+        <item>అందుబాటులో ఉంది</item>
+        <item>పరీక్షార్థక స్థితిలో ఉంది</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>మొదటిది</item>
+        <item>రెండవది</item>
+        <item>మూడవది</item>
+        <item>నాలుగవది</item>
+        <item>చివరిది</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ఇంకా ప్రతిస్పందించలేదు</item>
+        <item>హాజరవుతున్నారు</item>
+        <item>హాజరు కావచ్చు</item>
+        <item>హాజరవడం లేదు</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ఈ ఈవెంట్</item>
+        <item>క్రింది అన్ని ఈవెంట్‌లు</item>
+        <item>అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ఇది &amp; భవిష్యత్తు ఈవెంట్‌లు</item>
+        <item>అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ఈ ఈవెంట్ మాత్రమే</item>
+        <item>శ్రేణిలోని అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>రోజు</item>
+        <item>వారం</item>
+        <item>నెల</item>
+        <item>విషయ పట్టిక</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>బిజీగా ఉన్నారు</item>
+        <item>అందుబాటులో ఉన్నారు</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>టమోట</item>
+        <item>నారింజ</item>
+        <item>గుమ్మడికాయ</item>
+        <item>మామిడిపండు</item>
+        <item>అరటిపండు</item>
+        <item>దబ్బకాయ</item>
+        <item>లేతపసుపుపచ్చ</item>
+        <item>పిస్తా</item>
+        <item>ముదురుఆకుపచ్చ</item>
+        <item>నీలిఆకుపచ్చ</item>
+        <item>లేతపచ్చ</item>
+        <item>నెమలినీలం</item>
+        <item>నీలం</item>
+        <item>ముదురునీలం</item>
+        <item>నీలిఊదా</item>
+        <item>లేత ఊదా</item>
+        <item>ఊదా</item>
+        <item>ద్రాక్ష</item>
+        <item>ముదురుఎరుపు</item>
+        <item>గులాబీ</item>
+        <item>లేతగులాబీ</item>
+        <item>ముదురుగోధుమ</item>
+        <item>ముదురుబూడిద</item>
+        <item>లేతకాఫీ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>రెండు నిమిషాలు ఆలస్యంగా జరుగుతోంది.</item>
+        <item>10 నిమిషాల్లో అక్కడికి చేరుకోండి.</item>
+        <item>ప్రారంభించండి మరియు నేను లేకుండానే ప్రారంభించండి.</item>
+        <item>క్షమించండి, నేను హాజరు కాలేను. మనం మళ్లీ షెడ్యూల్ చేయాలి.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google క్యాలెండర్</item>
+        <item>స్కాన్ చేయడం సులభం మరియు అందంగా కనిపిస్తుంది</item>
+        <item>మీ క్యాలెండర్‌ను వేగంగా, సులభంగా పూరించండి</item>
+        <item>Gmail నుండి ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>ప్రతి రోజును సద్వినియోగం చేసుకోండి.</item>
+        <item>షెడ్యూల్ వీక్షణలో మీ క్యాలెండర్ చిత్రాలు మరియు మ్యాప్‌లను చూపుతుంది.</item>
+        <item>సహాయకాల వలన మీరు శీర్షికలు, పరిచయాలు మరియు స్థలాల కోసం టైప్ చేస్తున్నప్పుడు సూచనలు కనిపిస్తాయి.</item>
+        <item>విమానాలు, రెస్టారెంట్‌లు మరియు మరిన్నింటి కోసం రిజర్వేషన్‌లు ఇమెయిల్‌ల నుండి స్వయంచాలకంగా జోడించబడతాయి.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>పరికర స్థానాన్ని ఉపయోగిస్తుంది.</item>
+        <item></item>
+        <item>మీరు సెట్టింగ్‌ల్లో దీన్ని మార్చవచ్చు.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} వ్యక్తులను జోడించండి, సంప్రదింపు సమాచారాన్ని పొందండి</item>
+        <item>{LOCATION_ICON} స్థలాలను జోడించండి, దిశలను పొందండి</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>ఎవరితో?</item>
+        <item>ఒకరిని జోడించండి, సంప్రదింపు సమాచారాన్ని పొందండి</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}పరిచయాలను జోడించడం వలన ఆహ్వానం పంపబడదు</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>ఎక్కడ?</item>
+        <item>స్థానాన్ని జోడించండి, దిశలను పొందండి</item>
+    </string-array>
+</resources>

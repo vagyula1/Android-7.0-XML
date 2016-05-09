@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TrackListHeaderSubtitle" parent="@style/SecondaryTitle">
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="TrackListHeaderTertiaryTitle" parent="@style/TertiaryTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="PlayCondensedText">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="PlayGridBoldText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PlayLightText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlayPlainText">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="MusicPlayCondensedText">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="MusicPlayGridBoldText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="MusicPlayGridContentPrimary">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="MusicPlayGridContentSecondary">
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="MusicPlayLightText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="MusicPlayPlainText">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PrimaryTitle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SecondaryTitle" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SideMenuTextWithIcon" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/drawer_setting_text_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SideMenuTextWithoutIcon" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">21.0sp</item>
+        <item name="android:textColor">@color/play_fg_primary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TertiaryTitle" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="ActionBarSubtitle" parent="@style/TertiaryTitle">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#b3ffffff</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="LeanbackQuizCardText">
+        <item name="android:textSize">@dimen/leanback_quiz_card_chin_text_size</item>
+        <item name="android:textColor">@color/leanback_quiz_card_chin_text_color</item>
+        <item name="android:fontFamily">san-serif-condensed</item>
+    </style>
+    <style name="LeanbackSituationText">
+        <item name="android:textSize">@dimen/leanback_situation_title_text_size</item>
+        <item name="android:textColor">@color/leanback_track_main_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="LeanbackSituationText.Description" parent="@style/LeanbackSituationText">
+        <item name="android:textSize">@dimen/leanback_situation_description_text_size</item>
+        <item name="android:textColor">@color/leanback_situation_description_text_color</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="LeanbackSongRowText">
+        <item name="android:textSize">@dimen/leanback_track_text_size</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="LeanbackSubSituationOptionText">
+        <item name="android:textSize">@dimen/leanback_subsituation_option_title_text_size</item>
+        <item name="android:textColor">@color/leanback_track_main_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="LeanbackSubSituationOptionText.Description" parent="@style/LeanbackSubSituationOptionText">
+        <item name="android:textSize">@dimen/leanback_subsituation_option_description_text_size</item>
+        <item name="android:textColor">@color/leanback_situation_description_text_color</item>
+        <item name="android:includeFontPadding">true</item>
+        <item name="android:lineSpacingMultiplier">@dimen/leanback_subsituation_option_row_description_text_line_spacing_multiplier</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="MusicDropDownItem" parent="@style/Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="MusicExpandableRadioCardTitle" parent="@style/PlayCardTitle">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="MusicPlayGridPlainText">
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="TextAppearance.Leanback" parent="@style/TextAppearance.LeanbackBase">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="TextAppearance.Leanback.DetailsDescriptionBody" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_details_description_body_text_size</item>
+        <item name="android:textColor">@color/lb_details_description_body_color</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Leanback.DetailsDescriptionSubtitle" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_details_description_subtitle_text_size</item>
+        <item name="android:textColor">@color/lb_details_description_color</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Leanback.DetailsDescriptionTitle" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_details_description_title_text_size</item>
+        <item name="android:textColor">@color/lb_details_description_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextAppearance.Leanback.ErrorMessage" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_error_message_text_size</item>
+        <item name="android:textColor">@color/lb_error_message</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Leanback.PlaybackControlLabel" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_control_button_text_size</item>
+        <item name="android:textColor">@color/lb_control_button_text</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Leanback.PlaybackControlsTime" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_playback_controls_time_text_size</item>
+        <item name="android:textColor">@color/lb_playback_controls_time_text_color</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Leanback.Title" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_browse_title_text_size</item>
+        <item name="android:textColor">@color/lb_browse_title_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="VideoSubtitle" parent="@style/SecondaryTitle">
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceBreadcrumbStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#88f1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_above">@id/guidance_title</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceDescriptionStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#88f1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">6</item>
+        <item name="android:layout_below">@id/guidance_title</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:lineSpacingExtra">3.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceTitleStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:textColor">#fff1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">end</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemDescriptionStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">@dimen/lb_guidedactions_item_description_font_size</item>
+        <item name="android:textColor">@color/lb_guidedactions_item_unselected_text_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/lb_guidedactions_item_description_min_lines</item>
+        <item name="android:alpha">@string/lb_guidedactions_item_unselected_description_text_alpha</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemTitleStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">@dimen/lb_guidedactions_item_title_font_size</item>
+        <item name="android:textColor">@color/lb_guidedactions_item_unselected_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">@integer/lb_guidedactions_item_title_min_lines</item>
+        <item name="android:alpha">@string/lb_guidedactions_item_unselected_text_alpha</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Widget.Leanback.ImageCardView.ContentStyle" parent="@style/Widget.Leanback.ImageCardView">
+        <item name="android:textSize">@dimen/lb_basic_card_content_text_size</item>
+        <item name="android:textColor">@color/lb_basic_card_content_text_color</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:id">@id/content_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_below">@id/title_text</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Widget.Leanback.ImageCardView.TitleStyle" parent="@style/Widget.Leanback.ImageCardView">
+        <item name="android:textSize">@dimen/lb_basic_card_title_text_size</item>
+        <item name="android:textColor">@color/lb_basic_card_title_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:id">@id/title_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/lb_basic_card_info_text_margin</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Widget.MediaRouter.ChooserText" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Widget.MediaRouter.ControllerText.Title" parent="@style/Widget.MediaRouter.ControllerText">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="PlayDrawerDownloadToggle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:textOn">" "</item>
+        <item name="android:textOff">" "</item>
+        <item name="android:switchMinWidth">56.0dip</item>
+    </style>
+</resources>

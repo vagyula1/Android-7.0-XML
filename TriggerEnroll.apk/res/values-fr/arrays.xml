@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Désolé, vous parlez un peu &lt;font color='#FF0000'>&lt;b>trop lentement&lt;/b>&lt;/font>. Parlez plus vite."</item>
+        <item>"Désolé, vous parlez un peu &lt;font color='#FF0000'>&lt;b>trop vite&lt;/b>&lt;/font>. Parlez plus lentement."</item>
+        <item>Vous parlez trop bas.&lt;br>Parlez un peu plus fort.</item>
+        <item>Vous parlez trop fort. &lt;br>Éloignez un peu le téléphone pour prononcer votre phrase de lancement ou parlez moins fort.</item>
+        <item>"Désolé, votre phrase de lancement est &lt;font color='#FF0000'>&lt;b>trop courte&lt;/b>&lt;/font>. Dites bien distinctement &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Désolé, votre phrase de lancement est &lt;font color='#FF0000'>&lt;b>trop longue&lt;/b>&lt;/font>. Dites simplement &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"C'est un peu &lt;font color='#FF0000'>&lt;b>bruyant&lt;/b>&lt;/font> ici. Trouvez un endroit calme et recommencez."</item>
+        <item>"Désolé, il semble que vous &lt;font color='#FF0000'>&lt;b>ayez fait une pause pendant l'enregistrement&lt;/b>&lt;/font> de la phrase de lancement. Dites &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> d'une seule traite."</item>
+        <item>"Désolé, votre phrase ne ressemble pas à &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Recommencez s'il vous plaît."</item>
+        <item>"Désolé, vos enregistrements &lt;font color='#FF0000'>&lt;b>ne se ressemblent pas suffisamment&lt;/b>&lt;/font>. Recommençons à zéro…"</item>
+        <item>"Désolé, vos enregistrements &lt;font color='#FF0000'>&lt;b>ne se ressemblent pas suffisamment&lt;/b>&lt;/font>. Recommençons à zéro…"</item>
+        <item>"Désolé, je n'ai pas compris. Dites encore &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Désolé, je n'ai pas compris. Dites encore &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Après vérification plus poussée, votre phrase semble être &lt;font color='#FF0000'>&lt;b>trop longue&lt;/b>&lt;/font>. Testez-en une plus courte"</item>
+        <item>"Oups… Vous avez parlé un peu &lt;font color='#FF0000'>&lt;b>trop tôt&lt;/b>&lt;/font>. Attendez un peu avant de dire &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Oups… J'entends du &lt;font color='#FF0000'>&lt;b>bruit&lt;/b>&lt;/font> après la fin de la phrase. Attention de ne rien ajouter après avoir dit &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Désolé, je n'ai pas compris. Recommençons du début et essayez de dire &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> une nouvelle fois."</item>
+        <item>"Désolé, je n'ai pas compris. Recommençons du début et essayez de dire &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> une nouvelle fois."</item>
+        <item>Désolé, il y a eu un problème. Recommençons à zéro…</item>
+        <item>"Désolé, je n'ai pas réussi à vérifier la phrase de lancement. Essayons &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> une nouvelle fois."</item>
+        <item>Désolé, il y a eu un problème. Recommençons à zéro…</item>
+        <item>"Désolé, j'ai un problème. Recommençons. Articulez bien lorsque vous dites &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>Désolé, il y a eu un problème. Recommençons à zéro…</item>
+        <item>"C'est un peu bruyant ici. Trouvez un endroit calme et recommencez à zéro…"</item>
+        <item>"Désolé, l'exercice de reconnaissance vocale ne peut pas se faire avec &lt;font color='#FF0000'>&lt;b>un casque&lt;/b>&lt;/font>. Débranchez le casque et réessayez."</item>
+        <item>Oups ! Nous avons été interrompus. Veuillez reprendre.</item>
+        <item>"Désolé, vos enregistrements &lt;font color='#FF0000'>&lt;b>ne se ressemblent pas suffisamment&lt;/b>&lt;/font>. Recommençons à zéro…"</item>
+        <item>"Désolé, votre phrase ne ressemble pas à &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Recommencez s'il vous plaît."</item>
+        <item>La reconnaissance vocale ne peut pas se faire si vous écoutez de la musique sur le téléphone.</item>
+        <item>"Désolé, l'exercice de reconnaissance vocale ne peut pas se faire &lt;font color='#FF0000'>&lt;b>pendant une communication téléphonique&lt;/b>&lt;/font>. Attendez la fin de votre appel et réessayez plus tard…"</item>
+        <item>"Désolé, l'exercice de reconnaissance vocale ne peut pas se faire &lt;font color='#FF0000'>&lt;b>avec une alarme qui sonne&lt;/b>&lt;/font>. Annulez l'alarme et réessayez plus tard…"</item>
+        <item>"Désolé, l'exercice de reconnaissance vocale ne peut pas se faire &lt;font color='#FF0000'>&lt;b>si le téléphone est posé sur une table&lt;/b>&lt;/font>. Prenez le téléphone dans votre main et réessayez."</item>
+        <item>"L'enregistrement a été interrompu."</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>Vous parlez un peu trop lentement. Parlez plus vite.</item>
+        <item>Vous parlez un peu trop vite. Parlez plus lentement.</item>
+        <item>Vous parlez trop doucement. Parlez un peu plus fort.</item>
+        <item>Vous parlez trop fort. Éloignez un peu le téléphone ou parlez plus doucement.</item>
+        <item>"Vous avez apparemment fait une pause pendant la phrase. Énoncez la phrase d'une seule traite."</item>
+        <item>"Je n'ai pas compris. Essayez de parler plus distinctement."</item>
+        <item>"On dirait qu'il y a des syllabes en trop. Dites simplement \"Ok Google\""</item>
+        <item>Vous avez dit \"Ok Google\" un peu trop tôt. Attendez un peu avant de parler.</item>
+        <item>"J'entends du bruit après \"Ok Google\". Ne dites plus rien une fois que vous avez énoncé cette phrase."</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommencez-les.</item>
+        <item>Il y a eu un problème. Recommençons.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>"Désolé, je n'ai pas compris. Recommençons."</item>
+        <item>"Désolé, je n'ai pas compris. Recommençons."</item>
+        <item></item>
+        <item>"Désolé, je n'ai pas compris. Recommençons."</item>
+        <item>Désolé, il y a eu un problème. Recommençons.</item>
+        <item>Votre voix est difficilement audible. Recommencez.</item>
+        <item>La reconnaissance vocale ne peut pas se faire avec un casque branché. Débranchez-le et recommencez.</item>
+        <item>Il y a eu une interruption. Recommencez depuis le début.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommençons.</item>
+        <item>Nous avons été interrompus. Reprenez.</item>
+        <item>La reconnaissance vocale ne peut pas se faire si vous écoutez de la musique sur le téléphone.</item>
+        <item>La reconnaissance vocale ne peut pas se faire si vous téléphonez. Terminez votre appel et recommencez.</item>
+        <item>"La reconnaissance vocale ne peut pas se faire pendant une alarme. Arrêtez l'alarme et recommencez."</item>
+        <item>"L'enregistrement a été interrompu."</item>
+        <item>"Il y a un bruit parasite sur l'enregistrement. Recommencez l'enregistrement."</item>
+        <item></item>
+        <item>"Je n'ai pas compris. Essayez de parler plus distinctement."</item>
+        <item>"La reconnaissance vocale ne peut pas se faire avec le téléphone posé sur la table. Prenez l'appareil dans votre main pour continuer."</item>
+        <item>Vos enregistrements sont inaudibles. Recommencez et parlez un peu plus fort.</item>
+        <item>Vos enregistrements sont un peu désynchronisés. Recommencez-les.</item>
+        <item>Vos enregistrements comportent un bruit parasite. Dites les phrases distinctement.</item>
+        <item>"Votre voix n'est pas audible. Recommencez l'enregistrement."</item>
+        <item>Vos enregistrements sont un peu trop sonores. Recommnencez-les.</item>
+        <item>Vos enregistrements ne se ressemblent pas assez. Recommencez-les.</item>
+        <item>"Il y a eu une interruption. Recommencez l'enregistrement."</item>
+    </string-array>
+    <string-array name="noise_errors">
+        <item>Super ! Vous avez trouvé un endroit tranquille. Continuons.</item>
+        <item>"C'est un peu trop bruyant. Trouvez un endroit tranquille pour continuer."</item>
+        <item>Il y a beaucoup trop de bruit. Trouvez un endroit tranquille pour continuer.</item>
+    </string-array>
+</resources>

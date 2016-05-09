@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="background_sync_frequency_description">
+        <item quantity="other">Синхронизировать новости раз в %1$s ч.</item>
+        <item quantity="one">Синхронизировать новости каждый час</item>
+    </plurals>
+    <plurals name="free_articles_left">
+        <item quantity="other">Осталось бесплатных статей: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="free_articles_left_month">
+        <item quantity="other">Осталось бесплатных статей в этом месяце: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей в этом месяце: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="free_articles_left_period">
+        <item quantity="other">Осталось бесплатных статей за этот период: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей за этот период: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="free_articles_left_today">
+        <item quantity="other">Осталось бесплатных статей сегодня: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей сегодня: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="free_articles_left_week">
+        <item quantity="other">Осталось бесплатных статей на этой неделе: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей на этой неделе: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="free_articles_left_year">
+        <item quantity="other">Осталось бесплатных статей в этом году: &lt;b>%1$s&lt;/b></item>
+        <item quantity="one">Осталось бесплатных статей в этом году: &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="magazines_see_more">
+        <item quantity="other">ЕЩЁ %1$s</item>
+    </plurals>
+    <plurals name="warm_welcome_body_metered_day">
+        <item quantity="other">Мы рады предоставить вам для бесплатного прочтения несколько статей в день (%1$s). Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+        <item quantity="one">Мы рады предоставить вам для бесплатного прочтения %1$s статью в день. Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+    </plurals>
+    <plurals name="warm_welcome_body_metered_month">
+        <item quantity="other">Мы рады предоставить вам для бесплатного прочтения несколько статей в месяц (%1$s). Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+        <item quantity="one">Мы рады предоставить вам для бесплатного прочтения %1$s статью в месяц. Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+    </plurals>
+    <plurals name="warm_welcome_body_metered_period">
+        <item quantity="other">Мы рады предоставить вам для бесплатного прочтения несколько статей за этот период (%1$s). Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+        <item quantity="one">Мы рады предоставить вам для бесплатного прочтения %1$s статью за этот период. Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+    </plurals>
+    <plurals name="warm_welcome_body_metered_week">
+        <item quantity="other">Мы рады предоставить вам для бесплатного прочтения несколько статей в неделю (%1$s). Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+        <item quantity="one">Мы рады предоставить вам для бесплатного прочтения %1$s статью в неделю. Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+    </plurals>
+    <plurals name="warm_welcome_body_metered_year">
+        <item quantity="other">Мы рады предоставить вам для бесплатного прочтения несколько статей в год (%1$s). Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+        <item quantity="one">Мы рады предоставить вам для бесплатного прочтения %1$s статью в год. Чтобы получить неограниченный доступ к материалам, оформите подписку. Для этого просто проведите по карточке \"Подписаться\" в любой статье.</item>
+    </plurals>
+    <plurals name="zero_free_articles_left">
+        <item quantity="other">Вы прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>)</item>
+        <item quantity="one">Вы прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>)</item>
+    </plurals>
+    <plurals name="zero_free_articles_left_month">
+        <item quantity="other">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные в этом месяце</item>
+        <item quantity="one">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные в этом месяце</item>
+    </plurals>
+    <plurals name="zero_free_articles_left_period">
+        <item quantity="other">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные за этот период</item>
+        <item quantity="one">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные за этот период</item>
+    </plurals>
+    <plurals name="zero_free_articles_left_today">
+        <item quantity="other">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные сегодня</item>
+        <item quantity="one">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные сегодня</item>
+    </plurals>
+    <plurals name="zero_free_articles_left_week">
+        <item quantity="other">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные на этой неделе</item>
+        <item quantity="one">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные на этой неделе</item>
+    </plurals>
+    <plurals name="zero_free_articles_left_year">
+        <item quantity="other">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные в этом году</item>
+        <item quantity="one">Вы уже прочитали все бесплатные статьи (&lt;b>%1$s&lt;/b>), доступные в этом году</item>
+    </plurals>
+</resources>

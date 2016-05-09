@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlayHeaderListTabScrollview">
+        <item name="android:layoutDirection">ltr</item>
+    </style>
+    <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="@style/Base.DialogWindowTitle.AppCompat">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="@style/Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
+        <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.DialogTitle.Icon" parent="@android:style/Widget">
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="@style/Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="HeaderActionButton.Text" parent="@style/PlayDetailDescription">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_marginLeft">@dimen/default_padding_small</item>
+        <item name="android:layout_marginStart">@dimen/default_padding_small</item>
+    </style>
+    <style name="Widget.Leanback.DetailsActionButtonStyle" parent="@style/Widget.Leanback.DetailsActionButtonStyleBase">
+        <item name="android:textAppearance">@style/TextAppearance.Leanback.DetailsActionButton</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:drawablePadding">@dimen/lb_action_icon_margin</item>
+        <item name="android:paddingStart">@dimen/lb_action_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/lb_action_padding_horizontal</item>
+    </style>
+    <style name="Widget.Leanback.GridItems.VerticalGridView" parent="@style/Widget.Leanback.GridItems">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">?browseRowsMarginTop</item>
+        <item name="android:paddingBottom">@dimen/lb_vertical_grid_padding_bottom</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:paddingStart">?browsePaddingStart</item>
+        <item name="android:paddingEnd">?browsePaddingEnd</item>
+        <item name="focusOutFront">true</item>
+        <item name="horizontalMargin">@dimen/lb_browse_item_horizontal_margin</item>
+        <item name="verticalMargin">@dimen/lb_browse_item_vertical_margin</item>
+    </style>
+    <style name="Widget.Leanback.GridItems.VerticalGridView.MusicArtistQuiz" parent="@style/Widget.Leanback.GridItems.VerticalGridView">
+        <item name="android:paddingLeft">@dimen/leanback_artist_quiz_grid_padding_start</item>
+        <item name="android:paddingRight">@dimen/leanback_artist_quiz_grid_padding_end</item>
+        <item name="android:paddingStart">@dimen/leanback_artist_quiz_grid_padding_start</item>
+        <item name="android:paddingEnd">@dimen/leanback_artist_quiz_grid_padding_end</item>
+        <item name="horizontalMargin">@dimen/leanback_artist_quiz_grid_horizontal_margin</item>
+        <item name="verticalMargin">@dimen/leanback_artist_quiz_grid_vertical_margin</item>
+    </style>
+    <style name="Widget.Leanback.GridItems.VerticalGridView.MusicGenreQuiz" parent="@style/Widget.Leanback.GridItems.VerticalGridView">
+        <item name="android:paddingLeft">@dimen/leanback_genre_quiz_grid_padding_start</item>
+        <item name="android:paddingRight">@dimen/leanback_genre_quiz_grid_padding_end</item>
+        <item name="android:paddingStart">@dimen/leanback_genre_quiz_grid_padding_start</item>
+        <item name="android:paddingEnd">@dimen/leanback_genre_quiz_grid_padding_end</item>
+        <item name="horizontalMargin">@dimen/leanback_genre_quiz_grid_horizontal_margin</item>
+        <item name="verticalMargin">@dimen/leanback_genre_quiz_grid_vertical_margin</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceBreadcrumbStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#88f1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_above">@id/guidance_title</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:layout_toStartOf">@id/guidance_icon</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceContainerStyle" parent="@style/Widget.Leanback">
+        <item name="android:clipToPadding">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:paddingStart">48.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceDescriptionStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#88f1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">6</item>
+        <item name="android:layout_below">@id/guidance_title</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:lineSpacingExtra">3.0dip</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_toStartOf">@id/guidance_icon</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceIconStyle" parent="@style/Widget.Leanback">
+        <item name="android:layout_width">140.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:maxHeight">280.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginStart">16.0dip</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="Widget.Leanback.GuidanceTitleStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">36.0sp</item>
+        <item name="android:textColor">#fff1f1f1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">end</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignWithParentIfMissing">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:layout_toStartOf">@id/guidance_icon</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemCheckmarkStyle" parent="@style/Widget.Leanback">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_width">@dimen/lb_guidedactions_item_checkmark_diameter</item>
+        <item name="android:layout_height">@dimen/lb_guidedactions_item_checkmark_diameter</item>
+        <item name="android:src">@drawable/lb_guidedactions_item_checkmark</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:layout_marginEnd">@dimen/lb_guidedactions_item_delimiter_padding</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemChevronStyle" parent="@style/Widget.Leanback">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/lb_ic_guidedactions_item_chevron</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_marginStart">@dimen/lb_guidedactions_item_delimiter_padding</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemContainerStyle" parent="@style/Widget.Leanback">
+        <item name="android:paddingTop">@dimen/lb_guidedactions_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/lb_guidedactions_vertical_padding</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/lb_guidedactions_item_min_height</item>
+        <item name="android:paddingStart">@dimen/lb_guidedactions_item_start_padding</item>
+        <item name="android:paddingEnd">@dimen/lb_guidedactions_item_end_padding</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionItemIconStyle" parent="@style/Widget.Leanback">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">@dimen/lb_guidedactions_item_icon_width</item>
+        <item name="android:layout_height">@dimen/lb_guidedactions_item_icon_height</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_marginEnd">@dimen/lb_guidedactions_item_delimiter_padding</item>
+    </style>
+    <style name="Widget.Leanback.GuidedActionsContainerStyle" parent="@style/Widget.Leanback">
+        <item name="android:background">@color/lb_guidedactions_background</item>
+        <item name="android:layout_width">@dimen/lb_guidedactions_section_width</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="Widget.Leanback.Headers.VerticalGridView" parent="@style/Widget.Leanback.Headers">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:paddingStart">?browsePaddingStart</item>
+        <item name="focusOutFront">true</item>
+        <item name="focusOutEnd">true</item>
+        <item name="verticalMargin">@dimen/lb_browse_headers_vertical_margin</item>
+    </style>
+    <style name="Widget.Leanback.ImageCardView.ContentStyle" parent="@style/Widget.Leanback.ImageCardView">
+        <item name="android:textSize">@dimen/lb_basic_card_content_text_size</item>
+        <item name="android:textColor">@color/lb_basic_card_content_text_color</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:id">@id/content_text</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:layout_below">@id/title_text</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:layout_toStartOf">@id/extra_badge</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="Widget.Leanback.ImageCardView.InfoAreaStyle" parent="@style/Widget.Leanback.ImageCardView">
+        <item name="android:background">@color/lb_basic_card_info_bg_color</item>
+        <item name="android:paddingTop">@dimen/lb_basic_card_info_padding_top</item>
+        <item name="android:paddingBottom">@dimen/lb_basic_card_info_padding_bottom</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:paddingStart">@dimen/lb_basic_card_info_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/lb_basic_card_info_padding_horizontal</item>
+        <item name="layout_viewType">info</item>
+    </style>
+    <style name="Widget.Leanback.Row.HeaderDock" parent="@style/Widget.Leanback.Row">
+        <item name="android:paddingStart">?browsePaddingStart</item>
+    </style>
+    <style name="Widget.Leanback.Row.HorizontalGridView" parent="@style/Widget.Leanback.Row">
+        <item name="android:paddingTop">@dimen/lb_browse_item_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/lb_browse_item_vertical_margin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:paddingStart">?browsePaddingStart</item>
+        <item name="android:paddingEnd">?browsePaddingEnd</item>
+        <item name="focusOutFront">true</item>
+        <item name="horizontalMargin">@dimen/lb_browse_item_horizontal_margin</item>
+        <item name="verticalMargin">@dimen/lb_browse_item_vertical_margin</item>
+    </style>
+    <style name="Widget.Leanback.Row.HorizontalGridView.SubSituationOptions" parent="@style/Widget.Leanback.Row.HorizontalGridView">
+        <item name="android:layout_marginStart">@dimen/leanback_subsituation_option_row_horizontal_padding</item>
+        <item name="android:layout_marginEnd">@dimen/leanback_subsituation_option_row_horizontal_padding</item>
+    </style>
+    <style name="Widget.Leanback.TitleView" parent="@style/Widget.Leanback">
+        <item name="android:paddingTop">?browsePaddingTop</item>
+        <item name="android:paddingBottom">?browsePaddingTop</item>
+        <item name="android:paddingStart">?browsePaddingStart</item>
+        <item name="android:paddingEnd">?browsePaddingEnd</item>
+    </style>
+</resources>

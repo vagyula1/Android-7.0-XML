@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AudioSeekBar">
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/audio_progress</item>
+        <item name="android:progressDrawable">@drawable/audio_progress</item>
+        <item name="android:minHeight">4.0dip</item>
+        <item name="android:thumb">@drawable/seekbar_thumb</item>
+        <item name="android:thumbOffset">16.0dip</item>
+        <item name="android:mirrorForRtl">true</item>
+        <item name="android:splitTrack">false</item>
+    </style>
+    <style name="CardViewGroup.Padded.RoundedButton" parent="@style/CardViewGroup.Padded">
+        <item name="android:layout_height">@dimen/rounded_button_card_height</item>
+        <item name="android:foreground">@drawable/card_overlay_lighten</item>
+        <item name="android:paddingStart">@dimen/rounded_button_horizontal_padding</item>
+        <item name="android:paddingEnd">@dimen/rounded_button_horizontal_padding</item>
+        <item name="playCardBackgroundColor">@color/app_color_material</item>
+        <item name="playCardCornerRadius">@dimen/rounded_button_corner_radius</item>
+    </style>
+    <style name="NSActionBarStyle.Transparent" parent="@style/NSActionBarStyle">
+        <item name="background">@color/transparent_toolbar_bg_ripple_fix</item>
+        <item name="elevation">0.0dip</item>
+    </style>
+    <style name="NSTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/home_background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="drawerArrowStyle">@style/NSDrawerArrowToggle</item>
+        <item name="actionOverflowButtonStyle">@style/NSOverflowButton</item>
+        <item name="actionBarStyle">@style/NSActionBarStyle</item>
+        <item name="actionBarDivider">@null</item>
+        <item name="actionMenuTextColor">@android:color/primary_text_dark</item>
+        <item name="actionModeShareDrawable">@drawable/ic_share_wht_24dp</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="colorPrimary">@color/app_color_material</item>
+        <item name="colorPrimaryDark">@color/app_color_material_dark</item>
+        <item name="colorAccent">@color/app_color_material_dark</item>
+    </style>
+    <style name="NSTheme.CustomToolbar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/home_background</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="drawerArrowStyle">@style/NSDrawerArrowToggle</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="actionOverflowButtonStyle">@style/NSOverflowButton</item>
+        <item name="actionBarDivider">@null</item>
+        <item name="actionMenuTextColor">@android:color/primary_text_dark</item>
+        <item name="actionModeShareDrawable">@drawable/ic_share_wht_24dp</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="toolbarStyle">@style/NSToolbarStyle</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="panelMenuListTheme">@style/NSHardwarePanelTheme</item>
+        <item name="colorPrimary">@color/app_color_material</item>
+        <item name="colorPrimaryDark">@color/app_color_material_dark</item>
+        <item name="colorAccent">@color/app_color_material_dark</item>
+    </style>
+    <style name="NSTheme.DarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/home_background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="drawerArrowStyle">@style/NSDrawerArrowToggle</item>
+        <item name="actionOverflowButtonStyle">@style/NSOverflowButton</item>
+        <item name="actionBarStyle">@style/NSActionBarStyle</item>
+        <item name="actionBarDivider">@null</item>
+        <item name="actionMenuTextColor">@android:color/primary_text_dark</item>
+        <item name="actionModeShareDrawable">@drawable/ic_share_wht_24dp</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+        <item name="panelBackground">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="colorPrimary">@color/app_color_material</item>
+        <item name="colorPrimaryDark">@color/app_color_material_dark</item>
+        <item name="colorAccent">@color/app_color_material_dark</item>
+    </style>
+    <style name="NSTheme.SplashScreen" parent="@style/NSTheme">
+        <item name="android:windowBackground">@drawable/quantum_launchscreen_play_newsstand</item>
+        <item name="android:statusBarColor">@color/gray_500</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="NSTheme.TransparentActionBar" parent="@style/NSTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/no_transition</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/no_transition</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">false</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="actionBarStyle">@style/NSActionBarStyle.Transparent</item>
+    </style>
+    <style name="NSToolbarStyle.Transparent" parent="@style/NSToolbarStyle">
+        <item name="android:background">@color/transparent_toolbar_bg_ripple_fix</item>
+    </style>
+    <style name="NativeAdButton">
+        <item name="android:textSize">@dimen/nativeads_buy_button_text_size</item>
+        <item name="android:textColor">@color/card_text_normal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/nativeads_buy_button_top_padding</item>
+        <item name="android:paddingBottom">@dimen/nativeads_buy_button_bottom_padding</item>
+        <item name="android:layout_width">@dimen/nativeads_buy_button_width</item>
+        <item name="android:layout_height">@dimen/nativeads_buy_button_height</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingStart">@dimen/nativeads_buy_button_xpadding</item>
+        <item name="android:paddingEnd">@dimen/nativeads_buy_button_xpadding</item>
+        <item name="android:elevation">8.0dip</item>
+        <item name="font">REGULAR_SANS</item>
+    </style>
+    <style name="ShelfButton">
+        <item name="android:textSize">@dimen/shelf_button_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@drawable/shelf_button_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lines">1</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:elevation">@dimen/shelf_button_elevation</item>
+        <item name="accessibilityClassOverride">button</item>
+    </style>
+</resources>

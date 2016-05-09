@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Ажурирани се %d етикети</item>
+        <item quantity="zero">Нема нови етикети</item>
+        <item quantity="one">Ажурирана е 1 етикета</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Назначени се копчиња %d</item>
+        <item quantity="one">Назначено е копче %d</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s прикажува %2$d ставки.</item>
+        <item quantity="one">%1$s прикажува %2$d ставка.</item>
+    </plurals>
+</resources>

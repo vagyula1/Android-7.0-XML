@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_in_progress_title">Fejlrapporten #%d genereres</string>
+    <string name="bugreport_finished_title">Fejrapporten #%d blev gemt</string>
+    <string name="bugreport_finished_pending_screenshot_title">Fejlrapport #%d blev gemt, men skærmbilledet afventer</string>
+    <string name="bugreport_updating_title">Tilføjelse af oplysninger til fejlrapporten</string>
+    <string name="bugreport_updating_wait">Vent et øjeblik…</string>
+    <string name="bugreport_finished_text">Tryk for at dele din fejlrapport</string>
+    <string name="bugreport_finished_pending_screenshot_text">Tryk for at dele din fejlrapport uden et skærmbillede, eller vent på, at skærmbilledet fuldføres</string>
+    <string name="bugreport_confirm">Fejlrapporter indeholder data fra systemets forskellige logfiler, f.eks. personlige og private oplysninger. Del kun fejlrapporter med apps og personer, du har tillid til.</string>
+    <string name="bugreport_confirm_repeat">Vis denne underretning næste gang</string>
+    <string name="bugreport_storage_title">Fejlrapporter</string>
+    <string name="bugreport_unreadable_text">Fejlrapportfilen kunne ikke læses</string>
+    <string name="bugreport_unnamed">ikke navngivet</string>
+    <string name="bugreport_info_action">Oplysninger</string>
+    <string name="bugreport_screenshot_action">Skærmbillede</string>
+    <string name="bugreport_screenshot_taken">Der blev taget et skærmbillede.</string>
+    <string name="bugreport_screenshot_failed">Der kunne ikke tages et skærmbillede.</string>
+    <string name="bugreport_info_dialog_title">Oplysninger om fejlrapporten #%d</string>
+    <string name="bugreport_info_name">Filnavn</string>
+    <string name="bugreport_info_title">Fejlrapportens titel</string>
+    <string name="bugreport_info_description">Oversigt over fejl</string>
+    <string name="save">Gem</string>
+</resources>

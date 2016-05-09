@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopioidaan %1$d tiedostoa.</item>
+        <item quantity="one">Kopioidaan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Siirretään %1$d tiedostoa.</item>
+        <item quantity="one">Siirretään %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Poistetaan %1$d tiedostoa.</item>
+        <item quantity="one">Poistetaan %1$d tiedosto.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d tiedoston kopioiminen epäonnistui.</item>
+        <item quantity="one">%1$d tiedoston kopioiminen epäonnistui.</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d tiedoston siirtäminen epäonnistui.</item>
+        <item quantity="one">%1$d tiedoston siirtäminen epäonnistui.</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d tiedoston poistaminen epäonnistui.</item>
+        <item quantity="one">%1$d tiedoston poistaminen epäonnistui.</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d tiedostoa kopioitiin leikepöydälle.</item>
+        <item quantity="one">%1$d tiedosto kopioitiin leikepöydälle.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Poistetaanko %1$d tiedostoa?</item>
+        <item quantity="one">Poistetaanko %1$d tiedosto?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Poistetaanko %1$d kansiota ja niiden sisältö?</item>
+        <item quantity="one">Poistetaanko %1$d kansio ja sen sisältö?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Poistetaanko %1$d kohdetta?</item>
+        <item quantity="one">Poistetaanko %1$d kohde?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f segons</item>
+        <item quantity="one">1 segon</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">"S'han actualitzat %d etiquetes"</item>
+        <item quantity="zero">No hi ha etiquetes noves</item>
+        <item quantity="one">"S'ha actualitzat 1 etiqueta"</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d tecles assignades</item>
+        <item quantity="one">%d tecla assignada</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s mostra %2$d elements.</item>
+        <item quantity="one">%1$s mostra %2$d element.</item>
+    </plurals>
+</resources>

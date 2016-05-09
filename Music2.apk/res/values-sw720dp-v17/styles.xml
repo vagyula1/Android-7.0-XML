@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlayAdLabel" parent="@style/PlayAdLabelBaseline">
+        <item name="android:textSize">@dimen/play_ad_label_text_size</item>
+        <item name="android:paddingStart">4.0dip</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+</resources>

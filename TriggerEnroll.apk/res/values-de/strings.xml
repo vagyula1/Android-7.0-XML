@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Fehler bei Zugriff auf Google Play-Dienste</string>
+    <string name="common_google_play_services_notification_needs_installation_title">App erfordert die Installation der Google Play-Dienste</string>
+    <string name="common_google_play_services_notification_needs_update_title">App erfordert ein Update der Google Play-Dienste</string>
+    <string name="common_google_play_services_needs_enabling_title">App erfordert die Aktivierung der Google Play-Dienste</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Angefordert von %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_install_text_phone">Zur Nutzung dieser App sind Google Play-Dienste erforderlich, die auf Ihrem Telefon nicht installiert sind.</string>
+    <string name="common_google_play_services_install_text_tablet">Zur Nutzung dieser App sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind.</string>
+    <string name="common_google_play_services_install_button">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_enable_text">Diese App funktioniert nur, wenn Sie die Google Play-Dienste aktivieren.</string>
+    <string name="common_google_play_services_enable_button">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="common_google_play_services_update_text">Diese App wird nur ausgeführt, wenn Sie die Google Play-Dienste aktualisieren.</string>
+    <string name="common_google_play_services_network_error_title">Netzwerkfehler</string>
+    <string name="common_google_play_services_network_error_text">Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich.</string>
+    <string name="common_google_play_services_invalid_account_title">Ungültiges Konto</string>
+    <string name="common_google_play_services_invalid_account_text">Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wählen Sie ein anderes Konto aus.</string>
+    <string name="common_google_play_services_unknown_issue">Unbekanntes Problem mit Google Play-Diensten</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-Dienste</string>
+    <string name="common_google_play_services_unsupported_text">Google Play-Dienste, auf denen einige Ihrer Apps basieren, werden von diesem Gerät nicht unterstützt. Wenden Sie sich für weitere Informationen an den Hersteller.</string>
+    <string name="common_google_play_services_unsupported_date_text">Das Datum auf dem Gerät scheint falsch zu sein. Bitte überprüfen Sie das Datum auf dem Gerät.</string>
+    <string name="common_google_play_services_update_button">Aktualisieren</string>
+    <string name="common_signin_button_text">Anmelden</string>
+    <string name="common_signin_button_text_long">Über Google anmelden</string>
+    <string name="text_quiet">LEISE</string>
+    <string name="text_noisy">UNRUHIG</string>
+    <string name="text_loud">LAUT</string>
+    <string name="noise_estimator_title">Geräuschpegel</string>
+    <string name="training_record_1">Sag \"Ok Google\"</string>
+    <string name="training_record_2">Sag noch mal \"Ok Google\"</string>
+    <string name="training_record_3">Sag ein letztes Mal \"Ok Google\"</string>
+    <string name="training_launch_title">Telefon trainieren</string>
+    <string name="training_record_launch_title">Sag \"Ok Google\"</string>
+    <string name="training_launch_comments_title">Bitte:</string>
+    <string name="training_start_comments_1">Geh in einen ruhigen Raum.</string>
+    <string name="training_start_comments_2">Halte das Telefon mit Abstand vor dein Gesicht und sprich normal.</string>
+    <string name="training_start_comments_3">Sag drei Mal \"Ok Google\".</string>
+    <string name="training_record">AUFNEHMEN</string>
+    <string name="training_invalid_reneroll_comments">"Sie können nicht neu trainieren, weil einige Daten der App beschädigt sind.
+
+Wenn alle Dateien gelöscht werden sollen, damit Sie neu trainieren können, berühren Sie \"Annehmen\".
+Wenn Sie mit dem aktuellen Systemstand weitermachen möchten, berühren Sie \"Abbrechen\"."</string>
+    <string name="training_recording_cancel">ABBRECHEN </string>
+    <string name="training_record_again">AUFNAHME WIEDERHOLEN</string>
+    <string name="training_try_again_later">SPÄTER</string>
+    <string name="training_accept">Annehmen</string>
+    <string name="training_record_complete_message">Die Aufnahmen werden überprüft…</string>
+    <string name="training_record_failed_title">Tut mir leid…</string>
+    <string name="training_record_failed">Das Training kann im Moment nicht abgeschlossen werden.</string>
+    <string name="training_listening">Ich höre…</string>
+    <string name="training_recorded">Aufgenommen</string>
+    <string name="training_error">Sorry, etwas ist schiefgelaufen.</string>
+    <string name="training_record_first_error">Der Auslösesatz klingt nicht ganz richtig. Sag ihn bitte noch einmal ganz normal.</string>
+    <string name="training_record_final_error">Das klingt immer noch nicht ganz richtig. Du kannst diese Aufnahme zwar verwenden, aber es kann zu Funktionsbeeinträchtigungen kommen.</string>
+    <string name="acoustic_file">nn_de_mfcc_16k_15_big_250_v3_4.raw</string>
+    <string name="phoneme_search">phonemesearch_dede_1_1.raw</string>
+    <string name="adapated_moto_acoustic_file">ma_1_okgooglenow_de_de_sfs12_delivery1_am.raw</string>
+    <string name="adapated_moto_search_file">ma_1_okgooglenow_de_de_sfs12_delivery1_search_4.raw</string>
+    <string name="dsp_adapated_moto_net_file">ma_1_okgooglenow_de_de_ma36_delivery1_am.bin</string>
+    <string name="dsp_adapated_moto_grammar_file">ma_1_okgooglenow_de_de_ma36_delivery1_search_4.bin</string>
+    <string name="hello_moto_anti_speaker">svsid_triggerogn1_dede_1_0.raw</string>
+    <string name="udt_anti_speaker">svsid_dede_1_0.raw</string>
+    <string name="nuance_acmod_file">acmod4_2500_ged_gen_car_f16_v1_0_1.dat</string>
+    <string name="nuance_clc_file">clc_ged_cfg3_v6_0_4.dat</string>
+</resources>

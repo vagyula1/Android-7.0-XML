@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="RecurrenceTextAppearance" parent="@android:style/TextAppearance" />
+    <style name="RecurrenceTextAppearance.RecurrencePickerStyle" parent="@style/RecurrenceTextAppearance">
+        <item name="android:textSize">15.0sp</item>
+    </style>
+    <style name="RecurrenceDayOfWeekStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/recurrence_bubble_text_color</item>
+        <item name="android:background">@drawable/recurrence_bubble_fill</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">4.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="RecurrenceEditEventView.TextAppearance" parent="@style/RecurrenceEditEventView">
+        <item name="android:textColor">@color/recurrence_edit_event_text</item>
+        <item name="android:textColorHighlight">@color/recurrence_edit_event_text_highlight</item>
+        <item name="android:textColorHint">@color/recurrence_edit_event_text_hint</item>
+        <item name="android:textColorLink">@color/recurrence_edit_event_text_link</item>
+    </style>
+    <style name="RecurrenceEditEventView">
+        <item name="android:textAppearance">@style/RecurrenceEditEventView.TextAppearance</item>
+    </style>
+    <style name="RecurrenceEditEventView.Button_Dimensions" parent="@style/RecurrenceEditEventView">
+        <item name="android:minWidth">64.0dip</item>
+    </style>
+    <style name="RecurrenceEditEventView.Button" parent="@style/RecurrenceEditEventView.Button_Dimensions">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/recurrence_edit_event_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="RecurrenceEditEventView.Picker" parent="@style/RecurrenceEditEventView.Button">
+        <item name="android:textSize">@dimen/recurrence_edit_segment_text_size</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="time_label">
+        <item name="android:textSize">@dimen/time_label_size</item>
+        <item name="android:textColor">@color/numbers_text_color</item>
+    </style>
+    <style name="ampm_label">
+        <item name="android:textSize">@dimen/ampm_label_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/ampm_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="day_of_week_label_condensed" />
+    <style name="RecipientEditTextViewBase" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/chip_height</item>
+        <item name="android:popupBackground">@android:color/white</item>
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+    </style>
+    <style name="RecipientEditTextView" parent="@style/RecipientEditTextViewBase">
+        <item name="android:imeOptions">actionNext|flagNoFullscreen</item>
+    </style>
+    <style name="ChipAutocompleteWrapperStyle">
+        <item name="android:paddingLeft">@dimen/chip_wrapper_start_padding</item>
+        <item name="android:paddingTop">@dimen/chip_wrapper_top_padding</item>
+        <item name="android:paddingRight">@dimen/chip_wrapper_end_padding</item>
+        <item name="android:paddingBottom">@dimen/chip_wrapper_bottom_padding</item>
+    </style>
+    <style name="ChipAutocompleteDividerStyle">
+        <item name="android:background">@color/autocomplete_divider_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/chip_custom_divider_height</item>
+        <item name="android:layout_marginLeft">@dimen/chip_wrapper_start_padding</item>
+    </style>
+    <style name="ChipTextViewLayoutStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ChipTitleStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/title</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ChipSubtitleStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/text1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ChipIndicatorTextStyle" parent="@style/ChipSubtitleStyle">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">6.0dip</item>
+        <item name="android:drawablePadding">4.0dip</item>
+    </style>
+    <style name="ChipPermissionStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_permission_text</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/chips_permission_text</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="ChipIconBaseStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:id">@android:id/icon</item>
+        <item name="android:layout_width">40.0dip</item>
+        <item name="android:layout_height">40.0dip</item>
+        <item name="android:contentDescription">@null</item>
+    </style>
+    <style name="ChipStartIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginRight">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipEndIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginLeft">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipDeleteIconBaseStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:id">@android:id/icon1</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">36.0dip</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="ChipDeleteIconStyle" parent="@style/ChipDeleteIconBaseStyle">
+        <item name="android:paddingLeft">@dimen/chip_icon_padding</item>
+    </style>
+    <style name="ChipPermissionDismissIconStyle">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:id">@android:id/icon2</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:padding">@dimen/chip_icon_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/chips_ic_close_24dp</item>
+        <item name="android:contentDescription">@android:string/cancel</item>
+    </style>
+    <style name="AddEventButton">
+        <item name="android:layout_gravity">bottom|center|right</item>
+        <item name="android:layout_marginRight">@dimen/add_event_button_edge_margin</item>
+    </style>
+    <style name="LandscapeOverflowButton">
+        <item name="android:layout_marginRight">@dimen/btn_overflow_side_padding</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="MinusButton">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:src">@drawable/ic_action_remove</item>
+    </style>
+    <style name="MonthView_MiniMonthLabel">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/month_mini_day_number</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.SelectCalendar_Name" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="TextAppearance.MonthView_MiniDayLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/month_other_month_day_number</item>
+    </style>
+    <style name="TextAppearance.AgendaView_ValueLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center|left|top</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">-16.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Button" parent="@style/TextAppearance.EditEvent_Label">
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="TextAppearance.Recurrence_Button" parent="@style/TextAppearance.EditEvent_Label">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="TextAppearance.EditEvent_LabelSmall" parent="@style/TextAppearance.EditEvent_Small">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">144.0dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginBottom">-12.0dip</item>
+        <item name="android:minHeight">24.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Small" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.EditEvent" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff212121</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Value" parent="@style/TextAppearance.EditEvent">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEventCalSpinner" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.EditEvent_CalSpinnerValue" parent="@style/TextAppearance.EditEventCalSpinner">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="SearchClearButton">
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+    <style name="SearchEditText">
+        <item name="android:layout_toLeftOf">@id/clear_search</item>
+    </style>
+    <style name="TextAppearance.AdvancedSearch_SpinnerBase" parent="@android:style/Widget.Holo.Light.Spinner" />
+    <style name="TextAppearance.AdvancedSearch_Spinner" parent="@style/TextAppearance.AdvancedSearch_SpinnerBase">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff212121</item>
+    </style>
+    <style name="TextAppearance.EditEvent_SpinnerBase" parent="@android:style/Widget.Holo.Light.Spinner" />
+    <style name="TextAppearance.EditEvent_Spinner" parent="@style/TextAppearance.EditEvent_SpinnerBase">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff212121</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_SpinnerButton" parent="@style/TextAppearance.EditEvent_Spinner">
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_homeTime" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.EventInfo_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:paddingLeft">16.0dip</item>
+    </style>
+    <style name="EditEvent_LayoutBase" parent="@android:style/Theme.Holo.Light" />
+    <style name="EditEvent_Layout" parent="@style/EditEvent_LayoutBase">
+        <item name="android:background">@color/edit_event_background_color</item>
+    </style>
+    <style name="TextAppearance.Date_Range_Title" parent="@style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/calendar_date_range_color</item>
+    </style>
+    <style name="CalendarThemeBase" parent="@android:style/Theme.Holo.Light" />
+    <style name="CalendarThemeNoActionBar" parent="@android:style/Theme.Holo.NoActionBar" />
+    <style name="CalendarThemeDialog" parent="@android:style/Theme.Holo.Light.Dialog" />
+    <style name="CalendarTheme" parent="@style/CalendarThemeBase">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="PreferencesThemeBase" parent="@android:style/Theme.Holo.Light" />
+    <style name="PreferencesTheme" parent="@style/PreferencesThemeBase">
+        <item name="android:actionBarStyle">@style/ActionBarBaseStyle.Preferences</item>
+    </style>
+    <style name="ActionBarBaseStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid" />
+    <style name="ActionBarBaseStyle.CustomView" parent="@style/ActionBarBaseStyle">
+        <item name="android:height">@dimen/action_bar_height</item>
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+    <style name="ActionBarBaseStyle.Preferences" parent="@style/ActionBarBaseStyle">
+        <item name="android:height">@dimen/action_bar_height</item>
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+    <style name="CalendarTheme.BaseBaseTheme" parent="@android:style/Theme.Holo.Light" />
+    <style name="CalendarTheme.BaseTheme" parent="@style/CalendarTheme.BaseBaseTheme">
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:startYear">1970</item>
+        <item name="android:endYear">2036</item>
+        <item name="android:actionBarStyle">@style/ActionBarBaseStyle.CustomView</item>
+    </style>
+    <style name="CalendarTheme.AllInOneActivity" parent="@style/CalendarTheme.BaseTheme" />
+    <style name="CalendarTheme.WithActionBar" parent="@style/CalendarTheme.BaseTheme">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+    </style>
+    <style name="DetailsThemeBase" parent="@android:style/Theme.Holo.Light.Dialog" />
+    <style name="DetailsThemeCommon" parent="@style/DetailsThemeBase">
+        <item name="android:windowBackground">@color/transparent_background_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:dropDownListViewStyle">@style/NoDropDownDividers</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="DetailsTheme" parent="@style/DetailsThemeCommon">
+        <item name="android:windowIsFloating">@bool/not_show_event_info_full_screen</item>
+    </style>
+    <style name="LaunchTheme" parent="@style/DetailsThemeCommon" />
+    <style name="InvisibleTheme" parent="@style/DetailsThemeCommon" />
+    <style name="DayPopUpThemeBase" parent="@android:style/Theme.Holo.Light.Dialog" />
+    <style name="DayPopUpTheme" parent="@style/DayPopUpThemeBase">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="DayPopUpHeadline">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_marginTop">@dimen/day_pop_up_header_margin_vertical</item>
+    </style>
+    <style name="DayPopUpHeadlineI18n" parent="@style/DayPopUpHeadline">
+        <item name="android:layout_marginLeft">@dimen/day_pop_up_header_start</item>
+    </style>
+    <style name="BundleActionBarV21" />
+    <style name="BundleActionBarSeparatorV21" />
+    <style name="BundleActionBarTitle">
+        <item name="android:textSize">@dimen/actionbar_title_text_size</item>
+        <item name="android:textColor">@color/actionbar_title_text_color</item>
+    </style>
+    <style name="BundleActionBarTitleI18n" parent="@style/BundleActionBarTitle">
+        <item name="android:paddingLeft">@dimen/desired_title_left_padding</item>
+    </style>
+    <style name="BundleActionBarImage">
+        <item name="android:layout_gravity">center|left</item>
+    </style>
+    <style name="BundleActionBarImageI18n" parent="@style/BundleActionBarImage">
+        <item name="android:paddingLeft">@dimen/bundle_start_padding</item>
+        <item name="android:paddingRight">@dimen/bundle_end_padding</item>
+    </style>
+    <style name="NoDropDownDividersBase" parent="@android:style/Widget.Holo.ListView.DropDown" />
+    <style name="NoDropDownDividers" parent="@style/NoDropDownDividersBase">
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerHeight">0.0dip</item>
+    </style>
+    <style name="MultiStateButton">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="EditEventSeparator">
+        <item name="android:background">@color/edit_event_separator</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">15.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="WidgetFontChip">
+        <item name="android:textSize">@dimen/widget_font_chip</item>
+        <item name="android:textColor">@color/widget_text_chip_white</item>
+    </style>
+    <style name="WidgetFontChipTitle" parent="@style/WidgetFontChip">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WidgetFontNarrowChip">
+        <item name="android:textSize">@dimen/widget_font_chip_narrow</item>
+        <item name="android:textColor">@color/widget_text_chip_white</item>
+    </style>
+    <style name="WidgetFontNarrowChipTitle" parent="@style/WidgetFontNarrowChip">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WidgetFontHeaderDate">
+        <item name="android:textSize">@dimen/widget_font_header_date</item>
+    </style>
+    <style name="WidgetFontHeaderWeekday">
+        <item name="android:textSize">@dimen/widget_font_header_weekday</item>
+    </style>
+    <style name="WidgetChip_Title_Appearance" parent="@style/WidgetFontChipTitle">
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">@dimen/widget_padding_chip_text_start</item>
+        <item name="android:paddingRight">@dimen/widget_padding_chip_text_start</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetChip_Title_Solo_Appearance" parent="@style/WidgetChip_Title_Appearance">
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="WidgetChip_Body_Appearance" parent="@style/WidgetFontChip">
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">@dimen/widget_padding_chip_text_start</item>
+        <item name="android:paddingRight">@dimen/widget_padding_chip_text_start</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetChip_Title_Narrow_Appearance" parent="@style/WidgetFontNarrowChipTitle">
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">@dimen/widget_padding_chip_text_narrow_start</item>
+        <item name="android:paddingRight">@dimen/widget_padding_chip_text_narrow_start</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetChip_Title_Narrow_Solo_Appearance" parent="@style/WidgetChip_Title_Narrow_Appearance">
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="WidgetChip_Body_Narrow_Appearance" parent="@style/WidgetFontNarrowChip">
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">@dimen/widget_padding_chip_text_narrow_start</item>
+        <item name="android:paddingRight">@dimen/widget_padding_chip_text_narrow_start</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetHeader_Weekday_Appearance" parent="@style/WidgetFontHeaderWeekday">
+        <item name="android:textColor">@color/widget_text_main_header</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">start|center|top</item>
+        <item name="android:paddingTop">2.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetHeader_Date_Appearance" parent="@style/WidgetFontHeaderDate">
+        <item name="android:textColor">@color/widget_text_main_header</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">start|bottom|center</item>
+        <item name="android:paddingBottom">2.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetDayHeader_Narrow_Appearance" parent="@style/WidgetFontNarrowChip">
+        <item name="android:textColor">@color/widget_text_day_medium</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="CreateNewEventViewi18n">
+        <item name="android:paddingLeft">@dimen/selected_rect_padding</item>
+        <item name="android:paddingRight">@dimen/selected_rect_padding</item>
+    </style>
+    <style name="WidgetChip_Background_Narrow_Appearance">
+        <item name="android:background">@color/background_color</item>
+    </style>
+    <style name="NotificationPrimaryText" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="NotificationSecondaryTextBase" parent="@android:style/TextAppearance.Holo" />
+    <style name="NotificationSecondaryText" parent="@style/NotificationSecondaryTextBase">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Recurrence_SpinnerButton" parent="@android:style/Widget.Holo.Light.Spinner" />
+    <style name="InfoHeadlineCloseI18n">
+        <item name="android:layout_marginLeft">@dimen/info_close_margin_start</item>
+    </style>
+    <style name="InfoHeadlineEditI18n">
+        <item name="android:layout_marginLeft">@dimen/info_edit_margin_start</item>
+    </style>
+    <style name="EditSegmentLayout">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/edit_segment_height</item>
+    </style>
+    <style name="EditSegmentLayout.SpinnerItem" parent="@style/EditSegmentLayout">
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="UsageHint_Content">
+        <item name="android:background">@color/usage_hint_background</item>
+    </style>
+    <style name="UsageHint_Title">
+        <item name="android:textSize">@dimen/usage_hint_text_size</item>
+        <item name="android:textColor">@color/usage_hint_foreground</item>
+        <item name="android:paddingLeft">@dimen/usage_hint_padding_horizontal</item>
+        <item name="android:paddingTop">@dimen/usage_hint_padding_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="InfoHeadlineTitle">
+        <item name="android:textSize">@dimen/info_headline_title_text_size</item>
+        <item name="android:textColor">@color/event_info_headline_color</item>
+        <item name="android:textColorLink">@color/event_info_headline_color</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:autoLink">phone</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_marginBottom">@dimen/info_headline_title_margin_bottom</item>
+        <item name="android:maxLines">@dimen/info_headline_title_text_max_lines</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_headline_title_text_spacing</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="InfoHeadlineTitleI18n" parent="@style/InfoHeadlineTitle">
+        <item name="android:layout_marginLeft">@dimen/info_headline_title_margin_start</item>
+        <item name="android:layout_marginRight">@dimen/info_headline_title_margin_end</item>
+    </style>
+    <style name="InfoSegment">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="InfoSegmentI18n" parent="@style/InfoSegment">
+        <item name="android:paddingLeft">@dimen/info_segment_margin_start</item>
+        <item name="android:paddingRight">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="ContainerSegmentI18n" parent="@style/InfoSegment" />
+    <style name="ClickableContact">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="ClickableContactI18n" parent="@style/ClickableContact">
+        <item name="android:paddingLeft">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:paddingRight">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="ClickableSegment" parent="@style/InfoSegment">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="ClickableSegmentI18n" parent="@style/ClickableSegment">
+        <item name="android:paddingLeft">@dimen/info_segment_margin_start</item>
+        <item name="android:paddingRight">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoSegmentLabelIcon">
+        <item name="android:layout_width">@dimen/info_icon_size</item>
+        <item name="android:layout_height">@dimen/info_segment_single_height</item>
+    </style>
+    <style name="InfoSegmentLabelIconSilent" parent="@style/InfoSegmentLabelIcon">
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="InfoSegmentLabelIconFullI18n" parent="@style/InfoSegmentLabelIconSilent">
+        <item name="android:layout_marginLeft">@dimen/info_segment_margin_start</item>
+    </style>
+    <style name="InfoTitleView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/info_segment_title_margin_top</item>
+    </style>
+    <style name="InfoTitleTextView" parent="@style/InfoTitleView">
+        <item name="android:textSize">@dimen/info_segment_title_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark</item>
+        <item name="android:layout_marginBottom">@dimen/info_segment_title_text_negate_spacing</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_segment_title_text_spacing</item>
+    </style>
+    <style name="InfoTitleTextViewI18n" parent="@style/InfoTitleTextView">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoTitleTextViewSilent" parent="@style/InfoTitleTextView">
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="InfoTitleTextViewFullI18n" parent="@style/InfoTitleTextViewSilent">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:layout_marginRight">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoDetailView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/info_segment_detail_margin_top</item>
+    </style>
+    <style name="InfoDetailTextView" parent="@style/InfoDetailView">
+        <item name="android:textSize">@dimen/info_segment_detail_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark_grey</item>
+        <item name="android:layout_marginBottom">@dimen/info_segment_detail_text_negate_spacing</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_segment_detail_text_spacing</item>
+    </style>
+    <style name="InfoDetailTextViewI18n" parent="@style/InfoDetailTextView">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoGuestPartitionLabelSilent">
+        <item name="android:textSize">@dimen/info_segment_detail_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark_grey</item>
+        <item name="android:paddingTop">@dimen/info_segment_solo_detail_padding_top</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/info_segment_single_height</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_segment_detail_text_spacing</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="InfoGuestPartitionLabelI18n" parent="@style/InfoGuestPartitionLabelSilent">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:layout_marginRight">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoAttendeeList">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="InfoAttendeeBase">
+        <item name="android:textSize">@dimen/info_segment_title_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_segment_detail_text_spacing</item>
+    </style>
+    <style name="InfoAttendeeName" parent="@style/InfoAttendeeBase">
+        <item name="android:paddingTop">@dimen/guest_segment_contact_padding_top</item>
+        <item name="android:lineSpacingExtra">@dimen/info_segment_title_text_spacing</item>
+    </style>
+    <style name="InfoAttendeeNameI18n" parent="@style/InfoAttendeeName">
+        <item name="android:layout_marginLeft">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="InfoContactName" parent="@style/InfoAttendeeBase">
+        <item name="android:layout_marginTop">@dimen/guest_segment_organizer_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/guest_segment_contact_negate_spacing</item>
+    </style>
+    <style name="InfoContactNameI18n" parent="@style/InfoContactName">
+        <item name="android:layout_marginLeft">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="InfoContactRelation" parent="@style/InfoDetailTextView" />
+    <style name="InfoContactRelationI18n" parent="@style/InfoContactRelation">
+        <item name="android:layout_marginLeft">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="InfoSegmentTextRegularDark">
+        <item name="android:textSize">@dimen/info_segment_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark</item>
+    </style>
+    <style name="ResponseMainActionI18n">
+        <item name="android:paddingLeft">@dimen/info_action_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/info_action_padding_horizontal</item>
+    </style>
+    <style name="ResponseMainMultiActionI18n" parent="@style/ResponseMainActionI18n">
+        <item name="android:paddingRight">@dimen/info_action_half_padding_horizontal</item>
+    </style>
+    <style name="ResponsePrompt">
+        <item name="android:textSize">@dimen/info_action_text_size</item>
+        <item name="android:textColor">@color/event_info_response</item>
+        <item name="android:paddingTop">@dimen/info_action_text_padding_top</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_action_text_spacing</item>
+    </style>
+    <style name="ResponseButton" parent="@style/ResponsePrompt">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:minWidth">@dimen/info_action_text_min_width</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ResponseButton.Delete" parent="@style/ResponseButton">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:includeFontPadding">true</item>
+    </style>
+    <style name="ResponsePaddedButtonI18n" parent="@style/ResponseButton">
+        <item name="android:paddingLeft">@dimen/info_action_half_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/info_action_half_padding_horizontal</item>
+    </style>
+    <style name="EditEventView">
+        <item name="android:textAppearance">@style/EditEventView.TextAppearance</item>
+    </style>
+    <style name="EditEventView.TextAppearance" parent="@style/EditEventView">
+        <item name="android:textColor">@color/edit_event_text</item>
+        <item name="android:textColorHighlight">@color/edit_event_text_highlight</item>
+        <item name="android:textColorHint">@color/edit_event_text_hint</item>
+        <item name="android:textColorLink">@color/edit_event_text_link</item>
+    </style>
+    <style name="EditEventView.Button_Dimensions" parent="@style/EditEventView">
+        <item name="android:minWidth">64.0dip</item>
+    </style>
+    <style name="EditEventView.Button" parent="@style/EditEventView.Button_Dimensions">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/edit_event_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="EditEventView.Picker" parent="@style/EditEventView.Button">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="EditEventView.Spinner" parent="@style/EditEventView.Button">
+        <item name="android:textAppearance">@style/EditEventView.TextAppearance</item>
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="EditEventView.AddReminder" parent="@style/EditEventView.Picker">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/edit_event_add</item>
+    </style>
+    <style name="EditEventView.Button.RowLabel" parent="@style/EditEventView.Button_Dimensions">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:paddingRight">@dimen/edit_segment_row_label_end_margin</item>
+    </style>
+    <style name="EditEventView.Segment" parent="@style/EditEventView" />
+    <style name="EditEventView.Segment.Layout" parent="@style/EditEventView.Segment">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start</item>
+        <item name="android:layout_marginTop">@dimen/edit_segment_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/edit_segment_margin_end</item>
+    </style>
+    <style name="EditEventView.Segment.Layout.Reminder" parent="@style/EditEventView.Segment.Layout">
+        <item name="android:layout_marginRight">0.0dip</item>
+    </style>
+    <style name="EditEventView.Segment.Layout.EditText" parent="@style/EditEventView.Segment.Layout">
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_edit_text</item>
+    </style>
+    <style name="EditEventView.Segment.Layout.When" parent="@style/EditEventView.Segment.Layout">
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_when</item>
+    </style>
+    <style name="EditEventView.Segment.Label" parent="@style/EditEventView.Segment">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/segment_label_text_color</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="EditEventView.Segment.Label.EditText" parent="@style/EditEventView.Segment.Label">
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_edit_text_nudge</item>
+    </style>
+    <style name="EditEventView.Segment.Label.When" parent="@style/EditEventView.Segment.Label">
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_when_nudge</item>
+    </style>
+    <style name="EditEventView.HeadlineLayout" parent="@style/EditEventView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/edit_headline_min_height</item>
+    </style>
+    <style name="EditEventView.EditText" parent="@style/EditEventView">
+        <item name="android:textAppearance">@style/EditEventView.TextAppearance</item>
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:paddingTop">6.0dip</item>
+    </style>
+    <style name="EditEventView.EditText.TextAppearance" parent="@style/EditEventView.EditText">
+        <item name="android:textColor">@color/edit_event_edit_text</item>
+        <item name="android:textColorHighlight">@color/edit_event_edit_text_highlight</item>
+        <item name="android:textColorHint">@color/edit_event_edit_text_hint</item>
+        <item name="android:textColorLink">@color/edit_event_edit_text_link</item>
+    </style>
+    <style name="EditEventView.Headline" parent="@style/EditEventView">
+        <item name="android:textAppearance">@style/EditEventView.TextAppearance</item>
+    </style>
+    <style name="EditEventView.Headline.TextAppearance" parent="@style/EditEventView.Headline">
+        <item name="android:textColor">@color/edit_event_headline_color</item>
+        <item name="android:textColorHighlight">@color/edit_event_text_highlight</item>
+        <item name="android:textColorHint">@color/edit_event_headline_hint_color</item>
+        <item name="android:textColorLink">@color/edit_event_text_link</item>
+    </style>
+    <style name="EditEventView.Headline.EditText" parent="@style/EditEventView.Headline.TextAppearance">
+        <item name="android:textSize">@dimen/edit_headline_title_text_size</item>
+        <item name="android:background">@drawable/edit_event_headline_text</item>
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_edit_text</item>
+        <item name="android:layout_marginTop">@dimen/edit_headline_bg_top_padding</item>
+        <item name="android:layout_marginBottom">@dimen/edit_headline_bg_bottom_padding</item>
+    </style>
+    <style name="EditEventView.When" parent="@style/EditEventView" />
+    <style name="EditEventView.When.ButtonRowLabel" parent="@style/EditEventView.When">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:textColor">@color/edit_event_when_label_color</item>
+        <item name="android:layout_gravity">bottom|center|left</item>
+        <item name="android:paddingTop">@dimen/edit_button_prompt_top_padding</item>
+        <item name="android:paddingBottom">@dimen/edit_button_prompt_bottom_padding</item>
+        <item name="android:layout_width">@dimen/edit_when_label_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/edit_segment_margin_start_when_nudge</item>
+    </style>
+    <style name="EditEventView.When.ButtonRowImage" parent="@style/EditEventView.When">
+        <item name="android:layout_gravity">bottom|center|left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="EditEventView.When.Picker" parent="@style/EditEventView.Picker">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:textColor">@color/edit_event_when_label_color</item>
+    </style>
+    <style name="EditEventView.Explanation" parent="@style/EditEventView">
+        <item name="android:textSize">@dimen/edit_event_explanation_text</item>
+        <item name="android:textColor">@color/edit_event_explanation</item>
+    </style>
+    <style name="EditEventView.When.HomeTime" parent="@style/EditEventView.Explanation">
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="EditEventView.RowLabel" parent="@style/EditEventView">
+        <item name="android:textSize">@dimen/edit_segment_text_size</item>
+        <item name="android:textColor">@color/edit_event_when_label_color</item>
+        <item name="android:paddingTop">@dimen/edit_button_bg_top_padding</item>
+        <item name="android:paddingBottom">@dimen/edit_button_bg_bottom_padding</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="EditButton" parent="@style/Edit.Text">
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/edit_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="Edit">
+        <item name="android:background">@null</item>
+    </style>
+    <style name="Edit.HeaderButton" parent="@style/CalendarButton">
+        <item name="android:paddingLeft">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Edit.Text" parent="@style/Edit">
+        <item name="android:textSize">@dimen/edit_text_size</item>
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:imeOptions">actionDone</item>
+    </style>
+    <style name="Edit.Text.Edit" parent="@style/Edit.Text">
+        <item name="android:paddingTop">@dimen/edit_segment_edit_text_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/edit_segment_edit_text_vertical_padding</item>
+        <item name="android:layout_marginRight">@dimen/edit_segment_horizontal_padding</item>
+    </style>
+    <style name="Edit.Text.DoneButton" parent="@style/Edit.Text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff777777</item>
+        <item name="android:gravity">right</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">32.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:text">@string/done_uppercase</item>
+    </style>
+    <style name="Edit.Text.CustomNotification" parent="@style/Edit.Text">
+        <item name="android:paddingLeft">24.0dip</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+    </style>
+    <style name="Edit.Text.CustomNotification.Title" parent="@style/Edit.Text.CustomNotification">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff212121</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+    </style>
+    <style name="Edit.Text.CustomNotification.Blue" parent="@style/Edit.Text.CustomNotification">
+        <item name="android:textColor">@color/google_blue</item>
+    </style>
+    <style name="Edit.Text.Light" parent="@style/Edit.Text">
+        <item name="android:textColor">@color/edit_text_light</item>
+    </style>
+    <style name="Edit.Spinner" parent="@style/Edit">
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:paddingRight">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:popupBackground">@color/edit_dropdown_background</item>
+        <item name="android:spinnerMode">dialog</item>
+    </style>
+    <style name="Edit.Icon" parent="@style/Edit">
+        <item name="android:paddingLeft">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Edit.Icon.Color" parent="@style/Edit.Icon">
+        <item name="android:paddingLeft">@dimen/edit_segment_color_icon_padding</item>
+        <item name="android:paddingRight">28.0dip</item>
+    </style>
+    <style name="Edit.Checkmark" parent="@style/Edit">
+        <item name="android:paddingTop">18.0dip</item>
+        <item name="android:paddingRight">@dimen/edit_segment_margin_end</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ic_check_blue</item>
+        <item name="android:contentDescription">@string/acessibility_selected_checkmark_description</item>
+    </style>
+    <style name="Edit.Checkmark.CustomNotification" parent="@style/Edit.Checkmark">
+        <item name="android:paddingTop">4.0dip</item>
+    </style>
+    <style name="Edit.Title" parent="@style/Edit.Text">
+        <item name="android:paddingLeft">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/edit_segment_title_vertical_padding</item>
+        <item name="android:paddingRight">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/edit_title_height</item>
+    </style>
+    <style name="Edit.Divider" parent="@style/Edit">
+        <item name="android:background">@color/edit_segment_divider</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+    <style name="Edit.DividerWithPadding" parent="@style/Edit.Divider">
+        <item name="android:layout_marginTop">21.0dip</item>
+    </style>
+    <style name="Edit.Text.When" parent="@style/Edit.Text">
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Preference">
+        <item name="android:paddingLeft">24.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+    </style>
+    <style name="Preference.GroupHeader" parent="@style/Preference">
+        <item name="android:textSize">@dimen/preferences_group_header_text_size</item>
+        <item name="android:textColor">@color/preference_group_header</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:paddingTop">19.0dip</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Preference.Edit" parent="@style/Preference">
+        <item name="android:textSize">@dimen/preferences_title_text_size</item>
+        <item name="android:textColor">@color/preference_title</item>
+    </style>
+    <style name="Preference.Edit.Label" parent="@style/Preference.Edit">
+        <item name="android:textColor">@color/preference_label</item>
+        <item name="android:paddingTop">27.0dip</item>
+    </style>
+    <style name="Preference.Edit.Value" parent="@style/Preference.Edit">
+        <item name="android:textColor">@color/preference_value</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:paddingBottom">21.0dip</item>
+    </style>
+    <style name="Preference.Edit.Label.WithBottomPadding" parent="@style/Preference.Edit.Label">
+        <item name="android:paddingBottom">21.0dip</item>
+    </style>
+    <style name="Preference.Edit.Item" parent="@style/Preference.Edit">
+        <item name="android:paddingTop">23.0dip</item>
+    </style>
+    <style name="Preference.Edit.Item.NoData" parent="@style/Preference.Edit.Item">
+        <item name="android:textColor">@color/preference_label_no_data</item>
+    </style>
+    <style name="Preference.Option" parent="@style/Preference.Edit">
+        <item name="android:textSize">@dimen/body_text_size</item>
+        <item name="android:textColor">@color/preference_option</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">18.0dip</item>
+        <item name="android:paddingBottom">18.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="Preference.Option.Selected" parent="@style/Preference.Option">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/preference_option_selected</item>
+    </style>
+    <style name="SuggestionDropdown_Label">
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.SuggestionDropdown_Title" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/suggestion_title_fontsize</item>
+        <item name="android:textColor">@color/suggestion_title_color</item>
+    </style>
+    <style name="TextAppearance.SuggestionDropdown_Description" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/suggestion_description_fontsize</item>
+        <item name="android:textColor">@color/suggestion_description_color</item>
+    </style>
+    <style name="Setting">
+        <item name="android:paddingLeft">24.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+    </style>
+    <style name="Setting.Checkmark" parent="@style/Setting">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ic_check_blue</item>
+        <item name="android:contentDescription">@string/acessibility_selected_checkmark_description</item>
+    </style>
+    <style name="CalendarButton">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="NotImportantForAccessibility" />
+    <style name="Card">
+        <item name="android:background">@drawable/card_background</item>
+    </style>
+    <style name="QuickCreateEdit_Title" parent="@style/Edit.Title">
+        <item name="android:cursorVisible">true</item>
+        <item name="android:textCursorDrawable">@drawable/quickcreate_cursor_colored</item>
+    </style>
+    <style name="QuickCreateTextAppearance">
+        <item name="android:textColor">#ff444444</item>
+    </style>
+    <style name="QuickCreateTermTextAppearance" parent="@style/QuickCreateTermTextAppearance" />
+    <style name="QuickCreateConnectorTermTextAppearance" parent="@style/QuickCreateTermTextAppearance" />
+    <style name="TaskSuggestTextAppearance">
+        <item name="android:textColor">#ff444444</item>
+    </style>
+    <style name="TaskSuggestTitleTextAppearance" parent="@style/TextAppearance.SuggestionDropdown_Title">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="InfoTallContentView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/info_segment_tall_content_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/info_segment_tall_content_margin_bottom</item>
+    </style>
+    <style name="InfoTallContentViewI18n" parent="@style/InfoTallContentView">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_full_margin_start</item>
+    </style>
+    <style name="SmartInfoTitleView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/smart_info_segment_title_margin_top</item>
+    </style>
+    <style name="SmartInfoTitleTextView" parent="@style/SmartInfoTitleView">
+        <item name="android:textSize">@dimen/smart_info_segment_title_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark</item>
+        <item name="android:layout_marginBottom">@dimen/smart_info_segment_title_text_negate_spacing</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/smart_info_segment_title_text_spacing</item>
+    </style>
+    <style name="SmartInfoTitleTextViewI18n" parent="@style/SmartInfoTitleTextView">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoHeadlineAttribution">
+        <item name="android:textSize">@dimen/timely_attribution_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/info_attribution_text_dark_grey</item>
+        <item name="android:textColorLink">@color/event_info_headline_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:autoLink">none</item>
+        <item name="android:background">@drawable/attribute_background</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/info_headline_title_text_spacing</item>
+    </style>
+    <style name="InfoHeadlineAttributionI18n" parent="@style/InfoHeadlineAttribution">
+        <item name="android:paddingLeft">@dimen/info_headline_title_margin_start</item>
+        <item name="android:paddingRight">@dimen/info_headline_title_margin_end</item>
+    </style>
+    <style name="SmartInfoDetailTextViewRoot">
+        <item name="android:textSize">@dimen/smart_info_segment_detail_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/smart_info_segment_detail_text_negate_spacing</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/smart_info_segment_detail_text_spacing</item>
+    </style>
+    <style name="SmartInfoDetailTextView" parent="@style/SmartInfoDetailTextViewRoot">
+        <item name="android:layout_marginTop">@dimen/smart_info_segment_detail_margin_top</item>
+    </style>
+    <style name="SmartInfoDetailTextViewI18n" parent="@style/SmartInfoDetailTextView">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="SmartInfoDetailTextViewPlus" parent="@style/SmartInfoDetailTextViewRoot">
+        <item name="android:layout_marginTop">@dimen/smart_info_segment_detail_plus_margin_top</item>
+    </style>
+    <style name="SmartInfoDetailTextViewPlusI18n" parent="@style/SmartInfoDetailTextViewPlus">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="SmartInfoStatusTextViewPlus">
+        <item name="android:textSize">@dimen/smart_info_segment_status_text_size</item>
+        <item name="android:textColor">@color/info_segment_text_dark_grey</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/smart_info_segment_status_plus_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/smart_info_segment_status_text_negate_spacing</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:lineSpacingExtra">@dimen/smart_info_segment_status_text_spacing</item>
+    </style>
+    <style name="SmartInfoStatusTextViewPlusI18n" parent="@style/SmartInfoStatusTextViewPlus">
+        <item name="android:layout_marginLeft">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="FixPermissionsDialogTitle">
+        <item name="android:paddingLeft">@dimen/fix_permissions_dialog_title_margin_start</item>
+    </style>
+    <style name="FixPermissionsIcon">
+        <item name="android:layout_marginLeft">@dimen/fix_permissions_dialog_icon_margin_start</item>
+    </style>
+    <style name="FixPermissionsIndentedText">
+        <item name="android:paddingLeft">@dimen/fix_permissions_indented_text_margin_start</item>
+        <item name="android:paddingRight">@dimen/fix_permissions_indented_text_margin_end</item>
+    </style>
+    <style name="FixPermissionsSpinner">
+        <item name="android:layout_marginLeft">@dimen/fix_permissions_spinner_margin_start</item>
+        <item name="android:layout_marginRight">@dimen/fix_permissions_spinner_margin_end</item>
+    </style>
+    <style name="FixPermissionsRadioButton">
+        <item name="android:paddingRight">@dimen/fix_permissions_radio_button_padding_end</item>
+        <item name="android:layout_marginLeft">@dimen/fix_permissions_radio_button_margin_start</item>
+    </style>
+    <style name="Snackbar">
+        <item name="android:background">@drawable/snackbar</item>
+        <item name="android:paddingLeft">24.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:maxWidth">568.0dip</item>
+        <item name="android:maxHeight">80.0dip</item>
+        <item name="android:minWidth">288.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="ICalActivity" parent="@style/CalendarTheme.WithActionBar">
+        <item name="android:windowBackground">@color/transparent_black_20</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTitleSize">0.0dip</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

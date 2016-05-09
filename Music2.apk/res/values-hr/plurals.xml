@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NalbumsWordCase">
+        <item quantity="other">%1$d albuma</item>
+        <item quantity="one">%1$d album</item>
+        <item quantity="few">%1$d albuma</item>
+    </plurals>
+    <plurals name="NsongsWordCase">
+        <item quantity="other">%1$d pjesama</item>
+        <item quantity="one">%1$d pjesma</item>
+        <item quantity="few">%1$d pjesme</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">U fonoteku je dodano %d pjesama.</item>
+        <item quantity="one">U fonoteku je dodana %d pjesma.</item>
+        <item quantity="few">U fonoteku su dodane %d pjesme.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d pjesama dodano je na popis %2$s.</item>
+        <item quantity="one">%1$d pjesma dodana je na popis %2$s.</item>
+        <item quantity="few">%1$d pjesme dodane su na popis %2$s.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Dodano je samo %1$d pjesama. Maksimalni broj pjesama u redu čekanja iznosi %2$d.</item>
+        <item quantity="one">Dodana je samo %1$d pjesma. Maksimalni broj pjesama u redu čekanja iznosi %2$d.</item>
+        <item quantity="few">Dodane su samo %1$d pjesme. Maksimalni broj pjesama u redu čekanja iznosi %2$d.</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMA</item>
+        <item quantity="one">%1$d ALBUM</item>
+        <item quantity="few">%1$d ALBUMA</item>
+    </plurals>
+    <plurals name="NartistsSelected">
+        <item quantity="other">Odabrano je %1$d autora</item>
+        <item quantity="one">Odabran je %1$d autor</item>
+        <item quantity="few">Odabrana su %1$d autora</item>
+    </plurals>
+    <plurals name="NgenresSelected">
+        <item quantity="other">Odabrano je %1$d žanrova</item>
+        <item quantity="one">Odabran je %1$d žanr</item>
+        <item quantity="few">Odabrana su %1$d žanra</item>
+    </plurals>
+    <plurals name="Nscrubber_description_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sata</item>
+    </plurals>
+    <plurals name="Nscrubber_description_minutes">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="Nscrubber_description_seconds">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d pjesama</item>
+        <item quantity="one">%1$d pjesma</item>
+        <item quantity="few">%1$d pjesme</item>
+    </plurals>
+    <plurals name="Nsongs_removed">
+        <item quantity="other">Uklonjeno je %d pjesama.</item>
+        <item quantity="one">Uklonjena je %d pjesma.</item>
+        <item quantity="few">Uklonjene su %d pjesme.</item>
+    </plurals>
+</resources>

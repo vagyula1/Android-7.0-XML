@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SetupWorkSpaceTheme" parent="@style/SuwThemeMaterial.Light">
+        <item name="android:windowBackground">@color/gray_50</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

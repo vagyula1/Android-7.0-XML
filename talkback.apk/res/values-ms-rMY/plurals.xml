@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f Saat</item>
+        <item quantity="one">1 Saat</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d label dikemaskinikan</item>
+        <item quantity="zero">Tiada label baharu</item>
+        <item quantity="one">1 label dikemaskinikan</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d kunci ditugaskan tindakan</item>
+        <item quantity="one">%d kekunci ditugaskan tindakan</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s menunjukkan %2$d item.</item>
+        <item quantity="one">%1$s menunjukkan%2$d item.</item>
+    </plurals>
+</resources>

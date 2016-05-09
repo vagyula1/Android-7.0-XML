@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">가입 상태를 확인하는 중입니다. 잠시 기다려 주십시오...</string>
+    <string name="vzw_error_msg_title">요청을 처리할 수 없습니다.</string>
+    <string name="vzw_error_msg">"모바일 핫스팟/모바일 브로드밴드 연결에 가입하려면 아래 번호로 전화하십시오. 
+ 소비자: (800) 256-4646 
+ 기업: (800) 899-4249"</string>
+    <string name="tmo_error_msg_title">서비스를 업그레이드해야 합니다.</string>
+    <string name="tmo_error_msg">현재 사용 중인 요금제에는 휴대전화의 데이터 연결을 다른 기기와 공유할 수 있도록 하는 스마트폰 모바일 핫스팟 서비스가 포함되어 있지 않습니다. 요금제에 스마트폰 모바일 핫스팟 서비스를 추가하시겠습니까? https://my.t-mobile.com의 Manage(관리) > Plans and Services(요금제 및 서비스)를 통해 온라인으로 추가할 수도 있습니다.</string>
+    <string name="app_name">자격</string>
+    <string name="network_connection_title">네트워크 연결 오류</string>
+    <string name="network_connection_error_msg">현재 휴대전화에서 %s의 서버에 연결할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="mobile_hotspot">모바일 핫스팟</string>
+    <string name="spg_dlg_normaltext">모바일 핫스팟을 사용하려면 모바일 핫스팟 서비스에 가입하셔야 합니다.</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">My Verizon에 방문하여 모바일 핫스팟에 대한 자세한 정보와 가입 방법을 알아보세요.</a></string>
+    <string name="browser_error_msg">브라우저를 열 수 없습니다.</string>
+    <string name="alert_dialog_positive_button">확인</string>
+    <string name="alert_dialog_negative_button">취소</string>
+    <string name="alert_dialog_yes_button">예</string>
+    <string name="alert_dialog_no_button">아니요</string>
+    <string name="alert_dialog_upgrade_button">업그레이드</string>
+    <string name="alert_dialog_later_button">나중에</string>
+    <string name="att_error_msg">활성화하려면 att.com/mywireless를 방문하거나 611로 전화하십시오.</string>
+    <string name="att_error_msg_title">테더링을 위한 계정이 설정되지 않음</string>
+    <string name="att_error_msg_other">일시적인 네트워크 장애로 인해 모바일 핫스팟 기능을 사용할 수 없습니다. 잠시 후 다시 시도하십시오.</string>
+    <string name="att_error_msg_other_title">네트워크 오류</string>
+    <string name="sprint_error_msg">데이터 네트워크에 연결할 수 없습니다. 테더링이나 핫스팟 서비스를 구독하지 않았을 수 있습니다. 휴대전화 회사에 문의하십시오.</string>
+    <string name="sprint_error_msg_lte">테더링 및 핫스팟 서비스에 가입하지 않았습니다. 가입 옵션을 확인하시겠습니까?</string>
+    <string name="sprint_error_msg_3g">데이터 네트워크에 연결할 수 없습니다. 테더링이나 핫스팟을 끄십시오. 사용 중인 요금제에 테더링과 핫스팟 서비스가 없을 수 있습니다. 가입 옵션을 확인하시겠습니까?</string>
+    <string name="sprint_error_msg_title">테더링 또는 핫스팟 오류</string>
+    <string name="sprint_notification_msg">자세한 정보를 보려면 터치</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

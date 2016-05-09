@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f ሰከንዶች</item>
+        <item quantity="one">1 ሰከንድ</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d መሰየሚያዎች ተዘምነዋል</item>
+        <item quantity="zero">ምንም አዲስ መሰየሚያዎች የሉም</item>
+        <item quantity="one">1 መሰየሚያ ተዘምኗል</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d የተመደቡ ቁልፎች</item>
+        <item quantity="one">%d የተመደበ ቁልፍ</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s%2$d ንጥሎችን በማሳየት ላይ።</item>
+        <item quantity="one">%1$s%2$d ንጥል በማሳየት ላይ።</item>
+    </plurals>
+</resources>

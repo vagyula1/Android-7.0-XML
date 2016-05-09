@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d ֆայլի պատճենում:</item>
+        <item quantity="one">%1$d ֆայլի պատճենում:</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d ֆայլի տեղափոխում:</item>
+        <item quantity="one">%1$d ֆայլի տեղափոխում:</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d ֆայլի ջնջում:</item>
+        <item quantity="one">%1$d ֆայլի ջնջում:</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Չհաջողվեց պատճենել %1$d ֆայլ</item>
+        <item quantity="one">Չհաջողվեց պատճենել %1$d ֆայլ</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Չհաջողվեց տեղափոխել %1$d ֆայլ</item>
+        <item quantity="one">Չհաջողվեց տեղափոխել %1$d ֆայլ</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Չհաջողվեց ջնջել %1$d ֆայլ</item>
+        <item quantity="one">Չհաջողվեց ջնջել %1$d ֆայլ</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d ֆայլ պատճենվեց սեղմատախտակին:</item>
+        <item quantity="one">%1$d ֆայլ պատճենվեց սեղմատախտակին:</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Ընտրված է՝ %1$d</item>
+        <item quantity="one">Ընտրված է՝ %1$d</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Ջնջե՞լ %1$d ֆայլ:</item>
+        <item quantity="one">Ջնջե՞լ %1$d ֆայլ:</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Ջնջե՞լ %1$d պանակ՝ բովանդակության հետ մեկտեղ:</item>
+        <item quantity="one">Ջնջե՞լ %1$d պանակ՝ բովանդակության հետ մեկտեղ:</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Ջնջե՞լ %1$d տարր:</item>
+        <item quantity="one">Ջնջե՞լ %1$d տարր:</item>
+    </plurals>
+</resources>

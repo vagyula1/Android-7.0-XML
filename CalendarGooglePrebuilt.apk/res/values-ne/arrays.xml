@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>अधिसूचना</item>
+        <item>इमेल</item>
+        <item>SMS</item>
+        <item>अलार्म</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>कुनै पनि होइन</item>
+        <item>० मिनेट</item>
+        <item>१ मिनेट</item>
+        <item>५ मिनेट</item>
+        <item>१० मिनेट</item>
+        <item>१५ मिनेट</item>
+        <item>२० मिनेट</item>
+        <item>२५ मिनेट</item>
+        <item>३० मिनेट</item>
+        <item>४५ मिनेट</item>
+        <item>१ घन्टा</item>
+        <item>२ घन्टा</item>
+        <item>३ घन्टा</item>
+        <item>१२ घन्टा</item>
+        <item>२४ घन्टा</item>
+        <item>२ दिन</item>
+        <item>१ हप्ता</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>शनिबार</item>
+        <item>आइतबार</item>
+        <item>सोमबार</item>
+    </string-array>
+    <string-array name="availability">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+        <item>अनुमानित</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>पहिलो</item>
+        <item>दोस्रो</item>
+        <item>तेस्रो</item>
+        <item>चौंथो</item>
+        <item>अन्तिम</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>अहिलेसम्म जवाफ दिइएको छैन</item>
+        <item>जाँदै</item>
+        <item>हुनसक्छ</item>
+        <item>जाँदै छैन</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>यो कार्यक्रम</item>
+        <item>सबै आगामी कार्यक्रमहरू</item>
+        <item>सम्पूर्ण घटनाहरू</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>यो र भविष्यका घटनाहरू</item>
+        <item>सम्पूर्ण घटनाहरू</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>यो घटना मात्र</item>
+        <item>पङ्तिमा रहेका सबै घटनाहरू</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>दिन</item>
+        <item>हप्ता</item>
+        <item>महिना</item>
+        <item>एजेन्डा</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>गोलभेंडा</item>
+        <item>ट्याङ्जेरिन</item>
+        <item>फर्सी</item>
+        <item>आँप</item>
+        <item>केरा</item>
+        <item>सिट्रन</item>
+        <item>अभोकाडो</item>
+        <item>पिस्ताचियो</item>
+        <item>तुलसी</item>
+        <item>इयुकलिप्टस</item>
+        <item>सेज</item>
+        <item>मयुर</item>
+        <item>कोबाल्ट</item>
+        <item>ब्लुबेरी</item>
+        <item>लाभेन्डर</item>
+        <item>विस्टेरिया</item>
+        <item>अमेथिस्ट</item>
+        <item>अङ्गुर</item>
+        <item>राडिच्चियो</item>
+        <item>चेरी ब्लसम</item>
+        <item>फ्लेमिङ्गो</item>
+        <item>कोका</item>
+        <item>ग्राफाइट</item>
+        <item>बर्च</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>केही मिनेट मात्र ढिलो सञ्चालन गर्दै</item>
+        <item>करिब १० मिनेटमा त्यहाँ पुग्नुहोस्।</item>
+        <item>अगाडि बढ्नुहोस् र म बिना नै सुरु गर्नुहोस्।</item>
+        <item>माफ गर्नुहोस्, मैले यो नभ्याउने परे। हामीले यसलाई पुनःसमय तालिका मिलाउनु पर्छ।</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google पात्रो</item>
+        <item>स्क्यान गर्न सजिलो छ र हेर्दा पनि राम्रो देखिन्छ</item>
+        <item>तपाईंको पात्रोमा छिटो र सजिलै बिहिर भर्नुहोस्</item>
+        <item>Gmail बाट घटनाक्रमहरू</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>प्रत्येक दिनको सदुपयोग गर्नुहोस्।</item>
+        <item>समय तालिका भ्युले तपाईंको पात्रोमा छविहरू र नक्सा राख्छ।</item>
+        <item>सहयोगहरूको साथमा, तपाईंले टाइप गर्दा शीर्षकहरू, सम्पर्क ठेगानाहरू र स्थानहरूको लागि सुझावहरू प्रकट हुन्छन।</item>
+        <item>उडान, रेस्टुरेन्ट र अन्यका लागि अग्रिम बुकिङ जानकारी इमेलबाट स्वचालित रूपमा थपिन्छ।</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>उपकरण स्थान प्रयोग गर्दछ</item>
+        <item></item>
+        <item>तपाईं यसलाई सेटिङमा परिवर्तन गर्न सक्नुहुन्छ।</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} व्यक्ति थप्नुहोस्, सम्पर्क जानकारी प्राप्त गर्नुहोस्</item>
+        <item>{LOCATION_ICON} स्थान थप्नुहोस्, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>कोसँग?</item>
+        <item>कसैलाई थप्नुहोस्, सम्पर्क जानकारी प्राप्त गर्नुहोस्</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON} सम्पर्क थप्दा निमन्त्रणा पठाउँदैन</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>कहाँ?</item>
+        <item>एक स्थान थप्नुहोस, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
+    </string-array>
+</resources>

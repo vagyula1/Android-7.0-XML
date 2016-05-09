@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ღონისძიებისთვის</item>
+        <item quantity="one">%d ღონისძიებისთვის</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ყოველ %d დღეში</item>
+        <item quantity="one">ყოველ %d დღეში</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ყოველ %d კვირაში</item>
+        <item quantity="one">ყოველ %d კვირაში</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ყოველ %d თვეში</item>
+        <item quantity="one">ყოველ %d თვეში</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ყოველ %d წელიწადში</item>
+        <item quantity="one">ყოველ %d წელიწადში</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d-ჯერ</item>
+        <item quantity="one">; ერთხელ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ყოველ %d-ე დღეს</item>
+        <item quantity="one">ყოველდღიურად</item>
+        <item quantity="two">ყოველ %d-ე დღეს</item>
+        <item quantity="few">ყოველ %d-ე დღეს</item>
+        <item quantity="many">ყოველ %d-ე დღეს</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ყოველ %d-ე დღეს</item>
+        <item quantity="one">ყოველდღიურად</item>
+        <item quantity="two">ყოველ %d-ე დღეს</item>
+        <item quantity="few">ყოველ %d-ე დღეს</item>
+        <item quantity="many">ყოველ %d-ე დღეს</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="one">ყოველკვირეულად %2$s-ობით</item>
+        <item quantity="two">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="few">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="many">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="one">ყოველკვირეულად %2$s-ობით</item>
+        <item quantity="two">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="few">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+        <item quantity="many">ყოველ %1$d-ე კვირას, %2$s-ობით</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ყოველ %1$d-ე თვეს</item>
+        <item quantity="one">ყოველთვიურად</item>
+        <item quantity="two">ყოველ %1$d-ე თვეს</item>
+        <item quantity="few">ყოველ %1$d-ე თვეს</item>
+        <item quantity="many">ყოველ %1$d-ე თვეს</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ყოველ %1$d-ე თვეს</item>
+        <item quantity="one">ყოველთვიურად</item>
+        <item quantity="two">ყოველ %1$d-ე თვეს</item>
+        <item quantity="few">ყოველ %1$d-ე თვეს</item>
+        <item quantity="many">ყოველ %1$d-ე თვეს</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ყოველ %1$d-ე წელს</item>
+        <item quantity="one">ყოველწლიურად</item>
+        <item quantity="two">ყოველ %1$d-ე წელს</item>
+        <item quantity="few">ყოველ %1$d-ე წელს</item>
+        <item quantity="many">ყოველ %1$d-ე წელს</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ყოველ %1$d-ე წელს</item>
+        <item quantity="one">ყოველწლიურად</item>
+        <item quantity="two">ყოველ %1$d-ე წელს</item>
+        <item quantity="few">ყოველ %1$d-ე წელს</item>
+        <item quantity="many">ყოველ %1$d-ე წელს</item>
+    </plurals>
+</resources>

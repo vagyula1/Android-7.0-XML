@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>સૂચના</item>
+        <item>ઇમેઇલ</item>
+        <item>SMS</item>
+        <item>એલાર્મ</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>કોઈ નહીં</item>
+        <item>0 મિનિટ</item>
+        <item>1 મિનિટ</item>
+        <item>5 મિનિટ</item>
+        <item>10 મિનિટ</item>
+        <item>15 મિનિટ</item>
+        <item>20 મિનિટ</item>
+        <item>25 મિનિટ</item>
+        <item>30 મિનિટ</item>
+        <item>45 મિનિટ</item>
+        <item>1 કલાક</item>
+        <item>2 કલાક</item>
+        <item>3 કલાક</item>
+        <item>12 કલાક</item>
+        <item>24 કલાક</item>
+        <item>2 દિવસ</item>
+        <item>1 અઠવાડિયું</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>શનિવાર</item>
+        <item>રવિવાર</item>
+        <item>સોમવાર</item>
+    </string-array>
+    <string-array name="availability">
+        <item>વ્યસ્ત</item>
+        <item>ઉપલબ્ધ</item>
+        <item>અનિશ્ચિત</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>પ્રથમ</item>
+        <item>સેકન્ડ</item>
+        <item>ત્રીજું</item>
+        <item>ચોથું</item>
+        <item>છેલ્લું</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>હજી સુધી જવાબ આપ્યો નથી</item>
+        <item>જઈ રહ્યાં છે</item>
+        <item>કદાચ</item>
+        <item>જઈ રહ્યાં નથી</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>આ ઇવેન્ટ</item>
+        <item>નીચેની બધી ઇવેન્ટ્સ</item>
+        <item>બધી ઇવેન્ટ્સ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>આ &amp; ભાવિ ઇવેન્ટ્સ</item>
+        <item>બધી ઇવેન્ટ્સ</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ફક્ત આ જ ઇવેન્ટ</item>
+        <item>આ શ્રેણીની તમામ ઇવેન્ટ્સ</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>દિવસ</item>
+        <item>અઠવાડિયું</item>
+        <item>મહિનો</item>
+        <item>એજેંડા</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>વ્યસ્ત</item>
+        <item>ઉપલબ્ધ</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>ટમેટા</item>
+        <item>નારંગી</item>
+        <item>ઘેરો નારંગી</item>
+        <item>કેરી</item>
+        <item>કેળા</item>
+        <item>લીંબુ</item>
+        <item>પોપટી</item>
+        <item>પિસ્તા</item>
+        <item>તુલસી</item>
+        <item>નીલગિરી</item>
+        <item>સેજ</item>
+        <item>ઘેરો લીલો</item>
+        <item>ઘેરો વાદળી</item>
+        <item>બ્લુબેરી</item>
+        <item>લવંડર</item>
+        <item>જાંબલી</item>
+        <item>નીલમ</item>
+        <item>જાંબુડિયો</item>
+        <item>મજેન્ટા</item>
+        <item>આછો ગુલાબી</item>
+        <item>ગુલાબી</item>
+        <item>કૉફી</item>
+        <item>ઘેરો ગ્રે</item>
+        <item>ચીકુ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>થોડા મોડા પહોંચીએ છીએ.</item>
+        <item>લગભગ 10 મિનિટમાં ત્યાં હોઈશું.</item>
+        <item>આગળ વધો અને મારા વિના પ્રારંભ કરો.</item>
+        <item>માફ કરશો, હું આવી શકીશ નહીં. આપણે ફરીથી શેડ્યૂલ કરવું પડશે.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google કેલેન્ડર</item>
+        <item>સ્કૅન કરવામાં સરળ અને દેખાવે અતિસુંદર</item>
+        <item>તમારા કૅલેન્ડરને ભરો, ઝડપથી અને સરળતાથી</item>
+        <item>Gmail તરફથી ઇવેન્ટ્સ</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>દરરોજનો સૌથી વધુ લાભ લો.</item>
+        <item>શેડ્યૂલ દૃશ્ય, છબીઓ અને નકશાને તમારા કેલેન્ડર પર મૂકે છે.</item>
+        <item>Assists સાથે, તમારા લખતાંની સાથે શીર્ષકો, સંપર્કો અને સ્થાનો માટે સૂચનો દેખાય છે.</item>
+        <item>ફ્લાઇટ્સ, રેસ્ટોરેન્ટ્સ અને વધુ માટે આરક્ષણ, ઇમેઇલ્સમાંથી આપેમેળે ઉમેરેલ.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>ઉપકરણના સ્થાનનો ઉપયોગ કરે છે.</item>
+        <item></item>
+        <item>તમે આને સેટિંગ્સમાં બદલી શકો છો.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} લોકોને ઉમેરો, સંપર્ક માહિતી મેળવો</item>
+        <item>{LOCATION_ICON} સ્થાનોને ઉમેરો, દિશા નિર્દેશો મેળવો</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>કોની સાથે?</item>
+        <item>કોઈને ઉમેરો, સંપર્ક માહિતી મેળવો</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}સંપર્કો ઉમેરવું કોઈ આમંત્રણ મોકલશે નહીં</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>ક્યાં?</item>
+        <item>કોઈ સ્થાન ઉમેરો, દિશા નિર્દેશો મેળવો</item>
+    </string-array>
+</resources>

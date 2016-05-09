@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d файл көчүрүлүүдө.</item>
+        <item quantity="one">%1$d файл көчүрүлүүдө.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d файл жылдырылууда.</item>
+        <item quantity="one">%1$d файл жылдырылууда.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d файл жок кылынууда.</item>
+        <item quantity="one">%1$d файл жок кылынууда.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d файл көчүрүлбөй койду</item>
+        <item quantity="one">%1$d файл көчүрүлбөй койду</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d файл жылдырылбай койду</item>
+        <item quantity="one">%1$d файл жылдырылбай койду</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d файл жок кылынбай койду</item>
+        <item quantity="one">%1$d файл жок кылынбай койду</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d файл буферге көчүрүлдү.</item>
+        <item quantity="one">%1$d файл буферге көчүрүлдү.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d тандалды</item>
+        <item quantity="one">%1$d тандалды</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d файл жок кылынсынбы?</item>
+        <item quantity="one">%1$d файл жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d куржун мазмуну менен жок кылынсынбы?</item>
+        <item quantity="one">%1$d куржун мазмуну менен жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d нерсе жок кылынчынбы?</item>
+        <item quantity="one">%1$d нерсе жок кылынчынбы?</item>
+    </plurals>
+</resources>

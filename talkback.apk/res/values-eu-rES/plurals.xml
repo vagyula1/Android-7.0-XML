@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f segundo</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d etiketa eguneratu dira</item>
+        <item quantity="zero">Ez dago etiketa berririk</item>
+        <item quantity="one">Etiketa bat eguneratu da</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d tekla esleitu dira</item>
+        <item quantity="one">%d tekla esleitu da</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s edukitzaileak %2$d elementu erakusten ditu.</item>
+        <item quantity="one">%1$s edukitzaileak %2$d elementu erakusten du.</item>
+    </plurals>
+</resources>

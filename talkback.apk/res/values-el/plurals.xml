@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Ενημερώθηκαν %d ετικέτες</item>
+        <item quantity="zero">Δεν υπάρχουν νέες ετικέτες</item>
+        <item quantity="one">Ενημερώθηκε 1 ετικέτα</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Εκχωρήθηκαν %d πλήκτρα</item>
+        <item quantity="one">Εκχωρήθηκε %d πλήκτρο</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s που εμφανίζει %2$d στοιχεία.</item>
+        <item quantity="one">%1$s που εμφανίζει %2$d στοιχείο.</item>
+    </plurals>
+</resources>

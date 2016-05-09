@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">Checking subscription status. Please Wait...</string>
+    <string name="vzw_error_msg_title">Your order could not be processed</string>
+    <string name="vzw_error_msg">"If you would like to subscribe to Mobile Hotspot/Mobile Broadband Connect, call: 
+ Consumer: (800) 256-4646, 
+ Business: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Service upgrade required</string>
+    <string name="tmo_error_msg">"Your current rate plan does not include the Smartphone Mobile HotSpot service which enables sharing your phone's data connection with other devices. Do you want to add the Smartphone Mobile HotSpot service to your rate plan? You can also add it online at https://my.t-mobile.com under Manage > Plans and Services."</string>
+    <string name="app_name">Entitlement</string>
+    <string name="network_connection_title">Network connection error</string>
+    <string name="network_connection_error_msg">"Your phone cannot currently connect to %s's server. Please try again later."</string>
+    <string name="mobile_hotspot">Mobile Hotspot</string>
+    <string name="spg_dlg_normaltext">To use Mobile Hotspot, you will need to subscribe to the Mobile Hotspot service</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Learn more and subscribe to Mobile Hotspot by visiting My Verizon.</a></string>
+    <string name="browser_error_msg">Cannot open browser.</string>
+    <string name="alert_dialog_positive_button">OK</string>
+    <string name="alert_dialog_negative_button">Cancel</string>
+    <string name="alert_dialog_yes_button">Yes</string>
+    <string name="alert_dialog_no_button">No</string>
+    <string name="alert_dialog_upgrade_button">Upgrade</string>
+    <string name="alert_dialog_later_button">Later</string>
+    <string name="att_error_msg">To enable, go to att.com/mywireless or dial 611</string>
+    <string name="att_error_msg_title">Account not set up for tethering</string>
+    <string name="att_error_msg_other">There is a temporary network problem that prevents the enablement of the Mobile Hotspot function. Please retry later</string>
+    <string name="att_error_msg_other_title">Network Error</string>
+    <string name="sprint_error_msg">Unable to connect to data network; You may not be subscribed to Tethering or Hotspot service; please contact your phone company.</string>
+    <string name="sprint_error_msg_lte">You are not subscribed to Tethering and Hotspot service, Do you want to see subscription options?</string>
+    <string name="sprint_error_msg_3g">Unable to connect to data network, turning off Tethering or Hotspot. Your plan may not have the Tethering and Hotspot service. Do you want to see subscription options?</string>
+    <string name="sprint_error_msg_title">Tethering or Hotspot Error</string>
+    <string name="sprint_notification_msg">Touch to see more details</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

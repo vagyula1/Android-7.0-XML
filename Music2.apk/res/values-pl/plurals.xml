@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NalbumsWordCase">
+        <item quantity="other">%1$d albumu</item>
+        <item quantity="one">1 album</item>
+        <item quantity="few">%1$d albumy</item>
+        <item quantity="many">%1$d albumów</item>
+    </plurals>
+    <plurals name="NsongsWordCase">
+        <item quantity="other">%1$d utworu</item>
+        <item quantity="one">1 utwór</item>
+        <item quantity="few">%1$d utwory</item>
+        <item quantity="many">%1$d utworów</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Do biblioteki dodano tyle utworów: %d.</item>
+        <item quantity="one">Do biblioteki dodano 1 utwór.</item>
+        <item quantity="few">Do biblioteki dodano %d utwory.</item>
+        <item quantity="many">Do biblioteki dodano %d utworów.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Utwory (%1$d) zostały dodane do playlisty %2$s.</item>
+        <item quantity="one">1 utwór został dodany do playlisty %2$s.</item>
+        <item quantity="few">%1$d utwory zostały dodane do playlisty %2$s.</item>
+        <item quantity="many">%1$d utworów zostało dodanych do playlisty %2$s.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Dodano tylko tyle utworów: %1$d. W kolejce może ich być maks. %2$d.</item>
+        <item quantity="one">Dodano tylko 1 utwór. W kolejce może ich być maks. %2$d.</item>
+        <item quantity="few">Dodano tylko %1$d utwory. W kolejce może ich być maks. %2$d.</item>
+        <item quantity="many">Dodano tylko %1$d utworów. W kolejce może ich być maks. %2$d.</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">ALBUMY: %1$d</item>
+        <item quantity="one">1 ALBUM</item>
+        <item quantity="few">%1$d ALBUMY</item>
+        <item quantity="many">%1$d ALBUMÓW</item>
+    </plurals>
+    <plurals name="NartistsSelected">
+        <item quantity="other">Wybrano %1$d wykonawcy</item>
+        <item quantity="one">Wybrano 1 wykonawcę</item>
+        <item quantity="few">Wybrano %1$d wykonawców</item>
+        <item quantity="many">Wybrano %1$d wykonawców</item>
+    </plurals>
+    <plurals name="NgenresSelected">
+        <item quantity="other">Wybrano %1$d gatunku</item>
+        <item quantity="one">Wybrano 1 gatunek</item>
+        <item quantity="few">Wybrano %1$d gatunki</item>
+        <item quantity="many">Wybrano %1$d gatunków</item>
+    </plurals>
+    <plurals name="Nscrubber_description_hours">
+        <item quantity="other">%d godziny</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+    </plurals>
+    <plurals name="Nscrubber_description_minutes">
+        <item quantity="other">%d minuty</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="Nscrubber_description_seconds">
+        <item quantity="other">%d sekundy</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d utworu</item>
+        <item quantity="one">1 utwór</item>
+        <item quantity="few">%1$d utwory</item>
+        <item quantity="many">%1$d utworów</item>
+    </plurals>
+    <plurals name="Nsongs_removed">
+        <item quantity="other">%d utworu zostało usunięte.</item>
+        <item quantity="one">Utwór został usunięty.</item>
+        <item quantity="few">%d utwory zostały usunięte.</item>
+        <item quantity="many">%d utworów zostało usuniętych.</item>
+    </plurals>
+</resources>

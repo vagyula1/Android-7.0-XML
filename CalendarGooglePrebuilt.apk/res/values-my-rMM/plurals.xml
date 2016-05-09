@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ဖြစ်ရပ် %d အတွက်</item>
+        <item quantity="one">ဖြစ်ရပ် %d အတွက်</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%dပတ်တိုင်း</item>
+        <item quantity="one">%d အပတ်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d လတိုင်း</item>
+        <item quantity="one">%d လတိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d နှစ်တိုင်း</item>
+        <item quantity="one">%d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">၊%d ကြိမ်</item>
+        <item quantity="one">၊ တစ်ကြိမ်</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">နေ့စဉ်</item>
+        <item quantity="two">%d ရက်တိုင်း</item>
+        <item quantity="few">%d ရက်တိုင်း</item>
+        <item quantity="many">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">နေ့စဉ်</item>
+        <item quantity="two">%d ရက်တိုင်း</item>
+        <item quantity="few">%d ရက်တိုင်း</item>
+        <item quantity="many">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="one">အပတ်စဉ် %2$s တွင်</item>
+        <item quantity="two">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="few">%1$d ပတ်တိုင်း%2$s တွင်</item>
+        <item quantity="many">%1$dပတ်တိုင်း%2$s တွင်</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="one">အပတ်စဉ် %2$s တွင်</item>
+        <item quantity="two">%1$d ပတ်တိုင်း%2$sတွင်</item>
+        <item quantity="few">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="many">%1$d ပတ်တိုင်း %2$s တွင်</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d လတိုင်း</item>
+        <item quantity="one">လစဉ်</item>
+        <item quantity="two">%1$d လတိုင်း</item>
+        <item quantity="few">%1$d လတိုင်း</item>
+        <item quantity="many">Every %1$d months</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d လတိုင်း</item>
+        <item quantity="one">လစဉ်</item>
+        <item quantity="two">%1$d လတိုင်း</item>
+        <item quantity="few">%1$d လတိုင်း</item>
+        <item quantity="many">%1$d လတိုင်း</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d နှစ်တိုင်း</item>
+        <item quantity="one">နှစ်စဉ်</item>
+        <item quantity="two">%1$d နှစ်တိုင်း</item>
+        <item quantity="few">%1$d နှစ်တိုင်း</item>
+        <item quantity="many">%1$d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d နှစ်တိုင်း</item>
+        <item quantity="one">နှစ်တိုင်း</item>
+        <item quantity="two">%1$d နှစ်တိုင်း</item>
+        <item quantity="few">%1$d နှစ်တိုင်း</item>
+        <item quantity="many">%1$d နှစ်တိုင်း</item>
+    </plurals>
+</resources>

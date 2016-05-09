@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">%1$s har problem med Google Play-tjänster. Om problemet kvarstår kontaktar du utvecklaren.</string>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_install_title">Hämta Google Play-tjänster</string>
+    <string name="common_google_play_services_install_text_phone">Du måste installera Google Play-tjänster för att kunna köra %1$s på mobilen.</string>
+    <string name="common_google_play_services_install_text_tablet">Du måste installera Google Play-tjänster för att kunna köra %1$s på surfplattan.</string>
+    <string name="common_google_play_services_install_button">Hämta Google Play-tjänster</string>
+    <string name="common_google_play_services_enable_title">Aktivera Google Play-tjänster</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string name="common_google_play_services_enable_button">Aktivera Google Play-tjänster</string>
+    <string name="common_google_play_services_update_title">Uppdatera Google Play-tjänster</string>
+    <string name="common_google_play_services_update_text">Om du vill köra %1$s måste du först uppdatera Google Play-tjänster.</string>
+    <string name="common_google_play_services_wear_update_text">En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjänster uppdateras</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_network_error_title">Nätverksfel</string>
+    <string name="common_google_play_services_network_error_text">Du måste ha en dataanslutning för att kunna ansluta till Google Play-tjänster.</string>
+    <string name="common_google_play_services_invalid_account_title">Ogiltigt konto</string>
+    <string name="common_google_play_services_invalid_account_text">Det angivna kontot finns inte på den här enheten. Välj ett annat konto.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjänster</string>
+    <string name="common_google_play_services_unsupported_text">För %1$s krävs Google Play-tjänster, och dessa stöds inte på enheten. Kontakta tillverkaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_update_button">Uppdatera</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_google_play_services_api_unavailable_text">För %1$s krävs en eller flera Google Play-tjänster som inte är tillgängliga för närvarande. Kontakta utvecklaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Det gick inte att logga in</string>
+    <string name="common_google_play_services_sign_in_failed_text">Ett fel uppstod när du försökte logga in på kontot. Välj ett annat konto.</string>
+    <string name="common_google_play_services_restricted_profile_title">Begränsad profil</string>
+    <string name="common_google_play_services_restricted_profile_text">Det går inte att komma åt konton från en begränsad profil.</string>
+    <string name="common_signin_button_text">Logga in</string>
+    <string name="common_signin_button_text_long">Logga in med Google</string>
+    <string name="wifi_fail_to_scan">Det går inte att söka efter nätverk</string>
+    <string name="wifi_security_none">Ingen</string>
+    <string name="wifi_remembered">Sparat</string>
+    <string name="wifi_disabled_generic">Inaktiverad</string>
+    <string name="wifi_disabled_network_failure">IP-konfigurationsfel</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi-anslutningsfel</string>
+    <string name="wifi_disabled_password_failure">Autentiseringsproblem</string>
+    <string name="wifi_not_in_range">Utom räckhåll</string>
+    <string name="wifi_no_internet">Ingen internetåtkomst hittades. Det går inte att återansluta automatiskt.</string>
+    <string name="saved_network">Sparades av %1$s</string>
+    <string name="connected_via_wfa">Ansluten via Wi-Fi-assistent</string>
+    <string name="connected_via_passpoint">Anslutet via %1$s</string>
+    <string name="available_via_passpoint">Tillgängligt via %1$s</string>
+    <string name="wifi_connected_no_internet">Ansluten, inget internet</string>
+    <string name="bluetooth_disconnected">Kopplas ifrån</string>
+    <string name="bluetooth_disconnecting">Kopplar ifrån…</string>
+    <string name="bluetooth_connecting">Ansluter…</string>
+    <string name="bluetooth_connected">Ansluten</string>
+    <string name="bluetooth_pairing">Parkoppling…</string>
+    <string name="bluetooth_connected_no_headset">Ansluten (ingen telefon)</string>
+    <string name="bluetooth_connected_no_a2dp">Ansluten (inga media)</string>
+    <string name="bluetooth_connected_no_map">Ansluten (ingen meddelandeåtkomst)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Ansluten (ingen telefon och inga media)</string>
+    <string name="bluetooth_profile_a2dp">Medialjud</string>
+    <string name="bluetooth_profile_headset">Telefonljud</string>
+    <string name="bluetooth_profile_opp">Filöverföring</string>
+    <string name="bluetooth_profile_hid">Indataenhet</string>
+    <string name="bluetooth_profile_pan">Internetåtkomst</string>
+    <string name="bluetooth_profile_pbap">Kontaktdelning</string>
+    <string name="bluetooth_profile_pbap_summary">Använd för kontaktdelning</string>
+    <string name="bluetooth_profile_pan_nap">Delning av Internetanslutning</string>
+    <string name="bluetooth_profile_map">Meddelandeåtkomst</string>
+    <string name="bluetooth_profile_sap">SIM-åtkomst</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Ansluten till medialjud</string>
+    <string name="bluetooth_headset_profile_summary_connected">Ansluten till telefonens ljud</string>
+    <string name="bluetooth_opp_profile_summary_connected">Ansluten till filöverföringsserver</string>
+    <string name="bluetooth_map_profile_summary_connected">Ansluten till MAP</string>
+    <string name="bluetooth_sap_profile_summary_connected">Ansluten till SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Inte ansluten till filöverföringsserver</string>
+    <string name="bluetooth_hid_profile_summary_connected">Ansluten till indataenhet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Ansluten för Internetåtkomst</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Dela lokal Internetanslutning med enhet</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Använd för Internetåtkomst</string>
+    <string name="bluetooth_map_profile_summary_use_for">Använd för MAP</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Använd för SIM-åtkomst</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Använd för medialjud</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Använd för telefonens ljud</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Använd för filöverföring</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Använd för inmatning</string>
+    <string name="bluetooth_pairing_accept">Parkoppling</string>
+    <string name="bluetooth_pairing_accept_all_caps">KOPPLA</string>
+    <string name="bluetooth_pairing_decline">Avbryt</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Om du kopplar enheten får du tillgång till dina kontakter och din samtalshistorik när du är ansluten.</string>
+    <string name="bluetooth_pairing_error_message">Det gick inte att koppla till %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Det gick inte att koppla till %1$s på grund av en felaktig PIN-kod eller nyckel.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Det går inte att kommunicera med %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Parkoppling avvisad av %1$s.</string>
+    <string name="accessibility_wifi_off">Wi-Fi är inaktiverat.</string>
+    <string name="accessibility_no_wifi">Ingen Wi-Fi-anslutning.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: en stapel.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: två staplar.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: tre staplar.</string>
+    <string name="accessibility_wifi_signal_full">Full signalstyrka för Wi-Fi.</string>
+    <string name="process_kernel_label">Operativsystemet Android</string>
+    <string name="data_usage_uninstalled_apps">Borttagna appar</string>
+    <string name="data_usage_uninstalled_apps_users">Borttagna appar och användare</string>
+    <string name="tether_settings_title_usb">Internetdelning via USB</string>
+    <string name="tether_settings_title_wifi">Mobil surfpunkt</string>
+    <string name="tether_settings_title_bluetooth">Delning via Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Internetdelning</string>
+    <string name="tether_settings_title_all">Internetdelning och surfpunkt</string>
+    <string name="managed_user_title">Arbetsprofil</string>
+    <string name="user_guest">Gäst</string>
+    <string name="unknown">Okänd</string>
+    <string name="running_process_item_user_label">Användare: %1$s</string>
+    <string name="launch_defaults_some">Några standardinställningar har angetts</string>
+    <string name="launch_defaults_none">Inga standardinställningar har angetts</string>
+    <string name="tts_settings">Text-till-tal-inställningar</string>
+    <string name="tts_settings_title">Text-till-tal</string>
+    <string name="tts_default_rate_title">Talhastighet</string>
+    <string name="tts_default_rate_summary">Talhastighet för texten</string>
+    <string name="tts_default_pitch_title">Ton</string>
+    <string name="tts_default_pitch_summary">Påverkar tonen i det syntetiska talet</string>
+    <string name="tts_default_lang_title">Språk</string>
+    <string name="tts_lang_use_system">Använd systemspråk</string>
+    <string name="tts_lang_not_selected">Inget språk valt</string>
+    <string name="tts_default_lang_summary">Ange språkspecifik röst för den talade texten</string>
+    <string name="tts_play_example_title">Lyssna på ett exempel</string>
+    <string name="tts_play_example_summary">Spela upp en kort demonstration av talsyntes</string>
+    <string name="tts_install_data_title">Installera röstdata</string>
+    <string name="tts_install_data_summary">Installera de ljuddata som krävs för talsyntes</string>
+    <string name="tts_engine_security_warning">Talsyntesmotorn kan samla in all text som ska talas, inklusive personlig information som lösenord och kreditkortsnummer. Den kommer från %s-motorn. Vill du använda den här talsyntesmotorn?</string>
+    <string name="tts_engine_network_required">Det krävs en fungerande nätverksanslutning för att text-till-tal ska fungera för det här språket.</string>
+    <string name="tts_default_sample_string">Detta är ett exempel på talsyntes</string>
+    <string name="tts_status_title">Status för standardspråk</string>
+    <string name="tts_status_ok">%1$s stöds</string>
+    <string name="tts_status_requires_network">%1$s kräver nätverksanslutning</string>
+    <string name="tts_status_not_supported">%1$s stöds inte</string>
+    <string name="tts_status_checking">Kontrollerar …</string>
+    <string name="tts_engine_settings_title">Inställningar för %s</string>
+    <string name="tts_engine_settings_button">Öppna inställningar för sökmotor</string>
+    <string name="tts_engine_preference_section_title">Prioriterad sökmotor</string>
+    <string name="tts_general_section_title">Allmänt</string>
+    <string name="choose_profile">Välj profil</string>
+    <string name="category_personal">Personligt</string>
+    <string name="category_work">Arbetet</string>
+    <string name="development_settings_title">Utvecklaralternativ</string>
+    <string name="development_settings_enable">Aktivera utvecklaralternativ</string>
+    <string name="development_settings_summary">Ange alternativ för apputveckling</string>
+    <string name="development_settings_not_available">Utvecklaralternativ är inte tillgängliga för den här användaren</string>
+    <string name="vpn_settings_not_available">VPN-inställningarna är inte tillgängliga för den här användaren</string>
+    <string name="tethering_settings_not_available">Internetdelningsinställningarna är inte tillgängliga för den här användaren</string>
+    <string name="apn_settings_not_available">Inställningarna för åtkomstpunktnamn är inte tillgängliga för den här användaren</string>
+    <string name="enable_adb">USB-felsökning</string>
+    <string name="enable_adb_summary">Felsökningsläge när USB har anslutits</string>
+    <string name="clear_adb_keys">Återkalla åtkomst till USB-felsökning</string>
+    <string name="bugreport_in_power">Genväg till felrapport</string>
+    <string name="bugreport_in_power_summary">Visa en knapp för felrapportering i extramenyn</string>
+    <string name="keep_screen_on">Håll aktiverad</string>
+    <string name="keep_screen_on_summary">Skärmen vilar aldrig när laddning pågår</string>
+    <string name="bt_hci_snoop_log">Aktivera HCI snoop-logg för Bluetooth</string>
+    <string name="bt_hci_snoop_log_summary">Samla alla HCI-paket för Bluetooth i en fil</string>
+    <string name="oem_unlock_enable">OEM-upplåsning</string>
+    <string name="oem_unlock_enable_summary">Tillåt att bootloadern låses upp</string>
+    <string name="confirm_enable_oem_unlock_title">Vill du tillåta OEM-upplåsning?</string>
+    <string name="confirm_enable_oem_unlock_text">Varning! Funktionerna för enhetsskydd fungerar inte på enheten när den här inställningen är aktiverad.</string>
+    <string name="mock_location_app">Välj app för påhittad plats</string>
+    <string name="mock_location_app_not_set">Ingen app för påhittad plats har angetts</string>
+    <string name="mock_location_app_set">App för påhittad plats: %1$s</string>
+    <string name="debug_networking_category">Nätverk</string>
+    <string name="wifi_display_certification">Certifiering för Wi-Fi-skärmdelning</string>
+    <string name="wifi_verbose_logging">Aktivera utförlig loggning för Wi-Fi</string>
+    <string name="wifi_aggressive_handover">Aggressiv överlämning fr. Wi-Fi t. mobil</string>
+    <string name="wifi_allow_scan_with_traffic">Tillåt alltid sökning efter Wi-Fi-roaming</string>
+    <string name="legacy_dhcp_client">Använd äldre DHCP-klient</string>
+    <string name="mobile_data_always_on">Mobildata alltid aktiverad</string>
+    <string name="bluetooth_disable_absolute_volume">Inaktivera Absolute volume</string>
+    <string name="wifi_display_certification_summary">Visa certifieringsalternativ för Wi-Fi-skärmdelning</string>
+    <string name="wifi_verbose_logging_summary">Öka loggningsnivån för Wi-Fi, visa per SSID RSSI i Wi‑Fi Picker</string>
+    <string name="wifi_aggressive_handover_summary">När funktionen har aktiverats kommer dataanslutningen lämnas över från Wi-Fi till mobilen på ett aggressivare sätt när Wi-Fi-signalen är svag</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Tillåt/tillåt inte sökning efter Wi-Fi-roaming utifrån mängden datatrafik i gränssnittet</string>
+    <string name="select_logd_size_title">Buffertstorlekar för logg</string>
+    <string name="select_logd_size_dialog_title">Välj loggstorlekar per loggbuffert</string>
+    <string name="select_usb_configuration_title">Välj USB-konfiguration</string>
+    <string name="select_usb_configuration_dialog_title">Välj USB-konfiguration</string>
+    <string name="allow_mock_location">Tillåt skenplatser</string>
+    <string name="allow_mock_location_summary">Tillåt skenplatser</string>
+    <string name="debug_view_attributes">Aktivera inspektion av visningsattribut</string>
+    <string name="legacy_dhcp_client_summary">Använd DHCP-klienten från Lollipop i stället för den nya Android DHCP-klienten.</string>
+    <string name="mobile_data_always_on_summary">Håll alltid mobildata aktiverad, även när Wi-Fi är aktiverat (så att du snabbt kan byta mellan nätverk).</string>
+    <string name="adb_warning_title">Ska USB-felsökning tillåtas?</string>
+    <string name="adb_warning_message">USB-felsökning ska endast användas i utvecklingssyfte. Använd den för att kopiera data mellan datorn och enheten, installera appar på enheten utan meddelanden och läsa loggdata.</string>
+    <string name="adb_keys_warning_message">Vill du återkalla åtkomst till USB-felsökning för alla datorer som du tidigare har godkänt?</string>
+    <string name="dev_settings_warning_title">Tillåt utvecklarinställningar?</string>
+    <string name="dev_settings_warning_message">Inställningarna är endast avsedda att användas för utvecklingsändamål. De kan orsaka problem med enheten eller apparna som finns installerade på den.</string>
+    <string name="verify_apps_over_usb_title">Verifiera appar via USB</string>
+    <string name="verify_apps_over_usb_summary">Kontrollera om appar som installeras via ADB/ADT kan vara skadliga.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Inaktivera Bluetooth-funktionen Absolute volume om det skulle uppstå problem med volymen på fjärrenheter, t.ex. alldeles för hög volym eller brist på kontroll.</string>
+    <string name="enable_terminal_title">Lokal terminal</string>
+    <string name="enable_terminal_summary">Aktivera en terminalapp som ger åtkomst till hyllor lokalt</string>
+    <string name="hdcp_checking_title">HDCP-kontroll</string>
+    <string name="hdcp_checking_dialog_title">Konfigurera HDCP-kontroll</string>
+    <string name="debug_debugging_category">Felsökning</string>
+    <string name="debug_app">Välj app att felsöka</string>
+    <string name="debug_app_not_set">Du har inte angett vilken app som ska felsökas</string>
+    <string name="debug_app_set">Felsöker appen: %1$s</string>
+    <string name="select_application">Välj app</string>
+    <string name="no_application">Ingen</string>
+    <string name="wait_for_debugger">Vänta på felsökningen</string>
+    <string name="wait_for_debugger_summary">Felsökaren måste ansluta till appen först</string>
+    <string name="debug_input_category">Indata</string>
+    <string name="debug_drawing_category">Ritning</string>
+    <string name="debug_hw_drawing_category">Maskinvaruaccelererad rendering</string>
+    <string name="media_category">Media</string>
+    <string name="debug_monitoring_category">Övervakning</string>
+    <string name="strict_mode">Strikt läge aktiverat</string>
+    <string name="strict_mode_summary">Tänd skärm när app gör omfattande åtgärd på huvudtråd</string>
+    <string name="pointer_location">Pekarens plats</string>
+    <string name="pointer_location_summary">Överlägg på skärmen med aktuella skärmtryck</string>
+    <string name="show_touches">Visa tryck</string>
+    <string name="show_touches_summary">Visa visuell feedback för tryck</string>
+    <string name="show_screen_updates">Visa ytuppdateringar</string>
+    <string name="show_screen_updates_summary">Hela fönstret blinkar vid uppdatering</string>
+    <string name="show_hw_screen_updates">Visa GPU-visningsuppdateringar</string>
+    <string name="show_hw_screen_updates_summary">Visningar blinkar i fönster vid GPU-ritningar</string>
+    <string name="show_hw_layers_updates">Visa maskinvaruskiktuppd.</string>
+    <string name="show_hw_layers_updates_summary">Låt maskinvaruskikt blinka grönt vid uppdateringar</string>
+    <string name="debug_hw_overdraw">Felsök överskriden GPU</string>
+    <string name="disable_overlays">Inaktivera HW-överlagringar</string>
+    <string name="disable_overlays_summary">Använd alltid GPU för skärmsammansättning</string>
+    <string name="simulate_color_space">Simulera färgrymd</string>
+    <string name="enable_opengl_traces_title">Aktivera OpenGL-spår</string>
+    <string name="usb_audio_disable_routing">Inaktivera ljud via USB</string>
+    <string name="usb_audio_disable_routing_summary">Inaktivera autom. ljudomkoppling till USB-enheter</string>
+    <string name="debug_layout">Visa layoutgränser</string>
+    <string name="debug_layout_summary">Visa gränser för videoklipp, marginaler m.m.</string>
+    <string name="force_rtl_layout_all_locales">Tvinga fram RTL-layout</string>
+    <string name="force_rtl_layout_all_locales_summary">Tvinga fram RTL-skärmlayout (hö–vä) för alla språk</string>
+    <string name="show_cpu_usage">Visa CPU-användning</string>
+    <string name="show_cpu_usage_summary">Överlägg på skärmen med aktuell CPU-användning</string>
+    <string name="force_hw_ui">Framtvinga GPU-rendering</string>
+    <string name="force_hw_ui_summary">Tvingad användning av GPU för 2D-ritning</string>
+    <string name="force_msaa">Force 4x MSAA</string>
+    <string name="force_msaa_summary">Aktivera 4x MSAA i OpenGL ES 2.0-appar</string>
+    <string name="show_non_rect_clip">Felsök icke-rektangulära urklippsåtgärder</string>
+    <string name="track_frame_time">Profilens GPU-rendering</string>
+    <string name="window_animation_scale_title">Skala, fönsteranimering</string>
+    <string name="transition_animation_scale_title">Skala, övergångsanimering</string>
+    <string name="animator_duration_scale_title">Längdskala för Animator</string>
+    <string name="overlay_display_devices_title">Simulera sekundär skärm</string>
+    <string name="debug_applications_category">Appar</string>
+    <string name="immediately_destroy_activities">Behåll inte aktiviteter</string>
+    <string name="immediately_destroy_activities_summary">Förstör aktiviteter så fort användaren lämnar dem</string>
+    <string name="app_process_limit_title">Begränsa bakgrundsprocess</string>
+    <string name="show_all_anrs">Visa alla som inte svarar</string>
+    <string name="show_all_anrs_summary">Visa dialogrutan om att appen inte svarar för bakgrundsappar</string>
+    <string name="force_allow_on_external">Tillåt appar i externt lagringsutrymme</string>
+    <string name="force_allow_on_external_summary">Allar appar kan skrivas till extern lagring, oavsett manifestvärden</string>
+    <string name="force_resizable_activities">Framtvinga storleksanpassning för aktiviteter</string>
+    <string name="force_resizable_activities_summary">Gör det möjligt att ändra storleken på alla aktiviteter i flerfönsterläge, oavsett manifestvärden.</string>
+    <string name="enable_freeform_support">Aktivera frihandsfönster</string>
+    <string name="enable_freeform_support_summary">Aktivera stöd för experimentella frihandsfönster.</string>
+    <string name="local_backup_password_title">Lösenord för säkerhetskopia av datorn</string>
+    <string name="local_backup_password_summary_none">De fullständiga säkerhetskopiorna av datorn är för närvarande inte skyddade</string>
+    <string name="local_backup_password_summary_change">Tryck om du vill ändra eller ta bort lösenordet för fullständig säkerhetskopiering av datorn</string>
+    <string name="local_backup_password_toast_success">Ett nytt lösenord har angetts</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Det nya lösenordet och bekräftelsen stämmer inte överens</string>
+    <string name="local_backup_password_toast_validation_failure">Det gick inte att ange lösenordet</string>
+    <string name="inactive_apps_title">Inaktiva appar</string>
+    <string name="inactive_app_inactive_summary">Inaktiv. Tryck om du vill aktivera.</string>
+    <string name="inactive_app_active_summary">Aktiv. Tryck om du vill inaktivera.</string>
+    <string name="runningservices_settings_title">Aktiva tjänster</string>
+    <string name="runningservices_settings_summary">Visa och styr aktiva tjänster</string>
+    <string name="enable_webview_multiprocess">Aktivera WebView-multibearb.</string>
+    <string name="enable_webview_multiprocess_desc">Kör WebView-renderare i en isolerad bearbetning.</string>
+    <string name="select_webview_provider_title">WebView-implementering</string>
+    <string name="select_webview_provider_dialog_title">Ange WebView-implementering</string>
+    <string name="select_webview_provider_toast_text">Det här alternativet är inte längre giltigt. Försök igen.</string>
+    <string name="convert_to_file_encryption">Konvertera till filkryptering</string>
+    <string name="convert_to_file_encryption_enabled">Konvertera …</string>
+    <string name="convert_to_file_encryption_done">Filkryptering används redan</string>
+    <string name="title_convert_fbe">Konverterar till filbaserad kryptering</string>
+    <string name="convert_to_fbe_warning">"Konvertera datapartitionen till filbaserad kryptering.
+ Varning! All data raderas.
+ Detta är en alfafunktion och fel kan uppstå.
+ Tryck på Rensa och konvertera … om du vill fortsätta."</string>
+    <string name="button_convert_fbe">Rensa och konvertera …</string>
+    <string name="picture_color_mode">Färgläge för bilder</string>
+    <string name="picture_color_mode_desc">Använd sRGB</string>
+    <string name="daltonizer_mode_disabled">Inaktiverad</string>
+    <string name="daltonizer_mode_monochromacy">Monokromasi</string>
+    <string name="daltonizer_mode_deuteranomaly">Deuteranomali (rött-grönt)</string>
+    <string name="daltonizer_mode_protanomaly">Protanomali (rött-grönt)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomali (blått-gult)</string>
+    <string name="accessibility_display_daltonizer_preference_title">Färgkorrigering</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Den här funktionen är experimentell och kan påverka prestandan.</string>
+    <string name="daltonizer_type_overridden">Har åsidosatts av %1$s</string>
+    <string name="power_remaining_duration_only">Ca %1$s kvar</string>
+    <string name="power_discharging_duration">%1$s – ca %2$s kvar</string>
+    <string name="power_charging">%1$s – %2$s</string>
+    <string name="power_charging_duration">%1$s – %2$s till fulladdat</string>
+    <string name="power_charging_duration_ac">%1$s – %2$s till fulladdat via laddare</string>
+    <string name="power_charging_duration_usb">%1$s – %2$s till fulladdat via USB</string>
+    <string name="power_charging_duration_wireless">%1$s – %2$s till fulladdat via trådlös laddning</string>
+    <string name="battery_info_status_unknown">Okänd</string>
+    <string name="battery_info_status_charging">Laddar</string>
+    <string name="battery_info_status_charging_ac">Laddas via adapter</string>
+    <string name="battery_info_status_charging_usb">Laddas via USB</string>
+    <string name="battery_info_status_charging_wireless">Laddas trådlöst</string>
+    <string name="battery_info_status_discharging">Laddar inte</string>
+    <string name="battery_info_status_not_charging">Laddar inte</string>
+    <string name="battery_info_status_full">Fullt</string>
+    <string name="disabled_by_admin_summary_text">Strys av administratören</string>
+    <string name="enabled_by_admin">Har aktiverats av administratören</string>
+    <string name="disabled_by_admin">Har inaktiverats av administratören</string>
+    <string name="home">Startsida</string>
+    <string name="charge_length_format">för %1$s sedan</string>
+    <string name="remaining_length_format">%1$s kvar</string>
+    <string name="screen_zoom_summary_small">Små</string>
+    <string name="screen_zoom_summary_default">Standardinställning</string>
+    <string name="screen_zoom_summary_large">Stora</string>
+    <string name="screen_zoom_summary_very_large">Större</string>
+    <string name="screen_zoom_summary_extremely_large">Störst</string>
+    <string name="screen_zoom_summary_custom">Anpassad (%d)</string>
+    <string name="suw_next_button_label">Nästa</string>
+    <string name="suw_back_button_label">Tillbaka</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="abc_action_mode_done">Klart</string>
+    <string name="abc_action_bar_home_description">Visa startsidan</string>
+    <string name="abc_action_bar_up_description">Navigera uppåt</string>
+    <string name="abc_action_menu_overflow_description">Fler alternativ</string>
+    <string name="abc_toolbar_collapse_description">Komprimera</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Sök</string>
+    <string name="abc_search_hint">Sök …</string>
+    <string name="abc_searchview_description_query">Sökfråga</string>
+    <string name="abc_searchview_description_clear">Ta bort frågan</string>
+    <string name="abc_searchview_description_submit">Skicka fråga</string>
+    <string name="abc_searchview_description_voice">Röstsökning</string>
+    <string name="abc_activitychooserview_choose_application">Välj en app</string>
+    <string name="abc_activity_chooser_view_see_all">Visa alla</string>
+    <string name="abc_shareactionprovider_share_with_application">Dela med %s</string>
+    <string name="abc_shareactionprovider_share_with">Dela med</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="setup_wizard_title">Installationsguide</string>
+    <string name="device_name">mobil</string>
+    <string name="finish_button_label">Avsluta</string>
+    <string name="skip_button_label">Hoppa över</string>
+    <string name="skip_anyway_button_label">Hoppa över</string>
+    <string name="go_back_button_label">Tillbaka</string>
+    <string name="down_button_label">Mer</string>
+    <string name="cancel_button_label">Avbryt</string>
+    <string name="restart_button_label">Starta om</string>
+    <string name="try_again_button_label">Försök igen</string>
+    <string name="close_button_label">Stäng</string>
+    <string name="got_it_button_label">OK</string>
+    <string name="ok_button_label">Ok</string>
+    <string name="dialog_back_button_label">Tillbaka</string>
+    <string name="dialog_continue_button_label">Fortsätt</string>
+    <string name="google_legal_title">Juridiskt meddelande från Google</string>
+    <string name="url_load_unsuccessful_message">Mobilen är inte ansluten till en mobil datatjänst. Besök %s i en webbläsare om du vill visa informationen nu.</string>
+    <string name="start">Start</string>
+    <string name="wait_msg">Ett ögonblick ...</string>
+    <string name="skip_toast">Installationsguiden har hoppats över</string>
+    <string name="terminate_toast">"Installationsguiden har avslutats
+Enhet tillhandahålls inte"</string>
+    <string name="activation_title">Aktivera mobiltjänsten ...</string>
+    <string name="activation_progress_flow">"Tar det för lång tid?
+
+Det tar en stund att ansluta till mobildata. Du kan gå tillbaka och testa att ansluta till ett annat nätverk i stället."</string>
+    <string name="activation_failed_title">Det går inte att ansluta till mobildata</string>
+    <string name="activation_failed_message">"Du kan
+"<li>testa att ansluta till mobildata igen</li>"
+"<li>använda ett annat nätverk för konfigurationen.</li>"
+
+Om inget av detta fungerar kan du testa att starta om mobilen och försöka igen."</string>
+    <string name="activation_title_searching">Söker efter tjänst ...</string>
+    <string name="activation_title_activating">Aktiverar mobiltjänsten ...</string>
+    <string name="activation_default_network_name">mobilt nätverk</string>
+    <string name="activation_network_bars_template">Signalstyrka %d</string>
+    <string name="activation_text">Tryck på <b>Aktivera</b>" om du vill aktivera mobiltjänsten nu (det kan ta några minuter).
+
+Tryck på "<b>Hoppa över</b> om du vill konfigurera mobilen med en Wi-Fi-anslutning i stället.</string>
+    <string name="activation_text_standalone">Tryck på <b>Aktivera</b> om du vill aktivera mobiltjänsten nu (det kan ta några minuter).</string>
+    <string name="activation_skip_confirmation">"De flesta av mobilens funktioner kommer inte att fungera förrän du har aktiverat den mobila datatjänsten.
+
+Om du inte vill aktivera den just nu kan du göra det senare i Systeminställningar."</string>
+    <string name="activation_continue_skip_label">Fortsätt</string>
+    <string name="activation_button_label">Aktivera</string>
+    <string name="activation_progress_before_connect">Tryck på <b>Hoppa över</b> om du vill slutföra konfigureringen med en Wi-Fi-anslutning i stället.</string>
+    <string name="activation_progress">Aktiveringen kan ta några minuter. Tryck på <b>Hoppa över</b> om du vill slutföra konfigureringen med en Wi-Fi-anslutning i stället.</string>
+    <string name="activation_progress_gen">Det kan ta upp till fem minuter.</string>
+    <string name="activation_progress_mobile_data">"Din mobila datatjänst aktiveras av mobilen.
+
+Detta kan ta upp till fem minuter."</string>
+    <string name="activation_progress_before_connect_standalone">Aktiveringen kan ta några minuter.</string>
+    <string name="activation_progress_standalone">Aktiveringen kan ta några minuter.</string>
+    <string name="activation_success_title">Aktiveringen har slutförts</string>
+    <string name="activation_success_text">Fortsätt med konfigureringen genom att trycka på <b>Nästa</b>.</string>
+    <string name="activation_success_text_gen">Enheten måste startas om för att aktiveringen ska slutföras.</string>
+    <string name="activation_success_text_standalone">Tryck på <b>Nästa</b>" när du vill fortsätta.
+
+Aktiveringen är klar, men det kan ta några minuter innan mobildatanätverket blir tillgängligt."</string>
+    <string name="activation_failure_title">Det gick inte att aktivera</string>
+    <string name="activation_failure_text">"Prova igen om en minut eller starta om mobilen om det fortsätter att hända.
+
+Du kan hoppa över det nu, men se till att du aktiverar det senare i systeminställningarna. Mobilen kommer inte att ha någon mobildataanslutning förrän du gör det."</string>
+    <string name="activation_failure_text_gen">Det gick inte att aktivera din mobila datatjänst. Det kan bero på ett tillfälligt problem och förhoppningsvis kan du lösa det genom att starta om telefonen.</string>
+    <string name="activation_failure_text_standalone">Det gick inte att aktivera mobildatatjänsten. Om du vill försöka igen trycker du på <b>Försök igen</b>".
+
+Du kan aktivera mobildatatjänsten senare under "<b>Systeminställningar > Trådlöst och nätverk > Mobila nätverk</b></string>
+    <string name="activation_cancel_title">Avbrottsbegäran gjord</string>
+    <string name="activation_cancel_text">Aktiveringen avbryts ... (det kan ta 5–10 sekunder).</string>
+    <string name="activation_canceled_title">Aktiveringen avbröts</string>
+    <string name="activation_canceled_text">"Vill du avbryta aktiveringen? Du måste aktivera mobilnätverkstjänsten innan du kan ansluta till internet med den.
+
+Tryck på "<b>Nästa</b>" om du vill slutföra konfigureringen med en Wi-Fi-anslutning.
+
+Du kan aktivera mobilnätverkstjänsten senare under "<b>Systeminställningar > Trådlöst och nätverk > Mobila nätverk</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktiveringen avbröts.
+
+Du kan aktivera mobildatatjänsten senare i "<b>Systeminställningar > Trådlöst och nätverk > Mobila nätverk</b>.</string>
+    <string name="activation_spc_failure_text">Ett fel uppstod som gör att du måste stänga av och starta om mobilen innan du kan försöka igen med aktiveringen. Mobilen stängs av automatiskt om 60 sekunder. Du kan också trycka på <b>Stäng av nu</b>".
+
+När mobilen har stängts av startar du om den genom att trycka på strömbrytaren. Aktiveringen startar automatiskt."</string>
+    <string name="shutdown_button_label">Stäng av nu</string>
+    <string name="reboot_button_label">Starta om</string>
+    <string name="activation_skip_text">Om du hoppar över aktiveringen ska du se till att aktivera senare i Inställningar. Du måste aktivera för att mobilen ska ha mobildataanslutning.</string>
+    <string name="notification_update_title">Kontot måste uppdateras</string>
+    <string name="notification_update_message">Tryck här om du vill köra installationsguiden igen.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Kontot har lagts till}other{Kontona har lagts till}}</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> är klart.</string>
+    <string name="account_exists_text_unknown_name">Kontot är klart att använda.</string>
+    <string name="account_exists_info">"E-post, kontakter, kalenderhändelser m.m. synkroniseras med mobilen. Du kan även börja ladda ned appar, musik och spel från Google Play.
+
+Du kan när som helst lägga till och ta bort konton via Inställningar > Konton."</string>
+    <string name="date_time_setup_title">Datum och tid</string>
+    <string name="date_time_message">Justera vid behov.</string>
+    <string name="date_time_current_date">Datum</string>
+    <string name="date_time_current_time">Tid</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Sätt i SIM-kortet}other{Sätt i SIM-korten}}</string>
+    <string name="sim_missing_text">"{sim_slots,plural, =1{Behöver du hjälp? Läs anvisningarna som följde med mobilen.
+
+När du har satt i SIM-kortet kan det ta några sekunder innan det aktiveras.}other{Behöver du hjälp? Läs anvisningarna som följde med mobilen.
+
+När du har satt i SIM-korten kan det ta några sekunder innan de aktiveras.}}"</string>
+    <string name="sim_setup_title">Konfigurera SIM-kort</string>
+    <string name="sim_setup_select_data">Välj ett SIM-kort för mobildata</string>
+    <string name="sim_setup_select_voice">Välj ett SIM-kort för samtal</string>
+    <string name="sim_setup_select_text">Välj ett SIM-kort för sms</string>
+    <string name="sim_setup_ask_every_time">Fråga varje gång</string>
+    <string name="wifi_title">Välj Wi-Fi</string>
+    <string name="wifi_skipped_title">Dataavgifter kan tillkomma</string>
+    <string name="wifi_skipped_message">Under konfigurationen används mobilnätet på mobilen och du kan behöva betala för detta. Om du vill undvika avgifter ansluter du till Wi-Fi istället.</string>
+    <string name="wifi_add_new_network">Lägg till ett nytt nätverk</string>
+    <string name="wifi_ip_address_title">IP-adress</string>
+    <string name="wifi_ip_address_not_available">Inte tillgänglig</string>
+    <string name="wifi_mac_address_title">MAC-adress</string>
+    <string name="wifi_mac_address_not_available">Inte tillgänglig</string>
+    <string name="network_title">Anslutning</string>
+    <string name="network_description_text_restore_from_android_flow">Om du vill kopiera data från Android-enheten måste du först ansluta till internet.</string>
+    <string name="network_description_text_google_account_flow">Om du vill logga in på ditt Google-konto måste du först ansluta till internet.</string>
+    <string name="network_description_text_new_flow">Om du vill fortsätta med konfigurationen måste du först ansluta till internet.</string>
+    <string name="network_see_all_wifi">Visa alla Wi-Fi-nätverk</string>
+    <string name="network_use_cellular">Använd mobilnätet vid konfigurering</string>
+    <string name="captive_portal_sign_in_dialog_title">Tillgänglig anslutning</string>
+    <string name="captive_portal_connection_unsuccessful">Det gick inte att ansluta till internet</string>
+    <string name="ota_update_title">Uppdatera mobilen</string>
+    <string name="ota_info">Du måste ladda ned en uppdatering till mobilen och starta om den.</string>
+    <string name="ota_size">Storlek: %s</string>
+    <string name="ota_agreement_text">Genom att fortsätta och ta emot den här programvaruuppdateringen godkänner du <annotation link="tos">Googles användarvillkor</annotation> och <annotation link="google_privacy">sekretesspolicy</annotation>.</string>
+    <string name="early_update_title">Programvaruuppdatering</string>
+    <string name="early_update_text">Söker efter uppdateringar</string>
+    <string name="early_update_downloading_text">Hämtar %s</string>
+    <string name="early_update_installing_text">Installerar %s</string>
+    <string name="warm_sim_check_msg">Väntar på nätverket …</string>
+    <string name="android_privacy_policy_title">Ytterligare sekretesspolicy</string>
+    <string name="google_terms_of_service_title">Googles användarvillkor</string>
+    <string name="google_privacy_policy_title">Googles sekretesspolicy</string>
+    <string name="google_plus_privacy_policy_title">Sekretesspolicy för Google Plus</string>
+    <string name="google_play_tos_title">Google Plays användarvillkor</string>
+    <string name="chrome_tos_title">Användarvillkor för Chrome</string>
+    <string name="chrome_privacy_title">Sekretessmeddelande för Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android-enheten är inte ansluten till ett Wi-Fi-nätverk. Om du vill visa informationen nu besöker du %s i en webbläsare.</string>
+    <string name="continue_for_a11y">Om du vill aktivera tillgänglighetsläget fortsätter du trycka på skärmen tills du hör ett pip.</string>
+    <string name="canceled_a11y">Tillgänglighetsläget har avslutats.</string>
+    <string name="enabled_a11y">Tillgänglighetsläget har aktiverats.</string>
+    <string name="welcome_message">Välkommen</string>
+    <string name="emergency_dial">Nödsamtal</string>
+    <string name="welcome_accessibility_button">Syninställningar</string>
+    <string name="welcome_language_picker_dialog_title">Välj språk</string>
+    <string name="welcome_language_picker_section_suggested">Förslag</string>
+    <string name="welcome_language_picker_section_all">Alla språk</string>
+    <string name="welcome_language_picker_content_description">Språk: %s</string>
+    <string name="welcome_start_button_label">Kom igång</string>
+    <string name="flow_choice_title">Konfigurera ^1</string>
+    <string name="flow_choice_restore_summary">Återställ en säkerhetskopia eller kopia från en enhet</string>
+    <string name="flow_choice_new_label">Konfigurera som ny</string>
+    <string name="restore_choice_title">Hämta data från …</string>
+    <string name="restore_choice_google_account_label">Ditt Google-konto</string>
+    <string name="restore_choice_android_device_label">En annan Android-enhet</string>
+    <string name="services_activity_title">Googles tjänster</string>
+    <string name="services_backup_heading">Säkerhetskopia</string>
+    <string name="services_location_heading">Plats</string>
+    <string name="services_security_heading">Säkerhet</string>
+    <string name="services_personalization_heading">Anpassning</string>
+    <string name="services_communication_heading">Kommunikation</string>
+    <string name="security_verify_apps_summary">Låt Google kontrollera alla installerade appar så att de inte är skadliga och kan påverka säkerheten för enheten eller dina data.</string>
+    <string name="suggested_actions_title">Vill du göra något mer?</string>
+    <string name="suggested_actions_done_label">Konfigurera senare</string>
+    <string name="restore_title">Återställning pågår ...</string>
+    <string name="restore_wallpaper_title">Återställer bakgrund ...</string>
+    <string name="restore_device_settings_title">Återställer enhetens inställningar ...</string>
+    <string name="restore_launcher_title">Återställer startprogrammet ...</string>
+    <string name="restore_failed_message">Det gick inte att återställa uppgifterna från säkerhetskopian.</string>
+    <string name="restore_no_backup_message">Det finns inga säkerhetskopior av källenheten.</string>
+    <string name="restore_stopped_message">Enheten slutade tyvärr återställa uppgifter från säkerhetskopian.</string>
+    <string name="name_title">Namn</string>
+    <string name="name_text">Ditt namn används för att anpassa vissa appar på mobilen.</string>
+    <string name="name_display_name_label">Namn</string>
+    <string name="name_display_name_hint">som Magnus Sundberg</string>
+    <string name="cant_be_blank">Fältet får inte vara tomt.</string>
+    <string name="device_owner_warning_title">Mobilen kan övervakas</string>
+    <string name="device_owner_warning">Den här mobilen hanteras av %1$s vilket innebär att en del av dina uppgifter kan bli synliga för andra. Förhindra övervakning genom att återställa mobilen.</string>
+    <string name="device_owner_continue">Fortsätt</string>
+    <string name="device_owner_reset">Återställ mobil</string>
+    <string name="factory_reset_title">Återställa mobil</string>
+    <string name="factory_reset_instructions">Varning! Vid återställningen raderas alla konton och uppgifter i mobilens internminne.</string>
+    <string name="factory_reset_confirmation_title">Vill du återställa?</string>
+    <string name="factory_reset_confirmation">Vill du radera alla konton och uppgifter på den här mobilen? Det går inte att ångra åtgärden.</string>
+    <string name="factory_reset_button">Radera och återställ</string>
+    <string name="restart_setup_wizard_dialog_title">Inte inloggad</string>
+    <string name="restart_setup_wizard_dialog_text">"Om du vill använda den här mobilen måste du först logga in på ett Google-konto för en ägare som användes på mobilen när den återställdes senast.
+
+Eftersom du inte redan har gjort det måste du konfigurera mobilen igen."</string>
+    <string name="restart_setup_wizard_button_label">Konfigurera mobil</string>
+    <string name="user_warning_radio_continue">Fortsätt</string>
+    <string name="user_warning_radio_quit">Avbryt och ta bort den nya användaren</string>
+    <string name="user_warning_title">Skapa en ny användare</string>
+    <string name="welcome_secondary_user_added_text">%s har lagt till dig i den här mobilen.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Du har lagts till i mobilen.</string>
+    <string name="welcome_secondary_user_info_text"><b>Viktigt!</b>"
+
+"<li><ul>Mobilens ägare kan avinstallera appar eller ta bort ditt utrymme helt.</ul></li>"
+
+"<li><ul>Alla användare kan godkänna uppdaterade appbehörigheter å dina vägnar.</ul></li>"
+
+"<li><ul>Precis som med din dator bör du endast dela mobilen med personer du litar på.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Viktigt!</b>"
+
+ "<li><ul>Mobilens ägare kan installera och avinstallera appar, ange begränsningar eller ta bort ditt utrymme helt.</ul></li>"
+
+ "<li><ul>Alla användare kan godkänna uppdaterade appbehörigheter å dina vägnar.</ul></li>"
+
+ "<li><ul>Precis som med vilken dator som helst bör du endast dela den här mobilen med personer du litar på. </ul></li></string>
+    <string name="qr_dependencies_check_title">QR-läsaren installeras …</string>
+    <string name="qr_dependencies_check_timeout_text">Det kan ta upp till två minuter.</string>
+    <string name="download_qr_dependencies_failed_content">Det gick inte att installera QR-läsaren</string>
+    <string name="check_qr_dependencies_again">Försök igen</string>
+    <string name="qr_provision_user_consent_title">Konfigurera QR-kod</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"Om du vill konfigurera enheten för din organisation måste du först ansluta till ett nätverk och ladda ned en QR-läsare.
+
+Skanna sedan QR-koden med hjälp av kameran."</string>
+    <string name="invalid_qr_code_title">QR-koden fungerade inte</string>
+    <string name="invalid_qr_code_content">Kontrollera att du har rätt QR-kod för organisationen och försök igen.</string>
+    <string name="invalid_qr_code_retry">Försök igen</string>
+    <string name="switch_camera">Byt kamera</string>
+    <string name="exit_loading_launcher">Översikten läses in …</string>
+    <string name="restore_choice_footer_dialog">"Om du har loggat in på en Google-produkt förut (som Gmail eller YouTube) har du redan ett Google-konto.
+
+Då använder du samma uppgifter, som ett telefonnummer eller användarnamn, när du loggar in här."</string>
+</resources>

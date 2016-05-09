@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>avisering</item>
+        <item>e-post</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Inga</item>
+        <item>0 minuter</item>
+        <item>1 minut</item>
+        <item>5 minuter</item>
+        <item>10 minuter</item>
+        <item>15 minuter</item>
+        <item>20 minuter</item>
+        <item>25 minuter</item>
+        <item>30 minuter</item>
+        <item>45 minuter</item>
+        <item>1 timme</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>12 timmar</item>
+        <item>24 timmar</item>
+        <item>2 dagar</item>
+        <item>1 vecka</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lördag</item>
+        <item>Söndag</item>
+        <item>Måndag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Upptagen</item>
+        <item>Tillgänglig</item>
+        <item>Preliminärt</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>första</item>
+        <item>andra</item>
+        <item>tredje</item>
+        <item>fjärde</item>
+        <item>senaste</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>har inte svarat ännu</item>
+        <item>deltar</item>
+        <item>kanske</item>
+        <item>deltar inte</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Den här händelsen</item>
+        <item>Alla följande händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Den här och framtida händelser</item>
+        <item>Alla händelser</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Bara den här händelsen</item>
+        <item>Alla händelser i serien</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Vecka</item>
+        <item>Månad</item>
+        <item>Program</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Upptagen</item>
+        <item>Tillgänglig</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomat</item>
+        <item>Tangerin</item>
+        <item>Pumpa</item>
+        <item>Mango</item>
+        <item>Banan</item>
+        <item>Citron</item>
+        <item>Avokado</item>
+        <item>Pistasch</item>
+        <item>Basilika</item>
+        <item>Eukalyptus</item>
+        <item>Salvia</item>
+        <item>Påfågel</item>
+        <item>Kobolt</item>
+        <item>Blåbär</item>
+        <item>Lavendel</item>
+        <item>Blåregn</item>
+        <item>Ametist</item>
+        <item>Vindruva</item>
+        <item>Rosensallad</item>
+        <item>Körsbärsblommor</item>
+        <item>Flamingo</item>
+        <item>Kakao</item>
+        <item>Grafit</item>
+        <item>Björk</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Är några minuter sen.</item>
+        <item>Kommer om runt tio minuter.</item>
+        <item>Börja gärna, vänta inte på mig.</item>
+        <item>Jag kan tyvärr inte komma. Vi får välja en ny tid.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central – NT</item>
+        <item>Australian Central – SA</item>
+        <item>Australian Eastern – QLD</item>
+        <item>Australian Eastern – NSW</item>
+        <item>Mountain Standard – Dawson Creek</item>
+        <item>Central Standard – Saskatchewan</item>
+        <item>Eastern Standard – Atikokan</item>
+        <item>Atlantic Standard – Quebec</item>
+        <item>Hawaii-Aleutian – Hawaii</item>
+        <item>Hawaii-Aleutian – Alaska</item>
+        <item>Pacific Standard – Metlakatla</item>
+        <item>Mountain Standard – Arizona</item>
+        <item>Pacific – Baja California</item>
+        <item>Mountain – Chihuahua</item>
+        <item>Central – Tamaulipas</item>
+        <item>Mountain – Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint-Maarten</item>
+        <item>Karibiska Nederländerna</item>
+        <item>Curaçao</item>
+        <item>Sydsudan</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>UPPREPA VARJE DAG</item>
+        <item>UPPREPA VARJE VECKA</item>
+        <item>UPPREPA VARJE MÅNAD</item>
+        <item>UPPREPA VARJE ÅR</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Inträffar inte igen</item>
+        <item>Varje dag</item>
+        <item>Varje vecka</item>
+        <item>Varje månad</item>
+        <item>Varje år</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>den första söndagen i månaden</item>
+        <item>den andra söndagen i månaden</item>
+        <item>den tredje söndagen i månaden</item>
+        <item>den fjärde söndagen i månaden</item>
+        <item>den sista söndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>den första måndagen i månaden</item>
+        <item>den andra måndagen i månaden</item>
+        <item>den tredje måndagen i månaden</item>
+        <item>den fjärde måndagen i månaden</item>
+        <item>den sista måndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>den första tisdagen i månaden</item>
+        <item>den andra tisdagen i månaden</item>
+        <item>den tredje tisdagen i månaden</item>
+        <item>den fjärde tisdagen i månaden</item>
+        <item>den sista tisdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>den första onsdagen i månaden</item>
+        <item>den andra onsdagen i månaden</item>
+        <item>den tredje onsdagen i månaden</item>
+        <item>den fjärde onsdagen i månaden</item>
+        <item>den sista onsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>den första torsdagen i månaden</item>
+        <item>den andra torsdagen i månaden</item>
+        <item>den tredje torsdagen i månaden</item>
+        <item>den fjärde torsdagen i månaden</item>
+        <item>den sista torsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>den första fredagen i månaden</item>
+        <item>den andra fredagen i månaden</item>
+        <item>den tredje fredagen i månaden</item>
+        <item>den fjärde fredagen i månaden</item>
+        <item>den sista fredagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>den första lördagen i månaden</item>
+        <item>den andra lördagen i månaden</item>
+        <item>den tredje lördagen i månaden</item>
+        <item>den fjärde lördagen i månaden</item>
+        <item>den sista lördagen i månaden</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Kalender</item>
+        <item>Enkel att söka igenom och snygg att titta på</item>
+        <item>Fyll i din kalender snabbt och enkelt</item>
+        <item>Händelser från Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Få ut mesta möjliga av varje dag.</item>
+        <item>Schemavyn visar bilder och kartor i kalender</item>
+        <item>När du använder funktionen Assistent visas förslag på namn, kontakter och platser medan du skriver.</item>
+        <item>Bokningar för flyg, restauranger och mer, automatiskt från e-postmeddelanden.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Använder enhets plats.</item>
+        <item></item>
+        <item>Du kan ändra detta i Inställningar.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Lägg till personer, få kontaktinformation</item>
+        <item>{LOCATION_ICON} Lägg till platser, få vägbeskrivningar</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Med vem?</item>
+        <item>Lägg till någon, hämta kontaktinformation</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON} Att lägga till kontakter betyder inte att en inbjudan skickas</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Var?</item>
+        <item>Lägg till en plats, få vägbeskrivningar</item>
+    </string-array>
+</resources>

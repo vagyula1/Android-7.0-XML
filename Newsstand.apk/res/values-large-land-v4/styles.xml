@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardSpan.ArticleClusterCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,2</item>
+    </style>
+    <style name="CardSpan.EditionClusterCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,1</item>
+    </style>
+    <style name="CardSpan.TallCard" parent="@style/CardSpan">
+        <item name="layoutSpans">1,2</item>
+    </style>
+</resources>

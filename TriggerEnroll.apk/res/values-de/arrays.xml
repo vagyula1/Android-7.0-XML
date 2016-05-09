@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Du sprichst ein bisschen &lt;font color='#FF0000'>&lt;b>zu langsam&lt;/b>&lt;/font>. Sprich bitte etwas schneller."</item>
+        <item>"Du sprichst ein bisschen &lt;font color='#FF0000'>&lt;b>zu schnell&lt;/b>&lt;/font>. Sprich bitte etwas langsamer."</item>
+        <item>Du sprichst zu leise.&lt;br>Sprich bitte etwas lauter.</item>
+        <item>Du sprichst zu laut.&lt;br>Halte das Telefon etwas weiter weg oder sprich etwas leiser.</item>
+        <item>"Dein Auslösesatz ist leider &lt;font color='#FF0000'>&lt;b>zu kurz&lt;/b>&lt;/font>. Sag einfach &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Dein Auslösesatz ist leider &lt;font color='#FF0000'>&lt;b>zu lang&lt;/b>&lt;/font>. Sag einfach nur &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Hier ist es ein bisschen &lt;font color='#FF0000'>&lt;b>laut&lt;/b>&lt;/font>. Bitte geh an einen ruhigen Ort und fang noch mal an."</item>
+        <item>"Du scheinst im Auslösesatz &lt;font color='#FF0000'>&lt;b>eine Pause&lt;/b>&lt;/font> gemacht zu haben. Sage bitte &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> als zusammenhängenden Satz."</item>
+        <item>"Der Satz, den du gesagt hast, klang nicht wie &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Bitte versuch es noch einmal."</item>
+        <item>"Deine Aufnahmen sind leider &lt;font color='#FF0000'>&lt;b>nicht ähnlich genug&lt;/b>&lt;/font>. Fangen wir noch mal an…"</item>
+        <item>"Deine Aufnahmen sind leider &lt;font color='#FF0000'>&lt;b>nicht ähnlich genug&lt;/b>&lt;/font>. Fangen wir noch mal an…"</item>
+        <item>"Das hab ich leider nicht verstanden. Bitte sag noch mal &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Das hab ich leider nicht verstanden. Bitte sag noch mal &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Nach näherer Betrachtung ist dein Auslösesatz &lt;font color='#FF0000'>&lt;b>zu lang&lt;/b>&lt;/font>. Nimm einen kürzeren Auslösesatz."</item>
+        <item>"Hoppla … du sagst den Satz etwas &lt;font color='#FF0000'>&lt;b>zu früh&lt;/b>&lt;/font>. Mach eine kleine Pause, bevor du &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> sagst."</item>
+        <item>"Hoppla … es gibt ein paar &lt;font color='#FF0000'>&lt;b>Zusatzgeräusche&lt;/b>&lt;/font> am Ende des Satzes. Bitte achte darauf, nach &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> nichts mehr zu sagen."</item>
+        <item>"Das hab ich leider nicht verstanden. Fangen wir noch mal an: Bitte sag noch einmal &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Das hab ich leider nicht verstanden. Fangen wir noch mal an: Bitte sag noch einmal &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>Irgendwas ist schiefgegangen. Fangen wir noch mal an…</item>
+        <item>"Ich konnte den Auslösesatz leider nicht überprüfen. Bitte sag noch einmal &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>Irgendwas ist schiefgegangen. Fangen wir noch mal an…</item>
+        <item>"Ich hab leider ein bisschen Schwierigkeiten, versuchen wir's noch mal. Sag bitte ganz deutlich &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>Irgendwas ist schiefgegangen. Fangen wir noch mal an…</item>
+        <item>Es ist ein bisschen laut hier. Such bitte einen ruhigen Ort und fang noch mal von vorne an…</item>
+        <item>"Das Training lässt sich mit einem &lt;font color='#FF0000'>&lt;b>Kabel-Headset&lt;/b>&lt;/font> leider nicht durchführen. Bitte entferne das Headset und versuch's noch mal."</item>
+        <item>Wir wurden leider unterbrochen; jetzt können wir weitermachen.</item>
+        <item>"Deine Aufnahmen sind leider &lt;font color='#FF0000'>&lt;b>nicht ähnlich genug&lt;/b>&lt;/font>. Fangen wir noch mal an…"</item>
+        <item>"Der Satz, den du gesagt hast, klang nicht wie &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Bitte versuch es noch einmal."</item>
+        <item>Während das Telefon Musik abspielt, kann das Training nicht abgeschlossen werden.</item>
+        <item>"Das Training kann leider nicht abgeschlossen werden, während &lt;font color='#FF0000'>&lt;b>ein Gespräch aktiv ist&lt;/b>&lt;/font>. Warte, bis das Gespräch beendet ist, und versuch es dann noch mal…"</item>
+        <item>"Das Training kann leider nicht abgeschlossen werden, während ein &lt;font color='#FF0000'>&lt;b>Wecksignal ertönt&lt;/b>&lt;/font>. Bitte beende das Wecksignal und versuch es dann noch mal…"</item>
+        <item>"Das Training kann leider nicht abgeschlossen werden, während das &lt;font color='#FF0000'>&lt;b>Telefon auf dem Tisch liegt&lt;/b>&lt;/font>. Bitte nimm das Telefon in die Hand und versuch es noch mal."</item>
+        <item>Die Aufnahme wurde unterbrochen.</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>Du sprichst etwas zu langsam. Sprich bitte schneller.</item>
+        <item>Du sprichst etwas zu schnell. Sprich bitte langsamer.</item>
+        <item>Du sprichst zu leise. Sprich bitte etwas lauter.</item>
+        <item>Du sprichst zu laut. Halte das Telefon weiter weg oder sprich etwas leiser.</item>
+        <item>Es klang so, als hättest du in deinem Auslösesatz eine Pause gemacht. Sag bitte nur einen Satz.</item>
+        <item>Das habe ich nicht verstanden. Sprich bitte deutlicher.</item>
+        <item>Klingt so, als hättest du noch ein paar Silben drangehängt. Sag bitte nur \"Ok Google\".</item>
+        <item>Du hast \"Ok Google\" etwas zu früh gesagt. Mach bitte vorher eine Pause.</item>
+        <item>Nach \"Ok Google\" höre ich noch etwas. Bitte sei einen Moment still, nachdem du den Auslösesatz gesagt hast.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Bitte wiederhole die Aufnahmen.</item>
+        <item>Irgendwas ist schiefgegangen. Fangen wir noch mal an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Das hab ich leider nicht verstanden. Fangen wir noch mal an.</item>
+        <item>Das hab ich leider nicht verstanden. Fangen wir noch mal an.</item>
+        <item></item>
+        <item>Das hab ich leider nicht verstanden. Fangen wir noch mal an.</item>
+        <item>Sorry, etwas ist schiefgelaufen. Fangen wir noch mal an.</item>
+        <item>Ich konnte dich nicht gut hören. Bitte versuch es noch mal.</item>
+        <item>Das Training ist mit angeschlossenem Headset nicht möglich. Nimm den Headset-Stecker heraus und versuch es noch mal.</item>
+        <item>Wir wurden unterbrochen. Fang noch mal von vorne an.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Fangen wir noch mal an.</item>
+        <item>Wir wurden unterbrochen. Bitte mach weiter.</item>
+        <item>Während das Telefon Musik abspielt, kann das Training nicht abgeschlossen werden.</item>
+        <item>Während eines Telefongesprächs kann das Training nicht abgeschlossen werden. Beende das Gespräch und versuch es dann noch mal.</item>
+        <item>Während der Wecker klingelt, kann das Training nicht abgeschlossen werden. Schalte den Wecker aus und versuch es dann noch mal.</item>
+        <item>Die Aufnahme wurde unterbrochen.</item>
+        <item>Bei der Aufnahme gab es ein paar Nebengeräusche. Bitte versuch es noch mal.</item>
+        <item></item>
+        <item>Das habe ich nicht verstanden. Sprich bitte deutlicher.</item>
+        <item>Während das Telefon auf dem Tisch liegt, kann das Training nicht abgeschlossen werden. Nimm das Telefon in die Hand, um fortzufahren.</item>
+        <item>Deine Aufnahmen waren ein bisschen zu leise. Versuch es noch mal und sprich dabei etwas lauter.</item>
+        <item>Bei den Aufnahmen stimmte die zeitliche Abstimmung nicht. Bitte wiederhole die Aufnahmen.</item>
+        <item>Bei den Aufnahmen gab es ein paar Nebengeräusche. Bitte wiederhole nur die Sätze und sag sonst nichts.</item>
+        <item>Ich konnte dich nicht gut hören. Bitte wiederhole die Aufnahme.</item>
+        <item>Deine Aufnahmen waren ein bisschen zu laut. Bitte wiederhole die Aufnahmen.</item>
+        <item>Die Aufnahmen unterscheiden sich zu sehr. Bitte wiederhole die Aufnahmen.</item>
+        <item>Wir wurden unterbrochen. Bitte wiederhole die Aufnahme.</item>
+    </string-array>
+    <string-array name="noise_errors">
+        <item>Prima! Hier ist es schön ruhig. Machen wir weiter.</item>
+        <item>Es ist ein bisschen zu laut hier. Mach an einem ruhigen Ort weiter.</item>
+        <item>Es ist viel zu laut hier. Mach an einem ruhigen Ort weiter.</item>
+    </string-array>
+</resources>

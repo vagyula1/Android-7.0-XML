@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notificació</item>
+        <item>correu electrònic</item>
+        <item>SMS</item>
+        <item>alarma</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Cap</item>
+        <item>0 minuts</item>
+        <item>1 minut</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minuts</item>
+        <item>20 minuts</item>
+        <item>25 minuts</item>
+        <item>30 minuts</item>
+        <item>45 minuts</item>
+        <item>1 hora</item>
+        <item>2 hores</item>
+        <item>3 hores</item>
+        <item>12 hores</item>
+        <item>24 hores</item>
+        <item>2 dies</item>
+        <item>1 setmana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+        <item>Dilluns</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupat</item>
+        <item>Disponible</item>
+        <item>Provisional</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primer</item>
+        <item>segon</item>
+        <item>tercer</item>
+        <item>quart</item>
+        <item>darrer</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>encara no ha contestat</item>
+        <item>hi assistiran</item>
+        <item>potser</item>
+        <item>no hi assistiran</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Aquest esdeveniment</item>
+        <item>Tots els esdeveniments següents</item>
+        <item>Tots els esdeveniments</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Aquest i els esdeveniments futurs</item>
+        <item>Tots els esdeveniments</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Només aquest esdeveniment</item>
+        <item>Tots els esdeveniments de la sèrie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dia</item>
+        <item>Setmana</item>
+        <item>Mes</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Ocupat</item>
+        <item>Disponible</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomàquet</item>
+        <item>Mandarina</item>
+        <item>Carabassa</item>
+        <item>Mango</item>
+        <item>Gira-sol</item>
+        <item>Mostassa</item>
+        <item>Alvocat</item>
+        <item>Pistatxo</item>
+        <item>Alfàbrega</item>
+        <item>Eucaliptus</item>
+        <item>Sàlvia</item>
+        <item>Turquesa</item>
+        <item>Cobalt</item>
+        <item>Nabiu</item>
+        <item>Lavanda</item>
+        <item>Malva</item>
+        <item>Ametista</item>
+        <item>Albergínia</item>
+        <item>Magrana</item>
+        <item>Gerd</item>
+        <item>Xiclet</item>
+        <item>Cacau</item>
+        <item>Grafit</item>
+        <item>Talp</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Arribaré uns quants minuts tard.</item>
+        <item>"Arribaré d'aquí a 10 minuts."</item>
+        <item>Comenceu sense mi.</item>
+        <item>No hi puc assistir, millor en un altre moment.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>"Hora del centre d'Austràlia - NT"</item>
+        <item>"Hora del centre d'Austràlia - SA"</item>
+        <item>"Hora de l'est d'Austràlia - QLD"</item>
+        <item>"Hora de l'est d'Austràlia - NSW"</item>
+        <item>Hora estàndard de les Muntanyes - Dawson Creek</item>
+        <item>Hora estàndard central - Saskatchewan</item>
+        <item>"Hora estàndard de l'est - Atikokan"</item>
+        <item>"Hora estàndard de l'Atlàntic - Quebec"</item>
+        <item>Hora de Hawaii-Illes Aleutianes - Hawaii</item>
+        <item>Hora de Hawaii-Illes Aleutianes - Alaska</item>
+        <item>Hora estàndard del Pacífic - Metlakatla</item>
+        <item>Hora estàndard de les Muntanyes - Arizona</item>
+        <item>Hora del Pacífic - Baix Califòrnia</item>
+        <item>Hora de les Muntanyes - Chihuahua</item>
+        <item>Hora central - Tamaulipas</item>
+        <item>Hora de les Muntanyes - Sonora</item>
+        <item>"Hora de l'Àfrica Oriental"</item>
+        <item>"Hora estàndard de l'Atlàntic"</item>
+        <item>"Hora estàndard de l'Atlàntic"</item>
+        <item>"Hora de l'est d'Europa"</item>
+        <item>Hora de Kaliningrad</item>
+        <item>Amazònia - Rondônia</item>
+        <item>Brasília - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Carib neerlandès</item>
+        <item>Curaçao</item>
+        <item>Sudan del Sud</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPETEIX DIÀRIAMENT</item>
+        <item>REPETEIX SETMANALM.</item>
+        <item>REPETEIX MENSUALMENT</item>
+        <item>REPETEIX ANUALMENT</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>No es repeteix</item>
+        <item>Cada dia</item>
+        <item>Cada setmana</item>
+        <item>Cada mes</item>
+        <item>Cada any</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>primer diumenge de cada mes</item>
+        <item>segon diumenge de cada mes</item>
+        <item>tercer diumenge de cada mes</item>
+        <item>quart diumenge de cada mes</item>
+        <item>últim diumenge de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>primer dilluns de cada mes</item>
+        <item>segon dilluns de cada mes</item>
+        <item>tercer dilluns de cada mes</item>
+        <item>quart dilluns de cada mes</item>
+        <item>últim dilluns de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>primer dimarts de cada mes</item>
+        <item>segon dimarts de cada mes</item>
+        <item>tercer dimarts de cada mes</item>
+        <item>quart dimarts de cada mes</item>
+        <item>últim dimarts de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>primer dimecres de cada mes</item>
+        <item>segon dimecres de cada mes</item>
+        <item>tercer dimecres de cada mes</item>
+        <item>quart dimecres de cada mes</item>
+        <item>últim dimecres de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>primer dijous de cada mes</item>
+        <item>segon dijous de cada mes</item>
+        <item>tercer dijous de cada mes</item>
+        <item>quart dijous de cada mes</item>
+        <item>últim dijous de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>primer divendres de cada mes</item>
+        <item>segon divendres de cada mes</item>
+        <item>tercer divendres de cada mes</item>
+        <item>quart divendres de cada mes</item>
+        <item>últim divendres de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>primer dissabte de cada mes</item>
+        <item>segon dissabte de cada mes</item>
+        <item>tercer dissabte de cada mes</item>
+        <item>quart dissabte de cada mes</item>
+        <item>últim dissabte de cada mes</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Fàcil de llegir i agradable a la vista</item>
+        <item>Omple el calendari amb facilitat i rapidesa</item>
+        <item>Esdeveniments de Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Aprofita cada dia al màxim.</item>
+        <item>La visualització Agenda incorpora imatges i mapes al calendari.</item>
+        <item>Amb Assistències, es mostraran suggeriments de títols, contactes i llocs mentre escriguis.</item>
+        <item>Des dels correus electrònics, es poden afegir automàticament reserves de vols, restaurants i molt més.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Utilitza la ubicació del dispositiu.</item>
+        <item></item>
+        <item>Ho pots canviar a Configuració.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Afegeix contactes i obtén-ne les dades</item>
+        <item>{LOCATION_ICON} Afegeix llocs i obtén-ne les indicacions</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Amb qui?</item>
+        <item>Afegeix algú i obtén-ne les dades de contacte</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>"{CHECK_ICON}Quan s'afegeix un contacte no se li envia cap invitació."</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>On?</item>
+        <item>Afegeix un lloc i obtén-ne les indicacions</item>
+    </string-array>
+</resources>

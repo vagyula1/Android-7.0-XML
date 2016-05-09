@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">Előfizetés állapotának ellenőrzése. Kérem, várjon...</string>
+    <string name="vzw_error_msg_title">Rendelési kódjának feldolgozása sikertelen</string>
+    <string name="vzw_error_msg">"Ha szeretne feliratkozni a Mobil csatlakozási pont/Mobile Broadband Connect szolgáltatásra, hívja ezt a számot: 
+ Fogyasztói: (800) 256-4646, 
+ Üzleti: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Szolgáltatás frissítése szükséges</string>
+    <string name="tmo_error_msg">A jelenleg előfizetett adatkapcsolata nem tartalmazza az okostelefonos Mobil hotspot szolgáltatás, mely segítségével megoszthatja telefonja adatkapcsolatát más eszközökkel. Fel szeretné venni az okostelefonos Mobil hotspot szolgáltatás az előfizetésébe? Online is felveheti ezen a címen: https://my.t-mobile.com, Felügyelet > Adatforgalom és szolgáltatások.</string>
+    <string name="app_name">Jogosultság</string>
+    <string name="network_connection_title">Hálózati kapcsolati hiba</string>
+    <string name="network_connection_error_msg">A telefon jelenleg nem tud csatlakozni a(z) %s kiszolgálójához. Kérjük, próbálja meg később.</string>
+    <string name="mobile_hotspot">Mobil csatlakozási pont</string>
+    <string name="spg_dlg_normaltext">A mobil hotspot használatához iratkozzon fel a mobil hotspot szolgáltatásra</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">A további tudnivalókért és a feliratkozáshoz látogasson el a My Verizon weboldalra.</a></string>
+    <string name="browser_error_msg">A böngészőt nem sikerült megnyitni.</string>
+    <string name="alert_dialog_positive_button">OK</string>
+    <string name="alert_dialog_negative_button">Mégse</string>
+    <string name="alert_dialog_yes_button">Igen</string>
+    <string name="alert_dialog_no_button">Nem</string>
+    <string name="alert_dialog_upgrade_button">Frissítés</string>
+    <string name="alert_dialog_later_button">Később</string>
+    <string name="att_error_msg">Az engedélyezéshez nyissa meg az att.com/mywireless webhelyet, vagy tárcsázza a 611 telefonszámot</string>
+    <string name="att_error_msg_title">A fiók nincs beállítva az internetmegosztás használatára</string>
+    <string name="att_error_msg_other">Átmeneti hálózati probléma merült fel, ami miatt a Mobil csatlakozási pont funkciót nem lehet bekapcsolni. Próbálja újra később</string>
+    <string name="att_error_msg_other_title">Hálózati hiba</string>
+    <string name="sprint_error_msg">Az adathálózathoz nem lehet csatlakozni. Lehetséges, hogy nem rendelkezik előfizetéssel az internetmegosztás vagy a csatlakozási pont szolgáltatáshoz. Forduljon a telefontársasághoz.</string>
+    <string name="sprint_error_msg_lte">Önnek nincs előfizetése az internetmegosztásra és a csatlakozási pont szolgáltatásra. Szeretné megtekinteni az előfizetési lehetőségeket?</string>
+    <string name="sprint_error_msg_3g">Az adathálózathoz történő csatlakozás sikertelen, a rendszer kikapcsolja az internetmegosztást és a csatlakozási pontot. Lehetséges, hogy az Ön előfizetése nem tartalmazza az internetmegosztást és a csatlakozási pont szolgáltatást. Szeretné megtekinteni az előfizetési lehetőségeket?</string>
+    <string name="sprint_error_msg_title">Internetmegosztással vagy csatlakozási ponttal kapcsolatos hiba</string>
+    <string name="sprint_notification_msg">Érintse meg a további részletekért</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

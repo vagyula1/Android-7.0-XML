@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalendarTheme.AllInOneActivity" parent="@style/CalendarTheme.BaseTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:colorPrimary">@color/timely_background_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:colorEdgeEffect">@android:color/darker_gray</item>
+    </style>
+</resources>

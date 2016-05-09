@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SetupWorkSpaceTheme" parent="@style/SuwThemeMaterial.Light">
+        <item name="android:windowBackground">@color/gray_50</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorPrimary">@color/orange</item>
+        <item name="android:colorPrimaryDark">@color/orange</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:indeterminateTint">@color/teal</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

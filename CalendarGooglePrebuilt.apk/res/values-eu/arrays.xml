@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>jakinarazpena</item>
+        <item>mezu elektronikoa</item>
+        <item>SMSa</item>
+        <item>alarma</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Bat ere ez</item>
+        <item>0 minutu</item>
+        <item>1 minutu</item>
+        <item>5 minutu</item>
+        <item>10 minutu</item>
+        <item>15 minutu</item>
+        <item>20 minutu</item>
+        <item>25 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+        <item>3 ordu</item>
+        <item>12 ordu</item>
+        <item>24 ordu</item>
+        <item>2 egun</item>
+        <item>1 aste</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Larunbata</item>
+        <item>Igandea</item>
+        <item>Astelehena</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Lanpetuta</item>
+        <item>Erabilgarri</item>
+        <item>Behin behinekoa</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>lehenengoa</item>
+        <item>bigarrena</item>
+        <item>hirugarrena</item>
+        <item>laugarrena</item>
+        <item>azkena</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>erantzun gabe</item>
+        <item>badoa</item>
+        <item>agian</item>
+        <item>ez doa</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Gertaera hau</item>
+        <item>Datozen gertaera guztiak</item>
+        <item>Gertaera guztiei</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Gertaera honi eta etorkizunekoei</item>
+        <item>Gertaera guztiei</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Gertaera honi bakarrik</item>
+        <item>Serieko gertaera guztiei</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Eguna</item>
+        <item>Astea</item>
+        <item>Hilabetea</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Lanpetuta</item>
+        <item>Erabilgarri</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomatea</item>
+        <item>Mandarina</item>
+        <item>Azenarioa</item>
+        <item>Mangoa</item>
+        <item>Arrautza-gorringoa</item>
+        <item>Limoia</item>
+        <item>Ahuakatea</item>
+        <item>Pistatxoa</item>
+        <item>Goroldioa</item>
+        <item>Eukaliptoa</item>
+        <item>Salbia</item>
+        <item>Turkesa</item>
+        <item>Urdin elektrikoa</item>
+        <item>Ahabia</item>
+        <item>Izpilikua</item>
+        <item>Malba</item>
+        <item>Amatista</item>
+        <item>Mahatsa</item>
+        <item>Magenta</item>
+        <item>Gereziondoaren lorea</item>
+        <item>Flamenkoa</item>
+        <item>Kakaoa</item>
+        <item>Grafitoa</item>
+        <item>Urkia</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Minutu batzuk beranduxeago iritsiko naiz.</item>
+        <item>10 minutu barru helduko naiz gutxi gorabehera.</item>
+        <item>Ez itxaron, hasi ni gabe.</item>
+        <item>Barkatu, ezin naiz joan. Beste egun baterako utzi beharko dugu.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Xehetasunak ikustea erraza da eta itxura ederra du</item>
+        <item>Bete egutegia bizkor eta erraz</item>
+        <item>Gmail-eko gertaerak</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Atera etekinik handiena egun bakoitzari.</item>
+        <item>Ordutegiaren ikuspegiak irudiak eta mapak erakusten ditu egutegian.</item>
+        <item>Laguntzailearekin, tituluen iradokizunak, kontaktuak eta tokiak agertzen dira idazten duzun bitartean.</item>
+        <item>Hegaldi, jatetxe eta abarretan egin dituzun erreserbak automatikoki gehitzen dira mezu elektronikoetatik.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Gailuaren kokapena erabiltzen du.</item>
+        <item></item>
+        <item>Ezarpenak atalean alda dezakezu.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Gehitu jendea eta lortu harremanetan jartzeko informazioa</item>
+        <item>{LOCATION_ICON} Gehitu tokiak eta lortu bertara iristeko jarraibideak</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Norekin?</item>
+        <item>Gehitu jendea eta lortu harremanetan jartzeko informazioa</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Kontaktuak gehitze hutsarekin ez zaie zerbitzurako gonbidapenik bidaliko</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Non?</item>
+        <item>Gehitu kokapenak eta lortu bertara iristeko jarraibideak</item>
+    </string-array>
+</resources>

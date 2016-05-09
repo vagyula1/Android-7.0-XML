@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">සිදුවීම් %d සඳහා</item>
+        <item quantity="one">සිදුවීම් %d සඳහා</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">සෑම දින %d කට</item>
+        <item quantity="one">සෑම දින %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">සෑම සති %d කට</item>
+        <item quantity="one">සෑම සති %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">සෑම මාස %d කට</item>
+        <item quantity="one">සෑම මාස %d කට</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">සෑම වසර %d කට</item>
+        <item quantity="one">සෑම වසර %d කට</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; වාර %d ක් සඳහා</item>
+        <item quantity="one">; එක් වරක් සඳහා</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">සෑම දින %d කම</item>
+        <item quantity="one">දිනපතා</item>
+        <item quantity="two">සෑම දින %d කම</item>
+        <item quantity="few">සෑම දින %d කම</item>
+        <item quantity="many">සෑම දින %d කම</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">සෑම දින %d කම</item>
+        <item quantity="one">දිනපතා</item>
+        <item quantity="two">සෑම දින %d කම</item>
+        <item quantity="few">සෑම දින %d කම</item>
+        <item quantity="many">සෑම දින %d කම</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">සෑම සති %1$d කට වරක් %2$s දින</item>
+        <item quantity="one">සතිපතාම %2$s දින</item>
+        <item quantity="two">සෑම සති %1$d කට වරක් %2$s දින</item>
+        <item quantity="few">සෑම සති %1$d කට වරක් %2$s දින</item>
+        <item quantity="many">සෑම සති %1$d කට වරක් %2$s දින</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%2$s දිනවල සෑම සති %1$d කම</item>
+        <item quantity="one">සතිපතා %2$s</item>
+        <item quantity="two">%2$s දිනවල සෑම සති %1$d කම</item>
+        <item quantity="few">%2$s දිනවල සෑම සති %1$d කම</item>
+        <item quantity="many">%2$s දිනවල සෑම සති %1$d කම</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">සෑම මාස %1$d කම</item>
+        <item quantity="one">මාසිකව</item>
+        <item quantity="two">සෑම මාස %1$d කම</item>
+        <item quantity="few">සෑම මාස %1$d කම</item>
+        <item quantity="many">සෑම මාස %1$d කම</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">සෑම මාස %1$d කම</item>
+        <item quantity="one">මාසිකව</item>
+        <item quantity="two">සෑම මාස %1$d කම</item>
+        <item quantity="few">සෑම මාස %1$d කම</item>
+        <item quantity="many">සෑම මාස %1$d කම</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">සෑම වර්ෂ %1$d කම</item>
+        <item quantity="one">වාර්ෂිකව</item>
+        <item quantity="two">සෑම වර්ෂ %1$d කම</item>
+        <item quantity="few">සෑම වර්ෂ %1$d කම</item>
+        <item quantity="many">සෑම වර්ෂ %1$d කම</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">සෑම වසර %1$d කම</item>
+        <item quantity="one">වාර්ෂිකව</item>
+        <item quantity="two">සෑම වසර %1$d කම</item>
+        <item quantity="few">සෑම වසර %1$d කම</item>
+        <item quantity="many">සෑම වසර %1$d කම</item>
+    </plurals>
+</resources>

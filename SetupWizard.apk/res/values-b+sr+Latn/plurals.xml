@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Isključuje se za %d sekundi…</item>
+        <item quantity="one">Isključuje se za %d sekundu…</item>
+        <item quantity="few">Isključuje se za %d sekunde…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Sledeći nalozi su spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Sledeći nalozi su spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Sledeći nalozi su spremni:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Još %d dodira za početak podešavanja pomoću QR koda</item>
+        <item quantity="one">Još %d dodir za početak podešavanja pomoću QR koda</item>
+        <item quantity="few">Još %d dodira za početak podešavanja pomoću QR koda</item>
+    </plurals>
+</resources>

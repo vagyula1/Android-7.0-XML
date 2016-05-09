@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ഇവന്റുകൾക്ക്</item>
+        <item quantity="one">%d ഇവന്റിന്</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">ഓരോ %d ദിവസവും</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ഓരോ %d ആഴ്‌ച കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d ആഴ്‌ച കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d തവണ</item>
+        <item quantity="one">; ഒരു തവണ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="one">എല്ലാ ദിവസവും</item>
+        <item quantity="two">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="few">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="many">ഓരോ %d ദിവസത്തിലും</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">എല്ലാ ദിവസവും</item>
+        <item quantity="two">ഓരോ %d ദിവസവും</item>
+        <item quantity="few">ഓരോ %d ദിവസവും</item>
+        <item quantity="many">ഓരോ %d ദിവസവും</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="one">എല്ലാ ആഴ്‌ചയിലും %2$s ദിവസം</item>
+        <item quantity="two">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="few">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="many">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="one">എല്ലാ ആഴ്‌ചയിലേയും %2$s</item>
+        <item quantity="two">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="few">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="many">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="one">എല്ലാ മാസവും</item>
+        <item quantity="two">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="few">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="many">ഓരോ %1$d മാസത്തിലും</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ഓരോ %1$d മാസവും</item>
+        <item quantity="one">എല്ലാ മാസവും</item>
+        <item quantity="two">ഓരോ %1$d മാസവും</item>
+        <item quantity="few">ഓരോ %1$d മാസവും</item>
+        <item quantity="many">ഓരോ %1$d മാസവും</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ഓരോ %1$d വർഷവും</item>
+        <item quantity="one">എല്ലാ വർഷ‌വും</item>
+        <item quantity="two">ഓരോ %1$d വർഷവും</item>
+        <item quantity="few">ഓരോ %1$d വർഷവും</item>
+        <item quantity="many">ഓരോ %1$d വർഷവും</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ഓരോ %1$d വർഷവും</item>
+        <item quantity="one">എല്ലാ വർഷവും</item>
+        <item quantity="two">ഓരോ %1$d വർഷവും</item>
+        <item quantity="few">ഓരോ %1$d വർഷവും</item>
+        <item quantity="many">ഓരോ %1$d വർഷവും</item>
+    </plurals>
+</resources>

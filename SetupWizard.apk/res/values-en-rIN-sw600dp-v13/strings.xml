@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_load_unsuccessful_message">"Your tablet isn't connected to a mobile data service. To view this information now, go to %s in a web browser."</string>
+    <string name="activation_text">Touch <b>Activate</b>" to activate your mobile service now. (It may take a couple of minutes.)
+
+Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</string>
+    <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your tablet's features won't work.
+
+If you prefer to skip now, you can activate later in System Settings."</string>
+    <string name="activation_failure_text">"Your mobile data service couldn't be activated. This may be a temporary problem.
+
+If you prefer to skip now, be sure to activate later in System Settings. Until you activate, most of your tablet's features won't work."</string>
+    <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem and may be solved by restarting the tablet."</string>
+    <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your tablet before you can make another activation attempt. Your tablet will shut down automatically in 60 seconds or you can touch <b>Shut down now</b>".
+
+Once your tablet is shut down, press the Power button to restart it."</string>
+    <string name="sim_missing_text">To insert your SIM card, read the instructions that came with your tablet.</string>
+    <string name="setup_complete_message">Your tablet is set up and ready to use.</string>
+</resources>

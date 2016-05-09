@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Sorry, you are speaking a little &lt;font color='#FF0000'>&lt;b>too slowly&lt;/b>&lt;/font>. Please speak more quickly."</item>
+        <item>"Sorry, you are speaking a little &lt;font color='#FF0000'>&lt;b>too quickly&lt;/b>&lt;/font>. Please speak more slowly."</item>
+        <item>You are speaking too quietly.&lt;br>Please speak up a little.</item>
+        <item>You are speaking too loud.&lt;br>Please hold the phone a bit farther away or speak more softly.</item>
+        <item>"Sorry, your launch phrase is &lt;font color='#FF0000'>&lt;b>too short&lt;/b>&lt;/font>. Make sure you are saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Sorry, your launch phrase is &lt;font color='#FF0000'>&lt;b>too long&lt;/b>&lt;/font>. Make sure you are just saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"It's a little &lt;font color='#FF0000'>&lt;b>loud&lt;/b>&lt;/font> in here. Please find a silent place and try again."</item>
+        <item>"Sorry, it seems you &lt;font color='#FF0000'>&lt;b>paused while speaking&lt;/b>&lt;/font> the launch phrase. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> as a single phrase."</item>
+        <item>"Sorry, your phrase doesn't sound like &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Please try again."</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start over…"</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start over…"</item>
+        <item>"Sorry, I didn't catch that. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again…"</item>
+        <item>"Sorry, I didn't catch that. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again…"</item>
+        <item>"After checking your phrase more closely, it appears to be &lt;font color='#FF0000'>&lt;b>too long&lt;/b>&lt;/font>. Try something shorter"</item>
+        <item>"Oops… You are speaking the phrase a little &lt;font color='#FF0000'>&lt;b>too soon&lt;/b>&lt;/font>. Pause before saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Oops… There's some &lt;font color='#FF0000'>&lt;b>extra noise&lt;/b>&lt;/font> at the end of the phrase. Be sure to keep quiet after saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Sorry, I didn't catch that. Let's start over and try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again."</item>
+        <item>"Sorry, I didn't catch that. Let's start over and try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again."</item>
+        <item>"Sorry, something went wrong. Let's start over…"</item>
+        <item>"Sorry, I wasn't able to verify the launch phrase. Let's try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again."</item>
+        <item>"Sorry, something went wrong. Let's start over…"</item>
+        <item>"Sorry, I'm having trouble. Let's start over. Please make sure you're saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> clearly…"</item>
+        <item>"Sorry, something went wrong. Let's start over…"</item>
+        <item>"It's a little loud in here. Please find a silent place and start over…"</item>
+        <item>"Sorry, training can not be completed with a &lt;font color='#FF0000'>&lt;b>wired headset&lt;/b>&lt;/font>. Please unplug your headset and try again."</item>
+        <item>Oops. We were interrupted. Please continue now.</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start over…"</item>
+        <item>"Sorry, your phrase doesn't sound like &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Please try again."</item>
+        <item>"Training can't be completed while the phone is playing music."</item>
+        <item>"Sorry, training can't be completed while &lt;font color='#FF0000'>&lt;b>on the phone&lt;/b>&lt;/font>. Please wait until your call is finished and try again later.…"</item>
+        <item>"Sorry, training can't be completed while an &lt;font color='#FF0000'>&lt;b>alarm is playing&lt;/b>&lt;/font>. Please dismiss the alarm and try again later.…"</item>
+        <item>"Sorry, training can't be completed while the &lt;font color='#FF0000'>&lt;b>phone is on the table&lt;/b>&lt;/font>. Please pick up the phone and try again."</item>
+        <item>The recording has been interrupted.</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>"You're speaking a little too slowly. Please speak more quickly."</item>
+        <item>"You're speaking a little too quickly. Please speak more slowly."</item>
+        <item>"You're speaking too quietly. Please speak up a little."</item>
+        <item>"You're speaking too loudly. Please hold the phone a bit further away or speak more quietly."</item>
+        <item>It seems you paused while speaking the launch phrase. Please say a single phrase.</item>
+        <item>"Didn't catch that. Try speaking more clearly."</item>
+        <item>It sounds like you added extra syllables. Please say just \"Ok Google\"</item>
+        <item>You said \"Ok Google\" a little too soon. Pause before saying it.</item>
+        <item>"There's some extra noise at the end \"Ok Google\" Be sure to stay quiet for a moment after saying it."</item>
+        <item>"Your recordings didn't match closely enough. Please try them again."</item>
+        <item>"Something went wrong. Let's start over."</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>"Sorry, didn't catch that. Let's start over."</item>
+        <item>"Sorry, didn't catch that. Let's start over."</item>
+        <item></item>
+        <item>"Sorry, didn't catch that. Let's start over."</item>
+        <item>"Sorry, something went wrong. Let's start over."</item>
+        <item>There was trouble hearing your voice. Please try again.</item>
+        <item>"Training can't be completed with a wired headset. Please unplug your headset and try again."</item>
+        <item>There was an interruption. Please start over.</item>
+        <item>"Your recordings don't match closely enough. Let's start over."</item>
+        <item>We were interrupted. Please continue now.</item>
+        <item>"Training can't be completed while the phone is playing music."</item>
+        <item>"Training can't be completed while on the phone. Please finish your call and try again."</item>
+        <item>"Training can't be completed while an alarm is playing. Please stop the alarm and try again."</item>
+        <item>The recording has been interrupted.</item>
+        <item>There was some extra noise in the recording. Please try again.</item>
+        <item></item>
+        <item>"Didn't catch that. Try speaking more clearly."</item>
+        <item>"Training can't be completed while the phone is on the table. Please pick up device to continue."</item>
+        <item>Your recordings were a bit too quiet. Please try again and speak up a little.</item>
+        <item>The timing was a little off in your recordings. Please try them again.</item>
+        <item>Your recordings had some extra noise. Please say the phrases again cleanly.</item>
+        <item>There was trouble hearing your voice. Please try recording again.</item>
+        <item>Your recordings were a bit too loud. Please try them again.</item>
+        <item>"Your recordings didn't match closely enough. Please try them again."</item>
+        <item>There was an interruption. Please try recording again.</item>
+    </string-array>
+    <array name="ic_sound_meter_images">
+        <item>@drawable/ic_sound_meter_01</item>
+        <item>@drawable/ic_sound_meter_02</item>
+        <item>@drawable/ic_sound_meter_03</item>
+        <item>@drawable/ic_sound_meter_04</item>
+        <item>@drawable/ic_sound_meter_05</item>
+        <item>@drawable/ic_sound_meter_06</item>
+        <item>@drawable/ic_sound_meter_07</item>
+        <item>@drawable/ic_sound_meter_08</item>
+        <item>@drawable/ic_sound_meter_09</item>
+        <item>@drawable/ic_sound_meter_10</item>
+        <item>@drawable/ic_sound_meter_11</item>
+        <item>@drawable/ic_sound_meter_12</item>
+        <item>@drawable/ic_sound_meter_13</item>
+        <item>@drawable/ic_sound_meter_14</item>
+        <item>@drawable/ic_sound_meter_15</item>
+        <item>@drawable/ic_sound_meter_16</item>
+        <item>@drawable/ic_sound_meter_17</item>
+        <item>@drawable/ic_sound_meter_18</item>
+        <item>@drawable/ic_sound_meter_19</item>
+        <item>@drawable/ic_sound_meter_20</item>
+        <item>@drawable/ic_sound_meter_21</item>
+        <item>@drawable/ic_sound_meter_22</item>
+        <item>@drawable/ic_sound_meter_23</item>
+        <item>@drawable/ic_sound_meter_24</item>
+        <item>@drawable/ic_sound_meter_25</item>
+        <item>@drawable/ic_sound_meter_26</item>
+        <item>@drawable/ic_sound_meter_27</item>
+        <item>@drawable/ic_sound_meter_28</item>
+        <item>@drawable/ic_sound_meter_29</item>
+        <item>@drawable/ic_sound_meter_30</item>
+        <item>@drawable/ic_sound_meter_31</item>
+    </array>
+    <string-array name="noise_errors">
+        <item>"Great! You found a quiet place. Let's continue."</item>
+        <item>"It's a little too noisy. Find a quiet place to continue."</item>
+        <item>"It's way too loud. Find a quiet place to continue."</item>
+    </string-array>
+    <string-array name="error_code_mapping_analytics">
+        <item></item>
+        <item>ENROLL_ERROR_NONE</item>
+        <item>ENROLL_ERROR_TOO_SLOW</item>
+        <item>ENROLL_ERROR_TOO_FAST</item>
+        <item>ENROLL_ERROR_TOO_QUIET</item>
+        <item>ENROLL_ERROR_TOO_LOUD</item>
+        <item>ENROLL_ERROR_TOO_MANY_PAUSES</item>
+        <item>ENROLL_ERROR_TOO_FEW_SYLLABLES</item>
+        <item>ENROLL_ERROR_TOO_MANY_SYLLABLES</item>
+        <item>ENROLL_ERROR_MISSING_START_SILENCE</item>
+        <item>ENROLL_ERROR_MISSING_END_SILENCE</item>
+        <item>ENROLL_ERROR_CROSS_CORRELATION_FAILED</item>
+        <item>ENROLL_ERROR_SANITY_FAILED</item>
+        <item>VERIFY_ERROR_RECOG_FAILED</item>
+        <item>VERIFY_ERROR_SV_FAILED</item>
+        <item>ENROLL_ERROR_SAVE_FAILED</item>
+        <item>ENROLL_ERROR_RECOG_EMPTY</item>
+        <item>ENROLL_ERROR_RECOG_ERROR</item>
+        <item>VERIFY_ERROR_RECOG_NOT_READY</item>
+        <item>VERIFY_ERROR_RECOG_ERROR</item>
+        <item>ENROLL_ERROR_NOT_ENOUGH_ENROLLMENTS</item>
+        <item>ENROLL_ERROR_PHRASE_QUALITY</item>
+        <item>ENROLL_ERROR_COMPLETE_FAILED</item>
+        <item>ENROLL_ERROR_SNR</item>
+        <item>ENROLL_ERROR_WIRED_HEADSET</item>
+        <item>ENROLL_INTERRUPTED</item>
+        <item>ENROLL_ERROR_POOR_RECORDINGS</item>
+        <item>ENROLL_ERROR_SPOT_FAILED</item>
+        <item>ENROLL_ERROR_AUDIO_IN_PROGRESS</item>
+        <item>ENROLL_ERROR_CALL_IN_PROGRESS</item>
+        <item>ENROLL_ERROR_ALARM_IN_PROGRESS</item>
+        <item>ENROLL_ERROR_TOO_NOISY</item>
+        <item>ENROLL_ERROR_INCORRECT_PHRASE</item>
+        <item>ENROLL_ERROR_TIMEOUT</item>
+        <item>ENROLL_ERROR_ON_TABLE</item>
+        <item>UDT_ENROLL_ERROR_TOO_QUIET</item>
+        <item>UDT_ENROLL_ERROR_MISSING_START_SILENCE</item>
+        <item>UDT_ENROLL_ERROR_MISSING_END_SILENCE</item>
+        <item>UDT_ENROLL_ERROR_SNR</item>
+        <item>UDT_ENROLL_ERROR_TOO_LOUD</item>
+        <item>UDT_ENROLL_ERROR_POOR_RECORDINGS</item>
+        <item>UDT_ENROLL_ERROR_SPOT_FAILED</item>
+    </string-array>
+</resources>

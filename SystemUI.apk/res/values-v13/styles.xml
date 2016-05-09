@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Leanback.DetailsActionButton" parent="@style/TextAppearance.Leanback">
+        <item name="android:textSize">@dimen/lb_action_text_size</item>
+        <item name="android:textColor">@color/lb_action_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Widget.Leanback.OnboardingStartButtonStyle" parent="@style/Widget.Leanback">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff014269</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@drawable/lb_onboarding_start_button_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+        <item name="android:text">@string/lb_onboarding_get_started</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Preference.SwitchPreference" parent="@style/Preference">
+        <item name="android:widgetLayout">@layout/preference_widget_switch</item>
+        <item name="android:switchTextOn">@string/v7_preference_on</item>
+        <item name="android:switchTextOff">@string/v7_preference_off</item>
+    </style>
+    <style name="Preference.SwitchPreferenceCompat" parent="@style/Preference">
+        <item name="android:widgetLayout">@layout/preference_widget_switch_compat</item>
+        <item name="android:switchTextOn">@string/v7_preference_on</item>
+        <item name="android:switchTextOff">@string/v7_preference_off</item>
+    </style>
+    <style name="TextAppearance.QS.DetailButton" parent="@style/TextAppearance.QS">
+        <item name="android:textSize">@dimen/qs_detail_button_text_size</item>
+        <item name="android:textColor">@color/qs_detail_button</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.NotificationGuts.Button" parent="@style/TextAppearance.NotificationGuts">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@android:color/material_deep_teal_500</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

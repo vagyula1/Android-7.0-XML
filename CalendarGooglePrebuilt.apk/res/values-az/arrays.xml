@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>bildiriş</item>
+        <item>e-məktub</item>
+        <item>SMS</item>
+        <item>siqnal</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Heç biri</item>
+        <item>0 dəqiqə</item>
+        <item>1 gün</item>
+        <item>5 dəqiqə</item>
+        <item>10 dəqiqə</item>
+        <item>15 dəqiqə</item>
+        <item>20 dəqiqə</item>
+        <item>25 dəqiqə</item>
+        <item>30 dəqiqə</item>
+        <item>45 dəqiqə</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>2 gün</item>
+        <item>1 həftə</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Şənbə</item>
+        <item>Bazar günü</item>
+        <item>Bazar Ertəsi</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Məşğul</item>
+        <item>Müsaid</item>
+        <item>Sınaq</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>birinci</item>
+        <item>ikinci</item>
+        <item>üçüncü</item>
+        <item>dördüncü</item>
+        <item>sonuncu</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>hələ cavablandırılmayıb</item>
+        <item>gedir</item>
+        <item>bəlkə</item>
+        <item>getmir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Bu tədbir</item>
+        <item>Aşağıdakı bütün tədbirlər</item>
+        <item>Bütün tədbirlər</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Bu &amp; gələcək tədbirlər</item>
+        <item>Bütün tədbirlər</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadəcə bu tədbir</item>
+        <item>Sıradakı bütün tədbirlər</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Gün</item>
+        <item>Həftə</item>
+        <item>Ay</item>
+        <item>Gündəlik</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Məşğul</item>
+        <item>Əlçatımlı</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Pomidor</item>
+        <item>Mandarin</item>
+        <item>Boranı</item>
+        <item>Manqo</item>
+        <item>Banan</item>
+        <item>Limon</item>
+        <item>Avokado</item>
+        <item>Fıstıq</item>
+        <item>Parlaq yaşıl</item>
+        <item>Evkalipt</item>
+        <item>Sürvə</item>
+        <item>Tovuzquşu</item>
+        <item>Kobalt</item>
+        <item>Qaragilə</item>
+        <item>Lavanda</item>
+        <item>Visteria</item>
+        <item>Ametist</item>
+        <item>Üzüm</item>
+        <item>Radikkio</item>
+        <item>Albalı Çiçəyi</item>
+        <item>Flaminqo</item>
+        <item>Kakao</item>
+        <item>Qrafit</item>
+        <item>Tozağacı</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Sadəcə bir neçə dəqiqə gec qalır.</item>
+        <item>10 dəqiqə içərisində orda olun.</item>
+        <item>Davam edin və mənsiz başlayın.</item>
+        <item>Bağışlayın, mənə uyğun deyil. Yenidən planlaşdırmalı olacağıq.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Təqvim</item>
+        <item>Asan skan olunan və sevilərək baxılan</item>
+        <item>Təqviminizi asan və sürətlə doldurun</item>
+        <item>Gmail tədbirləri</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Günü ən yaxşı formada keçirin.</item>
+        <item>Cədvəl Görünüşü şəkil və xəritələri təqviminizə yerləşdirir.</item>
+        <item>Assistent başlıq, kontakt və məkan üçün təkliflər verir.</item>
+        <item>E-poçtlardan avtomatik əlavə edilən uçuş, restoran və digər rezervasiyalar.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Cihazın məkanını istifadə edir.</item>
+        <item></item>
+        <item>Bunu Ayarlarda dəyişə bilərsiniz.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Kontakt məlumatı əldə etmək üçün istifadəçi əlavə edin.</item>
+        <item>{LOCATION_ICON} İstiqamətlər əldə etmək üçün məkanlar əlavə edin.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Kiminlə?</item>
+        <item>Kimisə əlavə edin, əlaqə məlumatı alın.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON} Kontakt əlavə etmək dəvət göndərməyəcək</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Harada?</item>
+        <item>Məkan əlavə edin, istiqamət alın.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f सेकंद</item>
+        <item quantity="one">1 सेकंद</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d लेबले अद्यतनित केले</item>
+        <item quantity="zero">कोणतीही नवीन लेबले नाहीत</item>
+        <item quantity="one">1 लेबल अद्यतनित केले</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d की नियुक्त केल्या</item>
+        <item quantity="one">%d की नियुक्त केली</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s %2$d आयटम दर्शवित आहोत.</item>
+        <item quantity="one">%1$s %2$d आयटम दर्शवित आहोत.</item>
+    </plurals>
+</resources>

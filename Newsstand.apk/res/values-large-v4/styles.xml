@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionMessageText">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:textSize">@dimen/action_message_text_size</item>
+        <item name="android:paddingLeft">@dimen/action_message_side_padding</item>
+        <item name="android:paddingRight">@dimen/action_message_side_padding</item>
+    </style>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Dialog.FixedSize" />
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Light.Dialog.FixedSize" />
+    <style name="CardMagazineTocArticleItemText.Title" parent="@style/CardMagazineTocArticleItemText">
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+        <item name="android:textColor">@color/card_text</item>
+        <item name="bindText">@id/CardMagazineTocArticleItem_title</item>
+        <item name="font">ROBOTO_SLAB</item>
+    </style>
+    <style name="CardOfferItemText">
+        <item name="android:textColor">@color/card_label_text_white</item>
+        <item name="android:gravity">start</item>
+        <item name="android:layout_marginLeft">@dimen/card_inner_content_padding</item>
+        <item name="android:layout_marginRight">@dimen/card_inner_content_padding</item>
+        <item name="font">REGULAR_SANS</item>
+    </style>
+</resources>

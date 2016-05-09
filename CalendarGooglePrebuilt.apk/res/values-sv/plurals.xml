@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">En minut</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">En timme</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">En dag</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d veckor</item>
+        <item quantity="one">En vecka</item>
+    </plurals>
+    <plurals name="invisible_events">
+        <item quantity="other">%d till</item>
+        <item quantity="one">%d till</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">minuter</item>
+        <item quantity="one">minut</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">timmar</item>
+        <item quantity="one">timme</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">dagar</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">veckor</item>
+        <item quantity="one">vecka</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">minuter i förväg</item>
+        <item quantity="one">minut i förväg</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">timmar i förväg</item>
+        <item quantity="one">timme i förväg</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">dagar i förväg</item>
+        <item quantity="one">dag i förväg</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">veckor i förväg</item>
+        <item quantity="one">vecka i förväg</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d gäster</item>
+        <item quantity="one">%d gäst</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d händelser</item>
+        <item quantity="one">En händelse</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d händelser</item>
+        <item quantity="one">+En händelse</item>
+    </plurals>
+    <plurals name="search_available_announce">
+        <item quantity="other">Sökningen slutfördes med %d resultat. Navigera nedåt om du vill bläddra.</item>
+        <item quantity="one">Hittade ett objekt. Navigera nedåt om du vill visa.</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d födelsedagar</item>
+        <item quantity="one">Födelsedag</item>
+    </plurals>
+    <plurals name="nums_birthdays">
+        <item quantity="other">%d födelsedagar</item>
+        <item quantity="one">%d födelsedag</item>
+    </plurals>
+    <plurals name="nums_holidays">
+        <item quantity="other">%d helgdagar</item>
+        <item quantity="one">%d helgdag</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d påminnelser</item>
+        <item quantity="one">%d påminnelse:</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d påminnelser klara</item>
+        <item quantity="one">%d påminnelse klar</item>
+    </plurals>
+    <plurals name="nums_reminders">
+        <item quantity="other">%d påminnelser</item>
+        <item quantity="one">%d påminnelse</item>
+    </plurals>
+    <plurals name="events_count">
+        <item quantity="other">%d händelser</item>
+        <item quantity="one">%d händelse</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d påminnelser:</item>
+        <item quantity="one">%d påminnelse:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d påminnelser klara:</item>
+        <item quantity="one">%d påminnelse klar:</item>
+    </plurals>
+    <plurals name="num_suggestions_accessibility">
+        <item quantity="other">%d förslag tillgängliga</item>
+        <item quantity="one">%d förslag tillgängligt</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">För %d händelser</item>
+        <item quantity="one">För %d händelse</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Med %d dagars intervall</item>
+        <item quantity="one">Med %d dags intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Med %d veckors intervall</item>
+        <item quantity="one">Med %d veckas intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Med %d månaders intervall</item>
+        <item quantity="one">Med %d månads intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Med %d års intervall</item>
+        <item quantity="one">Med %d års intervall</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d gånger</item>
+        <item quantity="one">, en gång</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d dagars interv.</item>
+        <item quantity="one">Dagligen</item>
+        <item quantity="two">%d dagars interv.</item>
+        <item quantity="few">%d dagars interv.</item>
+        <item quantity="many">%d dagars interv.</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">med %d dagars intervall</item>
+        <item quantity="one">varje dag</item>
+        <item quantity="two">med %d dagars intervall</item>
+        <item quantity="few">med %d dagars intervall</item>
+        <item quantity="many">med %d dagars intervall</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d veckors intervall på %2$s</item>
+        <item quantity="one">Varje vecka på %2$s</item>
+        <item quantity="two">%1$d veckors intervall på %2$s</item>
+        <item quantity="few">%1$d veckors intervall på %2$s</item>
+        <item quantity="many">%1$d veckors intervall på %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">med %1$d veckors intervall på %2$s</item>
+        <item quantity="one">varje vecka på %2$s</item>
+        <item quantity="two">med %1$d veckors intervall på %2$s</item>
+        <item quantity="few">med %1$d veckors intervall på %2$s</item>
+        <item quantity="many">med %1$d veckors intervall på %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d månaders intervall</item>
+        <item quantity="one">Varje månad</item>
+        <item quantity="two">%1$d månaders intervall</item>
+        <item quantity="few">%1$d månaders intervall</item>
+        <item quantity="many">%1$d månaders intervall</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">med %1$d månaders intervall</item>
+        <item quantity="one">varje månad</item>
+        <item quantity="two">med %1$d månaders intervall</item>
+        <item quantity="few">med %1$d månaders intervall</item>
+        <item quantity="many">med %1$d månaders intervall</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d års intervall</item>
+        <item quantity="one">Årsvis</item>
+        <item quantity="two">%1$d års intervall</item>
+        <item quantity="few">%1$d års intervall</item>
+        <item quantity="many">%1$d års intervall</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">med %1$d års intervall</item>
+        <item quantity="one">varje år</item>
+        <item quantity="two">med %1$d års intervall</item>
+        <item quantity="few">med %1$d års intervall</item>
+        <item quantity="many">med %1$d års intervall</item>
+    </plurals>
+    <plurals name="ticket_count">
+        <item quantity="other">%d biljetter:</item>
+        <item quantity="one">%d biljett:</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Det här lägger till %d händelser och går inte att ångra. Är du säker?</item>
+        <item quantity="one">Det här lägger till %d händelse och går inte att ångra. Är du säker?</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">Händelser från Gmail läggs automatiskt till för kontona %s. Det går att ändra detta i inställningarna.</item>
+        <item quantity="one">Händelser från Gmail läggs automatiskt till för kontot %s. Det går att ändra detta i inställningarna.</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Bilagor: %1$d bilagor</item>
+        <item quantity="one">Bilagor: %1$d bilaga</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Obs! Vissa gäster har fortfarande kanske inte åtkomst till filerna. Du måste kanske dela filerna i Google Drive.</item>
+        <item quantity="one">Obs! Vissa gäster har fortfarande kanske inte åtkomst till den här filen. Du måste kanske dela den här filen i Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Du delar med gästerna:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>som inte finns i Google Apps-organisationen dessa filer tillhör."</item>
+        <item quantity="one">Du delar med gästerna:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>som inte finns i Google Apps-organisationen den här filen tillhör.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Dina gäster har kanske inte åtkomst till filerna du infogade från Drive. Du måste kanske dela filerna i Google Drive.</item>
+        <item quantity="one">Dina gäster har kanske inte åtkomst till filen du infogade från Drive. Du måste kanske dela filen i Google Drive.</item>
+    </plurals>
+</resources>

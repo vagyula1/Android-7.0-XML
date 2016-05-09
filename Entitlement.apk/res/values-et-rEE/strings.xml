@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">Kontrollin teenuste olekut. Palun oodake ...</string>
+    <string name="vzw_error_msg_title">Ei saanud tellimust töödelda</string>
+    <string name="vzw_error_msg">"Kui soovite tellida mobiilse pääsupunkti või mobiilse lairiba ühenduse teenuse, helistage:
+Eraisikud: (800) 256-4646,
+Ettevõtjad: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Vajalik teenuse ülendus</string>
+    <string name="tmo_error_msg">Teie praegune pakett ei sisalda nutitelefoni mobiilse pääsupunkti teenust, millega saate jagada telefoni andmesideühendust teiste seadmetega. Kas soovite lisada nutitelefoni mobiilse pääsupunkti teenuse oma praegusele paketile? Saate seda teha ka veebis, aadressil https://my.t-mobile.com, kui valite Manage [halda] > Plans and Services [paketid ja teenused].</string>
+    <string name="app_name">Õigused</string>
+    <string name="network_connection_title">Võrguühenduse tõrge</string>
+    <string name="network_connection_error_msg">Teie telefon ei saa praegu serveriga (%s) ühendust. Palun proovige hiljem uuesti.</string>
+    <string name="mobile_hotspot">Mobiilne pääsupunkt</string>
+    <string name="spg_dlg_normaltext">Mobiilse pääsupunkti kasutamiseks peate olema tellinud mobiilse pääsupunkti teenuse.</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Lisateave ja mobiilse pääsupunkti tellimine: My Verizon.</a></string>
+    <string name="browser_error_msg">Ei saa brauserit avada.</string>
+    <string name="alert_dialog_positive_button">OK</string>
+    <string name="alert_dialog_negative_button">Loobu</string>
+    <string name="alert_dialog_yes_button">Jah</string>
+    <string name="alert_dialog_no_button">Ei</string>
+    <string name="alert_dialog_upgrade_button">Ülendus</string>
+    <string name="alert_dialog_later_button">Hiljem</string>
+    <string name="att_error_msg">Lubamiseks minge aadressile att.com/mywireless või helistage numbril 611</string>
+    <string name="att_error_msg_title">Konto ei ole telefoni internetiühenduse jagamiseks seadistatud</string>
+    <string name="att_error_msg_other">Ajutine võrguprobleem ei võimalda mobiilset pääsupunkti lubada. Palun proovige hiljem uuesti</string>
+    <string name="att_error_msg_other_title">Võrgutõrge</string>
+    <string name="sprint_error_msg">Ei saa andmesidevõrguga ühendust. Võib-olla ei ole teil telefoni internetiühenduse jagamist või mobiilse pääsupunkti teenust tellitud. Palun võtke ühendust teenusepakkujaga.</string>
+    <string name="sprint_error_msg_lte">Teil ei ole telefoni internetiühenduse jagamist või mobiilse pääsupunkti teenust tellitud. Kas soovite näha tellimisvõimalusi?</string>
+    <string name="sprint_error_msg_3g">Ei saa andmesidevõrguga ühendust. Lülitan telefoni internetiühenduse jagamise või mobiilse pääspunkti välja. Teie paketis ei pruugi telefoni internetiühenduse jagamist või mobiilse pääsupunkti teenust olla. Kas soovite näha tellimisvõimalusi?</string>
+    <string name="sprint_error_msg_title">Jagamise või pääsupunkti tõrge</string>
+    <string name="sprint_notification_msg">Lisateabe saamiseks puudutage</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

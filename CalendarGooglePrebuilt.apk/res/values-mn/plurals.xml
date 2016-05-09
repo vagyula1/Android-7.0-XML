@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d хоног</item>
+        <item quantity="one">1 хоног</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d долоо хоног</item>
+        <item quantity="one">1 долоо хоног</item>
+    </plurals>
+    <plurals name="invisible_events">
+        <item quantity="other">%d өөр</item>
+        <item quantity="one">%d өөр</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Минут</item>
+        <item quantity="one">Минут</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Цаг</item>
+        <item quantity="one">Цаг</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Хоног</item>
+        <item quantity="one">Хоног</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">Долоо хоног</item>
+        <item quantity="one">Долоо хоног</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">Минутын өмнө</item>
+        <item quantity="one">Минутын өмнө</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">Цагийн өмнө</item>
+        <item quantity="one">Цагийн өмнө</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">Хоногийн өмнө</item>
+        <item quantity="one">Хоногийн өмнө</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">Долоо хоногийн өмнө</item>
+        <item quantity="one">Долоо хоногийн өмнө</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d зочин</item>
+        <item quantity="one">%d зочин</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d үйл явдал</item>
+        <item quantity="one">1 үйл явдал</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d үйл явдал</item>
+        <item quantity="one">+1 үйл явдал</item>
+    </plurals>
+    <plurals name="search_available_announce">
+        <item quantity="other">Хайлтын илэрц %d. Үзэхийн тулд доош гүйлгэнэ үү.</item>
+        <item quantity="one">Нэг зүйл олдлоо. Үзэхийн тулд доош гүйлгэнэ үү.</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d төрсөн өдөр</item>
+        <item quantity="one">Төрсөн өдөр</item>
+    </plurals>
+    <plurals name="nums_birthdays">
+        <item quantity="other">%d төрсөн өдөр</item>
+        <item quantity="one">%d төрсөн өдөр</item>
+    </plurals>
+    <plurals name="nums_holidays">
+        <item quantity="other">%d баярын өдөр</item>
+        <item quantity="one">%d баярын өдөр</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d Сануулагч</item>
+        <item quantity="one">%d Сануулагч</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d Сануулагч дууссан</item>
+        <item quantity="one">%d Сануулагч дууссан</item>
+    </plurals>
+    <plurals name="nums_reminders">
+        <item quantity="other">%d сануулагч</item>
+        <item quantity="one">%d сануулагч</item>
+    </plurals>
+    <plurals name="events_count">
+        <item quantity="other">%d үйл явдал</item>
+        <item quantity="one">%d үйл явдал</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d Сануулагч:</item>
+        <item quantity="one">%d Сануулагч:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d Сануулагч дууссан:</item>
+        <item quantity="one">%d Сануулагч дууссан:</item>
+    </plurals>
+    <plurals name="num_suggestions_accessibility">
+        <item quantity="other">%d санал боломжтой байна</item>
+        <item quantity="one">%d санал боломжтой байна</item>
+    </plurals>
+    <plurals name="ticket_count">
+        <item quantity="other">%d тасалбар:</item>
+        <item quantity="one">%d тасалбар:</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Үүгээр %d үйл явдлуудыг нэмэх ба буцаах боломжгүй. Та итгэлтэй байна уу?</item>
+        <item quantity="one">Үүгээр %d үйл явдлыг нэмэх ба буцаах боломжгүй. Та итгэлтэй байна уу?</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">Gmail-с үйл явдлууд автоматаар %s акаунтад нэмэгдэх болно. Та үүнийг тохиргоо дотроос өөрчлөх боломжтой.</item>
+        <item quantity="one">Gmail-с үйл явдлууд автоматаар %s акаунтад нэмэгдэх болно. Та үүнийг тохиргоо дотроос өөрчлөх боломжтой.</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Хавсралтууд: %1$d хавсралт</item>
+        <item quantity="one">Хавсралтууд: %1$d хавсралт</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Тайлбар: Зарим зочид энэ файл руу хандах боломжгүй байж болно. Тиймээс та Google Драйв дотроос эдгээр файлыг хуваалцах хэрэг гарч магад.</item>
+        <item quantity="one">Тайлбар: Зарим зочин энэ файл руу хандаж чадахгүй байж болох юм. Тиймээс та Google Драйв дотроос энэ файлыг хуваалцах хэрэг гарч магад.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Та эдгээр файлыг Google апп байгууллагад харьяалалгүй %1$s
+ зочин хэрэглэгч нартай хуваалцаж байна."</item>
+        <item quantity="one">Та энэ файлыг Google апп байгууллагад харьяалалгүй %1$s зочин хэрэглэгч нартай хуваалцаж байна.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Драйваас оруулсан таны файлууд руу зочин хэрэглэгч нар хандаж чадахгүй байж болно. Тиймээс Google Драйв дотроос файлуудыг хуваалцах хэрэг гарч магад.</item>
+        <item quantity="one">Драйваас оруулсан таны файл руу зочин хэрэглэгч нар хандаж чадахгүй байж болно. Тиймээс Google Драйв дотроос файлыг хуваалцах хэрэг гарч магад.</item>
+    </plurals>
+</resources>

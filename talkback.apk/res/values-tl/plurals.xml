@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f (na) Segundo</item>
+        <item quantity="one">1 Segundo</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d (na) label ang na-update</item>
+        <item quantity="zero">Walang mga bagong label</item>
+        <item quantity="one">1 label ang na-update</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d (na) key ang nakatalaga</item>
+        <item quantity="one">%d key ang nakatalaga</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">Nagpapakita ang %1$s ng %2$d (na) item.</item>
+        <item quantity="one">Nagpapakita ang %1$s ng %2$d item.</item>
+    </plurals>
+</resources>

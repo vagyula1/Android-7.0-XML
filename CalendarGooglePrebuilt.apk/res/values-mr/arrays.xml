@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>सूचना</item>
+        <item>ईमेल</item>
+        <item>SMS</item>
+        <item>अलार्म</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>काहीही नाही</item>
+        <item>0 मिनिटे</item>
+        <item>1 मिनिट</item>
+        <item>5 मिनिटे</item>
+        <item>10 मिनिटे</item>
+        <item>15 मिनिटे</item>
+        <item>20 मिनिटे</item>
+        <item>25 मिनिटे</item>
+        <item>30 मिनिटे</item>
+        <item>45 मिनिटे</item>
+        <item>1 तास</item>
+        <item>2 तास</item>
+        <item>3 तास</item>
+        <item>12 तास</item>
+        <item>24 तास</item>
+        <item>2 दिवस</item>
+        <item>1 आठवडा</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>शनिवार</item>
+        <item>रविवार</item>
+        <item>सोमवार</item>
+    </string-array>
+    <string-array name="availability">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+        <item>अंदाजे</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>पहिला</item>
+        <item>दुसरा</item>
+        <item>तिसरा</item>
+        <item>चौथा</item>
+        <item>अंतिम</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>अद्याप प्रतिसाद दिला नाही</item>
+        <item>जात आहे</item>
+        <item>कदाचित</item>
+        <item>जात नाहीये</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>हा इव्हेंट</item>
+        <item>खालील सर्व इव्हेंट</item>
+        <item>सर्व इव्हेंट</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>हा आणि भविष्यातील इव्हेंट</item>
+        <item>सर्व इव्हेंट</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>केवळ हा इव्हेंट</item>
+        <item>मालिकेतील सर्व इव्हेंट</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>दिवस</item>
+        <item>आठवडा</item>
+        <item>महिना</item>
+        <item>अजेंडा</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>टोमॅटो</item>
+        <item>नारिंग</item>
+        <item>कोहळा</item>
+        <item>आंबा</item>
+        <item>केळ</item>
+        <item>लिंबू</item>
+        <item>अॅव्होकॅडो</item>
+        <item>पिस्ता</item>
+        <item>तुुळस</item>
+        <item>निलगिरी</item>
+        <item>तमालपत्र</item>
+        <item>मोर</item>
+        <item>कोबाल्ट</item>
+        <item>ब्ल्यूबेरी</item>
+        <item>लॅव्हेंडर</item>
+        <item>विस्टेरिया</item>
+        <item>नीलम</item>
+        <item>जांभूळ</item>
+        <item>बीट</item>
+        <item>चेेरी ब्लॉसम</item>
+        <item>फ्लेमिंगो</item>
+        <item>कोको</item>
+        <item>ग्रॅफाइट</item>
+        <item>भोजवृक्ष</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>केवळ काही मिनिटे विलंब होत आहे.</item>
+        <item>सुमारे 10 मिनिटांमध्ये तेथे पोहोचा.</item>
+        <item>आपण जा आणि माझ्याशिवाय प्रारंभ करा.</item>
+        <item>क्षमस्व, मी हे करू शकत नाही. आम्हाला पुन्हा अनुसूची करावी लागेल.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google कॅलेंडर</item>
+        <item>पाहण्यास सुलभ आणि सुंदर</item>
+        <item>आपले कॅलेंडर, द्रुतपणे आणि सहज भरा</item>
+        <item>Gmail वरील इव्हेंट</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>दररोज जास्तीत जास्त बनवा.</item>
+        <item>अनुसूची दृश्य आपल्या कॅलेंडरवर प्रतिमा आणि नकाशे ठेवते.</item>
+        <item>सहाय्यासह, आपण टाईप करता त्याप्रमाणे शीर्षके, संपर्क आणि ठिकाणांसाठी सूचना दिसतात.</item>
+        <item>फ्लाइट, रेस्टॉरन्ट आणि अधिकसाठी आरक्षणे, ईमेलवरून स्वयंचलितपणे जोडली.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>डिव्हाइस स्थान वापरते.</item>
+        <item></item>
+        <item>आपण हे सेटिंग्जमध्ये बदलू शकता.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} लोकांना जोडा, संपर्क माहिती मिळवा</item>
+        <item>{LOCATION_ICON} ठिकाणे जोडा, दिशानिर्देश मिळवा</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>कोणासह?</item>
+        <item>एखाद्यास जोडा, संपर्क माहिती मिळवा</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}संपर्क जोडल्याने आमंत्रण पाठविले जाणार नाही</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>कुठे?</item>
+        <item>एक स्थान जोडा, दिशानिर्देश मिळवा</item>
+    </string-array>
+</resources>

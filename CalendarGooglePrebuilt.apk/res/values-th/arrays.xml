@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>การแจ้งเตือน</item>
+        <item>อีเมล</item>
+        <item>SMS</item>
+        <item>การเตือน</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ไม่มี</item>
+        <item>0 นาที</item>
+        <item>1 นาที</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>15 นาที</item>
+        <item>20 นาที</item>
+        <item>25 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+        <item>2 วัน</item>
+        <item>1 สัปดาห์</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>วันเสาร์</item>
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ไม่ว่าง</item>
+        <item>ว่าง</item>
+        <item>ยังไม่แน่นอน</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>แรก</item>
+        <item>วินาที</item>
+        <item>ที่สาม</item>
+        <item>ที่สี่</item>
+        <item>สุดท้าย</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ยังไม่ตอบกลับ</item>
+        <item>ไป</item>
+        <item>ไม่แน่ใจ</item>
+        <item>ไม่ไป</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>กิจกรรมนี้</item>
+        <item>ทุกกิจกรรมหลังจากนี้</item>
+        <item>กิจกรรมทั้งหมด</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>กิจกรรมนี้และในอนาคต</item>
+        <item>กิจกรรมทั้งหมด</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>เฉพาะกิจกรรมนี้</item>
+        <item>กิจกรรมทั้งหมดในชุด</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>วัน</item>
+        <item>สัปดาห์</item>
+        <item>เดือน</item>
+        <item>กำหนดการ</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>ไม่ว่าง</item>
+        <item>ว่าง</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>มะเขือเทศ</item>
+        <item>ส้มจีน</item>
+        <item>ฟักทอง</item>
+        <item>มะม่วง</item>
+        <item>กล้วยหอม</item>
+        <item>ส้มโอ</item>
+        <item>อะโวคาโด</item>
+        <item>พิสตาชิโอ</item>
+        <item>กะเพรา</item>
+        <item>ยูคาลิปตัส</item>
+        <item>นกแก้ว</item>
+        <item>นกยูง</item>
+        <item>โคบอลต์</item>
+        <item>บลูเบอร์รี่</item>
+        <item>ลาเวนเดอร์</item>
+        <item>เผือก</item>
+        <item>อะเมทิสต์</item>
+        <item>องุ่น</item>
+        <item>แก้วมังกร</item>
+        <item>ซากุระ</item>
+        <item>ฟลามิงโก</item>
+        <item>โกโก้</item>
+        <item>กราไฟต์</item>
+        <item>ช้าง</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>อาจไปถึงช้านิดหน่อย</item>
+        <item>อีกประมาณ 10 นาทีน่าจะถึง</item>
+        <item>เริ่มไปเลย ไม่ต้องรอ</item>
+        <item>ขอโทษด้วยที่ไปไม่ได้ เราคงต้องนัดเวลากันใหม่</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>เขตเวลาออสเตรเลียกลาง - นอร์ทเทิร์นเทอริทอรี</item>
+        <item>เขตเวลาออสเตรเลียกลาง - เซาท์ออสเตรเลีย</item>
+        <item>เขตเวลาออสเตรเลียตะวันออก - ควีนส์แลนด์</item>
+        <item>เขตเวลาออสเตรเลียตะวันออก - นิวเซาท์เวลส์</item>
+        <item>เขตเวลาบนภูเขา - ดอว์สันครีก</item>
+        <item>มาตรฐานเวลากลาง - ซัสแคตเชวัน</item>
+        <item>มาตรฐานเวลาตะวันออก - อะติโคคัง</item>
+        <item>มาตรฐานแอตแลนติก - ควิเบก</item>
+        <item>ฮาวาย-หมู่เกาะอะลิวเชียน - ฮาวาย</item>
+        <item>ฮาวาย-หมู่เกาะอะลิวเชียน - อลาสก้า</item>
+        <item>มาตรฐานเวลาแปซิฟิก - เมทลากาตละ</item>
+        <item>เขตเวลามาตรฐานบนภูเขา - อริโซน่า</item>
+        <item>เขตเวลาแปซิฟิก - บาจาแคลิฟอร์เนีย</item>
+        <item>เขตเวลาบนภูเขา - ชิวาวา</item>
+        <item>เขตเวลากลาง - ตาเมาลีปัส</item>
+        <item>เขตเวลาบนภูเขา - โซโนรา</item>
+        <item>เวลาแอฟริกาตะวันออก</item>
+        <item>เวลามาตรฐานแอตแลนติก</item>
+        <item>เวลามาตรฐานแอตแลนติก</item>
+        <item>เวลายุโรปตะวันออก</item>
+        <item>เวลาคาลินินกราด</item>
+        <item>อเมซอน - Rondônia</item>
+        <item>บราซิเลีย - Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>ซินต์ มาร์เติน</item>
+        <item>เนเธอร์แลนด์ แคริบเบียน</item>
+        <item>คูราเซา</item>
+        <item>ซูดานใต้</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ซ้ำทุกวัน</item>
+        <item>ซ้ำทุกสัปดาห์</item>
+        <item>ซ้ำทุกเดือน</item>
+        <item>ซ้ำทุกปี</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ไม่เกิดซ้ำ</item>
+        <item>ทุกวัน</item>
+        <item>ทุกสัปดาห์</item>
+        <item>ทุกเดือน</item>
+        <item>ทุกปี</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ในทุกวันอาทิตย์แรก</item>
+        <item>ในทุกวันอาทิตย์ที่สอง</item>
+        <item>ในทุกวันอาทิตย์ที่สาม</item>
+        <item>ในทุกวันอาทิตย์ที่สี่</item>
+        <item>ในทุกวันอาทิตย์สุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ในทุกวันจันทร์แรก</item>
+        <item>ในทุกวันจันทร์ที่สอง</item>
+        <item>ในทุกวันจันทร์ที่สาม</item>
+        <item>ในทุกวันจันทร์ที่สี่</item>
+        <item>ในทุกวันจันทร์สุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ในทุกวันอังคารแรก</item>
+        <item>ในทุกวันอังคารที่สอง</item>
+        <item>ในทุกวันอังคารที่สาม</item>
+        <item>ในทุกวันอังคารที่สี่</item>
+        <item>ในทุกวันอังคารสุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ในทุกวันพุธแรก</item>
+        <item>ในทุกวันพุธที่สอง</item>
+        <item>ในทุกวันพุธที่สาม</item>
+        <item>ในทุกวันพุธที่สี่</item>
+        <item>ในทุกวันพุธสุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ในทุกวันพฤหัสบดีแรก</item>
+        <item>ในทุกวันพฤหัสบดีที่สอง</item>
+        <item>ในทุกวันพฤหัสบดีที่สาม</item>
+        <item>ในทุกวันพฤหัสบดีที่สี่</item>
+        <item>ในทุกวันพฤหัสบดีสุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ในทุกวันศุกร์แรก</item>
+        <item>ในทุกวันศุกร์ที่สอง</item>
+        <item>ในทุกวันศุกร์ที่สาม</item>
+        <item>ในทุกวันศุกร์ที่สี่</item>
+        <item>ในทุกวันศุกร์สุดท้าย</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ในทุกวันเสาร์แรก</item>
+        <item>ในทุกวันเสาร์ที่สอง</item>
+        <item>ในทุกวันเสาร์ที่สาม</item>
+        <item>ในทุกวันเสาร์ที่สี่</item>
+        <item>ในทุกวันเสาร์สุดท้าย</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google ปฏิทิน</item>
+        <item>ดูข้อมูลก็ง่าย แถมยังสดใสอีกด้วย</item>
+        <item>ใส่ข้อมูลในปฏิทินของคุณได้สะดวกและรวดเร็ว</item>
+        <item>กิจกรรมจาก Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>ใช้เวลาอย่างคุ้มค่าทุกวัน</item>
+        <item>มุมมองแบบกำหนดการจะแสดงรูปภาพและแผนที่ในปฏิทินของคุณ</item>
+        <item>เมื่อมีผู้ช่วย คำแนะนำสำหรับชื่อ รายชื่อติดต่อ และสถานที่จะปรากฏเมื่อคุณพิมพ์</item>
+        <item>เพิ่มการจองเที่ยวบิน ร้านอาหาร และอื่นๆ จากอีเมลโดยอัตโนมัติ</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>ใช้ตำแหน่งอุปกรณ์</item>
+        <item></item>
+        <item>คุณสามารถเปลี่ยนค่านี้ได้ในการตั้งค่า</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} พิมพ์ชื่อผู้คนเพื่อดูข้อมูลติดต่อ</item>
+        <item>{LOCATION_ICON} พิมพ์สถานที่เพื่อขอเส้นทาง</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>กับใคร</item>
+        <item>พิมพ์ชื่อคนเพื่อดูข้อมูลติดต่อ</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}การเพิ่มผู้ติดต่อจะไม่ส่งคำเชิญออกไป</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>ที่ไหน</item>
+        <item>พิมพ์สถานที่เพื่อขอเส้นทาง</item>
+    </string-array>
+</resources>

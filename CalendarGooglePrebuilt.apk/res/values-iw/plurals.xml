@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה אחת</item>
+        <item quantity="two">שעתיים (%d)</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">יומיים (%d)</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע אחד</item>
+        <item quantity="two">שבועים (%d)</item>
+        <item quantity="many">%d שבועות</item>
+    </plurals>
+    <plurals name="invisible_events">
+        <item quantity="other">‏עוד %d</item>
+        <item quantity="one">‏עוד %d</item>
+        <item quantity="two">‏עוד %d</item>
+        <item quantity="many">‏עוד %d</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+        <item quantity="two">+%d</item>
+        <item quantity="many">+%d</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">דקות</item>
+        <item quantity="many">דקות</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">שעות</item>
+        <item quantity="one">שעה</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">שעות</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">יומיים</item>
+        <item quantity="many">ימים</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">שבועות</item>
+        <item quantity="one">שבוע</item>
+        <item quantity="two">שבועיים</item>
+        <item quantity="many">שבועות</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">דקות לפני</item>
+        <item quantity="one">דקה לפני</item>
+        <item quantity="two">דקות לפני</item>
+        <item quantity="many">דקות לפני</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">שעות לפני</item>
+        <item quantity="one">שעה לפני</item>
+        <item quantity="two">שעתיים לפני</item>
+        <item quantity="many">שעות לפני</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">ימים לפני</item>
+        <item quantity="one">יום לפני</item>
+        <item quantity="two">יומיים לפני</item>
+        <item quantity="many">ימים לפני</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">שבועות לפני</item>
+        <item quantity="one">שבוע לפני</item>
+        <item quantity="two">שבועיים לפני</item>
+        <item quantity="many">שבועות לפני</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d אורחים</item>
+        <item quantity="one">אורח %d</item>
+        <item quantity="two">%d אורחים</item>
+        <item quantity="many">%d אורחים</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
+        <item quantity="two">+%d</item>
+        <item quantity="many">+%d</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d אירועים</item>
+        <item quantity="one">אירוע אחד</item>
+        <item quantity="two">%d אירועים</item>
+        <item quantity="many">%d אירועים</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d אירועים</item>
+        <item quantity="one">+אירוע</item>
+        <item quantity="two">+%d אירועים</item>
+        <item quantity="many">+%d אירועים</item>
+    </plurals>
+    <plurals name="search_available_announce">
+        <item quantity="other">‏החיפוש הסתיים עם %d תוצאות. נווט למטה כדי לעיין.</item>
+        <item quantity="one">נמצא פריט אחד. נווט למטה כדי להציג.</item>
+        <item quantity="two">‏החיפוש הסתיים עם %d תוצאות. נווט למטה כדי לעיין.</item>
+        <item quantity="many">‏החיפוש הסתיים עם %d תוצאות. נווט למטה כדי לעיין.</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">‏%d ימי הולדת</item>
+        <item quantity="one">יום הולדת</item>
+        <item quantity="two">שני ימי הולדת</item>
+        <item quantity="many">‏%d ימי הולדת</item>
+    </plurals>
+    <plurals name="nums_birthdays">
+        <item quantity="other">‏%d ימי הולדת</item>
+        <item quantity="one">יום הולדת אחד</item>
+        <item quantity="two">שני ימי הולדת</item>
+        <item quantity="many">‏%d ימי הולדת</item>
+    </plurals>
+    <plurals name="nums_holidays">
+        <item quantity="other">‏%d חגים</item>
+        <item quantity="one">חג אחד</item>
+        <item quantity="two">שני חגים</item>
+        <item quantity="many">‏%d חגים</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">‏%d תזכורות</item>
+        <item quantity="one">תזכורת אחת</item>
+        <item quantity="two">שתי תזכורות</item>
+        <item quantity="many">‏%d תזכורות</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">‏%d תזכורות בוצעו</item>
+        <item quantity="one">תזכורת אחת בוצעה</item>
+        <item quantity="two">שתי תזכורות בוצעו</item>
+        <item quantity="many">‏%d תזכורות בוצעו</item>
+    </plurals>
+    <plurals name="nums_reminders">
+        <item quantity="other">‏%d תזכורות</item>
+        <item quantity="one">תזכורת אחת</item>
+        <item quantity="two">שתי תזכורות</item>
+        <item quantity="many">‏%d תזכורות</item>
+    </plurals>
+    <plurals name="events_count">
+        <item quantity="other">‏%d אירועים</item>
+        <item quantity="one">אירוע אחד</item>
+        <item quantity="two">שני אירועים</item>
+        <item quantity="many">‏%d אירועים</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">‏%d תזכורות:</item>
+        <item quantity="one">תזכורת אחת:</item>
+        <item quantity="two">שתי תזכורות:</item>
+        <item quantity="many">‏%d תזכורות:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">‏%d תזכורות בוצעו:</item>
+        <item quantity="one">תזכורת אחת בוצעה:</item>
+        <item quantity="two">שתי תזכורות בוצעו:</item>
+        <item quantity="many">‏%d תזכורות בוצעו:</item>
+    </plurals>
+    <plurals name="num_suggestions_accessibility">
+        <item quantity="other">‏יש %d הצעות זמינות</item>
+        <item quantity="one">‏יש הצעה %d זמינה</item>
+        <item quantity="two">יש שתי הצעות זמינות</item>
+        <item quantity="many">‏יש %d הצעות זמינות</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">עבור %d אירועים</item>
+        <item quantity="one">עבור אירוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל יום %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">כל %d שבועות</item>
+        <item quantity="one">כל שבוע %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">כל %d חודשים</item>
+        <item quantity="one">כל חודש %d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">כל %d שנים</item>
+        <item quantity="one">כל שנה %d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">מדי יום</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">יומי</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="few">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">כל %1$d שבועות ב%2$s</item>
+        <item quantity="one">שבועי ב%2$s</item>
+        <item quantity="two">כל %1$d שבועות ב%2$s</item>
+        <item quantity="few">כל %1$d שבועות ב%2$s</item>
+        <item quantity="many">כל %1$d שבועות ב%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">כל %1$d שבועות ב%2$s</item>
+        <item quantity="one">מדי שבוע ב%2$s</item>
+        <item quantity="two">כל %1$d שבועות ב%2$s</item>
+        <item quantity="few">כל %1$d שבועות ב%2$s</item>
+        <item quantity="many">כל %1$d שבועות ב%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">חודשי</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="few">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">כל שנה</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">שנתי</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="few">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+    <plurals name="ticket_count">
+        <item quantity="other">%d כרטיסים:</item>
+        <item quantity="one">כרטיס %d:</item>
+        <item quantity="two">%d כרטיסים:</item>
+        <item quantity="many">%d כרטיסים:</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="one">פעולה זו תוסיף אירוע %d ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="two">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+        <item quantity="many">פעולה זו תוסיף %d אירועים ולא ניתן לבטל אותה. האם אתה בטוח?</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="one">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבון %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="two">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+        <item quantity="many">‏אירועים מ-Gmail יתווספו באופן אוטומטי לחשבונות %s. תוכל לשנות זאת בהגדרות.</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">קבצים מצורפים: %1$d קבצים מצורפים</item>
+        <item quantity="one">קבצים מצורפים: קובץ מצורף %1$d</item>
+        <item quantity="two">קבצים מצורפים: %1$d קבצים מצורפים</item>
+        <item quantity="many">קבצים מצורפים: %1$d קבצים מצורפים</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">‏הערה: ייתכן שלחלק מהאורחים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="one">‏הערה: ייתכן שלחלק מהאורחים עדיין אין גישה לקובץ הזה. יכול להיות שתצטרך לשתף את הקובץ מתוך Google Drive.</item>
+        <item quantity="two">‏הערה: ייתכן שלחלק מהאורחים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="many">‏הערה: ייתכן שלחלק מהאורחים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"‏אתה משתף עם אורחים:&lt;br>&lt;b>
+%1$s&lt;/b>&lt;br>שאינם בארגון Google Apps שאליו שייכים הקבצים האלה."</item>
+        <item quantity="one">‏אתה משתף עם אורחים:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>שאינם בארגון Google Apps שאליו שייך הקובץ הזה.</item>
+        <item quantity="two">"‏אתה משתף עם אורחים:&lt;br>&lt;b>
+%1$s&lt;/b>&lt;br>שאינם בארגון Google Apps שאליו שייכים הקבצים האלה."</item>
+        <item quantity="many">"‏אתה משתף עם אורחים:&lt;br>&lt;b>
+%1$s&lt;/b>&lt;br>שאינם בארגון Google Apps שאליו שייכים הקבצים האלה."</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">‏ייתכן שלאורחים אין גישה לקבצים שהוספת מ-Google Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="one">‏ייתכן שלאורחים אין גישה לקובץ שהוספת מ-Google Drive. יכול להיות שתצטרך לשתף את הקובץ מתוך Google Drive.</item>
+        <item quantity="two">‏ייתכן שלאורחים אין גישה לקבצים שהוספת מ-Google Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="many">‏ייתכן שלאורחים אין גישה לקבצים שהוספת מ-Google Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+    </plurals>
+</resources>

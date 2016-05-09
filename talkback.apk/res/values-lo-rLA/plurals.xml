@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f ວິ​ນາ​ທີ</item>
+        <item quantity="one">1 ວິ​ນາ​ທີ</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">ອັບ​ເດດ %d ປ້າຍ​ກຳ​ກັບ​ແລ້ວ</item>
+        <item quantity="zero">ບໍ່​ມີ​ປ້າຍ​ກຳ​ກັບ​ໃໝ່</item>
+        <item quantity="one">ອັບ​ເດດ 1 ປ້າຍ​ກຳ​ກັບ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">ກຳ​ນົດປຸ່ມ ​%d ​ແລ້ວ</item>
+        <item quantity="one">ກຳ​ນົດປຸ່ມ ​%d ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s ກຳ​ລັງ​ສະ​ແດງ %2$d ລາຍ​ການ.</item>
+        <item quantity="one">%1$s ​ກຳ​ລັງ​ສະ​ແດງ %2$d ລາຍ​ການ.</item>
+    </plurals>
+</resources>

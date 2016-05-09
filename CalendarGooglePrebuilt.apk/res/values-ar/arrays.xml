@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>إشعار</item>
+        <item>رسالة إلكترونية</item>
+        <item>‏رسائل SMS</item>
+        <item>تنبيه</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>لا شيء</item>
+        <item>0 دقائق</item>
+        <item>دقيقة واحدة</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>45 دقيقة</item>
+        <item>ساعة واحدة</item>
+        <item>ساعتان</item>
+        <item>3 ساعات</item>
+        <item>12 ساعة</item>
+        <item>24 ساعة</item>
+        <item>يومان</item>
+        <item>أسبوع واحد</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الاثنين</item>
+    </string-array>
+    <string-array name="availability">
+        <item>مشغول</item>
+        <item>متواجد</item>
+        <item>مبدئي</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>أول</item>
+        <item>ثانية</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الأخير</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>لم يتم الرد حتى الآن</item>
+        <item>سأحضر</item>
+        <item>ربما</item>
+        <item>لن أحضر</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>هذا الحدث</item>
+        <item>جميع الأحداث التالية له</item>
+        <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>هذا الحدث والأحداث المستقبلية</item>
+        <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>هذا الحدث فقط</item>
+        <item>جميع الأحداث في سلسلة الأحداث</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>يوم</item>
+        <item>أسبوع</item>
+        <item>شهر</item>
+        <item>أجندة</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>مشغول</item>
+        <item>متاح</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>أحمر برتقالي</item>
+        <item>برتقالي محمر</item>
+        <item>يقطين</item>
+        <item>أصفر مانجو</item>
+        <item>أصفر موزي</item>
+        <item>ليموني</item>
+        <item>أخضر مصفرّ</item>
+        <item>أخضر فستقي</item>
+        <item>أخضر الريحان</item>
+        <item>يوكالبتوس</item>
+        <item>أخضر رمادي</item>
+        <item>أزرق فيروزي</item>
+        <item>كوبالت</item>
+        <item>توتي</item>
+        <item>خزامي</item>
+        <item>وستارية</item>
+        <item>جمشتي</item>
+        <item>أرجواني عنبي</item>
+        <item>أحمر قرمزي</item>
+        <item>زهري كرزي</item>
+        <item>زهري مرجاني</item>
+        <item>كاكاو</item>
+        <item>رصاصي</item>
+        <item>بتولا</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>سأتأخر لمدة دقيقتين.</item>
+        <item>سأكون هناك خلال حوالي 10 دقائق.</item>
+        <item>ابدأوا بدوني.</item>
+        <item>عذرًا، لا يمكنني الحضور. علينا إعادة الجدولة.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>توقيت وسط أستراليا - الإقليم الشمالي</item>
+        <item>توقيت وسط أستراليا - جنوب أستراليا</item>
+        <item>التوقيت الشرقي لاستراليا - كوينزلاند</item>
+        <item>توقيت شرق أستراليا - نيوساوث ويلز</item>
+        <item>توقيت جبلي - دوسن كريك</item>
+        <item>التوقيت المركزي القياسي - ساسكاتشوان</item>
+        <item>التوقيت الشرقي القياسي - أتيكوكان</item>
+        <item>التوقيت الأطلنطي القياسي - كيبك</item>
+        <item>توقيت هاواي أليوتيان - هاواي</item>
+        <item>توقيت هاواي أليوتيان - ألاسكا</item>
+        <item>توقيت المحيط الهادئ القياسي - ميتلاكاتلا</item>
+        <item>التوقيت القياسي الجبلي - أريزونا</item>
+        <item>توقيت المحيط الهادئ - باجا كاليفورنيا</item>
+        <item>التوقيت الجبلي - تشيهواهوا</item>
+        <item>التوقيت المركزي - تاماوليباس</item>
+        <item>التوقيت الجبلي - سونورا</item>
+        <item>توقيت شرق إفريقيا</item>
+        <item>التوقيت الرسمي الأطلسي</item>
+        <item>التوقيت الرسمي الأطلسي</item>
+        <item>توقيت شرق أوروبا</item>
+        <item>توقيت كالينجراد</item>
+        <item>الأمازون - روندونيا</item>
+        <item>برازيليا - بارا</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>سينت مارتن</item>
+        <item>الكاريبي هولندا</item>
+        <item>كوراساو</item>
+        <item>جنوب السودان</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>تكرار يوميًا</item>
+        <item>تكرار أسبوعيًا</item>
+        <item>تكرار شهريًا</item>
+        <item>تكرار سنويًا</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>بدون تكرار</item>
+        <item>كل يوم</item>
+        <item>كل أسبوع</item>
+        <item>كل شهر</item>
+        <item>كل عام</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>في أول يوم أحد من كل شهر</item>
+        <item>في ثاني يوم أحد من كل شهر</item>
+        <item>في ثالث يوم أحد من كل شهر</item>
+        <item>في رابع يوم أحد من كل شهر</item>
+        <item>في آخر يوم أحد من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>في أول يوم اثنين من كل شهر</item>
+        <item>في ثاني يوم اثنين من كل شهر</item>
+        <item>في ثالث يوم اثنين من كل شهر</item>
+        <item>في رابع يوم اثنين من كل شهر</item>
+        <item>في آخر يوم اثنين من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>في أول يوم ثلاثاء من كل شهر</item>
+        <item>في ثاني يوم ثلاثاء من كل شهر</item>
+        <item>في ثالث يوم ثلاثاء من كل شهر</item>
+        <item>في رابع يوم ثلاثاء من كل شهر</item>
+        <item>في آخر يوم ثلاثاء من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>في أول يوم أربعاء من كل شهر</item>
+        <item>في ثاني يوم أربعاء من كل شهر</item>
+        <item>في ثالث يوم أربعاء من كل شهر</item>
+        <item>في رابع يوم أربعاء من كل شهر</item>
+        <item>في آخر يوم أربعاء من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>في أول يوم خميس من كل شهر</item>
+        <item>في ثاني يوم خميس من كل شهر</item>
+        <item>في ثالث يوم خميس من كل شهر</item>
+        <item>في رابع يوم خميس من كل شهر</item>
+        <item>في آخر يوم خميس من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>في أول يوم جمعة من كل شهر</item>
+        <item>في ثاني يوم جمعة من كل شهر</item>
+        <item>في ثالث يوم جمعة من كل شهر</item>
+        <item>في رابع يوم جمعة من كل شهر</item>
+        <item>في آخر يوم جمعة من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>في أول يوم سبت من كل شهر</item>
+        <item>في ثاني يوم سبت من كل شهر</item>
+        <item>في ثالث يوم سبت من كل شهر</item>
+        <item>في رابع يوم سبت من كل شهر</item>
+        <item>في يوم السبت الأخير من كل شهر</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>‏تقويم Google</item>
+        <item>سهولة البحث ومتعة الاطلاع</item>
+        <item>إمكانية ملء بيانات التقويم بسرعة وسهولة</item>
+        <item>‏الأحداث من Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>تحقيق أقصى استفادة من كل يوم.</item>
+        <item>يتيح عرض الجدول الزمني الصور والخرائط على تقويمك.</item>
+        <item>من خلال أدوات المساعدة، تظهر اقتراحات للعناوين وجهات الاتصال والأماكن أثناء الكتابة.</item>
+        <item>إضافة حجوزات رحلات الطيران والمطاعم وغير ذلك الكثير من الرسائل الإلكترونية تلقائيًا.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>لاستخدام موقع الجهاز.</item>
+        <item></item>
+        <item>يمكنك تغيير هذا من خلال الإعدادات.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} إضافة أشخاص، الحصول على معلومات جهة الاتصال</item>
+        <item>{LOCATION_ICON} إضافة أماكن، الحصول على الاتجاهات</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>مع من؟</item>
+        <item>إضافة شخص ما، الحصول على معلومات جهة الاتصال</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}لن تؤدي إضافة جهات اتصال إلى إرسال دعوة</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>أين؟</item>
+        <item>إضافة موقع، الحصول على الاتجاهات</item>
+    </string-array>
+</resources>

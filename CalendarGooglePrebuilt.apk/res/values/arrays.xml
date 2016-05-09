@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notification</item>
+        <item>email</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>None</item>
+        <item>0 minutes</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>1 week</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>not yet responded</item>
+        <item>going</item>
+        <item>maybe</item>
+        <item>not going</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>This event</item>
+        <item>All following events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>This &amp; future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Only this event</item>
+        <item>All events in the series</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Busy</item>
+        <item>Available</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomato</item>
+        <item>Tangerine</item>
+        <item>Pumpkin</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Citron</item>
+        <item>Avocado</item>
+        <item>Pistachio</item>
+        <item>Basil</item>
+        <item>Eucalyptus</item>
+        <item>Sage</item>
+        <item>Peacock</item>
+        <item>Cobalt</item>
+        <item>Blueberry</item>
+        <item>Lavender</item>
+        <item>Wisteria</item>
+        <item>Amethyst</item>
+        <item>Grape</item>
+        <item>Radicchio</item>
+        <item>Cherry Blossom</item>
+        <item>Flamingo</item>
+        <item>Cocoa</item>
+        <item>Graphite</item>
+        <item>Birch</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Running just a couple of minutes late.</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+    </string-array>
+    <string-array name="timezone_rename_ids">
+        <item>Australia/Darwin</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Sydney</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Regina</item>
+        <item>America/Atikokan</item>
+        <item>America/Blanc-Sablon</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Adak</item>
+        <item>America/Metlakatla</item>
+        <item>America/Phoenix</item>
+        <item>America/Tijuana</item>
+        <item>America/Ojinaga</item>
+        <item>America/Matamoros</item>
+        <item>America/Hermosillo</item>
+        <item>Africa/Juba</item>
+        <item>America/Kralendijk</item>
+        <item>America/Lower_Princes</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Kaliningrad</item>
+        <item>America/Porto_Velho</item>
+        <item>America/Belem</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item>SX</item>
+        <item>BQ</item>
+        <item>CW</item>
+        <item>SS</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>South Sudan</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Does not repeat</item>
+        <item>Every day</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Every year</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <integer-array name="notification_options_timed_minutes">
+        <item>120</item>
+        <item>2880</item>
+        <item>1440</item>
+        <item>10080</item>
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="notification_options_timed_methods">
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="notification_options_allday_minutes">
+        <item>9540</item>
+        <item>2340</item>
+        <item>19620</item>
+        <item>9540</item>
+        <item>900</item>
+        <item>420</item>
+        <item>-540</item>
+        <item>900</item>
+    </integer-array>
+    <integer-array name="notification_options_allday_methods">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <array name="view_switcher_ids">
+        <item>@id/agenda_view</item>
+        <item>@id/hourly_view</item>
+        <item>@id/list_week_view_3days</item>
+        <item>@id/week_view</item>
+        <item>@id/month_view</item>
+    </array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="default_event_duration_values">
+        <item>-1</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </integer-array>
+    <integer-array name="custom_notification_interval_values">
+        <item>1</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>10080</item>
+    </integer-array>
+    <integer-array name="custom_notification_interval_max_values">
+        <item>600</item>
+        <item>120</item>
+        <item>28</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="visibility_labels">
+        <item>@string/visibility_public</item>
+        <item>@string/visibility_default</item>
+        <item>@string/visibility_private</item>
+        <item>@string/visibility_secret</item>
+    </string-array>
+    <string-array name="preferences_visibility_labels">
+        <item>@string/visibility_default</item>
+        <item>@string/visibility_private</item>
+        <item>@string/visibility_secret</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>africa/blantyre</item>
+        <item>africa/brazzaville</item>
+        <item>africa/bujumbura</item>
+        <item>africa/dar_es_salaam</item>
+        <item>africa/gaborone</item>
+        <item>africa/harare</item>
+        <item>africa/johannesburg</item>
+        <item>africa/kigali</item>
+        <item>africa/kinshasa</item>
+        <item>africa/luanda</item>
+        <item>africa/lubumbashi</item>
+        <item>africa/lusaka</item>
+        <item>africa/maputo</item>
+        <item>africa/maseru</item>
+        <item>africa/mbabane</item>
+        <item>africa/nairobi</item>
+        <item>africa/windhoek</item>
+        <item>america/araguaina</item>
+        <item>america/argentina/buenos_aires</item>
+        <item>america/argentina/catamarca</item>
+        <item>america/argentina/comodrivadavia</item>
+        <item>america/argentina/cordoba</item>
+        <item>america/argentina/jujuy</item>
+        <item>america/argentina/la_rioja</item>
+        <item>america/argentina/mendoza</item>
+        <item>america/argentina/rio_gallegos</item>
+        <item>america/argentina/salta</item>
+        <item>america/argentina/san_juan</item>
+        <item>america/argentina/san_luis</item>
+        <item>america/argentina/tucuman</item>
+        <item>america/argentina/ushuaia</item>
+        <item>america/asuncion</item>
+        <item>america/bahia</item>
+        <item>america/belem</item>
+        <item>america/buenos_aires</item>
+        <item>america/campo_grande</item>
+        <item>america/catamarca</item>
+        <item>america/cordoba</item>
+        <item>america/cuiaba</item>
+        <item>america/eirunepe</item>
+        <item>america/fortaleza</item>
+        <item>america/guayaquil</item>
+        <item>america/jujuy</item>
+        <item>america/la_paz</item>
+        <item>america/lima</item>
+        <item>america/maceio</item>
+        <item>america/manaus</item>
+        <item>america/mendoza</item>
+        <item>america/montevideo</item>
+        <item>america/noronha</item>
+        <item>america/porto_acre</item>
+        <item>america/porto_velho</item>
+        <item>america/recife</item>
+        <item>america/rio_branco</item>
+        <item>america/rosario</item>
+        <item>america/santarem</item>
+        <item>america/santiago</item>
+        <item>america/sao_paulo</item>
+        <item>antarctica/casey</item>
+        <item>antarctica/davis</item>
+        <item>antarctica/dumontdurville</item>
+        <item>antarctica/macquarie</item>
+        <item>antarctica/mawson</item>
+        <item>antarctica/mcmurdo</item>
+        <item>antarctica/palmer</item>
+        <item>antarctica/rothera</item>
+        <item>antarctica/south_pole</item>
+        <item>antarctica/syowa</item>
+        <item>antarctica/vostok</item>
+        <item>asia/dili</item>
+        <item>asia/jakarta</item>
+        <item>asia/jayapura</item>
+        <item>asia/makassar</item>
+        <item>asia/pontianak</item>
+        <item>asia/ujung_pandang</item>
+        <item>atlantic/south_georgia</item>
+        <item>atlantic/st_helena</item>
+        <item>atlantic/stanley</item>
+        <item>australia/act</item>
+        <item>australia/adelaide</item>
+        <item>australia/brisbane</item>
+        <item>australia/broken_hill</item>
+        <item>australia/canberra</item>
+        <item>australia/currie</item>
+        <item>australia/darwin</item>
+        <item>australia/eucla</item>
+        <item>australia/hobart</item>
+        <item>australia/lhi</item>
+        <item>australia/lindeman</item>
+        <item>australia/lord_howe</item>
+        <item>australia/melbourne</item>
+        <item>australia/nsw</item>
+        <item>australia/north</item>
+        <item>australia/perth</item>
+        <item>australia/queensland</item>
+        <item>australia/south</item>
+        <item>australia/sydney</item>
+        <item>australia/tasmania</item>
+        <item>australia/victoria</item>
+        <item>australia/west</item>
+        <item>australia/yancowinna</item>
+        <item>bet</item>
+        <item>brazil/acre</item>
+        <item>brazil/denoronha</item>
+        <item>brazil/east</item>
+        <item>brazil/west</item>
+        <item>cat</item>
+        <item>chile/continental</item>
+        <item>chile/easterisland</item>
+        <item>indian/antananarivo</item>
+        <item>indian/chagos</item>
+        <item>indian/christmas</item>
+        <item>indian/cocos</item>
+        <item>indian/comoro</item>
+        <item>indian/kerguelen</item>
+        <item>indian/mahe</item>
+        <item>indian/mauritius</item>
+        <item>indian/mayotte</item>
+        <item>indian/reunion</item>
+        <item>mit</item>
+        <item>nz</item>
+        <item>nz-chat</item>
+        <item>pacific/apia</item>
+        <item>pacific/auckland</item>
+        <item>pacific/chatham</item>
+        <item>pacific/easter</item>
+        <item>pacific/efate</item>
+        <item>pacific/enderbury</item>
+        <item>pacific/fakaofo</item>
+        <item>pacific/fiji</item>
+        <item>pacific/funafuti</item>
+        <item>pacific/galapagos</item>
+        <item>pacific/gambier</item>
+        <item>pacific/guadalcanal</item>
+        <item>pacific/marquesas</item>
+        <item>pacific/nauru</item>
+        <item>pacific/niue</item>
+        <item>pacific/norfolk</item>
+        <item>pacific/noumea</item>
+        <item>pacific/pago_pago</item>
+        <item>pacific/pitcairn</item>
+        <item>pacific/port_moresby</item>
+        <item>pacific/rarotonga</item>
+        <item>pacific/samoa</item>
+        <item>pacific/tahiti</item>
+        <item>pacific/tongatapu</item>
+        <item>pacific/wallis</item>
+        <item>us/samoa</item>
+    </string-array>
+    <string-array name="attendee_edit_enabled_account_types">
+        <item>com.google</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Easy to scan and lovely to look at</item>
+        <item>Fill in your calendar quickly and easily</item>
+        <item>Events from Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Make the most of every day.</item>
+        <item>Schedule View puts images and maps on your calendar.</item>
+        <item>With Assists, suggestions for titles, contacts and places appear as you type.</item>
+        <item>Reservations for flights, restaurants and more, automatically added from emails.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Uses device location.</item>
+        <item></item>
+        <item>You can change this in Settings.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Add people, get contact info</item>
+        <item>{LOCATION_ICON} Add places, get directions</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>With whom?</item>
+        <item>Add someone, get contact info</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>"{CHECK_ICON}Adding contacts won't send out an invite"</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Where?</item>
+        <item>Add a location, get directions</item>
+    </string-array>
+    <string-array name="birthday_mode_labels">
+        <item>@string/settings_birthday_gplus</item>
+        <item>@string/settings_birthday_contact</item>
+        <item>@string/settings_birthday_hide</item>
+    </string-array>
+    <string-array name="quick_create_query_term_list_separators">
+        <item>,</item>
+        <item>and</item>
+    </string-array>
+    <array name="oobe_resources">
+        <item>@drawable/icon</item>
+        <item>@drawable/richness</item>
+        <item>@drawable/quickcreate</item>
+        <item>@drawable/smartmail</item>
+    </array>
+</resources>

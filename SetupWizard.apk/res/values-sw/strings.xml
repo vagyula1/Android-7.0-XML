@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">%1$s inakumbwa na hitilafu ya huduma za Google Play. Tatizo likiendelea, tafadhali wasiliana msanidi programu kwa usaidizi.</string>
+    <string name="common_google_play_services_notification_ticker">Hitilafu ya huduma za Google Play</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye simu yako.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="common_google_play_services_install_button">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_enable_title">Washa huduma za Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_button">Washa huduma za Google Play</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_google_play_services_update_text">%1$s haitafanya kazi isipokuwa usasishe huduma za Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi.</string>
+    <string name="common_google_play_services_updating_title">Huduma za Google Play zinasasishwa</string>
+    <string name="common_google_play_services_updating_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa.</string>
+    <string name="common_google_play_services_network_error_title">Hitilafu ya Mtandao</string>
+    <string name="common_google_play_services_network_error_text">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akaunti Isiyo Sahihi</string>
+    <string name="common_google_play_services_invalid_account_text">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="common_google_play_services_unsupported_title">Huduma za Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s hutegemea huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako. Wasiliana na mtengenezaji ili upate usaidizi.</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s inahitaji huduma moja au nyingi za Google Play ambazo hazipatikani kwa sasa. Tafadhali wasiliana na msanidi programu ili upate usaidizi.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Imeshindwa kuingia katika akaunti</string>
+    <string name="common_google_play_services_sign_in_failed_text">Hitilafu ya kuingia katika akaunti iliyobainishwa. Tafadhali chagua akaunti tofauti.</string>
+    <string name="common_google_play_services_restricted_profile_title">Wasifu Uliowekewa Vikwazo</string>
+    <string name="common_google_play_services_restricted_profile_text">Huwezi kufikia akaunti kwa kutumia wasifu uliowekewa vikwazo.</string>
+    <string name="common_signin_button_text">Ingia katika akaunti</string>
+    <string name="common_signin_button_text_long">Ingia katika akaunti ukitumia Google</string>
+    <string name="wifi_fail_to_scan">Haiwezi kutambaza mitandao</string>
+    <string name="wifi_security_none">Hamna</string>
+    <string name="wifi_remembered">Imehifadhiwa</string>
+    <string name="wifi_disabled_generic">Imelemazwa</string>
+    <string name="wifi_disabled_network_failure">Haikuweza Kusanidi IP</string>
+    <string name="wifi_disabled_wifi_failure">Haikuweza Kuunganisha kwenye WiFi</string>
+    <string name="wifi_disabled_password_failure">Tatizo la uthibitishaji</string>
+    <string name="wifi_not_in_range">Haiko karibu</string>
+    <string name="wifi_no_internet">Hakuna Ufikiaji kwa Intaneti Uliogunduliwa, haitaweza kuunganisha kiotomatiki.</string>
+    <string name="saved_network">Ilihifadhiwa na %1$s</string>
+    <string name="connected_via_wfa">Imeunganishwa kupitia Kisaidizi cha Wi-Fi</string>
+    <string name="connected_via_passpoint">Imeunganishwa kupitia %1$s</string>
+    <string name="available_via_passpoint">Inapatikana kupitia %1$s</string>
+    <string name="wifi_connected_no_internet">Imeunganishwa, hakuna Intaneti</string>
+    <string name="bluetooth_disconnected">Imetenganishwa</string>
+    <string name="bluetooth_disconnecting">Inatenganisha...</string>
+    <string name="bluetooth_connecting">Inaunganisha…</string>
+    <string name="bluetooth_connected">Umeunganishwa</string>
+    <string name="bluetooth_pairing">Inaoanisha...</string>
+    <string name="bluetooth_connected_no_headset">Imeunganishwa (hakuna simu)</string>
+    <string name="bluetooth_connected_no_a2dp">Imeunganishwa(hakuna vyombo vya habari)</string>
+    <string name="bluetooth_connected_no_map">Imeunganishwa (hakuna ufikiaji kwa ujumbe)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Imeunganishwa(hakuna simu au vyombo vya habari)</string>
+    <string name="bluetooth_profile_a2dp">Media ya sauti</string>
+    <string name="bluetooth_profile_headset">Sauti ya simu</string>
+    <string name="bluetooth_profile_opp">Uhamishaji wa faili</string>
+    <string name="bluetooth_profile_hid">Kifaa cha kuingiza</string>
+    <string name="bluetooth_profile_pan">Ufikivu wa mtandao</string>
+    <string name="bluetooth_profile_pbap">Kushiriki anwani</string>
+    <string name="bluetooth_profile_pbap_summary">Tumia kwa kushiriki anwani</string>
+    <string name="bluetooth_profile_pan_nap">Kushiriki muunganisho wa tovuti</string>
+    <string name="bluetooth_profile_map">Ufikiaji wa Ujumbe</string>
+    <string name="bluetooth_profile_sap">Ufikiaji wa SIM</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Imeunganishwa kwenye sikika ya njia ya mawasiliano</string>
+    <string name="bluetooth_headset_profile_summary_connected">Imeunganishwa kwenye sauti ya simu</string>
+    <string name="bluetooth_opp_profile_summary_connected">Imeunganishwa kwenye seva ya kuhamisha faili</string>
+    <string name="bluetooth_map_profile_summary_connected">Imeunganishwa kwenye ramani</string>
+    <string name="bluetooth_sap_profile_summary_connected">Imeunganishwa kwenye SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Haijaunganishwa kwenye seva ya kuhamisha faili</string>
+    <string name="bluetooth_hid_profile_summary_connected">Umeunganishwa kwa kifaa cha kuingiza</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Umeunganishwa kwa kifaa cha ufikia Mtandao</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Kushiriki muunganisho wa mtandao wa nyumbani na kifaa</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Tumia kwa ufikiaji mtandao</string>
+    <string name="bluetooth_map_profile_summary_use_for">Tumia kwa ramani</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Tumia kwa ufikiaji wa SIM</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Tumia kwa sauti ya media</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Tumia kwa sauti ya simu</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Tumia kwa hali faili</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Tumia kwa kuingiza</string>
+    <string name="bluetooth_pairing_accept">Oanisha</string>
+    <string name="bluetooth_pairing_accept_all_caps">OANISHA</string>
+    <string name="bluetooth_pairing_decline">Ghairi</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Kuoanisha hutoa ruhusa ya kufikiwa kwa unaowasiliana nao na rekodi ya simu zilizopigwa unapounganishwa.</string>
+    <string name="bluetooth_pairing_error_message">Haikuwezakulinganisha na %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Haikuweza kulingana na %1$s kwa sababu ya PIN isiyo sahihi au msimbo ya kuingia.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Haiwezi kuanzisha mawasiliano na %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Ulinganishaji umekataliwa na %1$s.</string>
+    <string name="accessibility_wifi_off">Wifi imezimwa.</string>
+    <string name="accessibility_no_wifi">Wifi imeondolewa.</string>
+    <string name="accessibility_wifi_one_bar">Kipima mtandao kimoja cha Wifi.</string>
+    <string name="accessibility_wifi_two_bars">Vipima mtandao viwili vya Wifi.</string>
+    <string name="accessibility_wifi_three_bars">Vipima mtandao vitatu vya Wifi.</string>
+    <string name="accessibility_wifi_signal_full">Nguvu kamili ya mtandao wa Wifi.</string>
+    <string name="process_kernel_label">OS ya Android</string>
+    <string name="data_usage_uninstalled_apps">Programu zilizoondolewa</string>
+    <string name="data_usage_uninstalled_apps_users">Watumiaji na programu ziilizoondolewa</string>
+    <string name="tether_settings_title_usb">Shiriki intaneti kwa USB</string>
+    <string name="tether_settings_title_wifi">Intaneti ya kusambazwa</string>
+    <string name="tether_settings_title_bluetooth">Shiriki intaneti kwa Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Inazuia</string>
+    <string name="tether_settings_title_all">Kushiriki na kusambaza intaneti</string>
+    <string name="managed_user_title">Wasifu wa kazi</string>
+    <string name="user_guest">Aliyealikwa</string>
+    <string name="unknown">Haijulikani</string>
+    <string name="running_process_item_user_label">Mtumiaji: %1$s</string>
+    <string name="launch_defaults_some">Baadhi ya chaguo-msingi zimewekwa</string>
+    <string name="launch_defaults_none">Hakuna chaguo-misingi zilizowekwa</string>
+    <string name="tts_settings">Mipangilio ya maandishi kwa hotuba</string>
+    <string name="tts_settings_title">Kubadilisha maandishi hadi usemi</string>
+    <string name="tts_default_rate_title">Kiwango cha usemaji</string>
+    <string name="tts_default_rate_summary">Kasi ya kutamkwa kwa maneno</string>
+    <string name="tts_default_pitch_title">Giza</string>
+    <string name="tts_default_pitch_summary">Huathiri sauti ya matamshi yaliyounganishwa</string>
+    <string name="tts_default_lang_title">Lugha</string>
+    <string name="tts_lang_use_system">Tumia lugha ya mfumo</string>
+    <string name="tts_lang_not_selected">Lugha haijachaguliwa</string>
+    <string name="tts_default_lang_summary">Huweka sauti maalum ya lugha inayolingana na yanayozungumzwa</string>
+    <string name="tts_play_example_title">Sikiliza mfano</string>
+    <string name="tts_play_example_summary">Cheza onyesho fupi la usanisi usemaji</string>
+    <string name="tts_install_data_title">Sakinisha data ya sauti</string>
+    <string name="tts_install_data_summary">Sakinisha data ya sauti inayohitajika kuunganisha usemi</string>
+    <string name="tts_engine_security_warning">Hotuba hii inawezesha injini huenda ikaweza kukusanya maandishi ambayo yatazungumziwa, ikijumlisha data ya kibinafsi ya nenosiri na namba ya kaddi ya mkopo. Inatoka kwa injini ya %s Wezesha matumizi ya hotuba hii iliyowezeshwa ya injini?</string>
+    <string name="tts_engine_network_required">Lugha hii inahitaji muunganisho wa mtandao unaofanya kazi kwa towe ya maandishi hadi sauti.</string>
+    <string name="tts_default_sample_string">Huu ni mfano wa usanisi usemaji</string>
+    <string name="tts_status_title">Hali ya lugha chaguo-msingi</string>
+    <string name="tts_status_ok">%1$s inaweza kutumiwa kikamilifu</string>
+    <string name="tts_status_requires_network">%1$s inahitaji muunganisho wa mtandao</string>
+    <string name="tts_status_not_supported">%1$s haiwezi kutumiwa</string>
+    <string name="tts_status_checking">Inakagua...</string>
+    <string name="tts_engine_settings_title">Mipangilio ya %s</string>
+    <string name="tts_engine_settings_button">Zindua mipangilio ya injini</string>
+    <string name="tts_engine_preference_section_title">Injini inayofaa</string>
+    <string name="tts_general_section_title">Kwa ujumla</string>
+    <string name="choose_profile">Chagua Wasifu</string>
+    <string name="category_personal">Ya Kibinafsi</string>
+    <string name="category_work">Kazini</string>
+    <string name="development_settings_title">Chaguo za wasanidi</string>
+    <string name="development_settings_enable">Washa chaguo za wasanidi programu</string>
+    <string name="development_settings_summary">Weka chaguo kwa ajili ya maendeleo ya programu</string>
+    <string name="development_settings_not_available">Chaguo la Wasanidi programu halipatikani kwa mtumiaji huyu</string>
+    <string name="vpn_settings_not_available">Mipangilio ya VPN haipatikani kwa mtumiaji huyu</string>
+    <string name="tethering_settings_not_available">Mipangilio ya kusambaza mtandao haipatikani kwa mtumiaji huyu</string>
+    <string name="apn_settings_not_available">Mipangilio ya Jina la Lango la Mtandao (APN) haipatikani kwa mtumiaji huyu</string>
+    <string name="enable_adb">Utatuzi wa USB</string>
+    <string name="enable_adb_summary">Muundo wa kurekebisha wakati USB imeunganishwa</string>
+    <string name="clear_adb_keys">Batilisha idhini za kurekebisha USB</string>
+    <string name="bugreport_in_power">Njia ya mkato ya kuripoti hitilafu</string>
+    <string name="bugreport_in_power_summary">Onyesha kitufe cha kupokea ripoti za hitilafu katika menyu ya nguvu</string>
+    <string name="keep_screen_on">Weka skrini ikiwa imewashwa</string>
+    <string name="keep_screen_on_summary">Skrini haitawahi kuzima wakati unachaji</string>
+    <string name="bt_hci_snoop_log">Washa kumbukumbu ya Bluetooth HCI Snoop</string>
+    <string name="bt_hci_snoop_log_summary">Nasa pakiti zote za Bluetooth HCI katika faili</string>
+    <string name="oem_unlock_enable">Ufunguaji wa OEM</string>
+    <string name="oem_unlock_enable_summary">Ruhusu bootloader ifunguliwe</string>
+    <string name="confirm_enable_oem_unlock_title">Je, ungependa kuruhusu ufunguaji wa OEM?</string>
+    <string name="confirm_enable_oem_unlock_text">ONYO: Vipengele vya ulinzi wa kifaa havitafanya kazi kwenye kifaa hiki wakati mpangilio huu umewashwa.</string>
+    <string name="mock_location_app">Chagua programu ya eneo ya majaribio</string>
+    <string name="mock_location_app_not_set">Hakuna programu ya eneo ya majaribio iliyosanidiwa</string>
+    <string name="mock_location_app_set">Programu ya eneo ya majaribio: %1$s</string>
+    <string name="debug_networking_category">Mtandao</string>
+    <string name="wifi_display_certification">Chaguo za cheti cha kuonyesha pasiwaya</string>
+    <string name="wifi_verbose_logging">Washa Uwekaji kumbukumbu za WiFi kutumia Sauti</string>
+    <string name="wifi_aggressive_handover">Ukabidhi kutoka Wifi kwenda Mtandao wa Simu</string>
+    <string name="wifi_allow_scan_with_traffic">Ruhusu Uchanganuzi wa Matumizi ya Mitandao mingine</string>
+    <string name="legacy_dhcp_client">Tumia kiteja cha DHCP kilichopitwa na wakati</string>
+    <string name="mobile_data_always_on">Data ya kifaa cha mkononi inatumika kila wakati</string>
+    <string name="bluetooth_disable_absolute_volume">Zima sauti kamili</string>
+    <string name="wifi_display_certification_summary">Onyesha chaguo za cheti cha kuonyesha pasiwaya</string>
+    <string name="wifi_verbose_logging_summary">Ongeza hatua ya uwekaji kumbukumbu ya Wi-Fi, onyesha kwa kila SSID RSSI kwenye Kichukuzi cha Wi-Fi</string>
+    <string name="wifi_aggressive_handover_summary">Ikiwashwa, Wifi itakabidhi kwa hima muunganisho wa data kwa mtandao wa Simu za Mkononi, mawimbi ya Wifi yanapokuwa hafifu</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Ruhusu au Zuia Uchanganuzi wa Matumizi ya Mitandao mingine ya Wifi kulingana na kiasi cha trafiki ya data kilicho kwenye kiolesura</string>
+    <string name="select_logd_size_title">Ukubwa wa kiweka bafa ya kumbukumbu</string>
+    <string name="select_logd_size_dialog_title">Chagua ukubwa wa kila Kumbukumbu</string>
+    <string name="select_usb_configuration_title">Chagua Usanidi wa USB</string>
+    <string name="select_usb_configuration_dialog_title">Chagua Usanidi wa USB</string>
+    <string name="allow_mock_location">Ruhusu maeneo ya jaribio</string>
+    <string name="allow_mock_location_summary">Ruhusu maeneo ya majaribio</string>
+    <string name="debug_view_attributes">Washa ukaguzi wa sifa ya onyesho</string>
+    <string name="legacy_dhcp_client_summary">Tumia kiteja cha DHCP kutoka Lollipop badala ya kiteja kipya cha DHCP cha Android.</string>
+    <string name="mobile_data_always_on_summary">Washa kila wakati data ya kifaa cha mkononi, hata kama Wi-Fi inatumika (katika uzimaji wa haraka wa mtandao).</string>
+    <string name="adb_warning_title">Ruhusu utatuaji USB?</string>
+    <string name="adb_warning_message">Ueuaji wa USB umekusudiwa kwa malengo ya utengenezaji tu. Itumi kunakili data kati ya kompyuta yako na kifaa chako, kusanidi programu kwa kifaa chako bila arifa, na kusoma data ya rajisi.</string>
+    <string name="adb_keys_warning_message">Unataka kubatilisha ufikiaji wa urekebishaji wa USB kutoka kwenye kompyuta zote ulizotangulia kuidhinisha?</string>
+    <string name="dev_settings_warning_title">Ruhusu mipangilio ya usanidi?</string>
+    <string name="dev_settings_warning_message">Mipangilio hii imekusudiwa kwa matumizi ya usanidi tu. Inaweza kusababisha kifaa chako na programu zilizoko kuvunjika au kutofanya kazi vizuri.</string>
+    <string name="verify_apps_over_usb_title">Thibitisha programu kupitia USB</string>
+    <string name="verify_apps_over_usb_summary">Kagua programu zilizosakinishwa kupitia ADB/ADT kwa tabia ya kudhuru.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Huzima kipengele cha Bluetooth cha sauti kamili kunapotokea matatizo ya sauti katika vifaa vya mbali kama vile sauti ya juu mno au inaposhindikana kuidhibiti.</string>
+    <string name="enable_terminal_title">Kituo cha karibu</string>
+    <string name="enable_terminal_summary">Washa programu ya mwisho inayotoa ufikiaji mkuu wa karibu</string>
+    <string name="hdcp_checking_title">Inakagua HDCP</string>
+    <string name="hdcp_checking_dialog_title">Weka HDCP ya kukagua tabia</string>
+    <string name="debug_debugging_category">Utatuaji</string>
+    <string name="debug_app">Chagua programu ya utatuaji</string>
+    <string name="debug_app_not_set">Hakuna programu ya utatuaji iliyowekwa</string>
+    <string name="debug_app_set">Programu ya utatuaji: %1$s</string>
+    <string name="select_application">Chagua programu</string>
+    <string name="no_application">Hakuna chochote</string>
+    <string name="wait_for_debugger">Subiri kitatuaji</string>
+    <string name="wait_for_debugger_summary">Programu ya utatuaji husubiri kitatuaji ili kuambatisha kabla ya kutekeleza</string>
+    <string name="debug_input_category">Ingizo</string>
+    <string name="debug_drawing_category">Uchoraji</string>
+    <string name="debug_hw_drawing_category">Kutunguliza kwa maunzi kulikoharakishwa</string>
+    <string name="media_category">Vyombo vya Habari</string>
+    <string name="debug_monitoring_category">Ufuatiliaji</string>
+    <string name="strict_mode">Modi makinifu imewezeshwa</string>
+    <string name="strict_mode_summary">Mulika skrini wakati programu zinafanya uendeshaji mrefu kwenye mnyororo mkuu</string>
+    <string name="pointer_location">Mahali pa pointa</string>
+    <string name="pointer_location_summary">Kuegeshwa kwa skrini ikionyesha data ya mguso ya sasa</string>
+    <string name="show_touches">Onyesha unapogonga</string>
+    <string name="show_touches_summary">Onyesha maoni ya picha unapogonga</string>
+    <string name="show_screen_updates">Onyesha masasisho ya sehemu</string>
+    <string name="show_screen_updates_summary">Angaza dirisha lote zitakaposasisha</string>
+    <string name="show_hw_screen_updates">Onyesha sasisho za mtazamo wa GPU</string>
+    <string name="show_hw_screen_updates_summary">Kiwango cha maoni ndani ya madirisha wakati yanatolewa na GPU</string>
+    <string name="show_hw_layers_updates">Onyesha sasisho za safu za maunzi</string>
+    <string name="show_hw_layers_updates_summary">Angaza kijani safu za maunzi zinaposasisha</string>
+    <string name="debug_hw_overdraw">Tatua uondoaji wa GPU</string>
+    <string name="disable_overlays">Lemaza miekeleo ya HW</string>
+    <string name="disable_overlays_summary">Daima tumia GPU kwa mchanganyiko wa skrini</string>
+    <string name="simulate_color_space">Kuiga nafasi ya rangi</string>
+    <string name="enable_opengl_traces_title">Wezesha ufuatiliaji wa OpenGL</string>
+    <string name="usb_audio_disable_routing">Zima utumaji sauti kwa USB</string>
+    <string name="usb_audio_disable_routing_summary">Zima utumaji otomatiki kwenda vifaa vya sauti vya USB</string>
+    <string name="debug_layout">Onyesha mipaka ya mpangilio</string>
+    <string name="debug_layout_summary">Onyesha mipaka ya picha, kingo, nk.</string>
+    <string name="force_rtl_layout_all_locales">Lazimisha uelekezaji wa muundo wa RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">Lazimisha uelekezaji wa muundo wa skrini kwa RTL kwa lugha zote</string>
+    <string name="show_cpu_usage">Onyesha matumizi ya CPU</string>
+    <string name="show_cpu_usage_summary">Kuegeshwa kwa skrini ikionyesha matumizi ya sasa ya CPU</string>
+    <string name="force_hw_ui">"Lazimisha kutungiliza  GPU"</string>
+    <string name="force_hw_ui_summary">Lazimisha matumizi ya GPU kwa uchoraji wa 2d</string>
+    <string name="force_msaa">Lazimisha 4x MSAA</string>
+    <string name="force_msaa_summary">Wezesha 4x MSAA katika programu za OpenGL ES 2.0</string>
+    <string name="show_non_rect_clip">Tatua uendeshaji wa klipu usio mstatili</string>
+    <string name="track_frame_time">Utungilizaji wa GPU ya wasifu</string>
+    <string name="window_animation_scale_title">Uhuishaji kwenye dirisha</string>
+    <string name="transition_animation_scale_title">Mageuzi ya kipimo cha huiani</string>
+    <string name="animator_duration_scale_title">Mizani ya muda wa uhuishaji</string>
+    <string name="overlay_display_devices_title">Iga maonyesho ya upili</string>
+    <string name="debug_applications_category">Programu</string>
+    <string name="immediately_destroy_activities">Usihifadhi shughuli</string>
+    <string name="immediately_destroy_activities_summary">Haribu kila shughuli pindi tu mtumiaji anapoondoka</string>
+    <string name="app_process_limit_title">Kiwango cha mchakato wa mandari nyuma</string>
+    <string name="show_all_anrs">Onyesha ANR zote</string>
+    <string name="show_all_anrs_summary">Onyesha kisanduku kidadisi cha Programu Haiitikii kwa programu za usuli</string>
+    <string name="force_allow_on_external">Lazima uruhusu programu kwenye hifadhi ya nje</string>
+    <string name="force_allow_on_external_summary">Huruhusu programu yoyote iwekwe kwenye hifadhi ya nje, bila kujali thamani za faili ya maelezo</string>
+    <string name="force_resizable_activities">Lazimisha shughuli ziweze kubadilishwa ukubwa</string>
+    <string name="force_resizable_activities_summary">Fanya shughuli zote ziweze kubadilishwa ukubwa kwenye madirisha mengi, bila kuzingatia thamani za faili ya maelezo.</string>
+    <string name="enable_freeform_support">Washa madirisha yenye muundo huru</string>
+    <string name="enable_freeform_support_summary">Ruhusu uwezo wa kutumia madirisha ya majaribio yenye muundo huru.</string>
+    <string name="local_backup_password_title">Nenosiri la hifadhi rudufu ya eneo kazi</string>
+    <string name="local_backup_password_summary_none">Hifadhi rudufu kamili za eneo kazi hazijalindwa kwa sasa</string>
+    <string name="local_backup_password_summary_change">Gonga ili ubadilishe au uondoe nenosiri la hifadhi rudufu kamili za eneo kazi</string>
+    <string name="local_backup_password_toast_success">Nenosiri jipya la hifadhi rudufu limewekwa</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Nenosiri jipya na uthibitisho havioani</string>
+    <string name="local_backup_password_toast_validation_failure">Imeshindwa kuweka nenosiri la hifadhi rudufu</string>
+    <string name="inactive_apps_title">Programu zilizozimwa</string>
+    <string name="inactive_app_inactive_summary">Haitumika. Gonga ili ugeuze.</string>
+    <string name="inactive_app_active_summary">Inatumika. Gonga ili ugeuze.</string>
+    <string name="runningservices_settings_title">Huduma zinazoendeshwa</string>
+    <string name="runningservices_settings_summary">Onyesha na dhibiti huduma zinazoendeshwa kwa sasa</string>
+    <string name="enable_webview_multiprocess">Washa WebView ya michakato mingi</string>
+    <string name="enable_webview_multiprocess_desc">Tekeleza vitoaji huduma vya WebView katika mchakato mahususi.</string>
+    <string name="select_webview_provider_title">Utekelezaji wa WebView</string>
+    <string name="select_webview_provider_dialog_title">Weka utekelezaji wa WebView</string>
+    <string name="select_webview_provider_toast_text">Chaguo hili halipo tena. Jaribu tena.</string>
+    <string name="convert_to_file_encryption">Badilisha kuwa usimbaji fiche wa faili</string>
+    <string name="convert_to_file_encryption_enabled">Badilisha...</string>
+    <string name="convert_to_file_encryption_done">Tayari faili imesimbwa kwa njia fiche</string>
+    <string name="title_convert_fbe">Inabadilisha kuwa usimbaji fiche unaotegemea faili</string>
+    <string name="convert_to_fbe_warning">"Badilisha sehemu za data kuwa usimbaji unaotegemea faili.
+!!Onyo!! Hatua hii itafuta data yako yote.
+Kipengele hiki ni cha alpha, na huenda kisifanye kazi vizuri.
+Bonyeza 'Futa na ubadilishe...'  ili uendelee."</string>
+    <string name="button_convert_fbe">Futa na uibadilishe...</string>
+    <string name="picture_color_mode">Hali ya rangi ya picha</string>
+    <string name="picture_color_mode_desc">Tumia sRGB</string>
+    <string name="daltonizer_mode_disabled">Imezimwa</string>
+    <string name="daltonizer_mode_monochromacy">Nyeupe na Nyeusi</string>
+    <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (nyekundu-kijani)</string>
+    <string name="daltonizer_mode_protanomaly">Protanomaly (nyekundu-kijani)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomaly (samawati-manjano)</string>
+    <string name="accessibility_display_daltonizer_preference_title">Usahihishaji wa rangi</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Kipengele hiki ni cha majaribio na huenda kikaathiri utendaji.</string>
+    <string name="daltonizer_type_overridden">Imetanguliwa na %1$s</string>
+    <string name="power_remaining_duration_only">Zimesalia takribani %1$s</string>
+    <string name="power_discharging_duration">%1$s - imesalia takriban %2$s</string>
+    <string name="power_charging">%1$s - %2$s</string>
+    <string name="power_charging_duration">%1$s - imesalia %2$s hadi ijae</string>
+    <string name="power_charging_duration_ac">%1$s - imesalia %2$s hadi ijae kwa kutumia AC</string>
+    <string name="power_charging_duration_usb">%1$s%% - imesalia %2$s hadi ijae kwa kutumia USB</string>
+    <string name="power_charging_duration_wireless">%1$s - imesalia %2$s hadi ijae kwa isiyotumia waya</string>
+    <string name="battery_info_status_unknown">Haijulikani</string>
+    <string name="battery_info_status_charging">Inachaji</string>
+    <string name="battery_info_status_charging_ac">Inachaji kupitia AC</string>
+    <string name="battery_info_status_charging_usb">Inachaji kupitia USB</string>
+    <string name="battery_info_status_charging_wireless">Inachaji bila kutumia waya</string>
+    <string name="battery_info_status_discharging">Haichaji</string>
+    <string name="battery_info_status_not_charging">Haichaji</string>
+    <string name="battery_info_status_full">Imejaa</string>
+    <string name="disabled_by_admin_summary_text">Imedhibitiwa na msimamizi</string>
+    <string name="enabled_by_admin">Msimamizi amewasha mapendeleo ya mipangilio</string>
+    <string name="disabled_by_admin">Msimamizi amezima mapendeleo ya mipangilio</string>
+    <string name="home">Mwanzo</string>
+    <string name="charge_length_format">Zimepita %1$s</string>
+    <string name="remaining_length_format">Zimesalia %1$s</string>
+    <string name="screen_zoom_summary_small">Ndogo</string>
+    <string name="screen_zoom_summary_default">Chaguo-msingi</string>
+    <string name="screen_zoom_summary_large">Kubwa</string>
+    <string name="screen_zoom_summary_very_large">Kubwa kiasi</string>
+    <string name="screen_zoom_summary_extremely_large">Kubwa zaidi</string>
+    <string name="screen_zoom_summary_custom">Kiwango maalum (%d)</string>
+    <string name="suw_next_button_label">Inayofuata</string>
+    <string name="suw_back_button_label">Nyuma</string>
+    <string name="suw_more_button_label">Zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki na %s</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="setup_wizard_title">Kielekezi cha kusanidi</string>
+    <string name="device_name">simu</string>
+    <string name="finish_button_label">Kamilisha</string>
+    <string name="skip_button_label">Ruka</string>
+    <string name="skip_anyway_button_label">Ruka</string>
+    <string name="go_back_button_label">Rudi nyuma</string>
+    <string name="down_button_label">Zaidi</string>
+    <string name="cancel_button_label">Ghairi</string>
+    <string name="restart_button_label">Washa upya</string>
+    <string name="try_again_button_label">Jaribu tena</string>
+    <string name="close_button_label">Funga</string>
+    <string name="got_it_button_label">Nimeelewa</string>
+    <string name="ok_button_label">SAWA</string>
+    <string name="dialog_back_button_label">Nyuma</string>
+    <string name="dialog_continue_button_label">Endelea</string>
+    <string name="google_legal_title">Sheria za Google</string>
+    <string name="url_load_unsuccessful_message">Simu yako haijaunganishwa kwenye huduma ya data ya simu ya mkononi. Ili kuona maelezo haya sasa, nenda kwa %s katika kivinjari cha wavuti.</string>
+    <string name="start">Anza</string>
+    <string name="wait_msg">Subiri kidogo...</string>
+    <string name="skip_toast">Kielekezi cha kusanidi kimerukwa</string>
+    <string name="terminate_toast">"Kielekezi cha kusanidi kimekomeshwa
+Kifaa hakijatolewa"</string>
+    <string name="activation_title">Inaanzisha huduma ya simu za mkononi...</string>
+    <string name="activation_progress_flow">"Je, inakawia?
+
+Inachukua muda mrefu kuunganisha data ya simu za mkononi. Unaweza kurudi nyuma na ujaribu kuunganisha mtandao mwingine."</string>
+    <string name="activation_failed_title">Haiwezi kuunganisha data ya simu za mkononi</string>
+    <string name="activation_failed_message">"Unaweza:
+"<li>Kujaribu kuunganisha tena data ya simu za mkononi</li>"
+"<li>Kutumia mtandao tofauti kuweka mipangilio</li>"
+
+Ikiwa chaguo hizi hazifanyi kazi, unaweza kuzima na kuwasha tena simu yako kisha ujaribu tena."</string>
+    <string name="activation_title_searching">Inatafuta huduma...</string>
+    <string name="activation_title_activating">Inaanzisha huduma ya simu za mkononi...</string>
+    <string name="activation_default_network_name">mtandao wa simu</string>
+    <string name="activation_network_bars_template">Udhabiti wa ishara ni pau %d</string>
+    <string name="activation_text">Gonga <b>Anzisha</b>" ili ukamilishe huduma yako ya vifaa vya mkononi. (Inaweza kuchukua dakika kadhaa.) 
+ 
+Au gonga "<b>Ruka</b> ili uanzishe simu yako ukitumia muunganisho wa Wi-Fi badala yake.</string>
+    <string name="activation_text_standalone">Gonga <b>Anzisha</b> ili uanzishe huduma yako ya vifaa vya mkononi sasa. (Inaweza kuchukua dakika kadhaa.)</string>
+    <string name="activation_skip_confirmation">"Mpaka utakapoamilisha huduma yako ya data ya simu, vipengele vingine vya simu yako havitafanya kazi.
+
+Ikiwa ungependa kuruka sasa, unaweza amilisha baadaye kwenye mipangilio ya Mfumo."</string>
+    <string name="activation_continue_skip_label">Endelea</string>
+    <string name="activation_button_label">Wezesha</string>
+    <string name="activation_progress_before_connect">Gonga <b>Ruka</b>ili ukamilishe kuanzisha ukitumia muunganisho wa Wi-fi badala yake.</string>
+    <string name="activation_progress">Uanzishaji unaweza kuchukua dakika chache. Gonga <b>Ruka</b> ili ukamilishe kuanzisha ukitumia muunganisho wa Wi-Fi badala yake.</string>
+    <string name="activation_progress_gen">Hatua hii inaweza kuchukua hadi dakika 5</string>
+    <string name="activation_progress_mobile_data">"Simu inawasha huduma yako ya data kwa vifaa vya mkononi.
+ 
+ Hatua hii inaweza kuchukua hadi dakika 5."</string>
+    <string name="activation_progress_before_connect_standalone">Uamilisho unaweza kuchukua dakika chache.</string>
+    <string name="activation_progress_standalone">Uamilisho unaweza kuchukua dakika chache.</string>
+    <string name="activation_success_title">Uamilisho umekamilika</string>
+    <string name="activation_success_text">Gonga <b>Inayofuata</b> ili uendelee na uanzishaji.</string>
+    <string name="activation_success_text_gen">Kifaa chako kinahitaji kuanzisha upya ili kukamilisha uamilisho.</string>
+    <string name="activation_success_text_standalone">Gonga <b>Inayofuata</b>" ili uendelee.
+
+Uanzishaji umekamilika, lakini unaweza kuchukua dakika chache kabla ya mtandao wa data ya simu za mkononi kupatikana."</string>
+    <string name="activation_failure_title">Haikuweza kuamilisha</string>
+    <string name="activation_failure_text">"Jaribu tena baada ya dakika moja, au zima na uwashe upya simu yako kama tatizo hili litaendelea kutokea.
+
+ Ukipendelea kuruka hatua hii sasa, hakikisha umeiwezesha baadaye kwenye Mipangilio ya mfumo. Hadi utakapoiwezesha, simu yako haitakuwa na muunganisho wa data ya mtandao wa simu za mkononi."</string>
+    <string name="activation_failure_text_gen">Huduma yako ya data ya simu ya mkono haikuweza kuwezeshwa. Hii inaweza kuwa ni shida ya muda mfupi, na inaweza kutatuliwa kwa kuwasha upya simu yako.</string>
+    <string name="activation_failure_text_standalone">Haikuweza kuanzisha huduma ya data kwa vifaa vya mkononi. Ili ujaribu kuanzisha tena gonga <b>Jaribu tena</b>".
+
+Unaweza kuanzisha huduma yako ya data ya vifaa vya mkononi baadaye katika "<b>Mipangilio ya mfumo > Isiyo na waya &amp; mitandao > Mitandao ya simu</b></string>
+    <string name="activation_cancel_title">Ghairi iliyoombwa</string>
+    <string name="activation_cancel_text">Inaghairi uamilisho....huenda hii ikachukua sekunde 5-10.</string>
+    <string name="activation_canceled_title">Uamilishaji umeghairiwa</string>
+    <string name="activation_canceled_text">"Ungependa kughairi uanzishaji? Unahitaji kuanzisha huduma yako ya mtandao wa simu kabla ya kuitumia kuunganisha na Intaneti.
+
+Gonga "<b>Inayofuata</b>" ili ukamilishe uanzishaji ukitumia muunganisho wa Wi-Fi.
+
+Unaweza kuanzisha huduma yako ya mtandao wa simu baadaye kwenye "<b>Mipangilio ya mfumo > Isiyo na waya &amp; mitandao > Mitandao ya simu</b>.</string>
+    <string name="activation_canceled_text_standalone">"Kuanza kutumia kumeghairiwa.
+
+Unaweza kuanzisha matumizi ya huduma ya data ya kifaa chako cha mkononi baadaye kwenye "<b>Mipangilio ya mfumo > Isiyotumia waya na mitandao > Mitandao ya simu za mkononi</b>.</string>
+    <string name="activation_spc_failure_text">Kulikuwa na hitilafu inayohitaji kuzima na kuwasha upya simu yako kabla ya kufanya jaribio lingine la uanzishaji. Simu yako itazimika kiotomatiki baada ya sekunde 60, au unaweza kugonga <b>Zima sasa</b>".
+
+ Baada ya simu yako kuzimika, bonyeza kitufe cha kuwasha/kuzima ili uiwashe tena. Uanzishaji utaanza kiotomatiki."</string>
+    <string name="shutdown_button_label">Zima sasa</string>
+    <string name="reboot_button_label">Anza upya</string>
+    <string name="activation_skip_text">Ukiruka hatua ya kuanzisha matumizi, hakikisha umeanzisha baadaye kwenye Mipangilio. Mpaka utakapo anzisha, simu yako haitakuwa na muunganisho wa data ya simu za mkononi.</string>
+    <string name="notification_update_title">Akaunti yako inahitaji kusasishwa</string>
+    <string name="notification_update_message">Gonga hapa ili utekeleze upya Utaratibu uliofupishwa wa Kuanzisha.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Akaunti imeongezwa}other{Akaunti zimeongezwa}}</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> iko tayari.</string>
+    <string name="account_exists_text_unknown_name">Akaunti yako iko tayari.</string>
+    <string name="account_exists_info">"Barua pepe yako, anwani, matukio ya kalenda na zaidi yatasawazishwa kwenye simu hii. Pia unaweza kuanza kupakua programu, muziki na michezo kutoka Google Play.
+
+Unaweza kuongeza na kuondoa akaunti baadaye kwa kuenda kwenye Mipangilio > Akaunti."</string>
+    <string name="date_time_setup_title">Tarehe na saa</string>
+    <string name="date_time_message">Rekebisha kama inahitajika.</string>
+    <string name="date_time_current_date">Tarehe</string>
+    <string name="date_time_current_time">Wakati</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Weka kadi ya SIM}other{Weka kadi ya SIM}}</string>
+    <string name="sim_missing_text">"{sim_slots,plural, =1{Huna uhakika? Soma maagizo yaliyokuja na simu yako.
+
+Pindi unapoingiza SIM kadi yako, inaweza kuchukua sekunde chache kabla ya kuanza kuitumia.}other{Huna uhakika? Soma maagizo yaliyokuja na simu yako.
+
+Pindi unapoingiza SIM kadi zako, zinaweza kuchukua sekunde chache kabla ya kuanza kuzitumia.}}"</string>
+    <string name="sim_setup_title">Sanidi SIM kadi</string>
+    <string name="sim_setup_select_data">Chagua SIM kadi kwa ajili ya data ya vifaa vya mkononi</string>
+    <string name="sim_setup_select_voice">Chagua SIM ya kupiga simu</string>
+    <string name="sim_setup_select_text">Chagua SIM ya SMS</string>
+    <string name="sim_setup_ask_every_time">Uliza kila wakati</string>
+    <string name="wifi_title">Chagua Wi-Fi</string>
+    <string name="wifi_skipped_title">Uwezekano wa kulipishwa kwa kutumia data</string>
+    <string name="wifi_skipped_message">Simu yako itatumia mtandao wa simu za mkononi wakati wa kuanzisha na unaweza kulipishwa kwa matumizi haya ya data. Unganisha kwenye Wi-Fi ili uepuke uwezekano wa kulipishwa.</string>
+    <string name="wifi_add_new_network">Ongeza mtandao mpya</string>
+    <string name="wifi_ip_address_title">Anwani ya IP</string>
+    <string name="wifi_ip_address_not_available">Haipatikani</string>
+    <string name="wifi_mac_address_title">Anwani ya MAC</string>
+    <string name="wifi_mac_address_not_available">Haipatikani</string>
+    <string name="network_title">Unganisha kwenye Intaneti</string>
+    <string name="network_description_text_restore_from_android_flow">Unganisha kwenye Intaneti ili unakili data kutoka kifaa chako cha Android.</string>
+    <string name="network_description_text_google_account_flow">Unganisha kwenye Intaneti ili uingie katika Akaunti yako ya Google.</string>
+    <string name="network_description_text_new_flow">Unganisha kwenye Intaneti ili uendelee kuweka mipangilio.</string>
+    <string name="network_see_all_wifi">Angalia mitandao yote ya Wi-Fi</string>
+    <string name="network_use_cellular">Tumia mitandao ya simu kuweka mipangilio</string>
+    <string name="captive_portal_sign_in_dialog_title">Muunganisho unaopatikana</string>
+    <string name="captive_portal_connection_unsuccessful">Haikuweza kuunganisha Intaneti</string>
+    <string name="ota_update_title">Sasisha simu</string>
+    <string name="ota_info">Simu yako inahitaji kupakua sasisho na kuzimwa na kuwashwa upya.</string>
+    <string name="ota_size">Ukubwa: %s</string>
+    <string name="ota_agreement_text">Kwa kuendelea na kupokea sasisho hili la programu, unakubaliana na <annotation link="tos">Sheria na Masharti ya Google</annotation> na <annotation link="google_privacy">Sera ya Faragha</annotation>.</string>
+    <string name="early_update_title">Sasisho la programu</string>
+    <string name="early_update_text">Inatafuta sasisho...</string>
+    <string name="early_update_downloading_text">Inapakua %s</string>
+    <string name="early_update_installing_text">Inasanikisha %s</string>
+    <string name="warm_sim_check_msg">Inasubiri mtandao...</string>
+    <string name="android_privacy_policy_title">Sera ya Ziada ya Faragha</string>
+    <string name="google_terms_of_service_title">Sheria na Masharti ya Google</string>
+    <string name="google_privacy_policy_title">Sera ya Google ya Faragha</string>
+    <string name="google_plus_privacy_policy_title">Sera ya Faragha ya Google Plus</string>
+    <string name="google_play_tos_title">Sheria na Masharti ya Google Play</string>
+    <string name="chrome_tos_title">Sheria na Masharti ya Chrome</string>
+    <string name="chrome_privacy_title">Ilani ya Faragha ya Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Kifaa chako cha Android hakijaunganishwa kwenye mtandao wa Wi-Fi. Ili kuona maelezo haya sasa, tembelea %s iliyo na kivinjari cha wavuti.</string>
+    <string name="continue_for_a11y">Endelea kugusa skrini mpaka utakaposikia bipu ili kuwezesha modi ya Ufikivu.</string>
+    <string name="canceled_a11y">Hali ya Ufikiaji Ulioghairiwa.</string>
+    <string name="enabled_a11y">Hali ya ufikiaji imewezeshwa.</string>
+    <string name="welcome_message">Karibu</string>
+    <string name="emergency_dial">Dharura</string>
+    <string name="welcome_accessibility_button">Mipangilio ya Mwonekano</string>
+    <string name="welcome_language_picker_dialog_title">Chagua lugha yako</string>
+    <string name="welcome_language_picker_section_suggested">Inayopendekezwa</string>
+    <string name="welcome_language_picker_section_all">Lugha zote</string>
+    <string name="welcome_language_picker_content_description">Lugha: %s</string>
+    <string name="welcome_start_button_label">Anza</string>
+    <string name="flow_choice_title">Weka mipangilio ya ^1 yako</string>
+    <string name="flow_choice_restore_summary">Rejesha nakala rudufu au nakili kutoka kifaa</string>
+    <string name="flow_choice_new_label">Weka mipangilio mipya</string>
+    <string name="restore_choice_title">Ingiza data yako kutoka...</string>
+    <string name="restore_choice_google_account_label">Akaunti yako ya Google</string>
+    <string name="restore_choice_android_device_label">Kifaa kingine cha Android</string>
+    <string name="services_activity_title">Huduma za Google</string>
+    <string name="services_backup_heading">Hifadhi rudufu</string>
+    <string name="services_location_heading">Mahali</string>
+    <string name="services_security_heading">Usalama</string>
+    <string name="services_personalization_heading">Ubinafsishaji</string>
+    <string name="services_communication_heading">Mawasiliano</string>
+    <string name="security_verify_apps_summary">Ruhusu Google ikague programu zote zilizosakinishwa kwa tabia hatari zinazoweza kupatikana ambazo zinaweza kuathiri usalama wa kifaa au data yako.</string>
+    <string name="suggested_actions_title">Ungependa kuchukua hatua nyingine?</string>
+    <string name="suggested_actions_done_label">Weka mipanglio baadaye</string>
+    <string name="restore_title">Inarejesha…</string>
+    <string name="restore_wallpaper_title">Inarejesha mandhari…</string>
+    <string name="restore_device_settings_title">Inarejesha mipangilio ya kifaa…</string>
+    <string name="restore_launcher_title">Inarejesha kifungua programu…</string>
+    <string name="restore_failed_message">Haikuweza kurejesha kutoka hifadhi rudufu.</string>
+    <string name="restore_no_backup_message">Hakuna hifadhi rudufu zinazopatikana kwenye kifaa cha mwanzo.</string>
+    <string name="restore_stopped_message">Kwa bahati mbaya, kifaa kiliacha kurejesha data kutoka hifadhi rudufu.</string>
+    <string name="name_title">Jina</string>
+    <string name="name_text">Kuweka jina lako huiwezesha simu yako kuweka mipangilio ya kufanya baadhi ya programu zikutaje kwa jina.</string>
+    <string name="name_display_name_label">Jina</string>
+    <string name="name_display_name_hint">mfano Joe Smith</string>
+    <string name="cant_be_blank">Sehemu haiwezi kuwa tupu.</string>
+    <string name="device_owner_warning_title">Simu inaweza kufuatiliwa</string>
+    <string name="device_owner_warning">Simu hii inadhibitiwa na “%1$s”, inayomaanisha baadhi ya maelezo yako yanaweza kuonekana kwa watu wengine. Kuzuia ufuatiliaji, rejesha mipangilio ambayo simu ilitoka nayo kiwandani.</string>
+    <string name="device_owner_continue">Endelea</string>
+    <string name="device_owner_reset">Rejesha mipangilio ambayo simu ilitoka nayo kiwandani</string>
+    <string name="factory_reset_title">Rejesha mipangilio ambayo simu ilitoka nayo kiwandani</string>
+    <string name="factory_reset_instructions">Tahadhari: Kurejesha mipangilio iliyotoka nayo kiwandani kutafuta akaunti na data yote kwenye hifadhi ya mfumo ya simu hii.</string>
+    <string name="factory_reset_confirmation_title">Ungependa kurejesha mipangilio iliyotoka nayo kiwandani?</string>
+    <string name="factory_reset_confirmation">Ungependa kufuta akaunti na data yote kwenye simu hii? Huwezi kutendua kitendo hiki!</string>
+    <string name="factory_reset_button">Futa data yote na Urejeshe mipangilio iliyotoka nayo kiwandani</string>
+    <string name="restart_setup_wizard_dialog_title">Hujaingia</string>
+    <string name="restart_setup_wizard_dialog_text">"Ili utumie simu hii, unapaswa kwanza uingie katika Akaunti ya Google ya mmiliki iliyokuwa inatumika kwenye simu hii mara ya mwisho ilipowekwa upya.
+
+Kwa kuwa hujafanya hivyo, inabidi usanidi simu tena."</string>
+    <string name="restart_setup_wizard_button_label">Sanidi simu</string>
+    <string name="user_warning_radio_continue">Endelea</string>
+    <string name="user_warning_radio_quit">Ghairi na uondoe mtumiaji mpya</string>
+    <string name="user_warning_title">Mwongeze mtumiaji mpya</string>
+    <string name="welcome_secondary_user_added_text">%s amekuongeza kwenye simu hii.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Umeongezwa kwenye simu hii.</string>
+    <string name="welcome_secondary_user_info_text"><b>Muhimu:</b>"
+
+"<li><ul>Mmiliki wa simu anaweza kuondoa programu au kuondoa nafasi yako kabisa.</ul></li>"
+
+"<li><ul>Mtumiaji mwingine yeyote anaweza kukubali ruhusa za programu iliyosasishwa kwa niaba yako.</ul></li>"
+
+"<li><ul>Kama kompyuta yoyote ile, unapaswa kushiriki simu hii na watu unaowaamini pekee. </ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Muhimu:</b>"
+
+ "<li><ul>Mmiliki wa simu hii anaweza kusakinisha na kuondoa programu, kuweka mipaka, au kuondoa nafasi yako kabisa.</ul></li>"
+
+ "<li><ul>Mtumiaji mwingine yeyote anaweza kukubali ruhusa za programu iliyosasishwa kwa niaba yako.</ul></li>"
+
+ "<li><ul>Kama kompyuta yoyote ile, unapaswa kushiriki simu hii na watu unaowaamini pekee. </ul></li></string>
+    <string name="qr_dependencies_check_title">Inasakinisha kisomaji cha QR...</string>
+    <string name="qr_dependencies_check_timeout_text">Hatua hii inaweza kuchukua hadi dakika 2.</string>
+    <string name="download_qr_dependencies_failed_content">Haikuweza kusakinisha kisomaji cha QR</string>
+    <string name="check_qr_dependencies_again">Jaribu tena</string>
+    <string name="qr_provision_user_consent_title">Kuweka mipangilio ya msimbo wa QR</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"Ili kuweka mipangilio kwenye kifaa hiki kwa ajili ya shirika lako, utahitaji kwanza kuunganisha kwenye mtandao na upakue kisomaji cha QR.
+
+Kisha, tumie kamera kupiga picha msimbo wa QR wa shirika lako."</string>
+    <string name="invalid_qr_code_title">Msimbo wa QR haukufanya kazi</string>
+    <string name="invalid_qr_code_content">Hakikisha kuwa una msimbo sahihi wa QR kwa shirika lako, na ujaribu tena.</string>
+    <string name="invalid_qr_code_retry">Jaribu tena</string>
+    <string name="switch_camera">Badilisha kamera</string>
+    <string name="exit_loading_launcher">Inapakia kifungua programu…</string>
+    <string name="restore_choice_footer_dialog">"Kama umewahi kuingia katika akaunti ya huduma yoyote ya Google (kama vile Gmail au YouTube), tayari umefungua Akaunti ya Google. 
+
+Unaweza kutumia maelezo ya akaunti hiyo, kama vile nambari ya simu au jina la mtumiaji na nenosiri, ili kuingia katika akaunti hii."</string>
+</resources>

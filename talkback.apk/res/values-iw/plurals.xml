@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">‏%.2f שניות</item>
+        <item quantity="one">שנייה אחת</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">‏%d תוויות עודכנו</item>
+        <item quantity="zero">אין תוויות חדשות</item>
+        <item quantity="one">תווית אחת עודכנה</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">‏הוקצו %d מקשים</item>
+        <item quantity="one">‏הוקצה מקש %d</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s עם %2$d פריטים.</item>
+        <item quantity="one">%1$s עם %2$d פריטים.</item>
+    </plurals>
+</resources>

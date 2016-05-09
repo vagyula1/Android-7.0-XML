@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>оповещение</item>
+        <item>Эл. почта</item>
+        <item>SMS</item>
+        <item>Будильник</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>0 минут</item>
+        <item>1 мин.</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часов</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Может быть</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>посл.</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ответа пока нет</item>
+        <item>пойдут</item>
+        <item>ответили \"Может быть\"</item>
+        <item>не пойдут</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Это мероприятие</item>
+        <item>Все последующие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это мероприятие</item>
+        <item>Все мероприятия в серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Расписание</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Занят(а)</item>
+        <item>Не занят(а)</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Помидор</item>
+        <item>Мандарин</item>
+        <item>Тыква</item>
+        <item>Манго</item>
+        <item>Банан</item>
+        <item>Лимон</item>
+        <item>Авокадо</item>
+        <item>Фисташка</item>
+        <item>Базилик</item>
+        <item>Эвкалипт</item>
+        <item>Шалфей</item>
+        <item>Павлин</item>
+        <item>Кобальт</item>
+        <item>Черника</item>
+        <item>Лаванда</item>
+        <item>Глициния</item>
+        <item>Аметист</item>
+        <item>Виноград</item>
+        <item>Радиккио</item>
+        <item>Цветущая вишня</item>
+        <item>Фламинго</item>
+        <item>Какао</item>
+        <item>Графит</item>
+        <item>Береза</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Задерживаюсь на пару минут.</item>
+        <item>Буду примерно через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>Не успеваю. Придется перенести.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Центр. Австралия – Сев. терр.</item>
+        <item>Центр. Австралия – Юж. Австралия</item>
+        <item>Восточная Австралия – Квинсленд</item>
+        <item>Вост. Австралия – Нов. Юж. Уэльс</item>
+        <item>Горное стандартное – Досон-Крик</item>
+        <item>Средне-амер. станд. – Саскачеван</item>
+        <item>Восточно-амер. станд. – Атикокан</item>
+        <item>Атлантическое станд. – Квебек</item>
+        <item>Гавайи и Алеуты – Гавайские о-ва</item>
+        <item>Гавайи и Алеуты – Аляска</item>
+        <item>Тихоокеанск. станд. – Метлакатла</item>
+        <item>Горное стандартное – Аризона</item>
+        <item>Тихоокеанское – Нижн. Калифорния</item>
+        <item>Горное – Чиуауа</item>
+        <item>Центральное – Тамаулипас</item>
+        <item>Горное – Сонора</item>
+        <item>Восточноафриканское время</item>
+        <item>Атлантическое стандартное время</item>
+        <item>Атлантическое стандартное время</item>
+        <item>Восточноевропейское время</item>
+        <item>Время Калининграда</item>
+        <item>Амазонское – Рондония</item>
+        <item>Бразилия – Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт-Мартен</item>
+        <item>Карибские Нидерланды</item>
+        <item>Кюрасао</item>
+        <item>Южный Судан</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ЕЖЕДНЕВНО</item>
+        <item>ЕЖЕНЕДЕЛЬНО</item>
+        <item>ЕЖЕМЕСЯЧНО</item>
+        <item>ЕЖЕГОДНО</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Не повторяется</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+        <item>Каждый год</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>первое воскресенье месяца</item>
+        <item>второе воскресенье месяца</item>
+        <item>третье воскресенье месяца</item>
+        <item>четвертое воскресенье месяца</item>
+        <item>последнее воскресенье месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>первый понедельник месяца</item>
+        <item>второй понедельник месяца</item>
+        <item>третий понедельник месяца</item>
+        <item>четвертый понедельник месяца</item>
+        <item>последний понедельник месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>первый вторник месяца</item>
+        <item>второй вторник месяца</item>
+        <item>третий вторник месяца</item>
+        <item>четвертый вторник месяца</item>
+        <item>последний вторник месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>первая среда месяца</item>
+        <item>вторая среда месяца</item>
+        <item>третья среда месяца</item>
+        <item>четвертая среда месяца</item>
+        <item>последняя среда месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>первый четверг месяца</item>
+        <item>второй четверг месяца</item>
+        <item>третий четверг месяца</item>
+        <item>четвертый четверг месяца</item>
+        <item>последний четверг месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>первая пятница месяца</item>
+        <item>вторая пятница месяца</item>
+        <item>третья пятница месяца</item>
+        <item>четвертая пятница месяца</item>
+        <item>последняя пятница месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>первая суббота месяца</item>
+        <item>вторая суббота месяца</item>
+        <item>третья суббота месяца</item>
+        <item>четвертая суббота месяца</item>
+        <item>последняя суббота месяца</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Календарь</item>
+        <item>Наглядное представление мероприятий</item>
+        <item>Быстрое и удобное заполнение календаря</item>
+        <item>Мероприятия из Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Проводите каждый день с пользой.</item>
+        <item>В режиме \"Расписание\" доступны фотографии и карты мест, которые вы собираетесь посетить.</item>
+        <item>Пользуйтесь подсказками при вводе названий, выборе мест проведения или гостей создаваемых вами мероприятий.</item>
+        <item>Авиарейсы, заказы столиков и другие данные автоматически добавляются из Gmail.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Используются данные о местоположении устройства.</item>
+        <item></item>
+        <item>Параметры можно изменить в настройках.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Добавьте участников и контактную информацию</item>
+        <item>{LOCATION_ICON} Добавьте место проведения мероприятия и опишите, как до него добраться</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Участники</item>
+        <item>Добавьте участников и контактную информацию</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}При добавлении контактов приглашения не отправляются</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Место проведения</item>
+        <item>Добавьте место проведения мероприятия и опишите, как до него добраться</item>
+    </string-array>
+</resources>

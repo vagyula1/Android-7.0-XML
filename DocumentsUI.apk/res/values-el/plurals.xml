@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Αντιγραφή %1$d αρχείων.</item>
+        <item quantity="one">Αντιγραφή %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Μετακίνηση %1$d αρχείων.</item>
+        <item quantity="one">Μετακίνηση %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Διαγραφή %1$d αρχείων.</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Δεν ήταν δυνατή η αντιγραφή %1$d αρχείων</item>
+        <item quantity="one">Δεν ήταν δυνατή η αντιγραφή %1$d αρχείου</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Δεν ήταν δυνατή η μετακίνηση %1$d αρχείων</item>
+        <item quantity="one">Δεν ήταν δυνατή η μετακίνηση %1$d αρχείου</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Δεν ήταν δυνατή η διαγραφή %1$d αρχείων</item>
+        <item quantity="one">Δεν ήταν δυνατή η διαγραφή %1$d αρχείου</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d αρχεία αντιγράφηκαν στο πρόχειρο.</item>
+        <item quantity="one">%1$d αρχείο αντιγράφηκε στο πρόχειρο.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Να διαγραφούν %1$d αρχεία;</item>
+        <item quantity="one">Να διαγραφεί %1$d αρχείο;</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Να διαγραφούν %1$d φάκελοι και τα περιεχόμενά τους;</item>
+        <item quantity="one">Να διαγραφεί %1$d φάκελος και τα περιεχόμενά του;</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Να διαγραφούν %1$d στοιχεία;</item>
+        <item quantity="one">Να διαγραφεί %1$d στοιχείο;</item>
+    </plurals>
+</resources>

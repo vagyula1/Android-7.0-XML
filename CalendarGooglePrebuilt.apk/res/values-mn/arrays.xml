@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>мэдэгдэл</item>
+        <item>имэйл</item>
+        <item>SMS</item>
+        <item>сэрүүлэг</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Байхгүй</item>
+        <item>0 минут</item>
+        <item>1 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 цаг</item>
+        <item>2 цаг</item>
+        <item>3 цаг</item>
+        <item>12 цаг</item>
+        <item>24 цаг</item>
+        <item>2 өдөр</item>
+        <item>1 долоо хоног</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Бямба</item>
+        <item>Ням</item>
+        <item>Даваа</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Завгүй</item>
+        <item>Холбогдсон</item>
+        <item>Урьдчилсан</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>эхний</item>
+        <item>хоёрдох</item>
+        <item>гуравдах</item>
+        <item>дөрөвдэх</item>
+        <item>сүүлийн</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>хараахан хариулаагүй</item>
+        <item>очно</item>
+        <item>магадгүй</item>
+        <item>очихгүй</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Энэ үйл явдал</item>
+        <item>Дараагийн бүх үйл явдлууд</item>
+        <item>Бүх үйл явдал</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Энэ &amp; цаашдын үйл явдлууд</item>
+        <item>Бүх үйл явдал</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Зөвхөн энэ үйл явдал</item>
+        <item>Дараалсан бүх үйл явдал</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Өдөр</item>
+        <item>7 хоног</item>
+        <item>Сар</item>
+        <item>Хөтөлбөр</item>
+        <item>Цагаар</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Завгүй</item>
+        <item>Боломжтой</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Улаан лооль</item>
+        <item>Мандарин</item>
+        <item>Хулуу</item>
+        <item>Манго</item>
+        <item>Банана</item>
+        <item>Нимбэг</item>
+        <item>Авокадо</item>
+        <item>Пистачио</item>
+        <item>Базил</item>
+        <item>Евкалиптус</item>
+        <item>Сэйж</item>
+        <item>Тогос</item>
+        <item>Кобальт</item>
+        <item>Нэрс</item>
+        <item>Лавендер</item>
+        <item>Вистериа</item>
+        <item>Аметист</item>
+        <item>Усан үзмэн</item>
+        <item>Радикио</item>
+        <item>Интоор</item>
+        <item>Фламинго</item>
+        <item>Какао</item>
+        <item>Графит</item>
+        <item>Хусан</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Хэдхэн минут хоцорч байна.</item>
+        <item>10 минут дараа тэнд очно уу.</item>
+        <item>Надгүйгээр эхлүүлж байна уу.</item>
+        <item>Уучлаарай, би амжихааргүй боллоо. Уулзалтаа дахин товлоё.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Календарь</item>
+        <item>Хайхад хялбар ба харахад гоё</item>
+        <item>Өөрийн хуанлид шуурхай, хялбар бөглөх</item>
+        <item>Gmail дээрх арга хэмжээ</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Өдөр бүрийг дээд зэргийн болгох</item>
+        <item>Таны хуанли дээр зураг, газрын зургийг хуваарийн дүрслэл нь тавина</item>
+        <item>Туслалцаатайгаар бичих үед харагдах хэргэм, холбоо барих хаяг, байршилд зориулсан зөвлөмжүүд.</item>
+        <item>Нислэг, ресторан болон бусад зүйлсийн захиалга имэйлээс автоматаар нэмэгдэх болно.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Төхөөрөмжийн байршлыг ашигладаг.</item>
+        <item></item>
+        <item>Та үүнийг Тохиргоо дотроос өөрчлөх боломжтой.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Хүмүүсийг нэмж, холбоо барих мэдээллийг авна уу</item>
+        <item>{LOCATION_ICON} Газрыг нэмж, чиглэлийн мэдээллийг авна уу</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Оролцогч сонгох</item>
+        <item>Хүмүүсийг нэмж, холбоо барих мэдээллийг авна уу</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Харилцагчдыг нэмэхэд урилга илгээхгүй</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Байршил сонгох</item>
+        <item>Байршлыг нэмж, чиглэлийн мэдээллийг авна уу</item>
+    </string-array>
+</resources>

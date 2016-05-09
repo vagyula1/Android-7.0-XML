@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">جارٍ إيقاف التشغيل خلال %d من الثواني…</item>
+        <item quantity="zero">جارٍ إيقاف التشغيل خلال أقل من ثانية (%d)…</item>
+        <item quantity="one">جارٍ إيقاف التشغيل خلال ثانية واحدة…</item>
+        <item quantity="two">جارٍ إيقاف التشغيل خلال ثانيتين (%d)…</item>
+        <item quantity="few">جارٍ إيقاف التشغيل خلال %d ثوانٍ…</item>
+        <item quantity="many">جارٍ إيقاف التشغيل خلال %d ثانية…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"الحسابات التالية جاهزة:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="zero">"الحسابات التالية جاهزة:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"الحساب التالي جاهز:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="two">"الحسابان التاليان جاهزان:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"الحسابات التالية جاهزة:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"الحسابات التالية جاهزة:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">‏%d نقرة متبقية لبدء إعداد رمز الاستجابة السريعة</item>
+        <item quantity="zero">‏%d نقرة متبقية لبدء إعداد رمز الاستجابة السريعة</item>
+        <item quantity="one">‏%d نقرة متبقية لبدء إعداد رمز الاستجابة السريعة</item>
+        <item quantity="two">‏نقرتان (%d) متبقيتان لبدء إعداد رمز الاستجابة السريعة</item>
+        <item quantity="few">‏%d نقرات متبقية لبدء إعداد رمز الاستجابة السريعة</item>
+        <item quantity="many">‏%d نقرة متبقية لبدء إعداد رمز الاستجابة السريعة</item>
+    </plurals>
+</resources>

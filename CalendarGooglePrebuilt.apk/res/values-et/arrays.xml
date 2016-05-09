@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>märguanne</item>
+        <item>e-post</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Puudub</item>
+        <item>0 minutit</item>
+        <item>1 minut</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>15 minutit</item>
+        <item>20 minutit</item>
+        <item>25 minutit</item>
+        <item>30 minutit</item>
+        <item>45 minutit</item>
+        <item>1 tund</item>
+        <item>2 tundi</item>
+        <item>3 tundi</item>
+        <item>12 tundi</item>
+        <item>24 tundi</item>
+        <item>2 päeva</item>
+        <item>1 nädal</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Laupäev</item>
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Hõivatud</item>
+        <item>Saadaval</item>
+        <item>Katseline</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>esimene</item>
+        <item>sekund</item>
+        <item>kolmas</item>
+        <item>neljas</item>
+        <item>viimane</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>ei ole veel vastanud</item>
+        <item>osaleb</item>
+        <item>võib-olla</item>
+        <item>ei osale</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>See sündmus</item>
+        <item>Kõik järgmised sündmused</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>See ja tulevased sündmused</item>
+        <item>Kõik sündmused</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ainult see sündmus</item>
+        <item>Kõik seerias olevad sündmused</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Päev</item>
+        <item>Nädal</item>
+        <item>Kuu</item>
+        <item>Ajakava</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Hõivatud</item>
+        <item>Saadaval</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomat</item>
+        <item>Mandariin</item>
+        <item>Kõrvits</item>
+        <item>Mango</item>
+        <item>Banaan</item>
+        <item>Sidrun</item>
+        <item>Avokaado</item>
+        <item>Pistaatsia</item>
+        <item>Basiilika</item>
+        <item>Eukalüpt</item>
+        <item>Salvei</item>
+        <item>Paabulind</item>
+        <item>Koobalt</item>
+        <item>Mustikas</item>
+        <item>Lavendel</item>
+        <item>Sirel</item>
+        <item>Ametüst</item>
+        <item>Viinamari</item>
+        <item>Redis</item>
+        <item>Kirsiõis</item>
+        <item>Flamingo</item>
+        <item>Kakao</item>
+        <item>Grafiit</item>
+        <item>Kask</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Jääb paar minutit hiljaks.</item>
+        <item>Olge umbes 10 minuti pärast valmis.</item>
+        <item>Alusta ilma minuta.</item>
+        <item>Kahjuks ma ei jõua. Peame ajakava üle vaatama.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>"Google'i kalender"</item>
+        <item>Lihtne sirvida ja ilus vaadata</item>
+        <item>Kalendri täitmine lihtsalt ja kiiresti</item>
+        <item>Gmailist pärinevad sündmused</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Kasutage iga päeva maksimaalselt.</item>
+        <item>Ajakava kuva lisab kalendrisse kujutisi ja kaarte.</item>
+        <item>Funktsioon Abi pakub teksti sisestamise ajal pealkirjade, kontaktide ja asukohtade soovitusi.</item>
+        <item>Lennubroneeringud, restorani reserveeringud ja muu lisatakse automaatselt meilidest.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Kasutab seadme asukohta.</item>
+        <item></item>
+        <item>Seda saab muuta menüüs Seaded.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Lisage inimesi, hankige kontaktandmed</item>
+        <item>{LOCATION_ICON} Lisage kohti, hankige juhised</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Kellega?</item>
+        <item>Lisage keegi, hankige kontaktandmed</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Kontaktide lisamisel kutset ei saadeta</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Kus?</item>
+        <item>Lisage asukoht, hankige juhised</item>
+    </string-array>
+</resources>

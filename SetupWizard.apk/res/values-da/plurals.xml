@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Lukker ned om %d sekunder…</item>
+        <item quantity="one">Lukker ned om %d sekunder…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Følgende konti er klar: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Følgende konto er klar: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d tryk mere for at starte konfigurationen af QR-koden</item>
+        <item quantity="one">%d tryk mere for at starte konfigurationen af QR-koden</item>
+    </plurals>
+</resources>

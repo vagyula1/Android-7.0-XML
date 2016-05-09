@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DocumentsTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fitsSystemWindows">false</item>
+        <item name="android:listDivider">@android:drawable/list_divider_material</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateUnspecified</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="actionBarPopupTheme">@style/ActionBarPopupTheme</item>
+        <item name="actionBarTheme">@style/ActionBarTheme</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="colorActionMode">@color/action_mode</item>
+    </style>
+</resources>

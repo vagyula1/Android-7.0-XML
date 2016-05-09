@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">សម្រាប់%dព្រឹត្តិការណ៍</item>
+        <item quantity="one">សម្រាប់%dព្រឹត្តិការណ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">រៀងរាល់ %d ថ្ងៃ</item>
+        <item quantity="one">រៀងរាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">រៀងរាល់ %d សប្ដាហ៍</item>
+        <item quantity="one">រៀងរាល់ %d សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">រៀងរាល់ %d ខែ</item>
+        <item quantity="one">រៀងរាល់ %d ខែ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">រៀងរាល់ %d ឆ្នាំ</item>
+        <item quantity="one">រៀងរាល់ %d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; សម្រាប់ %d ដង</item>
+        <item quantity="one">; សម្រាប់​ម្ដង</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">ប្រចាំ​ថ្ងៃ</item>
+        <item quantity="two">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="few">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="many">រៀង​រាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">ប្រចាំ​ថ្ងៃ</item>
+        <item quantity="two">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="few">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="many">រៀង​រាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="one">រៀងរាល់​​សប្ដាហ៍​នៅ %2$s</item>
+        <item quantity="two">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="few">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="many">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="one">រាល់​សប្ដាហ៍​នៅ %2$s</item>
+        <item quantity="two">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="few">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="many">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="one">រាល់ខែ</item>
+        <item quantity="two">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="few">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="many">រៀង​រាល់ %1$d ខែ</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="one">រាល់​​ខែ</item>
+        <item quantity="two">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="few">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="many">រៀង​រាល់ %1$d ខែ</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="one">រាល់​ឆ្នាំ</item>
+        <item quantity="two">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="few">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="many">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="one">រាល់​ឆ្នាំ</item>
+        <item quantity="two">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="few">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="many">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+    </plurals>
+</resources>

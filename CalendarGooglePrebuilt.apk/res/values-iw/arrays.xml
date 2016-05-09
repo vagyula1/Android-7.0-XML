@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>התראה</item>
+        <item>אימייל</item>
+        <item>SMS</item>
+        <item>התראה</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ללא</item>
+        <item>0 דקות</item>
+        <item>דקה אחת</item>
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>30 דקות</item>
+        <item>45 דקות</item>
+        <item>שעה אחת</item>
+        <item>שעתיים</item>
+        <item>3 שעות</item>
+        <item>12 שעות</item>
+        <item>24 שעות</item>
+        <item>יומיים</item>
+        <item>שבוע אחד</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>יום שבת</item>
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+    </string-array>
+    <string-array name="availability">
+        <item>לא פנוי</item>
+        <item>זמין</item>
+        <item>לא סופי</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>אחרון</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>טרם הגיבו</item>
+        <item>משתתף</item>
+        <item>אולי</item>
+        <item>לא משתתף</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>האירוע הזה</item>
+        <item>כל האירועים הבאים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>אירוע זה ואירועים עתידיים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>אירוע זה בלבד</item>
+        <item>כל האירועים בסדרה</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>יום</item>
+        <item>שבוע</item>
+        <item>חודש</item>
+        <item>סדר יום</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>לא פנוי</item>
+        <item>זמין</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>עגבניה</item>
+        <item>מנדרינה</item>
+        <item>דלעת</item>
+        <item>מנגו</item>
+        <item>בננה</item>
+        <item>אתרוג</item>
+        <item>אבוקדו</item>
+        <item>פיסטוק</item>
+        <item>ריחן</item>
+        <item>אקליפטוס</item>
+        <item>דשא</item>
+        <item>טווס</item>
+        <item>כחול</item>
+        <item>אוכמניות</item>
+        <item>לבנדר</item>
+        <item>וויסטריה</item>
+        <item>אחלמה</item>
+        <item>סגול</item>
+        <item>צנונית</item>
+        <item>פריחת דובדבן</item>
+        <item>פלמינגו</item>
+        <item>קקאו</item>
+        <item>גרפיט</item>
+        <item>ליבנה</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>אאחר רק בכמה דקות.</item>
+        <item>אגיע בערך עוד 10 דקות.</item>
+        <item>תתחילו בלעדי.</item>
+        <item>סליחה, לא אצליח להגיע. נצטרך לקבוע מועד חדש.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>מרכז אוסטרליה - NT</item>
+        <item>מרכז אוסטרליה - SA</item>
+        <item>מזרח אוסטרליה - QLD</item>
+        <item>מזרח אוסטרליה - NSW</item>
+        <item>תקני הרים - דאוסון קריק</item>
+        <item>"תקני מרכז - ססקצ'ואן"</item>
+        <item>תקני מזרחי - אטיקוקן</item>
+        <item>תקני אטלנטי - קוויבק</item>
+        <item>הוואי-אלאוטיים - הוואי</item>
+        <item>הוואי-אלאוטיים - אלסקה</item>
+        <item>תקני פסיפי - מטלקטלה</item>
+        <item>תקני הרים - אריזונה</item>
+        <item>פסיפי - באחה קליפורניה</item>
+        <item>"הרים - צ'יוואווה"</item>
+        <item>מרכזי - טמאוליפס</item>
+        <item>הרים - סונורה</item>
+        <item>שעון מזרח אפריקה</item>
+        <item>שעון תקני אטלנטי</item>
+        <item>שעון תקני אטלנטי</item>
+        <item>שעון מזרח אירופה</item>
+        <item>שעון קלינינגרד</item>
+        <item>אמזונס - רונדוניה</item>
+        <item>ברזיל - פארה</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>סינט מארטן</item>
+        <item>האיים הקריביים ההולנדיים</item>
+        <item>קוראסאו</item>
+        <item>דרום סודן</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>חוזר מדי יום</item>
+        <item>חוזר מדי שבוע</item>
+        <item>חוזר מדי חודש</item>
+        <item>חוזר מדי שנה</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>אינו חוזר</item>
+        <item>כל יום</item>
+        <item>כל שבוע</item>
+        <item>כל חודש</item>
+        <item>כל שנה</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>בכל יום ראשון הראשון בכל חודש</item>
+        <item>בכל יום ראשון השני בכל חודש</item>
+        <item>בכל יום ראשון השלישי בכל חודש</item>
+        <item>בכל יום ראשון הרביעי בכל חודש</item>
+        <item>בכל יום ראשון האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>בכל יום שני הראשון בכל חודש</item>
+        <item>בכל יום שני השני בכל חודש</item>
+        <item>בכל יום שני השלישי בכל חודש</item>
+        <item>בכל יום שני הרביעי בכל חודש</item>
+        <item>בכל יום שני האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>בכל יום שלישי הראשון בכל חודש</item>
+        <item>בכל יום שלישי השני בכל חודש</item>
+        <item>בכל יום שלישי השלישי בכל חודש</item>
+        <item>בכל יום שלישי הרביעי בכל חודש</item>
+        <item>בכל יום שלישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>בכל יום רביעי הראשון בכל חודש</item>
+        <item>בכל יום רביעי השני בכל חודש</item>
+        <item>בכל יום רביעי השלישי בכל חודש</item>
+        <item>בכל יום רביעי הרביעי בכל חודש</item>
+        <item>בכל יום רביעי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>בכל יום חמישי הראשון בכל חודש</item>
+        <item>בכל יום חמישי השני בכל חודש</item>
+        <item>בכל יום חמישי השלישי בכל חודש</item>
+        <item>בכל יום חמישי הרביעי בכל חודש</item>
+        <item>בכל יום חמישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>בכל יום שישי הראשון בכל חודש</item>
+        <item>בכל יום שישי השני בכל חודש</item>
+        <item>בכל יום שישי השלישי בכל חודש</item>
+        <item>בכל יום שישי הרביעי בכל חודש</item>
+        <item>בכל יום שישי האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>בכל יום שבת הראשון בכל חודש</item>
+        <item>בכל יום שבת השני בכל חודש</item>
+        <item>בכל יום שבת השלישי בכל חודש</item>
+        <item>בכל יום שבת הרביעי בכל חודש</item>
+        <item>בכל יום שבת האחרון בכל חודש</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>‏היומן של Google</item>
+        <item>נוח להתמצאות ויפה לעין</item>
+        <item>מלא את היומן שלך במהירות ובקלות</item>
+        <item>‏אירועים מ-Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>הפק את המרב מכל יום.</item>
+        <item>תצוגת לוח הזמנים מוסיפה תמונות ומפות ליומן שלך.</item>
+        <item>בעזרת אסיסטים, יופיעו בזמן ההקלדה הצעות לכותרות, אנשי קשר ומקומות.</item>
+        <item>הזמנות לטיסות, מסעדות ועוד, נוספות באופן אוטומטי מתוך הודעות אימייל.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>משתמש במיקום המכשיר.</item>
+        <item></item>
+        <item>"ניתן לשנות זאת ב'הגדרות'."</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} הוסף אנשים, קבל פרטים ליצירת קשר</item>
+        <item>{LOCATION_ICON} הוסף מקומות, קבל מסלולים</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>עם מי?</item>
+        <item>הוסף מישהו, קבל פרטים ליצירת קשר</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}הוספת אנשי קשר לא תגרום לשליחת הזמנה</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>היכן?</item>
+        <item>הוסף מיקום, קבל מסלול</item>
+    </string-array>
+</resources>

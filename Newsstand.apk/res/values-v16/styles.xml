@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionMessageIcon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="bindDrawable">@id/ActionMessage_iconDrawable</item>
+        <item name="editModeDrawable">@drawable/ic_empty_error</item>
+        <item name="forceLayoutOnSetDrawable">true</item>
+    </style>
+    <style name="CalloutOverlayAction">
+        <item name="android:textSize">@dimen/callout_overlay_subtitle</item>
+        <item name="android:textColor">@color/play_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/callout_action_button_background</item>
+        <item name="android:paddingLeft">@dimen/callout_overlay_action_side_padding</item>
+        <item name="android:paddingRight">@dimen/callout_overlay_action_side_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/callout_overlay_action_height</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="accessibilityClassOverride">button</item>
+    </style>
+    <style name="CalloutOverlaySubtitle">
+        <item name="android:textSize">@dimen/callout_overlay_subtitle</item>
+        <item name="android:textColor">@color/callout_overlay_subtitle_text</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">@dimen/callout_overlay_subtitle_top_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">6</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="CalloutOverlayTitle">
+        <item name="android:textSize">@dimen/callout_overlay_title</item>
+        <item name="android:textColor">@color/play_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">@dimen/callout_overlay_title_top_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="CardActionButtonText" parent="@style/PlayCardAction">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">@dimen/card_inner_content_padding</item>
+        <item name="android:paddingRight">@dimen/card_inner_content_padding</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/card_action_button_height</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+    <style name="CardArticleItemText.ImageAttribution" parent="@style/CardArticleItemText">
+        <item name="android:textSize">10.0sp</item>
+        <item name="android:textColor">@color/card_time_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="bind__editModeText">Photo by Joe P. Photographer</item>
+        <item name="bindText">@id/CardArticleItem_imageAttribution</item>
+        <item name="bindVisibility">@id/CardArticleItem_imageAttribution</item>
+        <item name="font">LIGHT_SANS</item>
+    </style>
+    <style name="CardViewGroup.NoPadding" parent="@style/PlayCardViewGroup">
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:foreground">@drawable/card_overlay_darken</item>
+        <item name="android:importantForAccessibility">yes</item>
+        <item name="layout_flmStyle">@style/FlowLayoutManager_Layout_Default</item>
+        <item name="playCardElevation">0.0dip</item>
+        <item name="playCardInset">0.0dip</item>
+    </style>
+    <style name="CardViewGroup.Padded" parent="@style/PlayCardViewGroup">
+        <item name="android:foreground">@drawable/card_overlay_darken</item>
+        <item name="android:importantForAccessibility">yes</item>
+        <item name="layout_flmStyle">@style/FlowLayoutManager_Layout_Default</item>
+        <item name="playCardBackgroundColor">@color/card_background</item>
+        <item name="playCardClipToOutline">true</item>
+    </style>
+    <style name="LetterIcon">
+        <item name="android:textSize">@dimen/letter_icon_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:contentDescription">@null</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="bind__editModeText">S</item>
+        <item name="editModeDrawable">@color/card_background_purple</item>
+        <item name="font">ROBOTO_SLAB</item>
+    </style>
+    <style name="MoleculeText">
+        <item name="android:textSize">@dimen/molecule__textSizeMd</item>
+        <item name="android:textColor">@color/molecule__textColorDark</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+    <style name="PlayCondensedText">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="PlayGridBoldText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PlayLightText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlayPlainText">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ShelfButton">
+        <item name="android:textSize">@dimen/shelf_button_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@drawable/shelf_button_background</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lines">1</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="accessibilityClassOverride">button</item>
+    </style>
+    <style name="PlayDrawerDownloadToggle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:textOn">" "</item>
+        <item name="android:textOff">" "</item>
+        <item name="android:switchMinWidth">56.0dip</item>
+    </style>
+</resources>

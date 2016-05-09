@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AudioSeekBar">
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/audio_progress</item>
+        <item name="android:progressDrawable">@drawable/audio_progress</item>
+        <item name="android:minHeight">4.0dip</item>
+        <item name="android:thumb">@drawable/seekbar_thumb</item>
+        <item name="android:thumbOffset">16.0dip</item>
+        <item name="android:mirrorForRtl">true</item>
+    </style>
+</resources>

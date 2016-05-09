@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f seconden</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d labels geüpdatet</item>
+        <item quantity="zero">Geen nieuwe labels</item>
+        <item quantity="one">1 label geüpdatet</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d sleutels toegewezen</item>
+        <item quantity="one">%d sleutel toegewezen</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s met %2$d weergegeven items.</item>
+        <item quantity="one">%1$s met %2$d weergegeven item.</item>
+    </plurals>
+</resources>

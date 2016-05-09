@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notificare</item>
+        <item>e-mail</item>
+        <item>SMS</item>
+        <item>alarmă</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Niciunul</item>
+        <item>0 minute</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>12 ore</item>
+        <item>24 de ore</item>
+        <item>2 zile</item>
+        <item>1 săptămână</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+        <item>Luni</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupat</item>
+        <item>Disponibil</item>
+        <item>Tentativă</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primul</item>
+        <item>al doilea</item>
+        <item>al treilea</item>
+        <item>al patrulea</item>
+        <item>ultimul</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>răspuns în așteptare</item>
+        <item>răspuns afirmativ</item>
+        <item>poate</item>
+        <item>răspuns negativ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Acest eveniment</item>
+        <item>Toate evenimentele viitoare</item>
+        <item>Toate evenimentele</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Acesta şi evenimentele viitoare</item>
+        <item>Toate evenimentele</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Doar acest eveniment</item>
+        <item>Toate evenimentele din serie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Zi</item>
+        <item>Săptămână</item>
+        <item>Lună</item>
+        <item>Agendă</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Ocupat(ă)</item>
+        <item>Disponibil(ă)</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Roșu-tomat</item>
+        <item>Tangerină</item>
+        <item>Dovleac</item>
+        <item>Mango</item>
+        <item>Banană</item>
+        <item>Lămâie</item>
+        <item>Avocado</item>
+        <item>Verde-fistic</item>
+        <item>Verde-busuioc</item>
+        <item>Verde-eucalipt</item>
+        <item>Salvie</item>
+        <item>Păun</item>
+        <item>Albastru-cobalt</item>
+        <item>Albastru-afină</item>
+        <item>Lavandă</item>
+        <item>Violet-glicină</item>
+        <item>Violet-ametist</item>
+        <item>Violet-strugure</item>
+        <item>Radicchio</item>
+        <item>Flori de cireș</item>
+        <item>Flamingo</item>
+        <item>Maro-cacao</item>
+        <item>Gri-grafit</item>
+        <item>Gri-mesteacăn</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Întârzii numai câteva minute.</item>
+        <item>Ajung în aproximativ 10 minute.</item>
+        <item>Începeţi fără mine.</item>
+        <item>Îmi pare rău, nu pot să ajung. Va trebui să ne vedem altădată.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Ora Australiei Centrale – NT</item>
+        <item>Ora Australiei Centrale – SA</item>
+        <item>Ora Australiei de Est – QLD</item>
+        <item>Ora Australiei de Est – NSW</item>
+        <item>Oră Zonă muntoasă – Dawson Creek</item>
+        <item>Ora stand. centr. – Saskatchewan</item>
+        <item>Ora standard de est – Atikokan</item>
+        <item>Ora standard Atlantic – Quebec</item>
+        <item>Ora Hawaii-Aleutine – Hawaii</item>
+        <item>Ora Hawaii-Aleutine – Alaska</item>
+        <item>Ora stand. Pacific – Metlakatla</item>
+        <item>Ora standard Zona muntoasă – AZ</item>
+        <item>Ora Pacific – Baja California</item>
+        <item>Ora Zonei muntoase – Chihuahua</item>
+        <item>Ora centrală – Tamaulipas</item>
+        <item>Ora Zonei muntoase – Sonora</item>
+        <item>Ora Africii de Est</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora standard a Atlanticului</item>
+        <item>Ora Europei de Est</item>
+        <item>Ora Kaliningradului</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint-Maarten</item>
+        <item>Insulele Caraibe Olandeze</item>
+        <item>Curaçao</item>
+        <item>Sudanul de Sud</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPETARE ZILNICĂ</item>
+        <item>REPETARE SĂPTĂMÂNALĂ</item>
+        <item>REPETARE LUNARĂ</item>
+        <item>REPETARE ANUALĂ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Nu se repetă</item>
+        <item>zilnic</item>
+        <item>săptămânal</item>
+        <item>lunar</item>
+        <item>anual</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>în prima duminică din lună</item>
+        <item>în a doua duminică din lună</item>
+        <item>în a treia duminică din lună</item>
+        <item>în a patra duminică din lună</item>
+        <item>în ultima duminică din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>în prima luni din lună</item>
+        <item>în a doua luni din lună</item>
+        <item>în a treia luni din lună</item>
+        <item>în a patra luni din lună</item>
+        <item>în ultima luni din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>în prima marți din lună</item>
+        <item>în a doua marți din lună</item>
+        <item>în a treia marți din lună</item>
+        <item>în a patra marți din lună</item>
+        <item>în ultima marți din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>în prima miercuri din lună</item>
+        <item>în a doua miercuri din lună</item>
+        <item>în a treia miercuri din lună</item>
+        <item>în a patra miercuri din lună</item>
+        <item>în ultima miercuri din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>în prima joi din lună</item>
+        <item>în a doua joi din lună</item>
+        <item>în a treia joi din lună</item>
+        <item>în a patra joi din lună</item>
+        <item>în ultima joi din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>în prima vineri din lună</item>
+        <item>în a doua vineri din lună</item>
+        <item>în a treia vineri din lună</item>
+        <item>în a patra vineri din lună</item>
+        <item>în ultima vineri din lună</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>în prima sâmbătă din lună</item>
+        <item>în a doua sâmbătă din lună</item>
+        <item>în a treia sâmbătă din lună</item>
+        <item>în a patra sâmbătă din lună</item>
+        <item>în ultima sâmbătă din lună</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Ușor de verificat și cu un aspect minunat</item>
+        <item>Adăugați rapid și ușor evenimente în calendar</item>
+        <item>Evenimente din Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Eficiență maximă zi de zi.</item>
+        <item>Cu Vizualizarea Agendă, aveți imagini și hărți în calendar.</item>
+        <item>Cu Asistență, pe măsură ce scrieți, apar sugestii de titluri, persoane de contact și locații.</item>
+        <item>Rezervările pentru zboruri, restaurante și multe altele sunt adăugate automat din e-mailuri.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Folosește locația dispozitivului.</item>
+        <item></item>
+        <item>Puteți să schimbați în Setări.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Adăugați persoane pentru date de contact.</item>
+        <item>{LOCATION_ICON} Adăugați locații pentru indicații de orientare.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Cu cine?</item>
+        <item>Adăugați persoane pentru date de contact.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Faptul că adăugați intrări în Agendă nu înseamnă că se vor trimite invitații.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Unde?</item>
+        <item>Adăugați o locație pentru indicații de orientare.</item>
+    </string-array>
+</resources>

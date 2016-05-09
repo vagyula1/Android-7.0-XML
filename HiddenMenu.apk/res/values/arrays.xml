@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sprint_data_app_array">
+        <item>@string/sprint_data_profile_list</item>
+        <item>@string/sprint_data_browser_list</item>
+        <item>@string/sprint_data_multimedia_list</item>
+        <item>@string/sprint_data_evdo_list</item>
+        <item>@string/sprint_data_glms_list</item>
+        <item>@string/sprint_data_dss_list</item>
+        <item>@string/sprint_data_nab_list</item>
+        <item>@string/sprint_data_advanced_list</item>
+        <item>@string/sprint_data_usbcharing_list</item>
+        <item>@string/sprint_data_mms_list</item>
+        <item>@string/sprint_data_qchart_list</item>
+        <item>@string/sprint_data_ehrpd_list</item>
+        <item>@string/sprint_data_lte_list</item>
+        <item>@string/sprint_data_pdn_list</item>
+        <item>@string/sprint_data_lte_available_list</item>
+    </string-array>
+    <string-array name="sprint_data_profile_array">
+        <item>@string/sprint_data_profile_username</item>
+        <item>@string/sprint_data_profile_revtunnel</item>
+        <item>@string/sprint_data_profile_haspi</item>
+        <item>@string/sprint_data_profile_hapassword</item>
+        <item>@string/sprint_data_profile_aaaspi</item>
+        <item>@string/sprint_data_profile_aaapassword</item>
+        <item>@string/sprint_data_profile_deviceip</item>
+        <item>@string/sprint_data_profile_prihaip</item>
+        <item>@string/sprint_data_profile_sechaip</item>
+    </string-array>
+    <string-array name="sprint_data_browser_array">
+        <item>@string/sprint_data_browser_addr</item>
+        <item>@string/sprint_data_browser_port</item>
+        <item>@string/sprint_data_browser_username</item>
+        <item>@string/sprint_data_browser_password</item>
+    </string-array>
+    <string-array name="sprint_data_dss_array">
+        <item>@string/sprint_data_dss_url</item>
+        <item>@string/sprint_data_dss_proxy_ip</item>
+        <item>@string/sprint_data_dss_proxy_port</item>
+        <item>@string/sprint_data_dss_operation_mode</item>
+        <item>@string/sprint_data_dss_slot_1_enable</item>
+    </string-array>
+    <string-array name="sprint_data_nab_array">
+        <item>@string/sprint_data_nab_address_book_sync_url</item>
+        <item>@string/sprint_data_nab_wifi_sync_url</item>
+        <item>@string/sprint_data_nab_address_book_enabled</item>
+    </string-array>
+    <string-array name="sprint_data_glms_array">
+        <item>@string/sprint_data_glms_pri_uri</item>
+    </string-array>
+    <string-array name="sprint_data_multimedia_array">
+        <item>@string/sprint_data_multimedia_rtsp_addr</item>
+        <item>@string/sprint_data_multimedia_rtsp_port</item>
+        <item>@string/sprint_data_multimedia_httppd_addr</item>
+        <item>@string/sprint_data_multimedia_httppd_port</item>
+        <item>@string/sprint_data_multimedia_buffer_length</item>
+    </string-array>
+    <string-array name="sprint_data_evdo_array">
+        <item>@string/sprint_data_evdo_ddtm</item>
+    </string-array>
+    <string-array name="sprint_data_evdo_ddtm_array">
+        <item>@string/sprint_data_evdo_ddtm_off</item>
+        <item>@string/sprint_data_evdo_ddtm_on</item>
+        <item>@string/sprint_data_evdo_ddtm_auto</item>
+    </string-array>
+    <string-array name="sprint_data_advanced_settings_array">
+        <item>@string/sprint_data_advanced_enable</item>
+        <item>@string/sprint_data_advanced_disable</item>
+    </string-array>
+    <string-array name="sprint_data_qchat_enable_array">
+        <item>@string/sprint_data_qchat_enable</item>
+        <item>@string/sprint_data_qchat_disable</item>
+    </string-array>
+    <string-array name="sprint_data_qchat_0_array">
+        <item>@string/sprint_data_qchat_1</item>
+        <item>@string/sprint_data_qchat_0</item>
+    </string-array>
+    <string-array name="sprint_data_qchat_1xsci_array">
+        <item>@string/sprint_data_1xsci_0</item>
+        <item>@string/sprint_data_1xsci_1</item>
+        <item>@string/sprint_data_1xsci_2</item>
+    </string-array>
+    <string-array name="sprint_data_advanced_array">
+        <item>@string/sprint_data_advanced_meid</item>
+        <item>@string/sprint_data_advanced_meiddecimal</item>
+        <item>@string/sprint_data_advanced_esn</item>
+        <item>@string/sprint_data_advanced_prev</item>
+        <item>@string/sprint_data_advanced_homeorigvocoder</item>
+        <item>@string/sprint_data_advanced_homepagevocoder</item>
+        <item>@string/sprint_data_advanced_roamorigvocoder</item>
+        <item>@string/sprint_data_advanced_evrcb</item>
+        <item>@string/sprint_data_advanced_scm</item>
+        <item>@string/sprint_data_advanced_slottedmode</item>
+        <item>@string/sprint_data_advanced_slottedindex</item>
+        <item>@string/sprint_data_advanced_homenid</item>
+        <item>@string/sprint_data_advanced_homesid</item>
+        <item>@string/sprint_data_advanced_mcc</item>
+        <item>@string/sprint_data_advanced_mnc</item>
+        <item>@string/sprint_data_advanced_accolc</item>
+        <item>@string/sprint_data_advanced_homesidreg</item>
+        <item>@string/sprint_data_advanced_fsidreg</item>
+        <item>@string/sprint_data_advanced_fnidreg</item>
+        <item>@string/sprint_data_advanced_bc10</item>
+    </string-array>
+    <string-array name="sprint_data_advanced_vocoder_array">
+        <item>13K</item>
+        <item>EVRC</item>
+        <item>4GV</item>
+    </string-array>
+    <string-array name="sprint_data_usbcharging_array">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="sprint_data_mms_array">
+        <item>@string/sprint_data_mms_mmsc</item>
+        <item>@string/sprint_data_mms_proxy</item>
+        <item>@string/sprint_data_mms_port</item>
+    </string-array>
+    <string-array name="sprint_data_ehrpd_array">
+        <item>@string/sprint_data_ehrpd_enabled</item>
+    </string-array>
+    <string-array name="sprint_data_ehrpd_enabled_array">
+        <item>@string/sprint_data_ehrpd_enabled_off</item>
+        <item>@string/sprint_data_ehrpd_enabled_on</item>
+    </string-array>
+    <string-array name="sprint_data_lte_array">
+        <item>@string/sprint_data_lte_enabled</item>
+        <item>@string/sprint_data_lte_bsr</item>
+        <item>@string/sprint_data_lte_next_lte_scan</item>
+        <item>@string/sprint_data_lte_max_bsr_timer</item>
+        <item>@string/sprint_data_lte_bands</item>
+    </string-array>
+    <string-array name="sprint_lte_bands_array">
+        <item>@string/sprint_data_lte_enable_band12</item>
+        <item>@string/sprint_data_lte_enable_band25</item>
+        <item>@string/sprint_data_lte_enable_band26</item>
+        <item>@string/sprint_data_lte_enable_band41</item>
+        <item>@string/sprint_data_lte_bands_priority</item>
+    </string-array>
+    <string-array name="sprint_lte_bands_pri_array">
+        <item>@string/sprint_data_lte_pri_band12</item>
+        <item>@string/sprint_data_lte_pri_band25</item>
+        <item>@string/sprint_data_lte_pri_band26</item>
+        <item>@string/sprint_data_lte_pri_band41</item>
+    </string-array>
+    <string-array name="sprint_lte_bands_pri_selection_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="sprint_data_lte_enabled_array">
+        <item>@string/sprint_data_lte_enabled_off</item>
+        <item>@string/sprint_data_lte_enabled_on</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_array">
+        <item>@string/sprint_data_qchart_registration_list</item>
+        <item>@string/sprint_data_qchart_tables_list</item>
+        <item>@string/sprint_data_qchart_timers_list</item>
+        <item>@string/sprint_data_qchart_evdosettings_list</item>
+        <item>@string/sprint_data_qchart_1xrttsettings_list</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_timers_array">
+        <item>@string/sprint_data_qchart_timers_reg_list</item>
+        <item>@string/sprint_data_qchart_timers_qsp_list</item>
+        <item>@string/sprint_data_qchart_timers_callabort_list</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_registration_array">
+        <item>@string/sprint_data_qchart_registration_username</item>
+        <item>@string/sprint_data_qchart_registration_homecarrierid</item>
+        <item>@string/sprint_data_qchart_registration_qchartenabled</item>
+        <item>@string/sprint_data_qchart_registration_qchartforcedon</item>
+        <item>@string/sprint_data_qchart_registration_enableqcharton1x</item>
+        <item>@string/sprint_data_qchart_registration_enableqcharton1xroaming</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_tables_array">
+        <item>@string/sprint_data_qchart_tables_domainidmapping</item>
+        <item>@string/sprint_data_qchart_tables_alertmappingtable</item>
+        <item>@string/sprint_data_qchart_tables_foreigndomainidmapping</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_timersreg_array">
+        <item>@string/sprint_data_qchart_timersreg_registrationreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersreg_infotimeout</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationretransmitslope</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationbackofflimit</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationreattemptlimit</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationtimebetweenreattempts</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationexpiration</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationrefreshreattempt</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationrefreshreattemptlimit</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationmaxforwards</item>
+        <item>@string/sprint_data_qchart_timersreg_initialregistrationreattemptlimit</item>
+        <item>@string/sprint_data_qchart_timersreg_deregistrationreattemptlimit</item>
+        <item>@string/sprint_data_qchart_timersreg_registrationretryschedule</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_timersqsp_array">
+        <item>@string/sprint_data_qchart_timersqsp_callrequestreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_callalertreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_callrequestretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_callalertretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_callinformationreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_callinformationretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_listreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_listretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_endreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_endretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_statuswaittimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_contactwaittimerfortarget</item>
+        <item>@string/sprint_data_qchart_timersqsp_pttrequestreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_pttrequestretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_pttreleasereliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_pttreleaseretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_askreliabilitytimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_askretransmitlimit</item>
+        <item>@string/sprint_data_qchart_timersqsp_originationcontactwaittimer</item>
+        <item>@string/sprint_data_qchart_timersqsp_playoutbuffermaximumsize</item>
+        <item>@string/sprint_data_qchart_timersqsp_lastcallrestartthreshold</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_timerscallabort_array">
+        <item>@string/sprint_data_qchart_timerscallabort_callaborttimerfordirectcalls</item>
+        <item>@string/sprint_data_qchart_timerscallabort_callaborttimerforgroupcalls</item>
+        <item>@string/sprint_data_qchart_timerscallabort_callaborttimerforclosedchatrooms</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_evdosettings_array">
+        <item>@string/sprint_data_qchart_evdosettings_enableqchartqosreservation</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileforcallsetupontheforwardtrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileforcallsetuponthereversetrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileforincallsignalingontheforwardtrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileforincallsignalingonthereversetrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileformediaontheforwardtrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_qosprofileformediasignalingonthereversetrafficchannel</item>
+        <item>@string/sprint_data_qchart_evdosettings_ddtmpreferenceforshdr</item>
+        <item>@string/sprint_data_qchart_evdosettings_desiredslotcycle</item>
+        <item>@string/sprint_data_qchart_evdosettings_qsptimestampalgorithm</item>
+        <item>@string/sprint_data_qchart_evdosettings_medianetworkwatermark</item>
+        <item>@string/sprint_data_qchart_evdosettings_medianetworktimewatermark</item>
+        <item>@string/sprint_data_qchart_evdosettings_qchatbesteffortenableflagforunicast</item>
+        <item>@string/sprint_data_qchart_evdosettings_qchatbesteffortenableflagforlargegroupcalls</item>
+    </string-array>
+    <string-array name="sprint_data_qchart_1xrttsettings_array">
+        <item>@string/sprint_data_qchart_1xrttsettings_1xrttsci</item>
+    </string-array>
+    <string-array name="sprint_data_pdn_array">
+        <item>@string/sprint_data_pdn_label</item>
+        <item>@string/sprint_data_pdn_apn_ni</item>
+        <item>@string/sprint_data_pdn_type</item>
+        <item>@string/sprint_data_pdn_rat_type</item>
+        <item>@string/sprint_data_pdn_auth_type</item>
+        <item>@string/sprint_data_pdn_username</item>
+        <item>@string/sprint_data_pdn_password</item>
+    </string-array>
+    <string-array name="sprint_debug_app_array">
+        <item>@string/sprint_debug_1x_engineering</item>
+        <item>@string/sprint_debug_evdo_engineering</item>
+        <item>@string/sprint_debug_lte_engineering</item>
+        <item>@string/sprint_debug_config</item>
+        <item>@string/sprint_debug_bluetooth</item>
+        <item>@string/sprint_debug_data_status</item>
+        <item>@string/sprint_debug_memory</item>
+        <item>@string/sprint_debug_ehrpd</item>
+    </string-array>
+    <string-array name="sprint_debug_cfg_array">
+        <item>@string/debug_cfg_title_tech</item>
+        <item>@string/debug_cfg_title_prl_ver</item>
+        <item>@string/debug_cfg_title_chip</item>
+        <item>@string/debug_cfg_title_amss</item>
+        <item>@string/debug_cfg_title_dev_ver</item>
+        <item>@string/debug_cfg_title_hw_ver</item>
+        <item>@string/debug_cfg_title_brw_ver</item>
+        <item>@string/debug_cfg_title_media_ver</item>
+    </string-array>
+    <string-array name="sprint_debug_bt_array">
+        <item>@string/debug_bt_title_chip</item>
+        <item>@string/debug_bt_title_ver</item>
+        <item>@string/debug_bt_title_stack</item>
+        <item>@string/debug_bt_title_prof</item>
+        <item>@string/debug_bt_title_mac_addr</item>
+    </string-array>
+    <string-array name="sprint_debug_data_status_array">
+        <item>@string/debug_data_title_tech_proto</item>
+        <item>@string/debug_data_title_ip</item>
+        <item>@string/debug_data_title_err_code</item>
+    </string-array>
+    <string-array name="sprint_debug_memory_array">
+        <item>@string/debug_mem_title_available_memory</item>
+        <item>@string/debug_mem_title_total_memory</item>
+    </string-array>
+    <string-array name="sprint_debug_ehrpd_array">
+        <item>@string/debug_ehrpd_channel</item>
+        <item>@string/debug_ehrpd_rssi</item>
+        <item>@string/debug_ehrpd_ecio</item>
+        <item>@string/debug_ehrpd_apnlist</item>
+    </string-array>
+    <string-array name="sprint_msl_app_array">
+        <item>@string/sprint_msl_min</item>
+        <item>@string/sprint_msl_mdn</item>
+    </string-array>
+    <string-array name="sprint_diag_array">
+        <item>@string/sprint_diag_port</item>
+    </string-array>
+    <string-array name="sprint_diag_port_array">
+        <item>@string/sprint_diag_port_disable</item>
+        <item>@string/sprint_diag_port_enable</item>
+    </string-array>
+</resources>

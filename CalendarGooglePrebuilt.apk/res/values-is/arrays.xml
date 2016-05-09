@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>tilkynningu</item>
+        <item>tölvupóst</item>
+        <item>SMS</item>
+        <item>viðvörun</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ekkert</item>
+        <item>0 mínútum</item>
+        <item>1 mínútu</item>
+        <item>5 mínútum</item>
+        <item>10 mínútum</item>
+        <item>15 mínútum</item>
+        <item>20 mínútum</item>
+        <item>25 mínútum</item>
+        <item>30 mínútum</item>
+        <item>45 mínútum</item>
+        <item>1 klukkustund</item>
+        <item>2 klukkustundum</item>
+        <item>3 klukkustundum</item>
+        <item>12 klukkustundum</item>
+        <item>24 klukkustundum</item>
+        <item>2 dögum</item>
+        <item>1 viku</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>laugardegi</item>
+        <item>sunnudegi</item>
+        <item>mánudegi</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Upptekin(n)</item>
+        <item>Viðlátin(n)</item>
+        <item>Með fyrirvara</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>fyrsti</item>
+        <item>annar</item>
+        <item>þriðji</item>
+        <item>fjórði</item>
+        <item>síðasti</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>hefur ekki svarað</item>
+        <item>mæti</item>
+        <item>kannski</item>
+        <item>mæti ekki</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Þessum viðburði</item>
+        <item>Öllum síðari viðburðum</item>
+        <item>Allir viðburðir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Þessi viðburður og allir síðari viðburðir</item>
+        <item>Allir viðburðir</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Aðeins þessi viðburður</item>
+        <item>Allir viðburðir í þessari röð</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dagur</item>
+        <item>Vika</item>
+        <item>Mánuður</item>
+        <item>Dagskrá</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Upptekin(n)</item>
+        <item>Laus</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tómatur</item>
+        <item>Mandarína</item>
+        <item>Baunasúpa</item>
+        <item>Mangó</item>
+        <item>Banani</item>
+        <item>Sítróna</item>
+        <item>Lárpera</item>
+        <item>Pistasía</item>
+        <item>Basilíka</item>
+        <item>Ekvalyptus</item>
+        <item>Salvía</item>
+        <item>Páfugl</item>
+        <item>Jökullón</item>
+        <item>Bláber</item>
+        <item>Bláklukka</item>
+        <item>Fjóla</item>
+        <item>Beitilyng</item>
+        <item>Vínber</item>
+        <item>Rauðkál</item>
+        <item>Rós</item>
+        <item>Flamingói</item>
+        <item>Kakó</item>
+        <item>Blý</item>
+        <item>Birki</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Mér seinkar um nokkrar mínútur.</item>
+        <item>Mæti eftir um það bil 10 mínútur.</item>
+        <item>Byrjið bara á undan mér.</item>
+        <item>Því miður kemst ég ekki. Við verðum að finna annan tíma.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google dagatal</item>
+        <item>Þægilegra í notkun og áferðarfallegra</item>
+        <item>Fylltu út í dagatalið fljótt og auðveldlega</item>
+        <item>Viðburðir úr Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Nýttu daginn til fulls.</item>
+        <item>Með Dagskráryfirliti sérðu myndir og kort í dagatalinu.</item>
+        <item>Með Tillögum birtast uppástungur um titla, tengiliði og staði þegar þú skrifar.</item>
+        <item>Bókanir fyrir flug, veitingastaði og fleira koma sjálfkrafa úr tölvupóstinum.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Notar staðsetningu tækis.</item>
+        <item></item>
+        <item>Þú getur breytt þessu í stillingunum.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Bættu við fólki og fáðu upp samskiptaupplýsingar</item>
+        <item>{LOCATION_ICON} Bættu við stöðum og fáðu upp leiðarlýsingu</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Með hverjum?</item>
+        <item>Bættu einhverjum við og fáðu upp samskiptaupplýsingar</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Ef tengiliðum er bætt við verður ekki sent boð</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Hvar?</item>
+        <item>Bættu staðsetningu við og fáðu upp leiðarlýsingu</item>
+    </string-array>
+</resources>

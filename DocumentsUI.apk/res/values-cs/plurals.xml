@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopírování %1$d souborů</item>
+        <item quantity="one">Kopírování %1$d souboru</item>
+        <item quantity="few">Kopírování %1$d souborů</item>
+        <item quantity="many">Kopírování %1$d souboru</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Přesouvá se %1$d souborů.</item>
+        <item quantity="one">Přesouvá se %1$d soubor.</item>
+        <item quantity="few">Přesouvají se %1$d soubory.</item>
+        <item quantity="many">Přesouvá se %1$d souboru.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Mazání %1$d souborů.</item>
+        <item quantity="one">Mazání %1$d souboru.</item>
+        <item quantity="few">Mazání %1$d souborů.</item>
+        <item quantity="many">Mazání %1$d souboru.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d souborů se zkopírovat nepodařilo</item>
+        <item quantity="one">%1$d soubor se zkopírovat nepodařilo</item>
+        <item quantity="few">%1$d soubory se zkopírovat nepodařilo</item>
+        <item quantity="many">%1$d souboru se zkopírovat nepodařilo</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d souborů nelze přesunout</item>
+        <item quantity="one">%1$d soubor nelze přesunout</item>
+        <item quantity="few">%1$d soubory nelze přesunout</item>
+        <item quantity="many">%1$d souboru nelze přesunout</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d souborů se smazat nepodařilo</item>
+        <item quantity="one">%1$d soubor se smazat nepodařilo</item>
+        <item quantity="few">%1$d soubory se smazat nepodařilo</item>
+        <item quantity="many">%1$d souboru se smazat nepodařilo</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d souborů bylo zkopírováno do schránky.</item>
+        <item quantity="one">%1$d soubor byl zkopírován do schránky.</item>
+        <item quantity="few">%1$d soubory byly zkopírovány do schránky.</item>
+        <item quantity="many">%1$d souboru bylo zkopírováno do schránky.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Vybráno %1$d položek</item>
+        <item quantity="one">Vybrána %1$d položka</item>
+        <item quantity="few">Vybrány %1$d položky</item>
+        <item quantity="many">Vybráno %1$d položky</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Smazat %1$d souborů?</item>
+        <item quantity="one">Smazat %1$d soubor?</item>
+        <item quantity="few">Smazat %1$d soubory?</item>
+        <item quantity="many">Smazat %1$d souboru?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Smazat %1$d složek a jejich obsah?</item>
+        <item quantity="one">Smazat %1$d složku a její obsah?</item>
+        <item quantity="few">Smazat %1$d složky a jejich obsah?</item>
+        <item quantity="many">Smazat %1$d složky a jejich obsah?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Smazat %1$d položek?</item>
+        <item quantity="one">Smazat %1$d položku?</item>
+        <item quantity="few">Smazat %1$d položky?</item>
+        <item quantity="many">Smazat %1$d položky?</item>
+    </plurals>
+</resources>

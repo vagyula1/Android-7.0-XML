@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">1 dia</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d setmanes</item>
+        <item quantity="one">1 setmana</item>
+    </plurals>
+    <plurals name="invisible_events">
+        <item quantity="other">%d més</item>
+        <item quantity="one">%d més</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Minuts</item>
+        <item quantity="one">Minut</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Hores</item>
+        <item quantity="one">Hora</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">Dies</item>
+        <item quantity="one">Dia</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">Setmanes</item>
+        <item quantity="one">Setmana</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">Minuts abans</item>
+        <item quantity="one">Minut abans</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">Hores abans</item>
+        <item quantity="one">Hora abans</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">Dies abans</item>
+        <item quantity="one">Dia abans</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">Setmanes abans</item>
+        <item quantity="one">Setmana abans</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d convidats</item>
+        <item quantity="one">%d convidat</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+ %d</item>
+        <item quantity="one">+ 1</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d esdeveniments</item>
+        <item quantity="one">1 esdeveniment</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+ %d esdeveniments</item>
+        <item quantity="one">+ 1 esdeveniment</item>
+    </plurals>
+    <plurals name="search_available_announce">
+        <item quantity="other">"La cerca ha finalitzat amb %d resultats. Desplaça't cap avall per explorar-los."</item>
+        <item quantity="one">"S'ha trobat un element. Desplaça't cap avall fins a la visualització."</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d aniversaris</item>
+        <item quantity="one">Aniversari</item>
+    </plurals>
+    <plurals name="nums_birthdays">
+        <item quantity="other">%d aniversaris</item>
+        <item quantity="one">%d aniversari</item>
+    </plurals>
+    <plurals name="nums_holidays">
+        <item quantity="other">%d festes</item>
+        <item quantity="one">%d festa</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d recordatoris</item>
+        <item quantity="one">%d recordatori</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d recordatoris completats</item>
+        <item quantity="one">%d recordatori completat</item>
+    </plurals>
+    <plurals name="nums_reminders">
+        <item quantity="other">%d recordatoris</item>
+        <item quantity="one">%d recordatori</item>
+    </plurals>
+    <plurals name="events_count">
+        <item quantity="other">%d esdeveniments</item>
+        <item quantity="one">%d esdeveniment</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d recordatoris:</item>
+        <item quantity="one">%d recordatori:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d recordatoris completats:</item>
+        <item quantity="one">%d recordatori completat:</item>
+    </plurals>
+    <plurals name="num_suggestions_accessibility">
+        <item quantity="other">%d suggeriments disponibles</item>
+        <item quantity="one">%d suggeriment disponible</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Per a %d esdeveniments</item>
+        <item quantity="one">Per a %d esdeveniment</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Cada %d dies</item>
+        <item quantity="one">Cada %d dia</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Cada %d setmanes</item>
+        <item quantity="one">Cada %d setmana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Cada %d mesos</item>
+        <item quantity="one">Cada %d mes</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Cada %d anys</item>
+        <item quantity="one">Cada %d any</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d vegades</item>
+        <item quantity="one">; una vegada</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Cada %d dies</item>
+        <item quantity="one">Diàriament</item>
+        <item quantity="two">Cada %d dies</item>
+        <item quantity="few">Cada %d dies</item>
+        <item quantity="many">Cada %d dies</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">cada %d dies</item>
+        <item quantity="one">diàriament</item>
+        <item quantity="two">cada %d dies</item>
+        <item quantity="few">cada %d dies</item>
+        <item quantity="many">cada %d dies</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Cada %1$d setmanes el %2$s</item>
+        <item quantity="one">Setmanalment el %2$s</item>
+        <item quantity="two">Cada %1$d setmanes el %2$s</item>
+        <item quantity="few">Cada %1$d setmanes el %2$s</item>
+        <item quantity="many">Cada %1$d setmanes el %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">cada %1$d setmanes el %2$s</item>
+        <item quantity="one">setmanalment el %2$s</item>
+        <item quantity="two">cada %1$d setmanes el %2$s</item>
+        <item quantity="few">cada %1$d setmanes el %2$s</item>
+        <item quantity="many">cada %1$d setmanes el %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Cada %1$d mesos</item>
+        <item quantity="one">Mensualment</item>
+        <item quantity="two">Cada %1$d mesos</item>
+        <item quantity="few">Cada %1$d mesos</item>
+        <item quantity="many">Cada %1$d mesos</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">cada %1$d mesos</item>
+        <item quantity="one">mensualment</item>
+        <item quantity="two">cada %1$d mesos</item>
+        <item quantity="few">cada %1$d mesos</item>
+        <item quantity="many">cada %1$d mesos</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Cada %1$d anys</item>
+        <item quantity="one">Anualment</item>
+        <item quantity="two">Cada %1$d anys</item>
+        <item quantity="few">Cada %1$d anys</item>
+        <item quantity="many">Cada %1$d anys</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">cada %1$d anys</item>
+        <item quantity="one">anualment</item>
+        <item quantity="two">cada %1$d anys</item>
+        <item quantity="few">cada %1$d anys</item>
+        <item quantity="many">cada %1$d anys</item>
+    </plurals>
+    <plurals name="ticket_count">
+        <item quantity="other">%d entrades:</item>
+        <item quantity="one">%d entrada:</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Aquesta acció afegeix %d esdeveniments i no es pot desfer. Ho confirmes?</item>
+        <item quantity="one">Aquesta acció afegeix %d esdeveniment i no es pot desfer. Ho confirmes?</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">"Els esdeveniments de Gmail s'afegeixen automàticament als comptes %s. Ho pots canviar a Configuració."</item>
+        <item quantity="one">"Els esdeveniments de Gmail s'afegeixen automàticament al compte %s. Ho pots canviar a Configuració."</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Fitxers adjunts: %1$d fitxers adjunts</item>
+        <item quantity="one">Fitxers adjunts: %1$d fitxer adjunt</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Nota: és possible que alguns convidats encara no tinguin accés a aquests fitxers. Potser hauràs de compartir-los des de Google Drive.</item>
+        <item quantity="one">Nota: és possible que alguns convidats encara no tinguin accés a aquest fitxer. Potser hauràs de compartir-lo des de Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Comparteixes els fitxers amb convidats (&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>) que no formen part de l'organització de Google Apps a la qual pertanyen."</item>
+        <item quantity="one">"Comparteixes el fitxer amb convidats (&lt;br>&lt;b>%1$s&lt;/b>&lt;br>) que no formen part de l'organització de Google Apps a la qual pertany."</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">És possible que els convidats no tinguin accés als fitxers que has inserit des de Drive. Potser hauràs de compartir-los des de Google Drive.</item>
+        <item quantity="one">És possible que els convidats no tinguin accés al fitxer que has inserit des de Drive. Potser hauràs de compartir-lo des de Google Drive.</item>
+    </plurals>
+</resources>

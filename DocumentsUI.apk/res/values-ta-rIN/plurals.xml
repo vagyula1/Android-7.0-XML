@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d கோப்புகளை நகலெடுக்கிறது.</item>
+        <item quantity="one">%1$d கோப்பை நகலெடுக்கிறது.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d கோப்புகளை நகர்த்துகிறது.</item>
+        <item quantity="one">%1$d கோப்பை நகர்த்துகிறது.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d கோப்புகளை நீக்குகிறது.</item>
+        <item quantity="one">%1$d கோப்பை நீக்குகிறது.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d கோப்புகளை நகலெடுக்க முடியவில்லை</item>
+        <item quantity="one">%1$d கோப்பை நகலெடுக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d கோப்புகளை நகர்த்த முடியவில்லை</item>
+        <item quantity="one">%1$d கோப்பை நகர்த்த முடியவில்லை</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d கோப்புகளை நீக்க முடியவில்லை</item>
+        <item quantity="one">%1$d கோப்பை நீக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">கிளிப்போர்டிற்கு %1$d கோப்புகள் நகலெடுக்கப்பட்டன.</item>
+        <item quantity="one">கிளிப்போர்டிற்கு %1$d கோப்பு நகலெடுக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d கோப்புகளை நீக்கவா?</item>
+        <item quantity="one">%1$d கோப்பை நீக்கவா?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d கோப்புறைகளையும் அவற்றின் உள்ளடக்கத்தையும் நீக்கவா?</item>
+        <item quantity="one">%1$d கோப்புறையையும் அதன் உள்ளடக்கத்தையும் நீக்கவா?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d உருப்படிகளை நீக்கவா?</item>
+        <item quantity="one">%1$d உருப்படியை நீக்கவா?</item>
+    </plurals>
+</resources>

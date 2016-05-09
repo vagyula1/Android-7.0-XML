@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>powiadom.</item>
+        <item>e-mail</item>
+        <item>SMS</item>
+        <item>alarm</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Brak</item>
+        <item>0 minut</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 godzina</item>
+        <item>2 godziny</item>
+        <item>3 godziny</item>
+        <item>12 godzin</item>
+        <item>24 godziny</item>
+        <item>2 dni</item>
+        <item>1 tydzień</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sobota</item>
+        <item>Niedziela</item>
+        <item>Poniedziałek</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zajęty</item>
+        <item>Dostępny</item>
+        <item>Wstępnie</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>ostatni</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>jeszcze nie ma odpowiedzi</item>
+        <item>będzie</item>
+        <item>być może</item>
+        <item>nie będzie</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>To wydarzenie</item>
+        <item>Wszystkie kolejne wydarzenia</item>
+        <item>Wszystkie wydarzenia</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>To i przyszłe wydarzenia</item>
+        <item>Wszystkie wydarzenia</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tylko to wydarzenie</item>
+        <item>Wszystkie wydarzenia w serii</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dzień</item>
+        <item>Tydzień</item>
+        <item>Miesiąc</item>
+        <item>Plan dnia</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Zajęty</item>
+        <item>Wolny</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Pomidor</item>
+        <item>Mandarynka</item>
+        <item>Dynia</item>
+        <item>Mango</item>
+        <item>Banan</item>
+        <item>Cytryna</item>
+        <item>Awokado</item>
+        <item>Pistacja</item>
+        <item>Bazylia</item>
+        <item>Eukaliptus</item>
+        <item>Szałwia</item>
+        <item>Niebo</item>
+        <item>Kobalt</item>
+        <item>Jagoda</item>
+        <item>Lawenda</item>
+        <item>Wisteria</item>
+        <item>Ametyst</item>
+        <item>Winogrono</item>
+        <item>Figa</item>
+        <item>Róża</item>
+        <item>Flaming</item>
+        <item>Kakao</item>
+        <item>Grafit</item>
+        <item>Brzoza</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Spóźnię się kilka minut.</item>
+        <item>Będę za około 10 minut.</item>
+        <item>Zacznijcie beze mnie.</item>
+        <item>Niestety, nie dam rady. Musimy to przełożyć.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Czas środkowoaustralijski – NT</item>
+        <item>Czas środkowoaustralijski – SA</item>
+        <item>Czas wschodnioaustralijski – QLD</item>
+        <item>Czas wschodnioaustralijski – NSW</item>
+        <item>Górski czas standard. – Dawson Creek</item>
+        <item>Środkowy czas stand. – Saskatchewan</item>
+        <item>Wschodni czas standardowy – Atikokan</item>
+        <item>Atlantycki czas standardowy – Quebec</item>
+        <item>Czas hawajsko-aleucki – Hawaje</item>
+        <item>Czas hawajsko-aleucki – Alaska</item>
+        <item>Czas pacyf. standard. – Metlakatla</item>
+        <item>Górski czas standardowy – Arizona</item>
+        <item>Czas pacyficzny – Kalifornia Dolna</item>
+        <item>Czas górski – Chihuahua</item>
+        <item>Czas środkowy – Tamaulipas</item>
+        <item>Czas górski – Sonora</item>
+        <item>Czas wschodnioafrykański</item>
+        <item>Atlantycki czas standardowy</item>
+        <item>Atlantycki czas standardowy</item>
+        <item>Czas wschodnioeuropejski</item>
+        <item>Czas Kaliningradu</item>
+        <item>Amazonia – Rondônia</item>
+        <item>Brazylia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Karaiby Holenderskie</item>
+        <item>Curaçao</item>
+        <item>Sudan Południowy</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>POWTARZAJ CODZIENNIE</item>
+        <item>POWTARZAJ CO TYDZIEŃ</item>
+        <item>POWTARZAJ CO MIESIĄC</item>
+        <item>POWTARZAJ CO ROK</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Nie powtarza się</item>
+        <item>Codziennie</item>
+        <item>Co tydzień</item>
+        <item>Co miesiąc</item>
+        <item>Co rok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>w każdą pierwszą niedzielę</item>
+        <item>w każdą drugą niedzielę</item>
+        <item>w każdą trzecią niedzielę</item>
+        <item>w każdą czwartą niedzielę</item>
+        <item>w każdą ostatnią niedzielę</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>w każdy pierwszy poniedziałek</item>
+        <item>w każdy drugi poniedziałek</item>
+        <item>w każdy trzeci poniedziałek</item>
+        <item>w każdy czwarty poniedziałek</item>
+        <item>w każdy ostatni poniedziałek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>w każdy pierwszy wtorek</item>
+        <item>w każdy drugi wtorek</item>
+        <item>w każdy trzeci wtorek</item>
+        <item>w każdy czwarty wtorek</item>
+        <item>w każdy ostatni wtorek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>w każdą pierwszą środę</item>
+        <item>w każdą drugą środę</item>
+        <item>w każdą trzecią środę</item>
+        <item>w każdą czwartą środę</item>
+        <item>w każdą ostatnią środę</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>w każdy pierwszy czwartek</item>
+        <item>w każdy drugi czwartek</item>
+        <item>w każdy trzeci czwartek</item>
+        <item>w każdy czwarty czwartek</item>
+        <item>w każdy ostatni czwartek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>w każdy pierwszy piątek</item>
+        <item>w każdy drugi piątek</item>
+        <item>w każdy trzeci piątek</item>
+        <item>w każdy czwarty piątek</item>
+        <item>w każdy ostatni piątek</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>w każdą pierwszą sobotę</item>
+        <item>w każdą drugą sobotę</item>
+        <item>w każdą trzecią sobotę</item>
+        <item>w każdą czwartą sobotę</item>
+        <item>w każdą ostatnią sobotę</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Kalendarz Google</item>
+        <item>Czytelny i przyjemny dla oka</item>
+        <item>Łatwo i szybko wypełnij swój kalendarz</item>
+        <item>Wydarzenia z Gmaila</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Jak najlepiej wykorzystaj każdy dzień.</item>
+        <item>W widoku harmonogramu zobaczysz zdjęcia i mapy pozwiązane z danym wydarzeniem.</item>
+        <item>Wspomaganie – podczas pisania pojawiają się sugestie tytułów, kontaktów i miejsc.</item>
+        <item>Informacje o lotach czy rezerwacje w restauracjach są dodawane z e-maili automatycznie.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Korzysta z informacji o lokalizacji urządzenia.</item>
+        <item></item>
+        <item>Możesz to zmienić w ustawieniach.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Dodaj osoby, a uzyskasz dane kontaktowe</item>
+        <item>{LOCATION_ICON} Dodaj miejsca, a uzyskasz wskazówki dojazdu</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Z kim?</item>
+        <item>Dodaj kogoś, uzyskasz dane kontaktowe</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Dodanie kontaktu nie spowoduje wysłania do niego zaproszenia.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Gdzie?</item>
+        <item>Dodaj lokalizację, aby uzyskać wskazówki dojazdu.</item>
+    </string-array>
+</resources>

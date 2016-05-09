@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f წამი</item>
+        <item quantity="one">1 წამი</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">განახლდა %d ლეიბლი</item>
+        <item quantity="zero">ახალი ლეიბლები არ არის</item>
+        <item quantity="one">განახლდა 1 ლეიბლი</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d კლავიშს მინიჭებული აქვს ფუნქცია</item>
+        <item quantity="one">%d კლავიშს მინიჭებული აქვს ფუნქცია</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s აჩვენებს %2$d ერთეულს.</item>
+        <item quantity="one">%1$s აჩვენებს %2$d ერთეულს.</item>
+    </plurals>
+</resources>

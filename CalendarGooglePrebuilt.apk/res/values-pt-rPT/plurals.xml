@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">1 dia</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d semanas</item>
+        <item quantity="one">1 semana</item>
+    </plurals>
+    <plurals name="invisible_events">
+        <item quantity="other">Mais %d</item>
+        <item quantity="one">Mais %d</item>
+    </plurals>
+    <plurals name="short_invisible_all_day_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">minutos</item>
+        <item quantity="one">minuto</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">horas</item>
+        <item quantity="one">hora</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">dias</item>
+        <item quantity="one">dia</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="other">semanas</item>
+        <item quantity="one">semana</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="other">minutos antes</item>
+        <item quantity="one">minuto antes</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">horas antes</item>
+        <item quantity="one">hora antes</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="other">dias antes</item>
+        <item quantity="one">dia antes</item>
+    </plurals>
+    <plurals name="weeks_before">
+        <item quantity="other">semanas antes</item>
+        <item quantity="one">semana antes</item>
+    </plurals>
+    <plurals name="guest_count">
+        <item quantity="other">%d convidados</item>
+        <item quantity="one">%d convidado</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
+    </plurals>
+    <plurals name="Nevents">
+        <item quantity="other">%d eventos</item>
+        <item quantity="one">1 evento</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+%d eventos</item>
+        <item quantity="one">+1 evento</item>
+    </plurals>
+    <plurals name="search_available_announce">
+        <item quantity="other">A pesquisa foi concluída com %d resultados. Navegue para baixo para procurar.</item>
+        <item quantity="one">Um item encontrado. Navegue para baixo para o ver.</item>
+    </plurals>
+    <plurals name="birthday_chip_title">
+        <item quantity="other">%d aniversários</item>
+        <item quantity="one">Aniversário</item>
+    </plurals>
+    <plurals name="nums_birthdays">
+        <item quantity="other">%d aniversários</item>
+        <item quantity="one">%d aniversário</item>
+    </plurals>
+    <plurals name="nums_holidays">
+        <item quantity="other">%d feriados</item>
+        <item quantity="one">%d feriado</item>
+    </plurals>
+    <plurals name="reminders_title">
+        <item quantity="other">%d lembretes</item>
+        <item quantity="one">%d lembrete</item>
+    </plurals>
+    <plurals name="done_reminders_title">
+        <item quantity="other">%d lembretes concluídos</item>
+        <item quantity="one">%d lembrete concluído</item>
+    </plurals>
+    <plurals name="nums_reminders">
+        <item quantity="other">%d lembretes</item>
+        <item quantity="one">%d lembrete</item>
+    </plurals>
+    <plurals name="events_count">
+        <item quantity="other">%d eventos</item>
+        <item quantity="one">%d evento</item>
+    </plurals>
+    <plurals name="reminder_bundle_description_prefix">
+        <item quantity="other">%d lembretes:</item>
+        <item quantity="one">%d lembrete:</item>
+    </plurals>
+    <plurals name="reminder_done_bundle_description_prefix">
+        <item quantity="other">%d lembretes concluídos:</item>
+        <item quantity="one">%d lembrete concluído:</item>
+    </plurals>
+    <plurals name="num_suggestions_accessibility">
+        <item quantity="other">%d sugestões disponíveis</item>
+        <item quantity="one">%d sugestão disponível</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Para %d eventos</item>
+        <item quantity="one">Para %d evento</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">A cada %d dia</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">A cada %d semanas</item>
+        <item quantity="one">A cada %d semana</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">A cada %d meses</item>
+        <item quantity="one">A cada %d mês</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">A cada %d anos</item>
+        <item quantity="one">A cada %d ano</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d vezes</item>
+        <item quantity="one">; uma única vez</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">Diariamente</item>
+        <item quantity="two">A cada %d dias</item>
+        <item quantity="few">A cada %d dias</item>
+        <item quantity="many">A cada %d dias</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">a cada %d dias</item>
+        <item quantity="one">diariamente</item>
+        <item quantity="two">a cada %d dias</item>
+        <item quantity="few">a cada %d dias</item>
+        <item quantity="many">a cada %d dias</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">A cada %1$d semanas no(a) %2$s</item>
+        <item quantity="one">Semanalmente no(a) %2$s</item>
+        <item quantity="two">A cada %1$d semanas no(a) %2$s</item>
+        <item quantity="few">A cada %1$d semanas no(a) %2$s</item>
+        <item quantity="many">A cada %1$d semanas no(a) %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">a cada %1$d semanas no(a) %2$s</item>
+        <item quantity="one">semanalmente no(a) %2$s</item>
+        <item quantity="two">a cada %1$d semanas no(a) %2$s</item>
+        <item quantity="few">a cada %1$d semanas no(a) %2$s</item>
+        <item quantity="many">a cada %1$d semanas no(a) %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">A cada %1$d meses</item>
+        <item quantity="one">Mensal</item>
+        <item quantity="two">A cada %1$d meses</item>
+        <item quantity="few">A cada %1$d meses</item>
+        <item quantity="many">A cada %1$d meses</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">a cada %1$d meses</item>
+        <item quantity="one">mensal</item>
+        <item quantity="two">a cada %1$d meses</item>
+        <item quantity="few">a cada %1$d meses</item>
+        <item quantity="many">a cada %1$d meses</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">A cada %1$d anos</item>
+        <item quantity="one">Anualmente</item>
+        <item quantity="two">A cada %1$d anos</item>
+        <item quantity="few">A cada %1$d anos</item>
+        <item quantity="many">A cada %1$d anos</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">a cada %1$d anos</item>
+        <item quantity="one">anualmente</item>
+        <item quantity="two">a cada %1$d anos</item>
+        <item quantity="few">a cada %1$d anos</item>
+        <item quantity="many">a cada %1$d anos</item>
+    </plurals>
+    <plurals name="ticket_count">
+        <item quantity="other">%d bilhetes:</item>
+        <item quantity="one">%d bilhete:</item>
+    </plurals>
+    <plurals name="ical_many_events_warning">
+        <item quantity="other">Esta ação irá adicionar %d eventos e não pode ser anulada. Tem a certeza de que pretende continuar?</item>
+        <item quantity="one">Esta ação irá adicionar %d evento e não pode ser anulada. Tem a certeza de que pretende continuar?</item>
+    </plurals>
+    <plurals name="smartmail_enabled_message">
+        <item quantity="other">Os Eventos do Gmail serão adicionados automaticamente às contas %s. Pode alterar esta opção nas definições.</item>
+        <item quantity="one">Os Eventos do Gmail serão adicionados automaticamente à conta %s. Pode alterar esta opção nas definições.</item>
+    </plurals>
+    <plurals name="describe_attachments">
+        <item quantity="other">Anexos: %1$d anexos</item>
+        <item quantity="one">Anexos: %1$d anexo</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Nota: alguns convidados podem ainda não ter acesso a estes ficheiros. Pode ter de partilhar estes ficheiros a partir do Google Drive.</item>
+        <item quantity="one">Nota: alguns convidados podem ainda não ter acesso a este ficheiro. Pode ter de partilhar este ficheiro a partir do Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Está a partilhar com os convidados:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>que não se encontram na entidade do Google Apps a que estes ficheiros pertencem."</item>
+        <item quantity="one">Está a partilhar com os convidados:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>que não se encontram na entidade do Google Apps à qual este ficheiro pertence.</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Os seus convidados podem não ter acesso a estes ficheiros que inseriu a partir do Drive. Pode ter de partilhar os ficheiros a partir do Google Drive.</item>
+        <item quantity="one">Os seus convidados podem não ter acesso a este ficheiro que inseriu a partir do Drive. Pode ter de partilhar o ficheiro a partir do Google Drive.</item>
+    </plurals>
+</resources>

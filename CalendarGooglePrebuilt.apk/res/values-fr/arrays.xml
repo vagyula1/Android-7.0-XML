@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notification</item>
+        <item>e-mail</item>
+        <item>SMS</item>
+        <item>alerte</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Aucun</item>
+        <item>0 minute</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
+        <item>3 heures</item>
+        <item>12 heures</item>
+        <item>24 heures</item>
+        <item>2 jours</item>
+        <item>1 semaine</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>samedi</item>
+        <item>dimanche</item>
+        <item>lundi</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Occupé</item>
+        <item>Disponible</item>
+        <item>À confirmer</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1er</item>
+        <item>2e</item>
+        <item>3e</item>
+        <item>4e</item>
+        <item>dernier</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>réponse attendue</item>
+        <item>a accepté</item>
+        <item>peut-être</item>
+        <item>a décliné</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Cet événement</item>
+        <item>Tous les événements à venir</item>
+        <item>Tous les événements</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Cet événement et les suivants</item>
+        <item>Tous les événements</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Uniquement cet événement</item>
+        <item>Tous les événements de la série</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Jour</item>
+        <item>Semaine</item>
+        <item>Mois</item>
+        <item>Planning</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Occupé</item>
+        <item>Disponible</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Rouge tomate</item>
+        <item>Mandarine</item>
+        <item>Orange citrouille</item>
+        <item>Mangue</item>
+        <item>Jaune banane</item>
+        <item>Jaune citron</item>
+        <item>Vert avocat</item>
+        <item>Vert pistache</item>
+        <item>Vert basilic</item>
+        <item>Vert eucalyptus</item>
+        <item>Gris-vert</item>
+        <item>Bleu paon</item>
+        <item>Cobalt</item>
+        <item>Myrtille</item>
+        <item>Lavande</item>
+        <item>Glycine</item>
+        <item>Améthyste</item>
+        <item>Violet raisin</item>
+        <item>Magenta</item>
+        <item>Vieux rose</item>
+        <item>Rose clair</item>
+        <item>Cacao</item>
+        <item>Gris graphite</item>
+        <item>Gris taupe</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"Désolé, j'aurai quelques minutes de retard."</item>
+        <item>"Désolé, j'arrive dans 10 minutes environ."</item>
+        <item>Commencez sans moi.</item>
+        <item>Désolé, je ne peux pas venir. Nous allons devoir reporter.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Heure centr. Austr. (Terr. Nord)</item>
+        <item>Heure centr. Austr. (Aus. Mérid.)</item>
+        <item>Heure Est Australie (Queensland)</item>
+        <item>Heure Est Austr. (N-Galles Sud)</item>
+        <item>Heure stand. mont. (Dawson Creek)</item>
+        <item>Heure stand. cent. (Saskatchewan)</item>
+        <item>Heure standard Est (Atikokan)</item>
+        <item>Heure stand. Atlantique (Québec)</item>
+        <item>Heure Hawaï-Aléoutiennes (Hawaï)</item>
+        <item>Heure Hawaï-Aléoutiennes (Alaska)</item>
+        <item>Heure stand. Pacif. (Metlakatla)</item>
+        <item>Heure stand. montagnes (Arizona)</item>
+        <item>Heure Pacifique (Baja California)</item>
+        <item>Heure montagnes (Chihuahua)</item>
+        <item>Heure centr. Mexique (Tamaulipas)</item>
+        <item>Heure montagnes (Sonora)</item>
+        <item>"Heure d'Afrique de l'Est"</item>
+        <item>"Heure standard de l'Atlantique"</item>
+        <item>"Heure standard de l'Atlantique"</item>
+        <item>"Heure d'Europe de l'Est"</item>
+        <item>Heure de Kaliningrad</item>
+        <item>Amazonie – Rondônia</item>
+        <item>Brasilia – Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Saint-Martin</item>
+        <item>Antilles hollandaises</item>
+        <item>Curaçao</item>
+        <item>Soudan du Sud</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>TOUS LES JOURS</item>
+        <item>TOUTES LES SEMAINES</item>
+        <item>TOUS LES MOIS</item>
+        <item>TOUS LES ANS</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Une seule fois</item>
+        <item>Tous les jours</item>
+        <item>Toutes les semaines</item>
+        <item>Tous les mois</item>
+        <item>Tous les ans</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>tous les premiers dimanches</item>
+        <item>tous les deuxièmes dimanches</item>
+        <item>tous les troisièmes dimanches</item>
+        <item>tous les quatrièmes dimanches</item>
+        <item>tous les derniers dimanches</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>tous les premiers lundis</item>
+        <item>tous les deuxièmes lundis</item>
+        <item>tous les troisièmes lundis</item>
+        <item>tous les quatrièmes lundis</item>
+        <item>tous les derniers lundis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>tous les premiers mardis</item>
+        <item>tous les deuxièmes mardis</item>
+        <item>tous les troisièmes mardis</item>
+        <item>tous les quatrièmes mardis</item>
+        <item>tous les derniers mardis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>tous les premiers mercredis</item>
+        <item>tous les deuxièmes mercredis</item>
+        <item>tous les troisièmes mercredis</item>
+        <item>tous les quatrièmes mercredis</item>
+        <item>tous les derniers mercredis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>tous les premiers jeudis</item>
+        <item>tous les deuxièmes jeudis</item>
+        <item>tous les troisièmes jeudis</item>
+        <item>tous les quatrièmes jeudis</item>
+        <item>tous les derniers jeudis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>tous les premiers vendredis</item>
+        <item>tous les deuxièmes vendredis</item>
+        <item>tous les troisièmes vendredis</item>
+        <item>tous les quatrièmes vendredis</item>
+        <item>tous les derniers vendredis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>tous les premiers samedis</item>
+        <item>tous les deuxièmes samedis</item>
+        <item>tous les troisièmes samedis</item>
+        <item>tous les quatrièmes samedis</item>
+        <item>tous les derniers samedis</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Agenda</item>
+        <item>Présentation agréable et facile à utiliser</item>
+        <item>Remplir votre agenda, rapidement et facilement</item>
+        <item>Événements ajoutés à partir de Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Optimisez chacune de vos journées.</item>
+        <item>La vue \"Planning\" ajoute des images et des cartes à votre agenda.</item>
+        <item>"Grâce à la fonction d'aide, commencez à écrire pour voir apparaître des suggestions de titres, de contacts et de lieux."</item>
+        <item>Ajout automatique des réservations de vol, de restaurant ou autres à partir des e-mails</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>"Utilise la position de l'appareil."</item>
+        <item></item>
+        <item>Vous pouvez modifier cette option dans la section \"Paramètres\".</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Ajouter des contacts, obtenir des coordonnées</item>
+        <item>{LOCATION_ICON} Ajouter des lieux, obtenir des itinéraires</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Avec qui ?</item>
+        <item>Ajouter un contact, obtenir les coordonnées</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>"{CHECK_ICON}L'ajout de contacts n'entraîne pas l'envoi d'une invitation."</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Où ?</item>
+        <item>"Ajouter un lieu, obtenir l'itinéraire"</item>
+    </string-array>
+</resources>

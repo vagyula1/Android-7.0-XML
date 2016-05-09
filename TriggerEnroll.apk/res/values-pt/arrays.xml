@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Você está falando &lt;font color='#FF0000'>&lt;b>muito devagar&lt;/b>&lt;/font>. Fale um pouco mais rápido."</item>
+        <item>"Você está falando &lt;font color='#FF0000'>&lt;b>muito rápido&lt;/b>&lt;/font>. Fale um pouco mais devagar."</item>
+        <item>Você está falando muito baixo.&lt;br>Fale mais alto.</item>
+        <item>Você está falando muito alto.&lt;br>Mantenha o telefone um pouco mais longe ou fale mais devagar.</item>
+        <item>"Sua frase é &lt;font color='#FF0000'>&lt;b>muito curta&lt;/b>&lt;/font>. Certifique-se de que você diz &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Sua frase de inicialização é &lt;font color='#FF0000'>&lt;b>muito longa&lt;/b>&lt;/font>. Certifique-se de que você só diz &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Está um pouco &lt;font color='#FF0000'>&lt;b>barulhento&lt;/b>&lt;/font> aqui. Encontre um lugar calmo e tente novamente."</item>
+        <item>"Parece que você &lt;font color='#FF0000'>&lt;b>pausou enquanto falava&lt;/b>&lt;/font> a frase de inicialização. Por favor, diga &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> como uma frase única."</item>
+        <item>"Sua frase não soa ser &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Por favor, tente novamente."</item>
+        <item>"Suas gravações &lt;font color='#FF0000'>&lt;b>não soam parecidas o bastante&lt;/b>&lt;/font>. Vamos começar novamente…"</item>
+        <item>"Suas gravações &lt;font color='#FF0000'>&lt;b>não soam parecidas o bastante&lt;/b>&lt;/font>. Vamos começar novamente…"</item>
+        <item>"Desculpe, não ouvi. Por favor, diga &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> novamente…"</item>
+        <item>"Desculpe, não ouvi. Por favor, diga &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> novamente…"</item>
+        <item>"Após checar melhor a sua frase, parece que sua frase é &lt;font color='#FF0000'>&lt;b>muito longa&lt;/b>&lt;/font>. Tente algo mais curto"</item>
+        <item>"Ops… Você está dizendo a frase &lt;font color='#FF0000'>&lt;b>cedo demais&lt;/b>&lt;/font>. Faça uma pausa antes de dizer &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Ops… Há algum &lt;font color='#FF0000'>&lt;b>ruído extra&lt;/b>&lt;/font> no final da frase. Certifique-se de ficar em silêncio após falar &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Desculpe, não ouvi. Vamos começar de novo e tente &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> novamente."</item>
+        <item>"Desculpe, não ouvi. Vamos começar de novo e tente &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> novamente."</item>
+        <item>Desculpe, ocorreu algum erro. Vamos começar novamente…</item>
+        <item>"Não foi possível verificar sua frase de inicialização. Vamos tentar &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> novamente."</item>
+        <item>Desculpe, ocorreu algum erro. Vamos começar novamente…</item>
+        <item>"Desculpe, estou com problemas. Vamos começar novamente. Certifique-se de que você diz &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> claramente…"</item>
+        <item>Desculpe, ocorreu algum erro. Vamos começar novamente…</item>
+        <item>Está um pouco barulhento aqui. Por favor, tente encontrar um lugar mais calmo e comece de novo…</item>
+        <item>"O treinamento não pode ser finalizado com &lt;font color='#FF0000'>&lt;b>fones de ouvido&lt;/b>&lt;/font>. Por favor, desconecte seus fones de ouvido e tente novamente."</item>
+        <item>Fomos interrompidos. Por favor, continue agora.</item>
+        <item>"Suas gravações &lt;font color='#FF0000'>&lt;b>não soam parecidas o bastante&lt;/b>&lt;/font>. Vamos começar novamente…"</item>
+        <item>"Sua frase não soa ser &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Por favor, tente novamente."</item>
+        <item>O treinamento não pode ser concluído durante a reprodução de músicas.</item>
+        <item>"O treinamento não pode ser finalizado durante &lt;font color='#FF0000'>&lt;b>uma ligação&lt;/b>&lt;/font>. Por favor, aguarde o término da ligação e tente novamente."</item>
+        <item>"O treinamento não pode ser finalizado durante a &lt;font color='#FF0000'>&lt;b>reprodução de um alarme&lt;/b>&lt;/font>. Por favor, desligue o alarme e tente novamente."</item>
+        <item>"O treinamento não pode ser finalizado enquanto o &lt;font color='#FF0000'>&lt;b>telefone estiver sobre a mesa&lt;/b>&lt;/font>. Por favor, pegue o telefone e tente novamente."</item>
+        <item>A gravação foi interrompida.</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>Você está falando muito devagar. Fale mais rápido.</item>
+        <item>Você está falando muito rápido. Fale mais devagar.</item>
+        <item>Você está falando muito baixo. Fale mais alto.</item>
+        <item>Você está falando muito alto. Mantenha o telefone um pouco mais longe ou fale mais baixo.</item>
+        <item>Você pausou enquanto falava a frase de inicialização. Por favor, diga uma única frase.</item>
+        <item>Não entendi. Tente falar claramente.</item>
+        <item>Parece que você acrescentou mais sílabas. Diga apenas \"Ok Google\"</item>
+        <item>Você disse \"Ok Google\" cedo demais. Faça uma pausa antes de dizer a frase.</item>
+        <item>Há algum ruído extra no final da frase \"Ok Google\". Certifique-se de ficar em silêncio após falar a frase.</item>
+        <item>Suas gravações não coincidem. Por favor, tente novamente.</item>
+        <item>Ocorreu algum erro. Vamos começar novamente.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Desculpe, não entendi. Vamos começar novamente.</item>
+        <item>Desculpe, não entendi. Vamos começar novamente.</item>
+        <item></item>
+        <item>Desculpe, não entendi. Vamos começar novamente.</item>
+        <item>Desculpe, algo deu errado. Vamos começar novamente.</item>
+        <item>Ocorreu um erro ao ouvir a sua voz. Por favor, tente novamente.</item>
+        <item>O treinamento não pode ser finalizado com fones de ouvido com fio. Desconecte seus fones de ouvido e tente novamente.</item>
+        <item>Houve uma interrupção. Por favor, tente novamente.</item>
+        <item>Suas gravações não coincidem. Vamos começar de novo.</item>
+        <item>Fomos interrompidos. Por favor, continue agora.</item>
+        <item>O treinamento não pode ser concluído durante a reprodução de músicas.</item>
+        <item>O treinamento não pode ser finalizado durante uma ligação. Finalize a ligação e tente novamente.</item>
+        <item>O treinamento não pode ser finalizado durante a reprodução de um alarme. Desligue o alarme e tente novamente.</item>
+        <item>A gravação foi interrompida.</item>
+        <item>Há muito ruído nas suas gravações. Por favor, tente novamente.</item>
+        <item></item>
+        <item>Não entendi. Tente falar claramente.</item>
+        <item>Não foi possível completar o treinamento com o telefone na mesa. Por favor, pegue-o para continuar.</item>
+        <item>Suas gravações estão muito baixas. Por favor, tente novamente falando mais alto.</item>
+        <item>Não houve sincronização nas suas gravações. Por favor, tente novamente.</item>
+        <item>Suas gravações estão com ruídos. Por favor, diga as frases de forma clara novamente.</item>
+        <item>Houve um erro ao ouvir a sua voz. Por favor, tente gravar novamente.</item>
+        <item>Suas gravações estão barulhentas. Por favor, tente novamente.</item>
+        <item>Suas gravações não coincidem. Por favor, tente novamente.</item>
+        <item>Houve uma interrupção. Por favor, tente gravar novamente.</item>
+    </string-array>
+    <string-array name="noise_errors">
+        <item>Ótimo! Você encontrou um lugar calmo. Vamos continuar.</item>
+        <item>Está um muito barulhento. Encontre um lugar calmo para continuar.</item>
+        <item>Está muito alto o som. Encontre um lugar calmo para continuar.</item>
+    </string-array>
+</resources>

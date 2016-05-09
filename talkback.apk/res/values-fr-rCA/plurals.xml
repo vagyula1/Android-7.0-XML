@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f secondes</item>
+        <item quantity="one">1 seconde</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d étiquettes mises à jour</item>
+        <item quantity="zero">Aucune nouvelle étiquette</item>
+        <item quantity="one">1 étiquette mise à jour</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d touches attribuées</item>
+        <item quantity="one">%d touche attribuée</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s : %2$d éléments affichés</item>
+        <item quantity="one">%1$s : %2$d élément affiché</item>
+    </plurals>
+</resources>

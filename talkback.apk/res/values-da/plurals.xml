@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d etiketter blev opdateret</item>
+        <item quantity="zero">Der er ingen nye etiketter</item>
+        <item quantity="one">1 etiket blev opdateret</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d nøgler er tildelt</item>
+        <item quantity="one">%d nøgle er tildelt</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s viser %2$d elementer.</item>
+        <item quantity="one">%1$s viser %2$d element.</item>
+    </plurals>
+</resources>

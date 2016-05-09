@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d gertaeratan</item>
+        <item quantity="one">%d gertaeratan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">%d egunez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d astez behin</item>
+        <item quantity="one">%d astez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d hilabetez behin</item>
+        <item quantity="one">%d hilabetez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d urtez behin</item>
+        <item quantity="one">%d urtez behin</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d aldiz</item>
+        <item quantity="one">; behin</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">Egunero</item>
+        <item quantity="two">%d egunez behin</item>
+        <item quantity="few">%d egunez behin</item>
+        <item quantity="many">%d egunez behin</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">egunero</item>
+        <item quantity="two">%d egunez behin</item>
+        <item quantity="few">%d egunez behin</item>
+        <item quantity="many">%d egunez behin</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="one">Astero, egun honetan: %2$s</item>
+        <item quantity="two">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="few">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="many">%1$d astez behin, egun honetan: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="one">astero, egun honetan: %2$s</item>
+        <item quantity="two">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="few">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="many">%1$d astez behin, egun honetan: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d hilabetez behin</item>
+        <item quantity="one">Hilero</item>
+        <item quantity="two">%1$d hilabetez behin</item>
+        <item quantity="few">%1$d hilabetez behin</item>
+        <item quantity="many">%1$d hilabetez behin</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d hilabetez behin</item>
+        <item quantity="one">hilero</item>
+        <item quantity="two">%1$d hilabetez behin</item>
+        <item quantity="few">%1$d hilabetez behin</item>
+        <item quantity="many">%1$d hilabetez behin</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d urtez behin</item>
+        <item quantity="one">Urtero</item>
+        <item quantity="two">%1$d urtez behin</item>
+        <item quantity="few">%1$d urtez behin</item>
+        <item quantity="many">%1$d urtez behin</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d urtez behin</item>
+        <item quantity="one">urtero</item>
+        <item quantity="two">%1$d urtez behin</item>
+        <item quantity="few">%1$d urtez behin</item>
+        <item quantity="many">%1$d urtez behin</item>
+    </plurals>
+</resources>

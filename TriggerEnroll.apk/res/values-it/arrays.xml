@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Parli un po' &lt;font color='#FF0000'>&lt;b>troppo lentamente&lt;/b>&lt;/font>. Puoi parlare più velocemente per favore?"</item>
+        <item>"Parli un po' &lt;font color='#FF0000'>&lt;b>troppo velocemente&lt;/b>&lt;/font>. Puoi parlare più lentamente per favore?"</item>
+        <item>"Parli con un tono troppo basso.&lt;br>Alza un po' la voce."</item>
+        <item>Parli a voce troppo alta.&lt;br>Allontana il telefono o abbassa un pochino il tono di voce.</item>
+        <item>"Purtroppo la tua frase di attivazione è &lt;font color='#FF0000'>&lt;b>troppo breve&lt;/b>&lt;/font>. Devi pronunciare &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Purtroppo la tua frase di attivazione è &lt;font color='#FF0000'>&lt;b>troppo lunga&lt;/b>&lt;/font>. Devi pronunciare solo &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"C'è troppo &lt;font color='#FF0000'>&lt;b>rumore&lt;/b>&lt;/font> qui. Trova un angolino silenzioso e riprova."</item>
+        <item>"Hai fatto delle pause &lt;font color='#FF0000'>&lt;b>mentre pronunciavi&lt;/b>&lt;/font> la frase di attivazione. Pronuncia &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> senza pause."</item>
+        <item>"La frase di attivazione che hai pronunciato non è &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Riprova."</item>
+        <item>"Le frasi che hai registrato sono &lt;font color='#FF0000'>&lt;b>troppo diverse tra di loro&lt;/b>&lt;/font>. Riproviamo…"</item>
+        <item>"Le frasi che hai registrato sono &lt;font color='#FF0000'>&lt;b>troppo diverse tra di loro&lt;/b>&lt;/font>. Riproviamo…"</item>
+        <item>"Non capisco. Pronuncia di nuovo &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Non capisco. Pronuncia di nuovo &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>…"</item>
+        <item>"Ho controllato meglio la tua frase e mi sembra &lt;font color='#FF0000'>&lt;b>troppo lunga&lt;/b>&lt;/font>. Provane una più breve."</item>
+        <item>"Pronunci la frase un po' &lt;font color='#FF0000'>&lt;b>troppo presto&lt;/b>&lt;/font>. Fai una pausa prima di &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Oops… c'è &lt;font color='#FF0000'>&lt;b>qualcosa di troppo&lt;/b>&lt;/font> alla fine della frase. Non dire altro dopo aver pronunciato &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Non capisco. Riproviamo. Pronuncia ancora &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Non capisco. Riproviamo. Pronuncia ancora &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"C'è stato qualche problema. Riproviamo…"</item>
+        <item>"Non è stato possibile verificare la frase di attivazione. Pronuncia ancora &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"C'è stato qualche problema. Riproviamo…"</item>
+        <item>"Ci sono stati dei problemi. Riproviamo. Pronuncia &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> in modo chiaro…"</item>
+        <item>"C'è stato qualche problema. Riproviamo…"</item>
+        <item>"C'è troppo rumore. Trova un angolino silenzioso e riproviamo…"</item>
+        <item>"Non è possibile completare la preparazione se usi un &lt;font color='#FF0000'>&lt;b>auricolare con filo&lt;/b>&lt;/font>. Scollega l'auricolare e riprova."</item>
+        <item>Sembra che siamo interrotti. Continua pure.</item>
+        <item>"Le frasi che hai registrato sono &lt;font color='#FF0000'>&lt;b>troppo diverse tra di loro&lt;/b>&lt;/font>. Riproviamo…"</item>
+        <item>"La frase di attivazione che hai pronunciato non è &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Riprova."</item>
+        <item>Non è possibile completare la preparazione mentre il telefono riproduce musica.</item>
+        <item>"Non è possibile completare la preparazione se &lt;font color='#FF0000'>&lt;b>è in corso una chiamata&lt;/b>&lt;/font>. Riprova dopo aver concluso la chiamata."</item>
+        <item>"Non è possibile completare la preparazione mentre &lt;font color='#FF0000'>&lt;b>suona la sveglia&lt;/b>&lt;/font>. Spegni la sveglia e riprova."</item>
+        <item>"Non è possibile completare la preparazione se il &lt;font color='#FF0000'>&lt;b>telefono è sul tavolo&lt;/b>&lt;/font>. Prendi in mano il telefono e riprova."</item>
+        <item>La registrazione è stata interrotta.</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>"Parli un po' troppo lentamente. Puoi parlare più velocemente?"</item>
+        <item>"Parli un po' troppo velocemente. Puoi parlare più lentamente?"</item>
+        <item>"Parli a voce troppo bassa. Alza un po' il tono di voce."</item>
+        <item>Parli a voce troppo alta. Tieni il telefono più lontano o abbassa il tono di voce.</item>
+        <item>"C'è una pausa nella tua frase di attivazione. Pronuncia una frase unica."</item>
+        <item>Non ho capito. Scandisci meglio le parole.</item>
+        <item>"C'è qualche sillaba di troppo. Pronuncia solo \"Ok Google\""</item>
+        <item>"Hai pronunciato \"Ok Google\" un po' troppo presto. Fai una pausa prima."</item>
+        <item>"C'è qualcosa di troppo alla fine di \"Ok Google\". Non dire altro dopo aver pronunciato la frase."</item>
+        <item>Le registrazioni non erano abbastanza simili. Prova di nuovo.</item>
+        <item>"C'è stato qualche problema. Riproviamo."</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Non ho capito. Ricominciamo.</item>
+        <item>Non ho capito. Ricominciamo.</item>
+        <item></item>
+        <item>Non ho capito. Ricominciamo.</item>
+        <item>"C'è stato qualche problema. Ricominciamo."</item>
+        <item>Si faceva fatica a sentire la tua voce. Riprova.</item>
+        <item>Non è possibile completare la preparazione con un auricolare con filo. Scollegalo e riprova.</item>
+        <item>"C'è stata un'interruzione. Ricomincia."</item>
+        <item>Le tue registrazioni sono troppo diverse. Ricominciamo.</item>
+        <item>Siamo stati interrotti. Continua pure.</item>
+        <item>Non è possibile completare la preparazione mentre il telefono riproduce musica.</item>
+        <item>Non è possibile completare la preparazione se è in corso una chiamata. Terminala e riprova.</item>
+        <item>Non è possibile completare la preparazione mentre suona la sveglia. Spegnila e riprova.</item>
+        <item>La registrazione è stata interrotta.</item>
+        <item>"C'era un po' di rumore nella registrazione. Riprova."</item>
+        <item></item>
+        <item>Non ho capito. Scandisci meglio le parole.</item>
+        <item>Non è possibile completare la preparazione con il telefono sul tavolo. Prendi in mano il dispositivo per continuare.</item>
+        <item>"Hai parlato con un tono di voce un po' troppo basso. Riprova alzando un po' la voce."</item>
+        <item>Le tue registrazioni non erano ben sincronizzate. Prova di nuovo.</item>
+        <item>"C'era un po' troppo rumore nelle tue registrazioni. Ripeti le frasi in modo chiaro."</item>
+        <item>Si faceva fatica a sentire la tua voce. Ripeti la registrazione.</item>
+        <item>"La tua voce era un po' troppo alta. Prova di nuovo."</item>
+        <item>Le registrazioni non erano abbastanza simili. Prova di nuovo.</item>
+        <item>"C'è stata un'interruzione. Ripeti la registrazione."</item>
+    </string-array>
+    <string-array name="noise_errors">
+        <item>"Fantastico! Hai trovato un po' di silenzio. Continuiamo."</item>
+        <item>"C'è un po' troppo rumore. Trova un posto silenzioso e continua."</item>
+        <item>"C'è troppo rumore qui. Trova un posto silenzioso e continua."</item>
+    </string-array>
+</resources>

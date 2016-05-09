@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>notificación</item>
+        <item>correo</item>
+        <item>SMS</item>
+        <item>alarma</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ninguno</item>
+        <item>0 minutos</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+        <item>45 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+        <item>2 días</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Lunes</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Disponible</item>
+        <item>Provisional</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>primer</item>
+        <item>segundo</item>
+        <item>tercer</item>
+        <item>cuarto</item>
+        <item>último</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>no ha respondido</item>
+        <item>va a ir</item>
+        <item>quizás vaya</item>
+        <item>no va a ir</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Este evento</item>
+        <item>Todos los eventos posteriores</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Este y otros eventos posteriores</item>
+        <item>Todos los eventos</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Solo este evento</item>
+        <item>Todos los eventos de la serie</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Agenda</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Ocupado</item>
+        <item>Disponible</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Tomate</item>
+        <item>Mandarina</item>
+        <item>Zanahoria</item>
+        <item>Melocotón</item>
+        <item>Huevo</item>
+        <item>Mostaza</item>
+        <item>Aguacate</item>
+        <item>Pistacho</item>
+        <item>Albahaca</item>
+        <item>Eucalipto</item>
+        <item>Salvia</item>
+        <item>Turquesa</item>
+        <item>Cobalto</item>
+        <item>Arándano</item>
+        <item>Lavanda</item>
+        <item>Malva</item>
+        <item>Amatista</item>
+        <item>Berenjena</item>
+        <item>Granate</item>
+        <item>Cerezo</item>
+        <item>Chicle</item>
+        <item>Cacao</item>
+        <item>Grafito</item>
+        <item>Abedul</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Llego un par de minutos tarde</item>
+        <item>Llegaré en unos diez minutos</item>
+        <item>Empezad sin mí</item>
+        <item>No puedo, mejor en otro momento</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Central australiana (TN)</item>
+        <item>Central australiana (AM)</item>
+        <item>Oriental australiana (Queensland)</item>
+        <item>Oriental australiana (NGS)</item>
+        <item>Estándar Montañas (Dawson Creek)</item>
+        <item>Estándar centro (Saskatchewan)</item>
+        <item>Estándar oriental (Atikokan)</item>
+        <item>Estándar del Atlántico (Quebec)</item>
+        <item>Hawái-Aleutiano (Hawái)</item>
+        <item>Hawái-Aleutiano (Alaska)</item>
+        <item>Estándar Pacífico (Metlakatla)</item>
+        <item>Estándar de las Montañas (Arizona)</item>
+        <item>Pacífico (Baja California)</item>
+        <item>Montañas (Chihuahua)</item>
+        <item>Central (Tamaulipas)</item>
+        <item>Montañas (Sonora)</item>
+        <item>Hora de África oriental</item>
+        <item>Hora estándar del Atlántico</item>
+        <item>Hora estándar del Atlántico</item>
+        <item>Hora de Europa oriental</item>
+        <item>Hora de Kaliningrado</item>
+        <item>Amazonas, Rondonia</item>
+        <item>Brasil, Pará</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribe neerlandés</item>
+        <item>Curaçao</item>
+        <item>Sudán del Sur</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPETIR A DIARIO</item>
+        <item>REPETIR CADA SEMANA</item>
+        <item>REPETIR CADA MES</item>
+        <item>REPETIR CADA AÑO</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>No se repite</item>
+        <item>Todos los días</item>
+        <item>Todas las semanas</item>
+        <item>Todos los meses</item>
+        <item>Todos los años</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>el primer domingo del mes</item>
+        <item>el segundo domingo del mes</item>
+        <item>el tercer domingo del mes</item>
+        <item>el cuarto domingo del mes</item>
+        <item>el último domingo del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>el primer lunes del mes</item>
+        <item>el segundo lunes del mes</item>
+        <item>el tercer lunes del mes</item>
+        <item>el cuarto lunes del mes</item>
+        <item>el último lunes del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>el primer martes del mes</item>
+        <item>el segundo martes del mes</item>
+        <item>el tercer martes del mes</item>
+        <item>el cuarto martes del mes</item>
+        <item>el último martes del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>el primer miércoles del mes</item>
+        <item>el segundo miércoles del mes</item>
+        <item>el tercer miércoles del mes</item>
+        <item>el cuarto miércoles del mes</item>
+        <item>el último miércoles del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>el primer jueves del mes</item>
+        <item>el segundo jueves del mes</item>
+        <item>el tercer jueves del me</item>
+        <item>el cuarto jueves del mes</item>
+        <item>el último jueves del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>el primer viernes del mes</item>
+        <item>el segundo viernes del mes</item>
+        <item>el tercer viernes del mes</item>
+        <item>el cuarto viernes del mes</item>
+        <item>el último viernes del mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>el primer sábado del mes</item>
+        <item>el segundo sábado del mes</item>
+        <item>el tercer sábado del mes</item>
+        <item>el cuarto sábado del mes</item>
+        <item>el último sábado del mes</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google Calendar</item>
+        <item>Bonito y fácil de consultar</item>
+        <item>Rellena tu calendario rápida y fácilmente</item>
+        <item>Eventos de Gmail</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Aprovecha al máximo tu día.</item>
+        <item>En la vista Agenda, tu calendario incluye imágenes y mapas.</item>
+        <item>Las Sugerencias te proponen títulos, contactos y lugares mientras escribes.</item>
+        <item>Las reservas de vuelos, restaurantes, etc. se añaden automáticamente desde los correos.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Usa la ubicación del dispositivo.</item>
+        <item></item>
+        <item>Puedes cambiarlo en Ajustes.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Añade a gente y consigue datos de contacto</item>
+        <item>{LOCATION_ICON} Añade lugares y consigue indicaciones</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>¿Con quién?</item>
+        <item>Añade a alguien y consigue datos de contacto</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}El hecho de añadir contactos no implica que se les vaya a enviar una invitación</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>¿Dónde?</item>
+        <item>Añade una ubicación y consigue indicaciones</item>
+    </string-array>
+</resources>

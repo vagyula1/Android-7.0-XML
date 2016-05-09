@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_errors">
+        <item></item>
+        <item>"Sorry, you are speaking a little &lt;font color='#FF0000'>&lt;b>too slowly&lt;/b>&lt;/font>. Please speak more quickly."</item>
+        <item>"Sorry, you are speaking a little &lt;font color='#FF0000'>&lt;b>too quickly&lt;/b>&lt;/font>. Please speak more slowly."</item>
+        <item>"You're speaking too quietly.&lt;br>Please speak up a little."</item>
+        <item>"You're speaking too loudly.&lt;br>Please hold the phone a bit further away or speak more softly."</item>
+        <item>"Sorry, your launch phrase is &lt;font color='#FF0000'>&lt;b>too short&lt;/b>&lt;/font>. Make sure you are saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Sorry, your launch phrase is &lt;font color='#FF0000'>&lt;b>too long&lt;/b>&lt;/font>. Make sure you are just saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"It's a little &lt;font color='#FF0000'>&lt;b>loud&lt;/b>&lt;/font> in here. Please find a quiet place and try again."</item>
+        <item>"Sorry, it seems you &lt;font color='#FF0000'>&lt;b>paused while saying&lt;/b>&lt;/font> the launch phrase. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> as a single phrase."</item>
+        <item>"Sorry, your phrase doesn't sound like &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Please try again."</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start again…"</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start again…"</item>
+        <item>"Sorry, I didn't catch that. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again…"</item>
+        <item>"Sorry, I didn't catch that. Please say &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again…"</item>
+        <item>"After checking your phrase more closely, it appears to be &lt;font color='#FF0000'>&lt;b>too long&lt;/b>&lt;/font>. Try something shorter"</item>
+        <item>"Oops… You are saying the phrase a little &lt;font color='#FF0000'>&lt;b>too soon&lt;/b>&lt;/font>. Please pause before saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Oops… There's some &lt;font color='#FF0000'>&lt;b>extra noise&lt;/b>&lt;/font> at the end of the phrase. Be sure to keep quiet after saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>."</item>
+        <item>"Sorry, I didn't catch that. Let's start again and try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> once more."</item>
+        <item>"Sorry, I didn't catch that. Let's start again and try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> once more."</item>
+        <item>"Sorry, something went wrong. Let's start again…"</item>
+        <item>"Sorry, I wasn't able to verify the launch phrase. Let's try &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> again."</item>
+        <item>"Sorry, something went wrong. Let's start again…"</item>
+        <item>"Sorry, I'm having trouble. Let's start again. Please make sure you're saying &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font> clearly…"</item>
+        <item>"Sorry, something went wrong. Let's start again…"</item>
+        <item>"It's a little loud in here. Please find a quiet place and start again…"</item>
+        <item>"Sorry, training cannot be completed with a &lt;font color='#FF0000'>&lt;b>wired headset&lt;/b>&lt;/font>. Please unplug your headset and try again."</item>
+        <item>Oops, we were interrupted. Please continue now.</item>
+        <item>"Sorry, your recordings &lt;font color='#FF0000'>&lt;b>don't match closely enough&lt;/b>&lt;/font>. Let's start again…"</item>
+        <item>"Sorry, your phrase doesn't sound like &lt;font color='#000000'>&lt;b>OK Google Now&lt;/b>&lt;/font>. Please try again."</item>
+        <item>Training cannot be completed whilst the phone is playing music.</item>
+        <item>"Sorry, training can't be completed while you're &lt;font color='#FF0000'>&lt;b>on the phone&lt;/b>&lt;/font>. Please wait until your call has finished and try again later."</item>
+        <item>"Sorry, training can't be completed while an &lt;font color='#FF0000'>&lt;b>alarm is playing&lt;/b>&lt;/font>. Please dismiss the alarm and try again later."</item>
+        <item>"Sorry, training can't be completed while the &lt;font color='#FF0000'>&lt;b>phone is on the table&lt;/b>&lt;/font>. Please pick up the phone and try again."</item>
+        <item>The recording has been interrupted.</item>
+    </string-array>
+    <string-array name="udt_training_errors">
+        <item></item>
+        <item>"You're speaking a little too slowly. Please speak more quickly."</item>
+        <item>"You're speaking a little too quickly. Please speak more slowly."</item>
+        <item>"You're speaking too quietly. Please speak up a little."</item>
+        <item>"You're speaking too loudly. Please hold the phone a bit further away or speak more quietly."</item>
+        <item>It seems you paused whilst saying the launch phrase. Please say a single phrase.</item>
+        <item>"Didn't catch that. Please speak more clearly."</item>
+        <item>It sounds as though you added extra syllables. Please just say \"Ok Google\".</item>
+        <item>You said \"Ok Google\" a little too soon. Pause before saying it.</item>
+        <item>"There's some extra noise at the end of \"Ok Google\". Please stay quiet for a moment after saying it."</item>
+        <item>"Your recordings didn't match closely enough. Please try again."</item>
+        <item>"Something went wrong. Let's start again."</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>"Sorry, didn't catch that. Let's start again."</item>
+        <item>"Sorry, didn't catch that. Let's start again."</item>
+        <item></item>
+        <item>"Sorry, didn't catch that. Let's start again."</item>
+        <item>"Sorry, something went wrong. Let's start again."</item>
+        <item>There was a problem hearing your voice. Please try again.</item>
+        <item>Training cannot be completed with a wired headset. Please unplug your headset and try again.</item>
+        <item>There was an interruption. Please start again.</item>
+        <item>"Your recordings don't match closely enough. Let's start again."</item>
+        <item>We were interrupted. Please continue now.</item>
+        <item>Training cannot be completed whilst the phone is playing music.</item>
+        <item>"Training cannot be completed whilst you're on the phone. Please finish your call and try again."</item>
+        <item>Training cannot be completed whilst an alarm is playing. Please stop the alarm and try again.</item>
+        <item>The recording has been interrupted.</item>
+        <item>There was some extra noise in the recording. Please try again.</item>
+        <item></item>
+        <item>"Didn't catch that. Please speak more clearly."</item>
+        <item>Training cannot be completed while the phone is on the table. Please pick up the device to continue.</item>
+        <item>Your recordings were a bit too quiet. Please try again and speak up a little.</item>
+        <item>The timing was a little off in your recordings. Please try again.</item>
+        <item>Your recordings contained some extra noise. Please say the phrases again clearly.</item>
+        <item>There was a problem hearing your voice. Please try again.</item>
+        <item>Your recordings were a bit too loud. Please try again.</item>
+        <item>"Your recordings didn't match closely enough. Please try again."</item>
+        <item>There was an interruption. Please try recording again.</item>
+    </string-array>
+    <string-array name="noise_errors">
+        <item>"Great! You found a quiet place. Let's continue."</item>
+        <item>"It's a little too noisy. Find a quiet place to continue."</item>
+        <item>"It's far too loud. Please find a quiet place to continue."</item>
+    </string-array>
+</resources>

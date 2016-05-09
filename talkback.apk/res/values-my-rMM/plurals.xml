@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f စက္ကန့်</item>
+        <item quantity="one">1 စက္ကန့်</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">တံဆိပ် % d ၁ခု အပ်ဒိတ် လုပ်ပြီး</item>
+        <item quantity="zero">တံဆိပ် အသစ်များ မရှိ</item>
+        <item quantity="one">တံဆိပ် ၁ခု အပ်ဒိတ် လုပ်ပြီး</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">ကီး % d အတွက် တာဝန်သတ်မှတ်ပြီး</item>
+        <item quantity="one">ကီး % d အတွက် တာဝန်သတ်မှတ်ပြီး</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s ပုံစံ အရာ %2$d ခု ပြနေ</item>
+        <item quantity="one">%1$s သည် %2$d ကို ပြနေ၏။</item>
+    </plurals>
+</resources>

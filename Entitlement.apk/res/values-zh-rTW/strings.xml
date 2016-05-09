@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">正在檢查訂閱狀態。請稍候...</string>
+    <string name="vzw_error_msg_title">無法處理您的訂單</string>
+    <string name="vzw_error_msg">"如果您想訂閱手機無線熱點/Mobile Broadband Connect，請撥打：
+一般消費者：(800) 256-4646，
+公司行號：(800) 899-4249。"</string>
+    <string name="tmo_error_msg_title">必須升級服務</string>
+    <string name="tmo_error_msg">您目前的費率方案不包含智慧型手機無線熱點服務。此服務能讓您將手機的數據連線分享給其他裝置。您是否要將智慧型手機無線熱點服務新增至您的費率方案? 您也可以在線上新增服務：https://my.t-mobile.com，位於 [Manage] (管理) > [Plans and Services] (方案與服務) 之下。</string>
+    <string name="app_name">權利</string>
+    <string name="network_connection_title">網路連線錯誤</string>
+    <string name="network_connection_error_msg">您的手機目前無法連線至 %s 的伺服器。請稍候再試。</string>
+    <string name="mobile_hotspot">手機無線熱點</string>
+    <string name="spg_dlg_normaltext">若要使用手機無線熱點，您必須訂閱手機無線熱點服務</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">造訪 My Verizon 以深入瞭解並訂閱手機無線熱點。</a></string>
+    <string name="browser_error_msg">無法開啟瀏覽器。</string>
+    <string name="alert_dialog_positive_button">確定</string>
+    <string name="alert_dialog_negative_button">取消</string>
+    <string name="alert_dialog_yes_button">是</string>
+    <string name="alert_dialog_no_button">否</string>
+    <string name="alert_dialog_upgrade_button">升級</string>
+    <string name="alert_dialog_later_button">稍後</string>
+    <string name="att_error_msg">若要啟用，請前往 att.com/mywireless 或撥打 611</string>
+    <string name="att_error_msg_title">帳戶未設定網路分享</string>
+    <string name="att_error_msg_other">網路暫時發生問題，無法啟用手機無線熱點功能。請稍後重試</string>
+    <string name="att_error_msg_other_title">網路錯誤</string>
+    <string name="sprint_error_msg">無法連線到資料網路；您可能無法訂閱網路分享或無線熱點服務；請聯絡您的電信公司。</string>
+    <string name="sprint_error_msg_lte">您尚未訂閱網路分享與熱點服務。是否要查看訂閱選項?</string>
+    <string name="sprint_error_msg_3g">無法連線至數據網路，正在關閉網路分享或熱點。您的方案可能不包含網路分享與熱點服務。是否要查看訂閱選項?</string>
+    <string name="sprint_error_msg_title">網路分享或無線熱點錯誤</string>
+    <string name="sprint_notification_msg">輕觸即可查看更多詳細資料</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

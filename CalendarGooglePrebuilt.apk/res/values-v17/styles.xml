@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RecipientEditTextViewBase" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/chip_height</item>
+        <item name="android:popupBackground">@android:color/white</item>
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipAutocompleteWrapperStyle">
+        <item name="android:paddingTop">@dimen/chip_wrapper_top_padding</item>
+        <item name="android:paddingBottom">@dimen/chip_wrapper_bottom_padding</item>
+        <item name="android:paddingStart">@dimen/chip_wrapper_start_padding</item>
+        <item name="android:paddingEnd">@dimen/chip_wrapper_end_padding</item>
+    </style>
+    <style name="ChipAutocompleteDividerStyle">
+        <item name="android:background">@color/autocomplete_divider_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:layout_marginStart">@dimen/chip_wrapper_start_padding</item>
+    </style>
+    <style name="ChipTitleStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/title</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipSubtitleStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/text1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipPermissionStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_permission_text</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/chips_permission_text</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipStartIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginEnd">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipEndIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginStart">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipDeleteIconStyle" parent="@style/ChipDeleteIconBaseStyle">
+        <item name="android:paddingStart">@dimen/chip_icon_padding</item>
+    </style>
+    <style name="AddEventButton">
+        <item name="android:layout_gravity">end|bottom|center</item>
+        <item name="android:layout_marginEnd">@dimen/add_event_button_edge_margin</item>
+    </style>
+    <style name="LandscapeOverflowButton">
+        <item name="android:layout_marginEnd">@dimen/btn_overflow_side_padding</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="SearchClearButton">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="SearchEditText">
+        <item name="android:layout_toStartOf">@id/clear_search</item>
+    </style>
+    <style name="DayPopUpHeadlineI18n" parent="@style/DayPopUpHeadline">
+        <item name="android:layout_marginStart">@dimen/day_pop_up_header_start</item>
+    </style>
+    <style name="BundleActionBarTitleI18n" parent="@style/BundleActionBarTitle">
+        <item name="android:paddingStart">@dimen/desired_title_left_padding</item>
+    </style>
+    <style name="BundleActionBarImageI18n" parent="@style/BundleActionBarImage">
+        <item name="android:paddingStart">@dimen/bundle_start_padding</item>
+        <item name="android:paddingEnd">@dimen/bundle_end_padding</item>
+    </style>
+    <style name="InfoHeadlineCloseI18n">
+        <item name="android:layout_marginStart">@dimen/info_close_margin_start</item>
+    </style>
+    <style name="InfoHeadlineEditI18n">
+        <item name="android:layout_marginStart">@dimen/info_edit_margin_start</item>
+    </style>
+    <style name="InfoHeadlineTitleI18n" parent="@style/InfoHeadlineTitle">
+        <item name="android:layout_marginStart">@dimen/info_headline_title_margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/info_headline_title_margin_end</item>
+    </style>
+    <style name="InfoSegmentI18n" parent="@style/InfoSegment">
+        <item name="android:paddingStart">@dimen/info_segment_margin_start</item>
+        <item name="android:paddingEnd">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="ClickableContactI18n" parent="@style/ClickableContact">
+        <item name="android:paddingStart">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:paddingEnd">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="ClickableSegmentI18n" parent="@style/ClickableSegment">
+        <item name="android:paddingStart">@dimen/info_segment_margin_start</item>
+        <item name="android:paddingEnd">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoSegmentLabelIconFullI18n" parent="@style/InfoSegmentLabelIconSilent">
+        <item name="android:layout_marginStart">@dimen/info_segment_margin_start</item>
+    </style>
+    <style name="InfoTitleTextViewI18n" parent="@style/InfoTitleTextView">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoTitleTextViewFullI18n" parent="@style/InfoTitleTextViewSilent">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoDetailTextViewI18n" parent="@style/InfoDetailTextView">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoGuestPartitionLabelI18n" parent="@style/InfoGuestPartitionLabelSilent">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_full_margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/info_segment_margin_end</item>
+    </style>
+    <style name="InfoAttendeeNameI18n" parent="@style/InfoAttendeeName">
+        <item name="android:layout_marginStart">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="InfoContactNameI18n" parent="@style/InfoContactName">
+        <item name="android:layout_marginStart">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="InfoContactRelationI18n" parent="@style/InfoContactRelation">
+        <item name="android:layout_marginStart">@dimen/guest_segment_contact_margin_start</item>
+    </style>
+    <style name="ResponseMainActionI18n">
+        <item name="android:paddingStart">@dimen/info_action_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/info_action_padding_horizontal</item>
+    </style>
+    <style name="ResponseMainMultiActionI18n" parent="@style/ResponseMainActionI18n">
+        <item name="android:paddingEnd">@dimen/info_action_half_padding_horizontal</item>
+    </style>
+    <style name="ResponsePaddedButtonI18n" parent="@style/ResponseButton">
+        <item name="android:paddingStart">@dimen/info_action_half_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/info_action_half_padding_horizontal</item>
+    </style>
+    <style name="Edit.HeaderButton" parent="@style/CalendarButton">
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+    <style name="Edit.Text.Edit" parent="@style/Edit.Text">
+        <item name="android:paddingTop">@dimen/edit_segment_edit_text_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/edit_segment_edit_text_vertical_padding</item>
+        <item name="android:layout_marginRight">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:layout_marginEnd">@dimen/edit_segment_horizontal_padding</item>
+    </style>
+    <style name="Edit.Spinner" parent="@style/Edit">
+        <item name="android:textColor">@color/edit_text_color</item>
+        <item name="android:paddingRight">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:popupBackground">@color/edit_dropdown_background</item>
+        <item name="android:spinnerMode">dialog</item>
+        <item name="android:paddingEnd">@dimen/edit_segment_horizontal_padding</item>
+    </style>
+    <style name="Edit.Icon" parent="@style/Edit">
+        <item name="android:paddingLeft">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">24.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+    <style name="Edit.Icon.Color" parent="@style/Edit.Icon">
+        <item name="android:paddingLeft">@dimen/edit_segment_color_icon_padding</item>
+        <item name="android:paddingRight">28.0dip</item>
+        <item name="android:paddingStart">@dimen/edit_segment_color_icon_padding</item>
+        <item name="android:paddingEnd">28.0dip</item>
+    </style>
+    <style name="Edit.Checkmark" parent="@style/Edit">
+        <item name="android:paddingTop">18.0dip</item>
+        <item name="android:paddingRight">@dimen/edit_segment_margin_end</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ic_check_blue</item>
+        <item name="android:contentDescription">@string/acessibility_selected_checkmark_description</item>
+        <item name="android:paddingEnd">@dimen/edit_segment_margin_end</item>
+    </style>
+    <style name="InfoTallContentViewI18n" parent="@style/InfoTallContentView">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_full_margin_start</item>
+    </style>
+    <style name="SmartInfoTitleTextViewI18n" parent="@style/SmartInfoTitleTextView">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="InfoHeadlineAttributionI18n" parent="@style/InfoHeadlineAttribution">
+        <item name="android:paddingStart">@dimen/info_headline_title_margin_start</item>
+        <item name="android:paddingEnd">@dimen/info_headline_title_margin_end</item>
+    </style>
+    <style name="SmartInfoDetailTextViewI18n" parent="@style/SmartInfoDetailTextView">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="SmartInfoDetailTextViewPlusI18n" parent="@style/SmartInfoDetailTextViewPlus">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="SmartInfoStatusTextViewPlusI18n" parent="@style/SmartInfoStatusTextViewPlus">
+        <item name="android:layout_marginStart">@dimen/info_segment_content_margin_start</item>
+    </style>
+    <style name="CreateNewEventViewI18n">
+        <item name="android:paddingStart">@dimen/selected_rect_padding</item>
+        <item name="android:paddingEnd">@dimen/selected_rect_padding</item>
+    </style>
+</resources>

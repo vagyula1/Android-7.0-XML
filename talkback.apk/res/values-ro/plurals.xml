@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f (de) secunde</item>
+        <item quantity="one">1 secundă</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">%d (de) etichete actualizate</item>
+        <item quantity="zero">Nicio etichetă nouă</item>
+        <item quantity="one">O etichetă actualizată</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">%d (de) taste asociate</item>
+        <item quantity="one">%d tastă asociată</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s afișează %2$d (de) elemente.</item>
+        <item quantity="one">%1$s afișează %2$d element.</item>
+    </plurals>
+</resources>

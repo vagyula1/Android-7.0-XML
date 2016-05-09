@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_registerSmartNotifications">스마트 알림에 등록</string>
+    <string name="permdesc_registerSmartNotifications">모토로라 서명으로 서명된 엔드 포인트 앱이 스마트 알림의 동기화 엔진에 등록할 수 있도록 허용합니다.</string>
+    <string name="permlab_readNdef">Android Beam 데이터 읽기</string>
+    <string name="permdesc_readNdef">앱이 다른 앱의 Android Beam 데이터를 읽을 수 있도록 허용</string>
+    <string name="permlab_accessDrm">DRM 콘텐츠에 액세스합니다.</string>
+    <string name="permdesc_accessDrm">애플리케이션이 DRM으로 보호된 콘텐츠에 액세스할 수 있도록 허용합니다.</string>
+    <string name="permlab_volumeSetting">볼륨 설정 정의</string>
+    <string name="permdesc_volumeSetting">볼륨 패널 및 하드웨어 키 동작 정의 허용</string>
+    <string name="permlab_cameradump">내부 카메라 상태 검색</string>
+    <string name="permdesc_cameradump">애플리케이션이 카메라 서비스의 내부 상태 정보를 검색할 수 있도록 허용합니다.</string>
+    <string name="permdesc_accessCogRadio">라디오 진단 데이터 액세스</string>
+    <string name="permlab_accessCogRadio">앱이 라디오 진단 데이터를 액세스할 수 있도록 허용합니다.</string>
+    <string name="permlab_accessCheckin">checkin 공급자 액세스 권한</string>
+    <string name="permdesc_accessCheckin">시스템 앱에서 Checkin 공급자에 액세스할 수 있도록 허용합니다.</string>
+</resources>

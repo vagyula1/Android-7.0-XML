@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BidiTabScrollView">
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="PlayHeaderListTabScrollview">
+        <item name="android:layoutDirection">inherit</item>
+    </style>
+    <style name="ThemeTranslucentNoTitleBar.NoStatusBar" parent="@style/ThemeTranslucentNoTitleBar">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>

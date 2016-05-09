@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>обавештење</item>
+        <item>е-порука</item>
+        <item>SMS</item>
+        <item>аларм</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ништа</item>
+        <item>0 минута</item>
+        <item>1 минут</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>15 минута</item>
+        <item>20 минута</item>
+        <item>25 минута</item>
+        <item>30 минута</item>
+        <item>45 минута</item>
+        <item>1 сат</item>
+        <item>2 сата</item>
+        <item>3 сата</item>
+        <item>12 сати</item>
+        <item>24 сата</item>
+        <item>2 дана</item>
+        <item>1 недеља</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>субота</item>
+        <item>недеља</item>
+        <item>понедељак</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Заузето</item>
+        <item>Доступан/а</item>
+        <item>Проба</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>први</item>
+        <item>други</item>
+        <item>трећи</item>
+        <item>четврти</item>
+        <item>последњи</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>још увек нема одговора</item>
+        <item>иду</item>
+        <item>можда</item>
+        <item>не иду</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Овај догађај</item>
+        <item>Све наредне догађаје</item>
+        <item>Сви догађаји</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Овај и будући догађаји</item>
+        <item>Сви догађаји</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само овај догађај</item>
+        <item>Сви догађаји у овом низу</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Дан</item>
+        <item>Недеља</item>
+        <item>Месец</item>
+        <item>Распоред</item>
+        <item>Timely</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>Заузет/а</item>
+        <item>Доступан/на</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>Парадајз</item>
+        <item>Мандарина</item>
+        <item>Бундева</item>
+        <item>Манго</item>
+        <item>Сунцокрет</item>
+        <item>Лимун</item>
+        <item>Авокадо</item>
+        <item>Пистаћи</item>
+        <item>Босиљак</item>
+        <item>Еукалиптус</item>
+        <item>Жалфија</item>
+        <item>Тиркиз</item>
+        <item>Кобалт</item>
+        <item>Боровница</item>
+        <item>Различак</item>
+        <item>Лаванда</item>
+        <item>Аметист</item>
+        <item>Грожђе</item>
+        <item>Вино</item>
+        <item>Трешњин цвет</item>
+        <item>Фламинго</item>
+        <item>Какао</item>
+        <item>Графит</item>
+        <item>Бреза</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Касним пар минута.</item>
+        <item>Стижем за 10 минута.</item>
+        <item>Почните без мене.</item>
+        <item>Жао ми је, не могу да стигнем. Мораћемо да одложимо.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Аустралијско централно – север</item>
+        <item>Аустралијско централно – југ</item>
+        <item>Источноаустралијско – Квинсланд</item>
+        <item>Источноаустр. – Нови Јужни Велс</item>
+        <item>Планинско стандард. – Досон Крик</item>
+        <item>Централ. стандардно – Саскачеван</item>
+        <item>Источно стандардно – Атикокан</item>
+        <item>Атланско стандардно – Квебек</item>
+        <item>Хавајско-алеутско – Хаваји</item>
+        <item>Хавајско-алеутско – Аљаска</item>
+        <item>Пацифик, стандардно – Метлакатла</item>
+        <item>Планинско стандардно – Аризона</item>
+        <item>Пацифик – Доња Калифорнија</item>
+        <item>Планинско – Чихуахуа</item>
+        <item>Централно – Тамаулипас</item>
+        <item>Планинско – Сонора</item>
+        <item>Источноафричко време</item>
+        <item>Атланско стандардно време</item>
+        <item>Атланско стандардно време</item>
+        <item>Источноевропско време</item>
+        <item>Калињинградско време</item>
+        <item>Амазон – Рондонија</item>
+        <item>Бразилија – Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Свети Мартин</item>
+        <item>Карипска Холандија</item>
+        <item>Курасао</item>
+        <item>Јужни Судан</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОНАВЉАЈ ДНЕВНО</item>
+        <item>ПОНАВЉАЈ НЕДЕЉНО</item>
+        <item>ПОНАВЉАЈ МЕСЕЧНО</item>
+        <item>ПОНАВЉАЈ ГОДИШЊЕ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Не понавља се</item>
+        <item>Сваког дана</item>
+        <item>Сваке недеље</item>
+        <item>Сваког месеца</item>
+        <item>Сваке године</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>сваке прве недеље</item>
+        <item>сваке друге недеље</item>
+        <item>сваке треће недеље</item>
+        <item>сваке четврте недеље</item>
+        <item>сваке последње недеље</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>сваког првог понедељка</item>
+        <item>сваког другог понедељка</item>
+        <item>сваког трећег понедељка</item>
+        <item>сваког четвртог понедељка</item>
+        <item>сваког последњег понедељка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>сваког првог уторка</item>
+        <item>сваког другог уторка</item>
+        <item>сваког трећег уторка</item>
+        <item>сваког четвртог уторка</item>
+        <item>сваког последњег уторка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>сваке прве среде</item>
+        <item>сваке друге среде</item>
+        <item>сваке треће среде</item>
+        <item>сваке четврте среде</item>
+        <item>сваке последње среде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>сваког првог четвртка</item>
+        <item>сваког другог четвртка</item>
+        <item>сваког трећег четвртка</item>
+        <item>сваког четвртог четвртка</item>
+        <item>сваког последњег четвртка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>сваког првог петка</item>
+        <item>сваког другог петка</item>
+        <item>сваког трећег петка</item>
+        <item>сваког четвртог петка</item>
+        <item>сваког последњег петка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>сваке прве суботе</item>
+        <item>сваке друге суботе</item>
+        <item>сваке треће суботе</item>
+        <item>сваке четврте суботе</item>
+        <item>сваке последње суботе</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google календар</item>
+        <item>Лако се прегледа и лепо изгледа</item>
+        <item>Брзо и лако попуните календар</item>
+        <item>Догађаји из Gmail-а</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Искористите сваки дан на најбољи начин.</item>
+        <item>Приказ распореда додаје слике и мапе на календар.</item>
+        <item>Помоћници омогућавају приказивање предлога за наслове, контакте и места док уносите текст.</item>
+        <item>Из имејлова се аутоматски додају резервације летова, ресторана итд.</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Користи локацију уређаја.</item>
+        <item></item>
+        <item>Ово можете да промените у Подешавањима.</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Додајте људе и добијте контакт информације</item>
+        <item>{LOCATION_ICON} Додајте места и добијте путању</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>С ким?</item>
+        <item>Додајте некога и добијте контакт информације</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Ако додате контакте, нећете им послати позив</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Где?</item>
+        <item>Додајте локацију и добијте путању</item>
+    </string-array>
+</resources>

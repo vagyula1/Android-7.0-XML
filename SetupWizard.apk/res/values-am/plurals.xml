@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">በ%d ሰከንዶች ውስጥ በመዝጋት ላይ...</item>
+        <item quantity="one">በ%d ሰከንዶች ውስጥ በመዝጋት ላይ...</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"የሚከተሉት መለያዎች ዝግጁ ናቸው፦
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"የሚከተሉት መለያዎች ዝግጁ ናቸው፦
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">የQR ኮድ ቅንብርን ለማስጀመር %d ተጨማሪ መታ ማድረጎች</item>
+        <item quantity="one">የQR ኮድ ቅንብርን ለማስጀመር %d ተጨማሪ መታ ማድረጎች</item>
+    </plurals>
+</resources>

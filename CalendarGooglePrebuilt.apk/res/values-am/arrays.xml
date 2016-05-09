@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>ማሳወቂያ</item>
+        <item>ኢሜይል</item>
+        <item>አጭር የፅሁፍ መልዕክት</item>
+        <item>ማንቂያ ደውል</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>የለም</item>
+        <item>0 ደቂቃዎች</item>
+        <item>1 ደቂቃ</item>
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>45 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+        <item>2 ሰዓቶች</item>
+        <item>3 ሰዓቶች</item>
+        <item>12 ሰዓቶች</item>
+        <item>24 ሰዓቶች</item>
+        <item>2 ቀኖች</item>
+        <item>1 ሳምንት</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ቅዳሜ</item>
+        <item>እሁድ</item>
+        <item>ሰኞ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ተይዟ ል</item>
+        <item>የሚገኝ</item>
+        <item>ጊዜያዊ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>አንደኛ</item>
+        <item>ሁለተኛ</item>
+        <item>ሦስተኛ</item>
+        <item>አራተኛ</item>
+        <item>መጨረሻ</item>
+    </string-array>
+    <string-array name="invitation_responses">
+        <item>እስካሁን ምላሽ አልተሰጠም</item>
+        <item>እሄዳለሁ</item>
+        <item>ምናልባት</item>
+        <item>አልሄድም</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ይህ ክስተት</item>
+        <item>ሁሉም ተከትለው የሚመጡ ክስተቶች</item>
+        <item>ሁሉም ክስተቶች</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ይህ&amp; የወደፊት ዝግጅቶች</item>
+        <item>ሁሉም ክስተቶች</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ይህ ክስተት ብቻ</item>
+        <item>ሁሉም ዝግጅቶች በተከታታይ</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>ቀን</item>
+        <item>ሳምንት</item>
+        <item>ወር</item>
+        <item>አጀንዳ</item>
+        <item>በጊዜው</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>ተይዟል</item>
+        <item>ማግኘት ይ</item>
+    </string-array>
+    <string-array name="color_names">
+        <item>ቲማቲም ቀለም</item>
+        <item>ብርትኳናማ</item>
+        <item>ብርትኳናማ</item>
+        <item>ቢጫ</item>
+        <item>ሙዝ ቀለም</item>
+        <item>የሎሚ ቀለም</item>
+        <item>አቮካዶ ቀለም</item>
+        <item>አረንጓዴ</item>
+        <item>አረንጓዴ</item>
+        <item>የባህር ዛፍ ቀለም</item>
+        <item>አረንጓዴ</item>
+        <item>ሰማያዊ</item>
+        <item>ውሃ ሰማያዊ</item>
+        <item>ሰማያዊ</item>
+        <item>ሰማያዊ</item>
+        <item>ወይን ጠጅ</item>
+        <item>ወይን ጠጅ</item>
+        <item>ወይን ጠጅ</item>
+        <item>ሐምራዊ</item>
+        <item>ወይን ጠጅ</item>
+        <item>ሐምራዊ</item>
+        <item>ቡናማ</item>
+        <item>ግራጫ</item>
+        <item>ግራጫ</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>ደርሻለሁ አንድ ሁለት ደቂቃ ጠብቀኝ።</item>
+        <item>በ10 ደቂቃ ውስጥ እደርሳለሁ።</item>
+        <item>እኔን አትጠብቁኝ፣ ጀምሩ።</item>
+        <item>ይቅርታ ልደርስ አልችልም። ለሌላ ጊዜ ቀጠሮ ማስያዝ ይኖርብናል።</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>የአውስትራሊያ ማዕከላዊ - ኤን ቲ</item>
+        <item>የአውትራሊያ ማዕከላዊ - ኤስ ኤ</item>
+        <item>የአውትራሊያ ምስራቃዊ - ኪዩ ኤል ዲ</item>
+        <item>የአውስትራሊያ ምስራቃዊ - ኤን ኤስ ደብልዩ</item>
+        <item>የተራራ መደበኛ - ዳውሰን ክሪክ</item>
+        <item>ማዕከላዊ መደበኛ - ሳስካቸዋን</item>
+        <item>ምስራቃዊ መደበኛ - አቲኮካን</item>
+        <item>አትላንቲክ መደበኛ - ኴቤክ</item>
+        <item>ሃዋዪ-አሊዩሻን - ሃዋዪ</item>
+        <item>ሃዋዪ-አሊዩሻን - አላስካ</item>
+        <item>ፓሲፊክ መደበኛ - መትላካትላ</item>
+        <item>የተራራ መደበኛ - አሪዞና</item>
+        <item>ፓሲፊክ - ባያ ካሊፎርኒያ</item>
+        <item>ተራራ - ቺዋዋ</item>
+        <item>ማዕከላዊ - ታማውሊፓስ</item>
+        <item>ተራራ - ሶኖራ</item>
+        <item>የምስራቅ አፍሪካ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የአትላንቲክ መደበኛ ሰዓት</item>
+        <item>የምስራቃዊ አውሮፓ ሰዓት</item>
+        <item>የካሊኒንግራድ ሰዓት</item>
+        <item>አማዞን - ዶንዶኒያ</item>
+        <item>ብራሲሊያ - ፓራ</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>ሲንት ማርተን</item>
+        <item>የካሪቢያን ኔዘርላንድስ</item>
+        <item>ኩራሳዎ</item>
+        <item>ደቡብ ሱዳን</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>በየቀኑ ይደገም</item>
+        <item>በየሳምንቱ ይደገም</item>
+        <item>በየወሩ ይደገም</item>
+        <item>በየዓመቱ ይደገም</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>አይደግምም</item>
+        <item>በየቀኑ</item>
+        <item>በየሳምንቱ</item>
+        <item>በየወሩ</item>
+        <item>በየዓመቱ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>በእያንዳንዱ የመጀመሪያ እሁድ</item>
+        <item>በእያንዳንዱ ሁለተኛ እሁድ</item>
+        <item>በእያንዳንዱ ሶስተኛ እሁድ</item>
+        <item>በእያንዳንዱ አራተኛ እሁድ</item>
+        <item>በእያንዳንዱ የመጨረሻ እሁድ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>በእያንዳንዱ የመጀመሪያ ሰኞ</item>
+        <item>በእያንዳንዱ ሁለተኛ ሰኞ</item>
+        <item>በእያንዳንዱ ሶስተኛ ሰኞ</item>
+        <item>በእያንዳንዱ አራተኛ ሰኞ</item>
+        <item>በእያንዳንዱ የመጨረሻ ሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>በእያንዳንዱ የመጀመሪያ ማክሰኞ</item>
+        <item>በእያንዳንዱ ሁለተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ ሶስተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ አራተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ የመጨረሻ ማክሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>በእያንዳንዱ የመጀመሪያ ረቡዕ</item>
+        <item>በእያንዳንዱ ሁለተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ ሶስተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ አራተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ የመጨረሻ ረቡዕ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>በእያንዳንዱ የመጀመሪያ ሙስ</item>
+        <item>በእያንዳንዱ ሁለተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ ሶስተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ አራተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ የመጨረሻ ሐ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>በእያንዳንዱ የመጀመሪያ ዓርብ</item>
+        <item>በእያንዳንዱ ሁለተኛ ዓርብ</item>
+        <item>በእያንዳንዱ ሶስተኛ ዓርብ</item>
+        <item>በእያንዳንዱ አራተኛ ዓርብ</item>
+        <item>በእያንዳንዱ የመጨረሻ ዓርብ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>በእያንዳንዱ የመጀመሪያ ቅዳሜ</item>
+        <item>በእያንዳንዱ ሁለተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ ሶስተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ አራተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ የመጨረሻ ቅዳሜ</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google የቀን መቁጠሪያ</item>
+        <item>ለመቃኘት ቀላል እና ለመመልከ</item>
+        <item>የእርስዎን ቀን መቁጠሪያ በፍጥነት እና በቀላሉ ይሙሉ</item>
+        <item>ከGmail የመጡ ክስተቶች</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>በየቀኑ ማድረግ የሚቻለውን ሁሉ ይበልጥ ያድርጉ።</item>
+        <item>ዕይታን ዕቅድ አውጣ ምስሎችን እና ካርታዎችን በቀን መቁጠሪያዎ ላይ ያስቀጣል።</item>
+        <item>ከረዳቶች ጋር፣ ለርዕሶች ጥቆማዎች፣ ዕውቂያዎች እና ቦታዎች በሚተይቡበት ጊዜ ብቅ ይላሉ።</item>
+        <item>የበራራ፣ የምግብ ቤቶች እና ተጨማሪ ነገሮች አስቀድሞ ቦታ መያዣዎች ከኢሜይሎች ላይ በራስሰር ታክለዋል።</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>የመሣሪያ መገኛ አካባቢን ይጠቀማል።</item>
+        <item></item>
+        <item>ይህንን በቅንብሮች ላይ ሊለውጡት ይችላሉ።</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} ሰዎችን ያክሉ፣ የእውቂያ መረጃ ያግኙ</item>
+        <item>{LOCATION_ICON} ቦታዎችን ያክሉ፣ አቅጣጫዎችን ያግኙ</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>ከማን ጋር?</item>
+        <item>አንድ ሰው ያክሉ፣ የእውቂያ መረጃ ያግኙ</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}እውቂያዎችን ማከል ግብዣን አይልክም</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>የት?</item>
+        <item>መገኛ አካባቢን ያክሉ፣ አቅጣጫዎችን ያግኙ</item>
+    </string-array>
+</resources>

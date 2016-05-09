@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d초 후에 종료됩니다…</item>
+        <item quantity="one">1초 후에 종료됩니다...</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"다음 계정이 준비되었습니다.
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"다음 계정이 준비되었습니다.
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">%d번 더 탭하여 QR 코드 설정 시작</item>
+        <item quantity="one">%d번 더 탭하여 QR 코드 설정 시작</item>
+    </plurals>
+</resources>

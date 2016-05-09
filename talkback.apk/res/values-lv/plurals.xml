@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f sekundes</item>
+        <item quantity="one">1 sekunde</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Tika atjauninātas %d iezīmes.</item>
+        <item quantity="zero">Nav nevienas jaunas iezīmes.</item>
+        <item quantity="one">Tika atjaunināta 1 iezīme.</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Piešķirto atslēgu skaits: %d</item>
+        <item quantity="one">Piešķirta %d atslēga</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s rāda %2$d vienumus.</item>
+        <item quantity="one">%1$s rāda %2$d vienumu.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Protecció</string>
+    <string name="bugreport_in_progress_title">"S'està generant l'informe d'errors #%d"</string>
+    <string name="bugreport_finished_title">"S'ha capturat l'informe d'errors #%d"</string>
+    <string name="bugreport_finished_pending_screenshot_title">"L'informe d'errors #%d s'ha capturat (captura pendent)"</string>
+    <string name="bugreport_updating_title">"S'estan afegint detalls a l'informe d'errors"</string>
+    <string name="bugreport_updating_wait">Espera…</string>
+    <string name="bugreport_finished_text">"Toca per compartir l'informe d'errors"</string>
+    <string name="bugreport_finished_pending_screenshot_text">"Toca per compartir l'informe d'errors sense captura de pantalla o espera que es creï la captura"</string>
+    <string name="bugreport_confirm">"Els informes d'error contenen dades dels diferents fitxers de registre del sistema, inclosa informació privada i personal. Comparteix els informes d'error només amb les aplicacions i amb les persones en qui confies."</string>
+    <string name="bugreport_confirm_repeat">Mostra aquest missatge la propera vegada</string>
+    <string name="bugreport_storage_title">"Informes d'error"</string>
+    <string name="bugreport_unreadable_text">"No s'ha pogut llegir el fitxer de l'informe d'errors"</string>
+    <string name="bugreport_unnamed">sense nom</string>
+    <string name="bugreport_info_action">Detalls</string>
+    <string name="bugreport_screenshot_action">Captura de pantalla</string>
+    <string name="bugreport_screenshot_taken">"La captura de pantalla s'ha fet correctament."</string>
+    <string name="bugreport_screenshot_failed">"No s'ha pogut fer la captura de pantalla."</string>
+    <string name="bugreport_info_dialog_title">"Detalls de l'informe d'errors #%d"</string>
+    <string name="bugreport_info_name">Nom del fitxer</string>
+    <string name="bugreport_info_title">"Títol de l'error"</string>
+    <string name="bugreport_info_description">"Resum d'errors"</string>
+    <string name="save">Desa</string>
+</resources>

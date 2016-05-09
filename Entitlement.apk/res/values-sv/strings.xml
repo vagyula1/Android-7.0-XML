@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_check_msg">Kontrollerar prenumerationsstatus. Vänta ...</string>
+    <string name="vzw_error_msg_title">Det gick inte att bearbeta beställningen</string>
+    <string name="vzw_error_msg">"Om du vill prenumerera på mobil trådlös surfzon/Mobile Broadband Connect ringer du: 
+ Privat: (800) 256-4646, 
+ Företag: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Tjänstuppgradering krävs</string>
+    <string name="tmo_error_msg">Din aktuella prisplan omfattar inte tjänsten för mobil trådlös surfzon för smarttelefoner som gör det möjligt att dela telefonens dataanslutning med andra enheter. Vill du lägga till tjänsten för mobil trådlös surfzon för smarttelefoner till din prisplan ? Du kan även lägga till den online på https://my.t-mobile.com under Manage (hantera) > Plans and Services (planer och tjänster).</string>
+    <string name="app_name">Berättigande</string>
+    <string name="network_connection_title">Nätverksanslutningsfel</string>
+    <string name="network_connection_error_msg">Telefonen kan för närvarande inte ansluta till %s-servern. Försök igen senare.</string>
+    <string name="mobile_hotspot">Mobil trådlös surfzon</string>
+    <string name="spg_dlg_normaltext">Om du vill använda mobil trådlös surfzon måste du prenumerera på tjänsten för mobil trådlös surfzon</string>
+    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Gå till My Verizon om du vill få mer information och prenumerera på tjänsten för mobil trådlös surfzon.</a></string>
+    <string name="browser_error_msg">Det går inte att öppna webbläsaren.</string>
+    <string name="alert_dialog_positive_button">OK</string>
+    <string name="alert_dialog_negative_button">Avbryt</string>
+    <string name="alert_dialog_yes_button">Ja</string>
+    <string name="alert_dialog_no_button">Nej</string>
+    <string name="alert_dialog_upgrade_button">Uppgradera</string>
+    <string name="alert_dialog_later_button">Senare</string>
+    <string name="att_error_msg">Aktivera genom att gå till att.com/mywireless eller ringa 611</string>
+    <string name="att_error_msg_title">Kontot är inte inställt för internetdelning</string>
+    <string name="att_error_msg_other">Det har inträffat ett tillfälligt nätverksproblem som förhindrar aktivering av funktionen för mobil trådlös surfzon. Försök igen senare.</string>
+    <string name="att_error_msg_other_title">Nätverksfel</string>
+    <string name="sprint_error_msg">Det gick inte att ansluta till datanätverket. Du kanske inte prenumererar på internetdelning eller tjänsten för trådlös surfzon. Kontakta teleoperatören.</string>
+    <string name="sprint_error_msg_lte">Du prenumererar inte på tjänsten för internetdelning och trådlös surfzon. Vill du se prenumerationsalternativ?</string>
+    <string name="sprint_error_msg_3g">Det gick inte att ansluta till datanätverket. Internetdelning eller trådlös surfzon inaktiveras. Tjänsten för internetdelning och trådlös surfzon kanske inte ingår i din plan. Vill du se prenumerationsalternativ?</string>
+    <string name="sprint_error_msg_title">Internetdelnings- eller surfzonsfel</string>
+    <string name="sprint_notification_msg">Tryck här för att visa mer information</string>
+    <string name="att">AT&amp;T</string>
+    <string name="verizon">Verizon</string>
+    <string name="tmo">T-Mobile</string>
+    <string name="sprint">Sprint</string>
+</resources>

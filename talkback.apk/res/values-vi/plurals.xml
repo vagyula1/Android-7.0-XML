@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Đã cập nhật %d nhãn</item>
+        <item quantity="zero">Không có nhãn mới</item>
+        <item quantity="one">Đã cập nhật 1 nhãn</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Đã chỉ định %d phím</item>
+        <item quantity="one">Đã chỉ định %d phím</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s hiển thị %2$d mục.</item>
+        <item quantity="one">%1$s hiển thị %2$d mục.</item>
+    </plurals>
+</resources>

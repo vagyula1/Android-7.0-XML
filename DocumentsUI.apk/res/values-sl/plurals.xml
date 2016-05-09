@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopiranje %1$d datotek.</item>
+        <item quantity="one">Kopiranje %1$d datoteke.</item>
+        <item quantity="two">Kopiranje %1$d datotek.</item>
+        <item quantity="few">Kopiranje %1$d datotek.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Premikanje %1$d datotek.</item>
+        <item quantity="one">Premikanje %1$d datoteke.</item>
+        <item quantity="two">Premikanje %1$d datotek.</item>
+        <item quantity="few">Premikanje %1$d datotek.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Izbris %1$d datotek</item>
+        <item quantity="one">Izbris %1$d datoteke</item>
+        <item quantity="two">Izbris %1$d datotek</item>
+        <item quantity="few">Izbris %1$d datotek</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d datotek ni bilo mogoče kopirati</item>
+        <item quantity="one">%1$d datoteke ni bilo mogoče kopirati</item>
+        <item quantity="two">%1$d datotek ni bilo mogoče kopirati</item>
+        <item quantity="few">%1$d datotek ni bilo mogoče kopirati</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d datotek ni bilo mogoče premakniti</item>
+        <item quantity="one">%1$d datoteke ni bilo mogoče premakniti</item>
+        <item quantity="two">%1$d datotek ni bilo mogoče premakniti</item>
+        <item quantity="few">%1$d datotek ni bilo mogoče premakniti</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d datotek ni bilo mogoče izbrisati</item>
+        <item quantity="one">%1$d datoteke ni bilo mogoče izbrisati</item>
+        <item quantity="two">%1$d datotek ni bilo mogoče izbrisati</item>
+        <item quantity="few">%1$d datotek ni bilo mogoče izbrisati</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">V odložišče je bilo kopiranih %1$d datotek.</item>
+        <item quantity="one">V odložišče je bila kopirana %1$d datoteka.</item>
+        <item quantity="two">V odložišče sta bili kopirani %1$d datoteki.</item>
+        <item quantity="few">V odložišče so bile kopirane %1$d datoteke.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbran</item>
+        <item quantity="two">%1$d izbrana</item>
+        <item quantity="few">%1$d izbrani</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Ali želite izbrisati %1$d datotek?</item>
+        <item quantity="one">Ali želite izbrisati %1$d datoteko?</item>
+        <item quantity="two">Ali želite izbrisati %1$d datoteki?</item>
+        <item quantity="few">Ali želite izbrisati %1$d datoteke?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Ali želite izbrisati %1$d map in njihovo vsebino?</item>
+        <item quantity="one">Ali želite izbrisati %1$d mapo in njihovo vsebino?</item>
+        <item quantity="two">Ali želite izbrisati %1$d mapi in njihovo vsebino?</item>
+        <item quantity="few">Ali želite izbrisati %1$d mape in njihovo vsebino?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Ali želite izbrisati %1$d elementov?</item>
+        <item quantity="one">Ali želite izbrisati %1$d element?</item>
+        <item quantity="two">Ali želite izbrisati %1$d elementa?</item>
+        <item quantity="few">Ali želite izbrisati %1$d elemente?</item>
+    </plurals>
+</resources>

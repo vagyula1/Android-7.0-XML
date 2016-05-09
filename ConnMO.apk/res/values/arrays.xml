@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_name_list_entries">
+        <item>VZW LTE</item>
+        <item>VZW MOTIVE</item>
+        <item>VZW MOTIVE-Test3.11.1</item>
+    </string-array>
+    <string-array name="server_name_list_values">
+        <item>https://4g.vzwdm.com</item>
+        <item>https://ivzwmdmii.iot.motive.com:443/southbound-connector/dm</item>
+        <item>https://ivzwmdmx.iot.motive.com:443</item>
+    </string-array>
+    <string-array name="supported_plmns">
+        <item>311480</item>
+        <item>20404</item>
+    </string-array>
+</resources>

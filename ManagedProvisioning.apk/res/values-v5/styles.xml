@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogFragmentScrollView" parent="@android:style/Widget.Material.Light.ScrollView">
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:paddingLeft">@dimen/dialog_text_padding_left_right</item>
+        <item name="android:paddingRight">@dimen/dialog_text_padding_left_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:fadeScrollbars">false</item>
+    </style>
+</resources>

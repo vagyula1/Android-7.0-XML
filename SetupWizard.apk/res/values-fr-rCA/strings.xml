@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">"L'application %1$s éprouve un problème avec les services Google Play. Si le problème persiste, veuillez communiquer avec le développeur pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette.</string>
+    <string name="common_google_play_services_install_button">Installer les services Google Play</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_button">Activer les services Google Play</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_update_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_google_play_services_updating_title">Mise à jour des services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis à jour.</string>
+    <string name="common_google_play_services_network_error_title">Erreur réseau</string>
+    <string name="common_google_play_services_network_error_text">"Vous devez disposer d'une connexion de données pour utiliser les services Google Play."</string>
+    <string name="common_google_play_services_invalid_account_title">Compte non valide</string>
+    <string name="common_google_play_services_invalid_account_text">"Le compte indiqué n'existe pas sur cet appareil. Veuillez sélectionner un autre compte."</string>
+    <string name="common_google_play_services_unsupported_title">Services Google Play</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s dépend des services Google Play, qui ne sont pas compatibles avec votre appareil. Veuillez communiquer avec le fabricant pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_update_button">Mettre à jour</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_google_play_services_api_unavailable_text">"%1$s nécessite un ou plusieurs services Google Play qui ne sont pas disponibles actuellement. Veuillez communiquer avec le développeur pour obtenir de l'aide."</string>
+    <string name="common_google_play_services_sign_in_failed_title">Échec de connexion</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erreur lors de la connexion au compte indiqué. Veuillez en sélectionner un autre.</string>
+    <string name="common_google_play_services_restricted_profile_title">Profil limité</string>
+    <string name="common_google_play_services_restricted_profile_text">"L'accès aux comptes à partir d'un profil limité n'est pas possible."</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
+    <string name="wifi_security_none">Aucun</string>
+    <string name="wifi_remembered">Enregistré</string>
+    <string name="wifi_disabled_generic">Désactivés</string>
+    <string name="wifi_disabled_network_failure">"Échec de configuration de l'adresse IP"</string>
+    <string name="wifi_disabled_wifi_failure">Échec de connexion Wi-Fi</string>
+    <string name="wifi_disabled_password_failure">"Problème d'authentification"</string>
+    <string name="wifi_not_in_range">Hors de portée</string>
+    <string name="wifi_no_internet">Aucun accès à Internet détecté, reconnexion automatique impossible</string>
+    <string name="saved_network">Enregistrés par %1$s</string>
+    <string name="connected_via_wfa">"Connecté à l'aide de l'assistant Wi-Fi"</string>
+    <string name="connected_via_passpoint">Connecté par %1$s</string>
+    <string name="available_via_passpoint">Accessible par %1$s</string>
+    <string name="wifi_connected_no_internet">Connecté, aucun accès à Internet</string>
+    <string name="bluetooth_disconnected">Déconnecté</string>
+    <string name="bluetooth_disconnecting">Déconnexion…</string>
+    <string name="bluetooth_connecting">Connexion en cours…</string>
+    <string name="bluetooth_connected">Connecté</string>
+    <string name="bluetooth_pairing">Association…</string>
+    <string name="bluetooth_connected_no_headset">Connecté (sans audio pour appels tél.)</string>
+    <string name="bluetooth_connected_no_a2dp">Connecté (sans audio contenu mutimédia)</string>
+    <string name="bluetooth_connected_no_map">Connecté (sans accès aux messages)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Connecté (sans audio tel./multimédia)</string>
+    <string name="bluetooth_profile_a2dp">Paramètres audio du support</string>
+    <string name="bluetooth_profile_headset">Paramètres audio du téléphone</string>
+    <string name="bluetooth_profile_opp">Transfert de fichier</string>
+    <string name="bluetooth_profile_hid">"Périphérique d'entrée"</string>
+    <string name="bluetooth_profile_pan">Accès Internet</string>
+    <string name="bluetooth_profile_pbap">Partage de contact</string>
+    <string name="bluetooth_profile_pbap_summary">Utiliser pour le partage de contacts</string>
+    <string name="bluetooth_profile_pan_nap">Partage de connexion Internet</string>
+    <string name="bluetooth_profile_map">Accès aux messages</string>
+    <string name="bluetooth_profile_sap">Accès à la carte SIM</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Connecté aux paramètres audio du média</string>
+    <string name="bluetooth_headset_profile_summary_connected">"Connecté à l'audio du téléphone"</string>
+    <string name="bluetooth_opp_profile_summary_connected">Connexion au serveur de transfert de fichiers</string>
+    <string name="bluetooth_map_profile_summary_connected">Connecté à la carte</string>
+    <string name="bluetooth_sap_profile_summary_connected">"Connecté au point d'accès au service"</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Connexion au serveur de transfert de fichiers non établie</string>
+    <string name="bluetooth_hid_profile_summary_connected">"Connecté au périphérique d'entrée"</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Connexion Internet locale partagée</string>
+    <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
+    <string name="bluetooth_map_profile_summary_use_for">Utiliser pour la carte</string>
+    <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du support</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour les paramètres audio du téléphone</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Utiliser pour le transfert de fichiers</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Utiliser comme entrée</string>
+    <string name="bluetooth_pairing_accept">Associer</string>
+    <string name="bluetooth_pairing_accept_all_caps">ASSOCIER</string>
+    <string name="bluetooth_pairing_decline">Annuler</string>
+    <string name="bluetooth_pairing_will_share_phonebook">"L'association vous permet d'accéder à vos contacts et à l'historique des appels lorsque vous êtes connecté."</string>
+    <string name="bluetooth_pairing_error_message">"Impossible d'associer à %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Impossible d'établir l'association avec %1$s en raison d'un NIP ou d'une clé d'accès incorrects."</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Impossible d'établir la communication avec %1$s."</string>
+    <string name="bluetooth_pairing_rejected_error_message">Association refusée par %1$s</string>
+    <string name="accessibility_wifi_off">Wi-Fi désactivé.</string>
+    <string name="accessibility_no_wifi">Wi-Fi déconnecté.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi : une barre.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi : deux barres.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi : trois barres.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi : signal complet.</string>
+    <string name="process_kernel_label">"Système d'exploitation Android"</string>
+    <string name="data_usage_uninstalled_apps">Applications supprimées</string>
+    <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
+    <string name="tether_settings_title_usb">Partage de connexion par USB</string>
+    <string name="tether_settings_title_wifi">"Point d'accès Wi-Fi mobile"</string>
+    <string name="tether_settings_title_bluetooth">Via Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Partage de connexion</string>
+    <string name="tether_settings_title_all">"Partage de connexion et point d'accès mobile"</string>
+    <string name="managed_user_title">Profil professionnel</string>
+    <string name="user_guest">Invité</string>
+    <string name="unknown">Inconnu</string>
+    <string name="running_process_item_user_label">Utilisateur : %1$s</string>
+    <string name="launch_defaults_some">Certaines préférences par défaut définies</string>
+    <string name="launch_defaults_none">Aucune préférence par défaut définie</string>
+    <string name="tts_settings">Synthèse vocale</string>
+    <string name="tts_settings_title">Sortie de la synthèse vocale</string>
+    <string name="tts_default_rate_title">Cadence</string>
+    <string name="tts_default_rate_summary">Vitesse à laquelle le texte est énoncé</string>
+    <string name="tts_default_pitch_title">Ton</string>
+    <string name="tts_default_pitch_summary">Touche le ton utilisé pour la synthèse vocale</string>
+    <string name="tts_default_lang_title">Langue</string>
+    <string name="tts_lang_use_system">Utiliser la langue du système</string>
+    <string name="tts_lang_not_selected">Langue non sélectionnée</string>
+    <string name="tts_default_lang_summary">Définit la langue utilisée par la syntèse vocale</string>
+    <string name="tts_play_example_title">Écouter un échantillon</string>
+    <string name="tts_play_example_summary">Lire une courte démonstration de la synthèse vocale</string>
+    <string name="tts_install_data_title">Installer les données vocales</string>
+    <string name="tts_install_data_summary">Installer les données nécessaires à la synthèse vocale</string>
+    <string name="tts_engine_security_warning">"Ce moteur de synthèse vocale est susceptible d'enregistrer tout ce que vous direz, y compris des données personnelles telles que les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous l'activer?"</string>
+    <string name="tts_engine_network_required">Une connexion réseau est nécessaire pour la synthèse vocale dans cette langue.</string>
+    <string name="tts_default_sample_string">Voici un échantillon de synthèse vocale</string>
+    <string name="tts_status_title">État de la langue par défaut</string>
+    <string name="tts_status_ok">Les paramètres régionaux %1$s sont compatibles</string>
+    <string name="tts_status_requires_network">Les paramètres régionaux %1$s nécessitent une connexion réseau</string>
+    <string name="tts_status_not_supported">Les paramètres régionaux %1$s ne sont pas compatibles</string>
+    <string name="tts_status_checking">Vérification en cours…</string>
+    <string name="tts_engine_settings_title">Paramètres de %s</string>
+    <string name="tts_engine_settings_button">Lancer les paramètres du moteur</string>
+    <string name="tts_engine_preference_section_title">Moteur préféré</string>
+    <string name="tts_general_section_title">Général</string>
+    <string name="choose_profile">Sélectionnez un profil</string>
+    <string name="category_personal">Personnel</string>
+    <string name="category_work">Travail</string>
+    <string name="development_settings_title">Options pour les développeurs</string>
+    <string name="development_settings_enable">Activer les options pour les développeurs</string>
+    <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
+    <string name="development_settings_not_available">Les options proposées aux développeurs ne sont pas disponibles pour cet utilisateur.</string>
+    <string name="vpn_settings_not_available">Les paramètres de RPV ne sont pas disponibles pour cet utilisateur</string>
+    <string name="tethering_settings_not_available">Les paramètres de partage de connexion ne sont pas disponibles pour cet utilisateur</string>
+    <string name="apn_settings_not_available">"Les paramètres de point d'accès ne sont pas disponibles pour cet utilisateur"</string>
+    <string name="enable_adb">Débogage USB</string>
+    <string name="enable_adb_summary">"Mode débogage lorsqu'un câble USB est connecté"</string>
+    <string name="clear_adb_keys">Annuler les autorisations relatives au débogage USB</string>
+    <string name="bugreport_in_power">Raccourci de rapport de bogue</string>
+    <string name="bugreport_in_power_summary">"Afficher un bouton permettant d'établir un rapport de bogue dans le menu de démarrage"</string>
+    <string name="keep_screen_on">Rester activé</string>
+    <string name="keep_screen_on_summary">"L'écran ne se met jamais en veille lors du chargement"</string>
+    <string name="bt_hci_snoop_log">Activer le journal HCI Snoop Bluetooth</string>
+    <string name="bt_hci_snoop_log_summary">Capturer tous les paquets HCI Bluetooth dans un fichier</string>
+    <string name="oem_unlock_enable">Déverrouillage par le fabricant</string>
+    <string name="oem_unlock_enable_summary">"Autoriser le déverrouillage du fichier d'amorce"</string>
+    <string name="confirm_enable_oem_unlock_title">Permettre le déverrouillage par le fabricant?</string>
+    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctions de protection de l'appareil ne fonctionneront pas sur cet appareil lorsque ce paramètre est activé."</string>
+    <string name="mock_location_app">"Sélectionner l'application de localisation factice"</string>
+    <string name="mock_location_app_not_set">Aucune application de localisation factice définie</string>
+    <string name="mock_location_app_set">Application de localisation factice : %1$s</string>
+    <string name="debug_networking_category">Réseautage</string>
+    <string name="wifi_display_certification">"Certification de l'affichage sans fil"</string>
+    <string name="wifi_verbose_logging">Autoriser enreg. données Wi-Fi détaillées</string>
+    <string name="wifi_aggressive_handover">Passage forcé du Wi-Fi aux données cellulaires</string>
+    <string name="wifi_allow_scan_with_traffic">Toujours autoriser la détection de réseaux Wi-Fi en itinérance</string>
+    <string name="legacy_dhcp_client">"Utiliser l'ancien client DHCP"</string>
+    <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
+    <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
+    <string name="wifi_display_certification_summary">"Afficher les options pour la certification d'affichage sans fil"</string>
+    <string name="wifi_verbose_logging_summary">Détailler davantage les données Wi-Fi, afficher par SSID RSSI dans sélect. Wi-Fi</string>
+    <string name="wifi_aggressive_handover_summary">Si cette option est activée, le passage du Wi-Fi aux données cellulaires est forcé lorsque le signal Wi-Fi est faible</string>
+    <string name="wifi_allow_scan_with_traffic_summary">"Autoriser ou non la détection de réseaux Wi-Fi en itinérance en fonction de l'importance du transfert de données dans l'interface"</string>
+    <string name="select_logd_size_title">"Tailles des mémoires tampons d'enregistreur"</string>
+    <string name="select_logd_size_dialog_title">Tailles enreg. par tampon journal</string>
+    <string name="select_usb_configuration_title">Sélectionnez une configuration USB</string>
+    <string name="select_usb_configuration_dialog_title">Sélectionnez une configuration USB</string>
+    <string name="allow_mock_location">Autoriser les positions fictives</string>
+    <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
+    <string name="debug_view_attributes">"Activer l'inspection d'attribut d'affichage"</string>
+    <string name="legacy_dhcp_client_summary">Utiliser le client DHCP de Lollipop au lieu du nouveau client DHCP Android.</string>
+    <string name="mobile_data_always_on_summary">Toujours garder les données cellulaires actives, même lorsque le Wi-Fi est activé (pour la commutation rapide entre les réseaux).</string>
+    <string name="adb_warning_title">Autoriser le débogage USB?</string>
+    <string name="adb_warning_message">Le débogage USB est conçu uniquement pour le développement. Utilisez-le pour copier des données entre votre ordinateur et votre appareil, installer des applications sur votre appareil sans notification et lire les données de journal.</string>
+    <string name="adb_keys_warning_message">"Voulez-vous vraiment désactiver l'accès au débogage USB de tous les ordinateurs précédemment autorisés?"</string>
+    <string name="dev_settings_warning_title">Activer les paramètres de développement?</string>
+    <string name="dev_settings_warning_message">"Ces paramètres sont en cours de développement. Ils peuvent endommager votre appareil et les applications qui s'y trouvent, ou provoquer leur dysfonctionnement."</string>
+    <string name="verify_apps_over_usb_title">Vérifier les applis via USB</string>
+    <string name="verify_apps_over_usb_summary">Vérifiez que les applications installées par ADB/ADT ne présentent pas de comportement dangereux.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">"Désactive la fonctionnalité de volume absolu par Bluetooth en cas de problème de volume sur les appareils à distance, par exemple si le volume est trop élevé ou s'il ne peut pas être contrôlé."</string>
+    <string name="enable_terminal_title">Terminal local</string>
+    <string name="enable_terminal_summary">"Activer l'application Terminal permettant l'accès au shell local"</string>
+    <string name="hdcp_checking_title">Vérification HDCP</string>
+    <string name="hdcp_checking_dialog_title">Config. vérification HDCP</string>
+    <string name="debug_debugging_category">Débogage</string>
+    <string name="debug_app">Sélectionner une application à déboguer</string>
+    <string name="debug_app_not_set">Aucune application à déboguer définie</string>
+    <string name="debug_app_set">Application à déboguer : %1$s</string>
+    <string name="select_application">Sél. application</string>
+    <string name="no_application">Aucune</string>
+    <string name="wait_for_debugger">"Attendre l'intervention du débogueur"</string>
+    <string name="wait_for_debugger_summary">"Avant de s'exécuter, l'application déboguée doit attendre que le débogueur soit attaché."</string>
+    <string name="debug_input_category">Entrée</string>
+    <string name="debug_drawing_category">Dessin</string>
+    <string name="debug_hw_drawing_category">Accélération matérielle</string>
+    <string name="media_category">Médias</string>
+    <string name="debug_monitoring_category">Surveillance</string>
+    <string name="strict_mode">Mode Strict activé</string>
+    <string name="strict_mode_summary">Afficher un cadre rouge si le thread principal reste occupé</string>
+    <string name="pointer_location">Emplacement du curseur</string>
+    <string name="pointer_location_summary">Superposition écran indiquant données actuelles</string>
+    <string name="show_touches">Afficher éléments sélect.</string>
+    <string name="show_touches_summary">Afficher repère visuel pour éléments sélectionnés</string>
+    <string name="show_screen_updates">Affich. mise à jour surface</string>
+    <string name="show_screen_updates_summary">Faire clignoter les surfaces à chaque mise à jour</string>
+    <string name="show_hw_screen_updates">Afficher mises à jour GPU</string>
+    <string name="show_hw_screen_updates_summary">Faire clignoter les éléments dessinés avec le GPU</string>
+    <string name="show_hw_layers_updates">Mises à jour couches mat.</string>
+    <string name="show_hw_layers_updates_summary">Couches matérielles en vert une fois mises à jour</string>
+    <string name="debug_hw_overdraw">Déboguer les conflits GPU</string>
+    <string name="disable_overlays">Désact. superpos. matér.</string>
+    <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition écran</string>
+    <string name="simulate_color_space">Simuler esp. colorimétrique</string>
+    <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
+    <string name="usb_audio_disable_routing">Désact. routage audio USB</string>
+    <string name="usb_audio_disable_routing_summary">Désactiver routage automatique appareils audio USB</string>
+    <string name="debug_layout">Afficher les contours</string>
+    <string name="debug_layout_summary">Afficher les limites, les marges de clip, etc.</string>
+    <string name="force_rtl_layout_all_locales">Forcer orient. : g. à d.</string>
+    <string name="force_rtl_layout_all_locales_summary">"Forcer l'orientation: g. à droite (toutes langues)"</string>
+    <string name="show_cpu_usage">Afficher mém. CPU utilisée</string>
+    <string name="show_cpu_usage_summary">Superposition écran indiquant mémoire CPU utilisée</string>
+    <string name="force_hw_ui">Forcer le rendu GPU</string>
+    <string name="force_hw_ui_summary">"Forcer l'utilisation du GPU pour le dessin 2D"</string>
+    <string name="force_msaa">Forcer MSAA 4x</string>
+    <string name="force_msaa_summary">Activer MSAA 4x dans les applications OpenGL ES 2.0</string>
+    <string name="show_non_rect_clip">Déboguer opérations de découpage non rectangulaire</string>
+    <string name="track_frame_time">Rendu GPU du profil</string>
+    <string name="window_animation_scale_title">Échelle animation fenêtres</string>
+    <string name="transition_animation_scale_title">Échelle anim. transitions</string>
+    <string name="animator_duration_scale_title">Échelle durée animation</string>
+    <string name="overlay_display_devices_title">Simul. affich. secondaires</string>
+    <string name="debug_applications_category">Applications</string>
+    <string name="immediately_destroy_activities">Ne pas conserver activités</string>
+    <string name="immediately_destroy_activities_summary">Supprimer immédiatement les activités abandonnées</string>
+    <string name="app_process_limit_title">Limite processus arr.-plan</string>
+    <string name="show_all_anrs">"Afficher tous les messages «L'application ne répond pas»"</string>
+    <string name="show_all_anrs_summary">"Afficher « L'application ne répond plus » pour applis en arrière-plan"</string>
+    <string name="force_allow_on_external">"Forcer l'autor. d'applis sur stockage externe"</string>
+    <string name="force_allow_on_external_summary">"Rend possible l'enregistrement de toute application sur un espace de stockage externe, indépendamment des valeurs du fichier manifeste"</string>
+    <string name="force_resizable_activities">Forcer les activités à être redimensionnables</string>
+    <string name="force_resizable_activities_summary">Permet de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste.</string>
+    <string name="enable_freeform_support">Activer les fenêtres de forme libre</string>
+    <string name="enable_freeform_support_summary">Activer la compatibilité avec les fenêtres de forme libre expérimentales.</string>
+    <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
+    <string name="local_backup_password_summary_none">Les sauvegardes complètes sur PC ne sont pas protégées actuellement.</string>
+    <string name="local_backup_password_summary_change">Touchez pour modifier ou supprimer le mot de passe utilisé pour les sauvegardes complètes sur ordinateur.</string>
+    <string name="local_backup_password_toast_success">Le nouveau mot de passe de secours a bien été défini.</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Le nouveau mot de passe et sa confirmation ne correspondent pas.</string>
+    <string name="local_backup_password_toast_validation_failure">Échec de la définition du mot de passe de secours.</string>
+    <string name="inactive_apps_title">Applications inactives</string>
+    <string name="inactive_app_inactive_summary">"Application inactive. Touchez ici pour l'activer."</string>
+    <string name="inactive_app_active_summary">Application active. Touchez ici pour la désactiver.</string>
+    <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
+    <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d'exécution"</string>
+    <string name="enable_webview_multiprocess">Activer WebView multiprocessus</string>
+    <string name="enable_webview_multiprocess_desc">Exécuter moteurs de rendu WebView dans un processus isolé.</string>
+    <string name="select_webview_provider_title">Mise en œuvre WebView</string>
+    <string name="select_webview_provider_dialog_title">Définir la mise en œuvre WebView</string>
+    <string name="select_webview_provider_toast_text">"Ce choix n'est plus valide. Réessayez."</string>
+    <string name="convert_to_file_encryption">Convertir en chiffrement basé sur un fichier</string>
+    <string name="convert_to_file_encryption_enabled">Convertir...</string>
+    <string name="convert_to_file_encryption_done">Déjà chiffré par un fichier</string>
+    <string name="title_convert_fbe">Conversion en chiffrement basé sur un fichier en cours</string>
+    <string name="convert_to_fbe_warning">"Convertir la partition de données en chiffrement basé sur un fichier.
+ Avertissement! Cette opération supprimera toutes vos données. 
+Cette fonctionnalité est en version alpha et peut ne pas fonctionner correctement. 
+Touchez « Effacer et convertir » pour continuer."</string>
+    <string name="button_convert_fbe">Effacer et convertir...</string>
+    <string name="picture_color_mode">Mode couleur des images</string>
+    <string name="picture_color_mode_desc">Utiliser sRGB</string>
+    <string name="daltonizer_mode_disabled">Désactivé</string>
+    <string name="daltonizer_mode_monochromacy">Monochromatisme</string>
+    <string name="daltonizer_mode_deuteranomaly">Deutéranomalie (rouge/vert)</string>
+    <string name="daltonizer_mode_protanomaly">Protanomalie (rouge/vert)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu/jaune)</string>
+    <string name="accessibility_display_daltonizer_preference_title">Correction des couleurs</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut toucher les performances.</string>
+    <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
+    <string name="power_remaining_duration_only">Il reste environ %1$s</string>
+    <string name="power_discharging_duration">%1$s %% – Temps restant : environ %2$s</string>
+    <string name="power_charging">%1$s - %2$s</string>
+    <string name="power_charging_duration">%1$s %% (chargée à 100 %% dans %2$s)</string>
+    <string name="power_charging_duration_ac">%1$s %% (charge complète sur c.a. dans %2$s)</string>
+    <string name="power_charging_duration_usb">%1$s %% (chargée à 100 %% par USB dans %2$s)</string>
+    <string name="power_charging_duration_wireless">%1$s %% (chargée à 100 %% avec chargeur sans fil dans %2$s)</string>
+    <string name="battery_info_status_unknown">Inconnu</string>
+    <string name="battery_info_status_charging">Batterie en charge</string>
+    <string name="battery_info_status_charging_ac">En charge (c.a.)</string>
+    <string name="battery_info_status_charging_usb">En charge par USB</string>
+    <string name="battery_info_status_charging_wireless">En charge sans fil</string>
+    <string name="battery_info_status_discharging">"N'est pas en charge"</string>
+    <string name="battery_info_status_not_charging">"N'est pas en charge"</string>
+    <string name="battery_info_status_full">Pleine</string>
+    <string name="disabled_by_admin_summary_text">"Contrôlé par l'administrateur"</string>
+    <string name="enabled_by_admin">"Activé par l'administrateur"</string>
+    <string name="disabled_by_admin">"Désactivé par l'administrateur"</string>
+    <string name="home">Accueil</string>
+    <string name="charge_length_format">Il y a %1$s</string>
+    <string name="remaining_length_format">Durée restante :%1$s</string>
+    <string name="screen_zoom_summary_small">Petite</string>
+    <string name="screen_zoom_summary_default">Par défaut</string>
+    <string name="screen_zoom_summary_large">Grande</string>
+    <string name="screen_zoom_summary_very_large">Plus grande</string>
+    <string name="screen_zoom_summary_extremely_large">La plus grande</string>
+    <string name="screen_zoom_summary_custom">Personnalisée (%d)</string>
+    <string name="suw_next_button_label">Suivant</string>
+    <string name="suw_back_button_label">Précédent</string>
+    <string name="suw_more_button_label">Plus</string>
+    <string name="abc_action_mode_done">Terminé</string>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_search_hint">Recherche en cours...</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="abc_activity_chooser_view_see_all">Voir toutes les chaînes</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_shareactionprovider_share_with">Partager</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="setup_wizard_title">"Assistant d'installation"</string>
+    <string name="device_name">téléphone</string>
+    <string name="finish_button_label">Terminer</string>
+    <string name="skip_button_label">Passer</string>
+    <string name="skip_anyway_button_label">Ignorer quand même</string>
+    <string name="go_back_button_label">Retour</string>
+    <string name="down_button_label">Plus</string>
+    <string name="cancel_button_label">Annuler</string>
+    <string name="restart_button_label">Recommencer</string>
+    <string name="try_again_button_label">Réessayer</string>
+    <string name="close_button_label">Fermer</string>
+    <string name="got_it_button_label">OK</string>
+    <string name="ok_button_label">Ok</string>
+    <string name="dialog_back_button_label">Précédent</string>
+    <string name="dialog_continue_button_label">Continuer</string>
+    <string name="google_legal_title">Infos légales Google</string>
+    <string name="url_load_unsuccessful_message">"Votre téléphone n'est connecté à aucun service de données mobiles. Pour afficher ces informations maintenant, accédez à la page %s dans un navigateur Web."</string>
+    <string name="start">Démarrer</string>
+    <string name="wait_msg">Une seconde…</string>
+    <string name="skip_toast">"Assistant d'installation ignoré"</string>
+    <string name="terminate_toast">"Assistant de configuration interrompu.
+Appareil non configuré."</string>
+    <string name="activation_title">Activation du service cellulaire…</string>
+    <string name="activation_progress_flow">"Cela prend trop de temps?
+
+La connexion au réseau de données cellulaires demande un certain temps. Vous pouvez revenir en arrière et essayer de vous connecter à un autre réseau."</string>
+    <string name="activation_failed_title">Aucune connex. au réseau de donn. cell.</string>
+    <string name="activation_failed_message">"Vous pouvez effectuer les actions suivantes :
+"<li>Essayer de vous reconnecter à un réseau de données cellulaires</li>"
+"<li>Utiliser un autre réseau pour la configuration</li>"
+
+Si ces options ne fonctionnent pas, vous pouvez également redémarrer votre téléphone et réessayer."</string>
+    <string name="activation_title_searching">Recherche des services disponibles…</string>
+    <string name="activation_title_activating">Activation du service cellulaire…</string>
+    <string name="activation_default_network_name">réseau pour mobile</string>
+    <string name="activation_network_bars_template">Intensité du signal : %d barres</string>
+    <string name="activation_text">Touchez <b>Activer</b>" pour activer maintenant le service de données cellulaires. Cette opération peut prendre quelques minutes. 
+
+ Vous pouvez également toucher "<b>Ignorer</b>" pour configurer votre téléphone à l'aide d'une connexion Wi-Fi."</string>
+    <string name="activation_text_standalone">Touchez <b>Activer</b> pour activer votre service cellulaire maintenant. Cette opération peut prendre quelques minutes.</string>
+    <string name="activation_skip_confirmation">"La plupart des fonctionnalités de votre téléphone ne seront pas disponibles tant que vous n'aurez pas activé votre service de données mobiles.
+
+Si vous choisissez de ne pas procéder à l'activation maintenant, vous pourrez le faire plus tard dans « Paramètres système »."</string>
+    <string name="activation_continue_skip_label">Continuer</string>
+    <string name="activation_button_label">Activer</string>
+    <string name="activation_progress_before_connect">Touchez <b>Ignorer</b>" pour terminer la configuration à l'aide d'une connexion Wi-Fi."</string>
+    <string name="activation_progress">"L'activation peut prendre quelques minutes. Touchez "<b>Ignorer</b>" pour terminer la configuration à l'aide d'une connexion Wi-Fi."</string>
+    <string name="activation_progress_gen">"Cela peut prendre jusqu'à 5 minutes"</string>
+    <string name="activation_progress_mobile_data">"Le téléphone est en train d'activer votre service de données cellulaires.
+
+Cela peut prendre jusqu'à cinq minutes."</string>
+    <string name="activation_progress_before_connect_standalone">"L'activation peut prendre quelques minutes."</string>
+    <string name="activation_progress_standalone">"L'activation peut prendre quelques minutes."</string>
+    <string name="activation_success_title">Activation terminée</string>
+    <string name="activation_success_text">Touchez <b>Suivant</b> pour continuer la configuration.</string>
+    <string name="activation_success_text_gen">"Votre appareil doit redémarrer pour terminer l'activation."</string>
+    <string name="activation_success_text_standalone">Touchez <b>Suivant</b>" pour continuer.
+
+ L'activation a bien été effectuée, mais quelques minutes peuvent s'écouler avant que le réseau de données cellulaire ne soit disponible."</string>
+    <string name="activation_failure_title">"Impossible d'activer"</string>
+    <string name="activation_failure_text">"Veuillez réessayer dans une minute, ou redémarrez votre téléphone si ce problème se produit à nouveau.
+
+Si vous préférez ignorer cette étape pour le moment, n'oubliez pas d'effectuer l'activation plus tard dans les paramètres système. Sans cela, votre téléphone ne sera pas doté d'une connexion de données cellulaires."</string>
+    <string name="activation_failure_text_gen">"Impossible d'activer votre service de données mobiles. Il s'agit peut-être d'un problème temporaire qui peut être résolu en redémarrant le téléphone."</string>
+    <string name="activation_failure_text_standalone">"Impossible d'activer le service de données cellulaires. Pour réessayer, touchez  "<b>Réessayer</b>".
+
+Vous pourrez activer votre service de données cellulaires plus tard dans "<b>Paramètres système > Sans fil et réseaux > Réseaux cellulaires</b></string>
+    <string name="activation_cancel_title">Annulation demandée</string>
+    <string name="activation_cancel_text">"Annulation de l'activation en cours… Cette opération peut prendre 5 à 10 secondes."</string>
+    <string name="activation_canceled_title">Activation annulée</string>
+    <string name="activation_canceled_text">"Voulez-vous annuler l'activation? Vous devez activer votre réseau mobile avant de pouvoir l'utiliser pour vous connecter à Internet.
+
+Touchez "<b>Suivant</b>" pour finaliser la configuration à l'aide d'une connexion Wi-Fi.
+
+Vous pourrez activer votre réseau plus tard dans "<b>Paramètres système > Sans fil et réseaux > Réseaux cellulaires</b>.</string>
+    <string name="activation_canceled_text_standalone">"Activation annulée.
+
+Vous pourrez activer votre service de données cellulaires plus tard en accédant à "<b>Paramètres système > Sans fil et réseaux > Réseaux cellulaires</b>.</string>
+    <string name="activation_spc_failure_text">"Une erreur s'est produite et votre téléphone doit être redémarré avant toute autre tentative d'activation. Celui-ci va s'éteindre automatiquement dans 60 secondes. Vous pouvez également toucher "<b>Arrêter maintenant</b>".
+
+Une fois le téléphone éteint, appuyez sur l’interrupteur pour le rallumer. L'activation commencera automatiquement."</string>
+    <string name="shutdown_button_label">Arrêter maintenant</string>
+    <string name="reboot_button_label">Recommencer</string>
+    <string name="activation_skip_text">"Si vous ne procédez pas à l'activation de l'appareil, veillez à le faire plus tard dans la section « Paramètres ». Vous ne disposerez pas d'une connexion cellulaire de données tant que vous n'aurez pas activé le téléphone."</string>
+    <string name="notification_update_title">Votre compte doit être mis à jour</string>
+    <string name="notification_update_message">"Touchez ici pour relancer l'assistant d'installation."</string>
+    <string name="account_exists_title">{accounts,plural, =1{Compte ajouté}one{Compte ajouté}other{Comptes ajoutés}}</string>
+    <string name="account_exists_text_single">Le compte <annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> est prêt.</string>
+    <string name="account_exists_text_unknown_name">Votre compte est prêt.</string>
+    <string name="account_exists_info">"Vos courriels, vos contacts, les événements de votre agenda et d'autres données seront synchronisés sur ce téléphone. Vous pouvez également commencer à télécharger des applications, de la musique et des jeux sur Google Play.
+
+Vous pourrez ajouter et supprimer des comptes plus tard dans Paramètres > Comptes."</string>
+    <string name="date_time_setup_title">Date et heure</string>
+    <string name="date_time_message">Ajustez si nécessaire.</string>
+    <string name="date_time_current_date">Date</string>
+    <string name="date_time_current_time">Heure</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Insérez la carte SIM}one{Insérez la carte SIM}other{Insérez les cartes SIM}}</string>
+    <string name="sim_missing_text">"{sim_slots,plural, =1{Vous ne savez pas comment? Consultez les instructions fournies avec votre téléphone.
+
+Une fois que vous avez inséré votre carte SIM, l'activation peut prendre quelques secondes.}one{Vous ne savez pas comment? Consultez les instructions fournies avec votre téléphone.
+
+Une fois que vous avez inséré votre carte SIM, l'activation peut prendre quelques secondes.}other{Vous ne savez pas comment? Consultez les instructions fournies avec votre téléphone.
+
+Une fois que vous avez inséré vos cartes SIM, l'activation peut prendre quelques secondes.}}"</string>
+    <string name="sim_setup_title">Configurer les cartes SIM</string>
+    <string name="sim_setup_select_data">Sélectionnez une carte SIM pour les données cellulaire</string>
+    <string name="sim_setup_select_voice">Sélectionnez une carte SIM pour les appels</string>
+    <string name="sim_setup_select_text">Sélectionnez une carte SIM pour les messages texte</string>
+    <string name="sim_setup_ask_every_time">Toujours demander</string>
+    <string name="wifi_title">Sélectionner le Wi-Fi</string>
+    <string name="wifi_skipped_title">Frais de données éventuels</string>
+    <string name="wifi_skipped_message">Votre téléphone utilisera le réseau cellulaire pendant la configuration, et la consommation de données pourrait vous être facturée. Pour éviter les frais éventuels, connectez-vous au Wi-Fi.</string>
+    <string name="wifi_add_new_network">Ajouter un réseau</string>
+    <string name="wifi_ip_address_title">Adresse IP</string>
+    <string name="wifi_ip_address_not_available">Non disponible</string>
+    <string name="wifi_mac_address_title">Adresse MAC</string>
+    <string name="wifi_mac_address_not_available">Non disponible</string>
+    <string name="network_title">Connexion</string>
+    <string name="network_description_text_restore_from_android_flow">"Pour copier des données à partir de votre appareil Android, connectez-vous d'abord à Internet."</string>
+    <string name="network_description_text_google_account_flow">"Pour vous connecter à votre compte Google, connectez-vous d'abord à Internet."</string>
+    <string name="network_description_text_new_flow">"Pour continuer l'installation, connectez-vous à Internet."</string>
+    <string name="network_see_all_wifi">Voir tous les réseaux Wi-Fi</string>
+    <string name="network_use_cellular">Utiliser le réseau cellulaire pour la configuration</string>
+    <string name="captive_portal_sign_in_dialog_title">Connexion disponible</string>
+    <string name="captive_portal_connection_unsuccessful">Impossible de se connecter à Internet.</string>
+    <string name="ota_update_title">Mettre à jour le téléphone</string>
+    <string name="ota_info">Votre téléphone doit télécharger une mise à jour, puis redémarrer.</string>
+    <string name="ota_size">Taille : %s</string>
+    <string name="ota_agreement_text">En choisissant de continuer et de recevoir cette mise à jour logicielle, vous acceptez les <annotation link="tos">"conditions d'utilisation de Google"</annotation> et la <annotation link="google_privacy">politique de confidentialité</annotation>.</string>
+    <string name="early_update_title">Mise à jour logicielle</string>
+    <string name="early_update_text">Recherche de mises à jour en cours…</string>
+    <string name="early_update_downloading_text">Téléchargement de %s en cours...</string>
+    <string name="early_update_installing_text">Installation de %s en cours…</string>
+    <string name="warm_sim_check_msg">En attente de connexion réseau…</string>
+    <string name="android_privacy_policy_title">Règles de confidentialité supplémentaires</string>
+    <string name="google_terms_of_service_title">"Conditions d'utilisation de Google"</string>
+    <string name="google_privacy_policy_title">Politique de confidentialité Google</string>
+    <string name="google_plus_privacy_policy_title">Règles de confidentialité de Google+</string>
+    <string name="google_play_tos_title">"Conditions d'utilisation de Google Play"</string>
+    <string name="chrome_tos_title">"Conditions d'utilisation Google Chrome"</string>
+    <string name="chrome_privacy_title">Avis de confidentialité de Google Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"Votre appareil Android n'est connecté à aucun réseau Wi-Fi. Pour afficher ces informations maintenant, consultez la page %s dans un navigateur Web."</string>
+    <string name="continue_for_a11y">"Pour activer le mode d'accessibilité, continuez à appuyer sur l'écran jusqu'à ce que vous entendiez un bip."</string>
+    <string name="canceled_a11y">"Mode d'accessibilité annulé"</string>
+    <string name="enabled_a11y">"Mode d'accessibilité activé"</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="emergency_dial">Urgence</string>
+    <string name="welcome_accessibility_button">Paramètres de vision</string>
+    <string name="welcome_language_picker_dialog_title">Choix de la langue</string>
+    <string name="welcome_language_picker_section_suggested">Suggestions</string>
+    <string name="welcome_language_picker_section_all">Toutes les langues</string>
+    <string name="welcome_language_picker_content_description">Langue : %s</string>
+    <string name="welcome_start_button_label">Premiers pas</string>
+    <string name="flow_choice_title">Configurer votre ^1</string>
+    <string name="flow_choice_restore_summary">"Restaurer une sauvegarde ou une copie d'un appareil"</string>
+    <string name="flow_choice_new_label">Configurer comme nouvel appareil</string>
+    <string name="restore_choice_title">Importer les données de...</string>
+    <string name="restore_choice_google_account_label">Votre compte Google</string>
+    <string name="restore_choice_android_device_label">Un autre appareil Android</string>
+    <string name="services_activity_title">Services Google</string>
+    <string name="services_backup_heading">Sauvegarde</string>
+    <string name="services_location_heading">Lieu</string>
+    <string name="services_security_heading">Sécurité</string>
+    <string name="services_personalization_heading">Personnalisation</string>
+    <string name="services_communication_heading">Communication</string>
+    <string name="security_verify_apps_summary">Autoriser Google à vérifier toutes les applications installées pour détecter tout comportement indésirable qui risquerait de compromettre la sécurité de votre appareil ou de vos données</string>
+    <string name="suggested_actions_title">Autre chose?</string>
+    <string name="suggested_actions_done_label">Configurer plus tard</string>
+    <string name="restore_title">Restauration en cours...</string>
+    <string name="restore_wallpaper_title">"Restauration du fond d'écran en cours..."</string>
+    <string name="restore_device_settings_title">"Restauration des paramètres de l'appareil"</string>
+    <string name="restore_launcher_title">"Restauration du Lanceur d'applications"</string>
+    <string name="restore_failed_message">Impossible de restaurer les données à partir de la sauvegarde.</string>
+    <string name="restore_no_backup_message">"Aucune sauvegarde disponible pour l'appareil source."</string>
+    <string name="restore_stopped_message">"Malheureusement, l'appareil a cessé de restaurer les données à partir de la sauvegarde."</string>
+    <string name="name_title">Nom</string>
+    <string name="name_text">"L'ajout de votre nom permet à votre téléphone de personnaliser certaines applications."</string>
+    <string name="name_display_name_label">Nom</string>
+    <string name="name_display_name_hint">par exemple, Jean Dupont</string>
+    <string name="cant_be_blank">Champ obligatoire.</string>
+    <string name="device_owner_warning_title">Le téléphone peut être observé</string>
+    <string name="device_owner_warning">"Ce téléphone est géré par « %1$s », ce qui signifie que certains de vos renseignements peuvent être visibles pour d'autres personnes. Pour éviter le suivi de vos données, réinitialisez votre appareil."</string>
+    <string name="device_owner_continue">Continuer</string>
+    <string name="device_owner_reset">Réinitialiser le téléphone</string>
+    <string name="factory_reset_title">Réinitialiser le téléphone</string>
+    <string name="factory_reset_instructions">Avertissement : La réinitialisation efface tous les comptes et les données de la mémoire interne du téléphone.</string>
+    <string name="factory_reset_confirmation_title">Réinitialiser?</string>
+    <string name="factory_reset_confirmation">Voulez-vous effacer tous les comptes et les données sur ce téléphone? Cette action est irréversible.</string>
+    <string name="factory_reset_button">Effacer et réinitialiser</string>
+    <string name="restart_setup_wizard_dialog_title">Non connecté</string>
+    <string name="restart_setup_wizard_dialog_text">"Pour utiliser ce téléphone, vous devez d'abord vous connecter au compte Google d'un propriétaire qui était en utilisation lors de la réinitialisation. 
+
+Comme vous ne l'avez pas fait, vous devez configurer le téléphone à nouveau."</string>
+    <string name="restart_setup_wizard_button_label">Configurer téléphone</string>
+    <string name="user_warning_radio_continue">Continuer</string>
+    <string name="user_warning_radio_quit">Annuler et supprimer nouvel utilisateur</string>
+    <string name="user_warning_title">Configurer un nouvel utilisateur</string>
+    <string name="welcome_secondary_user_added_text">%s vous a ajouté à ce téléphone.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Vous avez été ajouté à ce téléphone.</string>
+    <string name="welcome_secondary_user_info_text"><b>Important :</b>"
+
+"<li><ul>Le propriétaire du téléphone peut désinstaller vos applications ou supprimer entièrement votre espace.</ul></li>"
+
+"<li><ul>Les autres utilisateurs peuvent accepter à votre place des autorisations mises à jour relatives à des applications.</ul></li>"
+
+"<li><ul>"Tout comme pour les ordinateurs, nous vous conseillons de ne partager ce téléphone qu'avec des personnes en qui vous avez confiance."</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Important :</b>"
+
+ "<li><ul>Le propriétaire du téléphone peut installer ou désinstaller des applications, définir des limites ou supprimer entièrement votre espace.</ul></li>"
+
+ "<li><ul>Les autres utilisateurs peuvent accepter à votre place des autorisations mises à jour relatives à des applications.</ul></li>"
+
+ "<li><ul>"Tout comme pour les ordinateurs, nous vous conseillons de ne partager ce téléphone qu'avec des personnes en qui vous avez confiance."</ul></li></string>
+    <string name="qr_dependencies_check_title">Installation du lecteur de codes...</string>
+    <string name="qr_dependencies_check_timeout_text">"Cela peut prendre jusqu'à deux minutes."</string>
+    <string name="download_qr_dependencies_failed_content">"Impossible d'installer le lecteur de codes bidimensionnels"</string>
+    <string name="check_qr_dependencies_again">Réessayer</string>
+    <string name="qr_provision_user_consent_title">Configuration des codes bidimensionnels</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"Pour configurer cet appareil pour votre organisation, vous devez tout d'abord vous connecter à un réseau et télécharger le lecteur de codes bidimensionnels.
+
+Utilisez ensuite l'appareil photo pour lire le code bidimensionnel de votre organisation."</string>
+    <string name="invalid_qr_code_title">Le code bidimensionnel ne fonctionne pas</string>
+    <string name="invalid_qr_code_content">Assurez-vous que vous disposez du bon code bidimensionnel pour votre organisation, puis réessayez.</string>
+    <string name="invalid_qr_code_retry">Réessayer</string>
+    <string name="switch_camera">"Changer d'app. photo"</string>
+    <string name="exit_loading_launcher">"Chargement du Lanceur d'applications en cours..."</string>
+    <string name="restore_choice_footer_dialog">"Si vous vous êtes déjà connecté à un produit Google (Gmail ou YouTube, par exemple), vous possédez déjà un compte Google.
+
+Vous pouvez utiliser les mêmes détails, tels qu'un numéro de téléphone ou un nom d'utilisateur et un mot de passe, pour vous connecter ici."</string>
+</resources>

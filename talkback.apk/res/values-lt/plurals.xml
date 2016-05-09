@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auto_scan_time_delay_summary_format">
+        <item quantity="other">%.2f sek.</item>
+        <item quantity="one">1 sekundė</item>
+    </plurals>
+    <plurals name="label_import_succeeded">
+        <item quantity="other">Atnaujinta etikečių: %d</item>
+        <item quantity="zero">Nėra naujų etikečių</item>
+        <item quantity="one">Atnaujinta etikečių: 1</item>
+    </plurals>
+    <plurals name="label_num_keys_assigned_format">
+        <item quantity="other">Priskirta klavišų: %d</item>
+        <item quantity="one">Priskirta klavišų: %d</item>
+    </plurals>
+    <plurals name="template_containers">
+        <item quantity="other">%1$s, rodoma elementų: %2$d.</item>
+        <item quantity="one">%1$s, rodoma elementų: %2$d.</item>
+    </plurals>
+</resources>

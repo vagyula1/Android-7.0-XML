@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopiranje %1$d datoteka.</item>
+        <item quantity="one">Kopiranje %1$d datoteke.</item>
+        <item quantity="few">Kopiranje %1$d datoteke.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Premešta se %1$d datoteka.</item>
+        <item quantity="one">Premešta se %1$d datoteka.</item>
+        <item quantity="few">Premeštaju se %1$d datoteke.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Briše se %1$d datoteka.</item>
+        <item quantity="one">Briše se %1$d datoteka.</item>
+        <item quantity="few">Brišu se %1$d datoteke.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nismo uspeli da kopiramo %1$d datoteka</item>
+        <item quantity="one">Nismo uspeli da kopiramo %1$d datoteku</item>
+        <item quantity="few">Nismo uspeli da kopiramo %1$d datoteke</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Premeštanje %1$d datoteka nije uspelo</item>
+        <item quantity="one">Premeštanje %1$d datoteke nije uspelo</item>
+        <item quantity="few">Premeštanje %1$d datoteke nije uspelo</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Brisanje %1$d datoteka nije uspelo</item>
+        <item quantity="one">Brisanje %1$d datoteke nije uspelo</item>
+        <item quantity="few">Brisanje %1$d datoteke nije uspelo</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Kopirali ste %1$d datoteka u privremenu memoriju.</item>
+        <item quantity="one">Kopirali ste %1$d datoteku u privremenu memoriju.</item>
+        <item quantity="few">Kopirali ste %1$d datoteke u privremenu memoriju.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Izabrano je %1$d stavki</item>
+        <item quantity="one">Izabrana je %1$d stavka</item>
+        <item quantity="few">Izabrane su %1$d stavke</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Želite li da izbrišete %1$d datoteka?</item>
+        <item quantity="one">Želite li da izbrišete %1$d datoteku?</item>
+        <item quantity="few">Želite li da izbrišete %1$d datoteke?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Želite li da izbrišete %1$d direktorijuma i njihov sadržaj?</item>
+        <item quantity="one">Želite li da izbrišete %1$d direktorijum i njihov sadržaj?</item>
+        <item quantity="few">Želite li da izbrišete %1$d direktorijuma i njihov sadržaj?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Želite li da izbrišete %1$d stavki?</item>
+        <item quantity="one">Želite li da izbrišete %1$d stavku?</item>
+        <item quantity="few">Želite li da izbrišete %1$d stavke?</item>
+    </plurals>
+</resources>

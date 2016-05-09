@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Copia di %1$d file in corso.</item>
+        <item quantity="one">Copia di %1$d file in corso.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Spostamento di %1$d file.</item>
+        <item quantity="one">Spostamento di %1$d file.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Eliminazione di %1$d file.</item>
+        <item quantity="one">Eliminazione di %1$d file.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Impossibile copiare %1$d file</item>
+        <item quantity="one">Impossibile copiare %1$d file</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Impossibile spostare %1$d file</item>
+        <item quantity="one">Impossibile spostare %1$d file</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Impossibile eliminare %1$d file</item>
+        <item quantity="one">Impossibile eliminare %1$d file</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d file copiati negli appunti.</item>
+        <item quantity="one">%1$d file copiato negli appunti.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d elementi selezionati</item>
+        <item quantity="one">%1$d elemento selezionato</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Eliminare %1$d file?</item>
+        <item quantity="one">Eliminare %1$d file?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Eliminare %1$d cartelle e i relativi contenuti?</item>
+        <item quantity="one">Eliminare %1$d cartella e i relativi contenuti?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Eliminare %1$d elementi?</item>
+        <item quantity="one">Eliminare %1$d elemento?</item>
+    </plurals>
+</resources>
