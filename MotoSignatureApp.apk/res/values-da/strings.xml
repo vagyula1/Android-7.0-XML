@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="permlab_registerSmartNotifications">Registrér med smarte meddelelser</string>
-    <string name="permdesc_registerSmartNotifications">Tillader, at slutpunktapps, som er signeret med Motorola-signatur, kan registrere med synkronisering af smarte meddelelser</string>
-    <string name="permlab_readNdef">Læs Android Beam-data</string>
-    <string name="permdesc_readNdef">Lader appen læse Android Beam-data fra en anden app</string>
-    <string name="permlab_accessDrm">Få adgang til DRM-indhold.</string>
-    <string name="permdesc_accessDrm">Tillader, at en applikation får adgang til DRM-beskyttet indhold.</string>
-    <string name="permlab_volumeSetting">Definer lydstyrkeindstillinger</string>
-    <string name="permdesc_volumeSetting">Tillader definition af adfærd for lydstyrkepanelet og hardwarenøglen</string>
-    <string name="permlab_cameradump">Hent intern kameratilstand</string>
-    <string name="permdesc_cameradump">Tillader, at en applikation kan hente oplysninger om intern status fra kameraservice.</string>
-    <string name="permdesc_accessCogRadio">Få adgang til radiodiagnosticeringsdata</string>
-    <string name="permlab_accessCogRadio">Tillad, at appen får adgang til radiodiagnosticeringsdata.</string>
-    <string name="permlab_accessCheckin">tilladelse til at få adgang til tjek ind-udbyderen</string>
-    <string name="permdesc_accessCheckin">Giver systemapps mulighed for at få adgang til Checkin-udbyderen.</string>
+  <string name="permdesc_accessCheckin">Giver systemapps mulighed for at få adgang til Checkin-udbyderen.</string>
+  <string name="permdesc_accessCogRadio">Få adgang til radiodiagnosticeringsdata</string>
+  <string name="permdesc_accessDrm">Tillader, at en applikation får adgang til DRM-beskyttet indhold.</string>
+  <string name="permdesc_cameradump">Tillader, at en applikation kan hente oplysninger om intern status fra kameraservice.</string>
+  <string name="permdesc_readNdef">Lader appen læse Android Beam-data fra en anden app</string>
+  <string name="permdesc_registerSmartNotifications">Tillader, at slutpunktapps, som er signeret med Motorola-signatur, kan registrere med synkronisering af smarte meddelelser</string>
+  <string name="permdesc_volumeSetting">Tillader definition af adfærd for lydstyrkepanelet og hardwarenøglen</string>
+  <string name="permlab_accessCheckin">tilladelse til at få adgang til tjek ind-udbyderen</string>
+  <string name="permlab_accessCogRadio">Tillad, at appen får adgang til radiodiagnosticeringsdata.</string>
+  <string name="permlab_accessDrm">Få adgang til DRM-indhold.</string>
+  <string name="permlab_cameradump">Hent intern kameratilstand</string>
+  <string name="permlab_readNdef">Læs Android Beam-data</string>
+  <string name="permlab_registerSmartNotifications">Registrér med smarte meddelelser</string>
+  <string name="permlab_volumeSetting">Definer lydstyrkeindstillinger</string>
 </resources>

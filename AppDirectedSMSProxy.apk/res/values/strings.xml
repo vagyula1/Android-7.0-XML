@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="config_adsPrefix">//VZW</string>
-    <string name="config_actionDirectedSMSReceived">verizon.intent.action.DIRECTED_SMS_RECEIVED</string>
-    <string name="config_keyAppPrefix">com.verizon.directedAppSMS</string>
-    <string name="app_name">Motorola AppDirectedSmsProxy Service</string>
-    <string name="vvm_notification_title">New voicemail(s)</string>
-    <string name="vvm_notification_content">Listen to the voicemail or install Visual Voice Mail from the Play Store.</string>
-    <string name="vvm_notification_call_action">Call voicemail</string>
-    <string name="vvm_notification_install_action">Install</string>
+  <string name="app_name">Motorola AppDirectedSmsProxy Service</string>
+  <string name="config_actionDirectedSMSReceived">verizon.intent.action.DIRECTED_SMS_RECEIVED</string>
+  <string name="config_adsPrefix">//VZW</string>
+  <string name="config_keyAppPrefix">com.verizon.directedAppSMS</string>
+  <string name="vvm_notification_call_action">Call voicemail</string>
+  <string name="vvm_notification_content">Listen to the voicemail or install Visual Voice Mail from the Play Store.</string>
+  <string name="vvm_notification_install_action">Install</string>
+  <string name="vvm_notification_title">New voicemail(s)</string>
 </resources>

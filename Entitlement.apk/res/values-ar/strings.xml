@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">يتم الآن التحقق من حالة الاشتراك. يرجى الانتظار...</string>
-    <string name="vzw_error_msg_title">تعذرت معالجة طلبك</string>
-    <string name="vzw_error_msg">"إذا كنت ترغب في الاشتراك بخدمة نقطة الاتصال المحمولة/Mobile Broadband Connect، فاتصل على: 
+  <string name="alert_dialog_later_button">لاحقًا</string>
+  <string name="alert_dialog_negative_button">إلغاء</string>
+  <string name="alert_dialog_no_button">لا</string>
+  <string name="alert_dialog_positive_button">موافق</string>
+  <string name="alert_dialog_upgrade_button">ترقية</string>
+  <string name="alert_dialog_yes_button">نعم</string>
+  <string name="app_name">التفويض</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">للتمكين، انتقل إلى att.com/mywireless أو اتصل على 611</string>
+  <string name="att_error_msg_other">حدث خطأ مؤقت في الشبكة يمنع تمكين وظيفة نقطة الاتصال المحمولة. يُرجى إعادة المحاولة لاحقًا</string>
+  <string name="att_error_msg_other_title">خطأ في الشبكة</string>
+  <string name="att_error_msg_title">لم يتم إعداد الحساب للربط</string>
+  <string name="browser_error_msg">يتعذر فتح المستعرض.</string>
+  <string name="feature_check_msg">يتم الآن التحقق من حالة الاشتراك. يرجى الانتظار...</string>
+  <string name="mobile_hotspot">نقطة اتصال محمولة</string>
+  <string name="network_connection_error_msg">يتعذر اتصال هاتفك حاليًا بخادم %s. يرجى المحاولة مرة أخرى لاحقًا.</string>
+  <string name="network_connection_title">خطأ في الاتصال بالشبكة</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#1578;&amp;#1593;&amp;#1585;&amp;#1617;&amp;#1601; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1586;&amp;#1610;&amp;#1583; &amp;#1608;&amp;#1575;&amp;#1588;&amp;#1578;&amp;#1585;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1577; &amp;#1606;&amp;#1602;&amp;#1591;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1581;&amp;#1605;&amp;#1608;&amp;#1604;&amp;#1577; &amp;#1605;&amp;#1606; &amp;#1582;&amp;#1604;&amp;#1575;&amp;#1604; &amp;#1586;&amp;#1610;&amp;#1575;&amp;#1585;&amp;#1577; My Verizon.&amp;#8207;&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">لاستخدام نقطة الاتصال المحمولة، ستحتاج إلى الاشتراك في خدمة نقطة الاتصال المحمولة</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">يتعذر الاتصال بشبكة البيانات؛ قد لا تكون مشتركًا في خدمة الربط أو نقطة الاتصال، يرجى الاتصال بشركة الهاتف لديك.</string>
+  <string name="sprint_error_msg_3g">يتعذر الاتصال بشبكة البيانات، عند إيقاف تشغيل الربط أو نقطة الاتصال. قد لا تتضمن الخطة الخاصة بك خدمة الربط ونقطة الاتصال. هل تريد رؤية خيارات الاشتراك؟</string>
+  <string name="sprint_error_msg_lte">أنت غير مشترك في خدمة الربط ونقطة الاتصال. هل تريد رؤية خيارات الاشتراك؟</string>
+  <string name="sprint_error_msg_title">خطأ في الربط أو نقطة الاتصال</string>
+  <string name="sprint_notification_msg">المس لرؤية المزيد من التفاصيل</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">لا تتضمن خطة الأسعار الحالية خدمة Smartphone Mobile HotSpot التي تمكّن مشاركة اتصال بيانات الهاتف مع أجهزة أخرى. هل ترغب في إضافة خدمة Smartphone Mobile HotSpot إلى خطة الأسعار الخاصة بك؟ يمكنك أيضًا إضافتها عبر الإنترنت على https://my.t-mobile.com under Manage &gt; Plans and Services.</string>
+  <string name="tmo_error_msg_title">ترقية الخدمة مطلوبة</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"إذا كنت ترغب في الاشتراك بخدمة نقطة الاتصال المحمولة/Mobile Broadband Connect، فاتصل على: 
  المستهلك: ‎(800) 256-4646،‏ 
  العمل: ‎(800) 899-4249."</string>
-    <string name="tmo_error_msg_title">ترقية الخدمة مطلوبة</string>
-    <string name="tmo_error_msg">لا تتضمن خطة الأسعار الحالية خدمة Smartphone Mobile HotSpot التي تمكّن مشاركة اتصال بيانات الهاتف مع أجهزة أخرى. هل ترغب في إضافة خدمة Smartphone Mobile HotSpot إلى خطة الأسعار الخاصة بك؟ يمكنك أيضًا إضافتها عبر الإنترنت على https://my.t-mobile.com under Manage > Plans and Services.</string>
-    <string name="app_name">التفويض</string>
-    <string name="network_connection_title">خطأ في الاتصال بالشبكة</string>
-    <string name="network_connection_error_msg">يتعذر اتصال هاتفك حاليًا بخادم %s. يرجى المحاولة مرة أخرى لاحقًا.</string>
-    <string name="mobile_hotspot">نقطة اتصال محمولة</string>
-    <string name="spg_dlg_normaltext">لاستخدام نقطة الاتصال المحمولة، ستحتاج إلى الاشتراك في خدمة نقطة الاتصال المحمولة</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">تعرّف على المزيد واشترك في خدمة نقطة الاتصال المحمولة من خلال زيارة My Verizon.‏</a></string>
-    <string name="browser_error_msg">يتعذر فتح المستعرض.</string>
-    <string name="alert_dialog_positive_button">موافق</string>
-    <string name="alert_dialog_negative_button">إلغاء</string>
-    <string name="alert_dialog_yes_button">نعم</string>
-    <string name="alert_dialog_no_button">لا</string>
-    <string name="alert_dialog_upgrade_button">ترقية</string>
-    <string name="alert_dialog_later_button">لاحقًا</string>
-    <string name="att_error_msg">للتمكين، انتقل إلى att.com/mywireless أو اتصل على 611</string>
-    <string name="att_error_msg_title">لم يتم إعداد الحساب للربط</string>
-    <string name="att_error_msg_other">حدث خطأ مؤقت في الشبكة يمنع تمكين وظيفة نقطة الاتصال المحمولة. يُرجى إعادة المحاولة لاحقًا</string>
-    <string name="att_error_msg_other_title">خطأ في الشبكة</string>
-    <string name="sprint_error_msg">يتعذر الاتصال بشبكة البيانات؛ قد لا تكون مشتركًا في خدمة الربط أو نقطة الاتصال، يرجى الاتصال بشركة الهاتف لديك.</string>
-    <string name="sprint_error_msg_lte">أنت غير مشترك في خدمة الربط ونقطة الاتصال. هل تريد رؤية خيارات الاشتراك؟</string>
-    <string name="sprint_error_msg_3g">يتعذر الاتصال بشبكة البيانات، عند إيقاف تشغيل الربط أو نقطة الاتصال. قد لا تتضمن الخطة الخاصة بك خدمة الربط ونقطة الاتصال. هل تريد رؤية خيارات الاشتراك؟</string>
-    <string name="sprint_error_msg_title">خطأ في الربط أو نقطة الاتصال</string>
-    <string name="sprint_notification_msg">المس لرؤية المزيد من التفاصيل</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">تعذرت معالجة طلبك</string>
 </resources>

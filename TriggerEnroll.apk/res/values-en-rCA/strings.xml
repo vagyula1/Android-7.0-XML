@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="text_quiet">QUIET</string>
-    <string name="text_noisy">NOISY</string>
-    <string name="text_loud">LOUD</string>
-    <string name="noise_estimator_title">Noise levels</string>
-    <string name="training_record_1">Say \"Ok Google\"</string>
-    <string name="training_record_2">Say \"Ok Google\" again</string>
-    <string name="training_record_3">Say \"Ok Google\" one last time</string>
-    <string name="training_launch_title">"Let's train your phone"</string>
-    <string name="training_record_launch_title">Say \"Ok Google\"</string>
-    <string name="training_launch_comments_title">I need you to:</string>
-    <string name="training_start_comments_1">Go to a quiet area</string>
-    <string name="training_start_comments_2">Hold your phone away from your face and speak normally</string>
-    <string name="training_start_comments_3">Say \"Ok Google\" three times</string>
-    <string name="training_record">RECORD</string>
-    <string name="training_invalid_reneroll_comments">"Some corrupt data within the app is preventing you from retraining.
+  <string name="acoustic_file">nn_en_us_mfcc_16k_15_big_250_v5_1_1.raw</string>
+  <string name="adapated_moto_acoustic_file">ma_1_okgooglenow_en_us_adults_sfs12_delivery3_am.raw</string>
+  <string name="adapated_moto_search_file">ma_1_okgooglenow_en_us_adults_sfs12_delivery3_search_7.raw</string>
+  <string name="dsp_adapated_moto_grammar_file">ma_1_okgooglenow_en_us_adults_ma36_delivery3_search_7.bin</string>
+  <string name="dsp_adapated_moto_net_file">ma_1_okgooglenow_en_us_adults_ma36_delivery3_am.bin</string>
+  <string name="hello_moto_anti_speaker">svsid_triggerogn_enus_3_1.raw</string>
+  <string name="noise_estimator_title">Noise levels</string>
+  <string name="nuance_acmod_file">acmod4_2500_enu_gen_car_f16_v2_0_0.dat</string>
+  <string name="nuance_clc_file">clc_enu_cfg3_v6_0_2.dat</string>
+  <string name="phoneme_search">phonemesearch_enus_2_0.raw</string>
+  <string name="text_loud">LOUD</string>
+  <string name="text_noisy">NOISY</string>
+  <string name="text_quiet">QUIET</string>
+  <string name="training_accept">ACCEPT</string>
+  <string name="training_error">Sorry, something went wrong</string>
+  <string name="training_invalid_reneroll_comments">"Some corrupt data within the app is preventing you from retraining.
 
 To delete all files and retrain, choose ACCEPT.
 To continue using the current system, choose CANCEL."</string>
-    <string name="training_recording_cancel">CANCEL </string>
-    <string name="training_record_again">RECORD AGAIN</string>
-    <string name="training_try_again_later">TRY LATER</string>
-    <string name="training_accept">ACCEPT</string>
-    <string name="training_record_complete_message">Verifying recordings…</string>
-    <string name="training_record_failed_title">Sorry…</string>
-    <string name="training_record_failed">Training cannot be completed at the moment.</string>
-    <string name="training_listening">Listening…</string>
-    <string name="training_recorded">Recorded</string>
-    <string name="training_error">Sorry, something went wrong</string>
-    <string name="training_record_first_error">That phrase doesn’t sound right. Please say it again naturally to continue.</string>
-    <string name="training_record_final_error">That still doesn’t sound right. You can use this recording, but you may have issues in the future.</string>
-    <string name="acoustic_file">nn_en_us_mfcc_16k_15_big_250_v5_1_1.raw</string>
-    <string name="phoneme_search">phonemesearch_enus_2_0.raw</string>
-    <string name="adapated_moto_acoustic_file">ma_1_okgooglenow_en_us_adults_sfs12_delivery3_am.raw</string>
-    <string name="adapated_moto_search_file">ma_1_okgooglenow_en_us_adults_sfs12_delivery3_search_7.raw</string>
-    <string name="dsp_adapated_moto_net_file">ma_1_okgooglenow_en_us_adults_ma36_delivery3_am.bin</string>
-    <string name="dsp_adapated_moto_grammar_file">ma_1_okgooglenow_en_us_adults_ma36_delivery3_search_7.bin</string>
-    <string name="hello_moto_anti_speaker">svsid_triggerogn_enus_3_1.raw</string>
-    <string name="udt_anti_speaker">svsid_enus_2_0.raw</string>
-    <string name="nuance_acmod_file">acmod4_2500_enu_gen_car_f16_v2_0_0.dat</string>
-    <string name="nuance_clc_file">clc_enu_cfg3_v6_0_2.dat</string>
+  <string name="training_launch_comments_title">I need you to:</string>
+  <string name="training_launch_title">"Let's train your phone"</string>
+  <string name="training_listening">Listening…</string>
+  <string name="training_record">RECORD</string>
+  <string name="training_record_1">Say \"Ok Google\"</string>
+  <string name="training_record_2">Say \"Ok Google\" again</string>
+  <string name="training_record_3">Say \"Ok Google\" one last time</string>
+  <string name="training_record_again">RECORD AGAIN</string>
+  <string name="training_record_complete_message">Verifying recordings…</string>
+  <string name="training_record_failed">Training cannot be completed at the moment.</string>
+  <string name="training_record_failed_title">Sorry…</string>
+  <string name="training_record_final_error">That still doesn’t sound right. You can use this recording, but you may have issues in the future.</string>
+  <string name="training_record_first_error">That phrase doesn’t sound right. Please say it again naturally to continue.</string>
+  <string name="training_record_launch_title">Say \"Ok Google\"</string>
+  <string name="training_recorded">Recorded</string>
+  <string name="training_recording_cancel">CANCEL </string>
+  <string name="training_start_comments_1">Go to a quiet area</string>
+  <string name="training_start_comments_2">Hold your phone away from your face and speak normally</string>
+  <string name="training_start_comments_3">Say \"Ok Google\" three times</string>
+  <string name="training_try_again_later">TRY LATER</string>
+  <string name="udt_anti_speaker">svsid_enus_2_0.raw</string>
 </resources>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Έλεγχος κατάστασης συνδρομής. Περιμένετε...</string>
-    <string name="vzw_error_msg_title">Δεν ήταν δυνατή η επεξεργασία της παραγγελίας σας</string>
-    <string name="vzw_error_msg">"Αν θέλετε να εγγραφείτε στο Mobile Hotspot/Mobile Broadband Connect, καλέστε: 
+  <string name="alert_dialog_later_button">Αργότερα</string>
+  <string name="alert_dialog_negative_button">Άκυρο</string>
+  <string name="alert_dialog_no_button">Όχι</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Αναβάθμιση</string>
+  <string name="alert_dialog_yes_button">Ναι</string>
+  <string name="app_name">Δικαίωμα</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Για ενεργοποίηση, μεταβείτε στη διεύθυνση att.com/mywireless ή καλέστε το 611</string>
+  <string name="att_error_msg_other">Λόγω προσωρινού προβλήματος δικτύου, δεν είναι δυνατή η ενεργοποίηση της λειτουργίας του Mobile Hotspot. Δοκιμάστε ξανά αργότερα.</string>
+  <string name="att_error_msg_other_title">Σφάλμα δικτύου</string>
+  <string name="att_error_msg_title">Δεν έχει ρυθμιστεί λογαριασμός για tethering</string>
+  <string name="browser_error_msg">Δεν είναι δυνατό το άνοιγμα του προγράμματος περιήγησης.</string>
+  <string name="feature_check_msg">Έλεγχος κατάστασης συνδρομής. Περιμένετε...</string>
+  <string name="mobile_hotspot">Mobile Hotspot</string>
+  <string name="network_connection_error_msg">Αυτήν τη στιγμή το τηλέφωνό σας δεν μπορεί να συνδεθεί στο διακομιστή %s. Προσπαθήστε ξανά αργότερα.</string>
+  <string name="network_connection_title">Σφάλμα σύνδεσης δικτύου</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#915;&amp;#953;&amp;#945; &amp;#957;&amp;#945; &amp;#956;&amp;#940;&amp;#952;&amp;#949;&amp;#964;&amp;#949; &amp;#960;&amp;#949;&amp;#961;&amp;#953;&amp;#963;&amp;#963;&amp;#972;&amp;#964;&amp;#949;&amp;#961;&amp;#945; &amp;#954;&amp;#945;&amp;#953; &amp;#957;&amp;#945; &amp;#949;&amp;#947;&amp;#947;&amp;#961;&amp;#945;&amp;#966;&amp;#949;&amp;#943;&amp;#964;&amp;#949; &amp;#963;&amp;#964;&amp;#951;&amp;#957; &amp;#965;&amp;#960;&amp;#951;&amp;#961;&amp;#949;&amp;#963;&amp;#943;&amp;#945; Mobile Hotspot, &amp;#949;&amp;#960;&amp;#953;&amp;#963;&amp;#954;&amp;#949;&amp;#966;&amp;#964;&amp;#949;&amp;#943;&amp;#964;&amp;#949; &amp;#964;&amp;#959; My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Για να χρησιμοποιήσετε τη δυνατότητα Mobile Hotspot, θα πρέπει να εγγραφείτε στην υπηρεσία Mobile Hotspot</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Δεν είναι δυνατή η σύνδεση στο δίκτυο δεδομένων. Ίσως να μην έχετε εγγραφεί στην υπηρεσία tethering και hotspot. Επικοινωνήστε με την εταιρεία τηλεφωνίας.</string>
+  <string name="sprint_error_msg_3g">Δεν είναι δυνατή η σύνδεση στο δίκτυο δεδομένων, γίνεται απενεργοποίηση του tethering ή του hotspot. Το πρόγραμμά σας μπορεί να μην περιλαμβάνει την υπηρεσία tethering και hotspot. Θέλετε να δείτε τις επιλογές συνδρομής;</string>
+  <string name="sprint_error_msg_lte">Δεν έχετε εγγραφεί στην υπηρεσία tethering και hotspot. Θέλετε να δείτε τις επιλογές εγγραφής;</string>
+  <string name="sprint_error_msg_title">Σφάλμα tethering ή hotspot</string>
+  <string name="sprint_notification_msg">Αγγίξτε για να δείτε περισσότερες λεπτομέρειες</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Το πρόγραμμα σύνδεσής σας δεν περιλαμβάνει την υπηρεσία Smartphone Mobile HotSpot, η οποία σας επιτρέπει να μοιράζεστε τη σύνδεση δεδομένων του τηλεφώνου σας με άλλες συσκευές. Θέλετε να προσθέσετε την υπηρεσία Smartphone Mobile HotSpot στο πρόγραμμά σας; Μπορείτε επίσης να την προσθέσετε διαδικτυακά από το μενού Διαχείριση &gt; Προγράμματα και υπηρεσίες στη διεύθυνση https://my.t-mobile.com.</string>
+  <string name="tmo_error_msg_title">Απαιτείται αναβάθμιση της υπηρεσίας</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Αν θέλετε να εγγραφείτε στο Mobile Hotspot/Mobile Broadband Connect, καλέστε: 
  Ιδιώτες: (800) 256-4646, 
  Επαγγελματίες: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Απαιτείται αναβάθμιση της υπηρεσίας</string>
-    <string name="tmo_error_msg">Το πρόγραμμα σύνδεσής σας δεν περιλαμβάνει την υπηρεσία Smartphone Mobile HotSpot, η οποία σας επιτρέπει να μοιράζεστε τη σύνδεση δεδομένων του τηλεφώνου σας με άλλες συσκευές. Θέλετε να προσθέσετε την υπηρεσία Smartphone Mobile HotSpot στο πρόγραμμά σας; Μπορείτε επίσης να την προσθέσετε διαδικτυακά από το μενού Διαχείριση > Προγράμματα και υπηρεσίες στη διεύθυνση https://my.t-mobile.com.</string>
-    <string name="app_name">Δικαίωμα</string>
-    <string name="network_connection_title">Σφάλμα σύνδεσης δικτύου</string>
-    <string name="network_connection_error_msg">Αυτήν τη στιγμή το τηλέφωνό σας δεν μπορεί να συνδεθεί στο διακομιστή %s. Προσπαθήστε ξανά αργότερα.</string>
-    <string name="mobile_hotspot">Mobile Hotspot</string>
-    <string name="spg_dlg_normaltext">Για να χρησιμοποιήσετε τη δυνατότητα Mobile Hotspot, θα πρέπει να εγγραφείτε στην υπηρεσία Mobile Hotspot</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Για να μάθετε περισσότερα και να εγγραφείτε στην υπηρεσία Mobile Hotspot, επισκεφτείτε το My Verizon.</a></string>
-    <string name="browser_error_msg">Δεν είναι δυνατό το άνοιγμα του προγράμματος περιήγησης.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Άκυρο</string>
-    <string name="alert_dialog_yes_button">Ναι</string>
-    <string name="alert_dialog_no_button">Όχι</string>
-    <string name="alert_dialog_upgrade_button">Αναβάθμιση</string>
-    <string name="alert_dialog_later_button">Αργότερα</string>
-    <string name="att_error_msg">Για ενεργοποίηση, μεταβείτε στη διεύθυνση att.com/mywireless ή καλέστε το 611</string>
-    <string name="att_error_msg_title">Δεν έχει ρυθμιστεί λογαριασμός για tethering</string>
-    <string name="att_error_msg_other">Λόγω προσωρινού προβλήματος δικτύου, δεν είναι δυνατή η ενεργοποίηση της λειτουργίας του Mobile Hotspot. Δοκιμάστε ξανά αργότερα.</string>
-    <string name="att_error_msg_other_title">Σφάλμα δικτύου</string>
-    <string name="sprint_error_msg">Δεν είναι δυνατή η σύνδεση στο δίκτυο δεδομένων. Ίσως να μην έχετε εγγραφεί στην υπηρεσία tethering και hotspot. Επικοινωνήστε με την εταιρεία τηλεφωνίας.</string>
-    <string name="sprint_error_msg_lte">Δεν έχετε εγγραφεί στην υπηρεσία tethering και hotspot. Θέλετε να δείτε τις επιλογές εγγραφής;</string>
-    <string name="sprint_error_msg_3g">Δεν είναι δυνατή η σύνδεση στο δίκτυο δεδομένων, γίνεται απενεργοποίηση του tethering ή του hotspot. Το πρόγραμμά σας μπορεί να μην περιλαμβάνει την υπηρεσία tethering και hotspot. Θέλετε να δείτε τις επιλογές συνδρομής;</string>
-    <string name="sprint_error_msg_title">Σφάλμα tethering ή hotspot</string>
-    <string name="sprint_notification_msg">Αγγίξτε για να δείτε περισσότερες λεπτομέρειες</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Δεν ήταν δυνατή η επεξεργασία της παραγγελίας σας</string>
 </resources>

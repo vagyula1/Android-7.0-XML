@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="url_load_unsuccessful_message">タブレットがモバイルデータサービスに接続されていません。この情報を今すぐ確認するには、ウェブブラウザで %s にアクセスしてください。</string>
-    <string name="activation_text">今すぐモバイルサービスを有効にするには[<b>有効にする</b>"]をタップしてください（数分かかることがあります）。
-
-代わりにWi-Fi接続を使ってタブレットをセットアップする場合は["<b>スキップ</b>]をタップしてください。</string>
-    <string name="activation_skip_confirmation">"モバイルデータサービスを有効にするまで、タブレットのほとんどの機能は使用できません。
-
-いったんスキップする場合は、後ほど[システム設定]で有効にできます。"</string>
-    <string name="activation_failure_text">"モバイルデータサービスを有効にできませんでした。これは一時的な問題と考えられます。
+  <string name="activation_failure_text">"モバイルデータサービスを有効にできませんでした。これは一時的な問題と考えられます。
 
 いったんスキップする場合は、後ほど必ず[システム設定]で有効にしてください。有効にするまでタブレットのほとんどの機能は利用できません。"</string>
-    <string name="activation_failure_text_gen">モバイルデータサービスを有効にできませんでした。これは一時的な問題である可能性があり、タブレットを再起動すると解決する場合があります。</string>
-    <string name="activation_spc_failure_text">エラーが発生しました。もう一度有効化を試すにはタブレットをシャットダウンして再起動する必要があります。タブレットは60秒後に自動的にシャットダウンされますが、[<b>今すぐシャットダウン</b>"]をタップすることもできます。
+  <string name="activation_failure_text_gen">モバイルデータサービスを有効にできませんでした。これは一時的な問題である可能性があり、タブレットを再起動すると解決する場合があります。</string>
+  <string name="activation_skip_confirmation">"モバイルデータサービスを有効にするまで、タブレットのほとんどの機能は使用できません。
 
-タブレットのシャットダウンが完了したら、電源ボタンを押して再起動してください。"</string>
-    <string name="sim_missing_text">SIMカードを挿入するには、タブレットの取扱説明書をお読みください。</string>
-    <string name="setup_complete_message">タブレットのセットアップが完了し、ご使用の準備が整いました。</string>
+いったんスキップする場合は、後ほど[システム設定]で有効にできます。"</string>
+  <string name="activation_spc_failure_text">エラーが発生しました。もう一度有効化を試すにはタブレットをシャットダウンして再起動する必要があります。タブレットは60秒後に自動的にシャットダウンされますが、[&lt;b&gt;&amp;#20170;&amp;#12377;&amp;#12368;&amp;#12471;&amp;#12515;&amp;#12483;&amp;#12488;&amp;#12480;&amp;#12454;&amp;#12531;&lt;/b&gt;"]&amp;#12434;&amp;#12479;&amp;#12483;&amp;#12503;&amp;#12377;&amp;#12427;&amp;#12371;&amp;#12392;&amp;#12418;&amp;#12391;&amp;#12365;&amp;#12414;&amp;#12377;&amp;#12290;
+
+&amp;#12479;&amp;#12502;&amp;#12524;&amp;#12483;&amp;#12488;&amp;#12398;&amp;#12471;&amp;#12515;&amp;#12483;&amp;#12488;&amp;#12480;&amp;#12454;&amp;#12531;&amp;#12364;&amp;#23436;&amp;#20102;&amp;#12375;&amp;#12383;&amp;#12425;&amp;#12289;&amp;#38651;&amp;#28304;&amp;#12508;&amp;#12479;&amp;#12531;&amp;#12434;&amp;#25276;&amp;#12375;&amp;#12390;&amp;#20877;&amp;#36215;&amp;#21205;&amp;#12375;&amp;#12390;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&amp;#12290;"</string>
+  <string name="activation_text">今すぐモバイルサービスを有効にするには[&lt;b&gt;&amp;#26377;&amp;#21177;&amp;#12395;&amp;#12377;&amp;#12427;&lt;/b&gt;"]&amp;#12434;&amp;#12479;&amp;#12483;&amp;#12503;&amp;#12375;&amp;#12390;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&amp;#65288;&amp;#25968;&amp;#20998;&amp;#12363;&amp;#12363;&amp;#12427;&amp;#12371;&amp;#12392;&amp;#12364;&amp;#12354;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#65289;&amp;#12290;
+
+&amp;#20195;&amp;#12431;&amp;#12426;&amp;#12395;Wi-Fi&amp;#25509;&amp;#32154;&amp;#12434;&amp;#20351;&amp;#12387;&amp;#12390;&amp;#12479;&amp;#12502;&amp;#12524;&amp;#12483;&amp;#12488;&amp;#12434;&amp;#12475;&amp;#12483;&amp;#12488;&amp;#12450;&amp;#12483;&amp;#12503;&amp;#12377;&amp;#12427;&amp;#22580;&amp;#21512;&amp;#12399;["&lt;b&gt;&amp;#12473;&amp;#12461;&amp;#12483;&amp;#12503;&lt;/b&gt;]&amp;#12434;&amp;#12479;&amp;#12483;&amp;#12503;&amp;#12375;&amp;#12390;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&amp;#12290;</string>
+  <string name="setup_complete_message">タブレットのセットアップが完了し、ご使用の準備が整いました。</string>
+  <string name="sim_missing_text">SIMカードを挿入するには、タブレットの取扱説明書をお読みください。</string>
+  <string name="url_load_unsuccessful_message">タブレットがモバイルデータサービスに接続されていません。この情報を今すぐ確認するには、ウェブブラウザで %s にアクセスしてください。</string>
 </resources>

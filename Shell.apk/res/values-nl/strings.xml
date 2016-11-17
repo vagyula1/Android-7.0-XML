@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Shell</string>
-    <string name="bugreport_in_progress_title">Bugrapport #%d wordt gegenereerd</string>
-    <string name="bugreport_finished_title">Bugrapport #%d is vastgelegd</string>
-    <string name="bugreport_finished_pending_screenshot_title">Bugrapport #%d vastgelegd, screenshot in behandeling</string>
-    <string name="bugreport_updating_title">Details toevoegen aan het bugrapport</string>
-    <string name="bugreport_updating_wait">Even geduld…</string>
-    <string name="bugreport_finished_text">Tik om je bugrapport te delen</string>
-    <string name="bugreport_finished_pending_screenshot_text">Tik om je bugrapport te delen zonder screenshot of wacht tot het screenshot is voltooid</string>
-    <string name="bugreport_confirm">Foutenrapporten bevatten gegevens uit de verschillende logbestanden van het systeem, waaronder persoonlijke en privégegevens. Deel foutenrapporten alleen met apps en mensen die u vertrouwt.</string>
-    <string name="bugreport_confirm_repeat">Dit bericht de volgende keer weergeven</string>
-    <string name="bugreport_storage_title">Foutenrapporten</string>
-    <string name="bugreport_unreadable_text">Bestand met bugrapport kan niet worden gelezen</string>
-    <string name="bugreport_unnamed">naamloos</string>
-    <string name="bugreport_info_action">Details</string>
-    <string name="bugreport_screenshot_action">Screenshot</string>
-    <string name="bugreport_screenshot_taken">Screenshot is gemaakt.</string>
-    <string name="bugreport_screenshot_failed">Screenshot kan niet worden gemaakt.</string>
-    <string name="bugreport_info_dialog_title">Details van bugrapport #%d</string>
-    <string name="bugreport_info_name">Bestandsnaam</string>
-    <string name="bugreport_info_title">Titel van bug</string>
-    <string name="bugreport_info_description">Overzicht van bug</string>
-    <string name="save">Opslaan</string>
+  <string name="app_label">Shell</string>
+  <string name="bugreport_confirm">Foutenrapporten bevatten gegevens uit de verschillende logbestanden van het systeem, waaronder persoonlijke en privégegevens. Deel foutenrapporten alleen met apps en mensen die u vertrouwt.</string>
+  <string name="bugreport_confirm_repeat">Dit bericht de volgende keer weergeven</string>
+  <string name="bugreport_finished_pending_screenshot_text">Tik om je bugrapport te delen zonder screenshot of wacht tot het screenshot is voltooid</string>
+  <string name="bugreport_finished_pending_screenshot_title">Bugrapport #%d vastgelegd, screenshot in behandeling</string>
+  <string name="bugreport_finished_text">Tik om je bugrapport te delen</string>
+  <string name="bugreport_finished_title">Bugrapport #%d is vastgelegd</string>
+  <string name="bugreport_in_progress_title">Bugrapport #%d wordt gegenereerd</string>
+  <string name="bugreport_info_action">Details</string>
+  <string name="bugreport_info_description">Overzicht van bug</string>
+  <string name="bugreport_info_dialog_title">Details van bugrapport #%d</string>
+  <string name="bugreport_info_name">Bestandsnaam</string>
+  <string name="bugreport_info_title">Titel van bug</string>
+  <string name="bugreport_screenshot_action">Screenshot</string>
+  <string name="bugreport_screenshot_failed">Screenshot kan niet worden gemaakt.</string>
+  <string name="bugreport_screenshot_taken">Screenshot is gemaakt.</string>
+  <string name="bugreport_storage_title">Foutenrapporten</string>
+  <string name="bugreport_unnamed">naamloos</string>
+  <string name="bugreport_unreadable_text">Bestand met bugrapport kan niet worden gelezen</string>
+  <string name="bugreport_updating_title">Details toevoegen aan het bugrapport</string>
+  <string name="bugreport_updating_wait">Even geduld…</string>
+  <string name="save">Opslaan</string>
 </resources>

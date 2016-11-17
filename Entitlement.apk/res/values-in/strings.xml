@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Memeriksa status berlangganan. Tunggu...</string>
-    <string name="vzw_error_msg_title">Permintaan Anda tidak dapat diproses</string>
-    <string name="vzw_error_msg">"Jika ingin berlangganan Hotspot Seluler/Mobile Broadband Connect, hubungi: 
+  <string name="alert_dialog_later_button">Nanti</string>
+  <string name="alert_dialog_negative_button">Batal</string>
+  <string name="alert_dialog_no_button">Tidak</string>
+  <string name="alert_dialog_positive_button">Oke</string>
+  <string name="alert_dialog_upgrade_button">Mutakhirkan</string>
+  <string name="alert_dialog_yes_button">Ya</string>
+  <string name="app_name">Hak</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Untuk mengaktifkan, buka att.com/mywireless atau hubungi nomor 611</string>
+  <string name="att_error_msg_other">Ada masalah jaringan sementara yang membuat fungsi Hotspot Seluler tidak dapat diaktifkan. Coba lagi nanti</string>
+  <string name="att_error_msg_other_title">Kesalahan Jaringan</string>
+  <string name="att_error_msg_title">Akun belum disiapkan untuk penambatan</string>
+  <string name="browser_error_msg">Tak bisa buka browser.</string>
+  <string name="feature_check_msg">Memeriksa status berlangganan. Tunggu...</string>
+  <string name="mobile_hotspot">Hotspot Seluler</string>
+  <string name="network_connection_error_msg">Saat ini ponsel Anda tidak dapat tersambung dengan server %s. Coba lagi nanti.</string>
+  <string name="network_connection_title">Kesalahan koneksi jaringan</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Pelajari lebih lanjut dan berlangganan Hotspot Seluler dengan mengunjungi My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Untuk menggunakan Hotspot Seluler, Anda harus berlangganan layanan Hotspot Seluler</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Tidak dapat tersambung ke jaringan data; Mungkin Anda tidak berlangganan layanan Penambatan atau Hotspot; hubungi operator telepon Anda.</string>
+  <string name="sprint_error_msg_3g">Tidak dapat terhubung ke jaringan data, Penambatan atau Hotspot dimatikan. Paket Anda mungkin tidak mencakup layanan Penambatan dan Hotspot. Ingin melihat opsi langganan?</string>
+  <string name="sprint_error_msg_lte">Anda tidak berlangganan layanan Penambatan dan Hotspot. Ingin melihat opsi langganan?</string>
+  <string name="sprint_error_msg_title">Kesalahan Penambatan atau Hotspot</string>
+  <string name="sprint_notification_msg">Sentuh untuk melihat detail selengkapnya</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Paket tarif Anda saat ini tidak menyertakan layanan HotSpot Seluler Smartphone yang mengaktifkan berbagi koneksi data ponsel Anda dengan perangkat lain. Anda ingin menambahkan layanan HotSpot Seluler Smartphone ke paket langganan? Anda juga bisa menambahkan secara online di https://my.t-mobile.com di Kelola &gt; Paket dan Layanan.</string>
+  <string name="tmo_error_msg_title">Memerlukan pemutakhiran layanan</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Jika ingin berlangganan Hotspot Seluler/Mobile Broadband Connect, hubungi: 
  Konsumen: (800) 256-4646, 
  Bisnis: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Memerlukan pemutakhiran layanan</string>
-    <string name="tmo_error_msg">Paket tarif Anda saat ini tidak menyertakan layanan HotSpot Seluler Smartphone yang mengaktifkan berbagi koneksi data ponsel Anda dengan perangkat lain. Anda ingin menambahkan layanan HotSpot Seluler Smartphone ke paket langganan? Anda juga bisa menambahkan secara online di https://my.t-mobile.com di Kelola > Paket dan Layanan.</string>
-    <string name="app_name">Hak</string>
-    <string name="network_connection_title">Kesalahan koneksi jaringan</string>
-    <string name="network_connection_error_msg">Saat ini ponsel Anda tidak dapat tersambung dengan server %s. Coba lagi nanti.</string>
-    <string name="mobile_hotspot">Hotspot Seluler</string>
-    <string name="spg_dlg_normaltext">Untuk menggunakan Hotspot Seluler, Anda harus berlangganan layanan Hotspot Seluler</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Pelajari lebih lanjut dan berlangganan Hotspot Seluler dengan mengunjungi My Verizon.</a></string>
-    <string name="browser_error_msg">Tak bisa buka browser.</string>
-    <string name="alert_dialog_positive_button">Oke</string>
-    <string name="alert_dialog_negative_button">Batal</string>
-    <string name="alert_dialog_yes_button">Ya</string>
-    <string name="alert_dialog_no_button">Tidak</string>
-    <string name="alert_dialog_upgrade_button">Mutakhirkan</string>
-    <string name="alert_dialog_later_button">Nanti</string>
-    <string name="att_error_msg">Untuk mengaktifkan, buka att.com/mywireless atau hubungi nomor 611</string>
-    <string name="att_error_msg_title">Akun belum disiapkan untuk penambatan</string>
-    <string name="att_error_msg_other">Ada masalah jaringan sementara yang membuat fungsi Hotspot Seluler tidak dapat diaktifkan. Coba lagi nanti</string>
-    <string name="att_error_msg_other_title">Kesalahan Jaringan</string>
-    <string name="sprint_error_msg">Tidak dapat tersambung ke jaringan data; Mungkin Anda tidak berlangganan layanan Penambatan atau Hotspot; hubungi operator telepon Anda.</string>
-    <string name="sprint_error_msg_lte">Anda tidak berlangganan layanan Penambatan dan Hotspot. Ingin melihat opsi langganan?</string>
-    <string name="sprint_error_msg_3g">Tidak dapat terhubung ke jaringan data, Penambatan atau Hotspot dimatikan. Paket Anda mungkin tidak mencakup layanan Penambatan dan Hotspot. Ingin melihat opsi langganan?</string>
-    <string name="sprint_error_msg_title">Kesalahan Penambatan atau Hotspot</string>
-    <string name="sprint_notification_msg">Sentuh untuk melihat detail selengkapnya</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Permintaan Anda tidak dapat diproses</string>
 </resources>

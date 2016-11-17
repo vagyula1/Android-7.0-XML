@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="permlab_registerSmartNotifications">O registro com as notificações inteligentes</string>
-    <string name="permdesc_registerSmartNotifications">Permite que aplicativos de ponto final conectados com a Motorola sejam registrados com o mecanismo de sincronização das notificações inteligentes</string>
-    <string name="permlab_readNdef">Ler dados Android Beam</string>
-    <string name="permdesc_readNdef">Permite que o aplicativo leia dados Android Beam de outro aplicativo</string>
-    <string name="permlab_accessDrm">Acessar conteúdo DRM.</string>
-    <string name="permdesc_accessDrm">Permite que o aplicativo acesse conteúdo protegido por DRM.</string>
-    <string name="permlab_volumeSetting">Definir configurações de volume</string>
-    <string name="permdesc_volumeSetting">Permite a definição do painel de volume e o comportamento do hardware da tecla</string>
-    <string name="permlab_cameradump">Recuperar estado interno da câmera</string>
-    <string name="permdesc_cameradump">Permitir que um aplicativo recupere informações de estado interno do serviço de câmera.</string>
-    <string name="permdesc_accessCogRadio">Acessar dados de diagnóstico do rádio</string>
-    <string name="permlab_accessCogRadio">Permitir que o aplicativo acesse dados de diagnóstico do rádio.</string>
-    <string name="permlab_accessCheckin">permissão para acessar o provedor de check-in</string>
-    <string name="permdesc_accessCheckin">Permite que os aplicativos do sistema acessem o provedor de check-in.</string>
+  <string name="permdesc_accessCheckin">Permite que os aplicativos do sistema acessem o provedor de check-in.</string>
+  <string name="permdesc_accessCogRadio">Acessar dados de diagnóstico do rádio</string>
+  <string name="permdesc_accessDrm">Permite que o aplicativo acesse conteúdo protegido por DRM.</string>
+  <string name="permdesc_cameradump">Permitir que um aplicativo recupere informações de estado interno do serviço de câmera.</string>
+  <string name="permdesc_readNdef">Permite que o aplicativo leia dados Android Beam de outro aplicativo</string>
+  <string name="permdesc_registerSmartNotifications">Permite que aplicativos de ponto final conectados com a Motorola sejam registrados com o mecanismo de sincronização das notificações inteligentes</string>
+  <string name="permdesc_volumeSetting">Permite a definição do painel de volume e o comportamento do hardware da tecla</string>
+  <string name="permlab_accessCheckin">permissão para acessar o provedor de check-in</string>
+  <string name="permlab_accessCogRadio">Permitir que o aplicativo acesse dados de diagnóstico do rádio.</string>
+  <string name="permlab_accessDrm">Acessar conteúdo DRM.</string>
+  <string name="permlab_cameradump">Recuperar estado interno da câmera</string>
+  <string name="permlab_readNdef">Ler dados Android Beam</string>
+  <string name="permlab_registerSmartNotifications">O registro com as notificações inteligentes</string>
+  <string name="permlab_volumeSetting">Definir configurações de volume</string>
 </resources>

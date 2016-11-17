@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">正在检查订阅状态。请稍候...</string>
-    <string name="vzw_error_msg_title">无法处理您的命令</string>
-    <string name="vzw_error_msg">"如需订阅手机热点/手机宽带连接，请拨打电话：
+  <string name="alert_dialog_later_button">稍后</string>
+  <string name="alert_dialog_negative_button">取消</string>
+  <string name="alert_dialog_no_button">否</string>
+  <string name="alert_dialog_positive_button">确定</string>
+  <string name="alert_dialog_upgrade_button">升级</string>
+  <string name="alert_dialog_yes_button">是</string>
+  <string name="app_name">授权</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">要启用此功能，请前往 att.com/mywireless 或拨打 611</string>
+  <string name="att_error_msg_other">出现暂时性的网络问题，阻止移动热点功能的启用。请稍后重试</string>
+  <string name="att_error_msg_other_title">网络错误</string>
+  <string name="att_error_msg_title">未针对网络共享设置帐户</string>
+  <string name="browser_error_msg">无法打开浏览器。</string>
+  <string name="feature_check_msg">正在检查订阅状态。请稍候...</string>
+  <string name="mobile_hotspot">移动热点</string>
+  <string name="network_connection_error_msg">您的手机现在不能连接到 %s 的服务器。请稍后重试。</string>
+  <string name="network_connection_title">网络连接错误</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#36890;&amp;#36807;&amp;#35775;&amp;#38382; My Verizon &amp;#20102;&amp;#35299;&amp;#26356;&amp;#22810;&amp;#21644;&amp;#35746;&amp;#38405;&amp;#31227;&amp;#21160;&amp;#28909;&amp;#28857;&amp;#12290;&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">要使用移动热点，您需要订阅移动热点服务</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">无法连接到数据网络；您可能未订阅共享或热点服务；请联系您的电话公司。</string>
+  <string name="sprint_error_msg_3g">无法连接至数据网络，请关闭“共享”或“热点”。您的计划可能未包含“共享和热点”服务。是否要查看订阅选项？</string>
+  <string name="sprint_error_msg_lte">您尚未订阅“共享和热点”服务。是否要查看订阅选项？</string>
+  <string name="sprint_error_msg_title">共享或热点错误</string>
+  <string name="sprint_notification_msg">点按查看更多详情</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">您当前的费用计划不包括 Smartphone Mobile HotSpot 服务，此服务可让您与其他设备共享您手机的数据连接。是否要在您的费用计划中添加 Smartphone Mobile HotSpot 服务？您还可以在网站 https://my.t-mobile.com 上的管理 &gt; 计划和服务下在线添加。</string>
+  <string name="tmo_error_msg_title">需要升级服务</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"如需订阅手机热点/手机宽带连接，请拨打电话：
 客服电话：(800) 256-4646，
 业务电话：(800) 899-4249。"</string>
-    <string name="tmo_error_msg_title">需要升级服务</string>
-    <string name="tmo_error_msg">您当前的费用计划不包括 Smartphone Mobile HotSpot 服务，此服务可让您与其他设备共享您手机的数据连接。是否要在您的费用计划中添加 Smartphone Mobile HotSpot 服务？您还可以在网站 https://my.t-mobile.com 上的管理 > 计划和服务下在线添加。</string>
-    <string name="app_name">授权</string>
-    <string name="network_connection_title">网络连接错误</string>
-    <string name="network_connection_error_msg">您的手机现在不能连接到 %s 的服务器。请稍后重试。</string>
-    <string name="mobile_hotspot">移动热点</string>
-    <string name="spg_dlg_normaltext">要使用移动热点，您需要订阅移动热点服务</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">通过访问 My Verizon 了解更多和订阅移动热点。</a></string>
-    <string name="browser_error_msg">无法打开浏览器。</string>
-    <string name="alert_dialog_positive_button">确定</string>
-    <string name="alert_dialog_negative_button">取消</string>
-    <string name="alert_dialog_yes_button">是</string>
-    <string name="alert_dialog_no_button">否</string>
-    <string name="alert_dialog_upgrade_button">升级</string>
-    <string name="alert_dialog_later_button">稍后</string>
-    <string name="att_error_msg">要启用此功能，请前往 att.com/mywireless 或拨打 611</string>
-    <string name="att_error_msg_title">未针对网络共享设置帐户</string>
-    <string name="att_error_msg_other">出现暂时性的网络问题，阻止移动热点功能的启用。请稍后重试</string>
-    <string name="att_error_msg_other_title">网络错误</string>
-    <string name="sprint_error_msg">无法连接到数据网络；您可能未订阅共享或热点服务；请联系您的电话公司。</string>
-    <string name="sprint_error_msg_lte">您尚未订阅“共享和热点”服务。是否要查看订阅选项？</string>
-    <string name="sprint_error_msg_3g">无法连接至数据网络，请关闭“共享”或“热点”。您的计划可能未包含“共享和热点”服务。是否要查看订阅选项？</string>
-    <string name="sprint_error_msg_title">共享或热点错误</string>
-    <string name="sprint_notification_msg">点按查看更多详情</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">无法处理您的命令</string>
 </resources>

@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="permlab_registerSmartNotifications">"S'inscrire aux notifications intelligentes"</string>
-    <string name="permdesc_registerSmartNotifications">"Permet aux applications finales approuvées par Motorola de s'enregistrer auprès du moteur de synchronisation des notifications intelligentes"</string>
-    <string name="permlab_readNdef">Lire les données Android Beam</string>
-    <string name="permdesc_readNdef">"Permet à l'app de lire les données Android Beam d'une autre app"</string>
-    <string name="permlab_accessDrm">Accéder au contenu DMR.</string>
-    <string name="permdesc_accessDrm">"Permet à l'application d'accéder à du contenu protégé par DMR."</string>
-    <string name="permlab_volumeSetting">Définir les paramètres de volume</string>
-    <string name="permdesc_volumeSetting">Permet de définir le panneau de volume et le comportement de la touche physique</string>
-    <string name="permlab_cameradump">"Récupérer l'état interne de l'appareil photo"</string>
-    <string name="permdesc_cameradump">"Permet à une application de récupérer les informations d'état interne à partir du service d'appareil photo."</string>
-    <string name="permdesc_accessCogRadio">Accéder aux données de diagnostic radio</string>
-    <string name="permlab_accessCogRadio">"Autoriser l'application à accéder aux données de diagnostic radio."</string>
-    <string name="permlab_accessCheckin">autoriser la géolocalisation</string>
-    <string name="permdesc_accessCheckin">Autorise les applications système à vous géolocaliser.</string>
+  <string name="permdesc_accessCheckin">Autorise les applications système à vous géolocaliser.</string>
+  <string name="permdesc_accessCogRadio">Accéder aux données de diagnostic radio</string>
+  <string name="permdesc_accessDrm">"Permet à l'application d'accéder à du contenu protégé par DMR."</string>
+  <string name="permdesc_cameradump">"Permet à une application de récupérer les informations d'état interne à partir du service d'appareil photo."</string>
+  <string name="permdesc_readNdef">"Permet à l'app de lire les données Android Beam d'une autre app"</string>
+  <string name="permdesc_registerSmartNotifications">"Permet aux applications finales approuvées par Motorola de s'enregistrer auprès du moteur de synchronisation des notifications intelligentes"</string>
+  <string name="permdesc_volumeSetting">Permet de définir le panneau de volume et le comportement de la touche physique</string>
+  <string name="permlab_accessCheckin">autoriser la géolocalisation</string>
+  <string name="permlab_accessCogRadio">"Autoriser l'application à accéder aux données de diagnostic radio."</string>
+  <string name="permlab_accessDrm">Accéder au contenu DMR.</string>
+  <string name="permlab_cameradump">"Récupérer l'état interne de l'appareil photo"</string>
+  <string name="permlab_readNdef">Lire les données Android Beam</string>
+  <string name="permlab_registerSmartNotifications">"S'inscrire aux notifications intelligentes"</string>
+  <string name="permlab_volumeSetting">Définir les paramètres de volume</string>
 </resources>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">"Vérification du statut de l'abonnement. Veuillez patienter..."</string>
-    <string name="vzw_error_msg_title">"Votre commande n'a pas pu être traitée"</string>
-    <string name="vzw_error_msg">"Si vous souhaitez vous abonner à Mobile Hotspot/Mobile Broadband Connect, appelez le : 
+  <string name="alert_dialog_later_button">Plus tard</string>
+  <string name="alert_dialog_negative_button">Annuler</string>
+  <string name="alert_dialog_no_button">Non</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Mettre à niveau</string>
+  <string name="alert_dialog_yes_button">Oui</string>
+  <string name="app_name">Éligibilité</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Pour le configurer, rendez-vous sur att.com/mywireless ou composez le 611</string>
+  <string name="att_error_msg_other">"Un problème réseau temporaire empêche l'activation de la fonction Point d'accès mobile. Veuillez réessayer plus tard"</string>
+  <string name="att_error_msg_other_title">Erreur réseau</string>
+  <string name="att_error_msg_title">Compte non configuré pour le partage de connexion</string>
+  <string name="browser_error_msg">"Impossible d'ouvrir le navigateur."</string>
+  <string name="feature_check_msg">"Vérification du statut de l'abonnement. Veuillez patienter..."</string>
+  <string name="mobile_hotspot">"Point d'accès mobile"</string>
+  <string name="network_connection_error_msg">Votre téléphone ne peut pas se connecter au serveur %s pour le moment. Veuillez réessayer ultérieurement.</string>
+  <string name="network_connection_title">Erreur de connexion réseau</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Pour en savoir plus et vous abonner au service Mobile Hotspot, rendez-vous sur My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">"Pour utiliser un point d'accès mobile, vous devez vous abonner au service Mobile Hotspot"</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">"Connexion impossible au réseau de données. Vous n'êtes peut-être pas abonné à un service de partage de connexion ou de point d'accès. Contactez votre opérateur téléphonique."</string>
+  <string name="sprint_error_msg_3g">"Impossible de se connecter au réseau de données. Déconnexion en cours du service de partage de connexion ou de point d'accès. Votre forfait n'inclut peut-être pas ces types de service. Voulez-vous consulter les options d'abonnement ?"</string>
+  <string name="sprint_error_msg_lte">"Vous n'êtes pas abonné à un service de partage de connexion ou de point d'accès, voulez-vous consulter les options d'abonnement ?"</string>
+  <string name="sprint_error_msg_title">"Erreur de partage de connexion ou de point d'accès"</string>
+  <string name="sprint_notification_msg">Appuyer pour afficher plus de détails</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">"Votre forfait actuel n'inclut pas le service Smartphone Mobile HotSpot, qui vous permet de partager la connexion de données de votre téléphone avec d'autres appareils. Voulez-vous ajouter le service Smartphone Mobile HotSpot à votre forfait ? Vous pouvez également l'ajouter en ligne en vous rendant à l'adresse https://my.t-mobile.com et en sélectionnant Gérer &gt; Forfaits et services."</string>
+  <string name="tmo_error_msg_title">Mise à niveau requise pour le service</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Si vous souhaitez vous abonner à Mobile Hotspot/Mobile Broadband Connect, appelez le : 
  Particuliers : (800) 256-4646, 
  Entreprises : (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Mise à niveau requise pour le service</string>
-    <string name="tmo_error_msg">"Votre forfait actuel n'inclut pas le service Smartphone Mobile HotSpot, qui vous permet de partager la connexion de données de votre téléphone avec d'autres appareils. Voulez-vous ajouter le service Smartphone Mobile HotSpot à votre forfait ? Vous pouvez également l'ajouter en ligne en vous rendant à l'adresse https://my.t-mobile.com et en sélectionnant Gérer > Forfaits et services."</string>
-    <string name="app_name">Éligibilité</string>
-    <string name="network_connection_title">Erreur de connexion réseau</string>
-    <string name="network_connection_error_msg">Votre téléphone ne peut pas se connecter au serveur %s pour le moment. Veuillez réessayer ultérieurement.</string>
-    <string name="mobile_hotspot">"Point d'accès mobile"</string>
-    <string name="spg_dlg_normaltext">"Pour utiliser un point d'accès mobile, vous devez vous abonner au service Mobile Hotspot"</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Pour en savoir plus et vous abonner au service Mobile Hotspot, rendez-vous sur My Verizon.</a></string>
-    <string name="browser_error_msg">"Impossible d'ouvrir le navigateur."</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Annuler</string>
-    <string name="alert_dialog_yes_button">Oui</string>
-    <string name="alert_dialog_no_button">Non</string>
-    <string name="alert_dialog_upgrade_button">Mettre à niveau</string>
-    <string name="alert_dialog_later_button">Plus tard</string>
-    <string name="att_error_msg">Pour le configurer, rendez-vous sur att.com/mywireless ou composez le 611</string>
-    <string name="att_error_msg_title">Compte non configuré pour le partage de connexion</string>
-    <string name="att_error_msg_other">"Un problème réseau temporaire empêche l'activation de la fonction Point d'accès mobile. Veuillez réessayer plus tard"</string>
-    <string name="att_error_msg_other_title">Erreur réseau</string>
-    <string name="sprint_error_msg">"Connexion impossible au réseau de données. Vous n'êtes peut-être pas abonné à un service de partage de connexion ou de point d'accès. Contactez votre opérateur téléphonique."</string>
-    <string name="sprint_error_msg_lte">"Vous n'êtes pas abonné à un service de partage de connexion ou de point d'accès, voulez-vous consulter les options d'abonnement ?"</string>
-    <string name="sprint_error_msg_3g">"Impossible de se connecter au réseau de données. Déconnexion en cours du service de partage de connexion ou de point d'accès. Votre forfait n'inclut peut-être pas ces types de service. Voulez-vous consulter les options d'abonnement ?"</string>
-    <string name="sprint_error_msg_title">"Erreur de partage de connexion ou de point d'accès"</string>
-    <string name="sprint_notification_msg">Appuyer pour afficher plus de détails</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">"Votre commande n'a pas pu être traitée"</string>
 </resources>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Se verifică starea abonamentului. Aşteptaţi...</string>
-    <string name="vzw_error_msg_title">Comanda dvs. nu a putut fi procesată</string>
-    <string name="vzw_error_msg">"Dacă doriţi să vă abonaţi la serviciul Hotspot mobil/Mobile Broadband Connect, apelaţi: 
+  <string name="alert_dialog_later_button">Mai târziu</string>
+  <string name="alert_dialog_negative_button">Anulare</string>
+  <string name="alert_dialog_no_button">Nu</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Upgrade</string>
+  <string name="alert_dialog_yes_button">Da</string>
+  <string name="app_name">Drepturi</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Pentru activare, vizitaţi att.com/mywireless sau apelaţi 611</string>
+  <string name="att_error_msg_other">Există o problemă temporară cu reţeaua care împiedică activarea funcţiei Hotspot mobil. Încercaţi din nou mai târziu.</string>
+  <string name="att_error_msg_other_title">Eroare de reţea</string>
+  <string name="att_error_msg_title">Contul nu este configurat pentru partajarea conexiunii</string>
+  <string name="browser_error_msg">Nu se poate deschide browserul.</string>
+  <string name="feature_check_msg">Se verifică starea abonamentului. Aşteptaţi...</string>
+  <string name="mobile_hotspot">Hotspot mobil</string>
+  <string name="network_connection_error_msg">Telefonul nu se poate conecta momentan la serverul %s. Încercaţi din nou mai târziu.</string>
+  <string name="network_connection_title">Eroare de conectare la reţea</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Afla&amp;#539;i mai multe &amp;#537;i abona&amp;#539;i-v&amp;#259; la Hotspotul mobil vizit&amp;#226;nd My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Pentru a utiliza Hotspotul mobil, va trebui să vă abonați la serviciul Hotspot mobil</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Nu se poate stabili conexiunea la reţeaua de date. Se poate să nu fiţi abonat la serviciul Partajarea conexiunii sau Hotspot mobil. Contactaţi compania de telefonie.</string>
+  <string name="sprint_error_msg_3g">Nu vă putem conecta la rețeaua de date. Partajarea conexiunii la internet sau hotspotul va fi dezactivat. Planul dvs. poate să nu includă serviciul de partajare a conexiunii la internet și hotspot. Vreți să vedeți opțiunile de abonare?</string>
+  <string name="sprint_error_msg_lte">Nu sunteți abonat la serviciul de partajare a conexiunii al internet și hotspot. Vreți să vedeți opțiunile de abonare?</string>
+  <string name="sprint_error_msg_title">Eroare de partajare a conexiunii sau de hotspot</string>
+  <string name="sprint_notification_msg">Atingeţi pentru a vedea mai multe detalii</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Planul dvs. actual de date nu include serviciul Hotspot mobil pentru smartphone, care permite partajarea conexiunii de date a telefonului cu alte dispozitive. Doriţi să adăugaţi serviciul Hotspot mobil pentru smartphone la planul de rate? Îl puteţi adăuga şi online pe https://my.t-mobile.com, sub Gestionare &gt; Planuri şi servicii.</string>
+  <string name="tmo_error_msg_title">Este necesar upgrade-ul serviciului</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Dacă doriţi să vă abonaţi la serviciul Hotspot mobil/Mobile Broadband Connect, apelaţi: 
  Consumatori: (800) 256-4646, 
  Companii: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Este necesar upgrade-ul serviciului</string>
-    <string name="tmo_error_msg">Planul dvs. actual de date nu include serviciul Hotspot mobil pentru smartphone, care permite partajarea conexiunii de date a telefonului cu alte dispozitive. Doriţi să adăugaţi serviciul Hotspot mobil pentru smartphone la planul de rate? Îl puteţi adăuga şi online pe https://my.t-mobile.com, sub Gestionare > Planuri şi servicii.</string>
-    <string name="app_name">Drepturi</string>
-    <string name="network_connection_title">Eroare de conectare la reţea</string>
-    <string name="network_connection_error_msg">Telefonul nu se poate conecta momentan la serverul %s. Încercaţi din nou mai târziu.</string>
-    <string name="mobile_hotspot">Hotspot mobil</string>
-    <string name="spg_dlg_normaltext">Pentru a utiliza Hotspotul mobil, va trebui să vă abonați la serviciul Hotspot mobil</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Aflați mai multe și abonați-vă la Hotspotul mobil vizitând My Verizon.</a></string>
-    <string name="browser_error_msg">Nu se poate deschide browserul.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Anulare</string>
-    <string name="alert_dialog_yes_button">Da</string>
-    <string name="alert_dialog_no_button">Nu</string>
-    <string name="alert_dialog_upgrade_button">Upgrade</string>
-    <string name="alert_dialog_later_button">Mai târziu</string>
-    <string name="att_error_msg">Pentru activare, vizitaţi att.com/mywireless sau apelaţi 611</string>
-    <string name="att_error_msg_title">Contul nu este configurat pentru partajarea conexiunii</string>
-    <string name="att_error_msg_other">Există o problemă temporară cu reţeaua care împiedică activarea funcţiei Hotspot mobil. Încercaţi din nou mai târziu.</string>
-    <string name="att_error_msg_other_title">Eroare de reţea</string>
-    <string name="sprint_error_msg">Nu se poate stabili conexiunea la reţeaua de date. Se poate să nu fiţi abonat la serviciul Partajarea conexiunii sau Hotspot mobil. Contactaţi compania de telefonie.</string>
-    <string name="sprint_error_msg_lte">Nu sunteți abonat la serviciul de partajare a conexiunii al internet și hotspot. Vreți să vedeți opțiunile de abonare?</string>
-    <string name="sprint_error_msg_3g">Nu vă putem conecta la rețeaua de date. Partajarea conexiunii la internet sau hotspotul va fi dezactivat. Planul dvs. poate să nu includă serviciul de partajare a conexiunii la internet și hotspot. Vreți să vedeți opțiunile de abonare?</string>
-    <string name="sprint_error_msg_title">Eroare de partajare a conexiunii sau de hotspot</string>
-    <string name="sprint_notification_msg">Atingeţi pentru a vedea mai multe detalii</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Comanda dvs. nu a putut fi procesată</string>
 </resources>

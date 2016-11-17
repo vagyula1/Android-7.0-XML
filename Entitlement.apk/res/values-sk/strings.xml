@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Overuje sa status predplatného. Čakajte, prosím...</string>
-    <string name="vzw_error_msg_title">Vašu objednávku nebolo možné spracovať</string>
-    <string name="vzw_error_msg">"Ak sa chcete prihlásiť na odber služby Mobile Hotspot/Mobile Broadband Connect, zavolajte na číslo: 
+  <string name="alert_dialog_later_button">Neskôr</string>
+  <string name="alert_dialog_negative_button">Zrušiť</string>
+  <string name="alert_dialog_no_button">Nie</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Aktualizovať</string>
+  <string name="alert_dialog_yes_button">Áno</string>
+  <string name="app_name">Oprávnenie</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Ak ho chcete povoliť, prejdite na stránku att.com/mywireless alebo vytočte číslo 611</string>
+  <string name="att_error_msg_other">Vyskytol sa dočasný problém so sieťou, a preto služba Mobile Hotspot nefunguje. Skúste to neskôr.</string>
+  <string name="att_error_msg_other_title">Chyba siete</string>
+  <string name="att_error_msg_title">Účet nie je nastavený na zdieľanie pripojenia</string>
+  <string name="browser_error_msg">Prehľadávač sa nedá otvoriť.</string>
+  <string name="feature_check_msg">Overuje sa status predplatného. Čakajte, prosím...</string>
+  <string name="mobile_hotspot">Mobile Hotspot</string>
+  <string name="network_connection_error_msg">Momentálne nie možné pripojiť váš telefón k serveru %s. Skúste znova neskôr.</string>
+  <string name="network_connection_title">Chyba pripojenia k sieti</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Zistite viac. Nav&amp;#353;t&amp;#237;vte My Verizon a&amp;#160;prihl&amp;#225;ste sa na odber slu&amp;#382;by Wi-Fi hotspot.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Ak chcete používať službu Wi-Fi hotspot, budete sa musieť prihlásiť na odber tejto služby</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Nemožno sa pripojiť k dátovej sieti. Je možné, že nemáte predplatené zdieľanie pripojenia alebo službu Hotspot. Obráťte sa na svoju telekomunikačnú spoločnosť.</string>
+  <string name="sprint_error_msg_3g">Nie je možné pripojiť sa k dátovej sieti, služba zdieľania pripojenia alebo prístupového bodu sa vypína. Váš paušál pravdepodobne neobsahuje službu zdieľania pripojenia a prístupového bodu. Chcete si pozrieť možnosti predplatenia?</string>
+  <string name="sprint_error_msg_lte">Nemáte predplatené služby zdieľania pripojenia a prístupového bodu. Chcete si pozrieť možnosti predplatenia?</string>
+  <string name="sprint_error_msg_title">Chyba zdieľania pripojenia alebo služby Hotspot</string>
+  <string name="sprint_notification_msg">Dotykom zobrazíte viac podrobností</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Váš aktuálny paušál neposkytuje službu Mobile Hotspot pre inteligentné telefóny, ktorá umožňuje zdieľanie dátového pripojenia s ostatnými zariadeniami. Chcete pridať službu Mobile Hotspot pre inteligentné telefóny k svojmu paušálu? Môžete ju pridať aj online na stránke https://my.t-mobile.com pod položkou Spravovať &gt; Paušály a služby</string>
+  <string name="tmo_error_msg_title">Vyžaduje sa aktualizácia služby</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Ak sa chcete prihlásiť na odber služby Mobile Hotspot/Mobile Broadband Connect, zavolajte na číslo: 
  spotrebitelia: (800) 256-4646, 
  podnikatelia: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Vyžaduje sa aktualizácia služby</string>
-    <string name="tmo_error_msg">Váš aktuálny paušál neposkytuje službu Mobile Hotspot pre inteligentné telefóny, ktorá umožňuje zdieľanie dátového pripojenia s ostatnými zariadeniami. Chcete pridať službu Mobile Hotspot pre inteligentné telefóny k svojmu paušálu? Môžete ju pridať aj online na stránke https://my.t-mobile.com pod položkou Spravovať > Paušály a služby</string>
-    <string name="app_name">Oprávnenie</string>
-    <string name="network_connection_title">Chyba pripojenia k sieti</string>
-    <string name="network_connection_error_msg">Momentálne nie možné pripojiť váš telefón k serveru %s. Skúste znova neskôr.</string>
-    <string name="mobile_hotspot">Mobile Hotspot</string>
-    <string name="spg_dlg_normaltext">Ak chcete používať službu Wi-Fi hotspot, budete sa musieť prihlásiť na odber tejto služby</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Zistite viac. Navštívte My Verizon a prihláste sa na odber služby Wi-Fi hotspot.</a></string>
-    <string name="browser_error_msg">Prehľadávač sa nedá otvoriť.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Zrušiť</string>
-    <string name="alert_dialog_yes_button">Áno</string>
-    <string name="alert_dialog_no_button">Nie</string>
-    <string name="alert_dialog_upgrade_button">Aktualizovať</string>
-    <string name="alert_dialog_later_button">Neskôr</string>
-    <string name="att_error_msg">Ak ho chcete povoliť, prejdite na stránku att.com/mywireless alebo vytočte číslo 611</string>
-    <string name="att_error_msg_title">Účet nie je nastavený na zdieľanie pripojenia</string>
-    <string name="att_error_msg_other">Vyskytol sa dočasný problém so sieťou, a preto služba Mobile Hotspot nefunguje. Skúste to neskôr.</string>
-    <string name="att_error_msg_other_title">Chyba siete</string>
-    <string name="sprint_error_msg">Nemožno sa pripojiť k dátovej sieti. Je možné, že nemáte predplatené zdieľanie pripojenia alebo službu Hotspot. Obráťte sa na svoju telekomunikačnú spoločnosť.</string>
-    <string name="sprint_error_msg_lte">Nemáte predplatené služby zdieľania pripojenia a prístupového bodu. Chcete si pozrieť možnosti predplatenia?</string>
-    <string name="sprint_error_msg_3g">Nie je možné pripojiť sa k dátovej sieti, služba zdieľania pripojenia alebo prístupového bodu sa vypína. Váš paušál pravdepodobne neobsahuje službu zdieľania pripojenia a prístupového bodu. Chcete si pozrieť možnosti predplatenia?</string>
-    <string name="sprint_error_msg_title">Chyba zdieľania pripojenia alebo služby Hotspot</string>
-    <string name="sprint_notification_msg">Dotykom zobrazíte viac podrobností</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Vašu objednávku nebolo možné spracovať</string>
 </resources>

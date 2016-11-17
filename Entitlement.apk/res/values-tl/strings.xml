@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Sinusuri ang status ng subscription. Pakihintay...</string>
-    <string name="vzw_error_msg_title">Hindi maproseso ang iyong order</string>
-    <string name="vzw_error_msg">"Kung nais mong mag-subscribe sa Mobile Hotspot/Mobile Broadband Connect, tumawag sa: 
+  <string name="alert_dialog_later_button">Mamaya</string>
+  <string name="alert_dialog_negative_button">Kanselahin</string>
+  <string name="alert_dialog_no_button">Hindi</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">I-upgrade</string>
+  <string name="alert_dialog_yes_button">Oo</string>
+  <string name="app_name">Pagiging karapat-dapat</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Upang paganahin, pumunta sa att.com/mywireless o i-dial ang 611</string>
+  <string name="att_error_msg_other">Mayroong pansamantalang problema sa network na pumipigil sa pag-enable ng function ng Mobile Hotspot. Mangyaring subukan ulit mamaya</string>
+  <string name="att_error_msg_other_title">Error sa Network</string>
+  <string name="att_error_msg_title">Hindi naka-set up para sa pag-tether ang account</string>
+  <string name="browser_error_msg">Hindi mabuksan ang browser.</string>
+  <string name="feature_check_msg">Sinusuri ang status ng subscription. Pakihintay...</string>
+  <string name="mobile_hotspot">Mobile Hotspot</string>
+  <string name="network_connection_error_msg">Hindi makakonekta sa ngayon ang iyong telepono sa server ng %s. Pakisubukang muli sa ibang pagkakataon.</string>
+  <string name="network_connection_title">Error sa koneksiyon sa network</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Matutunan ang iba pa at mag-suskripsyon sa Mobile Hotspot sa pagbisita sa Aking Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Para gamitin ang Mobile Hotspot, kailangan mo mag-suskripsyon sa serbisyo ng Mobile Hotspot</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Hindi makakonekta sa data network; Maaring hindi ka naka-subscribe sa Tethering o serbisyo ng Hotspot; mangyaring tawagan ang kumpanya ng iyong telepono.</string>
+  <string name="sprint_error_msg_3g">Hindi makakonekta sa data network, sinasara ang Tethering o Hotspot. Maaaring wala ang iyong plan ng serbisyo ng Tethering at Hotspot. gusto mo bang makita ang mga opsyon sa pag-susubscribe?</string>
+  <string name="sprint_error_msg_lte">Hindi ka naka-subsribe sa serbisyo ng Tethering at Hotspot , gusto mo bang makita ang mga opsyon sa pag-susubscribe?</string>
+  <string name="sprint_error_msg_title">Error sa tethering o Hotspot</string>
+  <string name="sprint_notification_msg">Pindutin upang makita ang iba pang mga detalye</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Ang plan ng rate mo ngayon ay hindi kasama ang serbisyong Smartphone Mobile HotSpot na nagbibigay-daan na maibahagi ang koneksyon ng data ng iyong telepono sa ibang mga device. Gusto mo bang idagdag ang serbisyong Smartphone Mobile HotSpot sa plan ng rate mo? Maaari mo rin itong idagdag online sa https://my.t-mobile.com sa ilalim ng Pamahalaan &gt; Mga Plan at Serbisyo.</string>
+  <string name="tmo_error_msg_title">Kinakailangan ang pag-upgrade sa serbisyo</string>
+  <string name="verizon">verizon</string>
+  <string name="vzw_error_msg">"Kung nais mong mag-subscribe sa Mobile Hotspot/Mobile Broadband Connect, tumawag sa: 
  Consumer: (800) 256-4646, 
  Business: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Kinakailangan ang pag-upgrade sa serbisyo</string>
-    <string name="tmo_error_msg">Ang plan ng rate mo ngayon ay hindi kasama ang serbisyong Smartphone Mobile HotSpot na nagbibigay-daan na maibahagi ang koneksyon ng data ng iyong telepono sa ibang mga device. Gusto mo bang idagdag ang serbisyong Smartphone Mobile HotSpot sa plan ng rate mo? Maaari mo rin itong idagdag online sa https://my.t-mobile.com sa ilalim ng Pamahalaan > Mga Plan at Serbisyo.</string>
-    <string name="app_name">Pagiging karapat-dapat</string>
-    <string name="network_connection_title">Error sa koneksiyon sa network</string>
-    <string name="network_connection_error_msg">Hindi makakonekta sa ngayon ang iyong telepono sa server ng %s. Pakisubukang muli sa ibang pagkakataon.</string>
-    <string name="mobile_hotspot">Mobile Hotspot</string>
-    <string name="spg_dlg_normaltext">Para gamitin ang Mobile Hotspot, kailangan mo mag-suskripsyon sa serbisyo ng Mobile Hotspot</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Matutunan ang iba pa at mag-suskripsyon sa Mobile Hotspot sa pagbisita sa Aking Verizon.</a></string>
-    <string name="browser_error_msg">Hindi mabuksan ang browser.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Kanselahin</string>
-    <string name="alert_dialog_yes_button">Oo</string>
-    <string name="alert_dialog_no_button">Hindi</string>
-    <string name="alert_dialog_upgrade_button">I-upgrade</string>
-    <string name="alert_dialog_later_button">Mamaya</string>
-    <string name="att_error_msg">Upang paganahin, pumunta sa att.com/mywireless o i-dial ang 611</string>
-    <string name="att_error_msg_title">Hindi naka-set up para sa pag-tether ang account</string>
-    <string name="att_error_msg_other">Mayroong pansamantalang problema sa network na pumipigil sa pag-enable ng function ng Mobile Hotspot. Mangyaring subukan ulit mamaya</string>
-    <string name="att_error_msg_other_title">Error sa Network</string>
-    <string name="sprint_error_msg">Hindi makakonekta sa data network; Maaring hindi ka naka-subscribe sa Tethering o serbisyo ng Hotspot; mangyaring tawagan ang kumpanya ng iyong telepono.</string>
-    <string name="sprint_error_msg_lte">Hindi ka naka-subsribe sa serbisyo ng Tethering at Hotspot , gusto mo bang makita ang mga opsyon sa pag-susubscribe?</string>
-    <string name="sprint_error_msg_3g">Hindi makakonekta sa data network, sinasara ang Tethering o Hotspot. Maaaring wala ang iyong plan ng serbisyo ng Tethering at Hotspot. gusto mo bang makita ang mga opsyon sa pag-susubscribe?</string>
-    <string name="sprint_error_msg_title">Error sa tethering o Hotspot</string>
-    <string name="sprint_notification_msg">Pindutin upang makita ang iba pang mga detalye</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Hindi maproseso ang iyong order</string>
 </resources>

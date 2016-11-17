@@ -1,567 +1,567 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Ако проблемот продолжи, контактирајте со програмерот за помош.</string>
-    <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
-    <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
-    <string name="common_google_play_services_install_text_phone">%1$s нема да се извршува без услугите на Google Play што ги нема на телефонот.</string>
-    <string name="common_google_play_services_install_text_tablet">%1$s нема да се извршува без услугите на Google Play што ги нема на таблетот.</string>
-    <string name="common_google_play_services_install_button">Преземи ги услугите на Google Play</string>
-    <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
-    <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
-    <string name="common_google_play_services_enable_button">Овозможи ги услугите на Google Play</string>
-    <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
-    <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
-    <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
-    <string name="common_google_play_services_updating_title">Услугите на Google Play се ажурираат</string>
-    <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
-    <string name="common_google_play_services_network_error_title">Грешка во мрежата</string>
-    <string name="common_google_play_services_network_error_text">Потребна е податочна врска за да се поврзете со услугите на Google Play.</string>
-    <string name="common_google_play_services_invalid_account_title">Неважечка сметка</string>
-    <string name="common_google_play_services_invalid_account_text">Наведената сметка не постои на овој уред. Изберете друга сметка.</string>
-    <string name="common_google_play_services_unsupported_title">Услуги на Google Play</string>
-    <string name="common_google_play_services_unsupported_text">%1$s се потпира на услуги на Google Play што вашиот уред не ги поддржува. Контактирајте со производителот за помош.</string>
-    <string name="common_google_play_services_update_button">Ажурирај</string>
-    <string name="common_open_on_phone">Отвори на телефонот</string>
-    <string name="common_google_play_services_api_unavailable_text">%1$s бара една или повеќе услуги на Google Play што не се достапни во моментов. Контактирајте со програмерот за помош.</string>
-    <string name="common_google_play_services_sign_in_failed_title">Најавувањето не успеа</string>
-    <string name="common_google_play_services_sign_in_failed_text">Грешка при пријавување во наведената сметка. Изберете друга сметка.</string>
-    <string name="common_google_play_services_restricted_profile_title">Ограничен профил</string>
-    <string name="common_google_play_services_restricted_profile_text">Пристапувањето до сметки од ограничен профил не е поддржано.</string>
-    <string name="common_signin_button_text">Најави се</string>
-    <string name="common_signin_button_text_long">Најави се со Google</string>
-    <string name="wifi_fail_to_scan">Не може да скенира за мрежи</string>
-    <string name="wifi_security_none">Ниедна</string>
-    <string name="wifi_remembered">Зачувано</string>
-    <string name="wifi_disabled_generic">Оневозможено</string>
-    <string name="wifi_disabled_network_failure">Конфигурирањето ИП не успеа</string>
-    <string name="wifi_disabled_wifi_failure">Поврзувањето преку Wi-Fi не успеа</string>
-    <string name="wifi_disabled_password_failure">Проблем со автентикација</string>
-    <string name="wifi_not_in_range">Надвор од опсег</string>
-    <string name="wifi_no_internet">Не е откриен пристап до интернет, нема автоматски повторно да се поврзете.</string>
-    <string name="saved_network">Зачувано од %1$s</string>
-    <string name="connected_via_wfa">Поврзано преку помошник за Wi-Fismile</string>
-    <string name="connected_via_passpoint">Поврзано преку %1$s</string>
-    <string name="available_via_passpoint">Достапно преку %1$s</string>
-    <string name="wifi_connected_no_internet">Поврзана, нема интернет</string>
-    <string name="bluetooth_disconnected">Исклучено</string>
-    <string name="bluetooth_disconnecting">Се исклучува...</string>
-    <string name="bluetooth_connecting">Се поврзува...</string>
-    <string name="bluetooth_connected">Поврзани</string>
-    <string name="bluetooth_pairing">Поврзување...</string>
-    <string name="bluetooth_connected_no_headset">Поврзани (без телефон)</string>
-    <string name="bluetooth_connected_no_a2dp">Поврзани (без медиуми)</string>
-    <string name="bluetooth_connected_no_map">Поврзано (без порака за пристап)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Поврзан (без телефон или медиуми)</string>
-    <string name="bluetooth_profile_a2dp">Аудио на медиуми</string>
-    <string name="bluetooth_profile_headset">Аудио на телефон</string>
-    <string name="bluetooth_profile_opp">Пренос на датотека</string>
-    <string name="bluetooth_profile_hid">Влезен уред</string>
-    <string name="bluetooth_profile_pan">Пристап на интернет</string>
-    <string name="bluetooth_profile_pbap">Споделување контакти</string>
-    <string name="bluetooth_profile_pbap_summary">Користи за споделување контакти</string>
-    <string name="bluetooth_profile_pan_nap">Споделување конекција на интернет</string>
-    <string name="bluetooth_profile_map">Порака за пристап</string>
-    <string name="bluetooth_profile_sap">Пристап до СИМ</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">Поврзан со аудио на медиуми</string>
-    <string name="bluetooth_headset_profile_summary_connected">Поврзан со аудио на телефон</string>
-    <string name="bluetooth_opp_profile_summary_connected">Поврзан со сервер за пренос на датотеки</string>
-    <string name="bluetooth_map_profile_summary_connected">Поврзано со карта</string>
-    <string name="bluetooth_sap_profile_summary_connected">Поврзано со SAP</string>
-    <string name="bluetooth_opp_profile_summary_not_connected">Не е поврзан со сервер за пренос на датотеки</string>
-    <string name="bluetooth_hid_profile_summary_connected">Поврзан со влезен уред</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Поврзан со уред за пристап на интернет</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Споделување локална конекција на интернет со уред</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Користи за пристап на интернет</string>
-    <string name="bluetooth_map_profile_summary_use_for">Користи за карта</string>
-    <string name="bluetooth_sap_profile_summary_use_for">Користете се пристап до СИМ</string>
-    <string name="bluetooth_a2dp_profile_summary_use_for">Користи за аудио на медиуми</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Користи за аудио на телефон</string>
-    <string name="bluetooth_opp_profile_summary_use_for">Користи за пренос на датотеки</string>
-    <string name="bluetooth_hid_profile_summary_use_for">Користи за внес</string>
-    <string name="bluetooth_pairing_accept">Спари</string>
-    <string name="bluetooth_pairing_accept_all_caps">СПАРИ</string>
-    <string name="bluetooth_pairing_decline">Откажи</string>
-    <string name="bluetooth_pairing_will_share_phonebook">Кога е поврзано, спарувањето одобрува пристап до контактите и историјата на повиците.</string>
-    <string name="bluetooth_pairing_error_message">Не можеше да се спари со %1$s.</string>
-    <string name="bluetooth_pairing_pin_error_message">Не можеше да се спари со %1$s поради погрешен ПИН или лозинка.</string>
-    <string name="bluetooth_pairing_device_down_error_message">Не може да комуницира со %1$s.</string>
-    <string name="bluetooth_pairing_rejected_error_message">Спарувањето е одбиено од %1$s.</string>
-    <string name="accessibility_wifi_off">Wi-Fi е исклучено.</string>
-    <string name="accessibility_no_wifi">Wi-Fi е исклучено.</string>
-    <string name="accessibility_wifi_one_bar">Една црта на Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Две црти на Wi-Fi.</string>
-    <string name="accessibility_wifi_three_bars">Три црти на Wi-Fi.</string>
-    <string name="accessibility_wifi_signal_full">Полн сигнал на Wi-Fi.</string>
-    <string name="process_kernel_label">Оперативен систем Android</string>
-    <string name="data_usage_uninstalled_apps">Отстранети апликации</string>
-    <string name="data_usage_uninstalled_apps_users">Отстранети апликации и корисници</string>
-    <string name="tether_settings_title_usb">Поврзување со УСБ</string>
-    <string name="tether_settings_title_wifi">Преносл. точка на пристап</string>
-    <string name="tether_settings_title_bluetooth">Поврзување со Bluetooth</string>
-    <string name="tether_settings_title_usb_bluetooth">Поврзување</string>
-    <string name="tether_settings_title_all">Поврзување и пренослива точка на пристап</string>
-    <string name="managed_user_title">Работен профил</string>
-    <string name="user_guest">Гостин</string>
-    <string name="unknown">Непознато</string>
-    <string name="running_process_item_user_label">Корисник: %1$s</string>
-    <string name="launch_defaults_some">Поставени се некои стандардни вредности</string>
-    <string name="launch_defaults_none">Нема поставено стандардни вредности</string>
-    <string name="tts_settings">Поставки на текст-во-говор</string>
-    <string name="tts_settings_title">Излез текст-во-говор</string>
-    <string name="tts_default_rate_title">Брзина на говор</string>
-    <string name="tts_default_rate_summary">Брзина со која се кажува текстот</string>
-    <string name="tts_default_pitch_title">Интензитет</string>
-    <string name="tts_default_pitch_summary">Влијае на тонот на синтетизираниот говор</string>
-    <string name="tts_default_lang_title">Јазик</string>
-    <string name="tts_lang_use_system">Користете системски јазик</string>
-    <string name="tts_lang_not_selected">Јазикот не е избран</string>
-    <string name="tts_default_lang_summary">Поставува глас специфичен за јазикот за говорниот текст</string>
-    <string name="tts_play_example_title">Слушни пример</string>
-    <string name="tts_play_example_summary">Пушти краток приказ на синтеза на говор</string>
-    <string name="tts_install_data_title">Инсталирај гласовни податоци</string>
-    <string name="tts_install_data_summary">Инсталирај ги гласовните податоци потребни за синтеза на говор</string>
-    <string name="tts_engine_security_warning">Овој софтвер за синтеза на говор може да го собере сиот текст што ќе се говори, вклучувајќи и лични податоци како што се лозинки и броеви на кредитни картички. Тоа го прави апликацијата %s. Употреби го овој софтвер за синтеза на говор?</string>
-    <string name="tts_engine_network_required">За овој јазик е потребно поврување со мрежа што функционира на излез за текст-во-говор.</string>
-    <string name="tts_default_sample_string">Ова е пример на синтеза на говор</string>
-    <string name="tts_status_title">Статус на стандарден јазик</string>
-    <string name="tts_status_ok">%1$s е целосно поддржан</string>
-    <string name="tts_status_requires_network">%1$s бара мрежно поврзување</string>
-    <string name="tts_status_not_supported">%1$s не е поддржано</string>
-    <string name="tts_status_checking">Се проверува...</string>
-    <string name="tts_engine_settings_title">Поставки на %s</string>
-    <string name="tts_engine_settings_button">Стартувај подесувања на софтвер</string>
-    <string name="tts_engine_preference_section_title">Претпочитан софтвер</string>
-    <string name="tts_general_section_title">Општо</string>
-    <string name="choose_profile">Изберете профил</string>
-    <string name="category_personal">Лични</string>
-    <string name="category_work">Работа</string>
-    <string name="development_settings_title">Опции на развивач</string>
-    <string name="development_settings_enable">Овозможете ги опциите за програмери</string>
-    <string name="development_settings_summary">Постави опции за развој на апликација</string>
-    <string name="development_settings_not_available">Опциите на програмерот не се достапни за овој корисник</string>
-    <string name="vpn_settings_not_available">Поставките за ВПН не се достапни за овој корисник</string>
-    <string name="tethering_settings_not_available">Поставките за спојување не се достапни за овој корисник</string>
-    <string name="apn_settings_not_available">Поставките за името на пристапната точка не се достапни за овој корисник</string>
-    <string name="enable_adb">Отстранување грешки на USB</string>
-    <string name="enable_adb_summary">Режим на отстранување грешки кога е поврзано USB</string>
-    <string name="clear_adb_keys">Отповикај овластувања за отстранување грешки од УСБ</string>
-    <string name="bugreport_in_power">Кратенка за извештај за грешка</string>
-    <string name="bugreport_in_power_summary">Прикажи копче во менито за вклучување за да се направи извештај за грешка</string>
-    <string name="keep_screen_on">Остани во активен режим</string>
-    <string name="keep_screen_on_summary">Екранот никогаш нема да биде во режим на штедење додека се полни</string>
-    <string name="bt_hci_snoop_log">Овозможи Bluetooth HCI за евиденција на пресретнување пакети</string>
-    <string name="bt_hci_snoop_log_summary">Сними ги сите Bluetooth HCI пакети во датотека</string>
-    <string name="oem_unlock_enable">Отклучување со OEM</string>
-    <string name="oem_unlock_enable_summary">Дозволи да се отклучи подигнувачот</string>
-    <string name="confirm_enable_oem_unlock_title">Дозволете отклучување со OEM?</string>
-    <string name="confirm_enable_oem_unlock_text">ПРЕДУПРЕДУВАЊЕ: функциите за заштита на уредот нема да работат на овој уред додека е вклучена оваа поставка.</string>
-    <string name="mock_location_app">Изберете апликација за лажна локација</string>
-    <string name="mock_location_app_not_set">Нема поставено апликација за лажна локација</string>
-    <string name="mock_location_app_set">Апликација за лажна локација: %1$s</string>
-    <string name="debug_networking_category">Вмрежување</string>
-    <string name="wifi_display_certification">Приказ на сертификација на безжична мрежа</string>
-    <string name="wifi_verbose_logging">Овозможи преопширно пријавување Wi‑Fi</string>
-    <string name="wifi_aggressive_handover">Агресивно предавање од Wi‑Fi на мобилен</string>
-    <string name="wifi_allow_scan_with_traffic">Секогаш дозволувај Wi‑Fi скенирање во роаминг</string>
-    <string name="legacy_dhcp_client">Користете наследен клиент на DHCP</string>
-    <string name="mobile_data_always_on">Мобилниот интернет е секогаш активен</string>
-    <string name="bluetooth_disable_absolute_volume">Оневозможете апсолутна јачина на звук</string>
-    <string name="wifi_display_certification_summary">Покажи ги опциите за безжичен приказ на сертификат</string>
-    <string name="wifi_verbose_logging_summary">Зголеми Wi‑Fi ниво на пријавување, прикажи по SSID RSSI во Wi‑Fi бирач</string>
-    <string name="wifi_aggressive_handover_summary">Кога е вклучено, Wi-Fi ќе биде поагресивно при предавање на поврзувањето со податоци на мобилната мрежа при слаб сигнал на Wi-Fi.</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Дозволи/Забрани Wi‑Fi скенирање во роаминг според количината на постоечкиот податочен сообраќај на интерфејсот.</string>
-    <string name="select_logd_size_title">Величини на меѓумеморија на забележувач</string>
-    <string name="select_logd_size_dialog_title">Величина/меѓумеморија на дневник</string>
-    <string name="select_usb_configuration_title">Изберете конфигурација за УСБ</string>
-    <string name="select_usb_configuration_dialog_title">Изберете конфигурација за УСБ</string>
-    <string name="allow_mock_location">Овозможи лажни локации</string>
-    <string name="allow_mock_location_summary">Овозможи лажни локации</string>
-    <string name="debug_view_attributes">Овозможете проверка на атрибутот на приказот</string>
-    <string name="legacy_dhcp_client_summary">Користете го клиентот на DHCP од Lollipop наместо новиот клиент на DHCP на Android.</string>
-    <string name="mobile_data_always_on_summary">Секогаш држи го активен мобилниот интернет, дури и при активно Wi-Fi (за брзо префрлување мрежа).</string>
-    <string name="adb_warning_title">Овозможи отстранување грешки на УСБ?</string>
-    <string name="adb_warning_message">Отстранувањето грешки на УСБ е наменето само за целите на развој. Користете го за копирање податоци меѓу вашиот компјутер и вашиот уред, за инсталирање апликации на вашиот уред без известување и за читање евиденција на податоци.</string>
-    <string name="adb_keys_warning_message">Отповикај пристап кон отстранување грешка од УСБ од сите претходно овластени компјутери?</string>
-    <string name="dev_settings_warning_title">Дозволи подесувања за развој?</string>
-    <string name="dev_settings_warning_message">Овие подесувања се наменети само за употреба за развој. Тие може да предизвикаат уредот и апликациите во него да се расипат или да се однесуваат необично.</string>
-    <string name="verify_apps_over_usb_title">Потврди апликации преку УСБ</string>
-    <string name="verify_apps_over_usb_summary">Провери апликации инсталирани преку ADB/ADT за штетно однесување.</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Ја оневозможува карактеристиката за апсолутна јачина на звук преку Bluetooth во случај кога ќе настанат проблеми со далечинските уреди, како на пр., неприфатливо силен звук или недоволна контрола.</string>
-    <string name="enable_terminal_title">Локален терминал</string>
-    <string name="enable_terminal_summary">Овозможи апликација на терминал што овозможува локален пристап кон школка.</string>
-    <string name="hdcp_checking_title">Проверување HDCP</string>
-    <string name="hdcp_checking_dialog_title">Постави однесување на проверка на HDCP</string>
-    <string name="debug_debugging_category">Отстранување грешки</string>
-    <string name="debug_app">Избери апликација за отстранување грешки</string>
-    <string name="debug_app_not_set">Нема поставено апликација за отстранување грешки</string>
-    <string name="debug_app_set">Апликација за отстранување грешки: %1$s</string>
-    <string name="select_application">Избери апликација</string>
-    <string name="no_application">Ништо</string>
-    <string name="wait_for_debugger">Почекај ја програмата за отстранување грешки</string>
-    <string name="wait_for_debugger_summary">Пред да се изврши, апликација за отстранување грешки чека програмата за отстранување грешки да се закачи</string>
-    <string name="debug_input_category">Внес</string>
-    <string name="debug_drawing_category">Цртање</string>
-    <string name="debug_hw_drawing_category">Прикажување забрзување на хардвер</string>
-    <string name="media_category">Медиуми</string>
-    <string name="debug_monitoring_category">Следење</string>
-    <string name="strict_mode">Овозможен е строг режим</string>
-    <string name="strict_mode_summary">Осветли екран при. долги операции на главна нишка</string>
-    <string name="pointer_location">Локација на покажувач</string>
-    <string name="pointer_location_summary">Прекривката на екран ги покажува тековните податоци на допир</string>
-    <string name="show_touches">Прикажувај допири</string>
-    <string name="show_touches_summary">Прикажи визуелни повратни информации за допири</string>
-    <string name="show_screen_updates">Прикажи ажурир. површина</string>
-    <string name="show_screen_updates_summary">Осветли површ. на прозорци при нивно ажурирање</string>
-    <string name="show_hw_screen_updates">Прикажи ажурир. со GPU</string>
-    <string name="show_hw_screen_updates_summary">Осветли прегледи во прозорците при цртање со GPU</string>
-    <string name="show_hw_layers_updates">Ажурир. слоеви на хардвер</string>
-    <string name="show_hw_layers_updates_summary">Осветли слоеви на хардвер со зелено кога се ажур.</string>
-    <string name="debug_hw_overdraw">Отстр. греш. на GPU</string>
-    <string name="disable_overlays">Оневозможи HW преклопувања</string>
-    <string name="disable_overlays_summary">Секогаш користи GPU за составување екран</string>
-    <string name="simulate_color_space">Симулирај простор на бои</string>
-    <string name="enable_opengl_traces_title">Овозможи траги на OpenGL</string>
-    <string name="usb_audio_disable_routing">Исклучи УСБ-пренасочување</string>
-    <string name="usb_audio_disable_routing_summary">Исклучи автоматско пренасочување до УСБ-аудиоуреди</string>
-    <string name="debug_layout">Прикажи граници на слој</string>
-    <string name="debug_layout_summary">Прикажи граници на клип, маргини, итн.</string>
-    <string name="force_rtl_layout_all_locales">Сила на RTL за насока на слој</string>
-    <string name="force_rtl_layout_all_locales_summary">Присилно постави насока на распоред на екран во РТЛ за сите локални стандарди</string>
-    <string name="show_cpu_usage">Прикажи употреба на ЦПУ</string>
-    <string name="show_cpu_usage_summary">Прекривка на екран прикаж. употреба на тековен ЦПУ</string>
-    <string name="force_hw_ui">Присили рендерирање на GPU</string>
-    <string name="force_hw_ui_summary">Присилно користење на GPU за цртеж 2D</string>
-    <string name="force_msaa">Сила 4x MSAA</string>
-    <string name="force_msaa_summary">Овозможи 4x MSAA за апликации OpenGL ES 2.0</string>
-    <string name="show_non_rect_clip">Отстрани грешка на неправоаголни клип операции</string>
-    <string name="track_frame_time">Прикажување пофил на GPU</string>
-    <string name="window_animation_scale_title">Опсег на аним. на прозор.</string>
-    <string name="transition_animation_scale_title">Опсег на преодна анимац.</string>
-    <string name="animator_duration_scale_title">Скала за времетраење на аниматор</string>
-    <string name="overlay_display_devices_title">Симул. секундарен екран</string>
-    <string name="debug_applications_category">Апликации</string>
-    <string name="immediately_destroy_activities">Не чувај активности</string>
-    <string name="immediately_destroy_activities_summary">Уништи ја секоја активност штом корисникот ќе го остави</string>
-    <string name="app_process_limit_title">Граница на процес во зад.</string>
-    <string name="show_all_anrs">Прикажи ги сите ANR</string>
-    <string name="show_all_anrs_summary">Прикажи „Апл. не реагира“ за. апл. во заднина</string>
-    <string name="force_allow_on_external">Принуд. дозволете апликации на надворешна меморија</string>
-    <string name="force_allow_on_external_summary">Прави секоја апликација да биде подобна за запишување на надворешна меморија, независно од вредностите на манифестот</string>
-    <string name="force_resizable_activities">Принуди ги активностите да ја менуваат големината</string>
-    <string name="force_resizable_activities_summary">Направете сите активности да бидат со променлива големина за повеќе прозорци, без разлика на вредностите на манифестот.</string>
-    <string name="enable_freeform_support">Овозможи прозорци со слободна форма</string>
-    <string name="enable_freeform_support_summary">Овозможи поддршка за експериментални прозорци со слободна форма.</string>
-    <string name="local_backup_password_title">Резервна лозинка за работна површина</string>
-    <string name="local_backup_password_summary_none">Целосни резервни копии на работната површина кои во моментов не се заштитени</string>
-    <string name="local_backup_password_summary_change">Допрете за да се промени или отстрани лозинката за целосни резервни копии на работната површина</string>
-    <string name="local_backup_password_toast_success">Подесена нова лозинка на резервна копија</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Новата лозинка и потврдата не се исти</string>
-    <string name="local_backup_password_toast_validation_failure">Неуспешно подесување лозинка на резервна копија</string>
-    <string name="inactive_apps_title">Неактивни апликации</string>
-    <string name="inactive_app_inactive_summary">Неактивно. Допрете за да смените.</string>
-    <string name="inactive_app_active_summary">Активно. Допрете за да смените.</string>
-    <string name="runningservices_settings_title">Активни услуги</string>
-    <string name="runningservices_settings_summary">Погледнете и контролирајте услуги што се моментално активни</string>
-    <string name="enable_webview_multiprocess">Овозможи мултипроцесен WebView</string>
-    <string name="enable_webview_multiprocess_desc">Активирајте ги WebView-прикажувачите во изолиран процес.</string>
-    <string name="select_webview_provider_title">Воведување WebView</string>
-    <string name="select_webview_provider_dialog_title">Поставете воведување WebView</string>
-    <string name="select_webview_provider_toast_text">Овој избор веќе не важи. Обидете се повторно.</string>
-    <string name="convert_to_file_encryption">Конвертирајте до шифрирање датотеки</string>
-    <string name="convert_to_file_encryption_enabled">Конвертирај...</string>
-    <string name="convert_to_file_encryption_done">Датотеката е веќе шифрирана</string>
-    <string name="title_convert_fbe">Конвертирајте до шифрирање на база на датотеки</string>
-    <string name="convert_to_fbe_warning">"Конвертирајте ја партицијата со податоци до шифрирање на база на датотеки.
+  <string name="abc_action_bar_home_description">Движи се кон дома</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Движи се нагоре</string>
+  <string name="abc_action_menu_overflow_description">Повеќе опции</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Види ги сите</string>
+  <string name="abc_activitychooserview_choose_application">Избери апликација</string>
+  <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+  <string name="abc_capital_on">ВКЛУЧЕНО</string>
+  <string name="abc_search_hint">Пребарување…</string>
+  <string name="abc_searchview_description_clear">Исчисти барање</string>
+  <string name="abc_searchview_description_query">Пребарај барање</string>
+  <string name="abc_searchview_description_search">Пребарај</string>
+  <string name="abc_searchview_description_submit">Поднеси барање</string>
+  <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+  <string name="abc_shareactionprovider_share_with">Сподели со</string>
+  <string name="abc_toolbar_collapse_description">Собери</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Функцијата е експериментална и може да влијае на изведбата.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Корекција на боја</string>
+  <string name="accessibility_no_wifi">Wi-Fi е исклучено.</string>
+  <string name="accessibility_wifi_off">Wi-Fi е исклучено.</string>
+  <string name="accessibility_wifi_one_bar">Една црта на Wi-Fi.</string>
+  <string name="accessibility_wifi_signal_full">Полн сигнал на Wi-Fi.</string>
+  <string name="accessibility_wifi_three_bars">Три црти на Wi-Fi.</string>
+  <string name="accessibility_wifi_two_bars">Две црти на Wi-Fi.</string>
+  <string name="account_exists_info">"Вашите е-пошта, контакти, настани во календарот и други работи ќе се синхронизираат со телефонов. Исто така, подготвени сте да започнете со преземање апликации, музика и игри од Google Play.
+
+Подоцна може да додадете и да отстраните сметки, така што ќе отидете во Поставки &gt; Сметки."</string>
+  <string name="account_exists_text_single">&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium"&gt;^1&lt;/annotation&gt; &amp;#1077; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1075;&amp;#1086;&amp;#1090;&amp;#1074;&amp;#1077;&amp;#1085;&amp;#1072;.</string>
+  <string name="account_exists_text_unknown_name">Сметката е подготвена.</string>
+  <string name="account_exists_title">{accounts,plural, =1{Сметката е додадена}one{Сметките се додадени}other{Сметките се додадени}}</string>
+  <string name="activation_button_label">Активирај</string>
+  <string name="activation_cancel_text">Активацијата се откажува... Ова може да потрае 5-10 секунди.</string>
+  <string name="activation_cancel_title">Побарано е откажување</string>
+  <string name="activation_canceled_text">"Дали сакате да ја откажете активацијата? Треба да ја активирате услугата на мобилната мрежа пред да може да ја користите за да се поврзете на интернет.
+
+Допрете "&lt;b&gt;&amp;#1057;&amp;#1083;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086;&lt;/b&gt;" &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1079;&amp;#1072;&amp;#1074;&amp;#1088;&amp;#1096;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1096; &amp;#1085;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1088;&amp;#1079;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1082;&amp;#1091; Wi-Fi.
+
+&amp;#1059;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1085;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1112;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1094;&amp;#1085;&amp;#1072; &amp;#1074;&amp;#1086; "&lt;b&gt;&amp;#1055;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1082;&amp;#1080; &amp;#1085;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1084;&amp;#1086;&amp;#1090; &amp;gt; &amp;#1041;&amp;#1077;&amp;#1079;&amp;#1078;&amp;#1080;&amp;#1095;&amp;#1085;&amp;#1086; &amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080; &amp;gt; &amp;#1052;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080;&lt;/b&gt;.</string>
+  <string name="activation_canceled_text_standalone">"Активацијата е откажана.
+
+Може да ја активирате услугата за мобилни податоци подоцна во "&lt;b&gt;&amp;#1057;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1084;&amp;#1089;&amp;#1082;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1082;&amp;#1080; &amp;gt; &amp;#1041;&amp;#1077;&amp;#1079;&amp;#1078;&amp;#1080;&amp;#1095;&amp;#1085;&amp;#1080; &amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080; &amp;gt; &amp;#1052;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080;&lt;/b&gt;.</string>
+  <string name="activation_canceled_title">Активирањето е откажано</string>
+  <string name="activation_continue_skip_label">Продолжи</string>
+  <string name="activation_default_network_name">мобилна мрежа</string>
+  <string name="activation_failed_message">"Може:
+"&lt;li&gt;&amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1086;&amp;#1073;&amp;#1080;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1085;&amp;#1086; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1088;&amp;#1079;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1076;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1088;&amp;#1091;&amp;#1075;&amp;#1072; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&lt;/li&gt;"
+
+&amp;#1040;&amp;#1082;&amp;#1086; &amp;#1086;&amp;#1074;&amp;#1080;&amp;#1077; &amp;#1086;&amp;#1087;&amp;#1094;&amp;#1080;&amp;#1080; &amp;#1085;&amp;#1077; &amp;#1088;&amp;#1072;&amp;#1073;&amp;#1086;&amp;#1090;&amp;#1072;&amp;#1090;, &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1080; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1088;&amp;#1077;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090; &amp;#1080; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1086;&amp;#1073;&amp;#1080;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1085;&amp;#1086;."</string>
+  <string name="activation_failed_title">Не може да се поврзе на мобилни податоци</string>
+  <string name="activation_failure_text">"Обидете се повторно за една минута или рестартирајте го телефонот ако ова продолжи да се случува.
+
+Ако сега сакате да прескокнете, погрижете се да активирате подоцна во Системски поставки. Додека не активирате, телефонот нема да има поврзување со мобилни податоци."</string>
+  <string name="activation_failure_text_gen">Вашата услуга за мобилни податоци не можеше да се активира. Ова може да е привремен проблем и може да се реши со рестартирање на телефонот.</string>
+  <string name="activation_failure_text_standalone">Не можеше да се активира услугата за мобилен интернет. За да се обидете со активирање повторно, допрете &lt;b&gt;&amp;#1054;&amp;#1073;&amp;#1080;&amp;#1076;&amp;#1080; &amp;#1089;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1085;&amp;#1086;&lt;/b&gt;".
+
+ &amp;#1059;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1077;&amp;#1085; &amp;#1080;&amp;#1085;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#1085;&amp;#1077;&amp;#1090; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1112;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1094;&amp;#1085;&amp;#1072; &amp;#1074;&amp;#1086; "&lt;b&gt;&amp;#1055;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1082;&amp;#1080; &amp;#1085;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1084;&amp;#1086;&amp;#1090; &amp;gt; &amp;#1041;&amp;#1077;&amp;#1079;&amp;#1078;&amp;#1080;&amp;#1095;&amp;#1085;&amp;#1086; &amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080; &amp;gt; &amp;#1052;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1080; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1080;&lt;/b&gt;</string>
+  <string name="activation_failure_title">Не можеше да се активира</string>
+  <string name="activation_network_bars_template">Јачина на сигнал %d бари</string>
+  <string name="activation_progress">Активирањето може да потрае неколку минути. Допрете &lt;b&gt;&amp;#1055;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1082;&amp;#1086;&amp;#1082;&amp;#1085;&amp;#1080;&lt;/b&gt; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1079;&amp;#1072;&amp;#1074;&amp;#1088;&amp;#1096;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1096; &amp;#1085;&amp;#1072; Wi-Fi.</string>
+  <string name="activation_progress_before_connect">Допрете &lt;b&gt;&amp;#1055;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1082;&amp;#1086;&amp;#1082;&amp;#1085;&amp;#1080;&lt;/b&gt;&amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1079;&amp;#1072;&amp;#1074;&amp;#1088;&amp;#1096;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1096; &amp;#1085;&amp;#1072; Wi-Fi.</string>
+  <string name="activation_progress_before_connect_standalone">Активацијата може да потрае неколку минути.</string>
+  <string name="activation_progress_flow">"Трае предолго?
+
+Треба малку време за да се поврзете на мобилни податоци. Наместо тоа, може да се вратите назад и да се обидете со поврзување на друга мрежа."</string>
+  <string name="activation_progress_gen">Ова може да трае до 5 минути</string>
+  <string name="activation_progress_mobile_data">"Телефонот ја активира услугата за мобилни податоци.
+
+Ова може да потрае до 5 минути."</string>
+  <string name="activation_progress_standalone">Активацијата може да потрае неколку минути.</string>
+  <string name="activation_skip_confirmation">"Додека не ја активирате услугата за мобилни податоци, повеќето функции на телефонот нема да работат.
+
+Ако не сакате да ја активирате сега, можете да ја активирате подоцна во системски подесувања."</string>
+  <string name="activation_skip_text">Доколку ја прескокнете апликацијата, не заборавајте да ја активирате подоцна во Параметри. Сè додека не активирате, вашиот телефон нема да има поврзување со мобилни податоци.</string>
+  <string name="activation_spc_failure_text">Се појави грешка поради која телефонот треба да се исклучи и рестартира пред да може да направите уште еден обид за активирање. Телефонот автоматски ќе се исклучи за 60 секунди или може да допрете &lt;b&gt;&amp;#1048;&amp;#1089;&amp;#1082;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1080; &amp;#1089;&amp;#1077;&amp;#1075;&amp;#1072;&lt;/b&gt;".
+
+&amp;#1054;&amp;#1090;&amp;#1082;&amp;#1072;&amp;#1082;&amp;#1086; &amp;#1116;&amp;#1077; &amp;#1089;&amp;#1077; &amp;#1080;&amp;#1089;&amp;#1082;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1080; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090;, &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1090;&amp;#1080;&amp;#1089;&amp;#1085;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1075;&amp;#1086; &amp;#1082;&amp;#1086;&amp;#1087;&amp;#1095;&amp;#1077;&amp;#1090;&amp;#1086; &amp;#1079;&amp;#1072; &amp;#1074;&amp;#1082;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1088;&amp;#1077;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077;. &amp;#1040;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086; &amp;#1116;&amp;#1077; &amp;#1079;&amp;#1072;&amp;#1087;&amp;#1086;&amp;#1095;&amp;#1085;&amp;#1077; &amp;#1072;&amp;#1074;&amp;#1090;&amp;#1086;&amp;#1084;&amp;#1072;&amp;#1090;&amp;#1089;&amp;#1082;&amp;#1080;."</string>
+  <string name="activation_success_text">Допрете &lt;b&gt;&amp;#1057;&amp;#1083;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086;&lt;/b&gt; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1083;&amp;#1078;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086;.</string>
+  <string name="activation_success_text_gen">Вашиот уред треба да се рестартира за да се заврши активацијата.</string>
+  <string name="activation_success_text_standalone">Допрете &lt;b&gt;&amp;#1057;&amp;#1083;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086;&lt;/b&gt;" &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1083;&amp;#1078;&amp;#1080;&amp;#1090;&amp;#1077;.
+
+&amp;#1040;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1077; &amp;#1091;&amp;#1089;&amp;#1087;&amp;#1077;&amp;#1096;&amp;#1085;&amp;#1072;, &amp;#1085;&amp;#1086; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1080;&amp;#1085;&amp;#1072;&amp;#1090; &amp;#1085;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1091; &amp;#1084;&amp;#1080;&amp;#1085;&amp;#1091;&amp;#1090;&amp;#1080; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1076; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1077;&amp;#1085; &amp;#1080;&amp;#1085;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#1085;&amp;#1077;&amp;#1090; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1090;&amp;#1072;&amp;#1085;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1087;&amp;#1085;&amp;#1072;."</string>
+  <string name="activation_success_title">Активирањето заврши</string>
+  <string name="activation_text">Допрете &lt;b&gt;&amp;#1040;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1112;&lt;/b&gt;" &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1112;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1091;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1072; &amp;#1089;&amp;#1077;&amp;#1075;&amp;#1072;. (&amp;#1052;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1088;&amp;#1072;&amp;#1077; &amp;#1085;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1091; &amp;#1084;&amp;#1080;&amp;#1085;&amp;#1091;&amp;#1090;&amp;#1080;.)
+
+&amp;#1048;&amp;#1083;&amp;#1080; &amp;#1076;&amp;#1086;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1090;&amp;#1077; "&lt;b&gt;&amp;#1055;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1082;&amp;#1086;&amp;#1082;&amp;#1085;&amp;#1080;&lt;/b&gt; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1096; &amp;#1085;&amp;#1072; Wi-Fi.</string>
+  <string name="activation_text_standalone">Допрете &lt;b&gt;&amp;#1040;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1112;&lt;/b&gt; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1112;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1074;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1091;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1072; &amp;#1089;&amp;#1077;&amp;#1075;&amp;#1072;. (&amp;#1052;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1088;&amp;#1072;&amp;#1077; &amp;#1085;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1091; &amp;#1084;&amp;#1080;&amp;#1085;&amp;#1091;&amp;#1090;&amp;#1080;.)</string>
+  <string name="activation_title">Активирање на мобилната услуга...</string>
+  <string name="activation_title_activating">Активирање на мобилната услуга...</string>
+  <string name="activation_title_searching">Пребарување за услуга...</string>
+  <string name="adb_keys_warning_message">Отповикај пристап кон отстранување грешка од УСБ од сите претходно овластени компјутери?</string>
+  <string name="adb_warning_message">Отстранувањето грешки на УСБ е наменето само за целите на развој. Користете го за копирање податоци меѓу вашиот компјутер и вашиот уред, за инсталирање апликации на вашиот уред без известување и за читање евиденција на податоци.</string>
+  <string name="adb_warning_title">Овозможи отстранување грешки на УСБ?</string>
+  <string name="allow_mock_location">Овозможи лажни локации</string>
+  <string name="allow_mock_location_summary">Овозможи лажни локации</string>
+  <string name="android_privacy_policy_title">Дополнителна Политика за приватност</string>
+  <string name="animator_duration_scale_title">Скала за времетраење на аниматор</string>
+  <string name="apn_settings_not_available">Поставките за името на пристапната точка не се достапни за овој корисник</string>
+  <string name="app_process_limit_title">Граница на процес во зад.</string>
+  <string name="available_via_passpoint">Достапно преку %1$s</string>
+  <string name="battery_info_status_charging">Се полни</string>
+  <string name="battery_info_status_charging_ac">Полнење на струја</string>
+  <string name="battery_info_status_charging_usb">Полнење преку УСБ</string>
+  <string name="battery_info_status_charging_wireless">Безжично полнење</string>
+  <string name="battery_info_status_discharging">Не се полни</string>
+  <string name="battery_info_status_full">Целосна</string>
+  <string name="battery_info_status_not_charging">Не се полни</string>
+  <string name="battery_info_status_unknown">Непознато</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">Поврзан со аудио на медиуми</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Користи за аудио на медиуми</string>
+  <string name="bluetooth_connected">Поврзани</string>
+  <string name="bluetooth_connected_no_a2dp">Поврзани (без медиуми)</string>
+  <string name="bluetooth_connected_no_headset">Поврзани (без телефон)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Поврзан (без телефон или медиуми)</string>
+  <string name="bluetooth_connected_no_map">Поврзано (без порака за пристап)</string>
+  <string name="bluetooth_connecting">Се поврзува...</string>
+  <string name="bluetooth_disable_absolute_volume">Оневозможете апсолутна јачина на звук</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Ја оневозможува карактеристиката за апсолутна јачина на звук преку Bluetooth во случај кога ќе настанат проблеми со далечинските уреди, како на пр., неприфатливо силен звук или недоволна контрола.</string>
+  <string name="bluetooth_disconnected">Исклучено</string>
+  <string name="bluetooth_disconnecting">Се исклучува...</string>
+  <string name="bluetooth_headset_profile_summary_connected">Поврзан со аудио на телефон</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Користи за аудио на телефон</string>
+  <string name="bluetooth_hid_profile_summary_connected">Поврзан со влезен уред</string>
+  <string name="bluetooth_hid_profile_summary_use_for">Користи за внес</string>
+  <string name="bluetooth_map_profile_summary_connected">Поврзано со карта</string>
+  <string name="bluetooth_map_profile_summary_use_for">Користи за карта</string>
+  <string name="bluetooth_opp_profile_summary_connected">Поврзан со сервер за пренос на датотеки</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">Не е поврзан со сервер за пренос на датотеки</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Користи за пренос на датотеки</string>
+  <string name="bluetooth_pairing">Поврзување...</string>
+  <string name="bluetooth_pairing_accept">Спари</string>
+  <string name="bluetooth_pairing_accept_all_caps">СПАРИ</string>
+  <string name="bluetooth_pairing_decline">Откажи</string>
+  <string name="bluetooth_pairing_device_down_error_message">Не може да комуницира со %1$s.</string>
+  <string name="bluetooth_pairing_error_message">Не можеше да се спари со %1$s.</string>
+  <string name="bluetooth_pairing_pin_error_message">Не можеше да се спари со %1$s поради погрешен ПИН или лозинка.</string>
+  <string name="bluetooth_pairing_rejected_error_message">Спарувањето е одбиено од %1$s.</string>
+  <string name="bluetooth_pairing_will_share_phonebook">Кога е поврзано, спарувањето одобрува пристап до контактите и историјата на повиците.</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">Споделување локална конекција на интернет со уред</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Користи за пристап на интернет</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Поврзан со уред за пристап на интернет</string>
+  <string name="bluetooth_profile_a2dp">Аудио на медиуми</string>
+  <string name="bluetooth_profile_headset">Аудио на телефон</string>
+  <string name="bluetooth_profile_hid">Влезен уред</string>
+  <string name="bluetooth_profile_map">Порака за пристап</string>
+  <string name="bluetooth_profile_opp">Пренос на датотека</string>
+  <string name="bluetooth_profile_pan">Пристап на интернет</string>
+  <string name="bluetooth_profile_pan_nap">Споделување конекција на интернет</string>
+  <string name="bluetooth_profile_pbap">Споделување контакти</string>
+  <string name="bluetooth_profile_pbap_summary">Користи за споделување контакти</string>
+  <string name="bluetooth_profile_sap">Пристап до СИМ</string>
+  <string name="bluetooth_sap_profile_summary_connected">Поврзано со SAP</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Користете се пристап до СИМ</string>
+  <string name="bt_hci_snoop_log">Овозможи Bluetooth HCI за евиденција на пресретнување пакети</string>
+  <string name="bt_hci_snoop_log_summary">Сними ги сите Bluetooth HCI пакети во датотека</string>
+  <string name="bugreport_in_power">Кратенка за извештај за грешка</string>
+  <string name="bugreport_in_power_summary">Прикажи копче во менито за вклучување за да се направи извештај за грешка</string>
+  <string name="button_convert_fbe">Избриши и конвертирај...</string>
+  <string name="cancel_button_label">Откажи</string>
+  <string name="canceled_a11y">Режимот за достапност е откажан.</string>
+  <string name="cant_be_blank">Полето не може да биде празно.</string>
+  <string name="captive_portal_connection_unsuccessful">Не може да се поврзе на Интернет</string>
+  <string name="captive_portal_sign_in_dialog_title">Има достапна врска</string>
+  <string name="category_personal">Лични</string>
+  <string name="category_work">Работа</string>
+  <string name="charge_length_format">Пред %1$s</string>
+  <string name="check_qr_dependencies_again">Обиди се повторно</string>
+  <string name="choose_profile">Изберете профил</string>
+  <string name="chrome_privacy_title">Известување за приватност на Chrome</string>
+  <string name="chrome_tos_title">Услови на користење на Chrome</string>
+  <string name="clear_adb_keys">Отповикај овластувања за отстранување грешки од УСБ</string>
+  <string name="close_button_label">Затвори</string>
+  <string name="common_google_play_services_api_unavailable_text">%1$s бара една или повеќе услуги на Google Play што не се достапни во моментов. Контактирајте со програмерот за помош.</string>
+  <string name="common_google_play_services_enable_button">Овозможи ги услугите на Google Play</string>
+  <string name="common_google_play_services_enable_text">%1$s нема да се извршува ако не овозможите услуги на Google Play.</string>
+  <string name="common_google_play_services_enable_title">Овозможи ги услугите на Google Play</string>
+  <string name="common_google_play_services_install_button">Преземи ги услугите на Google Play</string>
+  <string name="common_google_play_services_install_text_phone">%1$s нема да се извршува без услугите на Google Play што ги нема на телефонот.</string>
+  <string name="common_google_play_services_install_text_tablet">%1$s нема да се извршува без услугите на Google Play што ги нема на таблетот.</string>
+  <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Наведената сметка не постои на овој уред. Изберете друга сметка.</string>
+  <string name="common_google_play_services_invalid_account_title">Неважечка сметка</string>
+  <string name="common_google_play_services_network_error_text">Потребна е податочна врска за да се поврзете со услугите на Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Грешка во мрежата</string>
+  <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
+  <string name="common_google_play_services_restricted_profile_text">Пристапувањето до сметки од ограничен профил не е поддржано.</string>
+  <string name="common_google_play_services_restricted_profile_title">Ограничен профил</string>
+  <string name="common_google_play_services_sign_in_failed_text">Грешка при пријавување во наведената сметка. Изберете друга сметка.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Најавувањето не успеа</string>
+  <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Ако проблемот продолжи, контактирајте со програмерот за помош.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s се потпира на услуги на Google Play што вашиот уред не ги поддржува. Контактирајте со производителот за помош.</string>
+  <string name="common_google_play_services_unsupported_title">Услуги на Google Play</string>
+  <string name="common_google_play_services_update_button">Ажурирај</string>
+  <string name="common_google_play_services_update_text">%1$s нема да се извршува ако не ги ажурирате услугите на Google Play.</string>
+  <string name="common_google_play_services_update_title">Ажурирај ги услугите на Google Play</string>
+  <string name="common_google_play_services_updating_text">%1$s нема да се извршува без услугите на Google Play што се ажурираат во моментов.</string>
+  <string name="common_google_play_services_updating_title">Услугите на Google Play се ажурираат</string>
+  <string name="common_google_play_services_wear_update_text">Потребна е нова верзија на услугите на Google Play. Таа наскоро самата ќе се ажурира.</string>
+  <string name="common_open_on_phone">Отвори на телефонот</string>
+  <string name="common_signin_button_text">Најави се</string>
+  <string name="common_signin_button_text_long">Најави се со Google</string>
+  <string name="confirm_enable_oem_unlock_text">ПРЕДУПРЕДУВАЊЕ: функциите за заштита на уредот нема да работат на овој уред додека е вклучена оваа поставка.</string>
+  <string name="confirm_enable_oem_unlock_title">Дозволете отклучување со OEM?</string>
+  <string name="connected_via_passpoint">Поврзано преку %1$s</string>
+  <string name="connected_via_wfa">Поврзано преку помошник за Wi-Fismile</string>
+  <string name="continue_for_a11y">Продолжете да го допирате екранот додека не слушнете звучен сигнал за да се овозможи режимот на достапност.</string>
+  <string name="convert_to_fbe_warning">"Конвертирајте ја партицијата со податоци до шифрирање на база на датотеки.
  !!Предупредување!! Тоа ќе ги избрише сите податоци.
  Функцијава е алфа и може да не работи правилно.
  Притиснете „Избриши и конвертирај... за да продолжите."</string>
-    <string name="button_convert_fbe">Избриши и конвертирај...</string>
-    <string name="picture_color_mode">Режим на боја на слика</string>
-    <string name="picture_color_mode_desc">Користи sRGB</string>
-    <string name="daltonizer_mode_disabled">Оневозможено</string>
-    <string name="daltonizer_mode_monochromacy">Скала со сиви тонови</string>
-    <string name="daltonizer_mode_deuteranomaly">Девтераномалија (слепило за црвена и зелена)</string>
-    <string name="daltonizer_mode_protanomaly">Протаномалија (слепило за црвена и зелена)</string>
-    <string name="daltonizer_mode_tritanomaly">Тританомалија (слепило за сина и жолта)</string>
-    <string name="accessibility_display_daltonizer_preference_title">Корекција на боја</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Функцијата е експериментална и може да влијае на изведбата.</string>
-    <string name="daltonizer_type_overridden">Прескокнато според %1$s</string>
-    <string name="power_remaining_duration_only">Преостанаа прибл. %1$s</string>
-    <string name="power_discharging_duration">%1$s – преостанува приближно %2$s</string>
-    <string name="power_charging">%1$s – %2$s</string>
-    <string name="power_charging_duration">%1$s – %2$s до целосно полна</string>
-    <string name="power_charging_duration_ac">%1$s – %2$s до целосно полна на AC</string>
-    <string name="power_charging_duration_usb">%1$s – %2$s до целосно полна преку USB</string>
-    <string name="power_charging_duration_wireless">%1$s – %2$s до целосно полна, безжично</string>
-    <string name="battery_info_status_unknown">Непознато</string>
-    <string name="battery_info_status_charging">Се полни</string>
-    <string name="battery_info_status_charging_ac">Полнење на струја</string>
-    <string name="battery_info_status_charging_usb">Полнење преку УСБ</string>
-    <string name="battery_info_status_charging_wireless">Безжично полнење</string>
-    <string name="battery_info_status_discharging">Не се полни</string>
-    <string name="battery_info_status_not_charging">Не се полни</string>
-    <string name="battery_info_status_full">Целосна</string>
-    <string name="disabled_by_admin_summary_text">Контролирано од администраторот</string>
-    <string name="enabled_by_admin">Овозможено од администраторот</string>
-    <string name="disabled_by_admin">Оневозможено од администраторот</string>
-    <string name="home">Почетна страница</string>
-    <string name="charge_length_format">Пред %1$s</string>
-    <string name="remaining_length_format">Преостанаа %1$s</string>
-    <string name="screen_zoom_summary_small">Мал</string>
-    <string name="screen_zoom_summary_default">Стандардно</string>
-    <string name="screen_zoom_summary_large">Голем</string>
-    <string name="screen_zoom_summary_very_large">Поголем</string>
-    <string name="screen_zoom_summary_extremely_large">Најголем</string>
-    <string name="screen_zoom_summary_custom">Приспособен (%d)</string>
-    <string name="suw_next_button_label">Следно</string>
-    <string name="suw_back_button_label">Назад</string>
-    <string name="suw_more_button_label">Повеќе</string>
-    <string name="abc_action_mode_done">Готово</string>
-    <string name="abc_action_bar_home_description">Движи се кон дома</string>
-    <string name="abc_action_bar_up_description">Движи се нагоре</string>
-    <string name="abc_action_menu_overflow_description">Повеќе опции</string>
-    <string name="abc_toolbar_collapse_description">Собери</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_searchview_description_search">Пребарај</string>
-    <string name="abc_search_hint">Пребарување…</string>
-    <string name="abc_searchview_description_query">Пребарај барање</string>
-    <string name="abc_searchview_description_clear">Исчисти барање</string>
-    <string name="abc_searchview_description_submit">Поднеси барање</string>
-    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
-    <string name="abc_activitychooserview_choose_application">Избери апликација</string>
-    <string name="abc_activity_chooser_view_see_all">Види ги сите</string>
-    <string name="abc_shareactionprovider_share_with">Сподели со</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">ВКЛУЧЕНО</string>
-    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
-    <string name="setup_wizard_title">Поставете го волшебникот</string>
-    <string name="device_name">телефон</string>
-    <string name="finish_button_label">Заврши</string>
-    <string name="skip_button_label">Прескокни</string>
-    <string name="skip_anyway_button_label">Сепак прескокни</string>
-    <string name="go_back_button_label">Врати се назад</string>
-    <string name="down_button_label">Повеќе</string>
-    <string name="cancel_button_label">Откажи</string>
-    <string name="restart_button_label">Рестартирај</string>
-    <string name="try_again_button_label">Обиди се повторно</string>
-    <string name="close_button_label">Затвори</string>
-    <string name="got_it_button_label">Сфатив</string>
-    <string name="ok_button_label">Во ред</string>
-    <string name="dialog_back_button_label">Назад</string>
-    <string name="dialog_continue_button_label">Продолжи</string>
-    <string name="google_legal_title">Правни работи на Google</string>
-    <string name="url_load_unsuccessful_message">Вашиот телефон не е поврзан со услуга за мобилни податоци. За да ги видите овие информации сега, одете на %s во веб прелистувач.</string>
-    <string name="start">Започни</string>
-    <string name="wait_msg">Само момент...</string>
-    <string name="skip_toast">Волшебникот за поставување е прескокнат</string>
-    <string name="terminate_toast">"Волшебникот за поставување прекина
-Уредот е подготвен"</string>
-    <string name="activation_title">Активирање на мобилната услуга...</string>
-    <string name="activation_progress_flow">"Трае предолго?
+  <string name="convert_to_file_encryption">Конвертирајте до шифрирање датотеки</string>
+  <string name="convert_to_file_encryption_done">Датотеката е веќе шифрирана</string>
+  <string name="convert_to_file_encryption_enabled">Конвертирај...</string>
+  <string name="daltonizer_mode_deuteranomaly">Девтераномалија (слепило за црвена и зелена)</string>
+  <string name="daltonizer_mode_disabled">Оневозможено</string>
+  <string name="daltonizer_mode_monochromacy">Скала со сиви тонови</string>
+  <string name="daltonizer_mode_protanomaly">Протаномалија (слепило за црвена и зелена)</string>
+  <string name="daltonizer_mode_tritanomaly">Тританомалија (слепило за сина и жолта)</string>
+  <string name="daltonizer_type_overridden">Прескокнато според %1$s</string>
+  <string name="data_usage_uninstalled_apps">Отстранети апликации</string>
+  <string name="data_usage_uninstalled_apps_users">Отстранети апликации и корисници</string>
+  <string name="date_time_current_date">Датум</string>
+  <string name="date_time_current_time">Време</string>
+  <string name="date_time_message">Приспособете ако е потребно.</string>
+  <string name="date_time_setup_title">Датум и време</string>
+  <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+  <string name="debug_app">Избери апликација за отстранување грешки</string>
+  <string name="debug_app_not_set">Нема поставено апликација за отстранување грешки</string>
+  <string name="debug_app_set">Апликација за отстранување грешки: %1$s</string>
+  <string name="debug_applications_category">Апликации</string>
+  <string name="debug_debugging_category">Отстранување грешки</string>
+  <string name="debug_drawing_category">Цртање</string>
+  <string name="debug_hw_drawing_category">Прикажување забрзување на хардвер</string>
+  <string name="debug_hw_overdraw">Отстр. греш. на GPU</string>
+  <string name="debug_input_category">Внес</string>
+  <string name="debug_layout">Прикажи граници на слој</string>
+  <string name="debug_layout_summary">Прикажи граници на клип, маргини, итн.</string>
+  <string name="debug_monitoring_category">Следење</string>
+  <string name="debug_networking_category">Вмрежување</string>
+  <string name="debug_view_attributes">Овозможете проверка на атрибутот на приказот</string>
+  <string name="dev_settings_warning_message">Овие подесувања се наменети само за употреба за развој. Тие може да предизвикаат уредот и апликациите во него да се расипат или да се однесуваат необично.</string>
+  <string name="dev_settings_warning_title">Дозволи подесувања за развој?</string>
+  <string name="development_settings_enable">Овозможете ги опциите за програмери</string>
+  <string name="development_settings_not_available">Опциите на програмерот не се достапни за овој корисник</string>
+  <string name="development_settings_summary">Постави опции за развој на апликација</string>
+  <string name="development_settings_title">Опции на развивач</string>
+  <string name="device_name">телефон</string>
+  <string name="device_owner_continue">Продолжи</string>
+  <string name="device_owner_reset">Ресетирај го телефонот</string>
+  <string name="device_owner_warning">Овој телефон е управуван од „%1$s”, што значи дека некои од информациите може да се видливи за други луѓе. За да спречите следење, ресетирајте го телефонот.</string>
+  <string name="device_owner_warning_title">Телефонот може да се следи</string>
+  <string name="dialog_back_button_label">Назад</string>
+  <string name="dialog_continue_button_label">Продолжи</string>
+  <string name="disable_overlays">Оневозможи HW преклопувања</string>
+  <string name="disable_overlays_summary">Секогаш користи GPU за составување екран</string>
+  <string name="disabled_by_admin">Оневозможено од администраторот</string>
+  <string name="disabled_by_admin_summary_text">Контролирано од администраторот</string>
+  <string name="down_button_label">Повеќе</string>
+  <string name="download_qr_dependencies_failed_content">Не може да се инсталира QR-читачот</string>
+  <string name="early_update_downloading_text">Се презема %s</string>
+  <string name="early_update_installing_text">Се инсталира %s</string>
+  <string name="early_update_text">Се проверува за ажурирања</string>
+  <string name="early_update_title">Ажурирање на софтверот</string>
+  <string name="emergency_dial">Итен случај</string>
+  <string name="enable_adb">Отстранување грешки на USB</string>
+  <string name="enable_adb_summary">Режим на отстранување грешки кога е поврзано USB</string>
+  <string name="enable_freeform_support">Овозможи прозорци со слободна форма</string>
+  <string name="enable_freeform_support_summary">Овозможи поддршка за експериментални прозорци со слободна форма.</string>
+  <string name="enable_opengl_traces_title">Овозможи траги на OpenGL</string>
+  <string name="enable_terminal_summary">Овозможи апликација на терминал што овозможува локален пристап кон школка.</string>
+  <string name="enable_terminal_title">Локален терминал</string>
+  <string name="enable_webview_multiprocess">Овозможи мултипроцесен WebView</string>
+  <string name="enable_webview_multiprocess_desc">Активирајте ги WebView-прикажувачите во изолиран процес.</string>
+  <string name="enabled_a11y">Режимот на достапност е овозможен.</string>
+  <string name="enabled_by_admin">Овозможено од администраторот</string>
+  <string name="exit_loading_launcher">Се вчитува стартер...</string>
+  <string name="factory_reset_button">Избриши и ресетирај</string>
+  <string name="factory_reset_confirmation">Да се избришат сите сметки и податоци на овој телефон? Ова дејство не може да се врати.</string>
+  <string name="factory_reset_confirmation_title">Ресетирај?</string>
+  <string name="factory_reset_instructions">Предупредување: ресетирањето ќе ги избрише сите сметки и податоци во внатрешната меморија на овој телефон.</string>
+  <string name="factory_reset_title">Ресетирај го телефонот</string>
+  <string name="finish_button_label">Заврши</string>
+  <string name="flow_choice_new_label">Постави како нов</string>
+  <string name="flow_choice_restore_summary">Враќање резервна копија или копија од уредот</string>
+  <string name="flow_choice_title">Поставете го вашиот ^1</string>
+  <string name="force_allow_on_external">Принуд. дозволете апликации на надворешна меморија</string>
+  <string name="force_allow_on_external_summary">Прави секоја апликација да биде подобна за запишување на надворешна меморија, независно од вредностите на манифестот</string>
+  <string name="force_hw_ui">Присили рендерирање на GPU</string>
+  <string name="force_hw_ui_summary">Присилно користење на GPU за цртеж 2D</string>
+  <string name="force_msaa">Сила 4x MSAA</string>
+  <string name="force_msaa_summary">Овозможи 4x MSAA за апликации OpenGL ES 2.0</string>
+  <string name="force_resizable_activities">Принуди ги активностите да ја менуваат големината</string>
+  <string name="force_resizable_activities_summary">Направете сите активности да бидат со променлива големина за повеќе прозорци, без разлика на вредностите на манифестот.</string>
+  <string name="force_rtl_layout_all_locales">Сила на RTL за насока на слој</string>
+  <string name="force_rtl_layout_all_locales_summary">Присилно постави насока на распоред на екран во РТЛ за сите локални стандарди</string>
+  <string name="go_back_button_label">Врати се назад</string>
+  <string name="google_legal_title">Правни работи на Google</string>
+  <string name="google_play_tos_title">Услови на користење Google Play</string>
+  <string name="google_plus_privacy_policy_title">Политика за приватност на Google Plus</string>
+  <string name="google_privacy_policy_title">Политика за приватност на Google</string>
+  <string name="google_terms_of_service_title">Услови на користење на Google</string>
+  <string name="got_it_button_label">Сфатив</string>
+  <string name="hdcp_checking_dialog_title">Постави однесување на проверка на HDCP</string>
+  <string name="hdcp_checking_title">Проверување HDCP</string>
+  <string name="home">Почетна страница</string>
+  <string name="immediately_destroy_activities">Не чувај активности</string>
+  <string name="immediately_destroy_activities_summary">Уништи ја секоја активност штом корисникот ќе го остави</string>
+  <string name="inactive_app_active_summary">Активно. Допрете за да смените.</string>
+  <string name="inactive_app_inactive_summary">Неактивно. Допрете за да смените.</string>
+  <string name="inactive_apps_title">Неактивни апликации</string>
+  <string name="invalid_qr_code_content">Проверете дали го имате вистинскиот QR код за вашата организација и обидете се повторно.</string>
+  <string name="invalid_qr_code_retry">Обиди се повторно</string>
+  <string name="invalid_qr_code_title">QR кодот не работи</string>
+  <string name="keep_screen_on">Остани во активен режим</string>
+  <string name="keep_screen_on_summary">Екранот никогаш нема да биде во режим на штедење додека се полни</string>
+  <string name="launch_defaults_none">Нема поставено стандардни вредности</string>
+  <string name="launch_defaults_some">Поставени се некои стандардни вредности</string>
+  <string name="legacy_dhcp_client">Користете наследен клиент на DHCP</string>
+  <string name="legacy_dhcp_client_summary">Користете го клиентот на DHCP од Lollipop наместо новиот клиент на DHCP на Android.</string>
+  <string name="local_backup_password_summary_change">Допрете за да се промени или отстрани лозинката за целосни резервни копии на работната површина</string>
+  <string name="local_backup_password_summary_none">Целосни резервни копии на работната површина кои во моментов не се заштитени</string>
+  <string name="local_backup_password_title">Резервна лозинка за работна површина</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Новата лозинка и потврдата не се исти</string>
+  <string name="local_backup_password_toast_success">Подесена нова лозинка на резервна копија</string>
+  <string name="local_backup_password_toast_validation_failure">Неуспешно подесување лозинка на резервна копија</string>
+  <string name="managed_user_title">Работен профил</string>
+  <string name="media_category">Медиуми</string>
+  <string name="mobile_data_always_on">Мобилниот интернет е секогаш активен</string>
+  <string name="mobile_data_always_on_summary">Секогаш држи го активен мобилниот интернет, дури и при активно Wi-Fi (за брзо префрлување мрежа).</string>
+  <string name="mock_location_app">Изберете апликација за лажна локација</string>
+  <string name="mock_location_app_not_set">Нема поставено апликација за лажна локација</string>
+  <string name="mock_location_app_set">Апликација за лажна локација: %1$s</string>
+  <string name="name_display_name_hint">на пр. Миле Петровски</string>
+  <string name="name_display_name_label">Име</string>
+  <string name="name_text">Со додавање на вашето име, се дозволува телефонот да персонализира некои апликации.</string>
+  <string name="name_title">Име</string>
+  <string name="network_description_text_google_account_flow">За да се најавите на вашата сметка на Google, прво поврзете се на Интернет.</string>
+  <string name="network_description_text_new_flow">За да продолжите со поставувањето, поврзете се на Интернет.</string>
+  <string name="network_description_text_restore_from_android_flow">За да ги копирате податоците од уредот со Android, прво поврзете се на Интернет.</string>
+  <string name="network_see_all_wifi">Види ги сите Wi‑Fi мрежи</string>
+  <string name="network_title">Поврзете се</string>
+  <string name="network_use_cellular">Користи мобилна мрежа за поставување</string>
+  <string name="no_application">Ништо</string>
+  <string name="notification_update_message">Допрете тука за да го извршите поставувањето на Волшебникот повторно.</string>
+  <string name="notification_update_title">Вашата сметка треба да се ажурира</string>
+  <string name="oem_unlock_enable">Отклучување со OEM</string>
+  <string name="oem_unlock_enable_summary">Дозволи да се отклучи подигнувачот</string>
+  <string name="ok_button_label">Во ред</string>
+  <string name="ota_agreement_text">Со продолжување и добивање на оваа надградба на софтвер, вие се согласувате со &lt;annotation link="tos"&gt;&amp;#1059;&amp;#1089;&amp;#1083;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1085;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1114;&amp;#1077; &amp;#1085;&amp;#1072; Google&lt;/annotation&gt; &amp;#1080; &lt;annotation link="google_privacy"&gt;&amp;#1055;&amp;#1086;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1080;&amp;#1082;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1090;&lt;/annotation&gt;.</string>
+  <string name="ota_info">Телефонот треба да преземе ажурирање и да се рестартира.</string>
+  <string name="ota_size">Големина: %s</string>
+  <string name="ota_update_title">Ажурирај телефон</string>
+  <string name="overlay_display_devices_title">Симул. секундарен екран</string>
+  <string name="picture_color_mode">Режим на боја на слика</string>
+  <string name="picture_color_mode_desc">Користи sRGB</string>
+  <string name="pointer_location">Локација на покажувач</string>
+  <string name="pointer_location_summary">Прекривката на екран ги покажува тековните податоци на допир</string>
+  <string name="power_charging">%1$s – %2$s</string>
+  <string name="power_charging_duration">%1$s – %2$s до целосно полна</string>
+  <string name="power_charging_duration_ac">%1$s – %2$s до целосно полна на AC</string>
+  <string name="power_charging_duration_usb">%1$s – %2$s до целосно полна преку USB</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s до целосно полна, безжично</string>
+  <string name="power_discharging_duration">%1$s – преостанува приближно %2$s</string>
+  <string name="power_remaining_duration_only">Преостанаа прибл. %1$s</string>
+  <string name="process_kernel_label">Оперативен систем Android</string>
+  <string name="qr_dependencies_check_timeout_text">Ова може да трае до 2 минути.</string>
+  <string name="qr_dependencies_check_title">Се инсталира QR-читачот…</string>
+  <string name="qr_provision_user_consent_content_without_qr_library">"За да се постави овој уред за вашата организација, прво треба да се поврзете на мрежа и да го преземете QR-читачот.
 
-Треба малку време за да се поврзете на мобилни податоци. Наместо тоа, може да се вратите назад и да се обидете со поврзување на друга мрежа."</string>
-    <string name="activation_failed_title">Не може да се поврзе на мобилни податоци</string>
-    <string name="activation_failed_message">"Може:
-"<li>да се обидете повторно да се поврзете на мобилни податоци</li>"
-"<li>да користите друга мрежа за поставување</li>"
+Потоа користете ја камерата за скенирање на QR-кодот на вашата организација."</string>
+  <string name="qr_provision_user_consent_title">Поставување на QR-кодот</string>
+  <string name="reboot_button_label">Рестартирај</string>
+  <string name="remaining_length_format">Преостанаа %1$s</string>
+  <string name="restart_button_label">Рестартирај</string>
+  <string name="restart_setup_wizard_button_label">Постави го телефонот</string>
+  <string name="restart_setup_wizard_dialog_text">"За да го користите овој телефон, прво мора да се најавите со сметката на Google од сопственикот што се користела последниот пат кога овој телефон бил ресетиран.
 
-Ако овие опции не работат, може и да го рестартирате телефонот и да се обидете повторно."</string>
-    <string name="activation_title_searching">Пребарување за услуга...</string>
-    <string name="activation_title_activating">Активирање на мобилната услуга...</string>
-    <string name="activation_default_network_name">мобилна мрежа</string>
-    <string name="activation_network_bars_template">Јачина на сигнал %d бари</string>
-    <string name="activation_text">Допрете <b>Активирај</b>" за да ја активирате мобилната услуга сега. (Може да потрае неколку минути.)
+Бидејќи не сте го направиле тоа, мора повторно да го поставите телефонот."</string>
+  <string name="restart_setup_wizard_dialog_title">Не сте најавени</string>
+  <string name="restore_choice_android_device_label">Друг уред со Android</string>
+  <string name="restore_choice_footer_dialog">"Ако претходно сте се најавиле на кој било производ на Google (како Gmail или YouTube), значи дека веќе имате сметка на Google.
 
-Или допрете "<b>Прескокни</b> за да го поставите телефонот со помош на Wi-Fi.</string>
-    <string name="activation_text_standalone">Допрете <b>Активирај</b> за да ја активирате мобилната услуга сега. (Може да потрае неколку минути.)</string>
-    <string name="activation_skip_confirmation">"Додека не ја активирате услугата за мобилни податоци, повеќето функции на телефонот нема да работат.
-
-Ако не сакате да ја активирате сега, можете да ја активирате подоцна во системски подесувања."</string>
-    <string name="activation_continue_skip_label">Продолжи</string>
-    <string name="activation_button_label">Активирај</string>
-    <string name="activation_progress_before_connect">Допрете <b>Прескокни</b>за да го завршите поставувањето со помош на Wi-Fi.</string>
-    <string name="activation_progress">Активирањето може да потрае неколку минути. Допрете <b>Прескокни</b> за да го завршите поставувањето со помош на Wi-Fi.</string>
-    <string name="activation_progress_gen">Ова може да трае до 5 минути</string>
-    <string name="activation_progress_mobile_data">"Телефонот ја активира услугата за мобилни податоци.
-
-Ова може да потрае до 5 минути."</string>
-    <string name="activation_progress_before_connect_standalone">Активацијата може да потрае неколку минути.</string>
-    <string name="activation_progress_standalone">Активацијата може да потрае неколку минути.</string>
-    <string name="activation_success_title">Активирањето заврши</string>
-    <string name="activation_success_text">Допрете <b>Следно</b> за да продолжите со поставувањето.</string>
-    <string name="activation_success_text_gen">Вашиот уред треба да се рестартира за да се заврши активацијата.</string>
-    <string name="activation_success_text_standalone">Допрете <b>Следно</b>" за да продолжите.
-
-Активацијата е успешна, но може да поминат неколку минути пред мрежата за мобилен интернет да стане достапна."</string>
-    <string name="activation_failure_title">Не можеше да се активира</string>
-    <string name="activation_failure_text">"Обидете се повторно за една минута или рестартирајте го телефонот ако ова продолжи да се случува.
-
-Ако сега сакате да прескокнете, погрижете се да активирате подоцна во Системски поставки. Додека не активирате, телефонот нема да има поврзување со мобилни податоци."</string>
-    <string name="activation_failure_text_gen">Вашата услуга за мобилни податоци не можеше да се активира. Ова може да е привремен проблем и може да се реши со рестартирање на телефонот.</string>
-    <string name="activation_failure_text_standalone">Не можеше да се активира услугата за мобилен интернет. За да се обидете со активирање повторно, допрете <b>Обиди се повторно</b>".
-
- Услугата за мобилен интернет може да ја активирате подоцна во "<b>Поставки на системот > Безжично и мрежи > Мобилни мрежи</b></string>
-    <string name="activation_cancel_title">Побарано е откажување</string>
-    <string name="activation_cancel_text">Активацијата се откажува... Ова може да потрае 5-10 секунди.</string>
-    <string name="activation_canceled_title">Активирањето е откажано</string>
-    <string name="activation_canceled_text">"Дали сакате да ја откажете активацијата? Треба да ја активирате услугата на мобилната мрежа пред да може да ја користите за да се поврзете на интернет.
-
-Допрете "<b>Следно</b>" за да го завршите поставувањето со помош на поврзување преку Wi-Fi.
-
-Услугата на мобилната мрежа може да ја активирате подоцна во "<b>Поставки на системот > Безжично и мрежи > Мобилни мрежи</b>.</string>
-    <string name="activation_canceled_text_standalone">"Активацијата е откажана.
-
-Може да ја активирате услугата за мобилни податоци подоцна во "<b>Системски поставки > Безжични и мрежи > Мобилни мрежи</b>.</string>
-    <string name="activation_spc_failure_text">Се појави грешка поради која телефонот треба да се исклучи и рестартира пред да може да направите уште еден обид за активирање. Телефонот автоматски ќе се исклучи за 60 секунди или може да допрете <b>Исклучи сега</b>".
-
-Откако ќе се исклучи телефонот, притиснете го копчето за вклучување за да го рестартирате. Активирањето ќе започне автоматски."</string>
-    <string name="shutdown_button_label">Исклучи сега</string>
-    <string name="reboot_button_label">Рестартирај</string>
-    <string name="activation_skip_text">Доколку ја прескокнете апликацијата, не заборавајте да ја активирате подоцна во Параметри. Сè додека не активирате, вашиот телефон нема да има поврзување со мобилни податоци.</string>
-    <string name="notification_update_title">Вашата сметка треба да се ажурира</string>
-    <string name="notification_update_message">Допрете тука за да го извршите поставувањето на Волшебникот повторно.</string>
-    <string name="account_exists_title">{accounts,plural, =1{Сметката е додадена}one{Сметките се додадени}other{Сметките се додадени}}</string>
-    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> е подготвена.</string>
-    <string name="account_exists_text_unknown_name">Сметката е подготвена.</string>
-    <string name="account_exists_info">"Вашите е-пошта, контакти, настани во календарот и други работи ќе се синхронизираат со телефонов. Исто така, подготвени сте да започнете со преземање апликации, музика и игри од Google Play.
-
-Подоцна може да додадете и да отстраните сметки, така што ќе отидете во Поставки > Сметки."</string>
-    <string name="date_time_setup_title">Датум и време</string>
-    <string name="date_time_message">Приспособете ако е потребно.</string>
-    <string name="date_time_current_date">Датум</string>
-    <string name="date_time_current_time">Време</string>
-    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
-    <string name="sim_missing_title">{sim_slots,plural, =1{Вметнете СИМ-картичка}one{Вметнете СИМ-картичка}other{Вметни СИМ-картички}}</string>
-    <string name="sim_missing_text">"{sim_slots,plural, =1{Не знаете како? Проверете во упатството за вашиот телефон.
+Може да ги користите истите детали, како телефонскиот број или корисничкото име и лозинката, за да се најавите тука."</string>
+  <string name="restore_choice_google_account_label">Вашата сметка на Google</string>
+  <string name="restore_choice_title">Преземете си ги податоците од…</string>
+  <string name="restore_device_settings_title">Се обновуваат поставките на уредот…</string>
+  <string name="restore_failed_message">Не може да се врати од резервната копија.</string>
+  <string name="restore_launcher_title">Се обновува стартувачот…</string>
+  <string name="restore_no_backup_message">Не се достапни резервни копии за изворниот уред.</string>
+  <string name="restore_stopped_message">За жал, уредот престана да обновува податоци од резервната копија.</string>
+  <string name="restore_title">Се обновува…</string>
+  <string name="restore_wallpaper_title">Се обновува тапетот…</string>
+  <string name="running_process_item_user_label">Корисник: %1$s</string>
+  <string name="runningservices_settings_summary">Погледнете и контролирајте услуги што се моментално активни</string>
+  <string name="runningservices_settings_title">Активни услуги</string>
+  <string name="saved_network">Зачувано од %1$s</string>
+  <string name="screen_zoom_summary_custom">Приспособен (%d)</string>
+  <string name="screen_zoom_summary_default">Стандардно</string>
+  <string name="screen_zoom_summary_extremely_large">Најголем</string>
+  <string name="screen_zoom_summary_large">Голем</string>
+  <string name="screen_zoom_summary_small">Мал</string>
+  <string name="screen_zoom_summary_very_large">Поголем</string>
+  <string name="security_verify_apps_summary">Овозможете Google да ги провери сите инсталирани апликации од потенцијално штетни однесувања кои би можело да влијаат на безбедноста на вашиот уред или податоци.</string>
+  <string name="select_application">Избери апликација</string>
+  <string name="select_logd_size_dialog_title">Величина/меѓумеморија на дневник</string>
+  <string name="select_logd_size_title">Величини на меѓумеморија на забележувач</string>
+  <string name="select_usb_configuration_dialog_title">Изберете конфигурација за УСБ</string>
+  <string name="select_usb_configuration_title">Изберете конфигурација за УСБ</string>
+  <string name="select_webview_provider_dialog_title">Поставете воведување WebView</string>
+  <string name="select_webview_provider_title">Воведување WebView</string>
+  <string name="select_webview_provider_toast_text">Овој избор веќе не важи. Обидете се повторно.</string>
+  <string name="services_activity_title">Услуги на Google</string>
+  <string name="services_backup_heading">Резервна копија</string>
+  <string name="services_communication_heading">Комуникации</string>
+  <string name="services_location_heading">Локација</string>
+  <string name="services_personalization_heading">Персонализација</string>
+  <string name="services_security_heading">Безбедност</string>
+  <string name="setup_wizard_title">Поставете го волшебникот</string>
+  <string name="show_all_anrs">Прикажи ги сите ANR</string>
+  <string name="show_all_anrs_summary">Прикажи „Апл. не реагира“ за. апл. во заднина</string>
+  <string name="show_cpu_usage">Прикажи употреба на ЦПУ</string>
+  <string name="show_cpu_usage_summary">Прекривка на екран прикаж. употреба на тековен ЦПУ</string>
+  <string name="show_hw_layers_updates">Ажурир. слоеви на хардвер</string>
+  <string name="show_hw_layers_updates_summary">Осветли слоеви на хардвер со зелено кога се ажур.</string>
+  <string name="show_hw_screen_updates">Прикажи ажурир. со GPU</string>
+  <string name="show_hw_screen_updates_summary">Осветли прегледи во прозорците при цртање со GPU</string>
+  <string name="show_non_rect_clip">Отстрани грешка на неправоаголни клип операции</string>
+  <string name="show_screen_updates">Прикажи ажурир. површина</string>
+  <string name="show_screen_updates_summary">Осветли површ. на прозорци при нивно ажурирање</string>
+  <string name="show_touches">Прикажувај допири</string>
+  <string name="show_touches_summary">Прикажи визуелни повратни информации за допири</string>
+  <string name="shutdown_button_label">Исклучи сега</string>
+  <string name="sim_missing_text">"{sim_slots,plural, =1{Не знаете како? Проверете во упатството за вашиот телефон.
 
 Штом ќе ја вметнете SIM-картичката, може да се потребни неколку секунди за да се активира.}one{Не знаете како? Проверете во упатството за вашиот телефон.
 
 Штом ќе ги вметнете SIM-картичките, може да се потребни неколку секунди за да се активираат.}other{Не знаете како? Проверете во упатството за вашиот телефон.
 
 Штом ќе ги вметнете SIM-картичките, може да се потребни неколку секунди за да се активираат.}}"</string>
-    <string name="sim_setup_title">Поставете СИМ-картички</string>
-    <string name="sim_setup_select_data">Изберете СИМ за мобилни податоци</string>
-    <string name="sim_setup_select_voice">Изберете СИМ за повици</string>
-    <string name="sim_setup_select_text">Изберете СИМ за текстуални пораки</string>
-    <string name="sim_setup_ask_every_time">Прашај секогаш</string>
-    <string name="wifi_title">Избери Wi-Fi</string>
-    <string name="wifi_skipped_title">Можни трошоци за сообраќај</string>
-    <string name="wifi_skipped_message">Телефонот ќе ја користи мобилната мрежа за време на поставувањето и за овој искористен сообраќај може да ви биде наплатено. За да ги избегнете можните трошоци, поврзете се на Wi‑Fi.</string>
-    <string name="wifi_add_new_network">Додај нова мрежа</string>
-    <string name="wifi_ip_address_title">IP-адреса</string>
-    <string name="wifi_ip_address_not_available">Недостапна</string>
-    <string name="wifi_mac_address_title">MAC-адреса</string>
-    <string name="wifi_mac_address_not_available">Недостапна</string>
-    <string name="network_title">Поврзете се</string>
-    <string name="network_description_text_restore_from_android_flow">За да ги копирате податоците од уредот со Android, прво поврзете се на Интернет.</string>
-    <string name="network_description_text_google_account_flow">За да се најавите на вашата сметка на Google, прво поврзете се на Интернет.</string>
-    <string name="network_description_text_new_flow">За да продолжите со поставувањето, поврзете се на Интернет.</string>
-    <string name="network_see_all_wifi">Види ги сите Wi‑Fi мрежи</string>
-    <string name="network_use_cellular">Користи мобилна мрежа за поставување</string>
-    <string name="captive_portal_sign_in_dialog_title">Има достапна врска</string>
-    <string name="captive_portal_connection_unsuccessful">Не може да се поврзе на Интернет</string>
-    <string name="ota_update_title">Ажурирај телефон</string>
-    <string name="ota_info">Телефонот треба да преземе ажурирање и да се рестартира.</string>
-    <string name="ota_size">Големина: %s</string>
-    <string name="ota_agreement_text">Со продолжување и добивање на оваа надградба на софтвер, вие се согласувате со <annotation link="tos">Услови на користење на Google</annotation> и <annotation link="google_privacy">Политика за приватност</annotation>.</string>
-    <string name="early_update_title">Ажурирање на софтверот</string>
-    <string name="early_update_text">Се проверува за ажурирања</string>
-    <string name="early_update_downloading_text">Се презема %s</string>
-    <string name="early_update_installing_text">Се инсталира %s</string>
-    <string name="warm_sim_check_msg">Се чека мрежа...</string>
-    <string name="android_privacy_policy_title">Дополнителна Политика за приватност</string>
-    <string name="google_terms_of_service_title">Услови на користење на Google</string>
-    <string name="google_privacy_policy_title">Политика за приватност на Google</string>
-    <string name="google_plus_privacy_policy_title">Политика за приватност на Google Plus</string>
-    <string name="google_play_tos_title">Услови на користење Google Play</string>
-    <string name="chrome_tos_title">Услови на користење на Chrome</string>
-    <string name="chrome_privacy_title">Известување за приватност на Chrome</string>
-    <string name="url_load_unsuccessful_message_wifi_only">Вашиот Android не е поврзан со Wi-Fi мрежа. За да ги видите овие информации сега, одете на %s во веб прелистувач.</string>
-    <string name="continue_for_a11y">Продолжете да го допирате екранот додека не слушнете звучен сигнал за да се овозможи режимот на достапност.</string>
-    <string name="canceled_a11y">Режимот за достапност е откажан.</string>
-    <string name="enabled_a11y">Режимот на достапност е овозможен.</string>
-    <string name="welcome_message">Добредојдовте</string>
-    <string name="emergency_dial">Итен случај</string>
-    <string name="welcome_accessibility_button">Поставки на визуелното пребарување</string>
-    <string name="welcome_language_picker_dialog_title">Изберете го јазикот</string>
-    <string name="welcome_language_picker_section_suggested">Препорачано</string>
-    <string name="welcome_language_picker_section_all">Сите јазици</string>
-    <string name="welcome_language_picker_content_description">Јазик: %s</string>
-    <string name="welcome_start_button_label">Започни</string>
-    <string name="flow_choice_title">Поставете го вашиот ^1</string>
-    <string name="flow_choice_restore_summary">Враќање резервна копија или копија од уредот</string>
-    <string name="flow_choice_new_label">Постави како нов</string>
-    <string name="restore_choice_title">Преземете си ги податоците од…</string>
-    <string name="restore_choice_google_account_label">Вашата сметка на Google</string>
-    <string name="restore_choice_android_device_label">Друг уред со Android</string>
-    <string name="services_activity_title">Услуги на Google</string>
-    <string name="services_backup_heading">Резервна копија</string>
-    <string name="services_location_heading">Локација</string>
-    <string name="services_security_heading">Безбедност</string>
-    <string name="services_personalization_heading">Персонализација</string>
-    <string name="services_communication_heading">Комуникации</string>
-    <string name="security_verify_apps_summary">Овозможете Google да ги провери сите инсталирани апликации од потенцијално штетни однесувања кои би можело да влијаат на безбедноста на вашиот уред или податоци.</string>
-    <string name="suggested_actions_title">Нешто друго?</string>
-    <string name="suggested_actions_done_label">Поставете подоцна</string>
-    <string name="restore_title">Се обновува…</string>
-    <string name="restore_wallpaper_title">Се обновува тапетот…</string>
-    <string name="restore_device_settings_title">Се обновуваат поставките на уредот…</string>
-    <string name="restore_launcher_title">Се обновува стартувачот…</string>
-    <string name="restore_failed_message">Не може да се врати од резервната копија.</string>
-    <string name="restore_no_backup_message">Не се достапни резервни копии за изворниот уред.</string>
-    <string name="restore_stopped_message">За жал, уредот престана да обновува податоци од резервната копија.</string>
-    <string name="name_title">Име</string>
-    <string name="name_text">Со додавање на вашето име, се дозволува телефонот да персонализира некои апликации.</string>
-    <string name="name_display_name_label">Име</string>
-    <string name="name_display_name_hint">на пр. Миле Петровски</string>
-    <string name="cant_be_blank">Полето не може да биде празно.</string>
-    <string name="device_owner_warning_title">Телефонот може да се следи</string>
-    <string name="device_owner_warning">Овој телефон е управуван од „%1$s”, што значи дека некои од информациите може да се видливи за други луѓе. За да спречите следење, ресетирајте го телефонот.</string>
-    <string name="device_owner_continue">Продолжи</string>
-    <string name="device_owner_reset">Ресетирај го телефонот</string>
-    <string name="factory_reset_title">Ресетирај го телефонот</string>
-    <string name="factory_reset_instructions">Предупредување: ресетирањето ќе ги избрише сите сметки и податоци во внатрешната меморија на овој телефон.</string>
-    <string name="factory_reset_confirmation_title">Ресетирај?</string>
-    <string name="factory_reset_confirmation">Да се избришат сите сметки и податоци на овој телефон? Ова дејство не може да се врати.</string>
-    <string name="factory_reset_button">Избриши и ресетирај</string>
-    <string name="restart_setup_wizard_dialog_title">Не сте најавени</string>
-    <string name="restart_setup_wizard_dialog_text">"За да го користите овој телефон, прво мора да се најавите со сметката на Google од сопственикот што се користела последниот пат кога овој телефон бил ресетиран.
+  <string name="sim_missing_title">{sim_slots,plural, =1{Вметнете СИМ-картичка}one{Вметнете СИМ-картичка}other{Вметни СИМ-картички}}</string>
+  <string name="sim_setup_ask_every_time">Прашај секогаш</string>
+  <string name="sim_setup_select_data">Изберете СИМ за мобилни податоци</string>
+  <string name="sim_setup_select_text">Изберете СИМ за текстуални пораки</string>
+  <string name="sim_setup_select_voice">Изберете СИМ за повици</string>
+  <string name="sim_setup_title">Поставете СИМ-картички</string>
+  <string name="simulate_color_space">Симулирај простор на бои</string>
+  <string name="skip_anyway_button_label">Сепак прескокни</string>
+  <string name="skip_button_label">Прескокни</string>
+  <string name="skip_toast">Волшебникот за поставување е прескокнат</string>
+  <string name="start">Започни</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="strict_mode">Овозможен е строг режим</string>
+  <string name="strict_mode_summary">Осветли екран при. долги операции на главна нишка</string>
+  <string name="suggested_actions_done_label">Поставете подоцна</string>
+  <string name="suggested_actions_title">Нешто друго?</string>
+  <string name="suw_back_button_label">Назад</string>
+  <string name="suw_more_button_label">Повеќе</string>
+  <string name="suw_next_button_label">Следно</string>
+  <string name="switch_camera">Промени ја камерата</string>
+  <string name="terminate_toast">"Волшебникот за поставување прекина
+Уредот е подготвен"</string>
+  <string name="tether_settings_title_all">Поврзување и пренослива точка на пристап</string>
+  <string name="tether_settings_title_bluetooth">Поврзување со Bluetooth</string>
+  <string name="tether_settings_title_usb">Поврзување со УСБ</string>
+  <string name="tether_settings_title_usb_bluetooth">Поврзување</string>
+  <string name="tether_settings_title_wifi">Преносл. точка на пристап</string>
+  <string name="tethering_settings_not_available">Поставките за спојување не се достапни за овој корисник</string>
+  <string name="title_convert_fbe">Конвертирајте до шифрирање на база на датотеки</string>
+  <string name="track_frame_time">Прикажување пофил на GPU</string>
+  <string name="transition_animation_scale_title">Опсег на преодна анимац.</string>
+  <string name="try_again_button_label">Обиди се повторно</string>
+  <string name="tts_default_lang_summary">Поставува глас специфичен за јазикот за говорниот текст</string>
+  <string name="tts_default_lang_title">Јазик</string>
+  <string name="tts_default_pitch_summary">Влијае на тонот на синтетизираниот говор</string>
+  <string name="tts_default_pitch_title">Интензитет</string>
+  <string name="tts_default_rate_summary">Брзина со која се кажува текстот</string>
+  <string name="tts_default_rate_title">Брзина на говор</string>
+  <string name="tts_default_sample_string">Ова е пример на синтеза на говор</string>
+  <string name="tts_engine_network_required">За овој јазик е потребно поврување со мрежа што функционира на излез за текст-во-говор.</string>
+  <string name="tts_engine_preference_section_title">Претпочитан софтвер</string>
+  <string name="tts_engine_security_warning">Овој софтвер за синтеза на говор може да го собере сиот текст што ќе се говори, вклучувајќи и лични податоци како што се лозинки и броеви на кредитни картички. Тоа го прави апликацијата %s. Употреби го овој софтвер за синтеза на говор?</string>
+  <string name="tts_engine_settings_button">Стартувај подесувања на софтвер</string>
+  <string name="tts_engine_settings_title">Поставки на %s</string>
+  <string name="tts_general_section_title">Општо</string>
+  <string name="tts_install_data_summary">Инсталирај ги гласовните податоци потребни за синтеза на говор</string>
+  <string name="tts_install_data_title">Инсталирај гласовни податоци</string>
+  <string name="tts_lang_not_selected">Јазикот не е избран</string>
+  <string name="tts_lang_use_system">Користете системски јазик</string>
+  <string name="tts_play_example_summary">Пушти краток приказ на синтеза на говор</string>
+  <string name="tts_play_example_title">Слушни пример</string>
+  <string name="tts_settings">Поставки на текст-во-говор</string>
+  <string name="tts_settings_title">Излез текст-во-говор</string>
+  <string name="tts_status_checking">Се проверува...</string>
+  <string name="tts_status_not_supported">%1$s не е поддржано</string>
+  <string name="tts_status_ok">%1$s е целосно поддржан</string>
+  <string name="tts_status_requires_network">%1$s бара мрежно поврзување</string>
+  <string name="tts_status_title">Статус на стандарден јазик</string>
+  <string name="unknown">Непознато</string>
+  <string name="url_load_unsuccessful_message">Вашиот телефон не е поврзан со услуга за мобилни податоци. За да ги видите овие информации сега, одете на %s во веб прелистувач.</string>
+  <string name="url_load_unsuccessful_message_wifi_only">Вашиот Android не е поврзан со Wi-Fi мрежа. За да ги видите овие информации сега, одете на %s во веб прелистувач.</string>
+  <string name="usb_audio_disable_routing">Исклучи УСБ-пренасочување</string>
+  <string name="usb_audio_disable_routing_summary">Исклучи автоматско пренасочување до УСБ-аудиоуреди</string>
+  <string name="user_guest">Гостин</string>
+  <string name="user_warning_radio_continue">Продолжи</string>
+  <string name="user_warning_radio_quit">Откажете и отстранете го новиот корисник</string>
+  <string name="user_warning_title">Поставете нов корисник</string>
+  <string name="verify_apps_over_usb_summary">Провери апликации инсталирани преку ADB/ADT за штетно однесување.</string>
+  <string name="verify_apps_over_usb_title">Потврди апликации преку УСБ</string>
+  <string name="vpn_settings_not_available">Поставките за ВПН не се достапни за овој корисник</string>
+  <string name="wait_for_debugger">Почекај ја програмата за отстранување грешки</string>
+  <string name="wait_for_debugger_summary">Пред да се изврши, апликација за отстранување грешки чека програмата за отстранување грешки да се закачи</string>
+  <string name="wait_msg">Само момент...</string>
+  <string name="warm_sim_check_msg">Се чека мрежа...</string>
+  <string name="welcome_accessibility_button">Поставки на визуелното пребарување</string>
+  <string name="welcome_language_picker_content_description">Јазик: %s</string>
+  <string name="welcome_language_picker_dialog_title">Изберете го јазикот</string>
+  <string name="welcome_language_picker_section_all">Сите јазици</string>
+  <string name="welcome_language_picker_section_suggested">Препорачано</string>
+  <string name="welcome_limited_user_info_text">" "&lt;b&gt;&amp;#1042;&amp;#1072;&amp;#1078;&amp;#1085;&amp;#1086;:&lt;/b&gt;"
 
-Бидејќи не сте го направиле тоа, мора повторно да го поставите телефонот."</string>
-    <string name="restart_setup_wizard_button_label">Постави го телефонот</string>
-    <string name="user_warning_radio_continue">Продолжи</string>
-    <string name="user_warning_radio_quit">Откажете и отстранете го новиот корисник</string>
-    <string name="user_warning_title">Поставете нов корисник</string>
-    <string name="welcome_secondary_user_added_text">%s ве додаде во овој телефон.</string>
-    <string name="welcome_secondary_user_added_no_owner_name_text">Додадени сте во овој телефон.</string>
-    <string name="welcome_secondary_user_info_text"><b>Важно:</b>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1089;&amp;#1086;&amp;#1087;&amp;#1089;&amp;#1090;&amp;#1074;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1082;&amp;#1086;&amp;#1090; &amp;#1085;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1080;&amp;#1085;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1083;&amp;#1080;&amp;#1088;&amp;#1072; &amp;#1080; &amp;#1076;&amp;#1077;&amp;#1080;&amp;#1085;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1083;&amp;#1080;&amp;#1088;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;, &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1074;&amp;#1091;&amp;#1074;&amp;#1072; &amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1095;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1094;&amp;#1077;&amp;#1083;&amp;#1086;&amp;#1089;&amp;#1085;&amp;#1086; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1086;&amp;#1090;&amp;#1089;&amp;#1090;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1080;&amp;#1086;&amp;#1090; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1088;.&lt;/ul&gt;&lt;/li&gt;"
 
-"<li><ul>Сопственикот на уредот може да ги деинсталира апликациите или целосно да го отстрани просторот.</ul></li>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1057;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1112; &amp;#1086;&amp;#1076; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1085;&amp;#1080;&amp;#1094;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1092;&amp;#1072;&amp;#1116;&amp;#1072; &amp;#1076;&amp;#1086;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1083;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1072;&amp;#1078;&amp;#1091;&amp;#1088;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080; &amp;#1074;&amp;#1086; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1077; &amp;#1080;&amp;#1084;&amp;#1077;.&lt;/ul&gt;&lt;/li&gt;"
 
-"<li><ul>Секој друг корисник може да прифати ажурирани дозволи за апликацијата во ваше име.</ul></li>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1050;&amp;#1072;&amp;#1082;&amp;#1086; &amp;#1080; &amp;#1089;&amp;#1086; &amp;#1089;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1112; &amp;#1082;&amp;#1086;&amp;#1084;&amp;#1087;&amp;#1112;&amp;#1091;&amp;#1090;&amp;#1077;&amp;#1088;, &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090; &amp;#1090;&amp;#1088;&amp;#1077;&amp;#1073;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1076;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072;&amp;#1084;&amp;#1086; &amp;#1089;&amp;#1086; &amp;#1083;&amp;#1091;&amp;#1107;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1080; &amp;#1080;&amp;#1084; &amp;#1074;&amp;#1077;&amp;#1088;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1077;. &lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="welcome_message">Добредојдовте</string>
+  <string name="welcome_secondary_user_added_no_owner_name_text">Додадени сте во овој телефон.</string>
+  <string name="welcome_secondary_user_added_text">%s ве додаде во овој телефон.</string>
+  <string name="welcome_secondary_user_info_text">&lt;b&gt;&amp;#1042;&amp;#1072;&amp;#1078;&amp;#1085;&amp;#1086;:&lt;/b&gt;"
 
-"<li><ul>Како и со секој компјутер, треба да го споделувате телефонов само со луѓе на кои им верувате.</ul></li></string>
-    <string name="welcome_limited_user_info_text">" "<b>Важно:</b>"
+"&lt;li&gt;&lt;ul&gt;&amp;#1057;&amp;#1086;&amp;#1087;&amp;#1089;&amp;#1090;&amp;#1074;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1082;&amp;#1086;&amp;#1090; &amp;#1085;&amp;#1072; &amp;#1091;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1086;&amp;#1090; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1080; &amp;#1076;&amp;#1077;&amp;#1080;&amp;#1085;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1083;&amp;#1080;&amp;#1088;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1094;&amp;#1077;&amp;#1083;&amp;#1086;&amp;#1089;&amp;#1085;&amp;#1086; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1086;&amp;#1090;&amp;#1089;&amp;#1090;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1088;&amp;#1086;&amp;#1090;.&lt;/ul&gt;&lt;/li&gt;"
 
- "<li><ul>сопственикот на телефонот може да инсталира и деинсталира апликации, да поставува ограничувања или целосно да го отстрани вашиот простор.</ul></li>"
+"&lt;li&gt;&lt;ul&gt;&amp;#1057;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1112; &amp;#1076;&amp;#1088;&amp;#1091;&amp;#1075; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1085;&amp;#1080;&amp;#1082; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1092;&amp;#1072;&amp;#1090;&amp;#1080; &amp;#1072;&amp;#1078;&amp;#1091;&amp;#1088;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1076;&amp;#1086;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1083;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1074;&amp;#1086; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1077; &amp;#1080;&amp;#1084;&amp;#1077;.&lt;/ul&gt;&lt;/li&gt;"
 
- "<li><ul>Секој од корисниците може да прифаќа дозволи за ажурирани апликации во ваше име.</ul></li>"
-
- "<li><ul>Како и со секој компјутер, телефонот треба да го делите само со луѓе на кои им верувате. </ul></li></string>
-    <string name="qr_dependencies_check_title">Се инсталира QR-читачот…</string>
-    <string name="qr_dependencies_check_timeout_text">Ова може да трае до 2 минути.</string>
-    <string name="download_qr_dependencies_failed_content">Не може да се инсталира QR-читачот</string>
-    <string name="check_qr_dependencies_again">Обиди се повторно</string>
-    <string name="qr_provision_user_consent_title">Поставување на QR-кодот</string>
-    <string name="qr_provision_user_consent_content_without_qr_library">"За да се постави овој уред за вашата организација, прво треба да се поврзете на мрежа и да го преземете QR-читачот.
-
-Потоа користете ја камерата за скенирање на QR-кодот на вашата организација."</string>
-    <string name="invalid_qr_code_title">QR кодот не работи</string>
-    <string name="invalid_qr_code_content">Проверете дали го имате вистинскиот QR код за вашата организација и обидете се повторно.</string>
-    <string name="invalid_qr_code_retry">Обиди се повторно</string>
-    <string name="switch_camera">Промени ја камерата</string>
-    <string name="exit_loading_launcher">Се вчитува стартер...</string>
-    <string name="restore_choice_footer_dialog">"Ако претходно сте се најавиле на кој било производ на Google (како Gmail или YouTube), значи дека веќе имате сметка на Google.
-
-Може да ги користите истите детали, како телефонскиот број или корисничкото име и лозинката, за да се најавите тука."</string>
+"&lt;li&gt;&lt;ul&gt;&amp;#1050;&amp;#1072;&amp;#1082;&amp;#1086; &amp;#1080; &amp;#1089;&amp;#1086; &amp;#1089;&amp;#1077;&amp;#1082;&amp;#1086;&amp;#1112; &amp;#1082;&amp;#1086;&amp;#1084;&amp;#1087;&amp;#1112;&amp;#1091;&amp;#1090;&amp;#1077;&amp;#1088;, &amp;#1090;&amp;#1088;&amp;#1077;&amp;#1073;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1089;&amp;#1087;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1083;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1074; &amp;#1089;&amp;#1072;&amp;#1084;&amp;#1086; &amp;#1089;&amp;#1086; &amp;#1083;&amp;#1091;&amp;#1107;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1080; &amp;#1080;&amp;#1084; &amp;#1074;&amp;#1077;&amp;#1088;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1077;.&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="welcome_start_button_label">Започни</string>
+  <string name="wifi_add_new_network">Додај нова мрежа</string>
+  <string name="wifi_aggressive_handover">Агресивно предавање од Wi‑Fi на мобилен</string>
+  <string name="wifi_aggressive_handover_summary">Кога е вклучено, Wi-Fi ќе биде поагресивно при предавање на поврзувањето со податоци на мобилната мрежа при слаб сигнал на Wi-Fi.</string>
+  <string name="wifi_allow_scan_with_traffic">Секогаш дозволувај Wi‑Fi скенирање во роаминг</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Дозволи/Забрани Wi‑Fi скенирање во роаминг според количината на постоечкиот податочен сообраќај на интерфејсот.</string>
+  <string name="wifi_connected_no_internet">Поврзана, нема интернет</string>
+  <string name="wifi_disabled_generic">Оневозможено</string>
+  <string name="wifi_disabled_network_failure">Конфигурирањето ИП не успеа</string>
+  <string name="wifi_disabled_password_failure">Проблем со автентикација</string>
+  <string name="wifi_disabled_wifi_failure">Поврзувањето преку Wi-Fi не успеа</string>
+  <string name="wifi_display_certification">Приказ на сертификација на безжична мрежа</string>
+  <string name="wifi_display_certification_summary">Покажи ги опциите за безжичен приказ на сертификат</string>
+  <string name="wifi_fail_to_scan">Не може да скенира за мрежи</string>
+  <string name="wifi_ip_address_not_available">Недостапна</string>
+  <string name="wifi_ip_address_title">IP-адреса</string>
+  <string name="wifi_mac_address_not_available">Недостапна</string>
+  <string name="wifi_mac_address_title">MAC-адреса</string>
+  <string name="wifi_no_internet">Не е откриен пристап до интернет, нема автоматски повторно да се поврзете.</string>
+  <string name="wifi_not_in_range">Надвор од опсег</string>
+  <string name="wifi_remembered">Зачувано</string>
+  <string name="wifi_security_none">Ниедна</string>
+  <string name="wifi_skipped_message">Телефонот ќе ја користи мобилната мрежа за време на поставувањето и за овој искористен сообраќај може да ви биде наплатено. За да ги избегнете можните трошоци, поврзете се на Wi‑Fi.</string>
+  <string name="wifi_skipped_title">Можни трошоци за сообраќај</string>
+  <string name="wifi_title">Избери Wi-Fi</string>
+  <string name="wifi_verbose_logging">Овозможи преопширно пријавување Wi‑Fi</string>
+  <string name="wifi_verbose_logging_summary">Зголеми Wi‑Fi ниво на пријавување, прикажи по SSID RSSI во Wi‑Fi бирач</string>
+  <string name="window_animation_scale_title">Опсег на аним. на прозор.</string>
 </resources>

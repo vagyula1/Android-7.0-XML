@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Comprobando estado de la suscripción. Por favor, espera...</string>
-    <string name="vzw_error_msg_title">No se ha podido procesar tu pedido.</string>
-    <string name="vzw_error_msg">"Si deseas suscribirte a Mi zona Wi-Fi/Mobile Broadband Connect, llama a los números siguientes: 
+  <string name="alert_dialog_later_button">Más tarde</string>
+  <string name="alert_dialog_negative_button">Cancelar</string>
+  <string name="alert_dialog_no_button">No</string>
+  <string name="alert_dialog_positive_button">Aceptar</string>
+  <string name="alert_dialog_upgrade_button">Actualizar</string>
+  <string name="alert_dialog_yes_button">Sí</string>
+  <string name="app_name">Autorización</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Para habilitarla, ve a att.com/mywireless o llama al 611</string>
+  <string name="att_error_msg_other">Hay un problema temporal con la red que impide habilitar la función Mi zona Wi-Fi. Inténtalo de nuevo más tarde.</string>
+  <string name="att_error_msg_other_title">Error de red</string>
+  <string name="att_error_msg_title">No se ha configurado la cuenta para Módem USB</string>
+  <string name="browser_error_msg">No se puede abrir el navegador.</string>
+  <string name="feature_check_msg">Comprobando estado de la suscripción. Por favor, espera...</string>
+  <string name="mobile_hotspot">Mi zona Wi-Fi</string>
+  <string name="network_connection_error_msg">En este momento el teléfono no se puede conectar al servidor de %s. Inténtalo de nuevo más tarde.</string>
+  <string name="network_connection_title">Error de conexión de red</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Obt&amp;#233;n m&amp;#225;s informaci&amp;#243;n y suscr&amp;#237;bete al servicio Mi zona Wi-Fi en My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Para usar Mi zona Wi-Fi, debes suscribirte al servicio de Mi zona Wi-Fi</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">No se ha podido conectar a la red de datos. Es posible que no te puedas suscribir al servicio de Módem USB o Zona Wi-Fi. Ponte en contacto con tu compañía de telefonía móvil.</string>
+  <string name="sprint_error_msg_3g">No se ha podido conectar a la red de datos. Apagando Módem USB o Zona Wi-Fi. Es posible que tu plan no ofrezca el servicio Módem USB y Zona Wi-Fi. ¿Deseas ver las opciones de suscripción?</string>
+  <string name="sprint_error_msg_lte">No estás suscrito al servicio de Módem USB y Zona Wi-Fi. ¿Deseas ver las opciones de suscripción?</string>
+  <string name="sprint_error_msg_title">Error de Módem USB o Zona Wi-Fi</string>
+  <string name="sprint_notification_msg">Toca para ver más detalles</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Tu tarifa actual no incluye el servicio Smartphone Mobile HotSpot que permite compartir la conexión de datos del teléfono con otros dispositivos. ¿Quieres añadir el servicio de Smartphone Mobile HotSpot a tu tarifa? También puedes hacerlo en línea en https://my.t-mobile.com en Manage &gt; Plans and Services (Gestionar &gt; Planes y servicios).</string>
+  <string name="tmo_error_msg_title">Es necesario actualizar el servicio</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Si deseas suscribirte a Mi zona Wi-Fi/Mobile Broadband Connect, llama a los números siguientes: 
 Particulares: (800) 256-4646 
 Empresas: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Es necesario actualizar el servicio</string>
-    <string name="tmo_error_msg">Tu tarifa actual no incluye el servicio Smartphone Mobile HotSpot que permite compartir la conexión de datos del teléfono con otros dispositivos. ¿Quieres añadir el servicio de Smartphone Mobile HotSpot a tu tarifa? También puedes hacerlo en línea en https://my.t-mobile.com en Manage > Plans and Services (Gestionar > Planes y servicios).</string>
-    <string name="app_name">Autorización</string>
-    <string name="network_connection_title">Error de conexión de red</string>
-    <string name="network_connection_error_msg">En este momento el teléfono no se puede conectar al servidor de %s. Inténtalo de nuevo más tarde.</string>
-    <string name="mobile_hotspot">Mi zona Wi-Fi</string>
-    <string name="spg_dlg_normaltext">Para usar Mi zona Wi-Fi, debes suscribirte al servicio de Mi zona Wi-Fi</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Obtén más información y suscríbete al servicio Mi zona Wi-Fi en My Verizon.</a></string>
-    <string name="browser_error_msg">No se puede abrir el navegador.</string>
-    <string name="alert_dialog_positive_button">Aceptar</string>
-    <string name="alert_dialog_negative_button">Cancelar</string>
-    <string name="alert_dialog_yes_button">Sí</string>
-    <string name="alert_dialog_no_button">No</string>
-    <string name="alert_dialog_upgrade_button">Actualizar</string>
-    <string name="alert_dialog_later_button">Más tarde</string>
-    <string name="att_error_msg">Para habilitarla, ve a att.com/mywireless o llama al 611</string>
-    <string name="att_error_msg_title">No se ha configurado la cuenta para Módem USB</string>
-    <string name="att_error_msg_other">Hay un problema temporal con la red que impide habilitar la función Mi zona Wi-Fi. Inténtalo de nuevo más tarde.</string>
-    <string name="att_error_msg_other_title">Error de red</string>
-    <string name="sprint_error_msg">No se ha podido conectar a la red de datos. Es posible que no te puedas suscribir al servicio de Módem USB o Zona Wi-Fi. Ponte en contacto con tu compañía de telefonía móvil.</string>
-    <string name="sprint_error_msg_lte">No estás suscrito al servicio de Módem USB y Zona Wi-Fi. ¿Deseas ver las opciones de suscripción?</string>
-    <string name="sprint_error_msg_3g">No se ha podido conectar a la red de datos. Apagando Módem USB o Zona Wi-Fi. Es posible que tu plan no ofrezca el servicio Módem USB y Zona Wi-Fi. ¿Deseas ver las opciones de suscripción?</string>
-    <string name="sprint_error_msg_title">Error de Módem USB o Zona Wi-Fi</string>
-    <string name="sprint_notification_msg">Toca para ver más detalles</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">No se ha podido procesar tu pedido.</string>
 </resources>

@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Kontrollerer abonnementsstatus. Vent litt ...</string>
-    <string name="vzw_error_msg_title">Bestillingen kunne ikke behandles</string>
-    <string name="vzw_error_msg">"Hvis du vil abonnere på Mobile Hotspot / Mobile Broadband Connect, ringer du: 
+  <string name="alert_dialog_later_button">Senere</string>
+  <string name="alert_dialog_negative_button">Avbryt</string>
+  <string name="alert_dialog_no_button">Nei</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Oppgrader</string>
+  <string name="alert_dialog_yes_button">Ja</string>
+  <string name="app_name">Berettigelse</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Gå til att.com/mywireless eller ring 611 for å aktivere</string>
+  <string name="att_error_msg_other">Det har oppstått et midlertidig nettverksproblem som forhindrer aktivering av Mobile Hotspot-funksjonen. Prøv på nytt senere</string>
+  <string name="att_error_msg_other_title">Nettverksfeil</string>
+  <string name="att_error_msg_title">Kontoen er ikke konfigurert for tilknytning</string>
+  <string name="browser_error_msg">Kan ikke åpne nettleser.</string>
+  <string name="feature_check_msg">Kontrollerer abonnementsstatus. Vent litt ...</string>
+  <string name="mobile_hotspot">Mobile Hotspot</string>
+  <string name="network_connection_error_msg">Telefonen kan ikke kobles til serveren til %s for øyeblikket. Prøv på nytt senere.</string>
+  <string name="network_connection_title">Feil ved nettverkstilkobling</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Finn ut mer, og start et abonnement p&amp;#229; Mobile Hotspot ved &amp;#229; g&amp;#229; til My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Hvis du vil bruke Mobile Hotspot, må du abonnere på Mobile Hotspot-tjenesten</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Kan ikke koble til datanettverket. Du abonnerer kanskje ikke på tjenesten for tilknytning eller Wi-Fi-sone. Kontakt telefonselskapet.</string>
+  <string name="sprint_error_msg_3g">Kan ikke koble til datanettverket – slår av tilknytning eller Wi-Fi-sone. Du abonnerer kanskje ikke på tjenesten for tilknytning eller Wi-Fi-sone. Ønsker du å se abonnementsalternativer?</string>
+  <string name="sprint_error_msg_lte">Du abonnerer ikke på tjenesten for tilknytning og Wi-Fi-sone. Ønsker du å se abonnementsalternativer?</string>
+  <string name="sprint_error_msg_title">Feil ved tilknytning eller Wi-Fi-sone</string>
+  <string name="sprint_notification_msg">Trykk for å se flere detaljer</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Det gjeldende abonnementet ditt omfatter ikke Mobile Hotspot-tjenesten for smarttelefon, som gjør det mulig å dele telefonens datatilkobling med andre enheter. Vil du legge til Mobile Hotspot-tjenesten for smarttelefon i abonnementet ditt? Du kan også legge den til på Internett ved å gå til https://my.t-mobile.com under Manage &gt; Plans and Services (Administrer &gt; Abonnementer og tjenester).</string>
+  <string name="tmo_error_msg_title">Tjenesteoppgradering nødvendig</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Hvis du vil abonnere på Mobile Hotspot / Mobile Broadband Connect, ringer du: 
  Forbruker: (800) 256-4646 
  Bedrift: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Tjenesteoppgradering nødvendig</string>
-    <string name="tmo_error_msg">Det gjeldende abonnementet ditt omfatter ikke Mobile Hotspot-tjenesten for smarttelefon, som gjør det mulig å dele telefonens datatilkobling med andre enheter. Vil du legge til Mobile Hotspot-tjenesten for smarttelefon i abonnementet ditt? Du kan også legge den til på Internett ved å gå til https://my.t-mobile.com under Manage > Plans and Services (Administrer > Abonnementer og tjenester).</string>
-    <string name="app_name">Berettigelse</string>
-    <string name="network_connection_title">Feil ved nettverkstilkobling</string>
-    <string name="network_connection_error_msg">Telefonen kan ikke kobles til serveren til %s for øyeblikket. Prøv på nytt senere.</string>
-    <string name="mobile_hotspot">Mobile Hotspot</string>
-    <string name="spg_dlg_normaltext">Hvis du vil bruke Mobile Hotspot, må du abonnere på Mobile Hotspot-tjenesten</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Finn ut mer, og start et abonnement på Mobile Hotspot ved å gå til My Verizon.</a></string>
-    <string name="browser_error_msg">Kan ikke åpne nettleser.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Avbryt</string>
-    <string name="alert_dialog_yes_button">Ja</string>
-    <string name="alert_dialog_no_button">Nei</string>
-    <string name="alert_dialog_upgrade_button">Oppgrader</string>
-    <string name="alert_dialog_later_button">Senere</string>
-    <string name="att_error_msg">Gå til att.com/mywireless eller ring 611 for å aktivere</string>
-    <string name="att_error_msg_title">Kontoen er ikke konfigurert for tilknytning</string>
-    <string name="att_error_msg_other">Det har oppstått et midlertidig nettverksproblem som forhindrer aktivering av Mobile Hotspot-funksjonen. Prøv på nytt senere</string>
-    <string name="att_error_msg_other_title">Nettverksfeil</string>
-    <string name="sprint_error_msg">Kan ikke koble til datanettverket. Du abonnerer kanskje ikke på tjenesten for tilknytning eller Wi-Fi-sone. Kontakt telefonselskapet.</string>
-    <string name="sprint_error_msg_lte">Du abonnerer ikke på tjenesten for tilknytning og Wi-Fi-sone. Ønsker du å se abonnementsalternativer?</string>
-    <string name="sprint_error_msg_3g">Kan ikke koble til datanettverket – slår av tilknytning eller Wi-Fi-sone. Du abonnerer kanskje ikke på tjenesten for tilknytning eller Wi-Fi-sone. Ønsker du å se abonnementsalternativer?</string>
-    <string name="sprint_error_msg_title">Feil ved tilknytning eller Wi-Fi-sone</string>
-    <string name="sprint_notification_msg">Trykk for å se flere detaljer</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Bestillingen kunne ikke behandles</string>
 </resources>

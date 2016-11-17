@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">MotoSignatureApp</string>
-    <string name="permlab_registerSmartNotifications">Register with smart notifications</string>
-    <string name="permdesc_registerSmartNotifications">Allows end point apps signed with Motorola signature to register with sync engine of smart notifications</string>
-    <string name="permlab_readNdef">Read Android Beam data</string>
-    <string name="permdesc_readNdef">Allows the app to read Android Beam data from another app</string>
-    <string name="permlab_accessDrm">Access DRM content.</string>
-    <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
-    <string name="permlab_volumeSetting">Define Volume Settings</string>
-    <string name="permdesc_volumeSetting">Allows defintion of the volume panel and hardware key behavior</string>
-    <string name="permlab_cameradump">Retrieve internal camera state</string>
-    <string name="permdesc_cameradump">Allows an application to retrieve internal state information from the camera service.</string>
-    <string name="permdesc_accessCogRadio">Access radio diagnostic data</string>
-    <string name="permlab_accessCogRadio">Allow app to access radio diagnostic data.</string>
-    <string name="permlab_accessCheckin">permission to access the checkin provider</string>
-    <string name="permdesc_accessCheckin">Allows system apps to access the Checkin Provider.</string>
+  <string name="app_name">MotoSignatureApp</string>
+  <string name="permdesc_accessCheckin">Allows system apps to access the Checkin Provider.</string>
+  <string name="permdesc_accessCogRadio">Access radio diagnostic data</string>
+  <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
+  <string name="permdesc_cameradump">Allows an application to retrieve internal state information from the camera service.</string>
+  <string name="permdesc_readNdef">Allows the app to read Android Beam data from another app</string>
+  <string name="permdesc_registerSmartNotifications">Allows end point apps signed with Motorola signature to register with sync engine of smart notifications</string>
+  <string name="permdesc_volumeSetting">Allows defintion of the volume panel and hardware key behavior</string>
+  <string name="permlab_accessCheckin">permission to access the checkin provider</string>
+  <string name="permlab_accessCogRadio">Allow app to access radio diagnostic data.</string>
+  <string name="permlab_accessDrm">Access DRM content.</string>
+  <string name="permlab_cameradump">Retrieve internal camera state</string>
+  <string name="permlab_readNdef">Read Android Beam data</string>
+  <string name="permlab_registerSmartNotifications">Register with smart notifications</string>
+  <string name="permlab_volumeSetting">Define Volume Settings</string>
 </resources>

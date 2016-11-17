@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Tarkistetaan tilauksen tilaa. Odota hetki...</string>
-    <string name="vzw_error_msg_title">Tilausta ei voitu käsitellä</string>
-    <string name="vzw_error_msg">"Jos haluat tilata matkapuhelinverkon yhteyspisteen / Mobile Broadband Connectin, soita: 
+  <string name="alert_dialog_later_button">Myöhemmin</string>
+  <string name="alert_dialog_negative_button">Peruuta</string>
+  <string name="alert_dialog_no_button">Ei</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Päivitä</string>
+  <string name="alert_dialog_yes_button">Kyllä</string>
+  <string name="app_name">Oikeus</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Ota asetukset käyttöön osoitteessa att.com/mywireless tai soita 611</string>
+  <string name="att_error_msg_other">Verkkoyhteydessä on tilapäinen ongelma, joka estää matkapuhelinverkon yhteyspisteen käyttöönoton. Yritä myöhemmin uudelleen.</string>
+  <string name="att_error_msg_other_title">Verkkovirhe</string>
+  <string name="att_error_msg_title">Tilin asetuksia ei määritetty jakoa varten</string>
+  <string name="browser_error_msg">Selainta ei voi avata.</string>
+  <string name="feature_check_msg">Tarkistetaan tilauksen tilaa. Odota hetki...</string>
+  <string name="mobile_hotspot">Puh.verkon yht.piste</string>
+  <string name="network_connection_error_msg">Puhelimesi ei saa yhteyttä %s-palvelimeen. Yritä myöhemmin uudelleen.</string>
+  <string name="network_connection_title">Verkkoyhteysvirhe</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Lue lis&amp;#228;&amp;#228; ja tilaa Mobile Hotspot siirtym&amp;#228;ll&amp;#228; My Verizon -palveluun.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Jos haluat käyttää matkapuhelinverkon yhteyspistettä, sinun täytyy tilata Mobile Hotspot -palvelu</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Ei yhteyttä dataverkkoon. Et ehkä ole tilannut jakamis- tai yhteyspistepalvelua. Ota yhteys operaattoriin.</string>
+  <string name="sprint_error_msg_3g">Ei yhteyttä dataverkkoon, jakaminen tai yhteyspiste poistetaan käytöstä. Palvelupakettiisi ei ehkä sisälly jakamis- ja yhteyspistepalvelu. Haluatko nähdä tilausvaihtoehdot.</string>
+  <string name="sprint_error_msg_lte">Et ole jakamis- tai yhteyspistepalvelun tilaaja. Haluatko nähdä tilausvaihtoehdot?</string>
+  <string name="sprint_error_msg_title">Jakamis- tai yhteyspistevirhe</string>
+  <string name="sprint_notification_msg">Lue lisätietoja koskettamalla</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Nykyinen siirtosopimuksesi ei sisällä Smartphone Mobile HotSpot -palvelua, jonka avulla puhelimen datayhteyden voi jakaa muiden laitteiden kanssa. Haluatko lisätä Smartphone Mobile HotSpot -palvelun siirtosopimukseesi? Voit lisätä sen myös osoitteessa https://my.t-mobile.com valitsemalla Hallinta &gt; Palvelupaketit ja palvelut.</string>
+  <string name="tmo_error_msg_title">Palvelun päivitys tarvitaan</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Jos haluat tilata matkapuhelinverkon yhteyspisteen / Mobile Broadband Connectin, soita: 
  kuluttaja: (800) 256 4646, 
  yritys: (800) 899 4249."</string>
-    <string name="tmo_error_msg_title">Palvelun päivitys tarvitaan</string>
-    <string name="tmo_error_msg">Nykyinen siirtosopimuksesi ei sisällä Smartphone Mobile HotSpot -palvelua, jonka avulla puhelimen datayhteyden voi jakaa muiden laitteiden kanssa. Haluatko lisätä Smartphone Mobile HotSpot -palvelun siirtosopimukseesi? Voit lisätä sen myös osoitteessa https://my.t-mobile.com valitsemalla Hallinta > Palvelupaketit ja palvelut.</string>
-    <string name="app_name">Oikeus</string>
-    <string name="network_connection_title">Verkkoyhteysvirhe</string>
-    <string name="network_connection_error_msg">Puhelimesi ei saa yhteyttä %s-palvelimeen. Yritä myöhemmin uudelleen.</string>
-    <string name="mobile_hotspot">Puh.verkon yht.piste</string>
-    <string name="spg_dlg_normaltext">Jos haluat käyttää matkapuhelinverkon yhteyspistettä, sinun täytyy tilata Mobile Hotspot -palvelu</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Lue lisää ja tilaa Mobile Hotspot siirtymällä My Verizon -palveluun.</a></string>
-    <string name="browser_error_msg">Selainta ei voi avata.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Peruuta</string>
-    <string name="alert_dialog_yes_button">Kyllä</string>
-    <string name="alert_dialog_no_button">Ei</string>
-    <string name="alert_dialog_upgrade_button">Päivitä</string>
-    <string name="alert_dialog_later_button">Myöhemmin</string>
-    <string name="att_error_msg">Ota asetukset käyttöön osoitteessa att.com/mywireless tai soita 611</string>
-    <string name="att_error_msg_title">Tilin asetuksia ei määritetty jakoa varten</string>
-    <string name="att_error_msg_other">Verkkoyhteydessä on tilapäinen ongelma, joka estää matkapuhelinverkon yhteyspisteen käyttöönoton. Yritä myöhemmin uudelleen.</string>
-    <string name="att_error_msg_other_title">Verkkovirhe</string>
-    <string name="sprint_error_msg">Ei yhteyttä dataverkkoon. Et ehkä ole tilannut jakamis- tai yhteyspistepalvelua. Ota yhteys operaattoriin.</string>
-    <string name="sprint_error_msg_lte">Et ole jakamis- tai yhteyspistepalvelun tilaaja. Haluatko nähdä tilausvaihtoehdot?</string>
-    <string name="sprint_error_msg_3g">Ei yhteyttä dataverkkoon, jakaminen tai yhteyspiste poistetaan käytöstä. Palvelupakettiisi ei ehkä sisälly jakamis- ja yhteyspistepalvelu. Haluatko nähdä tilausvaihtoehdot.</string>
-    <string name="sprint_error_msg_title">Jakamis- tai yhteyspistevirhe</string>
-    <string name="sprint_notification_msg">Lue lisätietoja koskettamalla</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Tilausta ei voitu käsitellä</string>
 </resources>

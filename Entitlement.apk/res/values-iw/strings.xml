@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">בודק מצב מנוי. נא להמתין...</string>
-    <string name="vzw_error_msg_title">לא ניתן לעבד את ההזמנה שלך</string>
-    <string name="vzw_error_msg">"אם ברצונך להירשם ל-Mobile Hotspot/Mobile Broadband Connect, חייג: 
+  <string name="alert_dialog_later_button">מאוחר יותר</string>
+  <string name="alert_dialog_negative_button">בטל</string>
+  <string name="alert_dialog_no_button">לא</string>
+  <string name="alert_dialog_positive_button">אישור</string>
+  <string name="alert_dialog_upgrade_button">שדרג</string>
+  <string name="alert_dialog_yes_button">כן</string>
+  <string name="app_name">זכאות</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">כדי לאפשר, עבור אל att.com/mywireless או חייג 611</string>
+  <string name="att_error_msg_other">יש בעיה זמנית ברשת שמונעת את הפעלת הפונקציה של נקודה חמה סלולרית. נסה שוב מאוחר יותר.</string>
+  <string name="att_error_msg_other_title">שגיאת רשת</string>
+  <string name="att_error_msg_title">החשבון לא מוגדר לקשירה</string>
+  <string name="browser_error_msg">לא ניתן לפתוח דפדפן.</string>
+  <string name="feature_check_msg">בודק מצב מנוי. נא להמתין...</string>
+  <string name="mobile_hotspot">נקודה חמה סלולרית</string>
+  <string name="network_connection_error_msg">הטלפון שלך אינו יכול להתחבר כעת לשרת של %s. נסה שוב מאוחר יותר.</string>
+  <string name="network_connection_title">שגיאת חיבור לרשת</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#1511;&amp;#1489;&amp;#1500; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1493;&amp;#1492;&amp;#1497;&amp;#1512;&amp;#1513;&amp;#1501; &amp;#1500;&amp;#1504;&amp;#1511;&amp;#1493;&amp;#1491;&amp;#1492; &amp;#1495;&amp;#1502;&amp;#1492; &amp;#1505;&amp;#1500;&amp;#1493;&amp;#1500;&amp;#1512;&amp;#1497;&amp;#1514; &amp;#1506;&amp;#1500;-&amp;#1497;&amp;#1491;&amp;#1497; &amp;#1489;&amp;#1497;&amp;#1511;&amp;#1493;&amp;#1512; &amp;#1489;-My Verizon&amp;#8207;.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">כדי להשתמש בנקודה חמה סלולרית, יהיה עליך להירשם לשירות לנקודה חמה סלולרית</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">לא ניתן להתחבר לרשת נתונים; ייתכן שאינך מנוי לשירות קשירה או נקודה חמה; פנה אל חברת הטלפון שלך.</string>
+  <string name="sprint_error_msg_3g">"לא ניתן להתחבר לרשת נתונים, מכבה 'קשירה' או 'נקודה חמה'. ייתכן שהתוכנית שלך לא כוללת את השירות 'קשירה ונקודה חמה'. האם ברצונך לראות אפשרויות מנוי?"</string>
+  <string name="sprint_error_msg_lte">"אינך מנוי לשירות 'קשירה ונקודה חמה', האם ברצונך לראות אפשרויות מנוי?"</string>
+  <string name="sprint_error_msg_title">שגיאת קשירה או נקודה חמה</string>
+  <string name="sprint_notification_msg">גע כדי לראות פרטים נוספים</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">תוכנית התעריפים הנוכחית שלך אינה כוללת את שירות Smartphone Mobile HotSpot, המאפשר לשתף את חיבור הנתונים של הטלפון עם התקנים אחרים. האם ברצונך להוסיף את שירות Smartphone Mobile HotSpot לתוכנית התעריפים שלך? אתה יכול גם להוסיף אותו באופן מקוון בכתובת https://my.t-mobile.com תחת Manage &gt; Plans and Services.</string>
+  <string name="tmo_error_msg_title">דרוש שדרוג שירות</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"אם ברצונך להירשם ל-Mobile Hotspot/Mobile Broadband Connect, חייג: 
  צרכנים פרטיים: ‎(800) 256-4646, 
  עסקים: ‎(800) 899-4249."</string>
-    <string name="tmo_error_msg_title">דרוש שדרוג שירות</string>
-    <string name="tmo_error_msg">תוכנית התעריפים הנוכחית שלך אינה כוללת את שירות Smartphone Mobile HotSpot, המאפשר לשתף את חיבור הנתונים של הטלפון עם התקנים אחרים. האם ברצונך להוסיף את שירות Smartphone Mobile HotSpot לתוכנית התעריפים שלך? אתה יכול גם להוסיף אותו באופן מקוון בכתובת https://my.t-mobile.com תחת Manage > Plans and Services.</string>
-    <string name="app_name">זכאות</string>
-    <string name="network_connection_title">שגיאת חיבור לרשת</string>
-    <string name="network_connection_error_msg">הטלפון שלך אינו יכול להתחבר כעת לשרת של %s. נסה שוב מאוחר יותר.</string>
-    <string name="mobile_hotspot">נקודה חמה סלולרית</string>
-    <string name="spg_dlg_normaltext">כדי להשתמש בנקודה חמה סלולרית, יהיה עליך להירשם לשירות לנקודה חמה סלולרית</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">קבל מידע נוסף והירשם לנקודה חמה סלולרית על-ידי ביקור ב-My Verizon‏.</a></string>
-    <string name="browser_error_msg">לא ניתן לפתוח דפדפן.</string>
-    <string name="alert_dialog_positive_button">אישור</string>
-    <string name="alert_dialog_negative_button">בטל</string>
-    <string name="alert_dialog_yes_button">כן</string>
-    <string name="alert_dialog_no_button">לא</string>
-    <string name="alert_dialog_upgrade_button">שדרג</string>
-    <string name="alert_dialog_later_button">מאוחר יותר</string>
-    <string name="att_error_msg">כדי לאפשר, עבור אל att.com/mywireless או חייג 611</string>
-    <string name="att_error_msg_title">החשבון לא מוגדר לקשירה</string>
-    <string name="att_error_msg_other">יש בעיה זמנית ברשת שמונעת את הפעלת הפונקציה של נקודה חמה סלולרית. נסה שוב מאוחר יותר.</string>
-    <string name="att_error_msg_other_title">שגיאת רשת</string>
-    <string name="sprint_error_msg">לא ניתן להתחבר לרשת נתונים; ייתכן שאינך מנוי לשירות קשירה או נקודה חמה; פנה אל חברת הטלפון שלך.</string>
-    <string name="sprint_error_msg_lte">"אינך מנוי לשירות 'קשירה ונקודה חמה', האם ברצונך לראות אפשרויות מנוי?"</string>
-    <string name="sprint_error_msg_3g">"לא ניתן להתחבר לרשת נתונים, מכבה 'קשירה' או 'נקודה חמה'. ייתכן שהתוכנית שלך לא כוללת את השירות 'קשירה ונקודה חמה'. האם ברצונך לראות אפשרויות מנוי?"</string>
-    <string name="sprint_error_msg_title">שגיאת קשירה או נקודה חמה</string>
-    <string name="sprint_notification_msg">גע כדי לראות פרטים נוספים</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">לא ניתן לעבד את ההזמנה שלך</string>
 </resources>

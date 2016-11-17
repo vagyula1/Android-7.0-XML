@@ -1,568 +1,568 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="common_google_play_services_unknown_issue">‏%1$s در ارتباط با سرویس‌های Google Play با مشکل روبروست. اگر مشکل ادامه داشت، لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
-    <string name="common_google_play_services_notification_ticker">‏خطا در سرویس Google Play</string>
-    <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
-    <string name="common_google_play_services_install_text_phone">‏%1$s بدون سرویس‌های Google Play که در تلفن شما وجود ندارد، اجرا نمی‌شود.</string>
-    <string name="common_google_play_services_install_text_tablet">‏%1$s بدون سرویس‌های Google Play که در رایانه لوحی شما وجود ندارد، اجرا نمی‌شود.</string>
-    <string name="common_google_play_services_install_button">‏دریافت سرویس‌های Google Play</string>
-    <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
-    <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
-    <string name="common_google_play_services_enable_button">‏‫فعال کردن سرویس‌های Google Play</string>
-    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
-    <string name="common_google_play_services_update_text">‏تا وقتی سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
-    <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
-    <string name="common_google_play_services_updating_title">‏سرویس‌‌های Google Play درحال به‌روزرسانی</string>
-    <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
-    <string name="common_google_play_services_network_error_title">خطای شبکه</string>
-    <string name="common_google_play_services_network_error_text">‏برای اتصال به سرویس‌های Google Play اتصال داده‌ لازم است.</string>
-    <string name="common_google_play_services_invalid_account_title">حساب نامعتبر است</string>
-    <string name="common_google_play_services_invalid_account_text">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
-    <string name="common_google_play_services_unsupported_title">‏سرویس‌های Google Play</string>
-    <string name="common_google_play_services_unsupported_text">‏%1$s بر سرویس‌های Google Play متکی است که توسط دستگاهتان پشتیبانی نمی‌شود. برای دریافت کمک با سازنده تماس بگیرید.</string>
-    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
-    <string name="common_open_on_phone">باز کردن در تلفن</string>
-    <string name="common_google_play_services_api_unavailable_text">‏%1$s به یک یا چند سرویس Google Play نیاز دارد که درحال حاضر در دسترس نیستند. لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
-    <string name="common_google_play_services_sign_in_failed_title">وارد سیستم نشد</string>
-    <string name="common_google_play_services_sign_in_failed_text">هنگام وارد شدن به سیستم حساب مشخص‌شده خطایی روی داد. لطفاً یک حساب دیگر انتخاب کنید.</string>
-    <string name="common_google_play_services_restricted_profile_title">نمایه محدودشده</string>
-    <string name="common_google_play_services_restricted_profile_text">دسترسی به حساب‌ها از یک نمایه محدودشده پشتیبانی ‌نمی‌شود.</string>
-    <string name="common_signin_button_text">ورود به سیستم</string>
-    <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
-    <string name="wifi_fail_to_scan">اسکن شبکه‌ها امکان‌پذیر نیست</string>
-    <string name="wifi_security_none">هیچ‌کدام</string>
-    <string name="wifi_remembered">ذخیره‌شده</string>
-    <string name="wifi_disabled_generic">غیرفعال شد</string>
-    <string name="wifi_disabled_network_failure">‏پیکربندی IP انجام نشد</string>
-    <string name="wifi_disabled_wifi_failure">‏اتصال Wi-Fi برقرار نشد</string>
-    <string name="wifi_disabled_password_failure">مشکل تأیید اعتبار</string>
-    <string name="wifi_not_in_range">در محدوده نیست</string>
-    <string name="wifi_no_internet">دسترسی به اینترنت شناسایی نشد، به صورت خودکار وصل نمی‌شود.</string>
-    <string name="saved_network">ذخیره‌شده توسط %1$s</string>
-    <string name="connected_via_wfa">‏متصل شده از طریق دستیار Wi-Fi</string>
-    <string name="connected_via_passpoint">‏متصل از طریق %1$s</string>
-    <string name="available_via_passpoint">‏دردسترس از طریق %1$s</string>
-    <string name="wifi_connected_no_internet">متصل، بدون اینترنت</string>
-    <string name="bluetooth_disconnected">اتصال قطع شد</string>
-    <string name="bluetooth_disconnecting">در حال قطع اتصال...</string>
-    <string name="bluetooth_connecting">در حال اتصال…</string>
-    <string name="bluetooth_connected">متصل</string>
-    <string name="bluetooth_pairing">در حال مرتبط‌سازی...</string>
-    <string name="bluetooth_connected_no_headset">متصل شد (بدون تلفن)</string>
-    <string name="bluetooth_connected_no_a2dp">متصل شد (بدون رسانه)</string>
-    <string name="bluetooth_connected_no_map">متصل (عدم دسترسی به پیام)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">متصل شد (بدون تلفن یا رسانه)</string>
-    <string name="bluetooth_profile_a2dp">رسانه صوتی</string>
-    <string name="bluetooth_profile_headset">صدای تلفن</string>
-    <string name="bluetooth_profile_opp">انتقال فایل</string>
-    <string name="bluetooth_profile_hid">دستگاه ورودی</string>
-    <string name="bluetooth_profile_pan">دسترسی به اینترنت</string>
-    <string name="bluetooth_profile_pbap">اشتراک‌گذاری مخاطب</string>
-    <string name="bluetooth_profile_pbap_summary">استفاده برای اشتراک‌گذاری مخاطب</string>
-    <string name="bluetooth_profile_pan_nap">اشتراک‌گذاری اتصال اینترنت</string>
-    <string name="bluetooth_profile_map">دسترسی به پیام</string>
-    <string name="bluetooth_profile_sap">دسترسی سیم‌کارت</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">به رسانه صوتی متصل شد</string>
-    <string name="bluetooth_headset_profile_summary_connected">به تلفن صوتی متصل شد</string>
-    <string name="bluetooth_opp_profile_summary_connected">به سرور انتقال فایل متصل شد</string>
-    <string name="bluetooth_map_profile_summary_connected">به نقشه متصل شد</string>
-    <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
-    <string name="bluetooth_opp_profile_summary_not_connected">به سرور انتقال فایل متصل نیست</string>
-    <string name="bluetooth_hid_profile_summary_connected">به دستگاه ورودی متصل شد</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">برای دسترسی به اینترنت، به دستگاه متصل شد</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">اشتراک‌گذاری اتصال اینترنت محلی با دستگاه</string>
-    <string name="bluetooth_pan_profile_summary_use_for">استفاده برای دسترسی به اینترنت</string>
-    <string name="bluetooth_map_profile_summary_use_for">استفاده برای نقشه</string>
-    <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
-    <string name="bluetooth_a2dp_profile_summary_use_for">استفاده برای رسانه صوتی</string>
-    <string name="bluetooth_headset_profile_summary_use_for">استفاده برای تلفن صوتی</string>
-    <string name="bluetooth_opp_profile_summary_use_for">استفاده برای انتقال فایل</string>
-    <string name="bluetooth_hid_profile_summary_use_for">استفاده برای چاپ</string>
-    <string name="bluetooth_pairing_accept">مرتبط‌سازی</string>
-    <string name="bluetooth_pairing_accept_all_caps">مرتبط‌سازی</string>
-    <string name="bluetooth_pairing_decline">لغو</string>
-    <string name="bluetooth_pairing_will_share_phonebook">وقتی وصل باشید، مرتبط‌سازی اجازه دسترسی به مخاطبین و سابقه تماستان را فراهم می‌کند.</string>
-    <string name="bluetooth_pairing_error_message">با %1$s مرتبط‌سازی نشد.</string>
-    <string name="bluetooth_pairing_pin_error_message">به خاطر یک پین یا کلیدواژه نادرست، مرتبط‌سازی با %1$s انجام نشد.</string>
-    <string name="bluetooth_pairing_device_down_error_message">ارتباط با %1$s امکان‌پذیر نیست.</string>
-    <string name="bluetooth_pairing_rejected_error_message">%1$s مرتبط‌سازی را رد کرد.</string>
-    <string name="accessibility_wifi_off">‏Wi‑Fi خاموش است.</string>
-    <string name="accessibility_no_wifi">‏Wi-Fi قطع‌ شد.</string>
-    <string name="accessibility_wifi_one_bar">‏یک نوار برای Wi‑Fi.</string>
-    <string name="accessibility_wifi_two_bars">‏دو نوار برای Wi‑Fi.</string>
-    <string name="accessibility_wifi_three_bars">‏سه نوار برای Wi‑Fi.</string>
-    <string name="accessibility_wifi_signal_full">‏قدرت سیگنال Wi‑Fi کامل است.</string>
-    <string name="process_kernel_label">‏سیستم عامل Android</string>
-    <string name="data_usage_uninstalled_apps">برنامه‌های حذف شده</string>
-    <string name="data_usage_uninstalled_apps_users">برنامه‌ها و کاربران حذف شده</string>
-    <string name="tether_settings_title_usb">‏اتصال داده با سیم USB</string>
-    <string name="tether_settings_title_wifi">نقطه اتصال قابل حمل</string>
-    <string name="tether_settings_title_bluetooth">اتصال اینترنت با تلفن همراه بلوتوث</string>
-    <string name="tether_settings_title_usb_bluetooth">اتصال به اینترنت با تلفن همراه</string>
-    <string name="tether_settings_title_all">تترینگ و نقطه اتصال قابل حمل</string>
-    <string name="managed_user_title">نمایه کاری</string>
-    <string name="user_guest">مهمان</string>
-    <string name="unknown">ناشناس</string>
-    <string name="running_process_item_user_label">کاربر: %1$s</string>
-    <string name="launch_defaults_some">بعضی پیش‌فرض‌ها تنظیم شده‌اند</string>
-    <string name="launch_defaults_none">هیچ پیش‌فرضی تنظیم نشده است</string>
-    <string name="tts_settings">تنظیمات متن به گفتار</string>
-    <string name="tts_settings_title">خروجی تبدیل متن به گفتار</string>
-    <string name="tts_default_rate_title">سرعت گفتار</string>
-    <string name="tts_default_rate_summary">سرعتی که متن خوانده می‌شود</string>
-    <string name="tts_default_pitch_title">زیر و بمی صدا</string>
-    <string name="tts_default_pitch_summary">بر صدای متن گفته شده تأثیر می‌گذارد</string>
-    <string name="tts_default_lang_title">زبان</string>
-    <string name="tts_lang_use_system">استفاده از زبان سیستم</string>
-    <string name="tts_lang_not_selected">زبان انتخاب نشده است</string>
-    <string name="tts_default_lang_summary">صدای خاص یک زبان را برای متن گفتاری تنظیم می‌کند</string>
-    <string name="tts_play_example_title">به نمونه‌ای گوش کنید</string>
-    <string name="tts_play_example_summary">قسمت کوتاهی از ترکیب گفتار پخش شود</string>
-    <string name="tts_install_data_title">نصب داده‌های صوتی</string>
-    <string name="tts_install_data_summary">نصب داده‌های صوتی مورد نیاز برای ترکیب گفتار</string>
-    <string name="tts_engine_security_warning">این موتور ترکیب صوتی ممکن است بتواند تمام متن گفته شده را جمع‌آوری کند، از جمله اطلاعات شخصی مانند رمزهای ورود و شماره‌های کارت اعتباری. این کارها توسط موتور%s انجام می‌شود. استفاده از این موتور ترکیب صوتی را فعال می‌کنید؟</string>
-    <string name="tts_engine_network_required">این زبان به یک اتصال شبکه فعال برای خروجی نوشتار به گفتار نیاز دارد.</string>
-    <string name="tts_default_sample_string">این نمونه‌ای از ترکیب گفتار است</string>
-    <string name="tts_status_title">وضعیت زبان پیش‌فرض</string>
-    <string name="tts_status_ok">%1$s کاملاً پشتیبانی می‌شود</string>
-    <string name="tts_status_requires_network">%1$s به اتصال شبکه نیاز دارد</string>
-    <string name="tts_status_not_supported">%1$s پشتیبانی نمی‌شود</string>
-    <string name="tts_status_checking">در حال بررسی…</string>
-    <string name="tts_engine_settings_title">تنظیمات برای %s</string>
-    <string name="tts_engine_settings_button">راه‌اندازی تنظیمات موتور</string>
-    <string name="tts_engine_preference_section_title">موتور ترجیحی</string>
-    <string name="tts_general_section_title">کلی</string>
-    <string name="choose_profile">انتخاب نمایه</string>
-    <string name="category_personal">شخصی</string>
-    <string name="category_work">محل کار</string>
-    <string name="development_settings_title">گزینه‌های برنامه‌نویسان</string>
-    <string name="development_settings_enable">فعال کردن گزینه‌های برنامه‌نویس</string>
-    <string name="development_settings_summary">تنظیم گزینه‌های مربوط به طراحی برنامه</string>
-    <string name="development_settings_not_available">گزینه‌های برنامه‌نویس برای این کاربر موجود نیست</string>
-    <string name="vpn_settings_not_available">‏تنظیمات VPN برای این کاربر در دسترس نیست</string>
-    <string name="tethering_settings_not_available">تنظیمات تترینگ برای این کاربر در دسترس نیست</string>
-    <string name="apn_settings_not_available">تنظیمات نام تقطه دسترسی برای این کاربر در دسترس نیست</string>
-    <string name="enable_adb">‏اشکال‌زدایی USB</string>
-    <string name="enable_adb_summary">‏با اتصال USB، حالت اشکال‌زدایی فعال شود</string>
-    <string name="clear_adb_keys">‏لغو مجوزهای اشکال‌زدایی USB</string>
-    <string name="bugreport_in_power">میان‌بر گزارش مشکل</string>
-    <string name="bugreport_in_power_summary">نمایش دکمه‌ای در منوی روشن/خاموش برای گرفتن گزارش اشکال</string>
-    <string name="keep_screen_on">بیدار ماندن</string>
-    <string name="keep_screen_on_summary">صفحه هرگز در حین شارژ شدن به حالت خواب نمی‌رود</string>
-    <string name="bt_hci_snoop_log">‏فعال کردن گزارش تجسس Bluetooth HCI</string>
-    <string name="bt_hci_snoop_log_summary">‏ذخیره تمامی بسته‌های HCI بلوتوث در یک فایل</string>
-    <string name="oem_unlock_enable">بازکردن سازنده تجهیزات اصلی</string>
-    <string name="oem_unlock_enable_summary">اجازه دهید قفل بوت‌لودر باز شود</string>
-    <string name="confirm_enable_oem_unlock_title">‏بازکردن سازنده تجهیزات اصلی مجاز (OEM) است؟</string>
-    <string name="confirm_enable_oem_unlock_text">اخطار: قابلیت‌های حفاظتی دستگاه وقتی این تنظیم روشن است در این دستگاه کار نمی‌کند.</string>
-    <string name="mock_location_app">انتخاب برنامه موقعیت مکانی ساختگی</string>
-    <string name="mock_location_app_not_set">هیچ برنامه موقعیت مکانی ساختگی تنظیم نشده است</string>
-    <string name="mock_location_app_set">برنامه موقعیت مکانی ساختگی: %1$s</string>
-    <string name="debug_networking_category">شبکه</string>
-    <string name="wifi_display_certification">گواهینامه نمایش بی‌سیم</string>
-    <string name="wifi_verbose_logging">‏فعال کردن گزارش‌گیری طولانی Wi‑Fi</string>
-    <string name="wifi_aggressive_handover">‏Wi‑Fi فعال برای واگذاری به شبکه سلولی</string>
-    <string name="wifi_allow_scan_with_traffic">‏اسکن‌های رومینگ Wi‑Fi همیشه مجاز است</string>
-    <string name="legacy_dhcp_client">‏استفاده از کلاینت DHCP قدیمی</string>
-    <string name="mobile_data_always_on">داده سلولی همیشه فعال</string>
-    <string name="bluetooth_disable_absolute_volume">غیرفعال کردن میزان صدای مطلق</string>
-    <string name="wifi_display_certification_summary">نمایش گزینه‌ها برای گواهینامه نمایش بی‌سیم</string>
-    <string name="wifi_verbose_logging_summary">‏افزایش سطح گزارش‌گیری Wi‑Fi، نمایش به ازای SSID RSSI در انتخاب‌کننده Wi‑Fi</string>
-    <string name="wifi_aggressive_handover_summary">‏وقتی فعال است، در شرایط پایین بودن سیگنال، Wi‑Fi برای واگذار کردن اتصال داده به شبکه سلولی فعال‌تر خواهد بود.</string>
-    <string name="wifi_allow_scan_with_traffic_summary">‏مجاز/غیرمجاز کردن اسکن‌های رومینگ Wi‑Fi براساس مقدار ترافیک داده موجود در واسط</string>
-    <string name="select_logd_size_title">اندازه‌های حافظه موقت ثبت‌کننده</string>
-    <string name="select_logd_size_dialog_title">انتخاب اندازه‌ ثبت‌کننده در حافظه موقت ثبت</string>
-    <string name="select_usb_configuration_title">‏انتخاب پیکربندی USB</string>
-    <string name="select_usb_configuration_dialog_title">‏انتخاب پیکربندی USB</string>
-    <string name="allow_mock_location">مکان‌های کاذب مجاز هستند</string>
-    <string name="allow_mock_location_summary">مکان‌های کاذب مجاز هستند</string>
-    <string name="debug_view_attributes">فعال کردن بازبینی ویژگی بازدید</string>
-    <string name="legacy_dhcp_client_summary">‏به جای کلاینت Android DHCP جدید، از کلاینت Lollipop DHCP استفاده کنید.</string>
-    <string name="mobile_data_always_on_summary">‏داده سلولی همیشه فعال نگه داشته می‌شود، حتی وقتی Wi-Fi فعال است (برای جابه‌جایی سریع شبکه).</string>
-    <string name="adb_warning_title">‏اشکال‌زدایی USB انجام شود؟</string>
-    <string name="adb_warning_message">‏اشکال‌زدایی USB فقط برای اهداف برنامه‌نویسی در نظر گرفته شده است. از آن برای رونوشت‌برداری داده بین رایانه و دستگاهتان، نصب برنامه‌ها در دستگاهتان بدون اعلان و خواندن داده‌های گزارش استفاده کنید.</string>
-    <string name="adb_keys_warning_message">‏دسترسی به اشکال‌زدایی USB از تمام رایانه‌هایی که قبلاً مجاز دانسته‌اید لغو شود؟</string>
-    <string name="dev_settings_warning_title">تنظیمات برنامه‌نویسی مجاز باشد؟</string>
-    <string name="dev_settings_warning_message">این تنظیمات فقط برای برنامه‌نویسی در نظر گرفته شده است. ممکن است استفاده از این تنظیمات موجب خرابی یا عملکرد نادرست دستگاه یا برنامه‌های شما شود.</string>
-    <string name="verify_apps_over_usb_title">‏تأیید برنامه‌های نصب شده از طریق USB</string>
-    <string name="verify_apps_over_usb_summary">‏برنامه‌های نصب شده از طریق ADB/ADT را ازنظر رفتار مخاطره‌آمیز بررسی کنید.</string>
-    <string name="bluetooth_disable_absolute_volume_summary">در صورت وجود مشکل میزان صدا با دستگاه‌های راه دور مثل میزان صدای بلند ناخوشایند یا عدم کنترل صدا، قابلیت میزان صدای کامل بلوتوث را غیرفعال کنید.</string>
-    <string name="enable_terminal_title">ترمینال محلی</string>
-    <string name="enable_terminal_summary">فعال کردن ترمینال برنامه‌ کاربردی که دسترسی به برنامه محلی را پیشنهاد می‌کند</string>
-    <string name="hdcp_checking_title">‏بررسی HDCP</string>
-    <string name="hdcp_checking_dialog_title">‏تنظیم عملکرد بررسی HDCP</string>
-    <string name="debug_debugging_category">اشکال‌زدایی</string>
-    <string name="debug_app">انتخاب برنامه اشکال‌زدایی</string>
-    <string name="debug_app_not_set">هیچ برنامه اشکال‌زدایی‌ای تنظیم نشده است</string>
-    <string name="debug_app_set">در حال اشکال‌زدایی برنامه: %1$s</string>
-    <string name="select_application">انتخاب برنامه</string>
-    <string name="no_application">هیچ چیز</string>
-    <string name="wait_for_debugger">انتظار برای اشکال‌زدا</string>
-    <string name="wait_for_debugger_summary">برنامه اشکال‌زدایی شده منتظر پیوست شدن اشکال‌زدا قبل از اجرا است</string>
-    <string name="debug_input_category">ورودی</string>
-    <string name="debug_drawing_category">طراحی</string>
-    <string name="debug_hw_drawing_category">پردازش سخت‌افزاری سریع</string>
-    <string name="media_category">رسانه</string>
-    <string name="debug_monitoring_category">نظارت</string>
-    <string name="strict_mode">حالت شدید فعال شد</string>
-    <string name="strict_mode_summary">چشمک زدن صفحه هنگام انجام عملیات طولانی توسط برنامه‌ها در رشته اصلی</string>
-    <string name="pointer_location">محل اشاره‌گر</string>
-    <string name="pointer_location_summary">هم‌پوشانی صفحهٔ نمایش با نمایش داده لمسی فعلی</string>
-    <string name="show_touches">نمایش ضربه‌ها</string>
-    <string name="show_touches_summary">نمایش بازخورد تصویری برای ضربه‌ها</string>
-    <string name="show_screen_updates">نمایش به‌روزرسانی سطح</string>
-    <string name="show_screen_updates_summary">هنگام به‌روزرسانی سطوح پنجره همه فلش شوند</string>
-    <string name="show_hw_screen_updates">‏نمایش به روزرسانی‌های نمای GPU</string>
-    <string name="show_hw_screen_updates_summary">‏در طراحی با GPU، نماها در داخل پنجره‌ها فلش شوند</string>
-    <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
-    <string name="show_hw_layers_updates_summary">وقتی لایه‌های سخت‌افزاری به‌روزرسانی‌ می‌شوند، به رنگ سبز درآیند</string>
-    <string name="debug_hw_overdraw">‏اشکال‌زدایی بازنویسی GPU</string>
-    <string name="disable_overlays">‏غیر فعال کردن پوشش HW</string>
-    <string name="disable_overlays_summary">‏همیشه از GPU در ترکیب صفحه استفاده شود</string>
-    <string name="simulate_color_space">شبیه‌سازی فضای رنگ</string>
-    <string name="enable_opengl_traces_title">‏فعال کردن ردیابی‌های OpenGL</string>
-    <string name="usb_audio_disable_routing">‏غیرفعال کردن مسیریابی صوتی USB</string>
-    <string name="usb_audio_disable_routing_summary">‏غیرفعال کردن مسیریابی خودکار به وسایل جانبی صوتی USB</string>
-    <string name="debug_layout">نمایش محدوده‌های طرح‌بندی</string>
-    <string name="debug_layout_summary">نمایش مرزها، حاشیه‌ها و ویژگی‌های دیگر کلیپ.</string>
-    <string name="force_rtl_layout_all_locales">‏اجباری کردن چیدمان RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">‏اجباری کردن چیدمان RTL صفحه برای همه زبان‌ها</string>
-    <string name="show_cpu_usage">‏نمایش میزان استفاده از CPU</string>
-    <string name="show_cpu_usage_summary">‏هم‌پوشانی صفحهٔ نمایش میزان استفاده از CPU فعلی</string>
-    <string name="force_hw_ui">‏پردازش اجباری GPU</string>
-    <string name="force_hw_ui_summary">‏استفاده اجباری از GPU برای طراحی دوم</string>
-    <string name="force_msaa">‏اجبار 4x MSAA</string>
-    <string name="force_msaa_summary">‏فعال کردن 4X MSAA در برنامه‌های OpenGL ES 2.0</string>
-    <string name="show_non_rect_clip">اشکال‌زدایی عملکردهای کلیپ غیرمربعی</string>
-    <string name="track_frame_time">‏پردازش GPU نمایه</string>
-    <string name="window_animation_scale_title">مقیاس پویانمایی پنجره</string>
-    <string name="transition_animation_scale_title">مقیاس پویانمایی انتقالی</string>
-    <string name="animator_duration_scale_title">مقیاس طول مدت انیماتور</string>
-    <string name="overlay_display_devices_title">شبیه‌سازی نمایشگر ثانویه</string>
-    <string name="debug_applications_category">برنامه‌ها</string>
-    <string name="immediately_destroy_activities">فعالیت‌ها نگه داشته نشوند</string>
-    <string name="immediately_destroy_activities_summary">از بین بردن هر فعالیت به محض خروج کاربر از آن</string>
-    <string name="app_process_limit_title">محدودیت پردازش در پس‌زمینه</string>
-    <string name="show_all_anrs">‏نمایش تمام ANRها</string>
-    <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
-    <string name="force_allow_on_external">اجازه اجباری به برنامه‌های دستگاه ذخیره خارجی</string>
-    <string name="force_allow_on_external_summary">بدون توجه به مقادیر مانیفست، هر برنامه‌ای را برای نوشتن در حافظه خارجی واجد شرایط می‌کند</string>
-    <string name="force_resizable_activities">اجبار فعالیت‌ها به قابل تغییر اندازه بودن</string>
-    <string name="force_resizable_activities_summary">بدون توجه به مقادیر مانیفست، اندازه همه فعالیت‌ها برای حالت چند پنجره‌ای می‌تواند تغییر کند.</string>
-    <string name="enable_freeform_support">فعال کردن پنجره‌های آزاد</string>
-    <string name="enable_freeform_support_summary">فعال کردن پشتیبانی برای پنجره‌های آزاد آزمایشی.</string>
-    <string name="local_backup_password_title">گذرواژه پشتیبان‌گیری محلی</string>
-    <string name="local_backup_password_summary_none">پشتیبان‌گیری کامل رایانه درحال حاضر محافظت نمی‌شود</string>
-    <string name="local_backup_password_summary_change">برای تغییر یا حذف گذرواژه برای نسخه‌های پشتیبان کامل رایانه‌ای ضربه بزنید</string>
-    <string name="local_backup_password_toast_success">گذرواژه جدید نسخهٔ پشتیبان تنظیم شد</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">گذرواژه جدید و تأیید آن با یکدیگر مطابقت ندارند</string>
-    <string name="local_backup_password_toast_validation_failure">گذرواژه پشتیبان‌گیری تنظیم نشد</string>
-    <string name="inactive_apps_title">برنامه‌های غیرفعال</string>
-    <string name="inactive_app_inactive_summary">غیرفعال. برای تغییر حالت ضربه بزنید.</string>
-    <string name="inactive_app_active_summary">فعال. برای تغییر حالت ضربه بزنید.</string>
-    <string name="runningservices_settings_title">سرویس‌های در حال اجرا</string>
-    <string name="runningservices_settings_summary">مشاهده و کنترل سرویس‌های در حال اجرای فعلی</string>
-    <string name="enable_webview_multiprocess">فعال کردن وب‌نمای چندپردازشی</string>
-    <string name="enable_webview_multiprocess_desc">اجرای تولیدکننده تصویر وب‌نما در یک پردازش مجزا.</string>
-    <string name="select_webview_provider_title">اجرای وب‌نما</string>
-    <string name="select_webview_provider_dialog_title">تنظیم اجرای وب‌نما</string>
-    <string name="convert_to_file_encryption">تبدیل به رمزگذاری برحسب فایل</string>
-    <string name="convert_to_file_encryption_enabled">تبدیل…</string>
-    <string name="convert_to_file_encryption_done">از قبل به رمزگذاری بر حسب فایل تبدیل شده است</string>
-    <string name="title_convert_fbe">تبدیل به رمزگذاری مبتنی بر فایل</string>
-    <string name="convert_to_fbe_warning">"تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
+  <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+  <string name="abc_action_bar_home_description_format">‏%1$s‏، %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏، %2$s‏، %3$s</string>
+  <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+  <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+  <string name="abc_action_mode_done">تمام</string>
+  <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
+  <string name="abc_search_hint">جستجو…</string>
+  <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+  <string name="abc_searchview_description_query">عبارت جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">این قابلیت آزمایشی است و ممکن است عملکرد را تحت تأثیر قرار دهد.</string>
+  <string name="accessibility_display_daltonizer_preference_title">تصحیح رنگ</string>
+  <string name="accessibility_no_wifi">‏Wi-Fi قطع‌ شد.</string>
+  <string name="accessibility_wifi_off">‏Wi‑Fi خاموش است.</string>
+  <string name="accessibility_wifi_one_bar">‏یک نوار برای Wi‑Fi.</string>
+  <string name="accessibility_wifi_signal_full">‏قدرت سیگنال Wi‑Fi کامل است.</string>
+  <string name="accessibility_wifi_three_bars">‏سه نوار برای Wi‑Fi.</string>
+  <string name="accessibility_wifi_two_bars">‏دو نوار برای Wi‑Fi.</string>
+  <string name="account_exists_info">"‏رایانامه، مخاطبین، رویدادهای تقویم و موارد دیگر با این تلفن همگام‌سازی خواهند شد. همچنین آماده هستید از Google Play برنامه، موسیقی و بازی بارگیری کنید.
+
+می‌توانید بعداً با رفتن به «تنظیمات &gt; حساب‌ها»، حساب‌ها را اضافه و حذف کنید."</string>
+  <string name="account_exists_text_single">&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium"&gt;^1&lt;/annotation&gt; &amp;#1570;&amp;#1605;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1575;&amp;#1587;&amp;#1578;.</string>
+  <string name="account_exists_text_unknown_name">حساب شما آماده است.</string>
+  <string name="account_exists_title">{accounts,plural, =1{حساب اضافه شد}one{حساب‌ها اضافه شدند}other{حساب‌ها اضافه شدند}}</string>
+  <string name="activation_button_label">فعال کردن</string>
+  <string name="activation_cancel_text">در حال لغو فعال‌سازی...این کار ممکن است 5 تا ۱۰ ثانیه طول بکشد.</string>
+  <string name="activation_cancel_title">لغو درخواست شد</string>
+  <string name="activation_canceled_text">"‏می‌خواهید فعال‌سازی را لغو کنید؟ قبل از اینکه بتوانید از خدمات شبکه همراه برای اتصال به اینترنت استفاده کنید باید آن را فعال کنید.
+
+برای تکمیل راه‌اندازی با استفاده از اتصال Wi-Fi، روی "&lt;b&gt;&amp;#1576;&amp;#1593;&amp;#1583;&amp;#1740;&lt;/b&gt;" &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;.
+
+&amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1576;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1611; &amp;#1583;&amp;#1585; "&lt;b&gt;&amp;#1578;&amp;#1606;&amp;#1592;&amp;#1740;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1587;&amp;#1740;&amp;#1587;&amp;#1578;&amp;#1605; &amp;gt; &amp;#1576;&amp;#1740;&amp;#8204;&amp;#1587;&amp;#1740;&amp;#1605; &amp;#1608; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575; &amp;gt; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607;&lt;/b&gt;&amp;#1548; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_canceled_text_standalone">"‏فعال‌سازی لغو شد.
+
+می‌توانید بعداً در "&lt;b&gt;&amp;#1578;&amp;#1606;&amp;#1592;&amp;#1740;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1587;&amp;#1740;&amp;#1587;&amp;#1578;&amp;#1605; &amp;gt; &amp;#1576;&amp;#1740;&amp;#8204;&amp;#1587;&amp;#1740;&amp;#1605; &amp;#1608; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575; &amp;gt; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1587;&amp;#1604;&amp;#1608;&amp;#1604;&amp;#1740;&lt;/b&gt;&amp;#1548; &amp;#1587;&amp;#1585;&amp;#1608;&amp;#1740;&amp;#1587; &amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_canceled_title">فعال سازی لغو شد</string>
+  <string name="activation_continue_skip_label">ادامه</string>
+  <string name="activation_default_network_name">شبکهٔ تلفن همراه</string>
+  <string name="activation_failed_message">"می‌توانید:
+"&lt;li&gt;&amp;#1587;&amp;#1593;&amp;#1740; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1583;&amp;#1608;&amp;#1576;&amp;#1575;&amp;#1585;&amp;#1607; &amp;#1576;&amp;#1607; &amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607; &amp;#1608;&amp;#1589;&amp;#1604; &amp;#1588;&amp;#1608;&amp;#1740;&amp;#1583;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1575;&amp;#1586; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607; &amp;#1583;&amp;#1740;&amp;#1711;&amp;#1585;&amp;#1740; &amp;#1576;&amp;#1585;&amp;#1575;&amp;#1740; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;&lt;/li&gt;"
+
+&amp;#1575;&amp;#1711;&amp;#1585; &amp;#1575;&amp;#1740;&amp;#1606; &amp;#1711;&amp;#1586;&amp;#1740;&amp;#1606;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575; &amp;#1705;&amp;#1575;&amp;#1585; &amp;#1606;&amp;#1705;&amp;#1585;&amp;#1583; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1605;&amp;#1580;&amp;#1583;&amp;#1583; &amp;#1705;&amp;#1585;&amp;#1583;&amp;#1607; &amp;#1608; &amp;#1583;&amp;#1608;&amp;#1576;&amp;#1575;&amp;#1585;&amp;#1607; &amp;#1575;&amp;#1605;&amp;#1578;&amp;#1581;&amp;#1575;&amp;#1606; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;."</string>
+  <string name="activation_failed_title">اتصال به داده شبکه تلفن همراه ممکن نیست</string>
+  <string name="activation_failure_text">"پس از یک دقیقه دوباره امتحان کنید یا اگر همچنان این مشکل ادامه دارد، تلفنتان را مجدداً راه‌اندازی کنید.
+
+اگر ترجیح می‌دهید اکنون از این مرحله رد شوید، حتماً از طریق تنظیمات سیستم بعداً فعال‌سازی را انجام دهید. تا زمانی که آن را فعال نکرده‌اید، تلفنتان اتصال داده شبکه تلفن همراه نخواهد داشت."</string>
+  <string name="activation_failure_text_gen">فعال کردن سرویس داده تلفن همراه شما ممکن نیست. این ممکن است یک خطای موقت باشد و با راه‌اندازی مجدد گوشی برطرف شود.</string>
+  <string name="activation_failure_text_standalone">‏خدمات داده تلفن همراه فعال نشد. برای امتحان دوباره فعال‌سازی، روی &lt;b&gt;&amp;#1575;&amp;#1605;&amp;#1578;&amp;#1581;&amp;#1575;&amp;#1606; &amp;#1605;&amp;#1580;&amp;#1583;&amp;#1583;&lt;/b&gt;" &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;.
+
+&amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1576;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1611; &amp;#1583;&amp;#1585; "&lt;b&gt;&amp;#1578;&amp;#1606;&amp;#1592;&amp;#1740;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1587;&amp;#1740;&amp;#1587;&amp;#1578;&amp;#1605; &amp;gt; &amp;#1576;&amp;#1740;&amp;#8204;&amp;#1587;&amp;#1740;&amp;#1605; &amp;#1608; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575; &amp;gt; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607;&amp;#8204;&amp;#8204;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607;&lt;/b&gt;&amp;#1548; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607; &amp;#1585;&amp;#1575; &amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_failure_title">فعال نمی‌شود</string>
+  <string name="activation_network_bars_template">قدرت سیگنال %d بار</string>
+  <string name="activation_progress">‏ممکن است فعال‌سازی چند دقیقه طول بکشد. یا روی &lt;b&gt;&amp;#1585;&amp;#1583; &amp;#1588;&amp;#1583;&amp;#1606;&lt;/b&gt; &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1578;&amp;#1575; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1580;&amp;#1575;&amp;#1740; &amp;#1570;&amp;#1606; &amp;#1576;&amp;#1575; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1575;&amp;#1586; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; Wi-Fi&amp;#1548; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1585;&amp;#1575; &amp;#1578;&amp;#1705;&amp;#1605;&amp;#1740;&amp;#1604; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_progress_before_connect">‏روی &lt;b&gt;&amp;#1585;&amp;#1583; &amp;#1588;&amp;#1583;&amp;#1606;&lt;/b&gt; &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1578;&amp;#1575; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1580;&amp;#1575;&amp;#1740; &amp;#1570;&amp;#1606; &amp;#1576;&amp;#1575; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1575;&amp;#1586; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; Wi-Fi&amp;#1548; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1585;&amp;#1575; &amp;#1578;&amp;#1705;&amp;#1605;&amp;#1740;&amp;#1604; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_progress_before_connect_standalone">فعال‌سازی ممکن است چند دقیقه طول بکشد.</string>
+  <string name="activation_progress_flow">"بیش از حد طول کشیده است؟
+
+اتصال به داده شبکه تلفن همراه کمی طول کشیده است. می‌توانید برگردید و سعی کنید به جای آن به شبکه دیگری متصل شوید."</string>
+  <string name="activation_progress_gen">ممکن است تا ۵ دقیقه طول بکشد</string>
+  <string name="activation_progress_mobile_data">"این تلفن در حال فعال کردن خدمات داده شبکه همراه شما است.
+
+این کار حداکثر ۵ دقیقه زمان می‌برد."</string>
+  <string name="activation_progress_standalone">فعال سازی ممکن است چند دقیقه طول بکشد.</string>
+  <string name="activation_skip_confirmation">"تا زمانی که سرویس داده‌های تلفن همراه خود را فعال نکنید، بسیاری از ویژگی‌های تلفن شما کار نخواهند کرد.
+
+اگر ترجیح می‌دهید فعلاً از این مرحله رد شوید، می‌توانید آن را بعداً در تنظیمات سیستم فعال کنید."</string>
+  <string name="activation_skip_text">اگر فعال‌سازی را رد می‌کنید، حتماً بعداً در تنظیمات آن را انجام دهید. تا زمانی که فعال‌سازی را انجام ندهید، تلفن شما اتصال داده سلولی نخواهد داشت.</string>
+  <string name="activation_spc_failure_text">خطایی روی داده است و برای اینکه بتوانید دوباره فعال‌سازی را امتحان کنید باید تلفنتان را خاموش و راه‌اندازی مجدد کنید. تلفن به‌طور خودکار پس از ۶۰ ثانیه خاموش می‌شود یا می‌توانید روی &lt;b&gt;&amp;#1575;&amp;#1705;&amp;#1606;&amp;#1608;&amp;#1606; &amp;#1582;&amp;#1575;&amp;#1605;&amp;#1608;&amp;#1588; &amp;#1588;&amp;#1608;&amp;#1583;&lt;/b&gt;" &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;.
+
+&amp;#1608;&amp;#1602;&amp;#1578;&amp;#1740; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1582;&amp;#1575;&amp;#1605;&amp;#1608;&amp;#1588; &amp;#1588;&amp;#1583;&amp;#1548; &amp;#1583;&amp;#1705;&amp;#1605;&amp;#1607; &amp;#1585;&amp;#1608;&amp;#1588;&amp;#1606;/&amp;#1582;&amp;#1575;&amp;#1605;&amp;#1608;&amp;#1588; &amp;#1585;&amp;#1575; &amp;#1601;&amp;#1588;&amp;#1575;&amp;#1585; &amp;#1583;&amp;#1607;&amp;#1740;&amp;#1583; &amp;#1578;&amp;#1575; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1605;&amp;#1580;&amp;#1583;&amp;#1583; &amp;#1588;&amp;#1608;&amp;#1583;. &amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604;&amp;#8204;&amp;#1587;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1591;&amp;#1608;&amp;#1585; &amp;#1582;&amp;#1608;&amp;#1583;&amp;#1705;&amp;#1575;&amp;#1585; &amp;#1588;&amp;#1585;&amp;#1608;&amp;#1593; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1588;&amp;#1608;&amp;#1583;."</string>
+  <string name="activation_success_text">برای ادامه دادن راه‌اندازی، روی &lt;b&gt;&amp;#1576;&amp;#1593;&amp;#1583;&amp;#1740;&lt;/b&gt; &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_success_text_gen">دستگاه شما برای تکمیل فعال‌سازی باید دوباره راه‌اندازی شود.</string>
+  <string name="activation_success_text_standalone">برای ادامه دادن، روی &lt;b&gt;&amp;#1576;&amp;#1593;&amp;#1583;&amp;#1740;&lt;/b&gt;" &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;.
+
+&amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604;&amp;#8204;&amp;#1587;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1576;&amp;#1575; &amp;#1605;&amp;#1608;&amp;#1601;&amp;#1602;&amp;#1740;&amp;#1578; &amp;#1575;&amp;#1606;&amp;#1580;&amp;#1575;&amp;#1605; &amp;#1588;&amp;#1583;&amp;#1548; &amp;#1575;&amp;#1605;&amp;#1575; &amp;#1605;&amp;#1605;&amp;#1705;&amp;#1606; &amp;#1575;&amp;#1587;&amp;#1578; &amp;#1670;&amp;#1606;&amp;#1583; &amp;#1583;&amp;#1602;&amp;#1740;&amp;#1602;&amp;#1607; &amp;#1591;&amp;#1608;&amp;#1604; &amp;#1576;&amp;#1705;&amp;#1588;&amp;#1583; &amp;#1578;&amp;#1575; &amp;#1583;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1588;&amp;#1576;&amp;#1705;&amp;#1607; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1607;&amp;#1605;&amp;#1585;&amp;#1575;&amp;#1607; &amp;#1583;&amp;#1585; &amp;#1583;&amp;#1587;&amp;#1578;&amp;#1585;&amp;#1587; &amp;#1602;&amp;#1585;&amp;#1575;&amp;#1585; &amp;#1576;&amp;#1711;&amp;#1740;&amp;#1585;&amp;#1583;."</string>
+  <string name="activation_success_title">فعال سازی انجام شد</string>
+  <string name="activation_text">‏برای فعال کردن خدمات تلفن همراه در این لحظه، روی &lt;b&gt;&amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604;&amp;#8204;&amp;#1587;&amp;#1575;&amp;#1586;&amp;#1740;&lt;/b&gt;" &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;. (&amp;#1605;&amp;#1605;&amp;#1705;&amp;#1606; &amp;#1575;&amp;#1587;&amp;#1578; &amp;#1670;&amp;#1606;&amp;#1583; &amp;#1583;&amp;#1602;&amp;#1740;&amp;#1602;&amp;#1607; &amp;#1591;&amp;#1608;&amp;#1604; &amp;#1576;&amp;#1705;&amp;#1588;&amp;#1583;.)
+
+&amp;#1740;&amp;#1575; &amp;#1585;&amp;#1608;&amp;#1740; "&lt;b&gt;&amp;#1585;&amp;#1583; &amp;#1588;&amp;#1583;&amp;#1606;&lt;/b&gt; &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583; &amp;#1578;&amp;#1575; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1580;&amp;#1575;&amp;#1740; &amp;#1570;&amp;#1606; &amp;#1576;&amp;#1575; &amp;#1575;&amp;#1587;&amp;#1578;&amp;#1601;&amp;#1575;&amp;#1583;&amp;#1607; &amp;#1575;&amp;#1586; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; Wi-Fi&amp;#1548; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1585;&amp;#1575;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1606;&amp;#1583;&amp;#1575;&amp;#1586;&amp;#1740; &amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;.</string>
+  <string name="activation_text_standalone">برای فعال کردن خدمات تلفن همراه در این لحظه، روی &lt;b&gt;&amp;#1601;&amp;#1593;&amp;#1575;&amp;#1604;&amp;#8204;&amp;#1587;&amp;#1575;&amp;#1586;&amp;#1740;&lt;/b&gt; &amp;#1590;&amp;#1585;&amp;#1576;&amp;#1607; &amp;#1576;&amp;#1586;&amp;#1606;&amp;#1740;&amp;#1583;. (&amp;#1605;&amp;#1605;&amp;#1705;&amp;#1606; &amp;#1575;&amp;#1587;&amp;#1578; &amp;#1670;&amp;#1606;&amp;#1583; &amp;#1583;&amp;#1602;&amp;#1740;&amp;#1602;&amp;#1607; &amp;#1591;&amp;#1608;&amp;#1604; &amp;#1576;&amp;#1705;&amp;#1588;&amp;#1583;.)</string>
+  <string name="activation_title">در حال فعال کردن سرویس شبکه همراه…</string>
+  <string name="activation_title_activating">در حال فعال کردن سرویس شبکه همراه…</string>
+  <string name="activation_title_searching">در حال جستجوی سرویس...</string>
+  <string name="adb_keys_warning_message">‏دسترسی به اشکال‌زدایی USB از تمام رایانه‌هایی که قبلاً مجاز دانسته‌اید لغو شود؟</string>
+  <string name="adb_warning_message">‏اشکال‌زدایی USB فقط برای اهداف برنامه‌نویسی در نظر گرفته شده است. از آن برای رونوشت‌برداری داده بین رایانه و دستگاهتان، نصب برنامه‌ها در دستگاهتان بدون اعلان و خواندن داده‌های گزارش استفاده کنید.</string>
+  <string name="adb_warning_title">‏اشکال‌زدایی USB انجام شود؟</string>
+  <string name="allow_mock_location">مکان‌های کاذب مجاز هستند</string>
+  <string name="allow_mock_location_summary">مکان‌های کاذب مجاز هستند</string>
+  <string name="android_privacy_policy_title">سایر موارد خط‌مشی رازداری</string>
+  <string name="animator_duration_scale_title">مقیاس طول مدت انیماتور</string>
+  <string name="apn_settings_not_available">تنظیمات نام تقطه دسترسی برای این کاربر در دسترس نیست</string>
+  <string name="app_process_limit_title">محدودیت پردازش در پس‌زمینه</string>
+  <string name="available_via_passpoint">‏دردسترس از طریق %1$s</string>
+  <string name="battery_info_status_charging">در حال شارژ شدن</string>
+  <string name="battery_info_status_charging_ac">شارژ با جریان متناوب</string>
+  <string name="battery_info_status_charging_usb">‏شارژ از طریق USB</string>
+  <string name="battery_info_status_charging_wireless">شارژ به صورت بی‌سیم</string>
+  <string name="battery_info_status_discharging">شارژ نمی‌شود</string>
+  <string name="battery_info_status_full">پر</string>
+  <string name="battery_info_status_not_charging">شارژ نمی‌شود</string>
+  <string name="battery_info_status_unknown">ناشناس</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">به رسانه صوتی متصل شد</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">استفاده برای رسانه صوتی</string>
+  <string name="bluetooth_connected">متصل</string>
+  <string name="bluetooth_connected_no_a2dp">متصل شد (بدون رسانه)</string>
+  <string name="bluetooth_connected_no_headset">متصل شد (بدون تلفن)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">متصل شد (بدون تلفن یا رسانه)</string>
+  <string name="bluetooth_connected_no_map">متصل (عدم دسترسی به پیام)</string>
+  <string name="bluetooth_connecting">در حال اتصال…</string>
+  <string name="bluetooth_disable_absolute_volume">غیرفعال کردن میزان صدای مطلق</string>
+  <string name="bluetooth_disable_absolute_volume_summary">در صورت وجود مشکل میزان صدا با دستگاه‌های راه دور مثل میزان صدای بلند ناخوشایند یا عدم کنترل صدا، قابلیت میزان صدای کامل بلوتوث را غیرفعال کنید.</string>
+  <string name="bluetooth_disconnected">اتصال قطع شد</string>
+  <string name="bluetooth_disconnecting">در حال قطع اتصال...</string>
+  <string name="bluetooth_headset_profile_summary_connected">به تلفن صوتی متصل شد</string>
+  <string name="bluetooth_headset_profile_summary_use_for">استفاده برای تلفن صوتی</string>
+  <string name="bluetooth_hid_profile_summary_connected">به دستگاه ورودی متصل شد</string>
+  <string name="bluetooth_hid_profile_summary_use_for">استفاده برای چاپ</string>
+  <string name="bluetooth_map_profile_summary_connected">به نقشه متصل شد</string>
+  <string name="bluetooth_map_profile_summary_use_for">استفاده برای نقشه</string>
+  <string name="bluetooth_opp_profile_summary_connected">به سرور انتقال فایل متصل شد</string>
+  <string name="bluetooth_opp_profile_summary_not_connected">به سرور انتقال فایل متصل نیست</string>
+  <string name="bluetooth_opp_profile_summary_use_for">استفاده برای انتقال فایل</string>
+  <string name="bluetooth_pairing">در حال مرتبط‌سازی...</string>
+  <string name="bluetooth_pairing_accept">مرتبط‌سازی</string>
+  <string name="bluetooth_pairing_accept_all_caps">مرتبط‌سازی</string>
+  <string name="bluetooth_pairing_decline">لغو</string>
+  <string name="bluetooth_pairing_device_down_error_message">ارتباط با %1$s امکان‌پذیر نیست.</string>
+  <string name="bluetooth_pairing_error_message">با %1$s مرتبط‌سازی نشد.</string>
+  <string name="bluetooth_pairing_pin_error_message">به خاطر یک پین یا کلیدواژه نادرست، مرتبط‌سازی با %1$s انجام نشد.</string>
+  <string name="bluetooth_pairing_rejected_error_message">%1$s مرتبط‌سازی را رد کرد.</string>
+  <string name="bluetooth_pairing_will_share_phonebook">وقتی وصل باشید، مرتبط‌سازی اجازه دسترسی به مخاطبین و سابقه تماستان را فراهم می‌کند.</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">اشتراک‌گذاری اتصال اینترنت محلی با دستگاه</string>
+  <string name="bluetooth_pan_profile_summary_use_for">استفاده برای دسترسی به اینترنت</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">برای دسترسی به اینترنت، به دستگاه متصل شد</string>
+  <string name="bluetooth_profile_a2dp">رسانه صوتی</string>
+  <string name="bluetooth_profile_headset">صدای تلفن</string>
+  <string name="bluetooth_profile_hid">دستگاه ورودی</string>
+  <string name="bluetooth_profile_map">دسترسی به پیام</string>
+  <string name="bluetooth_profile_opp">انتقال فایل</string>
+  <string name="bluetooth_profile_pan">دسترسی به اینترنت</string>
+  <string name="bluetooth_profile_pan_nap">اشتراک‌گذاری اتصال اینترنت</string>
+  <string name="bluetooth_profile_pbap">اشتراک‌گذاری مخاطب</string>
+  <string name="bluetooth_profile_pbap_summary">استفاده برای اشتراک‌گذاری مخاطب</string>
+  <string name="bluetooth_profile_sap">دسترسی سیم‌کارت</string>
+  <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
+  <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
+  <string name="bt_hci_snoop_log">‏فعال کردن گزارش تجسس Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">‏ذخیره تمامی بسته‌های HCI بلوتوث در یک فایل</string>
+  <string name="bugreport_in_power">میان‌بر گزارش مشکل</string>
+  <string name="bugreport_in_power_summary">نمایش دکمه‌ای در منوی روشن/خاموش برای گرفتن گزارش اشکال</string>
+  <string name="button_convert_fbe">پاک کردن و تبدیل…</string>
+  <string name="cancel_button_label">لغو</string>
+  <string name="canceled_a11y">حالت دسترس پذیری لغو شد.</string>
+  <string name="cant_be_blank">این فیلد نمی‌تواند خالی باشد.</string>
+  <string name="captive_portal_connection_unsuccessful">به اینترنت وصل نشد</string>
+  <string name="captive_portal_sign_in_dialog_title">اتصال در دسترس است</string>
+  <string name="category_personal">شخصی</string>
+  <string name="category_work">محل کار</string>
+  <string name="charge_length_format">%1$s قبل</string>
+  <string name="check_qr_dependencies_again">دوباره امتحان کنید</string>
+  <string name="choose_profile">انتخاب نمایه</string>
+  <string name="chrome_privacy_title">‏اعلان حریم خصوصی Chrome</string>
+  <string name="chrome_tos_title">‏شرایط خدمات Chrome</string>
+  <string name="clear_adb_keys">‏لغو مجوزهای اشکال‌زدایی USB</string>
+  <string name="close_button_label">بستن</string>
+  <string name="common_google_play_services_api_unavailable_text">‏%1$s به یک یا چند سرویس Google Play نیاز دارد که درحال حاضر در دسترس نیستند. لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
+  <string name="common_google_play_services_enable_button">‏‫فعال کردن سرویس‌های Google Play</string>
+  <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+  <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
+  <string name="common_google_play_services_install_button">‏دریافت سرویس‌های Google Play</string>
+  <string name="common_google_play_services_install_text_phone">‏%1$s بدون سرویس‌های Google Play که در تلفن شما وجود ندارد، اجرا نمی‌شود.</string>
+  <string name="common_google_play_services_install_text_tablet">‏%1$s بدون سرویس‌های Google Play که در رایانه لوحی شما وجود ندارد، اجرا نمی‌شود.</string>
+  <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید.</string>
+  <string name="common_google_play_services_invalid_account_title">حساب نامعتبر است</string>
+  <string name="common_google_play_services_network_error_text">‏برای اتصال به سرویس‌های Google Play اتصال داده‌ لازم است.</string>
+  <string name="common_google_play_services_network_error_title">خطای شبکه</string>
+  <string name="common_google_play_services_notification_ticker">‏خطا در سرویس Google Play</string>
+  <string name="common_google_play_services_restricted_profile_text">دسترسی به حساب‌ها از یک نمایه محدودشده پشتیبانی ‌نمی‌شود.</string>
+  <string name="common_google_play_services_restricted_profile_title">نمایه محدودشده</string>
+  <string name="common_google_play_services_sign_in_failed_text">هنگام وارد شدن به سیستم حساب مشخص‌شده خطایی روی داد. لطفاً یک حساب دیگر انتخاب کنید.</string>
+  <string name="common_google_play_services_sign_in_failed_title">وارد سیستم نشد</string>
+  <string name="common_google_play_services_unknown_issue">‏%1$s در ارتباط با سرویس‌های Google Play با مشکل روبروست. اگر مشکل ادامه داشت، لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید.</string>
+  <string name="common_google_play_services_unsupported_text">‏%1$s بر سرویس‌های Google Play متکی است که توسط دستگاهتان پشتیبانی نمی‌شود. برای دریافت کمک با سازنده تماس بگیرید.</string>
+  <string name="common_google_play_services_unsupported_title">‏سرویس‌های Google Play</string>
+  <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+  <string name="common_google_play_services_update_text">‏تا وقتی سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+  <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+  <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+  <string name="common_google_play_services_updating_title">‏سرویس‌‌های Google Play درحال به‌روزرسانی</string>
+  <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+  <string name="common_open_on_phone">باز کردن در تلفن</string>
+  <string name="common_signin_button_text">ورود به سیستم</string>
+  <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
+  <string name="confirm_enable_oem_unlock_text">اخطار: قابلیت‌های حفاظتی دستگاه وقتی این تنظیم روشن است در این دستگاه کار نمی‌کند.</string>
+  <string name="confirm_enable_oem_unlock_title">‏بازکردن سازنده تجهیزات اصلی مجاز (OEM) است؟</string>
+  <string name="connected_via_passpoint">‏متصل از طریق %1$s</string>
+  <string name="connected_via_wfa">‏متصل شده از طریق دستیار Wi-Fi</string>
+  <string name="continue_for_a11y">به لمس کردن صفحه ادامه دهید تا یک صدای بیپ برای فعال شدن حالت دسترس‌پذیری بشنوید.</string>
+  <string name="convert_to_fbe_warning">"تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
  !!هشدار!! این کار تمام داده‌هایتان را پاک می‌کند.
  این قابلیت در نسخه آلفا قرار دارد و ممکن است به درستی کار نکند.
  برای ادامه، «پاک کردن و تبدیل…» را فشار دهید."</string>
-    <string name="button_convert_fbe">پاک کردن و تبدیل…</string>
-    <string name="picture_color_mode">حالت رنگ عکس</string>
-    <string name="picture_color_mode_desc">‏استفاده از sRGB</string>
-    <string name="daltonizer_mode_disabled">غیر فعال</string>
-    <string name="daltonizer_mode_monochromacy">تک‌رنگ‌بینی</string>
-    <string name="daltonizer_mode_deuteranomaly">سبزدشواربینی (قرمز-سبز)</string>
-    <string name="daltonizer_mode_protanomaly">قرمزدشواربینی (قرمز-سبز)</string>
-    <string name="daltonizer_mode_tritanomaly">آبی‌دشواربینی (آبی-زرد)</string>
-    <string name="accessibility_display_daltonizer_preference_title">تصحیح رنگ</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">این قابلیت آزمایشی است و ممکن است عملکرد را تحت تأثیر قرار دهد.</string>
-    <string name="daltonizer_type_overridden">توسط %1$s لغو شد</string>
-    <string name="power_remaining_duration_only">تقریباً %1$s باقی مانده است</string>
-    <string name="power_discharging_duration">%1$s - تقریباً ‏%2$s باقی مانده است</string>
-    <string name="power_charging">%1$s - ‏%2$s</string>
-    <string name="power_charging_duration">%1$s - ‏%2$s تا شارژ کامل</string>
-    <string name="power_charging_duration_ac">%1$s - ‏%2$s تا شارژ کامل با جریان متناوب</string>
-    <string name="power_charging_duration_usb">‏%1$s - ‏%2$s تا شارژ کامل از طریق USB</string>
-    <string name="power_charging_duration_wireless">%1$s - ‏%2$s تا شارژ کامل به‌طور بی‌سیم</string>
-    <string name="battery_info_status_unknown">ناشناس</string>
-    <string name="battery_info_status_charging">در حال شارژ شدن</string>
-    <string name="battery_info_status_charging_ac">شارژ با جریان متناوب</string>
-    <string name="battery_info_status_charging_usb">‏شارژ از طریق USB</string>
-    <string name="battery_info_status_charging_wireless">شارژ به صورت بی‌سیم</string>
-    <string name="battery_info_status_discharging">شارژ نمی‌شود</string>
-    <string name="battery_info_status_not_charging">شارژ نمی‌شود</string>
-    <string name="battery_info_status_full">پر</string>
-    <string name="disabled_by_admin_summary_text">توسط سرپرست سیستم کنترل می‌شود</string>
-    <string name="enabled_by_admin">سرپرست آن را فعال کرده است</string>
-    <string name="disabled_by_admin">سرپرست آن را غیرفعال کرده است</string>
-    <string name="home">صفحه اصلی</string>
-    <string name="charge_length_format">%1$s قبل</string>
-    <string name="remaining_length_format">%1$s باقی مانده است</string>
-    <string name="screen_zoom_summary_small">کوچک</string>
-    <string name="screen_zoom_summary_default">پیش‌فرض</string>
-    <string name="screen_zoom_summary_large">بزرگ</string>
-    <string name="screen_zoom_summary_very_large">بزرگ‌تر</string>
-    <string name="screen_zoom_summary_extremely_large">بزرگ‌ترین</string>
-    <string name="screen_zoom_summary_custom">سفارشی (%d)</string>
-    <string name="suw_next_button_label">بعدی</string>
-    <string name="suw_back_button_label">برگشت</string>
-    <string name="suw_more_button_label">بیشتر</string>
-    <string name="abc_action_mode_done">تمام</string>
-    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
-    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
-    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
-    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
-    <string name="abc_action_bar_home_description_format">‏%1$s‏، %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏، %2$s‏، %3$s</string>
-    <string name="abc_searchview_description_search">جستجو</string>
-    <string name="abc_search_hint">جستجو…</string>
-    <string name="abc_searchview_description_query">عبارت جستجو</string>
-    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
-    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
-    <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
-    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
-    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
-    <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
-    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
-    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
-    <string name="abc_capital_on">روشن</string>
-    <string name="abc_capital_off">خاموش</string>
-    <string name="setup_wizard_title">برنامهٔ جادویی تنظیمات</string>
-    <string name="device_name">تلفن</string>
-    <string name="finish_button_label">پایان</string>
-    <string name="skip_button_label">رد شدن</string>
-    <string name="skip_anyway_button_label">با این وجود، رد شوید</string>
-    <string name="go_back_button_label">برگشت</string>
-    <string name="down_button_label">بیشتر</string>
-    <string name="cancel_button_label">لغو</string>
-    <string name="restart_button_label">راه‌اندازی مجدد</string>
-    <string name="try_again_button_label">دوباره امتحان کنید</string>
-    <string name="close_button_label">بستن</string>
-    <string name="got_it_button_label">متوجه شدم</string>
-    <string name="ok_button_label">تأیید</string>
-    <string name="dialog_back_button_label">برگشت</string>
-    <string name="dialog_continue_button_label">ادامه</string>
-    <string name="google_legal_title">‏شرایط حقوقی Google</string>
-    <string name="url_load_unsuccessful_message">تلفن شما به سرویس داده‌های تلفن همراه متصل نیست. برای اینکه این اطلاعات را هم‌اکنون مشاهده کنید، به %s در یک مرورگر وب بروید.</string>
-    <string name="start">شروع</string>
-    <string name="wait_msg">یک لحظه...</string>
-    <string name="skip_toast">از برنامه راهنمای نصب استفاده نشد</string>
-    <string name="terminate_toast">"برنامه راهنمای نصب متوقف شد
-دستگاه آماده نشد"</string>
-    <string name="activation_title">در حال فعال کردن سرویس شبکه همراه…</string>
-    <string name="activation_progress_flow">"بیش از حد طول کشیده است؟
+  <string name="convert_to_file_encryption">تبدیل به رمزگذاری برحسب فایل</string>
+  <string name="convert_to_file_encryption_done">از قبل به رمزگذاری بر حسب فایل تبدیل شده است</string>
+  <string name="convert_to_file_encryption_enabled">تبدیل…</string>
+  <string name="daltonizer_mode_deuteranomaly">سبزدشواربینی (قرمز-سبز)</string>
+  <string name="daltonizer_mode_disabled">غیر فعال</string>
+  <string name="daltonizer_mode_monochromacy">تک‌رنگ‌بینی</string>
+  <string name="daltonizer_mode_protanomaly">قرمزدشواربینی (قرمز-سبز)</string>
+  <string name="daltonizer_mode_tritanomaly">آبی‌دشواربینی (آبی-زرد)</string>
+  <string name="daltonizer_type_overridden">توسط %1$s لغو شد</string>
+  <string name="data_usage_uninstalled_apps">برنامه‌های حذف شده</string>
+  <string name="data_usage_uninstalled_apps_users">برنامه‌ها و کاربران حذف شده</string>
+  <string name="date_time_current_date">تاریخ</string>
+  <string name="date_time_current_time">زمان</string>
+  <string name="date_time_message">در صورت نیاز تنظیم کنید.</string>
+  <string name="date_time_setup_title">تاریخ و ساعت</string>
+  <string name="date_time_time_zone_full" formatted="false">%s ‏(%s)</string>
+  <string name="debug_app">انتخاب برنامه اشکال‌زدایی</string>
+  <string name="debug_app_not_set">هیچ برنامه اشکال‌زدایی‌ای تنظیم نشده است</string>
+  <string name="debug_app_set">در حال اشکال‌زدایی برنامه: %1$s</string>
+  <string name="debug_applications_category">برنامه‌ها</string>
+  <string name="debug_debugging_category">اشکال‌زدایی</string>
+  <string name="debug_drawing_category">طراحی</string>
+  <string name="debug_hw_drawing_category">پردازش سخت‌افزاری سریع</string>
+  <string name="debug_hw_overdraw">‏اشکال‌زدایی بازنویسی GPU</string>
+  <string name="debug_input_category">ورودی</string>
+  <string name="debug_layout">نمایش محدوده‌های طرح‌بندی</string>
+  <string name="debug_layout_summary">نمایش مرزها، حاشیه‌ها و ویژگی‌های دیگر کلیپ.</string>
+  <string name="debug_monitoring_category">نظارت</string>
+  <string name="debug_networking_category">شبکه</string>
+  <string name="debug_view_attributes">فعال کردن بازبینی ویژگی بازدید</string>
+  <string name="dev_settings_warning_message">این تنظیمات فقط برای برنامه‌نویسی در نظر گرفته شده است. ممکن است استفاده از این تنظیمات موجب خرابی یا عملکرد نادرست دستگاه یا برنامه‌های شما شود.</string>
+  <string name="dev_settings_warning_title">تنظیمات برنامه‌نویسی مجاز باشد؟</string>
+  <string name="development_settings_enable">فعال کردن گزینه‌های برنامه‌نویس</string>
+  <string name="development_settings_not_available">گزینه‌های برنامه‌نویس برای این کاربر موجود نیست</string>
+  <string name="development_settings_summary">تنظیم گزینه‌های مربوط به طراحی برنامه</string>
+  <string name="development_settings_title">گزینه‌های برنامه‌نویسان</string>
+  <string name="device_name">تلفن</string>
+  <string name="device_owner_continue">ادامه</string>
+  <string name="device_owner_reset">بازنشانی تلفن</string>
+  <string name="device_owner_warning">این تلفن تحت مدیریت «%1$s» است، که به این معنی است که برخی از اطلاعات شما ممکن است برای افراد دیگر قابل مشاهده باشد. برای جلوگیری از نظارت، تلفنتان را بازنشانی کنید.</string>
+  <string name="device_owner_warning_title">تلفن می‌تواند نظارت شود</string>
+  <string name="dialog_back_button_label">برگشت</string>
+  <string name="dialog_continue_button_label">ادامه</string>
+  <string name="disable_overlays">‏غیر فعال کردن پوشش HW</string>
+  <string name="disable_overlays_summary">‏همیشه از GPU در ترکیب صفحه استفاده شود</string>
+  <string name="disabled_by_admin">سرپرست آن را غیرفعال کرده است</string>
+  <string name="disabled_by_admin_summary_text">توسط سرپرست سیستم کنترل می‌شود</string>
+  <string name="down_button_label">بیشتر</string>
+  <string name="download_qr_dependencies_failed_content">‏QRخوان نصب نشد</string>
+  <string name="early_update_downloading_text">در حال بارگیری %s</string>
+  <string name="early_update_installing_text">در حال نصب %s</string>
+  <string name="early_update_text">در حال بررسی به‌روزرسانی‌ها</string>
+  <string name="early_update_title">به‌روزرسانی نرم‌افزار</string>
+  <string name="emergency_dial">اضطراری</string>
+  <string name="enable_adb">‏اشکال‌زدایی USB</string>
+  <string name="enable_adb_summary">‏با اتصال USB، حالت اشکال‌زدایی فعال شود</string>
+  <string name="enable_freeform_support">فعال کردن پنجره‌های آزاد</string>
+  <string name="enable_freeform_support_summary">فعال کردن پشتیبانی برای پنجره‌های آزاد آزمایشی.</string>
+  <string name="enable_opengl_traces_title">‏فعال کردن ردیابی‌های OpenGL</string>
+  <string name="enable_terminal_summary">فعال کردن ترمینال برنامه‌ کاربردی که دسترسی به برنامه محلی را پیشنهاد می‌کند</string>
+  <string name="enable_terminal_title">ترمینال محلی</string>
+  <string name="enable_webview_multiprocess">فعال کردن وب‌نمای چندپردازشی</string>
+  <string name="enable_webview_multiprocess_desc">اجرای تولیدکننده تصویر وب‌نما در یک پردازش مجزا.</string>
+  <string name="enabled_a11y">حالت دسترس پذیری فعال شد.</string>
+  <string name="enabled_by_admin">سرپرست آن را فعال کرده است</string>
+  <string name="exit_loading_launcher">درحال بارگیری راه‌انداز…</string>
+  <string name="factory_reset_button">پاک کردن و بازنشانی</string>
+  <string name="factory_reset_confirmation">همه حساب‌ها و داده‌ها در این تلفن پاک شوند؟ امکان واگرد این کار وجود ندارد.</string>
+  <string name="factory_reset_confirmation_title">بازنشانی؟</string>
+  <string name="factory_reset_instructions">هشدار: با انجام بازنشانی، همه حساب‌ها و داده‌های روی حافظه داخلی این تلفن پاک می‌شوند.</string>
+  <string name="factory_reset_title">بازنشانی تلفن</string>
+  <string name="finish_button_label">پایان</string>
+  <string name="flow_choice_new_label">تنظیم به‌عنوان جدید</string>
+  <string name="flow_choice_restore_summary">بازیابی نسخه پشتیبان یا کپی کردن از دستگاه</string>
+  <string name="flow_choice_title">راه‌اندازی ^1 شما</string>
+  <string name="force_allow_on_external">اجازه اجباری به برنامه‌های دستگاه ذخیره خارجی</string>
+  <string name="force_allow_on_external_summary">بدون توجه به مقادیر مانیفست، هر برنامه‌ای را برای نوشتن در حافظه خارجی واجد شرایط می‌کند</string>
+  <string name="force_hw_ui">‏پردازش اجباری GPU</string>
+  <string name="force_hw_ui_summary">‏استفاده اجباری از GPU برای طراحی دوم</string>
+  <string name="force_msaa">‏اجبار 4x MSAA</string>
+  <string name="force_msaa_summary">‏فعال کردن 4X MSAA در برنامه‌های OpenGL ES 2.0</string>
+  <string name="force_resizable_activities">اجبار فعالیت‌ها به قابل تغییر اندازه بودن</string>
+  <string name="force_resizable_activities_summary">بدون توجه به مقادیر مانیفست، اندازه همه فعالیت‌ها برای حالت چند پنجره‌ای می‌تواند تغییر کند.</string>
+  <string name="force_rtl_layout_all_locales">‏اجباری کردن چیدمان RTL</string>
+  <string name="force_rtl_layout_all_locales_summary">‏اجباری کردن چیدمان RTL صفحه برای همه زبان‌ها</string>
+  <string name="go_back_button_label">برگشت</string>
+  <string name="google_legal_title">‏شرایط حقوقی Google</string>
+  <string name="google_play_tos_title">‏شرایط خدمات Google Play</string>
+  <string name="google_plus_privacy_policy_title">‏خط‌مشی رازداری Google Plus</string>
+  <string name="google_privacy_policy_title">‏خط‌مشی رازداری Google</string>
+  <string name="google_terms_of_service_title">‏شرایط خدمات Google</string>
+  <string name="got_it_button_label">متوجه شدم</string>
+  <string name="hdcp_checking_dialog_title">‏تنظیم عملکرد بررسی HDCP</string>
+  <string name="hdcp_checking_title">‏بررسی HDCP</string>
+  <string name="home">صفحه اصلی</string>
+  <string name="immediately_destroy_activities">فعالیت‌ها نگه داشته نشوند</string>
+  <string name="immediately_destroy_activities_summary">از بین بردن هر فعالیت به محض خروج کاربر از آن</string>
+  <string name="inactive_app_active_summary">فعال. برای تغییر حالت ضربه بزنید.</string>
+  <string name="inactive_app_inactive_summary">غیرفعال. برای تغییر حالت ضربه بزنید.</string>
+  <string name="inactive_apps_title">برنامه‌های غیرفعال</string>
+  <string name="invalid_qr_code_content">‏مطمئن شوید کد QR درست برای سازمانتان دارید و دوباره امتحان کنید.</string>
+  <string name="invalid_qr_code_retry">دوباره امتحان کنید</string>
+  <string name="invalid_qr_code_title">‏کد QR کار نکرد</string>
+  <string name="keep_screen_on">بیدار ماندن</string>
+  <string name="keep_screen_on_summary">صفحه هرگز در حین شارژ شدن به حالت خواب نمی‌رود</string>
+  <string name="launch_defaults_none">هیچ پیش‌فرضی تنظیم نشده است</string>
+  <string name="launch_defaults_some">بعضی پیش‌فرض‌ها تنظیم شده‌اند</string>
+  <string name="legacy_dhcp_client">‏استفاده از کلاینت DHCP قدیمی</string>
+  <string name="legacy_dhcp_client_summary">‏به جای کلاینت Android DHCP جدید، از کلاینت Lollipop DHCP استفاده کنید.</string>
+  <string name="local_backup_password_summary_change">برای تغییر یا حذف گذرواژه برای نسخه‌های پشتیبان کامل رایانه‌ای ضربه بزنید</string>
+  <string name="local_backup_password_summary_none">پشتیبان‌گیری کامل رایانه درحال حاضر محافظت نمی‌شود</string>
+  <string name="local_backup_password_title">گذرواژه پشتیبان‌گیری محلی</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">گذرواژه جدید و تأیید آن با یکدیگر مطابقت ندارند</string>
+  <string name="local_backup_password_toast_success">گذرواژه جدید نسخهٔ پشتیبان تنظیم شد</string>
+  <string name="local_backup_password_toast_validation_failure">گذرواژه پشتیبان‌گیری تنظیم نشد</string>
+  <string name="managed_user_title">نمایه کاری</string>
+  <string name="media_category">رسانه</string>
+  <string name="mobile_data_always_on">داده سلولی همیشه فعال</string>
+  <string name="mobile_data_always_on_summary">‏داده سلولی همیشه فعال نگه داشته می‌شود، حتی وقتی Wi-Fi فعال است (برای جابه‌جایی سریع شبکه).</string>
+  <string name="mock_location_app">انتخاب برنامه موقعیت مکانی ساختگی</string>
+  <string name="mock_location_app_not_set">هیچ برنامه موقعیت مکانی ساختگی تنظیم نشده است</string>
+  <string name="mock_location_app_set">برنامه موقعیت مکانی ساختگی: %1$s</string>
+  <string name="name_display_name_hint">برای نمونه امیر فرد</string>
+  <string name="name_display_name_label">نام</string>
+  <string name="name_text">افزودن نامتان به تلفن این امکان را می‌دهد تا برخی از برنامه‌ها را شخصی‌سازی کند.</string>
+  <string name="name_title">نام</string>
+  <string name="network_description_text_google_account_flow">‏برای ورود به حساب Google خود، ابتدا به اینترنت متصل شوید.</string>
+  <string name="network_description_text_new_flow">برای ادامه راه‌اندازی به اینترنت متصل شوید.</string>
+  <string name="network_description_text_restore_from_android_flow">‏برای کپی کردن داده‌ها از دستگاه Android خود، ابتدا به اینترنت متصل شوید.</string>
+  <string name="network_see_all_wifi">‏دیدن همه شبکه‌های Wi‑Fi</string>
+  <string name="network_title">متصل شوید</string>
+  <string name="network_use_cellular">از شبکه تلفن همراه برای نصب استفاده شود</string>
+  <string name="no_application">هیچ چیز</string>
+  <string name="notification_update_message">برای اجرای دوباره برنامه نصب، اینجا را ضربه بزنید.</string>
+  <string name="notification_update_title">حساب کاربری شما باید به‌روز شود</string>
+  <string name="oem_unlock_enable">بازکردن سازنده تجهیزات اصلی</string>
+  <string name="oem_unlock_enable_summary">اجازه دهید قفل بوت‌لودر باز شود</string>
+  <string name="ok_button_label">تأیید</string>
+  <string name="ota_agreement_text">‏با ادامه و دریافت این به‌روزرسانی نرم‌افزار، شما با &lt;annotation link="tos"&gt;&amp;#1588;&amp;#1585;&amp;#1575;&amp;#1740;&amp;#1591; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1575;&amp;#1578;&amp;#8207;&lt;/annotation&gt; &amp;#1608; &lt;annotation link="google_privacy"&gt;&amp;#1582;&amp;#1591;&amp;#8204;&amp;#1605;&amp;#1588;&amp;#1740; &amp;#1585;&amp;#1575;&amp;#1586;&amp;#1583;&amp;#1575;&amp;#1585;&amp;#1740;&lt;/annotation&gt; Google &amp;#1605;&amp;#1608;&amp;#1575;&amp;#1601;&amp;#1602;&amp;#1578; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1705;&amp;#1606;&amp;#1740;&amp;#1583;&amp;#8207;.</string>
+  <string name="ota_info">تلفنتان باید نسخه به‌روز را بارگیری کند و دوباره راه‌اندازی شود.</string>
+  <string name="ota_size">اندازه: %s</string>
+  <string name="ota_update_title">به‌روزرسانی تلفن</string>
+  <string name="overlay_display_devices_title">شبیه‌سازی نمایشگر ثانویه</string>
+  <string name="picture_color_mode">حالت رنگ عکس</string>
+  <string name="picture_color_mode_desc">‏استفاده از sRGB</string>
+  <string name="pointer_location">محل اشاره‌گر</string>
+  <string name="pointer_location_summary">هم‌پوشانی صفحهٔ نمایش با نمایش داده لمسی فعلی</string>
+  <string name="power_charging">%1$s - ‏%2$s</string>
+  <string name="power_charging_duration">%1$s - ‏%2$s تا شارژ کامل</string>
+  <string name="power_charging_duration_ac">%1$s - ‏%2$s تا شارژ کامل با جریان متناوب</string>
+  <string name="power_charging_duration_usb">‏%1$s - ‏%2$s تا شارژ کامل از طریق USB</string>
+  <string name="power_charging_duration_wireless">%1$s - ‏%2$s تا شارژ کامل به‌طور بی‌سیم</string>
+  <string name="power_discharging_duration">%1$s - تقریباً ‏%2$s باقی مانده است</string>
+  <string name="power_remaining_duration_only">تقریباً %1$s باقی مانده است</string>
+  <string name="process_kernel_label">‏سیستم عامل Android</string>
+  <string name="qr_dependencies_check_timeout_text">ممکن است تا ۲ دقیقه طول بکشد.</string>
+  <string name="qr_dependencies_check_title">‏درحال نصب QRخوان…‏</string>
+  <string name="qr_provision_user_consent_content_without_qr_library">"‏برای راه‌اندازی این دستگاه برای سازمانتان، ابتدا باید به یک شبکه وصل شوید و QRخوان را بارگیری کنید.
 
-اتصال به داده شبکه تلفن همراه کمی طول کشیده است. می‌توانید برگردید و سعی کنید به جای آن به شبکه دیگری متصل شوید."</string>
-    <string name="activation_failed_title">اتصال به داده شبکه تلفن همراه ممکن نیست</string>
-    <string name="activation_failed_message">"می‌توانید:
-"<li>سعی کنید دوباره به داده شبکه تلفن همراه وصل شوید</li>"
-"<li>از شبکه دیگری برای راه‌اندازی استفاده کنید</li>"
+بعد، با استفاده از دوربین، کد QR سازمانتان را اسکن کنید."</string>
+  <string name="qr_provision_user_consent_title">‏تنظیم کد QR</string>
+  <string name="reboot_button_label">راه‌اندازی مجدد</string>
+  <string name="remaining_length_format">%1$s باقی مانده است</string>
+  <string name="restart_button_label">راه‌اندازی مجدد</string>
+  <string name="restart_setup_wizard_button_label">راه‌اندازی تلفن</string>
+  <string name="restart_setup_wizard_dialog_text">"‏برای استفاده از این تلفن، ابتدا باید وارد سیستم یک حساب مالک Google شوید که قبل از آخرین بازنشانی در این تلفن استفاده می‌شده است.
 
-اگر این گزینه‌ها کار نکرد می‌توانید تلفنتان را راه‌اندازی مجدد کرده و دوباره امتحان کنید."</string>
-    <string name="activation_title_searching">در حال جستجوی سرویس...</string>
-    <string name="activation_title_activating">در حال فعال کردن سرویس شبکه همراه…</string>
-    <string name="activation_default_network_name">شبکهٔ تلفن همراه</string>
-    <string name="activation_network_bars_template">قدرت سیگنال %d بار</string>
-    <string name="activation_text">‏برای فعال کردن خدمات تلفن همراه در این لحظه، روی <b>فعال‌سازی</b>" ضربه بزنید. (ممکن است چند دقیقه طول بکشد.)
+چون این کار را نکرده‌اید، باید تلفن را دوباره راه‌اندازی کنید."</string>
+  <string name="restart_setup_wizard_dialog_title">وارد سیستم نشده</string>
+  <string name="restore_choice_android_device_label">‏دستگاه Android دیگری</string>
+  <string name="restore_choice_footer_dialog">"‏اگر قبلاً به هر یک از محصولات Google (مانند Gmail یا You Tube) وارد شده‌اید، پس اکنون حساب Google دارید.
 
-یا روی "<b>رد شدن</b> ضربه بزنید تا به‌جای آن با استفاده از اتصال Wi-Fi، تلفنتان را راه‌اندازی کنید.</string>
-    <string name="activation_text_standalone">برای فعال کردن خدمات تلفن همراه در این لحظه، روی <b>فعال‌سازی</b> ضربه بزنید. (ممکن است چند دقیقه طول بکشد.)</string>
-    <string name="activation_skip_confirmation">"تا زمانی که سرویس داده‌های تلفن همراه خود را فعال نکنید، بسیاری از ویژگی‌های تلفن شما کار نخواهند کرد.
-
-اگر ترجیح می‌دهید فعلاً از این مرحله رد شوید، می‌توانید آن را بعداً در تنظیمات سیستم فعال کنید."</string>
-    <string name="activation_continue_skip_label">ادامه</string>
-    <string name="activation_button_label">فعال کردن</string>
-    <string name="activation_progress_before_connect">‏روی <b>رد شدن</b> ضربه بزنید تا به‌جای آن با استفاده از اتصال Wi-Fi، راه‌اندازی را تکمیل کنید.</string>
-    <string name="activation_progress">‏ممکن است فعال‌سازی چند دقیقه طول بکشد. یا روی <b>رد شدن</b> ضربه بزنید تا به‌جای آن با استفاده از اتصال Wi-Fi، راه‌اندازی را تکمیل کنید.</string>
-    <string name="activation_progress_gen">ممکن است تا ۵ دقیقه طول بکشد</string>
-    <string name="activation_progress_mobile_data">"این تلفن در حال فعال کردن خدمات داده شبکه همراه شما است.
-
-این کار حداکثر ۵ دقیقه زمان می‌برد."</string>
-    <string name="activation_progress_before_connect_standalone">فعال‌سازی ممکن است چند دقیقه طول بکشد.</string>
-    <string name="activation_progress_standalone">فعال سازی ممکن است چند دقیقه طول بکشد.</string>
-    <string name="activation_success_title">فعال سازی انجام شد</string>
-    <string name="activation_success_text">برای ادامه دادن راه‌اندازی، روی <b>بعدی</b> ضربه بزنید.</string>
-    <string name="activation_success_text_gen">دستگاه شما برای تکمیل فعال‌سازی باید دوباره راه‌اندازی شود.</string>
-    <string name="activation_success_text_standalone">برای ادامه دادن، روی <b>بعدی</b>" ضربه بزنید.
-
-فعال‌سازی با موفقیت انجام شد، اما ممکن است چند دقیقه طول بکشد تا داده شبکه تلفن همراه در دسترس قرار بگیرد."</string>
-    <string name="activation_failure_title">فعال نمی‌شود</string>
-    <string name="activation_failure_text">"پس از یک دقیقه دوباره امتحان کنید یا اگر همچنان این مشکل ادامه دارد، تلفنتان را مجدداً راه‌اندازی کنید.
-
-اگر ترجیح می‌دهید اکنون از این مرحله رد شوید، حتماً از طریق تنظیمات سیستم بعداً فعال‌سازی را انجام دهید. تا زمانی که آن را فعال نکرده‌اید، تلفنتان اتصال داده شبکه تلفن همراه نخواهد داشت."</string>
-    <string name="activation_failure_text_gen">فعال کردن سرویس داده تلفن همراه شما ممکن نیست. این ممکن است یک خطای موقت باشد و با راه‌اندازی مجدد گوشی برطرف شود.</string>
-    <string name="activation_failure_text_standalone">‏خدمات داده تلفن همراه فعال نشد. برای امتحان دوباره فعال‌سازی، روی <b>امتحان مجدد</b>" ضربه بزنید.
-
-می‌توانید بعداً در "<b>تنظیمات سیستم > بی‌سیم و شبکه‌ها > شبکه‌‌های تلفن همراه</b>، خدمات داده تلفن همراه را فعال کنید.</string>
-    <string name="activation_cancel_title">لغو درخواست شد</string>
-    <string name="activation_cancel_text">در حال لغو فعال‌سازی...این کار ممکن است 5 تا ۱۰ ثانیه طول بکشد.</string>
-    <string name="activation_canceled_title">فعال سازی لغو شد</string>
-    <string name="activation_canceled_text">"‏می‌خواهید فعال‌سازی را لغو کنید؟ قبل از اینکه بتوانید از خدمات شبکه همراه برای اتصال به اینترنت استفاده کنید باید آن را فعال کنید.
-
-برای تکمیل راه‌اندازی با استفاده از اتصال Wi-Fi، روی "<b>بعدی</b>" ضربه بزنید.
-
-می‌توانید بعداً در "<b>تنظیمات سیستم > بی‌سیم و شبکه‌ها > شبکه‌های تلفن همراه</b>، شبکه همراهتان را فعال کنید.</string>
-    <string name="activation_canceled_text_standalone">"‏فعال‌سازی لغو شد.
-
-می‌توانید بعداً در "<b>تنظیمات سیستم > بی‌سیم و شبکه‌ها > شبکه‌های سلولی</b>، سرویس داده تلفن همراهتان را فعال کنید.</string>
-    <string name="activation_spc_failure_text">خطایی روی داده است و برای اینکه بتوانید دوباره فعال‌سازی را امتحان کنید باید تلفنتان را خاموش و راه‌اندازی مجدد کنید. تلفن به‌طور خودکار پس از ۶۰ ثانیه خاموش می‌شود یا می‌توانید روی <b>اکنون خاموش شود</b>" ضربه بزنید.
-
-وقتی تلفن خاموش شد، دکمه روشن/خاموش را فشار دهید تا راه‌اندازی مجدد شود. فعال‌سازی به‌طور خودکار شروع می‌شود."</string>
-    <string name="shutdown_button_label">اکنون خاموش شود</string>
-    <string name="reboot_button_label">راه‌اندازی مجدد</string>
-    <string name="activation_skip_text">اگر فعال‌سازی را رد می‌کنید، حتماً بعداً در تنظیمات آن را انجام دهید. تا زمانی که فعال‌سازی را انجام ندهید، تلفن شما اتصال داده سلولی نخواهد داشت.</string>
-    <string name="notification_update_title">حساب کاربری شما باید به‌روز شود</string>
-    <string name="notification_update_message">برای اجرای دوباره برنامه نصب، اینجا را ضربه بزنید.</string>
-    <string name="account_exists_title">{accounts,plural, =1{حساب اضافه شد}one{حساب‌ها اضافه شدند}other{حساب‌ها اضافه شدند}}</string>
-    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> آماده است.</string>
-    <string name="account_exists_text_unknown_name">حساب شما آماده است.</string>
-    <string name="account_exists_info">"‏رایانامه، مخاطبین، رویدادهای تقویم و موارد دیگر با این تلفن همگام‌سازی خواهند شد. همچنین آماده هستید از Google Play برنامه، موسیقی و بازی بارگیری کنید.
-
-می‌توانید بعداً با رفتن به «تنظیمات > حساب‌ها»، حساب‌ها را اضافه و حذف کنید."</string>
-    <string name="date_time_setup_title">تاریخ و ساعت</string>
-    <string name="date_time_message">در صورت نیاز تنظیم کنید.</string>
-    <string name="date_time_current_date">تاریخ</string>
-    <string name="date_time_current_time">زمان</string>
-    <string name="date_time_time_zone_full" formatted="false">%s ‏(%s)</string>
-    <string name="sim_missing_title">{sim_slots,plural, =1{درج سیم‌کارت}one{درج سیم‌کارت}other{درج سیم‌کارت}}</string>
-    <string name="sim_missing_text">"{sim_slots,plural, =1{مطمئن نیستید چگونه؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده، بررسی کنید.
+می‌توانید با همان جزئیات مانند شماره تلفن یا نام کاربری و گذرواژه در اینجا به سیستم وارد شوید."</string>
+  <string name="restore_choice_google_account_label">‏حساب Google شما</string>
+  <string name="restore_choice_title">دسترسی به داده‌هایتان از…</string>
+  <string name="restore_device_settings_title">در حال بازیابی تنظیمات دستگاه…</string>
+  <string name="restore_failed_message">از نسخه پشتیبان بازیابی نشد.</string>
+  <string name="restore_launcher_title">در حال بازیابی راه‌انداز...</string>
+  <string name="restore_no_backup_message">نسخه پشتیبانی برای دستگاه منبع موجود نیست.</string>
+  <string name="restore_stopped_message">متأسفانه، دستگاه بازیابی داده‌ را از نسخه پشتیبان متوقف کرد.</string>
+  <string name="restore_title">در حال بازیابی...</string>
+  <string name="restore_wallpaper_title">درحال بازیابی کاغذدیواری...</string>
+  <string name="running_process_item_user_label">کاربر: %1$s</string>
+  <string name="runningservices_settings_summary">مشاهده و کنترل سرویس‌های در حال اجرای فعلی</string>
+  <string name="runningservices_settings_title">سرویس‌های در حال اجرا</string>
+  <string name="saved_network">ذخیره‌شده توسط %1$s</string>
+  <string name="screen_zoom_summary_custom">سفارشی (%d)</string>
+  <string name="screen_zoom_summary_default">پیش‌فرض</string>
+  <string name="screen_zoom_summary_extremely_large">بزرگ‌ترین</string>
+  <string name="screen_zoom_summary_large">بزرگ</string>
+  <string name="screen_zoom_summary_small">کوچک</string>
+  <string name="screen_zoom_summary_very_large">بزرگ‌تر</string>
+  <string name="security_verify_apps_summary">‏‫اجازه دهید Google همه برنامه‌های نصب شده را از نظر رفتار مضر احتمالی بررسی کند؛ رفتاری که ممکن است بر امنیت دستگاه یا داده‌های شما تأثیر بگذارد.</string>
+  <string name="select_application">انتخاب برنامه</string>
+  <string name="select_logd_size_dialog_title">انتخاب اندازه‌ ثبت‌کننده در حافظه موقت ثبت</string>
+  <string name="select_logd_size_title">اندازه‌های حافظه موقت ثبت‌کننده</string>
+  <string name="select_usb_configuration_dialog_title">‏انتخاب پیکربندی USB</string>
+  <string name="select_usb_configuration_title">‏انتخاب پیکربندی USB</string>
+  <string name="select_webview_provider_dialog_title">تنظیم اجرای وب‌نما</string>
+  <string name="select_webview_provider_title">اجرای وب‌نما</string>
+  <string name="services_activity_title">‏سرویس‌های Google</string>
+  <string name="services_backup_heading">تهیهٔ نسخهٔ پشتیبان</string>
+  <string name="services_communication_heading">ارتباط</string>
+  <string name="services_location_heading">موقعیت مکانی</string>
+  <string name="services_personalization_heading">شخصی‌سازی</string>
+  <string name="services_security_heading">امنیت</string>
+  <string name="setup_wizard_title">برنامهٔ جادویی تنظیمات</string>
+  <string name="show_all_anrs">‏نمایش تمام ANRها</string>
+  <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
+  <string name="show_cpu_usage">‏نمایش میزان استفاده از CPU</string>
+  <string name="show_cpu_usage_summary">‏هم‌پوشانی صفحهٔ نمایش میزان استفاده از CPU فعلی</string>
+  <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
+  <string name="show_hw_layers_updates_summary">وقتی لایه‌های سخت‌افزاری به‌روزرسانی‌ می‌شوند، به رنگ سبز درآیند</string>
+  <string name="show_hw_screen_updates">‏نمایش به روزرسانی‌های نمای GPU</string>
+  <string name="show_hw_screen_updates_summary">‏در طراحی با GPU، نماها در داخل پنجره‌ها فلش شوند</string>
+  <string name="show_non_rect_clip">اشکال‌زدایی عملکردهای کلیپ غیرمربعی</string>
+  <string name="show_screen_updates">نمایش به‌روزرسانی سطح</string>
+  <string name="show_screen_updates_summary">هنگام به‌روزرسانی سطوح پنجره همه فلش شوند</string>
+  <string name="show_touches">نمایش ضربه‌ها</string>
+  <string name="show_touches_summary">نمایش بازخورد تصویری برای ضربه‌ها</string>
+  <string name="shutdown_button_label">اکنون خاموش شود</string>
+  <string name="sim_missing_text">"{sim_slots,plural, =1{مطمئن نیستید چگونه؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده، بررسی کنید.
 
 بعد از جاگذاری سیم‌کارت، ممکن است چند ثانیه طول بکشد تا فعال شود.}one{مطمئن نیستید چگونه؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده، بررسی کنید.
 
 بعد از جاگذاری سیم‌کارت‌ها، ممکن است چند ثانیه طول بکشد تا فعال شوند.}other{مطمئن نیستید چگونه؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده، بررسی کنید.
 
 بعد از جاگذاری سیم‌کارت‌ها، ممکن است چند ثانیه طول بکشد تا فعال شوند.}}"</string>
-    <string name="sim_setup_title">تنظیم سیم‌کارت‌ها</string>
-    <string name="sim_setup_select_data">سیم‌کارتی را برای داده سلولی انتخاب کنید</string>
-    <string name="sim_setup_select_voice">سیم‌کارتی را برای تماس‌ها انتخاب کنید</string>
-    <string name="sim_setup_select_text">سیم‌کارتی را برای پیام‌های نوشتاری انتخاب کنید</string>
-    <string name="sim_setup_ask_every_time">هر بار پرسیده شود</string>
-    <string name="wifi_title">‏انتخاب Wi-Fi</string>
-    <string name="wifi_skipped_title">هزینه‌های داده احتمالی</string>
-    <string name="wifi_skipped_message">‏در طول راه‌اندازی، تلفنتان از شبکه تلفن همراه استفاده خواهد کرد و ممکن است هزینه این مصرف داده از حساب شما کسر شود. برای اجتناب از هزینه‌های احتمالی، به Wi‑Fi متصل شوید.</string>
-    <string name="wifi_add_new_network">افزودن شبکه جدید</string>
-    <string name="wifi_ip_address_title">‏آدرس IP</string>
-    <string name="wifi_ip_address_not_available">در دسترس نیست</string>
-    <string name="wifi_mac_address_title">‏آدرس MAC</string>
-    <string name="wifi_mac_address_not_available">در دسترس نیست</string>
-    <string name="network_title">متصل شوید</string>
-    <string name="network_description_text_restore_from_android_flow">‏برای کپی کردن داده‌ها از دستگاه Android خود، ابتدا به اینترنت متصل شوید.</string>
-    <string name="network_description_text_google_account_flow">‏برای ورود به حساب Google خود، ابتدا به اینترنت متصل شوید.</string>
-    <string name="network_description_text_new_flow">برای ادامه راه‌اندازی به اینترنت متصل شوید.</string>
-    <string name="network_see_all_wifi">‏دیدن همه شبکه‌های Wi‑Fi</string>
-    <string name="network_use_cellular">از شبکه تلفن همراه برای نصب استفاده شود</string>
-    <string name="captive_portal_sign_in_dialog_title">اتصال در دسترس است</string>
-    <string name="captive_portal_connection_unsuccessful">به اینترنت وصل نشد</string>
-    <string name="ota_update_title">به‌روزرسانی تلفن</string>
-    <string name="ota_info">تلفنتان باید نسخه به‌روز را بارگیری کند و دوباره راه‌اندازی شود.</string>
-    <string name="ota_size">اندازه: %s</string>
-    <string name="ota_agreement_text">‏با ادامه و دریافت این به‌روزرسانی نرم‌افزار، شما با <annotation link="tos">شرایط خدمات‏</annotation> و <annotation link="google_privacy">خط‌مشی رازداری</annotation> Google موافقت می‌کنید‏.</string>
-    <string name="early_update_title">به‌روزرسانی نرم‌افزار</string>
-    <string name="early_update_text">در حال بررسی به‌روزرسانی‌ها</string>
-    <string name="early_update_downloading_text">در حال بارگیری %s</string>
-    <string name="early_update_installing_text">در حال نصب %s</string>
-    <string name="warm_sim_check_msg">در انتظار شبکه…</string>
-    <string name="android_privacy_policy_title">سایر موارد خط‌مشی رازداری</string>
-    <string name="google_terms_of_service_title">‏شرایط خدمات Google</string>
-    <string name="google_privacy_policy_title">‏خط‌مشی رازداری Google</string>
-    <string name="google_plus_privacy_policy_title">‏خط‌مشی رازداری Google Plus</string>
-    <string name="google_play_tos_title">‏شرایط خدمات Google Play</string>
-    <string name="chrome_tos_title">‏شرایط خدمات Chrome</string>
-    <string name="chrome_privacy_title">‏اعلان حریم خصوصی Chrome</string>
-    <string name="url_load_unsuccessful_message_wifi_only">‏دستگاه Android شما به شبکه Wi-Fi متصل نیست. برای اینکه اکنون این اطلاعات را مشاهده کنید، با استفاده از یک مرورگر وب از %s دیدن کنید.</string>
-    <string name="continue_for_a11y">به لمس کردن صفحه ادامه دهید تا یک صدای بیپ برای فعال شدن حالت دسترس‌پذیری بشنوید.</string>
-    <string name="canceled_a11y">حالت دسترس پذیری لغو شد.</string>
-    <string name="enabled_a11y">حالت دسترس پذیری فعال شد.</string>
-    <string name="welcome_message">خوش آمدید</string>
-    <string name="emergency_dial">اضطراری</string>
-    <string name="welcome_accessibility_button">تنظیمات بینایی</string>
-    <string name="welcome_language_picker_dialog_title">انتخاب زبان</string>
-    <string name="welcome_language_picker_section_suggested">پیشنهاد شده</string>
-    <string name="welcome_language_picker_section_all">همه زبان‌ها</string>
-    <string name="welcome_language_picker_content_description">زبان: %s</string>
-    <string name="welcome_start_button_label">شروع به کار</string>
-    <string name="flow_choice_title">راه‌اندازی ^1 شما</string>
-    <string name="flow_choice_restore_summary">بازیابی نسخه پشتیبان یا کپی کردن از دستگاه</string>
-    <string name="flow_choice_new_label">تنظیم به‌عنوان جدید</string>
-    <string name="restore_choice_title">دسترسی به داده‌هایتان از…</string>
-    <string name="restore_choice_google_account_label">‏حساب Google شما</string>
-    <string name="restore_choice_android_device_label">‏دستگاه Android دیگری</string>
-    <string name="services_activity_title">‏سرویس‌های Google</string>
-    <string name="services_backup_heading">تهیهٔ نسخهٔ پشتیبان</string>
-    <string name="services_location_heading">موقعیت مکانی</string>
-    <string name="services_security_heading">امنیت</string>
-    <string name="services_personalization_heading">شخصی‌سازی</string>
-    <string name="services_communication_heading">ارتباط</string>
-    <string name="security_verify_apps_summary">‏‫اجازه دهید Google همه برنامه‌های نصب شده را از نظر رفتار مضر احتمالی بررسی کند؛ رفتاری که ممکن است بر امنیت دستگاه یا داده‌های شما تأثیر بگذارد.</string>
-    <string name="suggested_actions_title">کار دیگری می‌خواهید انجام دهید؟</string>
-    <string name="suggested_actions_done_label">در فرصتی دیگر راه‌اندازی کنید</string>
-    <string name="restore_title">در حال بازیابی...</string>
-    <string name="restore_wallpaper_title">درحال بازیابی کاغذدیواری...</string>
-    <string name="restore_device_settings_title">در حال بازیابی تنظیمات دستگاه…</string>
-    <string name="restore_launcher_title">در حال بازیابی راه‌انداز...</string>
-    <string name="restore_failed_message">از نسخه پشتیبان بازیابی نشد.</string>
-    <string name="restore_no_backup_message">نسخه پشتیبانی برای دستگاه منبع موجود نیست.</string>
-    <string name="restore_stopped_message">متأسفانه، دستگاه بازیابی داده‌ را از نسخه پشتیبان متوقف کرد.</string>
-    <string name="name_title">نام</string>
-    <string name="name_text">افزودن نامتان به تلفن این امکان را می‌دهد تا برخی از برنامه‌ها را شخصی‌سازی کند.</string>
-    <string name="name_display_name_label">نام</string>
-    <string name="name_display_name_hint">برای نمونه امیر فرد</string>
-    <string name="cant_be_blank">این فیلد نمی‌تواند خالی باشد.</string>
-    <string name="device_owner_warning_title">تلفن می‌تواند نظارت شود</string>
-    <string name="device_owner_warning">این تلفن تحت مدیریت «%1$s» است، که به این معنی است که برخی از اطلاعات شما ممکن است برای افراد دیگر قابل مشاهده باشد. برای جلوگیری از نظارت، تلفنتان را بازنشانی کنید.</string>
-    <string name="device_owner_continue">ادامه</string>
-    <string name="device_owner_reset">بازنشانی تلفن</string>
-    <string name="factory_reset_title">بازنشانی تلفن</string>
-    <string name="factory_reset_instructions">هشدار: با انجام بازنشانی، همه حساب‌ها و داده‌های روی حافظه داخلی این تلفن پاک می‌شوند.</string>
-    <string name="factory_reset_confirmation_title">بازنشانی؟</string>
-    <string name="factory_reset_confirmation">همه حساب‌ها و داده‌ها در این تلفن پاک شوند؟ امکان واگرد این کار وجود ندارد.</string>
-    <string name="factory_reset_button">پاک کردن و بازنشانی</string>
-    <string name="restart_setup_wizard_dialog_title">وارد سیستم نشده</string>
-    <string name="restart_setup_wizard_dialog_text">"‏برای استفاده از این تلفن، ابتدا باید وارد سیستم یک حساب مالک Google شوید که قبل از آخرین بازنشانی در این تلفن استفاده می‌شده است.
+  <string name="sim_missing_title">{sim_slots,plural, =1{درج سیم‌کارت}one{درج سیم‌کارت}other{درج سیم‌کارت}}</string>
+  <string name="sim_setup_ask_every_time">هر بار پرسیده شود</string>
+  <string name="sim_setup_select_data">سیم‌کارتی را برای داده سلولی انتخاب کنید</string>
+  <string name="sim_setup_select_text">سیم‌کارتی را برای پیام‌های نوشتاری انتخاب کنید</string>
+  <string name="sim_setup_select_voice">سیم‌کارتی را برای تماس‌ها انتخاب کنید</string>
+  <string name="sim_setup_title">تنظیم سیم‌کارت‌ها</string>
+  <string name="simulate_color_space">شبیه‌سازی فضای رنگ</string>
+  <string name="skip_anyway_button_label">با این وجود، رد شوید</string>
+  <string name="skip_button_label">رد شدن</string>
+  <string name="skip_toast">از برنامه راهنمای نصب استفاده نشد</string>
+  <string name="start">شروع</string>
+  <string name="status_bar_notification_info_overflow">۹۹۹+</string>
+  <string name="strict_mode">حالت شدید فعال شد</string>
+  <string name="strict_mode_summary">چشمک زدن صفحه هنگام انجام عملیات طولانی توسط برنامه‌ها در رشته اصلی</string>
+  <string name="suggested_actions_done_label">در فرصتی دیگر راه‌اندازی کنید</string>
+  <string name="suggested_actions_title">کار دیگری می‌خواهید انجام دهید؟</string>
+  <string name="suw_back_button_label">برگشت</string>
+  <string name="suw_more_button_label">بیشتر</string>
+  <string name="suw_next_button_label">بعدی</string>
+  <string name="switch_camera">جابه‌جایی دوربین</string>
+  <string name="terminate_toast">"برنامه راهنمای نصب متوقف شد
+دستگاه آماده نشد"</string>
+  <string name="tether_settings_title_all">تترینگ و نقطه اتصال قابل حمل</string>
+  <string name="tether_settings_title_bluetooth">اتصال اینترنت با تلفن همراه بلوتوث</string>
+  <string name="tether_settings_title_usb">‏اتصال داده با سیم USB</string>
+  <string name="tether_settings_title_usb_bluetooth">اتصال به اینترنت با تلفن همراه</string>
+  <string name="tether_settings_title_wifi">نقطه اتصال قابل حمل</string>
+  <string name="tethering_settings_not_available">تنظیمات تترینگ برای این کاربر در دسترس نیست</string>
+  <string name="title_convert_fbe">تبدیل به رمزگذاری مبتنی بر فایل</string>
+  <string name="track_frame_time">‏پردازش GPU نمایه</string>
+  <string name="transition_animation_scale_title">مقیاس پویانمایی انتقالی</string>
+  <string name="try_again_button_label">دوباره امتحان کنید</string>
+  <string name="tts_default_lang_summary">صدای خاص یک زبان را برای متن گفتاری تنظیم می‌کند</string>
+  <string name="tts_default_lang_title">زبان</string>
+  <string name="tts_default_pitch_summary">بر صدای متن گفته شده تأثیر می‌گذارد</string>
+  <string name="tts_default_pitch_title">زیر و بمی صدا</string>
+  <string name="tts_default_rate_summary">سرعتی که متن خوانده می‌شود</string>
+  <string name="tts_default_rate_title">سرعت گفتار</string>
+  <string name="tts_default_sample_string">این نمونه‌ای از ترکیب گفتار است</string>
+  <string name="tts_engine_network_required">این زبان به یک اتصال شبکه فعال برای خروجی نوشتار به گفتار نیاز دارد.</string>
+  <string name="tts_engine_preference_section_title">موتور ترجیحی</string>
+  <string name="tts_engine_security_warning">این موتور ترکیب صوتی ممکن است بتواند تمام متن گفته شده را جمع‌آوری کند، از جمله اطلاعات شخصی مانند رمزهای ورود و شماره‌های کارت اعتباری. این کارها توسط موتور%s انجام می‌شود. استفاده از این موتور ترکیب صوتی را فعال می‌کنید؟</string>
+  <string name="tts_engine_settings_button">راه‌اندازی تنظیمات موتور</string>
+  <string name="tts_engine_settings_title">تنظیمات برای %s</string>
+  <string name="tts_general_section_title">کلی</string>
+  <string name="tts_install_data_summary">نصب داده‌های صوتی مورد نیاز برای ترکیب گفتار</string>
+  <string name="tts_install_data_title">نصب داده‌های صوتی</string>
+  <string name="tts_lang_not_selected">زبان انتخاب نشده است</string>
+  <string name="tts_lang_use_system">استفاده از زبان سیستم</string>
+  <string name="tts_play_example_summary">قسمت کوتاهی از ترکیب گفتار پخش شود</string>
+  <string name="tts_play_example_title">به نمونه‌ای گوش کنید</string>
+  <string name="tts_settings">تنظیمات متن به گفتار</string>
+  <string name="tts_settings_title">خروجی تبدیل متن به گفتار</string>
+  <string name="tts_status_checking">در حال بررسی…</string>
+  <string name="tts_status_not_supported">%1$s پشتیبانی نمی‌شود</string>
+  <string name="tts_status_ok">%1$s کاملاً پشتیبانی می‌شود</string>
+  <string name="tts_status_requires_network">%1$s به اتصال شبکه نیاز دارد</string>
+  <string name="tts_status_title">وضعیت زبان پیش‌فرض</string>
+  <string name="unknown">ناشناس</string>
+  <string name="url_load_unsuccessful_message">تلفن شما به سرویس داده‌های تلفن همراه متصل نیست. برای اینکه این اطلاعات را هم‌اکنون مشاهده کنید، به %s در یک مرورگر وب بروید.</string>
+  <string name="url_load_unsuccessful_message_wifi_only">‏دستگاه Android شما به شبکه Wi-Fi متصل نیست. برای اینکه اکنون این اطلاعات را مشاهده کنید، با استفاده از یک مرورگر وب از %s دیدن کنید.</string>
+  <string name="usb_audio_disable_routing">‏غیرفعال کردن مسیریابی صوتی USB</string>
+  <string name="usb_audio_disable_routing_summary">‏غیرفعال کردن مسیریابی خودکار به وسایل جانبی صوتی USB</string>
+  <string name="user_guest">مهمان</string>
+  <string name="user_warning_radio_continue">ادامه</string>
+  <string name="user_warning_radio_quit">لغو و حذف کاربر جدید</string>
+  <string name="user_warning_title">تنظیم کاربر جدید</string>
+  <string name="verify_apps_over_usb_summary">‏برنامه‌های نصب شده از طریق ADB/ADT را ازنظر رفتار مخاطره‌آمیز بررسی کنید.</string>
+  <string name="verify_apps_over_usb_title">‏تأیید برنامه‌های نصب شده از طریق USB</string>
+  <string name="vpn_settings_not_available">‏تنظیمات VPN برای این کاربر در دسترس نیست</string>
+  <string name="wait_for_debugger">انتظار برای اشکال‌زدا</string>
+  <string name="wait_for_debugger_summary">برنامه اشکال‌زدایی شده منتظر پیوست شدن اشکال‌زدا قبل از اجرا است</string>
+  <string name="wait_msg">یک لحظه...</string>
+  <string name="warm_sim_check_msg">در انتظار شبکه…</string>
+  <string name="welcome_accessibility_button">تنظیمات بینایی</string>
+  <string name="welcome_language_picker_content_description">زبان: %s</string>
+  <string name="welcome_language_picker_dialog_title">انتخاب زبان</string>
+  <string name="welcome_language_picker_section_all">همه زبان‌ها</string>
+  <string name="welcome_language_picker_section_suggested">پیشنهاد شده</string>
+  <string name="welcome_limited_user_info_text">" "&lt;b&gt;&amp;#1605;&amp;#1607;&amp;#1605;:&lt;/b&gt;"
 
-چون این کار را نکرده‌اید، باید تلفن را دوباره راه‌اندازی کنید."</string>
-    <string name="restart_setup_wizard_button_label">راه‌اندازی تلفن</string>
-    <string name="user_warning_radio_continue">ادامه</string>
-    <string name="user_warning_radio_quit">لغو و حذف کاربر جدید</string>
-    <string name="user_warning_title">تنظیم کاربر جدید</string>
-    <string name="welcome_secondary_user_added_text">%s، شما را به این تلفن افزوده است.</string>
-    <string name="welcome_secondary_user_added_no_owner_name_text">شما به این تلفن افزوده شده‌اید.</string>
-    <string name="welcome_secondary_user_info_text"><b>مهم:</b>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1605;&amp;#1575;&amp;#1604;&amp;#1705; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1583; &amp;#1576;&amp;#1585;&amp;#1606;&amp;#1575;&amp;#1605;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575; &amp;#1585;&amp;#1575; &amp;#1606;&amp;#1589;&amp;#1576; &amp;#1608; &amp;#1581;&amp;#1584;&amp;#1601; &amp;#1606;&amp;#1589;&amp;#1576; &amp;#1705;&amp;#1606;&amp;#1583;&amp;#1548; &amp;#1605;&amp;#1581;&amp;#1583;&amp;#1608;&amp;#1583;&amp;#1740;&amp;#1578;&amp;#8204;&amp;#1607;&amp;#1575;&amp;#1740;&amp;#1740; &amp;#1578;&amp;#1606;&amp;#1592;&amp;#1740;&amp;#1605; &amp;#1705;&amp;#1606;&amp;#1583; &amp;#1740;&amp;#1575; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1591;&amp;#1608;&amp;#1585; &amp;#1705;&amp;#1575;&amp;#1605;&amp;#1604; &amp;#1601;&amp;#1590;&amp;#1575;&amp;#1740;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1662;&amp;#1575;&amp;#1705; &amp;#1705;&amp;#1606;&amp;#1583;.&lt;/ul&gt;&lt;/li&gt;"
 
-"<li><ul>مالک تلفن می‌تواند برنامه‌های شما را حذف نصب کند یا فضایتان را به‌طور کامل پاک کند.</ul></li>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1705;&amp;#1575;&amp;#1585;&amp;#1576;&amp;#1585;&amp;#1575;&amp;#1606; &amp;#1583;&amp;#1740;&amp;#1711;&amp;#1585; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1606;&amp;#1583; &amp;#1575;&amp;#1586; &amp;#1591;&amp;#1585;&amp;#1601; &amp;#1588;&amp;#1605;&amp;#1575; &amp;#1605;&amp;#1580;&amp;#1608;&amp;#1586;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1576;&amp;#1585;&amp;#1606;&amp;#1575;&amp;#1605;&amp;#1607; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1585;&amp;#1608;&amp;#1586;&amp;#1585;&amp;#1587;&amp;#1575;&amp;#1606;&amp;#1740; &amp;#1588;&amp;#1583;&amp;#1607; &amp;#1585;&amp;#1575; &amp;#1576;&amp;#1662;&amp;#1584;&amp;#1740;&amp;#1585;&amp;#1606;&amp;#1583;.&lt;/ul&gt;&lt;/li&gt;"
 
-"<li><ul>کاربران دیگر می‌توانند از طرف شما مجوزهای برنامه به‌روزرسانی شده را بپذیرند.</ul></li>"
+ "&lt;li&gt;&lt;ul&gt;&amp;#1605;&amp;#1575;&amp;#1606;&amp;#1606;&amp;#1583; &amp;#1607;&amp;#1585; &amp;#1585;&amp;#1575;&amp;#1740;&amp;#1575;&amp;#1606;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1740;&amp;#1548; &amp;#1601;&amp;#1602;&amp;#1591; &amp;#1576;&amp;#1575;&amp;#1740;&amp;#1583; &amp;#1576;&amp;#1575; &amp;#1575;&amp;#1601;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1605;&amp;#1608;&amp;#1585;&amp;#1583; &amp;#1575;&amp;#1593;&amp;#1578;&amp;#1605;&amp;#1575;&amp;#1583;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1740;&amp;#1606; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1576;&amp;#1607; &amp;#1575;&amp;#1588;&amp;#1578;&amp;#1585;&amp;#1575;&amp;#1705; &amp;#1576;&amp;#1711;&amp;#1584;&amp;#1575;&amp;#1585;&amp;#1740;&amp;#1583;. &lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="welcome_message">خوش آمدید</string>
+  <string name="welcome_secondary_user_added_no_owner_name_text">شما به این تلفن افزوده شده‌اید.</string>
+  <string name="welcome_secondary_user_added_text">%s، شما را به این تلفن افزوده است.</string>
+  <string name="welcome_secondary_user_info_text">&lt;b&gt;&amp;#1605;&amp;#1607;&amp;#1605;:&lt;/b&gt;"
 
-"<li><ul>مانند هر رایانه‌ای، فقط باید با افراد مورد اعتماد این تلفن را به اشتراک بگذارید.</ul></li></string>
-    <string name="welcome_limited_user_info_text">" "<b>مهم:</b>"
+"&lt;li&gt;&lt;ul&gt;&amp;#1605;&amp;#1575;&amp;#1604;&amp;#1705; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1583; &amp;#1576;&amp;#1585;&amp;#1606;&amp;#1575;&amp;#1605;&amp;#1607;&amp;#8204;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1588;&amp;#1605;&amp;#1575; &amp;#1585;&amp;#1575; &amp;#1581;&amp;#1584;&amp;#1601; &amp;#1606;&amp;#1589;&amp;#1576; &amp;#1705;&amp;#1606;&amp;#1583; &amp;#1740;&amp;#1575; &amp;#1601;&amp;#1590;&amp;#1575;&amp;#1740;&amp;#1578;&amp;#1575;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1591;&amp;#1608;&amp;#1585; &amp;#1705;&amp;#1575;&amp;#1605;&amp;#1604; &amp;#1662;&amp;#1575;&amp;#1705; &amp;#1705;&amp;#1606;&amp;#1583;.&lt;/ul&gt;&lt;/li&gt;"
 
- "<li><ul>مالک تلفن می‌تواند برنامه‌ها را نصب و حذف نصب کند، محدودیت‌هایی تنظیم کند یا به‌طور کامل فضایتان را پاک کند.</ul></li>"
+"&lt;li&gt;&lt;ul&gt;&amp;#1705;&amp;#1575;&amp;#1585;&amp;#1576;&amp;#1585;&amp;#1575;&amp;#1606; &amp;#1583;&amp;#1740;&amp;#1711;&amp;#1585; &amp;#1605;&amp;#1740;&amp;#8204;&amp;#1578;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1606;&amp;#1583; &amp;#1575;&amp;#1586; &amp;#1591;&amp;#1585;&amp;#1601; &amp;#1588;&amp;#1605;&amp;#1575; &amp;#1605;&amp;#1580;&amp;#1608;&amp;#1586;&amp;#1607;&amp;#1575;&amp;#1740; &amp;#1576;&amp;#1585;&amp;#1606;&amp;#1575;&amp;#1605;&amp;#1607; &amp;#1576;&amp;#1607;&amp;#8204;&amp;#1585;&amp;#1608;&amp;#1586;&amp;#1585;&amp;#1587;&amp;#1575;&amp;#1606;&amp;#1740; &amp;#1588;&amp;#1583;&amp;#1607; &amp;#1585;&amp;#1575; &amp;#1576;&amp;#1662;&amp;#1584;&amp;#1740;&amp;#1585;&amp;#1606;&amp;#1583;.&lt;/ul&gt;&lt;/li&gt;"
 
- "<li><ul>کاربران دیگر می‌توانند از طرف شما مجوزهای برنامه به‌روزرسانی شده را بپذیرند.</ul></li>"
-
- "<li><ul>مانند هر رایانه‌ای، فقط باید با افراد مورد اعتمادتان این تلفن را به اشتراک بگذارید. </ul></li></string>
-    <string name="qr_dependencies_check_title">‏درحال نصب QRخوان…‏</string>
-    <string name="qr_dependencies_check_timeout_text">ممکن است تا ۲ دقیقه طول بکشد.</string>
-    <string name="download_qr_dependencies_failed_content">‏QRخوان نصب نشد</string>
-    <string name="check_qr_dependencies_again">دوباره امتحان کنید</string>
-    <string name="qr_provision_user_consent_title">‏تنظیم کد QR</string>
-    <string name="qr_provision_user_consent_content_without_qr_library">"‏برای راه‌اندازی این دستگاه برای سازمانتان، ابتدا باید به یک شبکه وصل شوید و QRخوان را بارگیری کنید.
-
-بعد، با استفاده از دوربین، کد QR سازمانتان را اسکن کنید."</string>
-    <string name="invalid_qr_code_title">‏کد QR کار نکرد</string>
-    <string name="invalid_qr_code_content">‏مطمئن شوید کد QR درست برای سازمانتان دارید و دوباره امتحان کنید.</string>
-    <string name="invalid_qr_code_retry">دوباره امتحان کنید</string>
-    <string name="switch_camera">جابه‌جایی دوربین</string>
-    <string name="exit_loading_launcher">درحال بارگیری راه‌انداز…</string>
-    <string name="restore_choice_footer_dialog">"‏اگر قبلاً به هر یک از محصولات Google (مانند Gmail یا You Tube) وارد شده‌اید، پس اکنون حساب Google دارید.
-
-می‌توانید با همان جزئیات مانند شماره تلفن یا نام کاربری و گذرواژه در اینجا به سیستم وارد شوید."</string>
+"&lt;li&gt;&lt;ul&gt;&amp;#1605;&amp;#1575;&amp;#1606;&amp;#1606;&amp;#1583; &amp;#1607;&amp;#1585; &amp;#1585;&amp;#1575;&amp;#1740;&amp;#1575;&amp;#1606;&amp;#1607;&amp;#8204;&amp;#1575;&amp;#1740;&amp;#1548; &amp;#1601;&amp;#1602;&amp;#1591; &amp;#1576;&amp;#1575;&amp;#1740;&amp;#1583; &amp;#1576;&amp;#1575; &amp;#1575;&amp;#1601;&amp;#1585;&amp;#1575;&amp;#1583; &amp;#1605;&amp;#1608;&amp;#1585;&amp;#1583; &amp;#1575;&amp;#1593;&amp;#1578;&amp;#1605;&amp;#1575;&amp;#1583; &amp;#1575;&amp;#1740;&amp;#1606; &amp;#1578;&amp;#1604;&amp;#1601;&amp;#1606; &amp;#1585;&amp;#1575; &amp;#1576;&amp;#1607; &amp;#1575;&amp;#1588;&amp;#1578;&amp;#1585;&amp;#1575;&amp;#1705; &amp;#1576;&amp;#1711;&amp;#1584;&amp;#1575;&amp;#1585;&amp;#1740;&amp;#1583;.&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="welcome_start_button_label">شروع به کار</string>
+  <string name="wifi_add_new_network">افزودن شبکه جدید</string>
+  <string name="wifi_aggressive_handover">‏Wi‑Fi فعال برای واگذاری به شبکه سلولی</string>
+  <string name="wifi_aggressive_handover_summary">‏وقتی فعال است، در شرایط پایین بودن سیگنال، Wi‑Fi برای واگذار کردن اتصال داده به شبکه سلولی فعال‌تر خواهد بود.</string>
+  <string name="wifi_allow_scan_with_traffic">‏اسکن‌های رومینگ Wi‑Fi همیشه مجاز است</string>
+  <string name="wifi_allow_scan_with_traffic_summary">‏مجاز/غیرمجاز کردن اسکن‌های رومینگ Wi‑Fi براساس مقدار ترافیک داده موجود در واسط</string>
+  <string name="wifi_connected_no_internet">متصل، بدون اینترنت</string>
+  <string name="wifi_disabled_generic">غیرفعال شد</string>
+  <string name="wifi_disabled_network_failure">‏پیکربندی IP انجام نشد</string>
+  <string name="wifi_disabled_password_failure">مشکل تأیید اعتبار</string>
+  <string name="wifi_disabled_wifi_failure">‏اتصال Wi-Fi برقرار نشد</string>
+  <string name="wifi_display_certification">گواهینامه نمایش بی‌سیم</string>
+  <string name="wifi_display_certification_summary">نمایش گزینه‌ها برای گواهینامه نمایش بی‌سیم</string>
+  <string name="wifi_fail_to_scan">اسکن شبکه‌ها امکان‌پذیر نیست</string>
+  <string name="wifi_ip_address_not_available">در دسترس نیست</string>
+  <string name="wifi_ip_address_title">‏آدرس IP</string>
+  <string name="wifi_mac_address_not_available">در دسترس نیست</string>
+  <string name="wifi_mac_address_title">‏آدرس MAC</string>
+  <string name="wifi_no_internet">دسترسی به اینترنت شناسایی نشد، به صورت خودکار وصل نمی‌شود.</string>
+  <string name="wifi_not_in_range">در محدوده نیست</string>
+  <string name="wifi_remembered">ذخیره‌شده</string>
+  <string name="wifi_security_none">هیچ‌کدام</string>
+  <string name="wifi_skipped_message">‏در طول راه‌اندازی، تلفنتان از شبکه تلفن همراه استفاده خواهد کرد و ممکن است هزینه این مصرف داده از حساب شما کسر شود. برای اجتناب از هزینه‌های احتمالی، به Wi‑Fi متصل شوید.</string>
+  <string name="wifi_skipped_title">هزینه‌های داده احتمالی</string>
+  <string name="wifi_title">‏انتخاب Wi-Fi</string>
+  <string name="wifi_verbose_logging">‏فعال کردن گزارش‌گیری طولانی Wi‑Fi</string>
+  <string name="wifi_verbose_logging_summary">‏افزایش سطح گزارش‌گیری Wi‑Fi، نمایش به ازای SSID RSSI در انتخاب‌کننده Wi‑Fi</string>
+  <string name="window_animation_scale_title">مقیاس پویانمایی پنجره</string>
 </resources>

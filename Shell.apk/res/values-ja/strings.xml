@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">シェル</string>
-    <string name="bugreport_in_progress_title">バグレポート #%d の生成中</string>
-    <string name="bugreport_finished_title">バグレポート #%d の記録完了</string>
-    <string name="bugreport_finished_pending_screenshot_title">バグレポート #%d 記録完了: スクリーンショット待ち</string>
-    <string name="bugreport_updating_title">バグレポートに詳細情報を追加しています</string>
-    <string name="bugreport_updating_wait">お待ちください…</string>
-    <string name="bugreport_finished_text">バグレポートを共有するにはタップします</string>
-    <string name="bugreport_finished_pending_screenshot_text">タップしてバグレポートをスクリーンショットなしで共有するか、スクリーンショット完成までお待ちください</string>
-    <string name="bugreport_confirm">バグレポートには、個人の非公開情報など、システムのさまざまなログファイルのデータが含まれます。共有する場合は信頼するアプリとユーザーのみを選択してください。</string>
-    <string name="bugreport_confirm_repeat">このメッセージを次回も表示する</string>
-    <string name="bugreport_storage_title">バグレポート</string>
-    <string name="bugreport_unreadable_text">バグレポート ファイルを読み取ることができませんでした</string>
-    <string name="bugreport_unnamed">名前なし</string>
-    <string name="bugreport_info_action">詳細</string>
-    <string name="bugreport_screenshot_action">スクリーンショット</string>
-    <string name="bugreport_screenshot_taken">スクリーンショットを正常に撮影しました。</string>
-    <string name="bugreport_screenshot_failed">スクリーンショットを撮影できませんでした。</string>
-    <string name="bugreport_info_dialog_title">バグレポート #%d の詳細</string>
-    <string name="bugreport_info_name">ファイル名</string>
-    <string name="bugreport_info_title">バグのタイトル</string>
-    <string name="bugreport_info_description">バグの概要</string>
-    <string name="save">保存</string>
+  <string name="app_label">シェル</string>
+  <string name="bugreport_confirm">バグレポートには、個人の非公開情報など、システムのさまざまなログファイルのデータが含まれます。共有する場合は信頼するアプリとユーザーのみを選択してください。</string>
+  <string name="bugreport_confirm_repeat">このメッセージを次回も表示する</string>
+  <string name="bugreport_finished_pending_screenshot_text">タップしてバグレポートをスクリーンショットなしで共有するか、スクリーンショット完成までお待ちください</string>
+  <string name="bugreport_finished_pending_screenshot_title">バグレポート #%d 記録完了: スクリーンショット待ち</string>
+  <string name="bugreport_finished_text">バグレポートを共有するにはタップします</string>
+  <string name="bugreport_finished_title">バグレポート #%d の記録完了</string>
+  <string name="bugreport_in_progress_title">バグレポート #%d の生成中</string>
+  <string name="bugreport_info_action">詳細</string>
+  <string name="bugreport_info_description">バグの概要</string>
+  <string name="bugreport_info_dialog_title">バグレポート #%d の詳細</string>
+  <string name="bugreport_info_name">ファイル名</string>
+  <string name="bugreport_info_title">バグのタイトル</string>
+  <string name="bugreport_screenshot_action">スクリーンショット</string>
+  <string name="bugreport_screenshot_failed">スクリーンショットを撮影できませんでした。</string>
+  <string name="bugreport_screenshot_taken">スクリーンショットを正常に撮影しました。</string>
+  <string name="bugreport_storage_title">バグレポート</string>
+  <string name="bugreport_unnamed">名前なし</string>
+  <string name="bugreport_unreadable_text">バグレポート ファイルを読み取ることができませんでした</string>
+  <string name="bugreport_updating_title">バグレポートに詳細情報を追加しています</string>
+  <string name="bugreport_updating_wait">お待ちください…</string>
+  <string name="save">保存</string>
 </resources>

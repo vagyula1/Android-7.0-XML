@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Tikrinama prenumeratos būsena. Prašome palaukti...</string>
-    <string name="vzw_error_msg_title">Nepavyko apdoroti jūsų užsakymo</string>
-    <string name="vzw_error_msg">"Jei norėtumėte užsiprenumeruoti „Mobile Hotspot“ / „Mobile Broadband Connect“, skambinkite numeriais: 
+  <string name="alert_dialog_later_button">Vėliau</string>
+  <string name="alert_dialog_negative_button">Atšaukti</string>
+  <string name="alert_dialog_no_button">Ne</string>
+  <string name="alert_dialog_positive_button">GERAI</string>
+  <string name="alert_dialog_upgrade_button">Atnaujinimas</string>
+  <string name="alert_dialog_yes_button">Taip</string>
+  <string name="app_name">Teisės</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Norėdami aktyvinti, apsilankykite att.com/mywireless arba skambinkite 611</string>
+  <string name="att_error_msg_other">Iškilo laikina tinklo problema, neleidžianti įjungti mobiliojo interneto taško funkcijos. Prašome pabandyti vėliau.</string>
+  <string name="att_error_msg_other_title">Tinklo klaida</string>
+  <string name="att_error_msg_title">Paskyra nenustatyta interneto prieigai per telefoną</string>
+  <string name="browser_error_msg">Nepavyksta atidaryti naršyklės.</string>
+  <string name="feature_check_msg">Tikrinama prenumeratos būsena. Prašome palaukti...</string>
+  <string name="mobile_hotspot">Mobilioji „Wi-Fi“ zona</string>
+  <string name="network_connection_error_msg">Šiuo metu jūsų telefonas negali prisijungti prie %s serverio. Prašome pabandyti vėliau.</string>
+  <string name="network_connection_title">Tinklo ryšio klaida</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Su&amp;#382;inokite daugiau ir u&amp;#382;siprenumeruokite mobiliosios \"Wi-Fi\" zonos paslaug&amp;#261; apsilank&amp;#281; \"My Verizon\".&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Norėdami naudotis mobiliąja \"Wi-Fi\" zona, turite prenumeruoti mobiliosios \"Wi-Fi\" zonos paslaugą</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Nepavyko prisijungti prie duomenų tinklo; galbūt nesate užsiprenumeravę interneto prieigos per telefoną ar interneto taško paslaugos. Susisiekite su telefono ryšio paslaugų bendrove.</string>
+  <string name="sprint_error_msg_3g">Nepavyko prisijungti prie duomenų tinklo; interneto prieiga per telefoną ar interneto taško paslauga išjungiama. Galbūt jūsų planas nenumato interneto prieigos per telefoną ar interneto taško paslaugos. Ar norėtumėte peržiūrėti prenumeravimo galimybes?</string>
+  <string name="sprint_error_msg_lte">Nesate užsiprenumeravę interneto prieigos per telefoną ar interneto taško paslaugos. Ar norėtumėte peržiūrėti prenumeravimo galimybes?</string>
+  <string name="sprint_error_msg_title">Interneto prieigos per telefoną ar interneto taško paslaugos klaida</string>
+  <string name="sprint_notification_msg">Palieskite, norėdami pamatyti daugiau informacijos</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Jūsų dabartinis planas neapima paslaugos „Smartphone Mobile HotSpot“, leidžiančios dalytis jūsų telefono duomenimis su kitais įrenginiais. Ar norėtumėte įtraukti paslaugą „Smartphone Mobile HotSpot“ į savo planą? Ją taip pat galite įtraukti internetu adresu https://my.t-mobile.com, eidami į Tvarkyti &gt; Planai ir paslaugos.</string>
+  <string name="tmo_error_msg_title">Būtinas paslaugos atnaujinimas</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Jei norėtumėte užsiprenumeruoti „Mobile Hotspot“ / „Mobile Broadband Connect“, skambinkite numeriais: 
  privatiems klientams: (800) 256-4646, 
  verslo klientams: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Būtinas paslaugos atnaujinimas</string>
-    <string name="tmo_error_msg">Jūsų dabartinis planas neapima paslaugos „Smartphone Mobile HotSpot“, leidžiančios dalytis jūsų telefono duomenimis su kitais įrenginiais. Ar norėtumėte įtraukti paslaugą „Smartphone Mobile HotSpot“ į savo planą? Ją taip pat galite įtraukti internetu adresu https://my.t-mobile.com, eidami į Tvarkyti > Planai ir paslaugos.</string>
-    <string name="app_name">Teisės</string>
-    <string name="network_connection_title">Tinklo ryšio klaida</string>
-    <string name="network_connection_error_msg">Šiuo metu jūsų telefonas negali prisijungti prie %s serverio. Prašome pabandyti vėliau.</string>
-    <string name="mobile_hotspot">Mobilioji „Wi-Fi“ zona</string>
-    <string name="spg_dlg_normaltext">Norėdami naudotis mobiliąja \"Wi-Fi\" zona, turite prenumeruoti mobiliosios \"Wi-Fi\" zonos paslaugą</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Sužinokite daugiau ir užsiprenumeruokite mobiliosios \"Wi-Fi\" zonos paslaugą apsilankę \"My Verizon\".</a></string>
-    <string name="browser_error_msg">Nepavyksta atidaryti naršyklės.</string>
-    <string name="alert_dialog_positive_button">GERAI</string>
-    <string name="alert_dialog_negative_button">Atšaukti</string>
-    <string name="alert_dialog_yes_button">Taip</string>
-    <string name="alert_dialog_no_button">Ne</string>
-    <string name="alert_dialog_upgrade_button">Atnaujinimas</string>
-    <string name="alert_dialog_later_button">Vėliau</string>
-    <string name="att_error_msg">Norėdami aktyvinti, apsilankykite att.com/mywireless arba skambinkite 611</string>
-    <string name="att_error_msg_title">Paskyra nenustatyta interneto prieigai per telefoną</string>
-    <string name="att_error_msg_other">Iškilo laikina tinklo problema, neleidžianti įjungti mobiliojo interneto taško funkcijos. Prašome pabandyti vėliau.</string>
-    <string name="att_error_msg_other_title">Tinklo klaida</string>
-    <string name="sprint_error_msg">Nepavyko prisijungti prie duomenų tinklo; galbūt nesate užsiprenumeravę interneto prieigos per telefoną ar interneto taško paslaugos. Susisiekite su telefono ryšio paslaugų bendrove.</string>
-    <string name="sprint_error_msg_lte">Nesate užsiprenumeravę interneto prieigos per telefoną ar interneto taško paslaugos. Ar norėtumėte peržiūrėti prenumeravimo galimybes?</string>
-    <string name="sprint_error_msg_3g">Nepavyko prisijungti prie duomenų tinklo; interneto prieiga per telefoną ar interneto taško paslauga išjungiama. Galbūt jūsų planas nenumato interneto prieigos per telefoną ar interneto taško paslaugos. Ar norėtumėte peržiūrėti prenumeravimo galimybes?</string>
-    <string name="sprint_error_msg_title">Interneto prieigos per telefoną ar interneto taško paslaugos klaida</string>
-    <string name="sprint_notification_msg">Palieskite, norėdami pamatyti daugiau informacijos</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Nepavyko apdoroti jūsų užsakymo</string>
 </resources>

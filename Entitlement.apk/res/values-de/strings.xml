@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Abonnementstatus wird geprüft. Bitte warten...</string>
-    <string name="vzw_error_msg_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
-    <string name="vzw_error_msg">"Wenn Sie \"Mobiler Hotspot\"/\"Mobile Broadband Connect\" abonnieren möchten, rufen Sie uns unter den folgenden Nummern an: 
+  <string name="alert_dialog_later_button">Später</string>
+  <string name="alert_dialog_negative_button">Abbrechen</string>
+  <string name="alert_dialog_no_button">Nein</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Upgrade</string>
+  <string name="alert_dialog_yes_button">Ja</string>
+  <string name="app_name">Berechtigung</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Besuchen Sie zur Aktivierung att.com/mywireless oder wählen Sie 611.</string>
+  <string name="att_error_msg_other">Es liegt ein vorübergehendes Netzwerkproblem vor, das die Aktivierung der mobilen Hotspot-Funktion verhindert. Versuchen Sie es später erneut.</string>
+  <string name="att_error_msg_other_title">Netzwerkfehler</string>
+  <string name="att_error_msg_title">Konto nicht für Tethering eingerichtet</string>
+  <string name="browser_error_msg">Browser kann nicht geöffnet werden.</string>
+  <string name="feature_check_msg">Abonnementstatus wird geprüft. Bitte warten...</string>
+  <string name="mobile_hotspot">Mobiler Hotspot</string>
+  <string name="network_connection_error_msg">Das Smartphone kann derzeit keine Verbindung zum %s-Server herstellen. Versuchen Sie es später erneut.</string>
+  <string name="network_connection_title">Netzwerkverbindungsfehler</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Weitere Details sowie Informationen zum Abonnieren des mobilen Hotspots finden Sie auf My Verizon.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Sie müssen den Dienst für mobilen Hotspot abonnieren, um einen mobilen Hotspot verwenden zu können.</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Die Verbindung zum Datennetz konnte nicht hergestellt werden. Möglicherweise haben Sie die Tethering- oder Hotspot-Dienste nicht abonniert. Wenden Sie sich an Ihren Telefonanbieter.</string>
+  <string name="sprint_error_msg_3g">Es konnte keine Verbindung zum Datennetz hergestellt werden, sodass Tethering bzw. Hotspot ausgeschaltet wurden. Ihr Tarif deckt möglicherweise keinen Tethering- und Hotspot-Dienst ab. Wünschen Sie Informationen zu den Abonnementoptionen?</string>
+  <string name="sprint_error_msg_lte">Sie haben den Tethering- und Hotspot-Dienst nicht abonniert. Wünschen Sie Informationen zu den Abonnement-Optionen?</string>
+  <string name="sprint_error_msg_title">Tethering- oder Hotspot-Fehler</string>
+  <string name="sprint_notification_msg">Hier berühren für weitere Informationen</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Ihr aktueller Tarif beinhaltet keinen Dienst für mobile Hotspots für Smartphones, der Ihnen das Teilen Ihrer Datenverbindung mit anderen Geräten ermöglicht. Möchten Sie diesen Dienst für mobile Hotspots zu Ihrem Tarif hinzufügen? Sie können ihn auch unter https://my.t-mobile.com unter \"Verwalten &gt; Tarife und Dienste\" hinzufügen.</string>
+  <string name="tmo_error_msg_title">Dienst-Upgrade erforderlich</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Wenn Sie \"Mobiler Hotspot\"/\"Mobile Broadband Connect\" abonnieren möchten, rufen Sie uns unter den folgenden Nummern an: 
 Privatpersonen: (800) 256-4646 
 Firmen: (800) 899-4249"</string>
-    <string name="tmo_error_msg_title">Dienst-Upgrade erforderlich</string>
-    <string name="tmo_error_msg">Ihr aktueller Tarif beinhaltet keinen Dienst für mobile Hotspots für Smartphones, der Ihnen das Teilen Ihrer Datenverbindung mit anderen Geräten ermöglicht. Möchten Sie diesen Dienst für mobile Hotspots zu Ihrem Tarif hinzufügen? Sie können ihn auch unter https://my.t-mobile.com unter \"Verwalten > Tarife und Dienste\" hinzufügen.</string>
-    <string name="app_name">Berechtigung</string>
-    <string name="network_connection_title">Netzwerkverbindungsfehler</string>
-    <string name="network_connection_error_msg">Das Smartphone kann derzeit keine Verbindung zum %s-Server herstellen. Versuchen Sie es später erneut.</string>
-    <string name="mobile_hotspot">Mobiler Hotspot</string>
-    <string name="spg_dlg_normaltext">Sie müssen den Dienst für mobilen Hotspot abonnieren, um einen mobilen Hotspot verwenden zu können.</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Weitere Details sowie Informationen zum Abonnieren des mobilen Hotspots finden Sie auf My Verizon.</a></string>
-    <string name="browser_error_msg">Browser kann nicht geöffnet werden.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Abbrechen</string>
-    <string name="alert_dialog_yes_button">Ja</string>
-    <string name="alert_dialog_no_button">Nein</string>
-    <string name="alert_dialog_upgrade_button">Upgrade</string>
-    <string name="alert_dialog_later_button">Später</string>
-    <string name="att_error_msg">Besuchen Sie zur Aktivierung att.com/mywireless oder wählen Sie 611.</string>
-    <string name="att_error_msg_title">Konto nicht für Tethering eingerichtet</string>
-    <string name="att_error_msg_other">Es liegt ein vorübergehendes Netzwerkproblem vor, das die Aktivierung der mobilen Hotspot-Funktion verhindert. Versuchen Sie es später erneut.</string>
-    <string name="att_error_msg_other_title">Netzwerkfehler</string>
-    <string name="sprint_error_msg">Die Verbindung zum Datennetz konnte nicht hergestellt werden. Möglicherweise haben Sie die Tethering- oder Hotspot-Dienste nicht abonniert. Wenden Sie sich an Ihren Telefonanbieter.</string>
-    <string name="sprint_error_msg_lte">Sie haben den Tethering- und Hotspot-Dienst nicht abonniert. Wünschen Sie Informationen zu den Abonnement-Optionen?</string>
-    <string name="sprint_error_msg_3g">Es konnte keine Verbindung zum Datennetz hergestellt werden, sodass Tethering bzw. Hotspot ausgeschaltet wurden. Ihr Tarif deckt möglicherweise keinen Tethering- und Hotspot-Dienst ab. Wünschen Sie Informationen zu den Abonnementoptionen?</string>
-    <string name="sprint_error_msg_title">Tethering- oder Hotspot-Fehler</string>
-    <string name="sprint_notification_msg">Hier berühren für weitere Informationen</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
 </resources>

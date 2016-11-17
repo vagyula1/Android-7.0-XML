@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Проверка состояния подписки. Подождите...</string>
-    <string name="vzw_error_msg_title">Не удалось обработать ваш заказ</string>
-    <string name="vzw_error_msg">"Чтобы подписаться на услугу \"Мобильная точка доступа/Mobile Broadband Connect\", позвоните: 
+  <string name="alert_dialog_later_button">Отложить</string>
+  <string name="alert_dialog_negative_button">Отменить</string>
+  <string name="alert_dialog_no_button">Нет</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Обновление</string>
+  <string name="alert_dialog_yes_button">Да</string>
+  <string name="app_name">Предоставление разрешения</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Чтобы включить, перейдите на сайт \"att.com/mywireless\" или наберите 611</string>
+  <string name="att_error_msg_other">Невозможно активировать мобильную точку доступа в результате ошибки сети. Повторите попытку позже.</string>
+  <string name="att_error_msg_other_title">Ошибка сети</string>
+  <string name="att_error_msg_title">Аккаунт не настроен для режима модема</string>
+  <string name="browser_error_msg">Невозможно открыть браузер.</string>
+  <string name="feature_check_msg">Проверка состояния подписки. Подождите...</string>
+  <string name="mobile_hotspot">Мобильная точка доступа</string>
+  <string name="network_connection_error_msg">В настоящий момент телефон не может быть подключен к серверу %s. Повторите попытку позже.</string>
+  <string name="network_connection_title">Ошибка сетевого подключения</string>
+  <string name="spg_dlg_linktext">Получить подробную информацию и подписаться на службу мобильной точки доступа можно, перейдя на сайт My Verizon: &lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Для использования мобильной точки доступа необходимо подписаться на службу мобильной точки доступа.</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Невозможно подключиться к сети передачи данных. Возможно, вы не подписаны на функцию использования телефона в качестве модема или точки доступа. Обратитесь в компанию, предоставляющую услуги связи.</string>
+  <string name="sprint_error_msg_3g">Невозможно подключиться к сети передачи данных; функция режима модема или точки доступа отключается. Возможно, услуга использования телефона в режиме модема и точки доступа не включена в ваш план подписки. Просмотреть варианты подписки?</string>
+  <string name="sprint_error_msg_lte">Подписка на услугу использования телефона в режиме модема и точки доступа не зарегистрирована. Просмотреть варианты подписки?</string>
+  <string name="sprint_error_msg_title">Ошибка режима модема или точки доступа</string>
+  <string name="sprint_notification_msg">Нажмите, чтобы посмотреть подробную информацию</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">Ваш текущий тарифный план не включает услугу Smartphone Mobile HotSpot, позволяющую другим устройствам использовать ваш телефон как точку доступа для передачи данных. Если вы хотите добавить службу Smartphone Mobile HotSpot к вашему тарифному плану, вы можете подключить эту услугу в режиме онлайн на странице https://my.t-mobile.com в разделе Управление &gt; Тарифные планы и услуги.</string>
+  <string name="tmo_error_msg_title">Требуется обновление службы</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Чтобы подписаться на услугу \"Мобильная точка доступа/Mobile Broadband Connect\", позвоните: 
  для частных лиц: (800) 256-4646, 
  для организаций: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Требуется обновление службы</string>
-    <string name="tmo_error_msg">Ваш текущий тарифный план не включает услугу Smartphone Mobile HotSpot, позволяющую другим устройствам использовать ваш телефон как точку доступа для передачи данных. Если вы хотите добавить службу Smartphone Mobile HotSpot к вашему тарифному плану, вы можете подключить эту услугу в режиме онлайн на странице https://my.t-mobile.com в разделе Управление > Тарифные планы и услуги.</string>
-    <string name="app_name">Предоставление разрешения</string>
-    <string name="network_connection_title">Ошибка сетевого подключения</string>
-    <string name="network_connection_error_msg">В настоящий момент телефон не может быть подключен к серверу %s. Повторите попытку позже.</string>
-    <string name="mobile_hotspot">Мобильная точка доступа</string>
-    <string name="spg_dlg_normaltext">Для использования мобильной точки доступа необходимо подписаться на службу мобильной точки доступа.</string>
-    <string name="spg_dlg_linktext">Получить подробную информацию и подписаться на службу мобильной точки доступа можно, перейдя на сайт My Verizon: <a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">.</a></string>
-    <string name="browser_error_msg">Невозможно открыть браузер.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Отменить</string>
-    <string name="alert_dialog_yes_button">Да</string>
-    <string name="alert_dialog_no_button">Нет</string>
-    <string name="alert_dialog_upgrade_button">Обновление</string>
-    <string name="alert_dialog_later_button">Отложить</string>
-    <string name="att_error_msg">Чтобы включить, перейдите на сайт \"att.com/mywireless\" или наберите 611</string>
-    <string name="att_error_msg_title">Аккаунт не настроен для режима модема</string>
-    <string name="att_error_msg_other">Невозможно активировать мобильную точку доступа в результате ошибки сети. Повторите попытку позже.</string>
-    <string name="att_error_msg_other_title">Ошибка сети</string>
-    <string name="sprint_error_msg">Невозможно подключиться к сети передачи данных. Возможно, вы не подписаны на функцию использования телефона в качестве модема или точки доступа. Обратитесь в компанию, предоставляющую услуги связи.</string>
-    <string name="sprint_error_msg_lte">Подписка на услугу использования телефона в режиме модема и точки доступа не зарегистрирована. Просмотреть варианты подписки?</string>
-    <string name="sprint_error_msg_3g">Невозможно подключиться к сети передачи данных; функция режима модема или точки доступа отключается. Возможно, услуга использования телефона в режиме модема и точки доступа не включена в ваш план подписки. Просмотреть варианты подписки?</string>
-    <string name="sprint_error_msg_title">Ошибка режима модема или точки доступа</string>
-    <string name="sprint_notification_msg">Нажмите, чтобы посмотреть подробную информацию</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Не удалось обработать ваш заказ</string>
 </resources>

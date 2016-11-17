@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Status van abonnement controleren. Een ogenblik geduld...</string>
-    <string name="vzw_error_msg_title">Uw bestelling kan niet worden verwerkt</string>
-    <string name="vzw_error_msg">"Als u zich wilt abonneren op Mobiele hotspot/Mobiele breedbandverbinding, belt u: 
+  <string name="alert_dialog_later_button">Later</string>
+  <string name="alert_dialog_negative_button">Annuleren</string>
+  <string name="alert_dialog_no_button">Nee</string>
+  <string name="alert_dialog_positive_button">OK</string>
+  <string name="alert_dialog_upgrade_button">Upgrade</string>
+  <string name="alert_dialog_yes_button">Ja</string>
+  <string name="app_name">Bevoegdheid</string>
+  <string name="att">AT&amp;T</string>
+  <string name="att_error_msg">Ga om in te schakelen naar att.com/mywireless of kies 611</string>
+  <string name="att_error_msg_other">Door een tijdelijke netwerkfout kan de functie Mobiele hotspot niet worden ingeschakeld. Probeer het later opnieuw</string>
+  <string name="att_error_msg_other_title">Netwerkfout</string>
+  <string name="att_error_msg_title">Account niet ingesteld voor tethering</string>
+  <string name="browser_error_msg">Kan de browser niet openen.</string>
+  <string name="feature_check_msg">Status van abonnement controleren. Een ogenblik geduld...</string>
+  <string name="mobile_hotspot">Mobiele hotspot</string>
+  <string name="network_connection_error_msg">Uw telefoon kan momenteel geen verbinding maken met de server van %s. Probeer het later opnieuw.</string>
+  <string name="network_connection_title">Netwerkverbindingsfout</string>
+  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Lees meer over mobiele hotspot en meld u hierbij aan door naar My Verizon te gaan.&lt;/a&gt;</string>
+  <string name="spg_dlg_normaltext">Als u een mobiele hotspot wilt gebruiken dient u uzelf bij de mobiele hotspot-service aan te melden</string>
+  <string name="sprint">Sprint</string>
+  <string name="sprint_error_msg">Kan geen verbinding maken met gegevensnetwerk. U bent mogelijk niet geabonneerd op de service Tethering of Hotspot. Neem contact op met uw telefoonmaatschappij.</string>
+  <string name="sprint_error_msg_3g">Kan geen verbinding maken met netwerk, Tethering of Hotspot wordt uitgeschakeld. Mogelijk wilt u geen gebruikmaken van de service Tethering en Hotspot. Wilt u de abonnementopties bekijken?</string>
+  <string name="sprint_error_msg_lte">U bent niet geabonneerd op de service Tethering en Hotspot. Wilt u de abonnementopties bekijken?</string>
+  <string name="sprint_error_msg_title">Fout met tethering of hotspot</string>
+  <string name="sprint_notification_msg">Raak aan om meer details te zien</string>
+  <string name="tmo">T-Mobile</string>
+  <string name="tmo_error_msg">De Smartphone Mobiele hotspot-service, waarmee u de gegevensverbinding van uw telefoon met andere apparaten kunt delen, is niet inbegrepen in uw huidige gegevensabonnement. Wilt u de Smartphone Mobiele hotspot-service aan uw gegevensabonnement toevoegen? U kunt het ook online toevoegen door naar https://my.t-mobile.com te gaan en Manage (Beheren) &gt; Plans and Services (Abonnementen en services) te selecteren.</string>
+  <string name="tmo_error_msg_title">Service-upgrade vereist</string>
+  <string name="verizon">Verizon</string>
+  <string name="vzw_error_msg">"Als u zich wilt abonneren op Mobiele hotspot/Mobiele breedbandverbinding, belt u: 
  Particulier: (800) 256-4646, 
  Zakelijk: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Service-upgrade vereist</string>
-    <string name="tmo_error_msg">De Smartphone Mobiele hotspot-service, waarmee u de gegevensverbinding van uw telefoon met andere apparaten kunt delen, is niet inbegrepen in uw huidige gegevensabonnement. Wilt u de Smartphone Mobiele hotspot-service aan uw gegevensabonnement toevoegen? U kunt het ook online toevoegen door naar https://my.t-mobile.com te gaan en Manage (Beheren) > Plans and Services (Abonnementen en services) te selecteren.</string>
-    <string name="app_name">Bevoegdheid</string>
-    <string name="network_connection_title">Netwerkverbindingsfout</string>
-    <string name="network_connection_error_msg">Uw telefoon kan momenteel geen verbinding maken met de server van %s. Probeer het later opnieuw.</string>
-    <string name="mobile_hotspot">Mobiele hotspot</string>
-    <string name="spg_dlg_normaltext">Als u een mobiele hotspot wilt gebruiken dient u uzelf bij de mobiele hotspot-service aan te melden</string>
-    <string name="spg_dlg_linktext"><a href="https://mobile.vzw.com/hybridClient/mvm/hotspot">Lees meer over mobiele hotspot en meld u hierbij aan door naar My Verizon te gaan.</a></string>
-    <string name="browser_error_msg">Kan de browser niet openen.</string>
-    <string name="alert_dialog_positive_button">OK</string>
-    <string name="alert_dialog_negative_button">Annuleren</string>
-    <string name="alert_dialog_yes_button">Ja</string>
-    <string name="alert_dialog_no_button">Nee</string>
-    <string name="alert_dialog_upgrade_button">Upgrade</string>
-    <string name="alert_dialog_later_button">Later</string>
-    <string name="att_error_msg">Ga om in te schakelen naar att.com/mywireless of kies 611</string>
-    <string name="att_error_msg_title">Account niet ingesteld voor tethering</string>
-    <string name="att_error_msg_other">Door een tijdelijke netwerkfout kan de functie Mobiele hotspot niet worden ingeschakeld. Probeer het later opnieuw</string>
-    <string name="att_error_msg_other_title">Netwerkfout</string>
-    <string name="sprint_error_msg">Kan geen verbinding maken met gegevensnetwerk. U bent mogelijk niet geabonneerd op de service Tethering of Hotspot. Neem contact op met uw telefoonmaatschappij.</string>
-    <string name="sprint_error_msg_lte">U bent niet geabonneerd op de service Tethering en Hotspot. Wilt u de abonnementopties bekijken?</string>
-    <string name="sprint_error_msg_3g">Kan geen verbinding maken met netwerk, Tethering of Hotspot wordt uitgeschakeld. Mogelijk wilt u geen gebruikmaken van de service Tethering en Hotspot. Wilt u de abonnementopties bekijken?</string>
-    <string name="sprint_error_msg_title">Fout met tethering of hotspot</string>
-    <string name="sprint_notification_msg">Raak aan om meer details te zien</string>
-    <string name="att">AT&amp;T</string>
-    <string name="verizon">Verizon</string>
-    <string name="tmo">T-Mobile</string>
-    <string name="sprint">Sprint</string>
+  <string name="vzw_error_msg_title">Uw bestelling kan niet worden verwerkt</string>
 </resources>
