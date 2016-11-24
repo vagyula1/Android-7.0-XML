@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">İleri</string>
-    <string name="suw_back_button_label">Geri</string>
-    <string name="suw_more_button_label">Diğer</string>
-    <string name="entitlement_check_progress">Abonelik durumu kontrol ediliyor. Lütfen bekleyin.</string>
-    <string name="att_service_upgrade_msg">"Etkinleştirmek için att.com/mywireless adresine gidin veya 611'i arayın"</string>
-    <string name="att_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="sprint_entitlement_error">Servis desteklenmiyor. Lütfen servis sağlayıcınıza başvurun.</string>
-    <string name="sprint_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="vzw_service_upgrade_msg">Mobil Hotspot özelliğini kullanmak için lütfen müşteri hizmetlerini arayıp abone olun.</string>
-    <string name="vzw_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="vzw_wfc_activation_error">Kablosuz çağrı etkinleştirilemiyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="vzw_address_update_error">Şu anda geçerli acil durum adresi güncellenemiyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="generic_error">Kimlik doğrulanamadı. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="vzw_setup_app_label">Verizon Hesap Etkinleştirme İşlemi</string>
-    <string name="vzw_activate_title">Telefon etkinleştirme işlemi</string>
-    <string name="vzw_activate_progress">Telefonunuz hazırlanırken lütfen bekleyin.</string>
-    <string name="vzw_activate_exiting">Etkinleştirme işleminden çıkış yapılıyor.</string>
-    <string name="vzw_verify_title">Hesabınızı doğrulayın</string>
-    <string name="vzw_verify_ssn">Başlamak için hesap sahibinin Sosyal Güvenlik numarasının son 4 rakamını girin:</string>
-    <string name="vzw_verify_pwd">Başlamak için hesabınızın faturalandırma şifresini girin:</string>
-    <string name="vzw_verify_button">Doğrula</string>
-    <string name="vzw_later_button">Daha sonra</string>
-    <string name="vzw_verify_switch_ssn">Onun yerine Sosyal Güvenlik numarasını kullan</string>
-    <string name="vzw_verify_switch_pwd">Onun yerine faturalama şifresini kullan</string>
-    <string name="vzw_verify_progress_title">Hesabınız doğrulanıyor...</string>
-    <string name="vzw_activate_ready_title">Etkinleştirmeye hazır mısınız?</string>
-    <string name="vzw_activate_ready_new">Bu işlem birkaç dakika sürebilir</string>
-    <string name="vzw_activate_ready_upgrade">"Bu telefonu etkinleştirmeden önce kişilerinizi yedekleyin ve eski telefonunuzu kapatın.
+  <string name="apt_suite_number">Apt, Daire vb.</string>
+  <string name="att_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="att_service_upgrade_msg">"Etkinleştirmek için att.com/mywireless adresine gidin veya 611'i arayın"</string>
+  <string name="cancel">İptal</string>
+  <string name="city">Şehir</string>
+  <string name="edit_address">Adresi Düzenle</string>
+  <string name="emergency_address_app_label">Acil Durum Adresi Yönetimi</string>
+  <string name="entitlement_check_progress">Abonelik durumu kontrol ediliyor. Lütfen bekleyin.</string>
+  <string name="generic_error">Kimlik doğrulanamadı. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="house_number">Bina Numarası</string>
+  <string name="ok">Tamam</string>
+  <string name="progress_text">Lütfen bekleyin…</string>
+  <string name="save">Kaydet</string>
+  <string name="save_anyway">Yine de Kaydet</string>
+  <string name="sprint_entitlement_error">Servis desteklenmiyor. Lütfen servis sağlayıcınıza başvurun.</string>
+  <string name="sprint_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="state">Eyalet</string>
+  <string name="street">Sokak</string>
+  <string name="suw_back_button_label">Geri</string>
+  <string name="suw_more_button_label">Diğer</string>
+  <string name="suw_next_button_label">İleri</string>
+  <string name="vzw_activate_button">Etkinleştir</string>
+  <string name="vzw_activate_continue">Devam</string>
+  <string name="vzw_activate_error_lookup">Maalesef telefonunuzun etkinleştirilmesiyle ilgili sorun yaşıyoruz. (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişim kurun.</string>
+  <string name="vzw_activate_error_lost_stolen">Maalesef telefonunuzun etkinleştirilmesiyle ilgili bir sorun oluştu. 4G LTE hizmetinizi etkinleştirmek için lütfen başka bir telefondan (877) 807-4646 numaralı telefonu arayın ve daha sonra, tekrar deneyin.</string>
+  <string name="vzw_activate_error_network">Sinyalinizin iyi olduğundan (birden çok çubuk) emin olun ve tekrar deneyin. Bu sorun devam ederse yardım için lütfen (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişime geçin.</string>
+  <string name="vzw_activate_error_not_retryable">Maalesef telefonunuzun etkinleştirilmesiyle ilgili sorun yaşıyoruz. (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişim kurun.</string>
+  <string name="vzw_activate_error_pwd">Faturalama şifresi eşleşmiyor. Lütfen tekrar deneyin.</string>
+  <string name="vzw_activate_error_release">Telefonunuzu etkinleştirmek için başka bir telefondan (800) 922-0204 numaralı telefonu arayın.</string>
+  <string name="vzw_activate_error_restricted">Telefonunuzu etkinleştirmek için yeni telefonunuzla sağlanan talimatları uygulayın veya kuruluşunuzdaki Verizon Wireless yöneticisine başvurun.</string>
+  <string name="vzw_activate_error_restricted_title">Telefonunuz nasıl etkinleştirilir?</string>
+  <string name="vzw_activate_error_ssn">Sosyal Güvenlik numarası eşleşmiyor. Lütfen tekrar deneyin.</string>
+  <string name="vzw_activate_error_title">Etkinleştirilemiyor</string>
+  <string name="vzw_activate_exiting">Etkinleştirme işleminden çıkış yapılıyor.</string>
+  <string name="vzw_activate_notification">Telefonu etkinl. için dokunun</string>
+  <string name="vzw_activate_notification_title">Etkinleştirmeye hazır mısınız?</string>
+  <string name="vzw_activate_progress">Telefonunuz hazırlanırken lütfen bekleyin.</string>
+  <string name="vzw_activate_ready_new">Bu işlem birkaç dakika sürebilir</string>
+  <string name="vzw_activate_ready_title">Etkinleştirmeye hazır mısınız?</string>
+  <string name="vzw_activate_ready_upgrade">"Bu telefonu etkinleştirmeden önce kişilerinizi yedekleyin ve eski telefonunuzu kapatın.
 
 Etkinleştirmeyi başlattığınızda numaranız bu telefona aktarılır ve eski telefonunuz devre dışı bırakılır."</string>
-    <string name="vzw_activate_button">Etkinleştir</string>
-    <string name="vzw_activating_new_title">Telefon numarası alınıyor...</string>
-    <string name="vzw_activating_upgrade_title">Telefon numarası aktarılıyor...</string>
-    <string name="vzw_activating_upgrade">Numaranızın yeni telefonunuza aktarılabilmesi için eski telefonunuzun kapalı olması gerekmekir.</string>
-    <string name="vzw_activate_success_title">Telefon etkinleştirildi</string>
-    <string name="vzw_activate_success">Verizon telefonunuz şu anda etkin. Numaranız %1$s</string>
-    <string name="vzw_data_limit_title">Veri kullanımı sınırlı</string>
-    <string name="vzw_data_limit">Veri kullanımınız, günün saati veya veri limiti nedeniyle sınırlı. Cihazınızın kurulumuna devam etmek için kablosuz bağlantı kullanmanız gerekecek.</string>
-    <string name="vzw_data_restricted_title">Veri kullanımı sınırlı</string>
-    <string name="vzw_data_restricted">Geçerli saat veya veri sınırlaması nedeniyle</string>
-    <string name="vzw_data_redirected_title">Verizon hizmeti al</string>
-    <string name="vzw_data_redirected">Verizon Wireless paketiniz yok veya paketiniz bitmiş, lütfen Verizon ile iletişim kurun</string>
-    <string name="vzw_activate_notification_title">Etkinleştirmeye hazır mısınız?</string>
-    <string name="vzw_activate_notification">Telefonu etkinl. için dokunun</string>
-    <string name="vzw_cold_notification">Telefonunuzu etkinleştirmek için Verizon ile iletişime geçin.</string>
-    <string name="vzw_activate_error_title">Etkinleştirilemiyor</string>
-    <string name="vzw_activate_error_network">Sinyalinizin iyi olduğundan (birden çok çubuk) emin olun ve tekrar deneyin. Bu sorun devam ederse yardım için lütfen (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişime geçin.</string>
-    <string name="vzw_activate_error_lookup">Maalesef telefonunuzun etkinleştirilmesiyle ilgili sorun yaşıyoruz. (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişim kurun.</string>
-    <string name="vzw_activate_error_ssn">Sosyal Güvenlik numarası eşleşmiyor. Lütfen tekrar deneyin.</string>
-    <string name="vzw_activate_error_pwd">Faturalama şifresi eşleşmiyor. Lütfen tekrar deneyin.</string>
-    <string name="vzw_activate_error_not_retryable">Maalesef telefonunuzun etkinleştirilmesiyle ilgili sorun yaşıyoruz. (800) 922-0204 numaralı telefondan müşteri hizmetleriyle iletişim kurun.</string>
-    <string name="vzw_activate_error_release">Telefonunuzu etkinleştirmek için başka bir telefondan (800) 922-0204 numaralı telefonu arayın.</string>
-    <string name="vzw_activate_error_restricted_title">Telefonunuz nasıl etkinleştirilir?</string>
-    <string name="vzw_activate_error_restricted">Telefonunuzu etkinleştirmek için yeni telefonunuzla sağlanan talimatları uygulayın veya kuruluşunuzdaki Verizon Wireless yöneticisine başvurun.</string>
-    <string name="vzw_activate_error_lost_stolen">Maalesef telefonunuzun etkinleştirilmesiyle ilgili bir sorun oluştu. 4G LTE hizmetinizi etkinleştirmek için lütfen başka bir telefondan (877) 807-4646 numaralı telefonu arayın ve daha sonra, tekrar deneyin.</string>
-    <string name="vzw_activate_continue">Devam</string>
-    <string name="vzw_activate_retry">Yeniden Dene</string>
-    <string name="vzw_activate_skip">Atla</string>
-    <string name="emergency_address_app_label">Acil Durum Adresi Yönetimi</string>
-    <string name="progress_text">Lütfen bekleyin…</string>
-    <string name="vzw_tos_title">Kablosuz Çağrıyı Etkinleştirin</string>
-    <string name="cancel">İptal</string>
-    <string name="vzw_tos_text">"Kablosuz Çağrı, mobil ağ kullanılamadığında kablosuz bağlantı üzerinden çağrı yapabilmenizi sağlar.
+  <string name="vzw_activate_retry">Yeniden Dene</string>
+  <string name="vzw_activate_skip">Atla</string>
+  <string name="vzw_activate_success">Verizon telefonunuz şu anda etkin. Numaranız %1$s</string>
+  <string name="vzw_activate_success_title">Telefon etkinleştirildi</string>
+  <string name="vzw_activate_title">Telefon etkinleştirme işlemi</string>
+  <string name="vzw_activating_new_title">Telefon numarası alınıyor...</string>
+  <string name="vzw_activating_upgrade">Numaranızın yeni telefonunuza aktarılabilmesi için eski telefonunuzun kapalı olması gerekmekir.</string>
+  <string name="vzw_activating_upgrade_title">Telefon numarası aktarılıyor...</string>
+  <string name="vzw_address_alternate_text">Şunu mu demek istediniz:</string>
+  <string name="vzw_address_confirm_text">"Girdiğiniz adres bulunamadı. Açık adres bulunamamış veya şehir, eyalet ve posta kodu yanlış girilmiş olabilir.
+
+Şehir, eyalet ve posta kodu bilgileriniz doğru değilse %1$s düğmesine dokunun. Bu bilgiler doğruysa %2$s düğmesine dokunun."</string>
+  <string name="vzw_address_confirm_text_part1">Girdiğiniz adres bulunamadı. Açık adres bulunamamış veya şehir, eyalet ve posta kodu yanlış girilmiş olabilir.</string>
+  <string name="vzw_address_confirm_text_part2">Şehir, eyalet ve posta kodu bilgileriniz doğru değilse %1$s düğmesine dokunun. Bu bilgiler doğruysa %2$s düğmesine dokunun.</string>
+  <string name="vzw_address_select_text">Girdiğiniz adres bulunamadı:</string>
+  <string name="vzw_address_update_error">Şu anda geçerli acil durum adresi güncellenemiyor. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="vzw_cold_notification">Telefonunuzu etkinleştirmek için Verizon ile iletişime geçin.</string>
+  <string name="vzw_data_limit">Veri kullanımınız, günün saati veya veri limiti nedeniyle sınırlı. Cihazınızın kurulumuna devam etmek için kablosuz bağlantı kullanmanız gerekecek.</string>
+  <string name="vzw_data_limit_title">Veri kullanımı sınırlı</string>
+  <string name="vzw_data_redirected">Verizon Wireless paketiniz yok veya paketiniz bitmiş, lütfen Verizon ile iletişim kurun</string>
+  <string name="vzw_data_redirected_title">Verizon hizmeti al</string>
+  <string name="vzw_data_restricted">Geçerli saat veya veri sınırlaması nedeniyle</string>
+  <string name="vzw_data_restricted_title">Veri kullanımı sınırlı</string>
+  <string name="vzw_e911_description">&lt;b&gt;&amp;#214;NEML&amp;#304; - AC&amp;#304;L DURUM 911 ADRES&amp;#304; GEREKL&amp;#304;&lt;/b&gt;"
+Kablosuz &amp;#199;a&amp;#287;r&amp;#305; &amp;#246;zelli&amp;#287;ini etkinle&amp;#351;tirmek i&amp;#231;in, 911'i araman&amp;#305;z durumunda acil durum hizmetlerinin g&amp;#246;nderilmesini istedi&amp;#287;iniz ABD'deki adresi girin. &amp;#304;stedi&amp;#287;iniz zaman Ayarlar'dan bu adresi de&amp;#287;i&amp;#351;tirebilirsiniz. Konumunuzu de&amp;#287;i&amp;#351;tirdi&amp;#287;inizde bu adresi g&amp;#252;ncellemeniz son derece &amp;#246;nemlidir."</string>
+  <string name="vzw_e911_title">Acil Durum Konum Bilgileri</string>
+  <string name="vzw_e911_warning">&lt;b&gt;UYARILAR - AC&amp;#304;L DURUM 911 &amp;#199;A&amp;#286;RISI SINIRLAMALARI&lt;/b&gt;"
+911'i arad&amp;#305;&amp;#287;&amp;#305;n&amp;#305;zda her zaman operat&amp;#246;re nerede oldu&amp;#287;unuzu s&amp;#246;yleyin. 911 &amp;#231;a&amp;#287;r&amp;#305;n&amp;#305;z, yaln&amp;#305;zca h&amp;#252;cresel a&amp;#287; kullan&amp;#305;labilir olmad&amp;#305;&amp;#287;&amp;#305;nda kablosuz a&amp;#287; &amp;#252;zerinden ger&amp;#231;ekle&amp;#351;tirilir. Kablosuz a&amp;#287; &amp;#252;zerinden ger&amp;#231;ekle&amp;#351;tirilen 911 &amp;#231;a&amp;#287;r&amp;#305;lar&amp;#305; gecikmeli veya ba&amp;#351;ar&amp;#305;s&amp;#305;z olabilir. &amp;#214;rne&amp;#287;in, 911 &amp;#231;a&amp;#287;r&amp;#305; sistemi, adresi tan&amp;#305;mayabilir, elektrik kesilebilir veya kablosuz ba&amp;#287;lant&amp;#305;n&amp;#305;z &amp;#231;al&amp;#305;&amp;#351;m&amp;#305;yor olabilir. Acil durum hizmetleri yukar&amp;#305;da sa&amp;#287;lad&amp;#305;&amp;#287;&amp;#305;n&amp;#305;z adrese g&amp;#246;nderilecektir. Bu y&amp;#252;zden, l&amp;#252;tfen konumunuzu de&amp;#287;i&amp;#351;tirdi&amp;#287;inizde bu bilgileri g&amp;#252;ncelleyin."</string>
+  <string name="vzw_later_button">Daha sonra</string>
+  <string name="vzw_network_error">Ağ kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="vzw_partial_confirm_head">Girilen adres, Acil Durum Servis Sağlayıcıları tarafından doğrulanamadı.</string>
+  <string name="vzw_partial_confirm_text">Bu adresi acil bir durumda kullanmak istediğinizden emin misiniz?</string>
+  <string name="vzw_partial_failure_text">"Girdiğiniz şehir, eyalet veya posta kodu doğru olmayabilir.
+
+Lütfen adresi kontrol edin ve tekrar deneyin."</string>
+  <string name="vzw_partial_failure_text_part1">Girdiğiniz şehir, eyalet veya posta kodu doğru olmayabilir.</string>
+  <string name="vzw_partial_failure_text_part2">Lütfen adresi kontrol edip tekrar deneyin.</string>
+  <string name="vzw_service_upgrade_msg">Mobil Hotspot özelliğini kullanmak için lütfen müşteri hizmetlerini arayıp abone olun.</string>
+  <string name="vzw_setup_app_label">Verizon Hesap Etkinleştirme İşlemi</string>
+  <string name="vzw_tos_link">Şartlar ve Koşullar</string>
+  <string name="vzw_tos_text">"Kablosuz Çağrı, mobil ağ kullanılamadığında kablosuz bağlantı üzerinden çağrı yapabilmenizi sağlar.
 
 Kablosuz Çağrı özelliğini ayarlamak için ABD'de bulunan bir adres girmeniz gerekir. Bu adres, ABD içinde bu telefondan kablosuz bağlantı aracılığıyla bir acil durum (E911) çağrısı yaparsanız, bulunduğunuz yerdeki acil durum hizmetleri tarafından kullanılacaktır.
 
 Farklı bir kablosuz ağı kullanarak çağrı yaptığınızda konum bilgilerinizin doğru olması için bu adresi değiştirmenizi öneririz. İstediğiniz zaman Kablosuz Çağrı ayarları menüsüne giderek konumu bilgilerinizi değiştirebilirsiniz."</string>
-    <string name="vzw_tos_link">Şartlar ve Koşullar</string>
-    <string name="vzw_e911_title">Acil Durum Konum Bilgileri</string>
-    <string name="vzw_e911_description"><b>ÖNEMLİ - ACİL DURUM 911 ADRESİ GEREKLİ</b>"
-Kablosuz Çağrı özelliğini etkinleştirmek için, 911'i aramanız durumunda acil durum hizmetlerinin gönderilmesini istediğiniz ABD'deki adresi girin. İstediğiniz zaman Ayarlar'dan bu adresi değiştirebilirsiniz. Konumunuzu değiştirdiğinizde bu adresi güncellemeniz son derece önemlidir."</string>
-    <string name="vzw_e911_warning"><b>UYARILAR - ACİL DURUM 911 ÇAĞRISI SINIRLAMALARI</b>"
-911'i aradığınızda her zaman operatöre nerede olduğunuzu söyleyin. 911 çağrınız, yalnızca hücresel ağ kullanılabilir olmadığında kablosuz ağ üzerinden gerçekleştirilir. Kablosuz ağ üzerinden gerçekleştirilen 911 çağrıları gecikmeli veya başarısız olabilir. Örneğin, 911 çağrı sistemi, adresi tanımayabilir, elektrik kesilebilir veya kablosuz bağlantınız çalışmıyor olabilir. Acil durum hizmetleri yukarıda sağladığınız adrese gönderilecektir. Bu yüzden, lütfen konumunuzu değiştirdiğinizde bu bilgileri güncelleyin."</string>
-    <string name="house_number">Bina Numarası</string>
-    <string name="street">Sokak</string>
-    <string name="apt_suite_number">Apt, Daire vb.</string>
-    <string name="city">Şehir</string>
-    <string name="state">Eyalet</string>
-    <string name="zip_code">Posta kodu</string>
-    <string name="save">Kaydet</string>
-    <string name="vzw_address_confirm_text">"Girdiğiniz adres bulunamadı. Açık adres bulunamamış veya şehir, eyalet ve posta kodu yanlış girilmiş olabilir.
-
-Şehir, eyalet ve posta kodu bilgileriniz doğru değilse %1$s düğmesine dokunun. Bu bilgiler doğruysa %2$s düğmesine dokunun."</string>
-    <string name="vzw_address_confirm_text_part1">Girdiğiniz adres bulunamadı. Açık adres bulunamamış veya şehir, eyalet ve posta kodu yanlış girilmiş olabilir.</string>
-    <string name="vzw_address_confirm_text_part2">Şehir, eyalet ve posta kodu bilgileriniz doğru değilse %1$s düğmesine dokunun. Bu bilgiler doğruysa %2$s düğmesine dokunun.</string>
-    <string name="save_anyway">Yine de Kaydet</string>
-    <string name="edit_address">Adresi Düzenle</string>
-    <string name="ok">Tamam</string>
-    <string name="vzw_address_select_text">Girdiğiniz adres bulunamadı:</string>
-    <string name="vzw_address_alternate_text">Şunu mu demek istediniz:</string>
-    <string name="vzw_partial_confirm_head">Girilen adres, Acil Durum Servis Sağlayıcıları tarafından doğrulanamadı.</string>
-    <string name="vzw_partial_confirm_text">Bu adresi acil bir durumda kullanmak istediğinizden emin misiniz?</string>
-    <string name="vzw_partial_failure_text">"Girdiğiniz şehir, eyalet veya posta kodu doğru olmayabilir.
-
-Lütfen adresi kontrol edin ve tekrar deneyin."</string>
-    <string name="vzw_partial_failure_text_part1">Girdiğiniz şehir, eyalet veya posta kodu doğru olmayabilir.</string>
-    <string name="vzw_partial_failure_text_part2">Lütfen adresi kontrol edip tekrar deneyin.</string>
+  <string name="vzw_tos_title">Kablosuz Çağrıyı Etkinleştirin</string>
+  <string name="vzw_verify_button">Doğrula</string>
+  <string name="vzw_verify_progress_title">Hesabınız doğrulanıyor...</string>
+  <string name="vzw_verify_pwd">Başlamak için hesabınızın faturalandırma şifresini girin:</string>
+  <string name="vzw_verify_ssn">Başlamak için hesap sahibinin Sosyal Güvenlik numarasının son 4 rakamını girin:</string>
+  <string name="vzw_verify_switch_pwd">Onun yerine faturalama şifresini kullan</string>
+  <string name="vzw_verify_switch_ssn">Onun yerine Sosyal Güvenlik numarasını kullan</string>
+  <string name="vzw_verify_title">Hesabınızı doğrulayın</string>
+  <string name="vzw_wfc_activation_error">Kablosuz çağrı etkinleştirilemiyor. Lütfen daha sonra tekrar deneyin.</string>
+  <string name="zip_code">Posta kodu</string>
 </resources>

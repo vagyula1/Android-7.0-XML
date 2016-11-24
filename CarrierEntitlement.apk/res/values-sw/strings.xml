@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">Inayofuata</string>
-    <string name="suw_back_button_label">Nyuma</string>
-    <string name="suw_more_button_label">Zaidi</string>
-    <string name="entitlement_check_progress">Inakagua hali ya usajili. Tafadhali subiri.</string>
-    <string name="att_service_upgrade_msg">Ili kuuwasha, nenda kwenye att.com/mywireless au upige simu kwa 611</string>
-    <string name="att_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
-    <string name="sprint_entitlement_error">Huduma haitumiki. Tafadhali wasiliana na mtoa huduma wako.</string>
-    <string name="sprint_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
-    <string name="vzw_service_upgrade_msg">Ili kutumia mtandao-hewa unaoweza kuhamishika, tafadhali wasiliana na kituo cha huduma kwa wateja ili ujisajili.</string>
-    <string name="vzw_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
-    <string name="vzw_wfc_activation_error">Imeshindwa kuanzisha huduma ya Kupiga simu Kupitia Wi-Fi. Tafadhali jaribu tena baadaye.</string>
-    <string name="vzw_address_update_error">Kwa sasa, imeshindwa kusasisha anwani ya dharura iliyopo. Tafadhali jaribu tena baadaye.</string>
-    <string name="generic_error">Imeshindwa kuthibitisha. Tafadhali jaribu tena baadaye.</string>
-    <string name="vzw_setup_app_label">Kuanzisha Akaunti ya Verizon</string>
-    <string name="vzw_activate_title">Kuanzisha simu</string>
-    <string name="vzw_activate_progress">Tafadhali subiri tunapotayarisha simu yako.</string>
-    <string name="vzw_activate_exiting">Inafunga shughuli ya kuanzisha.</string>
-    <string name="vzw_verify_title">Thibitisha akaunti yako</string>
-    <string name="vzw_verify_ssn">Ili kuanza, andika nambari 4 za mwisho za Nambari ya Usalama wa Jamii iliyotumiwa kufungua akaunti:</string>
-    <string name="vzw_verify_pwd">Ili kuanza, weka nenosiri la akaunti yako ya malipo</string>
-    <string name="vzw_verify_button">Thibitisha</string>
-    <string name="vzw_later_button">Baadaye</string>
-    <string name="vzw_verify_switch_ssn">Tumia Nambari ya Usalama wa Jamii badaka yake</string>
-    <string name="vzw_verify_switch_pwd">Tumia nenosiri la malipo badala yake</string>
-    <string name="vzw_verify_progress_title">Inathibitisha akaunti yako...</string>
-    <string name="vzw_activate_ready_title">Je, uko tayari kuanzisha?</string>
-    <string name="vzw_activate_ready_new">Hatua hii inaweza kuchukua dakika kadhaa</string>
-    <string name="vzw_activate_ready_upgrade">"Kabla ya kuwezesha simu yako, hifadhi nakala za anwani zako na uzime simu yako ya awali.
+  <string name="apt_suite_number">Ghorofa, Nyumba, n.k,</string>
+  <string name="att_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
+  <string name="att_service_upgrade_msg">Ili kuuwasha, nenda kwenye att.com/mywireless au upige simu kwa 611</string>
+  <string name="cancel">Ghairi</string>
+  <string name="city">Mji</string>
+  <string name="edit_address">Badilisha Anwani</string>
+  <string name="emergency_address_app_label">Udhibiti wa Anwani ya Dharura</string>
+  <string name="entitlement_check_progress">Inakagua hali ya usajili. Tafadhali subiri.</string>
+  <string name="generic_error">Imeshindwa kuthibitisha. Tafadhali jaribu tena baadaye.</string>
+  <string name="house_number">Nambari ya Anwani</string>
+  <string name="ok">Sawa</string>
+  <string name="progress_text">Tafadhali subiri…</string>
+  <string name="save">Hifadhi</string>
+  <string name="save_anyway">Endelea Kuhifadhi</string>
+  <string name="sprint_entitlement_error">Huduma haitumiki. Tafadhali wasiliana na mtoa huduma wako.</string>
+  <string name="sprint_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
+  <string name="state">Jimbo</string>
+  <string name="street">Mtaa</string>
+  <string name="suw_back_button_label">Nyuma</string>
+  <string name="suw_more_button_label">Zaidi</string>
+  <string name="suw_next_button_label">Inayofuata</string>
+  <string name="vzw_activate_button">Wezesha</string>
+  <string name="vzw_activate_continue">Endelea</string>
+  <string name="vzw_activate_error_lookup">Samahani, tumekumbwa na tatizo la kuwezesha simu yako. Wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
+  <string name="vzw_activate_error_lost_stolen">Samahani, tumekumbwa na tatizo wakati wa kuanzisha simu yako. Tafadhali piga simu kwenda (877) 807-4646 kwa kutumia simu nyingine ili uanzishe huduma yako ya 4G LTE kisha ujaribu tena.</string>
+  <string name="vzw_activate_error_network">Hakikisha una muunganisho thabiti (kuwe na mistari kadhaa ya uthabiti) kisha ujaribu tena. Ikiwa tatizo hili litaendelea, tafadhali wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
+  <string name="vzw_activate_error_not_retryable">Samahani, tumekumbwa na tatizo la kuwezesha simu yako. Wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
+  <string name="vzw_activate_error_pwd">Nenosiri la malipo si sahihi. Tafadhali jaribu tena.</string>
+  <string name="vzw_activate_error_release">Ili kuwezesha simu yako, piga simu kwa (800) 922-0204 ukitumia simu nyingine.</string>
+  <string name="vzw_activate_error_restricted">Ili kuanzisha simu yako, fuata maagizo yaliyo kwenye simu yako mpya au wasiliana na msimamizi wa Verizon Wireless katika shirika lako.</string>
+  <string name="vzw_activate_error_restricted_title">Jinsi ya kuanzisha simu yako</string>
+  <string name="vzw_activate_error_ssn">Nambari ya Usalama wa Jamii si sahihi. Tafadhali jaribu tena.</string>
+  <string name="vzw_activate_error_title">Imeshindwa kuwezesha</string>
+  <string name="vzw_activate_exiting">Inafunga shughuli ya kuanzisha.</string>
+  <string name="vzw_activate_notification">Gonga ili uwezeshe simu yako</string>
+  <string name="vzw_activate_notification_title">Uko tayari kuwezesha</string>
+  <string name="vzw_activate_progress">Tafadhali subiri tunapotayarisha simu yako.</string>
+  <string name="vzw_activate_ready_new">Hatua hii inaweza kuchukua dakika kadhaa</string>
+  <string name="vzw_activate_ready_title">Je, uko tayari kuanzisha?</string>
+  <string name="vzw_activate_ready_upgrade">"Kabla ya kuwezesha simu yako, hifadhi nakala za anwani zako na uzime simu yako ya awali.
 
 Pindi utakapoanza kuwezesha, tutatuma nambari ya simu yako ya awali kwenye simu hii na kuzima simu yako ya awali."</string>
-    <string name="vzw_activate_button">Wezesha</string>
-    <string name="vzw_activating_new_title">Inapata nambari ya simu...</string>
-    <string name="vzw_activating_upgrade_title">Inatuma nambari ya simu...</string>
-    <string name="vzw_activating_upgrade">Ili kutuma nambari yako kwenye simu hii mpya, utahitaji kuzima simu yako ya awali.</string>
-    <string name="vzw_activate_success_title">Simu imewezeshwa</string>
-    <string name="vzw_activate_success">Sasa simu yako ya Verizon imewezeshwa. Nambari ya simu yako ni %1$s</string>
-    <string name="vzw_data_limit_title">Kiwango cha matumizi ya data kinachoruhusiwa</string>
-    <string name="vzw_data_limit">Kwa sasa, matumizi yako ya data yamedhibitiwa kutokana na wakati wa siku na kiwango cha data kinachoruhusiwa. Unahitaji kutumia Wi-Fi ili kuendelea kuweka mipangilio ya kifaa chako.</string>
-    <string name="vzw_data_restricted_title">Matumizi ya data yamedhibitiwa</string>
-    <string name="vzw_data_restricted">Kutokana na wakati wa siku au kiwango cha data</string>
-    <string name="vzw_data_redirected_title">Pata huduma za Verizon</string>
-    <string name="vzw_data_redirected">Huna mpango wa Verizon Wireless au umetumia pesa zote kwenye mpango wako, tafadhali wasiliana na Verizon</string>
-    <string name="vzw_activate_notification_title">Uko tayari kuwezesha</string>
-    <string name="vzw_activate_notification">Gonga ili uwezeshe simu yako</string>
-    <string name="vzw_cold_notification">Wasiliana na Verizon ili uanzishe simu yako.</string>
-    <string name="vzw_activate_error_title">Imeshindwa kuwezesha</string>
-    <string name="vzw_activate_error_network">Hakikisha una muunganisho thabiti (kuwe na mistari kadhaa ya uthabiti) kisha ujaribu tena. Ikiwa tatizo hili litaendelea, tafadhali wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
-    <string name="vzw_activate_error_lookup">Samahani, tumekumbwa na tatizo la kuwezesha simu yako. Wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
-    <string name="vzw_activate_error_ssn">Nambari ya Usalama wa Jamii si sahihi. Tafadhali jaribu tena.</string>
-    <string name="vzw_activate_error_pwd">Nenosiri la malipo si sahihi. Tafadhali jaribu tena.</string>
-    <string name="vzw_activate_error_not_retryable">Samahani, tumekumbwa na tatizo la kuwezesha simu yako. Wasiliana na kituo cha huduma kwa wateja kupitia (800) 922-0204.</string>
-    <string name="vzw_activate_error_release">Ili kuwezesha simu yako, piga simu kwa (800) 922-0204 ukitumia simu nyingine.</string>
-    <string name="vzw_activate_error_restricted_title">Jinsi ya kuanzisha simu yako</string>
-    <string name="vzw_activate_error_restricted">Ili kuanzisha simu yako, fuata maagizo yaliyo kwenye simu yako mpya au wasiliana na msimamizi wa Verizon Wireless katika shirika lako.</string>
-    <string name="vzw_activate_error_lost_stolen">Samahani, tumekumbwa na tatizo wakati wa kuanzisha simu yako. Tafadhali piga simu kwenda (877) 807-4646 kwa kutumia simu nyingine ili uanzishe huduma yako ya 4G LTE kisha ujaribu tena.</string>
-    <string name="vzw_activate_continue">Endelea</string>
-    <string name="vzw_activate_retry">Jaribu tena</string>
-    <string name="vzw_activate_skip">Ruka</string>
-    <string name="emergency_address_app_label">Udhibiti wa Anwani ya Dharura</string>
-    <string name="progress_text">Tafadhali subiri…</string>
-    <string name="vzw_tos_title">Anzisha Huduma ya Kupiga Simu kwa Wi-Fi</string>
-    <string name="cancel">Ghairi</string>
-    <string name="vzw_tos_text">"Huduma ya Kupiga simu kupitia Wi-Fi hukuwezesha kupiga simu ukitumia Wi-Fi wakati mtandao wa simu za mkononi haupatikani.
+  <string name="vzw_activate_retry">Jaribu tena</string>
+  <string name="vzw_activate_skip">Ruka</string>
+  <string name="vzw_activate_success">Sasa simu yako ya Verizon imewezeshwa. Nambari ya simu yako ni %1$s</string>
+  <string name="vzw_activate_success_title">Simu imewezeshwa</string>
+  <string name="vzw_activate_title">Kuanzisha simu</string>
+  <string name="vzw_activating_new_title">Inapata nambari ya simu...</string>
+  <string name="vzw_activating_upgrade">Ili kutuma nambari yako kwenye simu hii mpya, utahitaji kuzima simu yako ya awali.</string>
+  <string name="vzw_activating_upgrade_title">Inatuma nambari ya simu...</string>
+  <string name="vzw_address_alternate_text">Je, ulimaanisha:</string>
+  <string name="vzw_address_confirm_text">"Hatukupata anwani uliyoweka kwa sababu anwani ya mtaa ulioweka haikupatikana, mji, jimbo au msimbo wa eneo huenda si sahihi.
+
+Ikiwa mji, jimbo na msimbo wako wa eneo si sahihi, gonga %1$s au ugonge %2$s."</string>
+  <string name="vzw_address_confirm_text_part1">Hatukupata anwani uliyoweka kwa sababu anwani ya mtaa haikupatikana, au huenda jina la mji, jimbo na msimbo wa eneo si sahihi.</string>
+  <string name="vzw_address_confirm_text_part2">Kama jina la mji, jimbo na msimbo wa eneo si sahihi, bofya %1$s, vinginevyo, gonga %2$s.</string>
+  <string name="vzw_address_select_text">Hatukupata anwani ambayo uliweka:</string>
+  <string name="vzw_address_update_error">Kwa sasa, imeshindwa kusasisha anwani ya dharura iliyopo. Tafadhali jaribu tena baadaye.</string>
+  <string name="vzw_cold_notification">Wasiliana na Verizon ili uanzishe simu yako.</string>
+  <string name="vzw_data_limit">Kwa sasa, matumizi yako ya data yamedhibitiwa kutokana na wakati wa siku na kiwango cha data kinachoruhusiwa. Unahitaji kutumia Wi-Fi ili kuendelea kuweka mipangilio ya kifaa chako.</string>
+  <string name="vzw_data_limit_title">Kiwango cha matumizi ya data kinachoruhusiwa</string>
+  <string name="vzw_data_redirected">Huna mpango wa Verizon Wireless au umetumia pesa zote kwenye mpango wako, tafadhali wasiliana na Verizon</string>
+  <string name="vzw_data_redirected_title">Pata huduma za Verizon</string>
+  <string name="vzw_data_restricted">Kutokana na wakati wa siku au kiwango cha data</string>
+  <string name="vzw_data_restricted_title">Matumizi ya data yamedhibitiwa</string>
+  <string name="vzw_e911_description">&lt;b&gt;MUHIMU - ANWANI YA DHARURA YA 911 INAHITAJIKA &lt;/b&gt;"
+Ili kuwasha kipengele cha kupiga simu kupitia Wi-Fi, weka anwani ya Marekani ambapo unataka huduma za dharura kutumwa ikiwa utapiga simu kwa 911. Unaweza kwenda kwenye Mipangilio na ubadilishe anwani hii wakati wowote. Ni muhimu kusasisha anwani hii kila mara unapobadilisha mahali ulipo."</string>
+  <string name="vzw_e911_title">Maelezo ya Eneo kwa Ajili ya Dharura</string>
+  <string name="vzw_e911_warning">&lt;b&gt;TAHADHARI - VIKWAZO VYA KUPIGA SIMU YA DHARURA YA 911 &lt;/b&gt;"
+Unapopiga simu kwa 911, mjulishe mhudumu mahali ulipo. Simu yako ya 911 itapitia Wi-Fi ikiwa mtandao wako wa simu ya mkononi haupatikani. Simu ya 911 inayopigwa kupitia Wi-Fi inaweza kucheleweshwa au kutokamilika; kwa mfano, ikiwa mfumo wa 911 hautambui anwani hiyo, umeme kukatika au muunganisho wako wa Wi-Fi haufanyi kazi. Huduma za dharura zitatumwa kwa anwani uliyoweka hapo juu, kwa hivyo isasishe kila mara unapobadilisha maeneo."</string>
+  <string name="vzw_later_button">Baadaye</string>
+  <string name="vzw_network_error">Mtandao haupatikani. Tafadhali jaribu tena baadaye.</string>
+  <string name="vzw_partial_confirm_head">Awani uliyoweka haiwezi kuthibitishwa na Watoa Huduma za Dharura.</string>
+  <string name="vzw_partial_confirm_text">Je, una uhakika kuwa ungependa kutumia anwani hii wakati wa dharura?</string>
+  <string name="vzw_partial_failure_text">"Huenda jina la mji, jimbo au msimbo wa eneo ambao umeweka si sahihi. 
+
+Tafadhali angalia anwani hiyo kisha ujaribu tena."</string>
+  <string name="vzw_partial_failure_text_part1">Huenda jina la mji, jimbo au msimbo wa eneo ambao umeandika si sahihi.</string>
+  <string name="vzw_partial_failure_text_part2">Tafadhali thibitisha kiungo cha ukurasa kisha ujaribu tena.</string>
+  <string name="vzw_service_upgrade_msg">Ili kutumia mtandao-hewa unaoweza kuhamishika, tafadhali wasiliana na kituo cha huduma kwa wateja ili ujisajili.</string>
+  <string name="vzw_setup_app_label">Kuanzisha Akaunti ya Verizon</string>
+  <string name="vzw_tos_link">Sheria na Masharti</string>
+  <string name="vzw_tos_text">"Huduma ya Kupiga simu kupitia Wi-Fi hukuwezesha kupiga simu ukitumia Wi-Fi wakati mtandao wa simu za mkononi haupatikani.
 
  Ili kuweka mipangilio ya Kupiga Simu kupitia Wi-Fi, utahitaji kuweka anwani ya Marekani. Anwani hii itatumika katika huduma za dharura kwenye eneo ulipo ikiwa utapiga simu ya dharura ya (E911) kupitia Wi-Fi kutoka simu hii nchini Marekani.
 
 Tunapendekeza ubadilishe anwani hii wakati unapiga simu ukitumia mtandao tofauti wa Wi-Fi ili maelezo ya eneo lako yawe sahihi. Unaweza kubadilisha eneo lako wakati wowote kwa kwenda kwenye menyu ya mipangilio ya Kupiga Simu kupitia Wi-Fi."</string>
-    <string name="vzw_tos_link">Sheria na Masharti</string>
-    <string name="vzw_e911_title">Maelezo ya Eneo kwa Ajili ya Dharura</string>
-    <string name="vzw_e911_description"><b>MUHIMU - ANWANI YA DHARURA YA 911 INAHITAJIKA </b>"
-Ili kuwasha kipengele cha kupiga simu kupitia Wi-Fi, weka anwani ya Marekani ambapo unataka huduma za dharura kutumwa ikiwa utapiga simu kwa 911. Unaweza kwenda kwenye Mipangilio na ubadilishe anwani hii wakati wowote. Ni muhimu kusasisha anwani hii kila mara unapobadilisha mahali ulipo."</string>
-    <string name="vzw_e911_warning"><b>TAHADHARI - VIKWAZO VYA KUPIGA SIMU YA DHARURA YA 911 </b>"
-Unapopiga simu kwa 911, mjulishe mhudumu mahali ulipo. Simu yako ya 911 itapitia Wi-Fi ikiwa mtandao wako wa simu ya mkononi haupatikani. Simu ya 911 inayopigwa kupitia Wi-Fi inaweza kucheleweshwa au kutokamilika; kwa mfano, ikiwa mfumo wa 911 hautambui anwani hiyo, umeme kukatika au muunganisho wako wa Wi-Fi haufanyi kazi. Huduma za dharura zitatumwa kwa anwani uliyoweka hapo juu, kwa hivyo isasishe kila mara unapobadilisha maeneo."</string>
-    <string name="house_number">Nambari ya Anwani</string>
-    <string name="street">Mtaa</string>
-    <string name="apt_suite_number">Ghorofa, Nyumba, n.k,</string>
-    <string name="city">Mji</string>
-    <string name="state">Jimbo</string>
-    <string name="zip_code">Msimbo wa Eneo</string>
-    <string name="save">Hifadhi</string>
-    <string name="vzw_address_confirm_text">"Hatukupata anwani uliyoweka kwa sababu anwani ya mtaa ulioweka haikupatikana, mji, jimbo au msimbo wa eneo huenda si sahihi.
-
-Ikiwa mji, jimbo na msimbo wako wa eneo si sahihi, gonga %1$s au ugonge %2$s."</string>
-    <string name="vzw_address_confirm_text_part1">Hatukupata anwani uliyoweka kwa sababu anwani ya mtaa haikupatikana, au huenda jina la mji, jimbo na msimbo wa eneo si sahihi.</string>
-    <string name="vzw_address_confirm_text_part2">Kama jina la mji, jimbo na msimbo wa eneo si sahihi, bofya %1$s, vinginevyo, gonga %2$s.</string>
-    <string name="save_anyway">Endelea Kuhifadhi</string>
-    <string name="edit_address">Badilisha Anwani</string>
-    <string name="ok">Sawa</string>
-    <string name="vzw_address_select_text">Hatukupata anwani ambayo uliweka:</string>
-    <string name="vzw_address_alternate_text">Je, ulimaanisha:</string>
-    <string name="vzw_partial_confirm_head">Awani uliyoweka haiwezi kuthibitishwa na Watoa Huduma za Dharura.</string>
-    <string name="vzw_partial_confirm_text">Je, una uhakika kuwa ungependa kutumia anwani hii wakati wa dharura?</string>
-    <string name="vzw_partial_failure_text">"Huenda jina la mji, jimbo au msimbo wa eneo ambao umeweka si sahihi. 
-
-Tafadhali angalia anwani hiyo kisha ujaribu tena."</string>
-    <string name="vzw_partial_failure_text_part1">Huenda jina la mji, jimbo au msimbo wa eneo ambao umeandika si sahihi.</string>
-    <string name="vzw_partial_failure_text_part2">Tafadhali thibitisha kiungo cha ukurasa kisha ujaribu tena.</string>
+  <string name="vzw_tos_title">Anzisha Huduma ya Kupiga Simu kwa Wi-Fi</string>
+  <string name="vzw_verify_button">Thibitisha</string>
+  <string name="vzw_verify_progress_title">Inathibitisha akaunti yako...</string>
+  <string name="vzw_verify_pwd">Ili kuanza, weka nenosiri la akaunti yako ya malipo</string>
+  <string name="vzw_verify_ssn">Ili kuanza, andika nambari 4 za mwisho za Nambari ya Usalama wa Jamii iliyotumiwa kufungua akaunti:</string>
+  <string name="vzw_verify_switch_pwd">Tumia nenosiri la malipo badala yake</string>
+  <string name="vzw_verify_switch_ssn">Tumia Nambari ya Usalama wa Jamii badaka yake</string>
+  <string name="vzw_verify_title">Thibitisha akaunti yako</string>
+  <string name="vzw_wfc_activation_error">Imeshindwa kuanzisha huduma ya Kupiga simu Kupitia Wi-Fi. Tafadhali jaribu tena baadaye.</string>
+  <string name="zip_code">Msimbo wa Eneo</string>
 </resources>

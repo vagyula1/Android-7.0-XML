@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Athuga áskriftarstöðu. Hinkraðu...</string>
-    <string name="vzw_self_provisioning_msg">"Ekki er hægt að nota Mobile Hotspot nema gerast áskrifandi að þjónustunni.
-Komstu að meiru og gerstu áskrifandi að Mobile Hotspot með því að heimsækja My Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Hætta við</string>
-    <string name="vzw_self_provisioning_learn_more">Fræðast meira</string>
-    <string name="vzw_error_msg_title">Ekki var hægt að vinna úr pöntuninni</string>
-    <string name="vzw_error_msg">"Ef þú vilt fá áskrift að Mobile Hotspot/Mobile Broadband Connect, skaltu hringja í:
- Einstaklingur: (800) 256-4646,
- Fyrirtæki: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Nauðsynlegt er að uppfæra þjónustuna</string>
-    <string name="tmo_error_msg">Núverandi áskrift þín nær ekki yfir snjallsíma Mobile Hotspot þjónustu sem gerir þér kleift að deila gagnatengingu símans með öðrum tækjum. viltu bæta snjallsíma Mobile Hotspot þjónustunni við áskrift þína? Þú getur einnig bætt þessu við á netinu á https://my.t-mobile.com undir stjórna > áskriftir og þjónusta. &lt;</string>
-    <string name="retv_terms_conditions_msg">Athuga áskriftarstöðu. Hinkraðu...</string>
-    <string name="change_data_request_msg">Sendi beiðni eftir uppfyllingu. Hinkraðu...</string>
-    <string name="alert_dialog_failure_title">Ekki var hægt að vinna úr pöntuninni</string>
-    <string name="alert_dialog_failure_msg">Reyndu aftur síðar.</string>
-    <string name="network_connection_title">Netkerfistengivilla</string>
-    <string name="network_connection_error_msg">Síminn getur ekki tengst miðlara %s núna. Reyndu aftur síðar.</string>
-    <string name="mobile_hotspot">Heitur reitur farsíma</string>
-    <string name="alert_dialog_positive_button">Í lagi</string>
-    <string name="alert_dialog_upgrade_button">Uppfæra</string>
-    <string name="alert_dialog_later_button">Síðar</string>
-    <string name="current_subscription">(núverandi áskrift)</string>
-    <string name="unavailable_subscription">(ótiltækt vegna geymslustigs)</string>
-    <string name="request_pending_title">Beðið eftir uppfyllingu</string>
-    <string name="request_pending_error_msg">Verizon miðlarinn er að vinna úr beiðninni. Reyndu aftur eftir 5 mínútur.</string>
-    <string name="browser_error_msg">Get ekki opnað vafra.</string>
-    <string name="att_error_msg">Farðu á att.com/mywireless eða hringdu í 611 til að virkja</string>
-    <string name="att_error_msg_title">Reikningur er ekki settur upp fyrir tjóðrun.</string>
-    <string name="att_error_msg_other">Það eru tímabundin netkerfisvandamál sem koma í veg fyrir að hægt sé að virkja tengisvæðiseiginleika farsíma. Vinsamlegast reyndu aftur síðar</string>
-    <string name="att_error_msg_other_title">Netkerfisvilla</string>
-    <string name="sprint_error_msg">Ekki hægt að tengjast gagnanetkerfi; Ef til vill ertu ekki með áskrift að tjóðrun eða heitum reit; Vinsamlegast hafðu samband við símafyrirtækið þitt.</string>
-    <string name="sprint_error_msg_title">Villa við tjóðrun eða heitan reit</string>
-    <string name="sprint_notification_msg">Snertu til að sjá frekari upplýsingar</string>
-    <string name="term_and_conditions_title">Skilmálar</string>
-    <string name="sbm_content_activity_title">Samningsskilmálar</string>
-    <string name="consent_title">Samningsskilmálar</string>
-    <string name="consent_message">"Til þess að nota þetta forrit þarft þú að samþykkja og senda eftirfarandi upplýsingar. Haltu áfram eftir skoðunina.
+  <string name="alert_dialog_failure_msg">Reyndu aftur síðar.</string>
+  <string name="alert_dialog_failure_title">Ekki var hægt að vinna úr pöntuninni</string>
+  <string name="alert_dialog_later_button">Síðar</string>
+  <string name="alert_dialog_positive_button">Í lagi</string>
+  <string name="alert_dialog_upgrade_button">Uppfæra</string>
+  <string name="att_error_msg">Farðu á att.com/mywireless eða hringdu í 611 til að virkja</string>
+  <string name="att_error_msg_other">Það eru tímabundin netkerfisvandamál sem koma í veg fyrir að hægt sé að virkja tengisvæðiseiginleika farsíma. Vinsamlegast reyndu aftur síðar</string>
+  <string name="att_error_msg_other_title">Netkerfisvilla</string>
+  <string name="att_error_msg_title">Reikningur er ekki settur upp fyrir tjóðrun.</string>
+  <string name="browser_error_msg">Get ekki opnað vafra.</string>
+  <string name="change_data_request_msg">Sendi beiðni eftir uppfyllingu. Hinkraðu...</string>
+  <string name="concent_agree_btn">Samþykkt</string>
+  <string name="concent_disagree_btn">Hafna</string>
+  <string name="consent_message">"Til þess að nota þetta forrit þarft þú að samþykkja og senda eftirfarandi upplýsingar. Haltu áfram eftir skoðunina.
 
 [Senda upplýsingar]
 Auðkenni verktaka
 [Nota forrit]
 Pantaðu til að nota tjóðrunarforritið"</string>
-    <string name="consent_terms_btn">Þjónustuskilmálar</string>
-    <string name="concent_disagree_btn">Hafna</string>
-    <string name="concent_agree_btn">Samþykkt</string>
-    <string name="sbm_error_msg_title">Villa við tjóðrun eða heitan reit</string>
-    <string name="sbm_error_msg">Get ekki tengst gagnatengingu.</string>
-    <string name="sbm_error_msg_not_subscribed">Ekki var hægt að sannreyna áskrift þína að tjóðrunarkostum.</string>
-    <string name="sbm_error_msg_not_authenticated">"Auðkenning tókst ekki.
+  <string name="consent_terms_btn">Þjónustuskilmálar</string>
+  <string name="consent_title">Samningsskilmálar</string>
+  <string name="current_subscription">(núverandi áskrift)</string>
+  <string name="feature_check_msg">Athuga áskriftarstöðu. Hinkraðu...</string>
+  <string name="mobile_hotspot">Heitur reitur farsíma</string>
+  <string name="network_connection_error_msg">Síminn getur ekki tengst miðlara %s núna. Reyndu aftur síðar.</string>
+  <string name="network_connection_title">Netkerfistengivilla</string>
+  <string name="request_pending_error_msg">Verizon miðlarinn er að vinna úr beiðninni. Reyndu aftur eftir 5 mínútur.</string>
+  <string name="request_pending_title">Beðið eftir uppfyllingu</string>
+  <string name="retv_terms_conditions_msg">Athuga áskriftarstöðu. Hinkraðu...</string>
+  <string name="sbm_content_activity_title">Samningsskilmálar</string>
+  <string name="sbm_error_msg">Get ekki tengst gagnatengingu.</string>
+  <string name="sbm_error_msg_no_response">Auðkenning tókst ekki. Reyndu aftur þar sem þú hefur góða tengingu.</string>
+  <string name="sbm_error_msg_not_authenticated">"Auðkenning tókst ekki.
 (Villukóði %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Auðkenning tókst ekki. Reyndu aftur þar sem þú hefur góða tengingu.</string>
+  <string name="sbm_error_msg_not_subscribed">Ekki var hægt að sannreyna áskrift þína að tjóðrunarkostum.</string>
+  <string name="sbm_error_msg_title">Villa við tjóðrun eða heitan reit</string>
+  <string name="sprint_error_msg">Ekki hægt að tengjast gagnanetkerfi; Ef til vill ertu ekki með áskrift að tjóðrun eða heitum reit; Vinsamlegast hafðu samband við símafyrirtækið þitt.</string>
+  <string name="sprint_error_msg_title">Villa við tjóðrun eða heitan reit</string>
+  <string name="sprint_notification_msg">Snertu til að sjá frekari upplýsingar</string>
+  <string name="term_and_conditions_title">Skilmálar</string>
+  <string name="tmo_error_msg">Núverandi áskrift þín nær ekki yfir snjallsíma Mobile Hotspot þjónustu sem gerir þér kleift að deila gagnatengingu símans með öðrum tækjum. viltu bæta snjallsíma Mobile Hotspot þjónustunni við áskrift þína? Þú getur einnig bætt þessu við á netinu á https://my.t-mobile.com undir stjórna &gt; áskriftir og þjónusta. &lt;</string>
+  <string name="tmo_error_msg_title">Nauðsynlegt er að uppfæra þjónustuna</string>
+  <string name="unavailable_subscription">(ótiltækt vegna geymslustigs)</string>
+  <string name="vzw_error_msg">"Ef þú vilt fá áskrift að Mobile Hotspot/Mobile Broadband Connect, skaltu hringja í:
+ Einstaklingur: (800) 256-4646,
+ Fyrirtæki: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Ekki var hægt að vinna úr pöntuninni</string>
+  <string name="vzw_self_provisioning_cancel">Hætta við</string>
+  <string name="vzw_self_provisioning_learn_more">Fræðast meira</string>
+  <string name="vzw_self_provisioning_msg">"Ekki er hægt að nota Mobile Hotspot nema gerast áskrifandi að þjónustunni.
+Komstu að meiru og gerstu áskrifandi að Mobile Hotspot með því að heimsækja My Verizon."</string>
 </resources>

@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Õigused</string>
-    <string name="feature_check_msg">Registreerimise oleku kontrollimine. Palun oodake...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot kasutamiseks peate registreerima end Mobile Hotspot teenuse kasutamiseks.
-Õpige rohkem ja registreeruge Mobile Hotspot kliendiks, külastades My Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Tühista</string>
-    <string name="vzw_self_provisioning_learn_more">Lisateave</string>
-    <string name="vzw_error_msg_title">Teie tellimust ei saanud töödelda</string>
-    <string name="vzw_error_msg">"Kui soovite registreeruda Mobile Hotspot/Mobilse lairibaühenduse kasutajaks, helistage:
- Eraisik: (800) 256-4646,
- Ettevõte: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Nõutud on teenuseuuendus</string>
-    <string name="tmo_error_msg">Teie praegune tariifileping ei sisalda Smartphone Mobile Hotspot teenust, mis võimaldab teil jagada oma telefoni andmeside ühendust teiste seadmetega. Kas soovite oma lepingusse lisada Smartphone Mobile Hotspot teenuse? Saate seda lisada ka on-line kaudu https://my.t-mobile.com asukohas Halda > Lepingud ja Teenused. &lt;</string>
-    <string name="retv_terms_conditions_msg">Registreerimise oleku kontrollimine. Palun oodake...</string>
-    <string name="change_data_request_msg">Saadan varustuse tellimust. Palun oodake...</string>
-    <string name="alert_dialog_failure_title">Teie tellimust ei saanud töödelda</string>
-    <string name="alert_dialog_failure_msg">Proovige hiljem uuesti.</string>
-    <string name="network_connection_title">Võrguühenduse viga</string>
-    <string name="network_connection_error_msg">"Teie telefon ei saa praegu ühendust %s' serveriga. Palun proovige hiljem uuesti."</string>
-    <string name="mobile_hotspot">Mobiilivõrgu tööpunkt</string>
-    <string name="alert_dialog_upgrade_button">Uuenda</string>
-    <string name="alert_dialog_later_button">Hiljem</string>
-    <string name="current_subscription">(praegune registreering)</string>
-    <string name="unavailable_subscription">(tulenevalt hoiustamise tasemest ei ole saadaval)</string>
-    <string name="request_pending_title">Varustamine ootel</string>
-    <string name="request_pending_error_msg">Verizon server töötleb teie tellimust. Palun proovige uuesti 5 minuti pärast.</string>
-    <string name="browser_error_msg">Ei saa brauserit avada.</string>
-    <string name="att_error_msg">Lubamiseks mine att.com/mywireless või vali 611</string>
-    <string name="att_error_msg_title">Konto ei ole sidumiseks seadistatud</string>
-    <string name="att_error_msg_other">Ajutine võrguühenduse probleem, mis ennetab Mobile Hotspot funktsiooni lubamist. Proovi hiljem uuesti</string>
-    <string name="att_error_msg_other_title">Võrgutõrge</string>
-    <string name="sprint_error_msg">Andmevõrku ühendamine ebaõnnestus; Võib-olla ei ole te registreeritud Sidumise või Kuumkoha teenuse kasutajaks; Palun võtke ühendust oma teenusepakkujaga.</string>
-    <string name="sprint_error_msg_title">Sidumise või Kuumkoha tõrge</string>
-    <string name="sprint_notification_msg">Puuduta rohkemate detailide nägemiseks</string>
-    <string name="term_and_conditions_title">Nõuded ja tingimused</string>
-    <string name="sbm_content_activity_title">Lepingu tingimused</string>
-    <string name="consent_title">Lepingu tingimused</string>
-    <string name="consent_message">"Selle rakenduse kasutamiseks peate nõustuma ja saatma alljärgneva informatsiooni. Sisu kontrollimisel jätkake alljärgmiselt.
+  <string name="alert_dialog_failure_msg">Proovige hiljem uuesti.</string>
+  <string name="alert_dialog_failure_title">Teie tellimust ei saanud töödelda</string>
+  <string name="alert_dialog_later_button">Hiljem</string>
+  <string name="alert_dialog_upgrade_button">Uuenda</string>
+  <string name="app_name">Õigused</string>
+  <string name="att_error_msg">Lubamiseks mine att.com/mywireless või vali 611</string>
+  <string name="att_error_msg_other">Ajutine võrguühenduse probleem, mis ennetab Mobile Hotspot funktsiooni lubamist. Proovi hiljem uuesti</string>
+  <string name="att_error_msg_other_title">Võrgutõrge</string>
+  <string name="att_error_msg_title">Konto ei ole sidumiseks seadistatud</string>
+  <string name="browser_error_msg">Ei saa brauserit avada.</string>
+  <string name="change_data_request_msg">Saadan varustuse tellimust. Palun oodake...</string>
+  <string name="concent_agree_btn">Nõustu</string>
+  <string name="concent_disagree_btn">Ei nõustu</string>
+  <string name="consent_message">"Selle rakenduse kasutamiseks peate nõustuma ja saatma alljärgneva informatsiooni. Sisu kontrollimisel jätkake alljärgmiselt.
 
 [Saada informatsioon]
 Lepinguspetsiifiline ID
 [Kasuta rakendusi]
 Selleks, et kasutada sidumise rakendust"</string>
-    <string name="consent_terms_btn">Hooldustingimused</string>
-    <string name="concent_disagree_btn">Ei nõustu</string>
-    <string name="concent_agree_btn">Nõustu</string>
-    <string name="sbm_error_msg_title">Sidumise või Kuumkoha tõrge</string>
-    <string name="sbm_error_msg">Pole võimeline andmesidevõrguga ühendama.</string>
-    <string name="sbm_error_msg_not_subscribed">Teie registreeringu verifitseerimine Sidumise valiku jaoks ebaõnnestus.</string>
-    <string name="sbm_error_msg_not_authenticated">"Autentimine nurjus.
+  <string name="consent_terms_btn">Hooldustingimused</string>
+  <string name="consent_title">Lepingu tingimused</string>
+  <string name="current_subscription">(praegune registreering)</string>
+  <string name="feature_check_msg">Registreerimise oleku kontrollimine. Palun oodake...</string>
+  <string name="mobile_hotspot">Mobiilivõrgu tööpunkt</string>
+  <string name="network_connection_error_msg">"Teie telefon ei saa praegu ühendust %s' serveriga. Palun proovige hiljem uuesti."</string>
+  <string name="network_connection_title">Võrguühenduse viga</string>
+  <string name="request_pending_error_msg">Verizon server töötleb teie tellimust. Palun proovige uuesti 5 minuti pärast.</string>
+  <string name="request_pending_title">Varustamine ootel</string>
+  <string name="retv_terms_conditions_msg">Registreerimise oleku kontrollimine. Palun oodake...</string>
+  <string name="sbm_content_activity_title">Lepingu tingimused</string>
+  <string name="sbm_error_msg">Pole võimeline andmesidevõrguga ühendama.</string>
+  <string name="sbm_error_msg_no_response">Autentimine nurjus. Palun proovige uuesti hea leviga asukohas.</string>
+  <string name="sbm_error_msg_not_authenticated">"Autentimine nurjus.
 (Tõrkekood %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Autentimine nurjus. Palun proovige uuesti hea leviga asukohas.</string>
+  <string name="sbm_error_msg_not_subscribed">Teie registreeringu verifitseerimine Sidumise valiku jaoks ebaõnnestus.</string>
+  <string name="sbm_error_msg_title">Sidumise või Kuumkoha tõrge</string>
+  <string name="sprint_error_msg">Andmevõrku ühendamine ebaõnnestus; Võib-olla ei ole te registreeritud Sidumise või Kuumkoha teenuse kasutajaks; Palun võtke ühendust oma teenusepakkujaga.</string>
+  <string name="sprint_error_msg_title">Sidumise või Kuumkoha tõrge</string>
+  <string name="sprint_notification_msg">Puuduta rohkemate detailide nägemiseks</string>
+  <string name="term_and_conditions_title">Nõuded ja tingimused</string>
+  <string name="tmo_error_msg">Teie praegune tariifileping ei sisalda Smartphone Mobile Hotspot teenust, mis võimaldab teil jagada oma telefoni andmeside ühendust teiste seadmetega. Kas soovite oma lepingusse lisada Smartphone Mobile Hotspot teenuse? Saate seda lisada ka on-line kaudu https://my.t-mobile.com asukohas Halda &gt; Lepingud ja Teenused. &lt;</string>
+  <string name="tmo_error_msg_title">Nõutud on teenuseuuendus</string>
+  <string name="unavailable_subscription">(tulenevalt hoiustamise tasemest ei ole saadaval)</string>
+  <string name="vzw_error_msg">"Kui soovite registreeruda Mobile Hotspot/Mobilse lairibaühenduse kasutajaks, helistage:
+ Eraisik: (800) 256-4646,
+ Ettevõte: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Teie tellimust ei saanud töödelda</string>
+  <string name="vzw_self_provisioning_cancel">Tühista</string>
+  <string name="vzw_self_provisioning_learn_more">Lisateave</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot kasutamiseks peate registreerima end Mobile Hotspot teenuse kasutamiseks.
+Õpige rohkem ja registreeruge Mobile Hotspot kliendiks, külastades My Verizon."</string>
 </resources>

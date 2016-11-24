@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Право</string>
-    <string name="feature_check_msg">Проверава статус претплате. Молимо сачекај...</string>
-    <string name="vzw_self_provisioning_msg">"За коришћење Mobile Hotspot, потребно је да се претплатите на Mobile Hotspot услугу.
-Научи више и претплати се за Mobile Hotspot тако што ћете посетити My Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Откажи</string>
-    <string name="vzw_self_provisioning_learn_more">Више</string>
-    <string name="vzw_error_msg_title">Ваш захтев не може бити процесуиран</string>
-    <string name="vzw_error_msg">"Ако желиш да се претплатиш на Mobile Hotspot/Мобилно широкопојасно повезивање, позови:
- За потрошаче: (800) 256-4646,
- За пословне партнере: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Захтева се ажурирање услуге</string>
-    <string name="tmo_error_msg">Ваш тренутни кориснички пакет не садржи Mobile Hotspot услугу за паметне телефоне која омогућава размену везе вашег телефона са другим уређајима. Желите ли да у свој пакет додате Mobile Hotspot услугу? Такође је можеш додати и преко мреже на https://my.t-mobile.com у Управљај > Пакети и услуге. &lt;</string>
-    <string name="retv_terms_conditions_msg">Проверава статус претплате. Молимо сачекај...</string>
-    <string name="change_data_request_msg">Шаље захтев за резервисање. Молимо сачекај...</string>
-    <string name="alert_dialog_failure_title">Ваш захтев не може бити процесуиран</string>
-    <string name="alert_dialog_failure_msg">Покушајте касније.</string>
-    <string name="network_connection_title">Грешка при повезивању на мрежу</string>
-    <string name="network_connection_error_msg">Тренутно није могуће повезати телефон са %s сервером. Молимо покушај касније поново.</string>
-    <string name="mobile_hotspot">Мобилни Хотспот</string>
-    <string name="alert_dialog_upgrade_button">Надоградња</string>
-    <string name="alert_dialog_later_button">Касније</string>
-    <string name="current_subscription">(тренутна претплата)</string>
-    <string name="unavailable_subscription">(недоступно на основу нивоа меморије)</string>
-    <string name="request_pending_title">Резервисање у току</string>
-    <string name="request_pending_error_msg">Verizon сервер прецесуира ваш захтев. Молимо покушај поново за 5 мин.</string>
-    <string name="browser_error_msg">Није могуће отворити претраживач.</string>
-    <string name="att_error_msg">За активирање, иди на att.com/mywireless или позови 611</string>
-    <string name="att_error_msg_title">Налог није постављен за тетхеринг</string>
-    <string name="att_error_msg_other">Привремени проблем са мрежом онемогућава укључивање мобилног Хот Спот-а. Покушајте касније</string>
-    <string name="att_error_msg_other_title">Грешка на мрежи</string>
-    <string name="sprint_error_msg">Не може да се повеже на мрежу за пренос података; Можда ниста претплаћени за коришћење тетхеринг или хотспот услуге; Контактирајте мрежног оператера.</string>
-    <string name="sprint_error_msg_title">Грешка са тетхерингом или хотспотом</string>
-    <string name="sprint_notification_msg">Додирни за више детаља</string>
-    <string name="term_and_conditions_title">Одредбе и услови</string>
-    <string name="sbm_content_activity_title">Услови споразума</string>
-    <string name="consent_title">Услови споразума</string>
-    <string name="consent_message">"У случају да желиш да користиш ову апликацију, треба да се сложиш и пошаљеш следеће информације. Молимо настави након провере садржаја.
+  <string name="alert_dialog_failure_msg">Покушајте касније.</string>
+  <string name="alert_dialog_failure_title">Ваш захтев не може бити процесуиран</string>
+  <string name="alert_dialog_later_button">Касније</string>
+  <string name="alert_dialog_upgrade_button">Надоградња</string>
+  <string name="app_name">Право</string>
+  <string name="att_error_msg">За активирање, иди на att.com/mywireless или позови 611</string>
+  <string name="att_error_msg_other">Привремени проблем са мрежом онемогућава укључивање мобилног Хот Спот-а. Покушајте касније</string>
+  <string name="att_error_msg_other_title">Грешка на мрежи</string>
+  <string name="att_error_msg_title">Налог није постављен за тетхеринг</string>
+  <string name="browser_error_msg">Није могуће отворити претраживач.</string>
+  <string name="change_data_request_msg">Шаље захтев за резервисање. Молимо сачекај...</string>
+  <string name="concent_agree_btn">Сагласан сам</string>
+  <string name="concent_disagree_btn">Нисам сагласан</string>
+  <string name="consent_message">"У случају да желиш да користиш ову апликацију, треба да се сложиш и пошаљеш следеће информације. Молимо настави након провере садржаја.
 
 [Пошаљи информацију]
 Специфичан ID извођача
 [Користи апликације]
 Да бисте користили тетхеринг апликацију"</string>
-    <string name="consent_terms_btn">Услови услуге</string>
-    <string name="concent_disagree_btn">Нисам сагласан</string>
-    <string name="concent_agree_btn">Сагласан сам</string>
-    <string name="sbm_error_msg_title">Грешка са тетхерингом или хотспотом</string>
-    <string name="sbm_error_msg">Не може се повезати на мрежу.</string>
-    <string name="sbm_error_msg_not_subscribed">Није успела верификација ваше пријаве на Опције за тетхеринг.</string>
-    <string name="sbm_error_msg_not_authenticated">"Аутентификација није успела.
+  <string name="consent_terms_btn">Услови услуге</string>
+  <string name="consent_title">Услови споразума</string>
+  <string name="current_subscription">(тренутна претплата)</string>
+  <string name="feature_check_msg">Проверава статус претплате. Молимо сачекај...</string>
+  <string name="mobile_hotspot">Мобилни Хотспот</string>
+  <string name="network_connection_error_msg">Тренутно није могуће повезати телефон са %s сервером. Молимо покушај касније поново.</string>
+  <string name="network_connection_title">Грешка при повезивању на мрежу</string>
+  <string name="request_pending_error_msg">Verizon сервер прецесуира ваш захтев. Молимо покушај поново за 5 мин.</string>
+  <string name="request_pending_title">Резервисање у току</string>
+  <string name="retv_terms_conditions_msg">Проверава статус претплате. Молимо сачекај...</string>
+  <string name="sbm_content_activity_title">Услови споразума</string>
+  <string name="sbm_error_msg">Не може се повезати на мрежу.</string>
+  <string name="sbm_error_msg_no_response">Провера аутентичности није успела. Молимо покушај поново на локацији са бољим дометом.</string>
+  <string name="sbm_error_msg_not_authenticated">"Аутентификација није успела.
 (Кôд грешке %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Провера аутентичности није успела. Молимо покушај поново на локацији са бољим дометом.</string>
+  <string name="sbm_error_msg_not_subscribed">Није успела верификација ваше пријаве на Опције за тетхеринг.</string>
+  <string name="sbm_error_msg_title">Грешка са тетхерингом или хотспотом</string>
+  <string name="sprint_error_msg">Не може да се повеже на мрежу за пренос података; Можда ниста претплаћени за коришћење тетхеринг или хотспот услуге; Контактирајте мрежног оператера.</string>
+  <string name="sprint_error_msg_title">Грешка са тетхерингом или хотспотом</string>
+  <string name="sprint_notification_msg">Додирни за више детаља</string>
+  <string name="term_and_conditions_title">Одредбе и услови</string>
+  <string name="tmo_error_msg">Ваш тренутни кориснички пакет не садржи Mobile Hotspot услугу за паметне телефоне која омогућава размену везе вашег телефона са другим уређајима. Желите ли да у свој пакет додате Mobile Hotspot услугу? Такође је можеш додати и преко мреже на https://my.t-mobile.com у Управљај &gt; Пакети и услуге. &lt;</string>
+  <string name="tmo_error_msg_title">Захтева се ажурирање услуге</string>
+  <string name="unavailable_subscription">(недоступно на основу нивоа меморије)</string>
+  <string name="vzw_error_msg">"Ако желиш да се претплатиш на Mobile Hotspot/Мобилно широкопојасно повезивање, позови:
+ За потрошаче: (800) 256-4646,
+ За пословне партнере: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Ваш захтев не може бити процесуиран</string>
+  <string name="vzw_self_provisioning_cancel">Откажи</string>
+  <string name="vzw_self_provisioning_learn_more">Више</string>
+  <string name="vzw_self_provisioning_msg">"За коришћење Mobile Hotspot, потребно је да се претплатите на Mobile Hotspot услугу.
+Научи више и претплати се за Mobile Hotspot тако што ћете посетити My Verizon."</string>
 </resources>

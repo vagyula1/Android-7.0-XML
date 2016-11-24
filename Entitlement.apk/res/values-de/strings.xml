@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Anspruch</string>
-    <string name="feature_check_msg">Prüfen Sie den Abonnementstatus. Bitte Warten...</string>
-    <string name="vzw_self_provisioning_msg">"Um Mobile Hotspot zu verwenden, müssen Sie den Mobile Hotspot-Dienst abonnieren.
-Erfahren Sie mehr darüber und abonnieren Sie den Mobile Hotspot, indem Sie My Verizon besuchen."</string>
-    <string name="vzw_self_provisioning_cancel">Abbrechen</string>
-    <string name="vzw_self_provisioning_learn_more">Weitere Informationen</string>
-    <string name="vzw_error_msg_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
-    <string name="vzw_error_msg">"Wenn Sie Mobile Hotspot / Mobile Broadband Connect abonnieren wollen, rufen Sie:
- Verbraucher: (800) 256-4646,
- Unternehmen: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Service-Upgrade erforderlich</string>
-    <string name="tmo_error_msg">Ihr aktueller Tarif beinhaltet keinen Smartphone Mobile Hotspot-Dienst, welcher den Austausch über die Datenverbindung Ihres Telefons/Tablets mit anderen Geräten ermöglicht. Möchten Sie den Smartphone Mobile Hotspot-Dienst zu Ihrem Tarif hinzufügen? Sie können diesen online, unter https://my.t-mobile.com unter Verwalten > Pläne und Dienste, hinzufügen. &lt;</string>
-    <string name="retv_terms_conditions_msg">Prüfen Sie den Abonnementstatus. Bitte Warten...</string>
-    <string name="change_data_request_msg">Antrag auf Bereitstellung senden. Bitte Warten...</string>
-    <string name="alert_dialog_failure_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
-    <string name="alert_dialog_failure_msg">Versuchen Sie es später erneut.</string>
-    <string name="network_connection_title">Netzwerkverbindungsfehler</string>
-    <string name="network_connection_error_msg">Ihr Telefon kann sich derzeit nicht mit dem Server von %s verbinden. Bitte versuchen Sie es später erneut.</string>
-    <string name="alert_dialog_upgrade_button">Aktualisierung</string>
-    <string name="alert_dialog_later_button">Später</string>
-    <string name="current_subscription">(aktuelles Abonnement)</string>
-    <string name="unavailable_subscription">(basierend auf der Speicherebene, ist dies nicht verfügbar)</string>
-    <string name="request_pending_title">Anhängige Bereitstellung</string>
-    <string name="request_pending_error_msg">Der Verizon Server ist mit der Bearbeitung Ihrer Anfrage beschäftigt. Bitte versuchen Sie es in 5 Minuten erneut.</string>
-    <string name="browser_error_msg">Der Browser kann nicht geöffnet werden.</string>
-    <string name="att_error_msg">Um es zu aktivieren, gehen Sie zu att.com/mywireless oder wählen Sie 611</string>
-    <string name="att_error_msg_title">Das Konto wurde nicht für Tethering eingerichtet</string>
-    <string name="att_error_msg_other">Ein vorübergehendes Netzwerkproblem ist aufgetreten und verhindert die Aktivierung der Mobilen Hotspot-Funktion. Bitte versuchen Sie es später erneut</string>
-    <string name="att_error_msg_other_title">Netzfehler</string>
-    <string name="sprint_error_msg">Es konnte keine Verbindung zu einem Datennetzwerk hergestellt werden; Sie können möglicherweise keinen Tethering- oder Hotspot-Dienst abonnieren; Bitte wenden Sie sich an Ihren Telefonanbieter.</string>
-    <string name="sprint_error_msg_title">Tethering- oder Hotspot-Fehler</string>
-    <string name="sprint_notification_msg">Berühren Sie, um weitere Details zu betrachten</string>
-    <string name="term_and_conditions_title">Nutzungsbedingungen</string>
-    <string name="sbm_content_activity_title">Vertragsbedingungen</string>
-    <string name="consent_title">Vertragsbedingungen</string>
-    <string name="consent_message">"Um diese Anwendung nutzen zu können, müssen Sie zustimmen und die folgenden Informationen senden. Für Inhalte zu dieser Prüfung, fahren Sie dann bitte damit fort.
+  <string name="alert_dialog_failure_msg">Versuchen Sie es später erneut.</string>
+  <string name="alert_dialog_failure_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
+  <string name="alert_dialog_later_button">Später</string>
+  <string name="alert_dialog_upgrade_button">Aktualisierung</string>
+  <string name="app_name">Anspruch</string>
+  <string name="att_error_msg">Um es zu aktivieren, gehen Sie zu att.com/mywireless oder wählen Sie 611</string>
+  <string name="att_error_msg_other">Ein vorübergehendes Netzwerkproblem ist aufgetreten und verhindert die Aktivierung der Mobilen Hotspot-Funktion. Bitte versuchen Sie es später erneut</string>
+  <string name="att_error_msg_other_title">Netzfehler</string>
+  <string name="att_error_msg_title">Das Konto wurde nicht für Tethering eingerichtet</string>
+  <string name="browser_error_msg">Der Browser kann nicht geöffnet werden.</string>
+  <string name="change_data_request_msg">Antrag auf Bereitstellung senden. Bitte Warten...</string>
+  <string name="concent_agree_btn">Zustimmen</string>
+  <string name="concent_disagree_btn">Ablehnen</string>
+  <string name="consent_message">"Um diese Anwendung nutzen zu können, müssen Sie zustimmen und die folgenden Informationen senden. Für Inhalte zu dieser Prüfung, fahren Sie dann bitte damit fort.
 
 [Informationen senden]
 Spezifische ID des Auftragnehmers
 [Verwendung von Anwendungen]
 Weisen Sie an, die Tethering-Anwendung zu verwenden"</string>
-    <string name="consent_terms_btn">Hinweis</string>
-    <string name="concent_disagree_btn">Ablehnen</string>
-    <string name="concent_agree_btn">Zustimmen</string>
-    <string name="sbm_error_msg_title">Tethering- oder Hotspot-Fehler</string>
-    <string name="sbm_error_msg">Verbindung zum Datennetzwerk kann nicht erstellt werden.</string>
-    <string name="sbm_error_msg_not_subscribed">Die Verifizierung Ihres Abonnements für die Tethering Option ist fehlgeschlagen.</string>
-    <string name="sbm_error_msg_not_authenticated">"Authentifizierung fehlgeschlagen.
+  <string name="consent_terms_btn">Hinweis</string>
+  <string name="consent_title">Vertragsbedingungen</string>
+  <string name="current_subscription">(aktuelles Abonnement)</string>
+  <string name="feature_check_msg">Prüfen Sie den Abonnementstatus. Bitte Warten...</string>
+  <string name="network_connection_error_msg">Ihr Telefon kann sich derzeit nicht mit dem Server von %s verbinden. Bitte versuchen Sie es später erneut.</string>
+  <string name="network_connection_title">Netzwerkverbindungsfehler</string>
+  <string name="request_pending_error_msg">Der Verizon Server ist mit der Bearbeitung Ihrer Anfrage beschäftigt. Bitte versuchen Sie es in 5 Minuten erneut.</string>
+  <string name="request_pending_title">Anhängige Bereitstellung</string>
+  <string name="retv_terms_conditions_msg">Prüfen Sie den Abonnementstatus. Bitte Warten...</string>
+  <string name="sbm_content_activity_title">Vertragsbedingungen</string>
+  <string name="sbm_error_msg">Verbindung zum Datennetzwerk kann nicht erstellt werden.</string>
+  <string name="sbm_error_msg_no_response">Authentifizierung fehlgeschlagen. Bitte versuchen Sie es an einem Ort mit gutem Empfang erneut.</string>
+  <string name="sbm_error_msg_not_authenticated">"Authentifizierung fehlgeschlagen.
 (Fehlercode %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Authentifizierung fehlgeschlagen. Bitte versuchen Sie es an einem Ort mit gutem Empfang erneut.</string>
+  <string name="sbm_error_msg_not_subscribed">Die Verifizierung Ihres Abonnements für die Tethering Option ist fehlgeschlagen.</string>
+  <string name="sbm_error_msg_title">Tethering- oder Hotspot-Fehler</string>
+  <string name="sprint_error_msg">Es konnte keine Verbindung zu einem Datennetzwerk hergestellt werden; Sie können möglicherweise keinen Tethering- oder Hotspot-Dienst abonnieren; Bitte wenden Sie sich an Ihren Telefonanbieter.</string>
+  <string name="sprint_error_msg_title">Tethering- oder Hotspot-Fehler</string>
+  <string name="sprint_notification_msg">Berühren Sie, um weitere Details zu betrachten</string>
+  <string name="term_and_conditions_title">Nutzungsbedingungen</string>
+  <string name="tmo_error_msg">Ihr aktueller Tarif beinhaltet keinen Smartphone Mobile Hotspot-Dienst, welcher den Austausch über die Datenverbindung Ihres Telefons/Tablets mit anderen Geräten ermöglicht. Möchten Sie den Smartphone Mobile Hotspot-Dienst zu Ihrem Tarif hinzufügen? Sie können diesen online, unter https://my.t-mobile.com unter Verwalten &gt; Pläne und Dienste, hinzufügen. &lt;</string>
+  <string name="tmo_error_msg_title">Service-Upgrade erforderlich</string>
+  <string name="unavailable_subscription">(basierend auf der Speicherebene, ist dies nicht verfügbar)</string>
+  <string name="vzw_error_msg">"Wenn Sie Mobile Hotspot / Mobile Broadband Connect abonnieren wollen, rufen Sie:
+ Verbraucher: (800) 256-4646,
+ Unternehmen: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Ihre Bestellung konnte nicht verarbeitet werden</string>
+  <string name="vzw_self_provisioning_cancel">Abbrechen</string>
+  <string name="vzw_self_provisioning_learn_more">Weitere Informationen</string>
+  <string name="vzw_self_provisioning_msg">"Um Mobile Hotspot zu verwenden, müssen Sie den Mobile Hotspot-Dienst abonnieren.
+Erfahren Sie mehr darüber und abonnieren Sie den Mobile Hotspot, indem Sie My Verizon besuchen."</string>
 </resources>

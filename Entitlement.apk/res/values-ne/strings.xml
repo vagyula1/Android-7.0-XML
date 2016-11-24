@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">अधिकार</string>
-    <string name="feature_check_msg">सदस्यता स्थिति जाँच गर्दै। कृपया प्रतिक्षा गर्नुहोस्...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot प्रयोग गर्नको लागि, तपाईंले Mobile Hotspot सेवाको सदस्यता बन्नु पर्नेछ।
-मेरो संस्करणमा भ्रमण गरेर थप जान्नुहोस् र Mobile Hotspot को सदस्य बन्नुहोस्।"</string>
-    <string name="vzw_self_provisioning_cancel">रद्द</string>
-    <string name="vzw_self_provisioning_learn_more">अधिक जान्नुहोस्</string>
-    <string name="vzw_error_msg_title">तपाईंको आदेश कार्यान्वयन हुन सकेन</string>
-    <string name="vzw_error_msg">"यदि तपाईं Mobile Hotspot/Mobile Broadband को सदस्य बन्न चाहनुहुन्छ भने,
- उपभोक्ता: (800) 256-4646,
- व्यवसाय: (800) 899-4249 मा कल गर्नुहोस्।"</string>
-    <string name="tmo_error_msg_title">सेवा अपग्रेट आवश्यक छ</string>
-    <string name="tmo_error_msg">तपाईंले हालको मूल्य योजनाले स्मार्टफोन Mobile Hotspot सेवालाई समावेश गर्दैन जसले तपाईंको फोनको डाटा जडानलाई अन्य यन्त्रहरूमा साझा गर्न सक्षम गर्दछ। के तपाईं आफ्नो मूल्य योजनामा स्मार्टफोन Mobile Hotspot सेवा थप्न चाहनुहुन्छ? तपाईं व्यवस्थापन > योजनाहरू तथा सेवाहरू &lt; अन्तर्गत अनलाइन मार्फत https://my.t-mobile.com मा गएर पनि थप्न सक्नुहुन्छ। &lt;</string>
-    <string name="retv_terms_conditions_msg">सदस्यता स्थिति जाँच गर्दै। कृपया प्रतिक्षा गर्नुहोस्...</string>
-    <string name="change_data_request_msg">प्रावधानको लागि अनुरोध पठाउँदै। कृपया प्रतिक्षा गर्नुहोस्...</string>
-    <string name="alert_dialog_failure_title">तपाईंको आदेश कार्यान्वयन हुन सकेन</string>
-    <string name="alert_dialog_failure_msg">कृपया फेरी पछि प्रयास गर्नुहोस्।</string>
-    <string name="network_connection_title">नेटवर्क जडान त्रुटि</string>
-    <string name="network_connection_error_msg">तपाईंको फोन हाल %s सर्भरमा जडान हुन सक्दैन। कृपया पछि पुन: प्रयास गर्नुहोस्।</string>
-    <string name="mobile_hotspot">मोबाइल हटस्पट</string>
-    <string name="alert_dialog_positive_button">ठीक</string>
-    <string name="alert_dialog_upgrade_button">अपग्रेड</string>
-    <string name="alert_dialog_later_button">पछाडि</string>
-    <string name="current_subscription">(हालको सदस्यता)</string>
-    <string name="unavailable_subscription">(भण्डारण स्तरको आधारमा अनुपलब्ध छ)</string>
-    <string name="request_pending_title">प्रावधान बाँकी</string>
-    <string name="request_pending_error_msg">भेरिजनको सर्भरले तपाईंको अनुरोधलाई कार्यान्वयन गर्दैछ। कृपया 5 मिनेटमा पुन: प्रयास गर्नुहोस्।</string>
-    <string name="browser_error_msg">ब्राउजर खुल्न सक्दैन।</string>
-    <string name="att_error_msg">सक्रिय गर्नको लागि, att.com/mywireless मा जानुहोस् वा 611 मा डायल गर्नुहोस्</string>
-    <string name="att_error_msg_title">टिथरिङको लागि खाता सेट अप छैन</string>
-    <string name="att_error_msg_other">मोबाइल हटस्पटको प्रकार्यलाई सक्षमतामा सुरक्षा गर्न त्यहाँ अस्थायी नेटवर्कमा समस्या हुन्छ। कृपया फेरी प्रयास गर्नुहोस्</string>
-    <string name="att_error_msg_other_title">नेटवर्क त्रुटि</string>
-    <string name="sprint_error_msg">"डाटा नेटवर्कमा सम्पर्क हुन सकेन;  तपाईंले टेथरिङ वा हटस्पट सेवाको सदस्यता प्राप्त नगर्न सक्नुहुन्छ; कृपया तपाइँको फोन कम्पनीसँग सम्पर्क गर्नुहोस्।"</string>
-    <string name="sprint_error_msg_title">टेथरिङ वा हटस्पट त्रुटि छ</string>
-    <string name="sprint_notification_msg">थप विवरणहरू हेर्नको लागि टच गर्नुहोस्</string>
-    <string name="term_and_conditions_title">सेवा तथा शर्तहरु</string>
-    <string name="sbm_content_activity_title">सम्झौता शर्तहरू</string>
-    <string name="consent_title">सम्झौता शर्तहरू</string>
-    <string name="consent_message">"यस एप्लिकेसनलाई प्रयोग गर्नको लागि तपाईंले स्वीकार गरेर निम्न जानकारी पठाउनु आवश्यक पर्दछ। विषयवस्तुहरूको जाँच पछि, कृपया प्रारम्भ गर्नुहोस्।
+  <string name="alert_dialog_failure_msg">कृपया फेरी पछि प्रयास गर्नुहोस्।</string>
+  <string name="alert_dialog_failure_title">तपाईंको आदेश कार्यान्वयन हुन सकेन</string>
+  <string name="alert_dialog_later_button">पछाडि</string>
+  <string name="alert_dialog_positive_button">ठीक</string>
+  <string name="alert_dialog_upgrade_button">अपग्रेड</string>
+  <string name="app_name">अधिकार</string>
+  <string name="att_error_msg">सक्रिय गर्नको लागि, att.com/mywireless मा जानुहोस् वा 611 मा डायल गर्नुहोस्</string>
+  <string name="att_error_msg_other">मोबाइल हटस्पटको प्रकार्यलाई सक्षमतामा सुरक्षा गर्न त्यहाँ अस्थायी नेटवर्कमा समस्या हुन्छ। कृपया फेरी प्रयास गर्नुहोस्</string>
+  <string name="att_error_msg_other_title">नेटवर्क त्रुटि</string>
+  <string name="att_error_msg_title">टिथरिङको लागि खाता सेट अप छैन</string>
+  <string name="browser_error_msg">ब्राउजर खुल्न सक्दैन।</string>
+  <string name="change_data_request_msg">प्रावधानको लागि अनुरोध पठाउँदै। कृपया प्रतिक्षा गर्नुहोस्...</string>
+  <string name="concent_agree_btn">सहमत हुनुहोस्</string>
+  <string name="concent_disagree_btn">असहमत</string>
+  <string name="consent_message">"यस एप्लिकेसनलाई प्रयोग गर्नको लागि तपाईंले स्वीकार गरेर निम्न जानकारी पठाउनु आवश्यक पर्दछ। विषयवस्तुहरूको जाँच पछि, कृपया प्रारम्भ गर्नुहोस्।
 
 [जानकारी पठाउनुहोस्]
 ठेकेदार-उल्लेखित ID
 [एप्लिकेसनहरूको प्रयोग गर्नुहोस्]
 टेथरिङ एप्लिकेसन प्रयोग गर्नको लागि आदेश दिनुहोस्"</string>
-    <string name="consent_terms_btn">सेवाका शर्तहरु</string>
-    <string name="concent_disagree_btn">असहमत</string>
-    <string name="concent_agree_btn">सहमत हुनुहोस्</string>
-    <string name="sbm_error_msg_title">टेथरिङ वा हटस्पट त्रुटि छ</string>
-    <string name="sbm_error_msg">डेटा नेटवर्कसँग जडान गर्न अक्षम।</string>
-    <string name="sbm_error_msg_not_subscribed">तेथरिङ विकल्पमा तपाईंको सदस्यता रुजू गर्न असफल भयो।</string>
-    <string name="sbm_error_msg_not_authenticated">"प्रमाणिकरण विफल।.
+  <string name="consent_terms_btn">सेवाका शर्तहरु</string>
+  <string name="consent_title">सम्झौता शर्तहरू</string>
+  <string name="current_subscription">(हालको सदस्यता)</string>
+  <string name="feature_check_msg">सदस्यता स्थिति जाँच गर्दै। कृपया प्रतिक्षा गर्नुहोस्...</string>
+  <string name="mobile_hotspot">मोबाइल हटस्पट</string>
+  <string name="network_connection_error_msg">तपाईंको फोन हाल %s सर्भरमा जडान हुन सक्दैन। कृपया पछि पुन: प्रयास गर्नुहोस्।</string>
+  <string name="network_connection_title">नेटवर्क जडान त्रुटि</string>
+  <string name="request_pending_error_msg">भेरिजनको सर्भरले तपाईंको अनुरोधलाई कार्यान्वयन गर्दैछ। कृपया 5 मिनेटमा पुन: प्रयास गर्नुहोस्।</string>
+  <string name="request_pending_title">प्रावधान बाँकी</string>
+  <string name="retv_terms_conditions_msg">सदस्यता स्थिति जाँच गर्दै। कृपया प्रतिक्षा गर्नुहोस्...</string>
+  <string name="sbm_content_activity_title">सम्झौता शर्तहरू</string>
+  <string name="sbm_error_msg">डेटा नेटवर्कसँग जडान गर्न अक्षम।</string>
+  <string name="sbm_error_msg_no_response">प्रमाणीकरण असफल भयो ।. राम्रो रिसेप्सन भएको ठाउँमा कृपया पुन: प्रयास गर्नुहोस्।</string>
+  <string name="sbm_error_msg_not_authenticated">"प्रमाणिकरण विफल।.
 (त्रुटि कोड %1$s)"</string>
-    <string name="sbm_error_msg_no_response">प्रमाणीकरण असफल भयो ।. राम्रो रिसेप्सन भएको ठाउँमा कृपया पुन: प्रयास गर्नुहोस्।</string>
+  <string name="sbm_error_msg_not_subscribed">तेथरिङ विकल्पमा तपाईंको सदस्यता रुजू गर्न असफल भयो।</string>
+  <string name="sbm_error_msg_title">टेथरिङ वा हटस्पट त्रुटि छ</string>
+  <string name="sprint_error_msg">"डाटा नेटवर्कमा सम्पर्क हुन सकेन;  तपाईंले टेथरिङ वा हटस्पट सेवाको सदस्यता प्राप्त नगर्न सक्नुहुन्छ; कृपया तपाइँको फोन कम्पनीसँग सम्पर्क गर्नुहोस्।"</string>
+  <string name="sprint_error_msg_title">टेथरिङ वा हटस्पट त्रुटि छ</string>
+  <string name="sprint_notification_msg">थप विवरणहरू हेर्नको लागि टच गर्नुहोस्</string>
+  <string name="term_and_conditions_title">सेवा तथा शर्तहरु</string>
+  <string name="tmo_error_msg">तपाईंले हालको मूल्य योजनाले स्मार्टफोन Mobile Hotspot सेवालाई समावेश गर्दैन जसले तपाईंको फोनको डाटा जडानलाई अन्य यन्त्रहरूमा साझा गर्न सक्षम गर्दछ। के तपाईं आफ्नो मूल्य योजनामा स्मार्टफोन Mobile Hotspot सेवा थप्न चाहनुहुन्छ? तपाईं व्यवस्थापन &gt; योजनाहरू तथा सेवाहरू &lt; अन्तर्गत अनलाइन मार्फत https://my.t-mobile.com मा गएर पनि थप्न सक्नुहुन्छ। &lt;</string>
+  <string name="tmo_error_msg_title">सेवा अपग्रेट आवश्यक छ</string>
+  <string name="unavailable_subscription">(भण्डारण स्तरको आधारमा अनुपलब्ध छ)</string>
+  <string name="vzw_error_msg">"यदि तपाईं Mobile Hotspot/Mobile Broadband को सदस्य बन्न चाहनुहुन्छ भने,
+ उपभोक्ता: (800) 256-4646,
+ व्यवसाय: (800) 899-4249 मा कल गर्नुहोस्।"</string>
+  <string name="vzw_error_msg_title">तपाईंको आदेश कार्यान्वयन हुन सकेन</string>
+  <string name="vzw_self_provisioning_cancel">रद्द</string>
+  <string name="vzw_self_provisioning_learn_more">अधिक जान्नुहोस्</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot प्रयोग गर्नको लागि, तपाईंले Mobile Hotspot सेवाको सदस्यता बन्नु पर्नेछ।
+मेरो संस्करणमा भ्रमण गरेर थप जान्नुहोस् र Mobile Hotspot को सदस्य बन्नुहोस्।"</string>
 </resources>

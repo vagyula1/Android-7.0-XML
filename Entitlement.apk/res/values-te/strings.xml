@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">అర్హతకలిగి ఉండుట</string>
-    <string name="feature_check_msg">చందా స్థితిని పరిశీలిస్తోంది. దయచేసి వేచిఉండండి...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot ను వినియోగించుటకు, మీరు Mobile Hotspot సేవకు సభ్యులు కావలసి ఉంది.
-మరింత నేర్చుకోండి మరియు మై వెరిజాన్‌ను సందర్శించడం ద్వారా Mobile Hotspot కు సభ్యత్వం తీసుకోండి."</string>
-    <string name="vzw_self_provisioning_cancel">రద్దు</string>
-    <string name="vzw_self_provisioning_learn_more">మరింత నేర్చుకో</string>
-    <string name="vzw_error_msg_title">మీ ఆదేశం ప్రాసెస్ చేయడం సాధ్యంకాదు</string>
-    <string name="vzw_error_msg">"ఒకవేళ మీరు Mobile Hotspot/మొబైల్ బ్రాడ్ బ్యాండ్ కనెక్టుకు చందాదారులు కావాలనుకుంటే, కాల్:
- వినియోగదారుడు: (800) 256-4646,
- వ్యాపారం: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">సర్వీస్ నవీకరణ అవసరం</string>
-    <string name="tmo_error_msg">మీ ప్రస్తుత రేటు ప్లాను ఇతర పరికరాలతో మీ ఫోనుయొక్క డేటా కనెక్షనును పంచుకోవడం సాధ్యంచేసే స్మార్టుఫోను Mobile Hotspot సేవను కలిగి ఉండదు. మీరు రేటు ప్లానుకు స్మార్టుపోను Mobile Hotspot సేవను చేర్చాలని అనుకుంటున్నారా? మీరు దీనిని ఆన్‌లైనులో https://my.t-mobile.com వద్ద మేనేజ్ > ప్లాన్స్ మరియు సర్వీసులలో కూడా చేర్చుకోగలరు. &lt;</string>
-    <string name="retv_terms_conditions_msg">చందా స్థితిని పరిశీలిస్తోంది. దయచేసి వేచిఉండండి...</string>
-    <string name="change_data_request_msg">కేటాయింపు కొరకు అభ్యర్ధన పంపబడుతోంది. దయచేసి వేచిఉండండి...</string>
-    <string name="alert_dialog_failure_title">మీ ఆదేశం ప్రాసెస్ చేయడం సాధ్యంకాదు</string>
-    <string name="alert_dialog_failure_msg">దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="network_connection_title">నెట్వర్క్ కనెక్షన్ లోపం</string>
-    <string name="network_connection_error_msg">మీ ఫోను ప్రస్తుతం %s యొక్క సర్వరుకు అనుసంధానించలేరు. దయచేసి తరువాత మళ్ళీ ప్రయత్నించండి.</string>
-    <string name="mobile_hotspot">మొబైల్ హాట్స్పాట్</string>
-    <string name="alert_dialog_positive_button">సరే</string>
-    <string name="alert_dialog_upgrade_button">అప్ గ్రేడ్</string>
-    <string name="alert_dialog_later_button">తర్వాత</string>
-    <string name="current_subscription">(ప్రస్తుత చందా)</string>
-    <string name="unavailable_subscription">(నిల్వ స్థాయి ఆధారంగా అందుబాటులో ఉండదు)</string>
-    <string name="request_pending_title">కేటాయింపుని నిలిపి ఉంది</string>
-    <string name="request_pending_error_msg">వెరిజోన్ యొక్క సర్వరు మీ అభ్యర్ధనను అమలుచేస్తోంది. దయచేసి 5 నిమిషాలలో మళ్ళీ ప్రయత్నించండి.</string>
-    <string name="browser_error_msg">బ్రౌజరును తెరవలేరు.</string>
-    <string name="att_error_msg">ఎనేబుల్ చేయుటకు, att.com/mywireless కు వెళ్ళండి లేదా 611 కి డయల్ చేయండి</string>
-    <string name="att_error_msg_title">టెథరింగ్ కొరకు అకౌంటు సెటప్ చేసిలేదు</string>
-    <string name="att_error_msg_other">మొబైల్ హాట్ స్పాట్ ఫంక్షన్ కి వీలుకల్పించకుండా ఆపే ఒక తాత్కాలిక నెట్ వర్క్ సమస్య ఉంది. దయచేసి తరువాత ప్రయత్నించండి</string>
-    <string name="att_error_msg_other_title">నెట్‌వర్క్ లోపం</string>
-    <string name="sprint_error_msg">డేటా నెట్వర్క్‌కు అనుసంధానించడం సాధ్యం కాలేదు; టెథెరింగ్ లేదా హాట్‌స్పాట్ సేవలకు మీరు చందాదారులు అయి ఉండకపోవచ్చును; దయచేసి మీ ఫోన్ కంపెనీని సంప్రదించండి;</string>
-    <string name="sprint_error_msg_title">టెథెరింగ్ లేదా హాట్‌స్పాట్ లోపము</string>
-    <string name="sprint_notification_msg">మరిన్ని వివరాలు చూచుటకు తాకండి</string>
-    <string name="term_and_conditions_title">నిబంధనలు మరియు షరతులు</string>
-    <string name="sbm_content_activity_title">ఒప్పందం యొక్క నిబంధనలు</string>
-    <string name="consent_title">ఒప్పందం యొక్క నిబంధనలు</string>
-    <string name="consent_message">"ఈ అనువర్తనాన్ని వినియోగించే క్రమంలో, మీరు క్రింది సమాచారాన్ని అంగీకరించి మరియు పంపవలసి ఉంటుంది. తనిఖీ యొక్క విషయాలపై, దయచేసి తరువాత కొనసాగాలి.
+  <string name="alert_dialog_failure_msg">దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="alert_dialog_failure_title">మీ ఆదేశం ప్రాసెస్ చేయడం సాధ్యంకాదు</string>
+  <string name="alert_dialog_later_button">తర్వాత</string>
+  <string name="alert_dialog_positive_button">సరే</string>
+  <string name="alert_dialog_upgrade_button">అప్ గ్రేడ్</string>
+  <string name="app_name">అర్హతకలిగి ఉండుట</string>
+  <string name="att_error_msg">ఎనేబుల్ చేయుటకు, att.com/mywireless కు వెళ్ళండి లేదా 611 కి డయల్ చేయండి</string>
+  <string name="att_error_msg_other">మొబైల్ హాట్ స్పాట్ ఫంక్షన్ కి వీలుకల్పించకుండా ఆపే ఒక తాత్కాలిక నెట్ వర్క్ సమస్య ఉంది. దయచేసి తరువాత ప్రయత్నించండి</string>
+  <string name="att_error_msg_other_title">నెట్‌వర్క్ లోపం</string>
+  <string name="att_error_msg_title">టెథరింగ్ కొరకు అకౌంటు సెటప్ చేసిలేదు</string>
+  <string name="browser_error_msg">బ్రౌజరును తెరవలేరు.</string>
+  <string name="change_data_request_msg">కేటాయింపు కొరకు అభ్యర్ధన పంపబడుతోంది. దయచేసి వేచిఉండండి...</string>
+  <string name="concent_agree_btn">ఒప్పుకొ</string>
+  <string name="concent_disagree_btn">అనంగీకారం</string>
+  <string name="consent_message">"ఈ అనువర్తనాన్ని వినియోగించే క్రమంలో, మీరు క్రింది సమాచారాన్ని అంగీకరించి మరియు పంపవలసి ఉంటుంది. తనిఖీ యొక్క విషయాలపై, దయచేసి తరువాత కొనసాగాలి.
 
 [సమాచారాన్నిపంపండి]
 గుత్తేదారు-నిర్దిష్ట ఐడి
 [అనువర్తనాలను వినియోగించు]
 టెథరింగ్ అనువర్తనాన్ని ఉపయోగించే క్రమం"</string>
-    <string name="consent_terms_btn">సర్వీసు యొక్క నియమాలు</string>
-    <string name="concent_disagree_btn">అనంగీకారం</string>
-    <string name="concent_agree_btn">ఒప్పుకొ</string>
-    <string name="sbm_error_msg_title">టెథెరింగ్ లేదా హాట్‌స్పాట్ లోపము</string>
-    <string name="sbm_error_msg">డేటా నెట్‌వర్క్‌కు కనెక్ట్ చేయడం కుదరలేదు.</string>
-    <string name="sbm_error_msg_not_subscribed">టెథరింగ్ ఎంపికకై మీ చందాను ధృవీకరించడంలో విఫలం అయ్యింది.</string>
-    <string name="sbm_error_msg_not_authenticated">"ఆథెంటికేషన్ విఫలమైంది.
+  <string name="consent_terms_btn">సర్వీసు యొక్క నియమాలు</string>
+  <string name="consent_title">ఒప్పందం యొక్క నిబంధనలు</string>
+  <string name="current_subscription">(ప్రస్తుత చందా)</string>
+  <string name="feature_check_msg">చందా స్థితిని పరిశీలిస్తోంది. దయచేసి వేచిఉండండి...</string>
+  <string name="mobile_hotspot">మొబైల్ హాట్స్పాట్</string>
+  <string name="network_connection_error_msg">మీ ఫోను ప్రస్తుతం %s యొక్క సర్వరుకు అనుసంధానించలేరు. దయచేసి తరువాత మళ్ళీ ప్రయత్నించండి.</string>
+  <string name="network_connection_title">నెట్వర్క్ కనెక్షన్ లోపం</string>
+  <string name="request_pending_error_msg">వెరిజోన్ యొక్క సర్వరు మీ అభ్యర్ధనను అమలుచేస్తోంది. దయచేసి 5 నిమిషాలలో మళ్ళీ ప్రయత్నించండి.</string>
+  <string name="request_pending_title">కేటాయింపుని నిలిపి ఉంది</string>
+  <string name="retv_terms_conditions_msg">చందా స్థితిని పరిశీలిస్తోంది. దయచేసి వేచిఉండండి...</string>
+  <string name="sbm_content_activity_title">ఒప్పందం యొక్క నిబంధనలు</string>
+  <string name="sbm_error_msg">డేటా నెట్‌వర్క్‌కు కనెక్ట్ చేయడం కుదరలేదు.</string>
+  <string name="sbm_error_msg_no_response">ఆథెంటికేషన్ విఫలమైంది. మంచి స్పందన ఉన్న ప్రదేశంలో దయచేసి మళ్ళీ ప్రయత్నించండి.</string>
+  <string name="sbm_error_msg_not_authenticated">"ఆథెంటికేషన్ విఫలమైంది.
 (కోడ్ దోషం %1$s)"</string>
-    <string name="sbm_error_msg_no_response">ఆథెంటికేషన్ విఫలమైంది. మంచి స్పందన ఉన్న ప్రదేశంలో దయచేసి మళ్ళీ ప్రయత్నించండి.</string>
+  <string name="sbm_error_msg_not_subscribed">టెథరింగ్ ఎంపికకై మీ చందాను ధృవీకరించడంలో విఫలం అయ్యింది.</string>
+  <string name="sbm_error_msg_title">టెథెరింగ్ లేదా హాట్‌స్పాట్ లోపము</string>
+  <string name="sprint_error_msg">డేటా నెట్వర్క్‌కు అనుసంధానించడం సాధ్యం కాలేదు; టెథెరింగ్ లేదా హాట్‌స్పాట్ సేవలకు మీరు చందాదారులు అయి ఉండకపోవచ్చును; దయచేసి మీ ఫోన్ కంపెనీని సంప్రదించండి;</string>
+  <string name="sprint_error_msg_title">టెథెరింగ్ లేదా హాట్‌స్పాట్ లోపము</string>
+  <string name="sprint_notification_msg">మరిన్ని వివరాలు చూచుటకు తాకండి</string>
+  <string name="term_and_conditions_title">నిబంధనలు మరియు షరతులు</string>
+  <string name="tmo_error_msg">మీ ప్రస్తుత రేటు ప్లాను ఇతర పరికరాలతో మీ ఫోనుయొక్క డేటా కనెక్షనును పంచుకోవడం సాధ్యంచేసే స్మార్టుఫోను Mobile Hotspot సేవను కలిగి ఉండదు. మీరు రేటు ప్లానుకు స్మార్టుపోను Mobile Hotspot సేవను చేర్చాలని అనుకుంటున్నారా? మీరు దీనిని ఆన్‌లైనులో https://my.t-mobile.com వద్ద మేనేజ్ &gt; ప్లాన్స్ మరియు సర్వీసులలో కూడా చేర్చుకోగలరు. &lt;</string>
+  <string name="tmo_error_msg_title">సర్వీస్ నవీకరణ అవసరం</string>
+  <string name="unavailable_subscription">(నిల్వ స్థాయి ఆధారంగా అందుబాటులో ఉండదు)</string>
+  <string name="vzw_error_msg">"ఒకవేళ మీరు Mobile Hotspot/మొబైల్ బ్రాడ్ బ్యాండ్ కనెక్టుకు చందాదారులు కావాలనుకుంటే, కాల్:
+ వినియోగదారుడు: (800) 256-4646,
+ వ్యాపారం: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">మీ ఆదేశం ప్రాసెస్ చేయడం సాధ్యంకాదు</string>
+  <string name="vzw_self_provisioning_cancel">రద్దు</string>
+  <string name="vzw_self_provisioning_learn_more">మరింత నేర్చుకో</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot ను వినియోగించుటకు, మీరు Mobile Hotspot సేవకు సభ్యులు కావలసి ఉంది.
+మరింత నేర్చుకోండి మరియు మై వెరిజాన్‌ను సందర్శించడం ద్వారా Mobile Hotspot కు సభ్యత్వం తీసుకోండి."</string>
 </resources>

@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Google පෙළ-කථන එන්ජිම</string>
-    <string name="general_settings">පොදු සැකසීම්</string>
-    <string name="license_activity_title">විවෘත-මූලාශ්‍ර බලපත්‍ර</string>
-    <string name="license_activity_loading">පූරණය වෙමින්...</string>
-    <string name="license_activity_unavailable">බලපත්‍ර පූරණය කිරීමේදී ගැටලුවක් ඇතිවිය.</string>
-    <string name="tts_settings_label">Google TTS විකල්ප</string>
-    <string name="voice_data_install_title">Google TTS හඬ දත්ත</string>
-    <string name="install_data_header">ඔබගේ උපාංගයෙහි නොබැඳි කථන සංශ්ලේෂණයට සහය දැක්වීමට මෙම දත්ත බාගත කරන්න.</string>
-    <string name="download_invite_title">%1$s කථන හඬ ස්ථාපනය කරන්න</string>
-    <string name="download_invite">%1$s සඳහා නොබැඳි පෙළ-කථන</string>
-    <string name="install_voice_text_2">බාගැනීමට ඇත.</string>
-    <string name="download_in_progress">බාගත කරමින් පවතී</string>
-    <string name="no_installable_voices">බාගත හැකි හඬවල් නැත</string>
-    <string name="cancel">අවලංගු කරන්න</string>
-    <string name="delete_voice_data">මකන්න</string>
-    <string name="update">යාවත්කාලීන කරන්න</string>
-    <string name="download">බාගන්න</string>
-    <string name="voice_installed">ස්ථාපිතයි.</string>
-    <string name="voice_installed_and_default">ස්ථාපිතයි සහ සුපුරුදු ලෙස සකස් කරන ලදී.</string>
-    <string name="download_notification_title">%1$s සඳහා %2$s</string>
-    <string name="download_notification_description">පෙළ-සිට-කථනය සඳහා කට හඬ දත්ත</string>
-    <string name="download_success_title">%1$s සඳහා හඬ දත්ත බාගත කරගන්නා ලදී</string>
-    <string name="download_success_description">මෙම හඬ සුපුරුදු කිරීමට සැකසීම් වෙත යාමට ස්පර්ශ කරන්න.</string>
-    <string name="download_failure_title">%1$s සඳහා හඬ දත්ත බාගත කිරීමේ දෝෂයක්</string>
-    <string name="download_failure_description">නැවත උත්සාහයට ස්පර්ශ කරන්න.</string>
-    <string name="download_failed_toast">හඬ පැකේජ බාගත ඇරඹීම අසාර්ථකය.</string>
-    <string name="manage_voice_data">හඬ දත්ත කළමනාකරණය කරන්න</string>
-    <string name="auto_update_title">හඬවල් ස්වයංක්‍රිය-යාවත්කාලිනය</string>
-    <string name="auto_update_wifi_title">Wi-Fi පමණක් භාවිතා කරන්න</string>
-    <string name="auto_update_wifi_summary">හඬ දත්ත Wi-Fi පමණක් භාවිතා කර බාගන්න. දත්ත භාවිතය අවම වේ.</string>
-    <string name="feedback_title">ප්‍රතිපෝෂණය</string>
-    <string name="feedback_failed">ප්‍රතිපෝෂණ පෝරමය විවෘත කිරීමට නොහැකි විය</string>
-    <string name="voices_type_title">හඬ වර්ගය</string>
-    <string name="voices_type_summary">[DOGFOOD] වර්ගයේ කතා සංස්ලේෂකය</string>
-    <string name="analytics_title">නිර්නාමික භාවිත වාර්තා</string>
-    <string name="analytics_summary_on">ක්‍රියාත්මකයි</string>
-    <string name="analytics_summary_off">ක්‍රියාවිරහිතයි</string>
-    <string name="analytics_screen_explanation">"මෙම විශේෂාංගය ක්‍රියාත්මක කර ඇති විට, අපි නිර්නාමික භාවිත වාර්තා රැස් කරමු. මෙය අපට ඔබේ උපාංගයේ Google කථනයට-පෙළ ක්‍රියාකාරීත්වය වඩාත් හොඳින් අවබෝධ කර ගැනීමට උදවු වේ.
+  <string name="action_licenses">විවෘත-මූලාශ්‍ර බලපත්‍ර</string>
+  <string name="action_settings">විකල්ප</string>
+  <string name="action_voice_pack_uninstall">අස්ථාපනය කරන්න</string>
+  <string name="action_voice_pack_update">යාවත්කාලීන කරන්න</string>
+  <string name="analytics_screen_explanation">"මෙම විශේෂාංගය ක්‍රියාත්මක කර ඇති විට, අපි නිර්නාමික භාවිත වාර්තා රැස් කරමු. මෙය අපට ඔබේ උපාංගයේ Google කථනයට-පෙළ ක්‍රියාකාරීත්වය වඩාත් හොඳින් අවබෝධ කර ගැනීමට උදවු වේ.
 
 අපි රැස් කරන එකතු මිතිකවලට උදාහරණ:
-"<li><ul>"කොතරම් සුලභව කථනයට-පෙළ භාවිත කරනු ලබන්නේද.
-"<li>කථනයට-පෙළ ඉල්ලීම්වල ක්‍රියාකාරීත්වය.</li>"
-"<li>කුමන භාෂා භාවිත කරනු ලබන්නේද.</li>"
-"<li>කොතරම් සුලභව කථනයට-පෙළ කථන ප්‍රතිදානය ඉදිරිපත් කිරීමට අසමත් වන්නේද.</li>"
-"</ul></li></string>
-    <string name="process_text_title">පෙළ තේරීම් මෙනුවට GoogleTTS ඇතුළු කිරීම එක් කරන්න</string>
-    <string name="process_text_summary">මෙම නව ඇතුළු කිරීම ඕනෑම තෝරන ලද පෙළක් සංශ්ලේෂණය කරනු ඇත.</string>
-    <string name="voice_pack_status_installed">ස්ථාපිතයි (%1$s)</string>
-    <string name="voice_pack_status_gender_female">ස්ත්‍රී</string>
-    <string name="voice_pack_status_gender_male">පුරුෂ</string>
-    <string name="voice_entity_status_gender_female">ගැහැණු %1$d</string>
-    <string name="voice_entity_status_gender_male">පිරිමි %1$d</string>
-    <string name="voice_entity_status_gender_unknown">නොදන්නා ස්ත්‍රී පුරුෂ භාවය %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">කාන්තා ලෙගසි හඩ</string>
-    <string name="voice_pack_status_gender_male_legacy">පිරිමි ලෙගසි හඬ</string>
-    <string name="voice_pack_status_gender_unknown">ස්ත්‍රී පුරුෂ බව නොදනී</string>
-    <string name="voice_pack_status_updatable">යාවත්කාලීනයක් ඇත</string>
-    <string name="voice_pack_status_downloadable">බාගන්න (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">වර්තමාන හඬ</string>
-    <string name="voice_pack_status_downloading">බාගනිමින්…</string>
-    <string name="voice_pack_name_high_quality">%1$s (උසස් තත්ත්වය)</string>
-    <string name="voice_pack_description">"නම: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#3482;&amp;#3548;&amp;#3501;&amp;#3515;&amp;#3512;&amp;#3530; &amp;#3523;&amp;#3540;&amp;#3517;&amp;#3511;&amp;#3520; &amp;#3482;&amp;#3502;&amp;#3505;&amp;#3514;&amp;#3495;-&amp;#3508;&amp;#3545;&amp;#3525; &amp;#3511;&amp;#3535;&amp;#3520;&amp;#3538;&amp;#3501; &amp;#3482;&amp;#3515;&amp;#3505;&amp;#3540; &amp;#3517;&amp;#3510;&amp;#3505;&amp;#3530;&amp;#3505;&amp;#3546;&amp;#3503;.
+"&lt;li&gt;&amp;#3482;&amp;#3502;&amp;#3505;&amp;#3514;&amp;#3495;-&amp;#3508;&amp;#3545;&amp;#3525; &amp;#3465;&amp;#3517;&amp;#3530;&amp;#3517;&amp;#3539;&amp;#3512;&amp;#3530;&amp;#3520;&amp;#3517; &amp;#3482;&amp;#3530;&amp;#8205;&amp;#3515;&amp;#3538;&amp;#3514;&amp;#3535;&amp;#3482;&amp;#3535;&amp;#3515;&amp;#3539;&amp;#3501;&amp;#3530;&amp;#3520;&amp;#3514;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#3482;&amp;#3540;&amp;#3512;&amp;#3505; &amp;#3511;&amp;#3535;&amp;#3522;&amp;#3535; &amp;#3511;&amp;#3535;&amp;#3520;&amp;#3538;&amp;#3501; &amp;#3482;&amp;#3515;&amp;#3505;&amp;#3540; &amp;#3517;&amp;#3510;&amp;#3505;&amp;#3530;&amp;#3505;&amp;#3546;&amp;#3503;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#3482;&amp;#3548;&amp;#3501;&amp;#3515;&amp;#3512;&amp;#3530; &amp;#3523;&amp;#3540;&amp;#3517;&amp;#3511;&amp;#3520; &amp;#3482;&amp;#3502;&amp;#3505;&amp;#3514;&amp;#3495;-&amp;#3508;&amp;#3545;&amp;#3525; &amp;#3482;&amp;#3502;&amp;#3505; &amp;#3508;&amp;#3530;&amp;#8205;&amp;#3515;&amp;#3501;&amp;#3538;&amp;#3503;&amp;#3535;&amp;#3505;&amp;#3514; &amp;#3465;&amp;#3503;&amp;#3538;&amp;#3515;&amp;#3538;&amp;#3508;&amp;#3501;&amp;#3530; &amp;#3482;&amp;#3538;&amp;#3515;&amp;#3539;&amp;#3512;&amp;#3495; &amp;#3461;&amp;#3523;&amp;#3512;&amp;#3501;&amp;#3530; &amp;#3520;&amp;#3505;&amp;#3530;&amp;#3505;&amp;#3546;&amp;#3503;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">ක්‍රියාවිරහිතයි</string>
+  <string name="analytics_summary_on">ක්‍රියාත්මකයි</string>
+  <string name="analytics_title">නිර්නාමික භාවිත වාර්තා</string>
+  <string name="app_name">Google පෙළ-කථන එන්ජිම</string>
+  <string name="auto_update_title">හඬවල් ස්වයංක්‍රිය-යාවත්කාලිනය</string>
+  <string name="auto_update_wifi_summary">හඬ දත්ත Wi-Fi පමණක් භාවිතා කර බාගන්න. දත්ත භාවිතය අවම වේ.</string>
+  <string name="auto_update_wifi_title">Wi-Fi පමණක් භාවිතා කරන්න</string>
+  <string name="cancel">අවලංගු කරන්න</string>
+  <string name="delete_voice_data">මකන්න</string>
+  <string name="download">බාගන්න</string>
+  <string name="download_failed_toast">හඬ පැකේජ බාගත ඇරඹීම අසාර්ථකය.</string>
+  <string name="download_failure_description">නැවත උත්සාහයට ස්පර්ශ කරන්න.</string>
+  <string name="download_failure_title">%1$s සඳහා හඬ දත්ත බාගත කිරීමේ දෝෂයක්</string>
+  <string name="download_in_progress">බාගත කරමින් පවතී</string>
+  <string name="download_invite">%1$s සඳහා නොබැඳි පෙළ-කථන</string>
+  <string name="download_invite_title">%1$s කථන හඬ ස්ථාපනය කරන්න</string>
+  <string name="download_notification_description">පෙළ-සිට-කථනය සඳහා කට හඬ දත්ත</string>
+  <string name="download_notification_title">%1$s සඳහා %2$s</string>
+  <string name="download_success_description">මෙම හඬ සුපුරුදු කිරීමට සැකසීම් වෙත යාමට ස්පර්ශ කරන්න.</string>
+  <string name="download_success_title">%1$s සඳහා හඬ දත්ත බාගත කරගන්නා ලදී</string>
+  <string name="feedback_failed">ප්‍රතිපෝෂණ පෝරමය විවෘත කිරීමට නොහැකි විය</string>
+  <string name="feedback_title">ප්‍රතිපෝෂණය</string>
+  <string name="general_settings">පොදු සැකසීම්</string>
+  <string name="install_data_header">ඔබගේ උපාංගයෙහි නොබැඳි කථන සංශ්ලේෂණයට සහය දැක්වීමට මෙම දත්ත බාගත කරන්න.</string>
+  <string name="install_voice_text_2">බාගැනීමට ඇත.</string>
+  <string name="license_activity_loading">පූරණය වෙමින්...</string>
+  <string name="license_activity_title">විවෘත-මූලාශ්‍ර බලපත්‍ර</string>
+  <string name="license_activity_unavailable">බලපත්‍ර පූරණය කිරීමේදී ගැටලුවක් ඇතිවිය.</string>
+  <string name="manage_voice_data">හඬ දත්ත කළමනාකරණය කරන්න</string>
+  <string name="morphed_voice_set_title">හඬ කට්ටලය</string>
+  <string name="multi_voice_pack_entry_name">හඬ කට්ටල %1$d</string>
+  <string name="multi_voice_pack_title">%1$s හඬවල්</string>
+  <string name="no_installable_voices">බාගත හැකි හඬවල් නැත</string>
+  <string name="play_sample_text_button_description">%1$s සඳහා ආදර්ශ පෙළ ධාවනය කරන්න</string>
+  <string name="process_text_summary">මෙම නව ඇතුළු කිරීම ඕනෑම තෝරන ලද පෙළක් සංශ්ලේෂණය කරනු ඇත.</string>
+  <string name="process_text_title">පෙළ තේරීම් මෙනුවට GoogleTTS ඇතුළු කිරීම එක් කරන්න</string>
+  <string name="quick_error">දෝෂය</string>
+  <string name="quick_speaking">කථා කරමින්</string>
+  <string name="quick_stopped">නතර කර ඇත</string>
+  <string name="quick_synthesizing">සංශ්ලේෂණය</string>
+  <string name="quick_wait_for_init">පූරණය කරමින්</string>
+  <string name="sample_text_synthesis_failure">මෙම හඬ සඳහා උදාහරණයක් සංශ්ලේෂණය කිරීම අසාර්ථක විය.</string>
+  <string name="select_voice_title">හඬ තෝරන්න</string>
+  <string name="tts_settings_label">Google TTS විකල්ප</string>
+  <string name="unpack_voice_pack_service_text">ගලවමින්…</string>
+  <string name="unpack_voice_pack_service_title">පෙළ-සිට-කථනයට දත්ත යාවත්කාලීන කරමින්</string>
+  <string name="update">යාවත්කාලීන කරන්න</string>
+  <string name="voice_data_install_title">Google TTS හඬ දත්ත</string>
+  <string name="voice_entity_status_gender_female">ගැහැණු %1$d</string>
+  <string name="voice_entity_status_gender_male">පිරිමි %1$d</string>
+  <string name="voice_entity_status_gender_unknown">නොදන්නා ස්ත්‍රී පුරුෂ භාවය %1$d</string>
+  <string name="voice_entry_cancel_download_desc">හඬ පැකේජ බාගැනීම අවලංගු කරන්න</string>
+  <string name="voice_entry_delete_desc">හඬ පොදිය මකන්න</string>
+  <string name="voice_entry_details">හඬ විස්තර කවුළුව විවෘත කරන්න</string>
+  <string name="voice_entry_download_desc">හඬ පැකේජ බාගන්න</string>
+  <string name="voice_entry_edit_desc">හඬ ඇසුරුම විවෘත කරන්න</string>
+  <string name="voice_entry_overflow_desc">අමතර හඬ පැකේජ ක්‍රියා</string>
+  <string name="voice_entry_sample">හඬ නිදර්ශනය ධාවනය කරන්න</string>
+  <string name="voice_installed">ස්ථාපිතයි.</string>
+  <string name="voice_installed_and_default">ස්ථාපිතයි සහ සුපුරුදු ලෙස සකස් කරන ලදී.</string>
+  <string name="voice_pack_action_cancel">බාගැනීම අවලංගු කරන්න</string>
+  <string name="voice_pack_action_download">බාගන්න (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">%1$s සඳහා වර්තමාන හඬ බවට පත් කරන්න</string>
+  <string name="voice_pack_action_remove">ඉවත් කරන්න</string>
+  <string name="voice_pack_action_update">යාවත්කාලීන කරන්න (~%1$s)</string>
+  <string name="voice_pack_description">"නම: %1$s 
 පෙදෙසිය: %2$s 
 දත්ත ප්‍රමාණය: ~%3$s 
 කතා කරන්නාගේ ස්ත්‍රී පුරුෂ බව: %4$s"</string>
-    <string name="voice_pack_action_download">බාගන්න (~%1$s)</string>
-    <string name="voice_pack_action_remove">ඉවත් කරන්න</string>
-    <string name="voice_pack_action_update">යාවත්කාලීන කරන්න (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">%1$s සඳහා වර්තමාන හඬ බවට පත් කරන්න</string>
-    <string name="voice_pack_action_cancel">බාගැනීම අවලංගු කරන්න</string>
-    <string name="voice_pack_install_tab_installed">ස්ථාපිත</string>
-    <string name="voice_pack_install_tab_all">සියල්ල</string>
-    <string name="voice_pack_install_tab_settings">සැකසීම්</string>
-    <string name="voice_entry_details">හඬ විස්තර කවුළුව විවෘත කරන්න</string>
-    <string name="voice_entry_edit_desc">හඬ ඇසුරුම විවෘත කරන්න</string>
-    <string name="voice_entry_overflow_desc">අමතර හඬ පැකේජ ක්‍රියා</string>
-    <string name="voice_entry_download_desc">හඬ පැකේජ බාගන්න</string>
-    <string name="voice_entry_cancel_download_desc">හඬ පැකේජ බාගැනීම අවලංගු කරන්න</string>
-    <string name="voice_entry_delete_desc">හඬ පොදිය මකන්න</string>
-    <string name="voice_entry_sample">හඬ නිදර්ශනය ධාවනය කරන්න</string>
-    <string name="voice_pack_not_enough_space">අභ්‍යන්තර ආචයනයේ ඉඩ ප්‍රමාණවත් නැත. මෙම හඬ ස්ථාපනය කිරීමට ඔබට තව ඉඩ අවශ්‍යවේ.</string>
-    <string name="action_settings">විකල්ප</string>
-    <string name="action_licenses">විවෘත-මූලාශ්‍ර බලපත්‍ර</string>
-    <string name="action_voice_pack_update">යාවත්කාලීන කරන්න</string>
-    <string name="action_voice_pack_uninstall">අස්ථාපනය කරන්න</string>
-    <string name="voice_pack_uninstall_dialog">මෙම හඬ අස්ථාපනය කරන්න ද?</string>
-    <string name="voice_pack_uninstall_keep">තබන්න</string>
-    <string name="voice_pack_uninstall_uninstall">අස්ථාපනය කරන්න</string>
-    <string name="voice_pack_unpack_failure">බාගත කළ හඬ ස්ථාපනය කිරීමට අසමත්විය</string>
-    <string name="multi_voice_pack_title">%1$s හඬවල්</string>
-    <string name="multi_voice_pack_entry_name">හඬ කට්ටල %1$d</string>
-    <string name="morphed_voice_set_title">හඬ කට්ටලය</string>
-    <string name="select_voice_title">හඬ තෝරන්න</string>
-    <string name="play_sample_text_button_description">%1$s සඳහා ආදර්ශ පෙළ ධාවනය කරන්න</string>
-    <string name="voice_pack_no_download_manager">Download Manager අබල කර තිබේ හෝ දැකීමට නොමැති; හඬ පොදිය බාගැනීමට නොහැක</string>
-    <string name="unpack_voice_pack_service_title">පෙළ-සිට-කථනයට දත්ත යාවත්කාලීන කරමින්</string>
-    <string name="unpack_voice_pack_service_text">ගලවමින්…</string>
-    <string name="sample_text_synthesis_failure">මෙම හඬ සඳහා උදාහරණයක් සංශ්ලේෂණය කිරීම අසාර්ථක විය.</string>
-    <string name="quick_wait_for_init">පූරණය කරමින්</string>
-    <string name="quick_synthesizing">සංශ්ලේෂණය</string>
-    <string name="quick_speaking">කථා කරමින්</string>
-    <string name="quick_stopped">නතර කර ඇත</string>
-    <string name="quick_error">දෝෂය</string>
+  <string name="voice_pack_install_tab_all">සියල්ල</string>
+  <string name="voice_pack_install_tab_installed">ස්ථාපිත</string>
+  <string name="voice_pack_install_tab_settings">සැකසීම්</string>
+  <string name="voice_pack_name_high_quality">%1$s (උසස් තත්ත්වය)</string>
+  <string name="voice_pack_no_download_manager">Download Manager අබල කර තිබේ හෝ දැකීමට නොමැති; හඬ පොදිය බාගැනීමට නොහැක</string>
+  <string name="voice_pack_not_enough_space">අභ්‍යන්තර ආචයනයේ ඉඩ ප්‍රමාණවත් නැත. මෙම හඬ ස්ථාපනය කිරීමට ඔබට තව ඉඩ අවශ්‍යවේ.</string>
+  <string name="voice_pack_status_downloadable">බාගන්න (~%1$s)</string>
+  <string name="voice_pack_status_downloading">බාගනිමින්…</string>
+  <string name="voice_pack_status_gender_female">ස්ත්‍රී</string>
+  <string name="voice_pack_status_gender_female_legacy">කාන්තා ලෙගසි හඩ</string>
+  <string name="voice_pack_status_gender_male">පුරුෂ</string>
+  <string name="voice_pack_status_gender_male_legacy">පිරිමි ලෙගසි හඬ</string>
+  <string name="voice_pack_status_gender_unknown">ස්ත්‍රී පුරුෂ බව නොදනී</string>
+  <string name="voice_pack_status_installed">ස්ථාපිතයි (%1$s)</string>
+  <string name="voice_pack_status_locale_default">වර්තමාන හඬ</string>
+  <string name="voice_pack_status_updatable">යාවත්කාලීනයක් ඇත</string>
+  <string name="voice_pack_uninstall_dialog">මෙම හඬ අස්ථාපනය කරන්න ද?</string>
+  <string name="voice_pack_uninstall_keep">තබන්න</string>
+  <string name="voice_pack_uninstall_uninstall">අස්ථාපනය කරන්න</string>
+  <string name="voice_pack_unpack_failure">බාගත කළ හඬ ස්ථාපනය කිරීමට අසමත්විය</string>
+  <string name="voices_type_summary">[DOGFOOD] වර්ගයේ කතා සංස්ලේෂකය</string>
+  <string name="voices_type_title">හඬ වර්ගය</string>
 </resources>

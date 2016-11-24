@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Enjin Teks ke Pertuturan Google</string>
-    <string name="general_settings">Tetapan Umum</string>
-    <string name="license_activity_title">Lesen Sumber Terbuka</string>
-    <string name="license_activity_loading">Memuatkan…</string>
-    <string name="license_activity_unavailable">Terdapat masalah memuatkan lesen.</string>
-    <string name="tts_settings_label">Pilihan Google TTS</string>
-    <string name="voice_data_install_title">Data suara TTS Google</string>
-    <string name="install_data_header">Muat turun data ini untuk menyokong sintesis pertuturan luar talian pada peranti anda.</string>
-    <string name="download_invite_title">Pasang suara pertuturan %1$s</string>
-    <string name="download_invite">Dayakan teks-ke-pertuturan luar talian untuk %1$s</string>
-    <string name="install_voice_text_2">Tersedia untuk muat turun.</string>
-    <string name="download_in_progress">Muat turun sedang berjalan</string>
-    <string name="no_installable_voices">Tiada suara boleh dimuat turun</string>
-    <string name="cancel">Batal</string>
-    <string name="delete_voice_data">Padam</string>
-    <string name="update">Kemas kini</string>
-    <string name="download">Muat turun</string>
-    <string name="voice_installed">Dipasang.</string>
-    <string name="voice_installed_and_default">Dipasang dan ditetapkan sebagai lalai.</string>
-    <string name="download_notification_title">%2$s untuk %1$s</string>
-    <string name="download_notification_description">Data suara untuk teks-ke-pertuturan</string>
-    <string name="download_success_title">Data suara yang dimuat turun untuk %1$s</string>
-    <string name="download_success_description">Sentuh untuk melawat tetapan dan menjadikan ini suara lalai.</string>
-    <string name="download_failure_title">Ralat memuat turun data suara untuk %1$s</string>
-    <string name="download_failure_description">Sentuh untuk mencuba sekali lagi.</string>
-    <string name="download_failed_toast">Gagal untuk memulakan muat turun pek suara.</string>
-    <string name="manage_voice_data">Urus data suara</string>
-    <string name="auto_update_title">Auto kemas kini suara</string>
-    <string name="auto_update_wifi_title">Gunakan Wi-Fi sahaja</string>
-    <string name="auto_update_wifi_summary">Muat turun data suara menggunakan Wi-Fi sahaja untuk menjimatkan penggunaan data.</string>
-    <string name="feedback_title">Maklum balas</string>
-    <string name="feedback_failed">Tidak dapat membuka borang maklum balas</string>
-    <string name="voices_type_title">Jenis suara</string>
-    <string name="voices_type_summary">[DOGFOOD]Jenis pensintesis pertuturan</string>
-    <string name="analytics_title">Laporan penggunaan awanama</string>
-    <string name="analytics_summary_on">Hidup</string>
-    <string name="analytics_summary_off">Mati</string>
-    <string name="analytics_screen_explanation">"Apabila ciri ini dihidupkan, kami mengumpulkan laporan penggunaan awanama. Laporan ini membantu kami memahami prestasi ciri teks-ke-pertuturan Google pada peranti anda dengan lebih baik lagi.
+  <string name="action_licenses">Lesen Sumber Terbuka</string>
+  <string name="action_settings">Pilihan</string>
+  <string name="action_voice_pack_uninstall">Nyahpasang</string>
+  <string name="action_voice_pack_update">Kemas Kini</string>
+  <string name="analytics_screen_explanation">"Apabila ciri ini dihidupkan, kami mengumpulkan laporan penggunaan awanama. Laporan ini membantu kami memahami prestasi ciri teks-ke-pertuturan Google pada peranti anda dengan lebih baik lagi.
 
 Contoh metrik yang kami kumpulkan:
-"<li><ul>"Kekerapan ciri teks-ke-pertuturan digunakan.
-"<li>Prestasi permintaan ciri teks-ke-pertuturan.</li>"
-"<li>Bahasa yang digunakan.</li>"
-"<li>Kekerapan kegagalan ciri teks-ke-pertuturan menyampaikan output pertuturan.</li>"
-"</ul></li></string>
-    <string name="process_text_title">Tambahkan entri GoogleTTS ke menu pilihan teks</string>
-    <string name="process_text_summary">Entri baharu ini akan mensintesis sebarang teks yang dipilih.</string>
-    <string name="voice_pack_status_installed">Dipasang (%1$s)</string>
-    <string name="voice_pack_status_gender_female">Perempuan</string>
-    <string name="voice_pack_status_gender_male">Lelaki</string>
-    <string name="voice_entity_status_gender_female">Wanita %1$d</string>
-    <string name="voice_entity_status_gender_male">Lelaki %1$d</string>
-    <string name="voice_entity_status_gender_unknown">Jantina tidak diketahui %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">Suara lama perempuan</string>
-    <string name="voice_pack_status_gender_male_legacy">Suara lama lelaki</string>
-    <string name="voice_pack_status_gender_unknown">Jantina tidak diketahui</string>
-    <string name="voice_pack_status_updatable">Kemas kini tersedia</string>
-    <string name="voice_pack_status_downloadable">Muat turun (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">Suara semasa</string>
-    <string name="voice_pack_status_downloading">Memuat turun...</string>
-    <string name="voice_pack_name_high_quality">%1$s (kualiti tinggi)</string>
-    <string name="voice_pack_description">"Nama: %1$s 
+"&lt;li&gt;&lt;ul&gt;"Kekerapan ciri teks-ke-pertuturan digunakan.
+"&lt;li&gt;Prestasi permintaan ciri teks-ke-pertuturan.&lt;/li&gt;"
+"&lt;li&gt;Bahasa yang digunakan.&lt;/li&gt;"
+"&lt;li&gt;Kekerapan kegagalan ciri teks-ke-pertuturan menyampaikan output pertuturan.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">Mati</string>
+  <string name="analytics_summary_on">Hidup</string>
+  <string name="analytics_title">Laporan penggunaan awanama</string>
+  <string name="app_name">Enjin Teks ke Pertuturan Google</string>
+  <string name="auto_update_title">Auto kemas kini suara</string>
+  <string name="auto_update_wifi_summary">Muat turun data suara menggunakan Wi-Fi sahaja untuk menjimatkan penggunaan data.</string>
+  <string name="auto_update_wifi_title">Gunakan Wi-Fi sahaja</string>
+  <string name="cancel">Batal</string>
+  <string name="delete_voice_data">Padam</string>
+  <string name="download">Muat turun</string>
+  <string name="download_failed_toast">Gagal untuk memulakan muat turun pek suara.</string>
+  <string name="download_failure_description">Sentuh untuk mencuba sekali lagi.</string>
+  <string name="download_failure_title">Ralat memuat turun data suara untuk %1$s</string>
+  <string name="download_in_progress">Muat turun sedang berjalan</string>
+  <string name="download_invite">Dayakan teks-ke-pertuturan luar talian untuk %1$s</string>
+  <string name="download_invite_title">Pasang suara pertuturan %1$s</string>
+  <string name="download_notification_description">Data suara untuk teks-ke-pertuturan</string>
+  <string name="download_notification_title">%2$s untuk %1$s</string>
+  <string name="download_success_description">Sentuh untuk melawat tetapan dan menjadikan ini suara lalai.</string>
+  <string name="download_success_title">Data suara yang dimuat turun untuk %1$s</string>
+  <string name="feedback_failed">Tidak dapat membuka borang maklum balas</string>
+  <string name="feedback_title">Maklum balas</string>
+  <string name="general_settings">Tetapan Umum</string>
+  <string name="install_data_header">Muat turun data ini untuk menyokong sintesis pertuturan luar talian pada peranti anda.</string>
+  <string name="install_voice_text_2">Tersedia untuk muat turun.</string>
+  <string name="license_activity_loading">Memuatkan…</string>
+  <string name="license_activity_title">Lesen Sumber Terbuka</string>
+  <string name="license_activity_unavailable">Terdapat masalah memuatkan lesen.</string>
+  <string name="manage_voice_data">Urus data suara</string>
+  <string name="morphed_voice_set_title">Tetapan Suara</string>
+  <string name="multi_voice_pack_entry_name">Tetapan suara %1$d</string>
+  <string name="multi_voice_pack_title">Suara %1$s</string>
+  <string name="no_installable_voices">Tiada suara boleh dimuat turun</string>
+  <string name="play_sample_text_button_description">Mainkan teks sampel untuk %1$s</string>
+  <string name="process_text_summary">Entri baharu ini akan mensintesis sebarang teks yang dipilih.</string>
+  <string name="process_text_title">Tambahkan entri GoogleTTS ke menu pilihan teks</string>
+  <string name="quick_error">Ralat</string>
+  <string name="quick_speaking">Bercakap</string>
+  <string name="quick_stopped">Dihentikan</string>
+  <string name="quick_synthesizing">Pensintesisan</string>
+  <string name="quick_wait_for_init">Memuatkan</string>
+  <string name="sample_text_synthesis_failure">Gagal mensintesiskan contoh untuk suara ini.</string>
+  <string name="select_voice_title">Pilih suara</string>
+  <string name="tts_settings_label">Pilihan Google TTS</string>
+  <string name="unpack_voice_pack_service_text">Membuka pek...</string>
+  <string name="unpack_voice_pack_service_title">Mengemas kini data Teks-ke-Pertuturan</string>
+  <string name="update">Kemas kini</string>
+  <string name="voice_data_install_title">Data suara TTS Google</string>
+  <string name="voice_entity_status_gender_female">Wanita %1$d</string>
+  <string name="voice_entity_status_gender_male">Lelaki %1$d</string>
+  <string name="voice_entity_status_gender_unknown">Jantina tidak diketahui %1$d</string>
+  <string name="voice_entry_cancel_download_desc">Batalkan muat turun pek suara</string>
+  <string name="voice_entry_delete_desc">Padam pek suara</string>
+  <string name="voice_entry_details">Lancarkan dialog butiran suara</string>
+  <string name="voice_entry_download_desc">Muat turun pek suara</string>
+  <string name="voice_entry_edit_desc">Buka pek suara</string>
+  <string name="voice_entry_overflow_desc">Tindakan pek suara tambahan</string>
+  <string name="voice_entry_sample">Mainkan sampel suara</string>
+  <string name="voice_installed">Dipasang.</string>
+  <string name="voice_installed_and_default">Dipasang dan ditetapkan sebagai lalai.</string>
+  <string name="voice_pack_action_cancel">Batalkan muat turun</string>
+  <string name="voice_pack_action_download">Muat turun (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">Jadikan suara semasa untuk %1$s</string>
+  <string name="voice_pack_action_remove">Alih Keluar</string>
+  <string name="voice_pack_action_update">Kemas kini (~%1$s)</string>
+  <string name="voice_pack_description">"Nama: %1$s 
 Tempat peristiwa: %2$s 
 Saiz data: ~%3$s 
 Jantina penutur: %4$s"</string>
-    <string name="voice_pack_action_download">Muat turun (~%1$s)</string>
-    <string name="voice_pack_action_remove">Alih Keluar</string>
-    <string name="voice_pack_action_update">Kemas kini (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">Jadikan suara semasa untuk %1$s</string>
-    <string name="voice_pack_action_cancel">Batalkan muat turun</string>
-    <string name="voice_pack_install_tab_installed">DIPASANG</string>
-    <string name="voice_pack_install_tab_all">SEMUA</string>
-    <string name="voice_pack_install_tab_settings">TETAPAN</string>
-    <string name="voice_entry_details">Lancarkan dialog butiran suara</string>
-    <string name="voice_entry_edit_desc">Buka pek suara</string>
-    <string name="voice_entry_overflow_desc">Tindakan pek suara tambahan</string>
-    <string name="voice_entry_download_desc">Muat turun pek suara</string>
-    <string name="voice_entry_cancel_download_desc">Batalkan muat turun pek suara</string>
-    <string name="voice_entry_delete_desc">Padam pek suara</string>
-    <string name="voice_entry_sample">Mainkan sampel suara</string>
-    <string name="voice_pack_not_enough_space">Tidak cukup ruang pada storan dalaman. Kosongkan ruang untuk memasang suara ini.</string>
-    <string name="action_settings">Pilihan</string>
-    <string name="action_licenses">Lesen Sumber Terbuka</string>
-    <string name="action_voice_pack_update">Kemas Kini</string>
-    <string name="action_voice_pack_uninstall">Nyahpasang</string>
-    <string name="voice_pack_uninstall_dialog">Nyahpasang suara ini?</string>
-    <string name="voice_pack_uninstall_keep">Simpan</string>
-    <string name="voice_pack_uninstall_uninstall">Nyahpasang</string>
-    <string name="voice_pack_unpack_failure">Gagal memasang suara yang dimuat turun</string>
-    <string name="multi_voice_pack_title">Suara %1$s</string>
-    <string name="multi_voice_pack_entry_name">Tetapan suara %1$d</string>
-    <string name="morphed_voice_set_title">Tetapan Suara</string>
-    <string name="select_voice_title">Pilih suara</string>
-    <string name="play_sample_text_button_description">Mainkan teks sampel untuk %1$s</string>
-    <string name="voice_pack_no_download_manager">Pengurus Muat Turun dilumpuhkan atau tiada; tidak dapat memuat turun pek suara</string>
-    <string name="unpack_voice_pack_service_title">Mengemas kini data Teks-ke-Pertuturan</string>
-    <string name="unpack_voice_pack_service_text">Membuka pek...</string>
-    <string name="sample_text_synthesis_failure">Gagal mensintesiskan contoh untuk suara ini.</string>
-    <string name="quick_wait_for_init">Memuatkan</string>
-    <string name="quick_synthesizing">Pensintesisan</string>
-    <string name="quick_speaking">Bercakap</string>
-    <string name="quick_stopped">Dihentikan</string>
-    <string name="quick_error">Ralat</string>
+  <string name="voice_pack_install_tab_all">SEMUA</string>
+  <string name="voice_pack_install_tab_installed">DIPASANG</string>
+  <string name="voice_pack_install_tab_settings">TETAPAN</string>
+  <string name="voice_pack_name_high_quality">%1$s (kualiti tinggi)</string>
+  <string name="voice_pack_no_download_manager">Pengurus Muat Turun dilumpuhkan atau tiada; tidak dapat memuat turun pek suara</string>
+  <string name="voice_pack_not_enough_space">Tidak cukup ruang pada storan dalaman. Kosongkan ruang untuk memasang suara ini.</string>
+  <string name="voice_pack_status_downloadable">Muat turun (~%1$s)</string>
+  <string name="voice_pack_status_downloading">Memuat turun...</string>
+  <string name="voice_pack_status_gender_female">Perempuan</string>
+  <string name="voice_pack_status_gender_female_legacy">Suara lama perempuan</string>
+  <string name="voice_pack_status_gender_male">Lelaki</string>
+  <string name="voice_pack_status_gender_male_legacy">Suara lama lelaki</string>
+  <string name="voice_pack_status_gender_unknown">Jantina tidak diketahui</string>
+  <string name="voice_pack_status_installed">Dipasang (%1$s)</string>
+  <string name="voice_pack_status_locale_default">Suara semasa</string>
+  <string name="voice_pack_status_updatable">Kemas kini tersedia</string>
+  <string name="voice_pack_uninstall_dialog">Nyahpasang suara ini?</string>
+  <string name="voice_pack_uninstall_keep">Simpan</string>
+  <string name="voice_pack_uninstall_uninstall">Nyahpasang</string>
+  <string name="voice_pack_unpack_failure">Gagal memasang suara yang dimuat turun</string>
+  <string name="voices_type_summary">[DOGFOOD]Jenis pensintesis pertuturan</string>
+  <string name="voices_type_title">Jenis suara</string>
 </resources>

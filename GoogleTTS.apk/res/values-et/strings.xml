@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">"Google'i kõnesünteesi mootor"</string>
-    <string name="general_settings">Üldseaded</string>
-    <string name="license_activity_title">Avatud lähtekoodi litsentsid</string>
-    <string name="license_activity_loading">Laadimine ...</string>
-    <string name="license_activity_unavailable">Litsentside laadimisega on probleem.</string>
-    <string name="tts_settings_label">"Google'i kõnesünteesi valikud"</string>
-    <string name="voice_data_install_title">Google TTS-i hääleandmed</string>
-    <string name="install_data_header">Seadmele võrguühenduseta kõnesünteesi toe lisamiseks laadige need andmed alla.</string>
-    <string name="download_invite_title">%1$s keele kõne hääle installimine</string>
-    <string name="download_invite">%1$s keele võrguühenduseta kõnesünteesi lubamine</string>
-    <string name="install_voice_text_2">Saadaval allalaadimiseks.</string>
-    <string name="download_in_progress">Allalaadimine on pooleli</string>
-    <string name="no_installable_voices">Allalaaditavaid hääli ei ole</string>
-    <string name="cancel">Tühista</string>
-    <string name="delete_voice_data">Kustuta</string>
-    <string name="update">Värskendus</string>
-    <string name="download">Laadi alla</string>
-    <string name="voice_installed">Installitud.</string>
-    <string name="voice_installed_and_default">Installitud ja määratud vaikevalikuks.</string>
-    <string name="download_notification_title">%2$s lokaadi %1$s jaoks</string>
-    <string name="download_notification_description">Hääleandmed kõnesünteesiks</string>
-    <string name="download_success_title">Häälandmed (%1$s) on alla laaditud</string>
-    <string name="download_success_description">Puudutage seadete avamiseks ja hääle vaikehääleks seadmiseks.</string>
-    <string name="download_failure_title">Viga häälandmete (%1$s) allalaadimisel</string>
-    <string name="download_failure_description">Puudutage uuesti proovimiseks.</string>
-    <string name="download_failed_toast">Häälepaketi allalaadimise alustamine ebaõnnestus.</string>
-    <string name="manage_voice_data">Hääleandmete haldamine</string>
-    <string name="auto_update_title">Häälte autom. värskendamine</string>
-    <string name="auto_update_wifi_title">Ainult WiFi kasutamine</string>
-    <string name="auto_update_wifi_summary">Häälandmete allalaadimine ainult WiFi kaudu. Säästab andmeside kasutust.</string>
-    <string name="feedback_title">Tagasiside</string>
-    <string name="feedback_failed">Tagasiside vormi ei saanud avada</string>
-    <string name="voices_type_title">Häälte tüüp</string>
-    <string name="voices_type_summary">[DOGFOOD]Kõnesünteesi tüüp</string>
-    <string name="analytics_title">Anonüümsed kasutusaruanded</string>
-    <string name="analytics_summary_on">Sees</string>
-    <string name="analytics_summary_off">Väljas</string>
-    <string name="analytics_screen_explanation">"Kui see funktsioon on sisse lülitatud, kogume anonüümseid kasutusaruandeid. See aitab meil paremini mõista Google'i kõnesünteesi toimivust teie seadmes.
+  <string name="action_licenses">Avatud lähtek. litsentsid</string>
+  <string name="action_settings">Valikud</string>
+  <string name="action_voice_pack_uninstall">Desinstalli</string>
+  <string name="action_voice_pack_update">Värskenda</string>
+  <string name="analytics_screen_explanation">"Kui see funktsioon on sisse lülitatud, kogume anonüümseid kasutusaruandeid. See aitab meil paremini mõista Google'i kõnesünteesi toimivust teie seadmes.
 
 Siin on näited koondatud mõõdikutest, mida kogume.
-"<li><ul>"Kui sageli kõnesünteesi kasutatakse?
-"<li>Milline on kõnesünteesi päringute toimivus?</li>"
-"<li>Milliseid keeli kasutatakse?</li>"
-"<li>Kui sageli ei suuda kõnesüntees kõnet väljastada?</li>"
-"</ul></li></string>
-    <string name="process_text_title">"Google'i kõnesünteesi sisestuse lisamine tekstivaliku menüüsse"</string>
-    <string name="process_text_summary">See uus sisestus sünteesib mis tahes valitud teksti.</string>
-    <string name="voice_pack_status_installed">Installitud (%1$s)</string>
-    <string name="voice_pack_status_gender_female">Naine</string>
-    <string name="voice_pack_status_gender_male">Mees</string>
-    <string name="voice_entity_status_gender_female">Naine: %1$d</string>
-    <string name="voice_entity_status_gender_male">Mees: %1$d</string>
-    <string name="voice_entity_status_gender_unknown">Sugu teadmata: %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">Pärandnaishääl</string>
-    <string name="voice_pack_status_gender_male_legacy">Pärandmeeshääl</string>
-    <string name="voice_pack_status_gender_unknown">Tundmatu sugu</string>
-    <string name="voice_pack_status_updatable">Värskendus on saadaval</string>
-    <string name="voice_pack_status_downloadable">Allalaadimine (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">Praegune hääl</string>
-    <string name="voice_pack_status_downloading">Allalaadimine ...</string>
-    <string name="voice_pack_name_high_quality">%1$s (kõrgkvaliteetne)</string>
-    <string name="voice_pack_description">"Nimi: %1$s 
+"&lt;li&gt;&lt;ul&gt;"Kui sageli k&amp;#245;nes&amp;#252;nteesi kasutatakse?
+"&lt;li&gt;Milline on k&amp;#245;nes&amp;#252;nteesi p&amp;#228;ringute toimivus?&lt;/li&gt;"
+"&lt;li&gt;Milliseid keeli kasutatakse?&lt;/li&gt;"
+"&lt;li&gt;Kui sageli ei suuda k&amp;#245;nes&amp;#252;ntees k&amp;#245;net v&amp;#228;ljastada?&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">Väljas</string>
+  <string name="analytics_summary_on">Sees</string>
+  <string name="analytics_title">Anonüümsed kasutusaruanded</string>
+  <string name="app_name">"Google'i kõnesünteesi mootor"</string>
+  <string name="auto_update_title">Häälte autom. värskendamine</string>
+  <string name="auto_update_wifi_summary">Häälandmete allalaadimine ainult WiFi kaudu. Säästab andmeside kasutust.</string>
+  <string name="auto_update_wifi_title">Ainult WiFi kasutamine</string>
+  <string name="cancel">Tühista</string>
+  <string name="delete_voice_data">Kustuta</string>
+  <string name="download">Laadi alla</string>
+  <string name="download_failed_toast">Häälepaketi allalaadimise alustamine ebaõnnestus.</string>
+  <string name="download_failure_description">Puudutage uuesti proovimiseks.</string>
+  <string name="download_failure_title">Viga häälandmete (%1$s) allalaadimisel</string>
+  <string name="download_in_progress">Allalaadimine on pooleli</string>
+  <string name="download_invite">%1$s keele võrguühenduseta kõnesünteesi lubamine</string>
+  <string name="download_invite_title">%1$s keele kõne hääle installimine</string>
+  <string name="download_notification_description">Hääleandmed kõnesünteesiks</string>
+  <string name="download_notification_title">%2$s lokaadi %1$s jaoks</string>
+  <string name="download_success_description">Puudutage seadete avamiseks ja hääle vaikehääleks seadmiseks.</string>
+  <string name="download_success_title">Häälandmed (%1$s) on alla laaditud</string>
+  <string name="feedback_failed">Tagasiside vormi ei saanud avada</string>
+  <string name="feedback_title">Tagasiside</string>
+  <string name="general_settings">Üldseaded</string>
+  <string name="install_data_header">Seadmele võrguühenduseta kõnesünteesi toe lisamiseks laadige need andmed alla.</string>
+  <string name="install_voice_text_2">Saadaval allalaadimiseks.</string>
+  <string name="license_activity_loading">Laadimine ...</string>
+  <string name="license_activity_title">Avatud lähtekoodi litsentsid</string>
+  <string name="license_activity_unavailable">Litsentside laadimisega on probleem.</string>
+  <string name="manage_voice_data">Hääleandmete haldamine</string>
+  <string name="morphed_voice_set_title">Häälekomplekt</string>
+  <string name="multi_voice_pack_entry_name">Häälekomplekt: %1$d</string>
+  <string name="multi_voice_pack_title">%1$s hääled</string>
+  <string name="no_installable_voices">Allalaaditavaid hääli ei ole</string>
+  <string name="play_sample_text_button_description">Esita hääle %1$s näidistekst</string>
+  <string name="process_text_summary">See uus sisestus sünteesib mis tahes valitud teksti.</string>
+  <string name="process_text_title">"Google'i kõnesünteesi sisestuse lisamine tekstivaliku menüüsse"</string>
+  <string name="quick_error">Viga</string>
+  <string name="quick_speaking">Rääkimine</string>
+  <string name="quick_stopped">Peatatud</string>
+  <string name="quick_synthesizing">Sünteesimine</string>
+  <string name="quick_wait_for_init">Laadimine</string>
+  <string name="sample_text_synthesis_failure">Selle hääle näidise sünteesimine ebaõnnestus.</string>
+  <string name="select_voice_title">Hääle valimine</string>
+  <string name="tts_settings_label">"Google'i kõnesünteesi valikud"</string>
+  <string name="unpack_voice_pack_service_text">Lahtipakkimine ...</string>
+  <string name="unpack_voice_pack_service_title">Kõnesünteesi andmete värskendamine</string>
+  <string name="update">Värskendus</string>
+  <string name="voice_data_install_title">Google TTS-i hääleandmed</string>
+  <string name="voice_entity_status_gender_female">Naine: %1$d</string>
+  <string name="voice_entity_status_gender_male">Mees: %1$d</string>
+  <string name="voice_entity_status_gender_unknown">Sugu teadmata: %1$d</string>
+  <string name="voice_entry_cancel_download_desc">Tühista häälepaketi allalaadimine</string>
+  <string name="voice_entry_delete_desc">Häälepaketi kustutamine</string>
+  <string name="voice_entry_details">Ava hääleüksikasjade dialoog</string>
+  <string name="voice_entry_download_desc">Laadi häälepakett alla</string>
+  <string name="voice_entry_edit_desc">Ava häälepakett</string>
+  <string name="voice_entry_overflow_desc">Täiendavad häälepaketi toimingud</string>
+  <string name="voice_entry_sample">Esita hääle näidis</string>
+  <string name="voice_installed">Installitud.</string>
+  <string name="voice_installed_and_default">Installitud ja määratud vaikevalikuks.</string>
+  <string name="voice_pack_action_cancel">Tühista allalaadimine</string>
+  <string name="voice_pack_action_download">Laadi alla (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">Määra see hääleks lokaadi %1$s puhul</string>
+  <string name="voice_pack_action_remove">Eemalda</string>
+  <string name="voice_pack_action_update">Värskenda (~%1$s)</string>
+  <string name="voice_pack_description">"Nimi: %1$s 
 Lokaat: %2$s 
 Andmemaht: ~%3$s 
 Kõneleja sugu: %4$s"</string>
-    <string name="voice_pack_action_download">Laadi alla (~%1$s)</string>
-    <string name="voice_pack_action_remove">Eemalda</string>
-    <string name="voice_pack_action_update">Värskenda (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">Määra see hääleks lokaadi %1$s puhul</string>
-    <string name="voice_pack_action_cancel">Tühista allalaadimine</string>
-    <string name="voice_pack_install_tab_installed">INSTALLITUD</string>
-    <string name="voice_pack_install_tab_all">KÕIK</string>
-    <string name="voice_pack_install_tab_settings">SEADED</string>
-    <string name="voice_entry_details">Ava hääleüksikasjade dialoog</string>
-    <string name="voice_entry_edit_desc">Ava häälepakett</string>
-    <string name="voice_entry_overflow_desc">Täiendavad häälepaketi toimingud</string>
-    <string name="voice_entry_download_desc">Laadi häälepakett alla</string>
-    <string name="voice_entry_cancel_download_desc">Tühista häälepaketi allalaadimine</string>
-    <string name="voice_entry_delete_desc">Häälepaketi kustutamine</string>
-    <string name="voice_entry_sample">Esita hääle näidis</string>
-    <string name="voice_pack_not_enough_space">Sisemises salvestusruumis on liiga vähe vaba ruumi. Hääle installimiseks vabastage ruumi.</string>
-    <string name="action_settings">Valikud</string>
-    <string name="action_licenses">Avatud lähtek. litsentsid</string>
-    <string name="action_voice_pack_update">Värskenda</string>
-    <string name="action_voice_pack_uninstall">Desinstalli</string>
-    <string name="voice_pack_uninstall_dialog">Kas desinstallida hääl?</string>
-    <string name="voice_pack_uninstall_keep">Säilita</string>
-    <string name="voice_pack_uninstall_uninstall">Desinstalli</string>
-    <string name="voice_pack_unpack_failure">Allalaaditud hääle installimine ebaõnnestus</string>
-    <string name="multi_voice_pack_title">%1$s hääled</string>
-    <string name="multi_voice_pack_entry_name">Häälekomplekt: %1$d</string>
-    <string name="morphed_voice_set_title">Häälekomplekt</string>
-    <string name="select_voice_title">Hääle valimine</string>
-    <string name="play_sample_text_button_description">Esita hääle %1$s näidistekst</string>
-    <string name="voice_pack_no_download_manager">Allalaadimishaldur on keelatud või puudub; häälepaketti ei saa alla laadida</string>
-    <string name="unpack_voice_pack_service_title">Kõnesünteesi andmete värskendamine</string>
-    <string name="unpack_voice_pack_service_text">Lahtipakkimine ...</string>
-    <string name="sample_text_synthesis_failure">Selle hääle näidise sünteesimine ebaõnnestus.</string>
-    <string name="quick_wait_for_init">Laadimine</string>
-    <string name="quick_synthesizing">Sünteesimine</string>
-    <string name="quick_speaking">Rääkimine</string>
-    <string name="quick_stopped">Peatatud</string>
-    <string name="quick_error">Viga</string>
+  <string name="voice_pack_install_tab_all">KÕIK</string>
+  <string name="voice_pack_install_tab_installed">INSTALLITUD</string>
+  <string name="voice_pack_install_tab_settings">SEADED</string>
+  <string name="voice_pack_name_high_quality">%1$s (kõrgkvaliteetne)</string>
+  <string name="voice_pack_no_download_manager">Allalaadimishaldur on keelatud või puudub; häälepaketti ei saa alla laadida</string>
+  <string name="voice_pack_not_enough_space">Sisemises salvestusruumis on liiga vähe vaba ruumi. Hääle installimiseks vabastage ruumi.</string>
+  <string name="voice_pack_status_downloadable">Allalaadimine (~%1$s)</string>
+  <string name="voice_pack_status_downloading">Allalaadimine ...</string>
+  <string name="voice_pack_status_gender_female">Naine</string>
+  <string name="voice_pack_status_gender_female_legacy">Pärandnaishääl</string>
+  <string name="voice_pack_status_gender_male">Mees</string>
+  <string name="voice_pack_status_gender_male_legacy">Pärandmeeshääl</string>
+  <string name="voice_pack_status_gender_unknown">Tundmatu sugu</string>
+  <string name="voice_pack_status_installed">Installitud (%1$s)</string>
+  <string name="voice_pack_status_locale_default">Praegune hääl</string>
+  <string name="voice_pack_status_updatable">Värskendus on saadaval</string>
+  <string name="voice_pack_uninstall_dialog">Kas desinstallida hääl?</string>
+  <string name="voice_pack_uninstall_keep">Säilita</string>
+  <string name="voice_pack_uninstall_uninstall">Desinstalli</string>
+  <string name="voice_pack_unpack_failure">Allalaaditud hääle installimine ebaõnnestus</string>
+  <string name="voices_type_summary">[DOGFOOD]Kõnesünteesi tüüp</string>
+  <string name="voices_type_title">Häälte tüüp</string>
 </resources>

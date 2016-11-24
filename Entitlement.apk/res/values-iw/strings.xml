@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">‏זכאות</string>
-    <string name="feature_check_msg">‏בודק את מצב המנוי. אנא, המתן...</string>
-    <string name="vzw_self_provisioning_msg">"‏כדי להשתמש ב-Mobile Hotspot עליך להירשם לשירות נקודה חמה.
-למידע נוסף ולרישום ל-Mobile Hotspot בקר בווריזון שלי."</string>
-    <string name="vzw_self_provisioning_cancel">‏ביטול</string>
-    <string name="vzw_self_provisioning_learn_more">‏מידע נוסף</string>
-    <string name="vzw_error_msg_title">‏הטיפול בהזמנתך נכשל</string>
-    <string name="vzw_error_msg">"‏אם ברצונך להירשם כמנוי ל-Mobile Hotspot/חיבור לפס רחב נייד, צור קשר עם:
- צרכן פרטי: 256-4646 (800),
-בעל עסק: 899-4249 (800)."</string>
-    <string name="tmo_error_msg_title">‏שדרוג שירות הנדרש</string>
-    <string name="tmo_error_msg">‏תוכניתך הנוכחית אינה כוללת את השירות Mobile Hotspot של סמארטפון המאפשרת שיתוף חיבור הנתונים של הטלפון שלך עם התקנים אחרים. האם ברצונך להוסיף את השירות Mobile Hotspot של סמארטפון לתוכניתך? ניתן גם להוסיף אותו באופן מקוון בכתובת https://my.t-mobile.com תחת נהל > תוכניות ושירותים. &lt;</string>
-    <string name="retv_terms_conditions_msg">‏בודק את מצב המנוי. אנא, המתן...</string>
-    <string name="change_data_request_msg">‏שליחת בקשה להגדרת הרשאה. אנא, המתן...</string>
-    <string name="alert_dialog_failure_title">‏הטיפול בהזמנתך נכשל</string>
-    <string name="alert_dialog_failure_msg">‏נסה שוב מאוחר יותר.</string>
-    <string name="network_connection_title">‏שגיאה בחיבור לרשת</string>
-    <string name="network_connection_error_msg">‏הטלפון שלך לא יכול כעת להתחבר לשרת %s. ﻿אנא נסה שוב מאוחר יותר.</string>
-    <string name="mobile_hotspot">‏נקודה חמה ניידת</string>
-    <string name="alert_dialog_positive_button">‏אישור</string>
-    <string name="alert_dialog_upgrade_button">‏שדרג</string>
-    <string name="alert_dialog_later_button">‏מאוחר יותר</string>
-    <string name="current_subscription">‏(מנוי נוכחי)</string>
-    <string name="unavailable_subscription">‏(אינו זמין, מבוסס ברמת האחסון)</string>
-    <string name="request_pending_title">‏הגדרת הרשאה בהמתנה</string>
-    <string name="request_pending_error_msg">‏השרת של וריזון מטפל בפנייתך. אנא נסה שוב בעוד 5 דקות.</string>
-    <string name="browser_error_msg">‏אין אפשרות לפתוח את הדפדפן.</string>
-    <string name="att_error_msg">‏להפעלה בקר ב-att.com/mywireless או חייג 611</string>
-    <string name="att_error_msg_title">‏לחשבון זה לא הוגדרה קשירה</string>
-    <string name="att_error_msg_other">‏אירעה בעיית רשת זמנית המונעת את הפעלת פונקציית הנקודה החמה הניידת. אנא נסו שוב מאוחר יותר</string>
-    <string name="att_error_msg_other_title">‏שגיאת רשת</string>
-    <string name="sprint_error_msg">‏לא ניתן להתחבר לרשת נתונים; ייתכן שאינך מנוי לשירות קשירה או נקודה חמה; פנו לחברת הטלפון שלכם.</string>
-    <string name="sprint_error_msg_title">‏שגיאת קשירת או נקודה חמה</string>
-    <string name="sprint_notification_msg">‏הקש כאן לקבלת פרטים נוספים</string>
-    <string name="term_and_conditions_title">‏תנאי שימוש</string>
-    <string name="sbm_content_activity_title">‏תנאי השירות</string>
-    <string name="consent_title">‏תנאי השירות</string>
-    <string name="consent_message">"‏כדי להשתמש ביישום זה, עליך להסכים לשלוח את המידע הבא. בדוק את התוכן,והמשך כדלקמן.
+  <string name="alert_dialog_failure_msg">‏נסה שוב מאוחר יותר.</string>
+  <string name="alert_dialog_failure_title">‏הטיפול בהזמנתך נכשל</string>
+  <string name="alert_dialog_later_button">‏מאוחר יותר</string>
+  <string name="alert_dialog_positive_button">‏אישור</string>
+  <string name="alert_dialog_upgrade_button">‏שדרג</string>
+  <string name="app_name">‏זכאות</string>
+  <string name="att_error_msg">‏להפעלה בקר ב-att.com/mywireless או חייג 611</string>
+  <string name="att_error_msg_other">‏אירעה בעיית רשת זמנית המונעת את הפעלת פונקציית הנקודה החמה הניידת. אנא נסו שוב מאוחר יותר</string>
+  <string name="att_error_msg_other_title">‏שגיאת רשת</string>
+  <string name="att_error_msg_title">‏לחשבון זה לא הוגדרה קשירה</string>
+  <string name="browser_error_msg">‏אין אפשרות לפתוח את הדפדפן.</string>
+  <string name="change_data_request_msg">‏שליחת בקשה להגדרת הרשאה. אנא, המתן...</string>
+  <string name="concent_agree_btn">‏מסכים</string>
+  <string name="concent_disagree_btn">‏לא מסכים</string>
+  <string name="consent_message">"‏כדי להשתמש ביישום זה, עליך להסכים לשלוח את המידע הבא. בדוק את התוכן,והמשך כדלקמן.
 
 [שלח מידע]
 זיהוי קבלן ספציפי
 [השתמש ביישומים]
 פקודה לשימוש ביישום לקשירה"</string>
-    <string name="consent_terms_btn">‏תנאי השירות</string>
-    <string name="concent_disagree_btn">‏לא מסכים</string>
-    <string name="concent_agree_btn">‏מסכים</string>
-    <string name="sbm_error_msg_title">‏שגיאת קשירת או נקודה חמה</string>
-    <string name="sbm_error_msg">‏לא ניתן להתחבר לרשת הנתונים.</string>
-    <string name="sbm_error_msg_not_subscribed">‏אימות המנוי שלך לאפשרות קשירה נכשלה.</string>
-    <string name="sbm_error_msg_not_authenticated">"‏האימות נכשל.
+  <string name="consent_terms_btn">‏תנאי השירות</string>
+  <string name="consent_title">‏תנאי השירות</string>
+  <string name="current_subscription">‏(מנוי נוכחי)</string>
+  <string name="feature_check_msg">‏בודק את מצב המנוי. אנא, המתן...</string>
+  <string name="mobile_hotspot">‏נקודה חמה ניידת</string>
+  <string name="network_connection_error_msg">‏הטלפון שלך לא יכול כעת להתחבר לשרת %s. ﻿אנא נסה שוב מאוחר יותר.</string>
+  <string name="network_connection_title">‏שגיאה בחיבור לרשת</string>
+  <string name="request_pending_error_msg">‏השרת של וריזון מטפל בפנייתך. אנא נסה שוב בעוד 5 דקות.</string>
+  <string name="request_pending_title">‏הגדרת הרשאה בהמתנה</string>
+  <string name="retv_terms_conditions_msg">‏בודק את מצב המנוי. אנא, המתן...</string>
+  <string name="sbm_content_activity_title">‏תנאי השירות</string>
+  <string name="sbm_error_msg">‏לא ניתן להתחבר לרשת הנתונים.</string>
+  <string name="sbm_error_msg_no_response">‏האימות נכשל. אנא, נסה שוב במקום בו הקליטה טובה.</string>
+  <string name="sbm_error_msg_not_authenticated">"‏האימות נכשל.
 (קוד שגיאה %1$s)"</string>
-    <string name="sbm_error_msg_no_response">‏האימות נכשל. אנא, נסה שוב במקום בו הקליטה טובה.</string>
+  <string name="sbm_error_msg_not_subscribed">‏אימות המנוי שלך לאפשרות קשירה נכשלה.</string>
+  <string name="sbm_error_msg_title">‏שגיאת קשירת או נקודה חמה</string>
+  <string name="sprint_error_msg">‏לא ניתן להתחבר לרשת נתונים; ייתכן שאינך מנוי לשירות קשירה או נקודה חמה; פנו לחברת הטלפון שלכם.</string>
+  <string name="sprint_error_msg_title">‏שגיאת קשירת או נקודה חמה</string>
+  <string name="sprint_notification_msg">‏הקש כאן לקבלת פרטים נוספים</string>
+  <string name="term_and_conditions_title">‏תנאי שימוש</string>
+  <string name="tmo_error_msg">‏תוכניתך הנוכחית אינה כוללת את השירות Mobile Hotspot של סמארטפון המאפשרת שיתוף חיבור הנתונים של הטלפון שלך עם התקנים אחרים. האם ברצונך להוסיף את השירות Mobile Hotspot של סמארטפון לתוכניתך? ניתן גם להוסיף אותו באופן מקוון בכתובת https://my.t-mobile.com תחת נהל &gt; תוכניות ושירותים. &lt;</string>
+  <string name="tmo_error_msg_title">‏שדרוג שירות הנדרש</string>
+  <string name="unavailable_subscription">‏(אינו זמין, מבוסס ברמת האחסון)</string>
+  <string name="vzw_error_msg">"‏אם ברצונך להירשם כמנוי ל-Mobile Hotspot/חיבור לפס רחב נייד, צור קשר עם:
+ צרכן פרטי: 256-4646 (800),
+בעל עסק: 899-4249 (800)."</string>
+  <string name="vzw_error_msg_title">‏הטיפול בהזמנתך נכשל</string>
+  <string name="vzw_self_provisioning_cancel">‏ביטול</string>
+  <string name="vzw_self_provisioning_learn_more">‏מידע נוסף</string>
+  <string name="vzw_self_provisioning_msg">"‏כדי להשתמש ב-Mobile Hotspot עליך להירשם לשירות נקודה חמה.
+למידע נוסף ולרישום ל-Mobile Hotspot בקר בווריזון שלי."</string>
 </resources>

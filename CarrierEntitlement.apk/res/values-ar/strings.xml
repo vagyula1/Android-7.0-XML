@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">التالي</string>
-    <string name="suw_back_button_label">رجوع</string>
-    <string name="suw_more_button_label">المزيد</string>
-    <string name="entitlement_check_progress">جارٍ التحقق من حالة الاشتراك. يُرجى الانتظار.</string>
-    <string name="att_service_upgrade_msg">‏للتمكين، انتقل إلى att.com/mywireless أو اتصل بالرقم 611</string>
-    <string name="att_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
-    <string name="sprint_entitlement_error">الخدمة غير متوفرة. يُرجى الاتصال بمقدم الخدمة.</string>
-    <string name="sprint_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
-    <string name="vzw_service_upgrade_msg">لاستخدام نقطة اتصال الجوّال، يُرجى الاتصال بخدمة العملاء للاشتراك.</string>
-    <string name="vzw_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
-    <string name="vzw_wfc_activation_error">‏تعذر تنشيط الاتصال عبر Wi-Fi، والرجاء إعادة المحاولة لاحقًا.</string>
-    <string name="vzw_address_update_error">تعذر تحديث عنوان الطوارئ الحالي في الوقت الحالي، والرجاء إعادة المحاولة.</string>
-    <string name="generic_error">أخفقت المصادقة. الرجاء إعادة المحاولة لاحقًا.</string>
-    <string name="vzw_setup_app_label">‏تنشيط حساب Verizon</string>
-    <string name="vzw_activate_title">تنشيط الهاتف</string>
-    <string name="vzw_activate_progress">يُرجى الانتظار حتى يتم تجهيز هاتفك.</string>
-    <string name="vzw_activate_exiting">جارٍ إغلاق التنشيط.</string>
-    <string name="vzw_verify_title">إثبات ملكية حسابك</string>
-    <string name="vzw_verify_ssn">للبدء، أدخل آخر 4 أرقام في رقم التأمين الاجتماعي لمالك حسابك:</string>
-    <string name="vzw_verify_pwd">للبدء، أدخل كلمة مرور الفوترة في حسابك:</string>
-    <string name="vzw_verify_button">إثبات الملكية</string>
-    <string name="vzw_later_button">لاحقًا</string>
-    <string name="vzw_verify_switch_ssn">استخدام رقم التأمين الاجتماعي بدلاً من ذلك</string>
-    <string name="vzw_verify_switch_pwd">استخدام كلمة مرور الفوترة بدلاً من ذلك</string>
-    <string name="vzw_verify_progress_title">جارٍ إثبات ملكية حسابك...</string>
-    <string name="vzw_activate_ready_title">هل أنت جاهز للتنشيط؟</string>
-    <string name="vzw_activate_ready_new">قد يستغرق ذلك بضع دقائق</string>
-    <string name="vzw_activate_ready_upgrade">"قبل تنشيط هذا الهاتف، يُرجى الاحتفاظ بنسخة احتياطية من جهات الاتصال وإيقاف تشغيل هاتفك القديم.
+  <string name="apt_suite_number">الشقة، الجناح، وهكذا</string>
+  <string name="att_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
+  <string name="att_service_upgrade_msg">‏للتمكين، انتقل إلى att.com/mywireless أو اتصل بالرقم 611</string>
+  <string name="cancel">إلغاء</string>
+  <string name="city">المدينة</string>
+  <string name="edit_address">تعديل العنوان</string>
+  <string name="emergency_address_app_label">إدارة عنوان الطوارئ</string>
+  <string name="entitlement_check_progress">جارٍ التحقق من حالة الاشتراك. يُرجى الانتظار.</string>
+  <string name="generic_error">أخفقت المصادقة. الرجاء إعادة المحاولة لاحقًا.</string>
+  <string name="house_number">رقم العنوان</string>
+  <string name="ok">موافق</string>
+  <string name="progress_text">الرجاء الانتظار…</string>
+  <string name="save">حفظ</string>
+  <string name="save_anyway">حفظ على أي حال</string>
+  <string name="sprint_entitlement_error">الخدمة غير متوفرة. يُرجى الاتصال بمقدم الخدمة.</string>
+  <string name="sprint_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
+  <string name="state">الولاية</string>
+  <string name="street">الشارع</string>
+  <string name="suw_back_button_label">رجوع</string>
+  <string name="suw_more_button_label">المزيد</string>
+  <string name="suw_next_button_label">التالي</string>
+  <string name="vzw_activate_button">تنشيط</string>
+  <string name="vzw_activate_continue">متابعة</string>
+  <string name="vzw_activate_error_lookup">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204.</string>
+  <string name="vzw_activate_error_lost_stolen">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بالرقم ‎(877) 807-4646 من هاتف آخر لتنشيط خدمة 4G LTE، ثم أعد المحاولة.</string>
+  <string name="vzw_activate_error_network">‏تأكد من توفر إشارة جيدة (عدة أشرطة)، ثم أعد المحاولة. وإذا استمر ظهور هذه المشكلة، فيُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204 للحصول على مساعدة.</string>
+  <string name="vzw_activate_error_not_retryable">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204.</string>
+  <string name="vzw_activate_error_pwd">كلمة مرور الفوترة غير مطابقة. يُرجى إعادة المحاولة.</string>
+  <string name="vzw_activate_error_release">‏لتنشيط هاتفك، يمكنك الاتصال بالرقم ‎(800) 922-0204 من أي هاتف آخر.</string>
+  <string name="vzw_activate_error_restricted">‏لتنشيط هاتفك، يمكنك اتباع التعليمات المضمَّنة في هاتفك الجديد أو الاتصال بمسؤول Verizon Wireless في مؤسستك.</string>
+  <string name="vzw_activate_error_restricted_title">كيفية تنشيط هاتفك</string>
+  <string name="vzw_activate_error_ssn">رقم التأمين الاجتماعي غير مطابق. يُرجى إعادة المحاولة.</string>
+  <string name="vzw_activate_error_title">لا يمكن التنشيط</string>
+  <string name="vzw_activate_exiting">جارٍ إغلاق التنشيط.</string>
+  <string name="vzw_activate_notification">انقر لتنشيط هاتفك</string>
+  <string name="vzw_activate_notification_title">جاهز للتنشيط</string>
+  <string name="vzw_activate_progress">يُرجى الانتظار حتى يتم تجهيز هاتفك.</string>
+  <string name="vzw_activate_ready_new">قد يستغرق ذلك بضع دقائق</string>
+  <string name="vzw_activate_ready_title">هل أنت جاهز للتنشيط؟</string>
+  <string name="vzw_activate_ready_upgrade">"قبل تنشيط هذا الهاتف، يُرجى الاحتفاظ بنسخة احتياطية من جهات الاتصال وإيقاف تشغيل هاتفك القديم.
 
 وعند بدء التنشيط، سننقل رقمك إلى هذا الهاتف ونلغي تنشيط هاتفك القديم."</string>
-    <string name="vzw_activate_button">تنشيط</string>
-    <string name="vzw_activating_new_title">جارٍ الحصول على رقم الهاتف...</string>
-    <string name="vzw_activating_upgrade_title">جارٍ نقل رقم الهاتف...</string>
-    <string name="vzw_activating_upgrade">لنقل رقمك إلى هاتفك الجديد، يجب إيقاف تشغيل هاتفك القديم.</string>
-    <string name="vzw_activate_success_title">تم تنشيط الهاتف</string>
-    <string name="vzw_activate_success">‏أصبح هاتف Verizon نشطًا الآن. ورقمك هو %1$s</string>
-    <string name="vzw_data_limit_title">استخدام البيانات مقيَّد</string>
-    <string name="vzw_data_limit">‏استخدام البيانات مقيَّد الآن نظرًا لظروف الوقت أو لبلوغ الحد الأقصى للبيانات. يلزمك استخدام شبكة Wi-Fi لمتابعة إعداد جهازك.</string>
-    <string name="vzw_data_restricted_title">استخدام البيانات مقيَّد</string>
-    <string name="vzw_data_restricted">نظرًا لظروف الوقت أو لبلوغ الحد الأقصى للبيانات</string>
-    <string name="vzw_data_redirected_title">‏الحصول على خدمة Verizon</string>
-    <string name="vzw_data_redirected">‏ليست لديك خطة Verizon Wireless أو استهلكت كل رصيد البيانات بموجب الخطة، يُرجى الاتصال بشركة Verizon.</string>
-    <string name="vzw_activate_notification_title">جاهز للتنشيط</string>
-    <string name="vzw_activate_notification">انقر لتنشيط هاتفك</string>
-    <string name="vzw_cold_notification">‏يمكنك الاتصال بـ Verizon لتنشيط هاتفك.</string>
-    <string name="vzw_activate_error_title">لا يمكن التنشيط</string>
-    <string name="vzw_activate_error_network">‏تأكد من توفر إشارة جيدة (عدة أشرطة)، ثم أعد المحاولة. وإذا استمر ظهور هذه المشكلة، فيُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204 للحصول على مساعدة.</string>
-    <string name="vzw_activate_error_lookup">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204.</string>
-    <string name="vzw_activate_error_ssn">رقم التأمين الاجتماعي غير مطابق. يُرجى إعادة المحاولة.</string>
-    <string name="vzw_activate_error_pwd">كلمة مرور الفوترة غير مطابقة. يُرجى إعادة المحاولة.</string>
-    <string name="vzw_activate_error_not_retryable">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بخدمة العملاء على الرقم ‎(800) 922-0204.</string>
-    <string name="vzw_activate_error_release">‏لتنشيط هاتفك، يمكنك الاتصال بالرقم ‎(800) 922-0204 من أي هاتف آخر.</string>
-    <string name="vzw_activate_error_restricted_title">كيفية تنشيط هاتفك</string>
-    <string name="vzw_activate_error_restricted">‏لتنشيط هاتفك، يمكنك اتباع التعليمات المضمَّنة في هاتفك الجديد أو الاتصال بمسؤول Verizon Wireless في مؤسستك.</string>
-    <string name="vzw_activate_error_lost_stolen">‏عذرًا، لدينا مشكلة في تنشيط هاتفك، ويُرجى الاتصال بالرقم ‎(877) 807-4646 من هاتف آخر لتنشيط خدمة 4G LTE، ثم أعد المحاولة.</string>
-    <string name="vzw_activate_continue">متابعة</string>
-    <string name="vzw_activate_retry">إعادة المحاولة</string>
-    <string name="vzw_activate_skip">تخطٍ</string>
-    <string name="emergency_address_app_label">إدارة عنوان الطوارئ</string>
-    <string name="progress_text">الرجاء الانتظار…</string>
-    <string name="vzw_tos_title">‏تنشيط الاتصال عبر Wi-Fi</string>
-    <string name="cancel">إلغاء</string>
-    <string name="vzw_tos_text">"‏يتيح لك الاتصال عبر Wi-Fi إمكانية إجراء مكالمات باستخدام شبكة Wi-Fi عند عدم توفر شبكة الجوّال.
+  <string name="vzw_activate_retry">إعادة المحاولة</string>
+  <string name="vzw_activate_skip">تخطٍ</string>
+  <string name="vzw_activate_success">‏أصبح هاتف Verizon نشطًا الآن. ورقمك هو %1$s</string>
+  <string name="vzw_activate_success_title">تم تنشيط الهاتف</string>
+  <string name="vzw_activate_title">تنشيط الهاتف</string>
+  <string name="vzw_activating_new_title">جارٍ الحصول على رقم الهاتف...</string>
+  <string name="vzw_activating_upgrade">لنقل رقمك إلى هاتفك الجديد، يجب إيقاف تشغيل هاتفك القديم.</string>
+  <string name="vzw_activating_upgrade_title">جارٍ نقل رقم الهاتف...</string>
+  <string name="vzw_address_alternate_text">هل تقصد:</string>
+  <string name="vzw_address_confirm_text">"تعذر العثور على العنوان الذي أدخلته نظرًا لتعذر العثور على عنوان الشارع، وربما تم إدخال اسم مدينة أو ولاية أو رمز بريدي غير صحيح.
+
+إذا لم يكن اسم المدينة أو الولاية أو الرمز البريدي صحيحًا، فيمكنك النقر على %1$s، وإلا فانقر على %2$s."</string>
+  <string name="vzw_address_confirm_text_part1">تعذر العثور على العنوان الذي أدخلته نظرًا لتعذر العثور على عنوان الشارع، أو قد يكون اسم المدينة أو الولاية أو الرمز البريدي غير صحيح.</string>
+  <string name="vzw_address_confirm_text_part2">إذا لم يكن اسم المدينة أو الولاية أو الرمز البريدي صحيحًا، يمكنك النقر على %1$s، وإلا فانقر على %2$s.</string>
+  <string name="vzw_address_select_text">تعذر العثور على العنوان الذي أدخلته:</string>
+  <string name="vzw_address_update_error">تعذر تحديث عنوان الطوارئ الحالي في الوقت الحالي، والرجاء إعادة المحاولة.</string>
+  <string name="vzw_cold_notification">‏يمكنك الاتصال بـ Verizon لتنشيط هاتفك.</string>
+  <string name="vzw_data_limit">‏استخدام البيانات مقيَّد الآن نظرًا لظروف الوقت أو لبلوغ الحد الأقصى للبيانات. يلزمك استخدام شبكة Wi-Fi لمتابعة إعداد جهازك.</string>
+  <string name="vzw_data_limit_title">استخدام البيانات مقيَّد</string>
+  <string name="vzw_data_redirected">‏ليست لديك خطة Verizon Wireless أو استهلكت كل رصيد البيانات بموجب الخطة، يُرجى الاتصال بشركة Verizon.</string>
+  <string name="vzw_data_redirected_title">‏الحصول على خدمة Verizon</string>
+  <string name="vzw_data_restricted">نظرًا لظروف الوقت أو لبلوغ الحد الأقصى للبيانات</string>
+  <string name="vzw_data_restricted_title">استخدام البيانات مقيَّد</string>
+  <string name="vzw_e911_description">‏&lt;b&gt;&amp;#1607;&amp;#1575;&amp;#1605; - &amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1591;&amp;#1608;&amp;#1575;&amp;#1585;&amp;#1574; 911 &amp;#1605;&amp;#1591;&amp;#1604;&amp;#1608;&amp;#1576;&lt;/b&gt;"
+&amp;#1604;&amp;#1578;&amp;#1588;&amp;#1594;&amp;#1610;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1593;&amp;#1576;&amp;#1585; Wi-Fi&amp;#1548; &amp;#1610;&amp;#1606;&amp;#1576;&amp;#1594;&amp;#1610; &amp;#1573;&amp;#1583;&amp;#1582;&amp;#1575;&amp;#1604; &amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1608;&amp;#1604;&amp;#1575;&amp;#1610;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1605;&amp;#1578;&amp;#1581;&amp;#1583;&amp;#1577; &amp;#1581;&amp;#1610;&amp;#1579; &amp;#1578;&amp;#1585;&amp;#1610;&amp;#1583; &amp;#1573;&amp;#1585;&amp;#1587;&amp;#1575;&amp;#1604; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1591;&amp;#1608;&amp;#1575;&amp;#1585;&amp;#1574; &amp;#1593;&amp;#1606;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1585;&amp;#1602;&amp;#1605; 911. &amp;#1608;&amp;#1610;&amp;#1605;&amp;#1603;&amp;#1606;&amp;#1603; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1606;&amp;#1578;&amp;#1602;&amp;#1575;&amp;#1604; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1593;&amp;#1583;&amp;#1575;&amp;#1583;&amp;#1575;&amp;#1578; &amp;#1608;&amp;#1578;&amp;#1594;&amp;#1610;&amp;#1610;&amp;#1585; &amp;#1607;&amp;#1584;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606; &amp;#1601;&amp;#1610; &amp;#1571;&amp;#1610; &amp;#1608;&amp;#1602;&amp;#1578;. &amp;#1608;&amp;#1578;&amp;#1580;&amp;#1583;&amp;#1585; &amp;#1575;&amp;#1604;&amp;#1573;&amp;#1588;&amp;#1575;&amp;#1585;&amp;#1577; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1571;&amp;#1607;&amp;#1605;&amp;#1610;&amp;#1577; &amp;#1578;&amp;#1581;&amp;#1583;&amp;#1610;&amp;#1579; &amp;#1607;&amp;#1584;&amp;#1575; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606; &amp;#1605;&amp;#1578;&amp;#1609; &amp;#1594;&amp;#1610;&amp;#1614;&amp;#1617;&amp;#1585;&amp;#1578; &amp;#1605;&amp;#1608;&amp;#1602;&amp;#1593;&amp;#1603;."</string>
+  <string name="vzw_e911_title">معلومات موقع الطوارئ</string>
+  <string name="vzw_e911_warning">‏&lt;b&gt;&amp;#1578;&amp;#1581;&amp;#1584;&amp;#1610;&amp;#1585;&amp;#1575;&amp;#1578; - &amp;#1602;&amp;#1610;&amp;#1608;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1591;&amp;#1608;&amp;#1575;&amp;#1585;&amp;#1574; &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1585;&amp;#1602;&amp;#1605; 911&lt;/b&gt;"
+&amp;#1593;&amp;#1606;&amp;#1583; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1575;&amp;#1604;&amp;#1585;&amp;#1602;&amp;#1605; 911&amp;#1548; &amp;#1604;&amp;#1575; &amp;#1578;&amp;#1606;&amp;#1587; &amp;#1573;&amp;#1582;&amp;#1576;&amp;#1575;&amp;#1585; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1575;&amp;#1605;&amp;#1604; &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1610; &amp;#1587;&amp;#1610;&amp;#1585;&amp;#1583; &amp;#1593;&amp;#1604;&amp;#1610;&amp;#1603; &amp;#1576;&amp;#1605;&amp;#1603;&amp;#1575;&amp;#1606;&amp;#1603;. &amp;#1608;&amp;#1604;&amp;#1606; &amp;#1610;&amp;#1578;&amp;#1605; &amp;#1573;&amp;#1580;&amp;#1585;&amp;#1575;&amp;#1569; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1585;&amp;#1602;&amp;#1605; 911 &amp;#1593;&amp;#1576;&amp;#1585; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; Wi-Fi &amp;#1573;&amp;#1604;&amp;#1575; &amp;#1573;&amp;#1584;&amp;#1575; &amp;#1604;&amp;#1605; &amp;#1578;&amp;#1578;&amp;#1608;&amp;#1601;&amp;#1585; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1580;&amp;#1608;&amp;#1617;&amp;#1575;&amp;#1604;. &amp;#1608;&amp;#1602;&amp;#1583; &amp;#1610;&amp;#1581;&amp;#1583;&amp;#1579; &amp;#1578;&amp;#1571;&amp;#1582;&amp;#1585; &amp;#1601;&amp;#1610; &amp;#1575;&amp;#1604;&amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; &amp;#1576;&amp;#1585;&amp;#1602;&amp;#1605; 911 &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1610; &amp;#1610;&amp;#1578;&amp;#1605; &amp;#1573;&amp;#1580;&amp;#1585;&amp;#1575;&amp;#1572;&amp;#1607; &amp;#1593;&amp;#1576;&amp;#1585; &amp;#1588;&amp;#1576;&amp;#1603;&amp;#1577; Wi-Fi &amp;#1608;&amp;#1585;&amp;#1576;&amp;#1605;&amp;#1575; &amp;#1604;&amp;#1575; &amp;#1610;&amp;#1606;&amp;#1580;&amp;#1581;&amp;#1548; &amp;#1608;&amp;#1584;&amp;#1604;&amp;#1603; &amp;#1601;&amp;#1610; &amp;#1581;&amp;#1575;&amp;#1604;&amp;#1577; &amp;#1593;&amp;#1583;&amp;#1605; &amp;#1578;&amp;#1593;&amp;#1585;&amp;#1601; &amp;#1606;&amp;#1592;&amp;#1575;&amp;#1605; 911 &amp;#1593;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606;&amp;#1548; &amp;#1571;&amp;#1608; &amp;#1575;&amp;#1606;&amp;#1602;&amp;#1591;&amp;#1575;&amp;#1593; &amp;#1575;&amp;#1604;&amp;#1591;&amp;#1575;&amp;#1602;&amp;#1577; &amp;#1575;&amp;#1604;&amp;#1603;&amp;#1607;&amp;#1585;&amp;#1576;&amp;#1575;&amp;#1574;&amp;#1610;&amp;#1577;&amp;#1548; &amp;#1571;&amp;#1608; &amp;#1578;&amp;#1608;&amp;#1602;&amp;#1601; &amp;#1575;&amp;#1578;&amp;#1589;&amp;#1575;&amp;#1604; Wi-Fi &amp;#1593;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1605;&amp;#1604; &amp;#1605;&amp;#1579;&amp;#1604;&amp;#1575;&amp;#1611;. &amp;#1608;&amp;#1587;&amp;#1610;&amp;#1578;&amp;#1605; &amp;#1573;&amp;#1585;&amp;#1587;&amp;#1575;&amp;#1604; &amp;#1582;&amp;#1583;&amp;#1605;&amp;#1575;&amp;#1578; &amp;#1575;&amp;#1604;&amp;#1591;&amp;#1608;&amp;#1575;&amp;#1585;&amp;#1574; &amp;#1573;&amp;#1604;&amp;#1609; &amp;#1575;&amp;#1604;&amp;#1593;&amp;#1606;&amp;#1608;&amp;#1575;&amp;#1606; &amp;#1575;&amp;#1604;&amp;#1584;&amp;#1610; &amp;#1584;&amp;#1603;&amp;#1585;&amp;#1578;&amp;#1607; &amp;#1571;&amp;#1593;&amp;#1604;&amp;#1575;&amp;#1607;&amp;#1548; &amp;#1608;&amp;#1604;&amp;#1584;&amp;#1604;&amp;#1603; &amp;#1610;&amp;#1615;&amp;#1585;&amp;#1580;&amp;#1609; &amp;#1578;&amp;#1581;&amp;#1583;&amp;#1610;&amp;#1579;&amp;#1607; &amp;#1593;&amp;#1606;&amp;#1583; &amp;#1578;&amp;#1594;&amp;#1610;&amp;#1610;&amp;#1585; &amp;#1605;&amp;#1608;&amp;#1575;&amp;#1602;&amp;#1593;&amp;#1603;."</string>
+  <string name="vzw_later_button">لاحقًا</string>
+  <string name="vzw_network_error">الشبكة غير متاحة. الرجاء إعادة المحاولة لاحقًا.</string>
+  <string name="vzw_partial_confirm_head">تعذر التحقق من العنوان الذي تم إدخاله بواسطة مقدمي خدمة الطوارئ.</string>
+  <string name="vzw_partial_confirm_text">هل تريد بالتأكيد استخدام هذا العنوان في حالة حدوث طوارئ؟</string>
+  <string name="vzw_partial_failure_text">"قد يكون اسم المدينة أو الولاية أو الرمز البريدي الذي أدخلته غير صحيح.
+
+يُرجى التحقق من العنوان وإعادة المحاولة."</string>
+  <string name="vzw_partial_failure_text_part1">قد يكون اسم المدينة أو الولاية أو الرمز البريدي الذي أدخلته غير صحيح.</string>
+  <string name="vzw_partial_failure_text_part2">الرجاء التحقق من العنوان وإعادة المحاولة.</string>
+  <string name="vzw_service_upgrade_msg">لاستخدام نقطة اتصال الجوّال، يُرجى الاتصال بخدمة العملاء للاشتراك.</string>
+  <string name="vzw_setup_app_label">‏تنشيط حساب Verizon</string>
+  <string name="vzw_tos_link">البنود والشروط</string>
+  <string name="vzw_tos_text">"‏يتيح لك الاتصال عبر Wi-Fi إمكانية إجراء مكالمات باستخدام شبكة Wi-Fi عند عدم توفر شبكة الجوّال.
 
 لإعداد الاتصال عبر Wi-Fi، يلزمك إدخال عنوان في الولايات المتحدة. سيتم استخدام هذا العنوان من قِبل خدمات الطوارئ في موقعك إذا أجريت مكالمة طوارئ (E911) عبر شبكة Wi-Fi من هذا الهاتف داخل الولايات المتحدة.
 
 نوصي بتغيير هذا العنوان عند إجراء مكالمات باستخدام شبكة Wi-Fi أخرى حتى تكون معلومات موقعك دقيقة. يمكنك تغيير موقعك متى شئت من خلال الانتقال إلى قائمة إعدادات الاتصال عبر Wi-Fi."</string>
-    <string name="vzw_tos_link">البنود والشروط</string>
-    <string name="vzw_e911_title">معلومات موقع الطوارئ</string>
-    <string name="vzw_e911_description">‏<b>هام - عنوان الطوارئ 911 مطلوب</b>"
-لتشغيل الاتصال عبر Wi-Fi، ينبغي إدخال عنوان الولايات المتحدة حيث تريد إرسال خدمات الطوارئ عند الاتصال بالرقم 911. ويمكنك الانتقال إلى الإعدادات وتغيير هذا العنوان في أي وقت. وتجدر الإشارة إلى أهمية تحديث هذا العنوان متى غيَّرت موقعك."</string>
-    <string name="vzw_e911_warning">‏<b>تحذيرات - قيود الاتصال بالطوارئ على الرقم 911</b>"
-عند الاتصال بالرقم 911، لا تنس إخبار العامل الذي سيرد عليك بمكانك. ولن يتم إجراء الاتصال برقم 911 عبر شبكة Wi-Fi إلا إذا لم تتوفر شبكة الجوّال. وقد يحدث تأخر في الاتصال برقم 911 الذي يتم إجراؤه عبر شبكة Wi-Fi وربما لا ينجح، وذلك في حالة عدم تعرف نظام 911 على العنوان، أو انقطاع الطاقة الكهربائية، أو توقف اتصال Wi-Fi عن العمل مثلاً. وسيتم إرسال خدمات الطوارئ إلى العنوان الذي ذكرته أعلاه، ولذلك يُرجى تحديثه عند تغيير مواقعك."</string>
-    <string name="house_number">رقم العنوان</string>
-    <string name="street">الشارع</string>
-    <string name="apt_suite_number">الشقة، الجناح، وهكذا</string>
-    <string name="city">المدينة</string>
-    <string name="state">الولاية</string>
-    <string name="zip_code">الرمز البريدي</string>
-    <string name="save">حفظ</string>
-    <string name="vzw_address_confirm_text">"تعذر العثور على العنوان الذي أدخلته نظرًا لتعذر العثور على عنوان الشارع، وربما تم إدخال اسم مدينة أو ولاية أو رمز بريدي غير صحيح.
-
-إذا لم يكن اسم المدينة أو الولاية أو الرمز البريدي صحيحًا، فيمكنك النقر على %1$s، وإلا فانقر على %2$s."</string>
-    <string name="vzw_address_confirm_text_part1">تعذر العثور على العنوان الذي أدخلته نظرًا لتعذر العثور على عنوان الشارع، أو قد يكون اسم المدينة أو الولاية أو الرمز البريدي غير صحيح.</string>
-    <string name="vzw_address_confirm_text_part2">إذا لم يكن اسم المدينة أو الولاية أو الرمز البريدي صحيحًا، يمكنك النقر على %1$s، وإلا فانقر على %2$s.</string>
-    <string name="save_anyway">حفظ على أي حال</string>
-    <string name="edit_address">تعديل العنوان</string>
-    <string name="ok">موافق</string>
-    <string name="vzw_address_select_text">تعذر العثور على العنوان الذي أدخلته:</string>
-    <string name="vzw_address_alternate_text">هل تقصد:</string>
-    <string name="vzw_partial_confirm_head">تعذر التحقق من العنوان الذي تم إدخاله بواسطة مقدمي خدمة الطوارئ.</string>
-    <string name="vzw_partial_confirm_text">هل تريد بالتأكيد استخدام هذا العنوان في حالة حدوث طوارئ؟</string>
-    <string name="vzw_partial_failure_text">"قد يكون اسم المدينة أو الولاية أو الرمز البريدي الذي أدخلته غير صحيح.
-
-يُرجى التحقق من العنوان وإعادة المحاولة."</string>
-    <string name="vzw_partial_failure_text_part1">قد يكون اسم المدينة أو الولاية أو الرمز البريدي الذي أدخلته غير صحيح.</string>
-    <string name="vzw_partial_failure_text_part2">الرجاء التحقق من العنوان وإعادة المحاولة.</string>
+  <string name="vzw_tos_title">‏تنشيط الاتصال عبر Wi-Fi</string>
+  <string name="vzw_verify_button">إثبات الملكية</string>
+  <string name="vzw_verify_progress_title">جارٍ إثبات ملكية حسابك...</string>
+  <string name="vzw_verify_pwd">للبدء، أدخل كلمة مرور الفوترة في حسابك:</string>
+  <string name="vzw_verify_ssn">للبدء، أدخل آخر 4 أرقام في رقم التأمين الاجتماعي لمالك حسابك:</string>
+  <string name="vzw_verify_switch_pwd">استخدام كلمة مرور الفوترة بدلاً من ذلك</string>
+  <string name="vzw_verify_switch_ssn">استخدام رقم التأمين الاجتماعي بدلاً من ذلك</string>
+  <string name="vzw_verify_title">إثبات ملكية حسابك</string>
+  <string name="vzw_wfc_activation_error">‏تعذر تنشيط الاتصال عبر Wi-Fi، والرجاء إعادة المحاولة لاحقًا.</string>
+  <string name="zip_code">الرمز البريدي</string>
 </resources>

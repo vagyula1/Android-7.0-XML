@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">‏تطبيق Entitlement</string>
-    <string name="feature_check_msg">‏فحص حالة الاشتراك. الرجاء الانتظار...</string>
-    <string name="vzw_self_provisioning_msg">"‏لاستخدام Mobile Hotspot، تحتاج إلى الاشتراك في خدمة Mobile Hotspot.
-تعرف على المزيد أو اشترك في Mobile Hotspot عن طريق زيارة My Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">‏إلغاء</string>
-    <string name="vzw_self_provisioning_learn_more">‏تعلم المزيد</string>
-    <string name="vzw_error_msg_title">‏يتعذر معالجة طلبك</string>
-    <string name="vzw_error_msg">"‏إذا كنت تريد الاشتراك في Mobile Hotspot/Mobile Broadband Connect، اتصل بـ:
- العملاء: (800) 256-4646،
- الشركات: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">"‏ترقية الخدمة مطلوبة "</string>
-    <string name="tmo_error_msg">‏لا تشتمل باقة الأسعار الحالية التي تشترك فيها على خدمة Mobile Hotspot في الهواتف الذكية والتي تمكنك من مشاركة اتصال البيانات في هاتفك مع الأجهزة الأخرى. هل تريد إضافة خدمة Mobile Hotspot في الهواتف الذكية إلى باقة الأسعار الخاصة بك؟ يمكنك أيضًا إضافتها عبر الموقع الإلكتروني https://my.t-mobile.com من قسم الإدارة > الباقات والخدمات. &lt;</string>
-    <string name="retv_terms_conditions_msg">‏فحص حالة الاشتراك. الرجاء الانتظار...</string>
-    <string name="change_data_request_msg">‏إرسال طلب تزويد. الرجاء الانتظار...</string>
-    <string name="alert_dialog_failure_title">‏يتعذر معالجة طلبك</string>
-    <string name="alert_dialog_failure_msg">‏يرجى إعادة المحاولة لاحقاً.</string>
-    <string name="network_connection_title">‏خطأ في الاتصال بالشبكة</string>
-    <string name="network_connection_error_msg">‏لا يستطيع هاتفك الاتصال في الوقت الحالي بخادم %s. الرجاء المحاولة مجددًا في وقت لاحق.</string>
-    <string name="mobile_hotspot">"‏نقطة فعالة "</string>
-    <string name="alert_dialog_positive_button">‏موافق</string>
-    <string name="alert_dialog_upgrade_button">‏تحديث</string>
-    <string name="alert_dialog_later_button">‏لاحقاً</string>
-    <string name="current_subscription">‏(الاشتراك الحالي)</string>
-    <string name="unavailable_subscription">‏(غير متاح استنادًا إلى مستوى التخزين)</string>
-    <string name="request_pending_title">‏تزويد معلق</string>
-    <string name="request_pending_error_msg">‏يقوم خادم Verizon بمعالجة طلبك. الرجاء المحاولة لاحقًا في خلال 5 دقائق.</string>
-    <string name="browser_error_msg">‏تعذر فتح المتصفح.</string>
-    <string name="att_error_msg">‏للتمكين، انتقل إلى att.com/mywireless أو اتصل بالرقم 611</string>
-    <string name="att_error_msg_title">‏لم يتم تعيين حساب الربط</string>
-    <string name="att_error_msg_other">‏هناك مشكلة مؤقتة في الشبكة تحول دون تمكين وظيفة نقطة اتصال الهاتف. يرجى إعادة المحاولة فيما بعد</string>
-    <string name="att_error_msg_other_title">‏خطأ شبكة</string>
-    <string name="sprint_error_msg">"‏غير قادر على الاتصال بشبكة البيانات; ربما لا تكون مشتركًا في خدمة الربط أو نقطة الاتصال الفعالة;  يُرجى الاتصال بشركة هاتفك."</string>
-    <string name="sprint_error_msg_title">‏خطأ في الربط أو نقطة الاتصال الفعالة</string>
-    <string name="sprint_notification_msg">‏المس للإطلاع على مزيدٍ من التفاصيل</string>
-    <string name="term_and_conditions_title">‏البنود والشروط</string>
-    <string name="sbm_content_activity_title">‏شروط الاتفاق</string>
-    <string name="consent_title">‏شروط الاتفاق</string>
-    <string name="consent_message">"‏تحتاج إلى الموافقة وإرسال المعلومات التالية حتى تتمكن من استخدام هذا التطبيق. الرجاء المتابعة بعد ذلك في محتويات الفحص.
+  <string name="alert_dialog_failure_msg">‏يرجى إعادة المحاولة لاحقاً.</string>
+  <string name="alert_dialog_failure_title">‏يتعذر معالجة طلبك</string>
+  <string name="alert_dialog_later_button">‏لاحقاً</string>
+  <string name="alert_dialog_positive_button">‏موافق</string>
+  <string name="alert_dialog_upgrade_button">‏تحديث</string>
+  <string name="app_name">‏تطبيق Entitlement</string>
+  <string name="att_error_msg">‏للتمكين، انتقل إلى att.com/mywireless أو اتصل بالرقم 611</string>
+  <string name="att_error_msg_other">‏هناك مشكلة مؤقتة في الشبكة تحول دون تمكين وظيفة نقطة اتصال الهاتف. يرجى إعادة المحاولة فيما بعد</string>
+  <string name="att_error_msg_other_title">‏خطأ شبكة</string>
+  <string name="att_error_msg_title">‏لم يتم تعيين حساب الربط</string>
+  <string name="browser_error_msg">‏تعذر فتح المتصفح.</string>
+  <string name="change_data_request_msg">‏إرسال طلب تزويد. الرجاء الانتظار...</string>
+  <string name="concent_agree_btn">‏أوافق</string>
+  <string name="concent_disagree_btn">‏غير موافق</string>
+  <string name="consent_message">"‏تحتاج إلى الموافقة وإرسال المعلومات التالية حتى تتمكن من استخدام هذا التطبيق. الرجاء المتابعة بعد ذلك في محتويات الفحص.
 
 [إرسال المعلومات]
 معرف خاص بالمتعهد
 [استخدام التطبيقات]
 أمر استخدام تطبيق الربط"</string>
-    <string name="consent_terms_btn">‏أحكام وشروط الخدمة</string>
-    <string name="concent_disagree_btn">‏غير موافق</string>
-    <string name="concent_agree_btn">‏أوافق</string>
-    <string name="sbm_error_msg_title">‏خطأ في الربط أو نقطة الاتصال الفعالة</string>
-    <string name="sbm_error_msg">‏غير قادر على الاتصال بشبكة البيانات.</string>
-    <string name="sbm_error_msg_not_subscribed">‏فشل التحقق من صحة اشتراكك في خيار الربط.</string>
-    <string name="sbm_error_msg_not_authenticated">"‏فشل المصادقة.
+  <string name="consent_terms_btn">‏أحكام وشروط الخدمة</string>
+  <string name="consent_title">‏شروط الاتفاق</string>
+  <string name="current_subscription">‏(الاشتراك الحالي)</string>
+  <string name="feature_check_msg">‏فحص حالة الاشتراك. الرجاء الانتظار...</string>
+  <string name="mobile_hotspot">"‏نقطة فعالة "</string>
+  <string name="network_connection_error_msg">‏لا يستطيع هاتفك الاتصال في الوقت الحالي بخادم %s. الرجاء المحاولة مجددًا في وقت لاحق.</string>
+  <string name="network_connection_title">‏خطأ في الاتصال بالشبكة</string>
+  <string name="request_pending_error_msg">‏يقوم خادم Verizon بمعالجة طلبك. الرجاء المحاولة لاحقًا في خلال 5 دقائق.</string>
+  <string name="request_pending_title">‏تزويد معلق</string>
+  <string name="retv_terms_conditions_msg">‏فحص حالة الاشتراك. الرجاء الانتظار...</string>
+  <string name="sbm_content_activity_title">‏شروط الاتفاق</string>
+  <string name="sbm_error_msg">‏غير قادر على الاتصال بشبكة البيانات.</string>
+  <string name="sbm_error_msg_no_response">‏فشل المصادقة. الرجاء المحاولة مجددًا في مكان يتم استقبال الإشارة فيه بشكل جيدة.</string>
+  <string name="sbm_error_msg_not_authenticated">"‏فشل المصادقة.
 (رمز خاطىء %1$s)"</string>
-    <string name="sbm_error_msg_no_response">‏فشل المصادقة. الرجاء المحاولة مجددًا في مكان يتم استقبال الإشارة فيه بشكل جيدة.</string>
+  <string name="sbm_error_msg_not_subscribed">‏فشل التحقق من صحة اشتراكك في خيار الربط.</string>
+  <string name="sbm_error_msg_title">‏خطأ في الربط أو نقطة الاتصال الفعالة</string>
+  <string name="sprint_error_msg">"‏غير قادر على الاتصال بشبكة البيانات; ربما لا تكون مشتركًا في خدمة الربط أو نقطة الاتصال الفعالة;  يُرجى الاتصال بشركة هاتفك."</string>
+  <string name="sprint_error_msg_title">‏خطأ في الربط أو نقطة الاتصال الفعالة</string>
+  <string name="sprint_notification_msg">‏المس للإطلاع على مزيدٍ من التفاصيل</string>
+  <string name="term_and_conditions_title">‏البنود والشروط</string>
+  <string name="tmo_error_msg">‏لا تشتمل باقة الأسعار الحالية التي تشترك فيها على خدمة Mobile Hotspot في الهواتف الذكية والتي تمكنك من مشاركة اتصال البيانات في هاتفك مع الأجهزة الأخرى. هل تريد إضافة خدمة Mobile Hotspot في الهواتف الذكية إلى باقة الأسعار الخاصة بك؟ يمكنك أيضًا إضافتها عبر الموقع الإلكتروني https://my.t-mobile.com من قسم الإدارة &gt; الباقات والخدمات. &lt;</string>
+  <string name="tmo_error_msg_title">"‏ترقية الخدمة مطلوبة "</string>
+  <string name="unavailable_subscription">‏(غير متاح استنادًا إلى مستوى التخزين)</string>
+  <string name="vzw_error_msg">"‏إذا كنت تريد الاشتراك في Mobile Hotspot/Mobile Broadband Connect، اتصل بـ:
+ العملاء: (800) 256-4646،
+ الشركات: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">‏يتعذر معالجة طلبك</string>
+  <string name="vzw_self_provisioning_cancel">‏إلغاء</string>
+  <string name="vzw_self_provisioning_learn_more">‏تعلم المزيد</string>
+  <string name="vzw_self_provisioning_msg">"‏لاستخدام Mobile Hotspot، تحتاج إلى الاشتراك في خدمة Mobile Hotspot.
+تعرف على المزيد أو اشترك في Mobile Hotspot عن طريق زيارة My Verizon."</string>
 </resources>

@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Софтвер на Google „Текст-во-говор“</string>
-    <string name="general_settings">Општи подесувања</string>
-    <string name="license_activity_title">Лиценци со отворен код</string>
-    <string name="license_activity_loading">Се вчитува...</string>
-    <string name="license_activity_unavailable">Постои проблем при вчитување на лиценците.</string>
-    <string name="tts_settings_label">Опции за текст-во-говор на Google</string>
-    <string name="voice_data_install_title">Гласовни податоци за текст-во-говор на Google</string>
-    <string name="install_data_header">Преземете ги овие податоци за поддршка на офлајн синтеза во говор на вашиот уред.</string>
-    <string name="download_invite_title">Инсталирај глас за изговор на %1$s</string>
-    <string name="download_invite">Овозможи офлајн текст-во-говор за %1$s</string>
-    <string name="install_voice_text_2">Достапна за преземање.</string>
-    <string name="download_in_progress">Преземањето е во тек</string>
-    <string name="no_installable_voices">Нема гласови што може да се преземат</string>
-    <string name="cancel">Откажи</string>
-    <string name="delete_voice_data">Избриши</string>
-    <string name="update">Ажурирај</string>
-    <string name="download">Преземи</string>
-    <string name="voice_installed">Инсталирани.</string>
-    <string name="voice_installed_and_default">Инсталирани и поставени како стандардни вредности.</string>
-    <string name="download_notification_title">%2$s за %1$s</string>
-    <string name="download_notification_description">Гласовни податоци за текст-во-говор</string>
-    <string name="download_success_title">Преземени гласовни податоци за %1$s</string>
-    <string name="download_success_description">Допрете да ги посетите подесувањата и да го направите овој глас стандардна вредност.</string>
-    <string name="download_failure_title">Грешка при преземање гласовни податоци за %1$s</string>
-    <string name="download_failure_description">Допрете да се обидете повторно.</string>
-    <string name="download_failed_toast">Не успеа да започне преземањето на пакетот гласови.</string>
-    <string name="manage_voice_data">Управување со гласовни податоци</string>
-    <string name="auto_update_title">Автоматско ажурирање гласови</string>
-    <string name="auto_update_wifi_title">Користи само Wi-Fi</string>
-    <string name="auto_update_wifi_summary">Преземи гласовни податоци само со Wi-Fi. Така се штеди користење податоци.</string>
-    <string name="feedback_title">Повратни информации</string>
-    <string name="feedback_failed">Не може да се отвори формуларот за повратни информации</string>
-    <string name="voices_type_title">Типови на гласови</string>
-    <string name="voices_type_summary">[DOGFOOD] Вид синтетизатор на говор</string>
-    <string name="analytics_title">Анонимни извештаи за користењето</string>
-    <string name="analytics_summary_on">Вклучено</string>
-    <string name="analytics_summary_off">Исклучено</string>
-    <string name="analytics_screen_explanation">"Кога е вклучена функцијава, собираме анонимни извештаи за користењето. Ова ни помага подобро да ја разбереме изведбата на функцијата текст во говор на Google на вашиот уред.
+  <string name="action_licenses">Лиценци со отворен код</string>
+  <string name="action_settings">Опции</string>
+  <string name="action_voice_pack_uninstall">Деинсталирај</string>
+  <string name="action_voice_pack_update">Ажурирај</string>
+  <string name="analytics_screen_explanation">"Кога е вклучена функцијава, собираме анонимни извештаи за користењето. Ова ни помага подобро да ја разбереме изведбата на функцијата текст во говор на Google на вашиот уред.
 
 Примери на збирни метрички податоци што ги собираме:
-"<li><ul>"Колку често се користи текст во говор.
-"<li>Изведбата на барањата на текст во говор.</li>"
-"<li>Кои јазици се користат.</li>"
-"<li>Колку често текст во говор не успева да даде излезен резултат за говор.</li>"
-"</ul></li></string>
-    <string name="process_text_title">Додајте запис од GoogleTTS на менито</string>
-    <string name="process_text_summary">Новиот запис ќе го синтетизира секој избран текст.</string>
-    <string name="voice_pack_status_installed">Инсталирано (%1$s)</string>
-    <string name="voice_pack_status_gender_female">Женски</string>
-    <string name="voice_pack_status_gender_male">Машки</string>
-    <string name="voice_entity_status_gender_female">Женски %1$d</string>
-    <string name="voice_entity_status_gender_male">Машки %1$d</string>
-    <string name="voice_entity_status_gender_unknown">Непознат пол %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">Женски наследен глас</string>
-    <string name="voice_pack_status_gender_male_legacy">Машки наследен глас</string>
-    <string name="voice_pack_status_gender_unknown">Непознат пол</string>
-    <string name="voice_pack_status_updatable">Достапно е ажурирање</string>
-    <string name="voice_pack_status_downloadable">Преземи (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">Тековен глас</string>
-    <string name="voice_pack_status_downloading">Преземање...</string>
-    <string name="voice_pack_name_high_quality">%1$s (висок квалитет)</string>
-    <string name="voice_pack_description">"Име: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#1050;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1091; &amp;#1095;&amp;#1077;&amp;#1089;&amp;#1090;&amp;#1086; &amp;#1089;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1080; &amp;#1090;&amp;#1077;&amp;#1082;&amp;#1089;&amp;#1090; &amp;#1074;&amp;#1086; &amp;#1075;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1088;.
+"&lt;li&gt;&amp;#1048;&amp;#1079;&amp;#1074;&amp;#1077;&amp;#1076;&amp;#1073;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1085;&amp;#1072; &amp;#1073;&amp;#1072;&amp;#1088;&amp;#1072;&amp;#1114;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1085;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1082;&amp;#1089;&amp;#1090; &amp;#1074;&amp;#1086; &amp;#1075;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1088;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1050;&amp;#1086;&amp;#1080; &amp;#1112;&amp;#1072;&amp;#1079;&amp;#1080;&amp;#1094;&amp;#1080; &amp;#1089;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1090;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1050;&amp;#1086;&amp;#1083;&amp;#1082;&amp;#1091; &amp;#1095;&amp;#1077;&amp;#1089;&amp;#1090;&amp;#1086; &amp;#1090;&amp;#1077;&amp;#1082;&amp;#1089;&amp;#1090; &amp;#1074;&amp;#1086; &amp;#1075;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1088; &amp;#1085;&amp;#1077; &amp;#1091;&amp;#1089;&amp;#1087;&amp;#1077;&amp;#1074;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1076;&amp;#1072;&amp;#1076;&amp;#1077; &amp;#1080;&amp;#1079;&amp;#1083;&amp;#1077;&amp;#1079;&amp;#1077;&amp;#1085; &amp;#1088;&amp;#1077;&amp;#1079;&amp;#1091;&amp;#1083;&amp;#1090;&amp;#1072;&amp;#1090; &amp;#1079;&amp;#1072; &amp;#1075;&amp;#1086;&amp;#1074;&amp;#1086;&amp;#1088;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">Исклучено</string>
+  <string name="analytics_summary_on">Вклучено</string>
+  <string name="analytics_title">Анонимни извештаи за користењето</string>
+  <string name="app_name">Софтвер на Google „Текст-во-говор“</string>
+  <string name="auto_update_title">Автоматско ажурирање гласови</string>
+  <string name="auto_update_wifi_summary">Преземи гласовни податоци само со Wi-Fi. Така се штеди користење податоци.</string>
+  <string name="auto_update_wifi_title">Користи само Wi-Fi</string>
+  <string name="cancel">Откажи</string>
+  <string name="delete_voice_data">Избриши</string>
+  <string name="download">Преземи</string>
+  <string name="download_failed_toast">Не успеа да започне преземањето на пакетот гласови.</string>
+  <string name="download_failure_description">Допрете да се обидете повторно.</string>
+  <string name="download_failure_title">Грешка при преземање гласовни податоци за %1$s</string>
+  <string name="download_in_progress">Преземањето е во тек</string>
+  <string name="download_invite">Овозможи офлајн текст-во-говор за %1$s</string>
+  <string name="download_invite_title">Инсталирај глас за изговор на %1$s</string>
+  <string name="download_notification_description">Гласовни податоци за текст-во-говор</string>
+  <string name="download_notification_title">%2$s за %1$s</string>
+  <string name="download_success_description">Допрете да ги посетите подесувањата и да го направите овој глас стандардна вредност.</string>
+  <string name="download_success_title">Преземени гласовни податоци за %1$s</string>
+  <string name="feedback_failed">Не може да се отвори формуларот за повратни информации</string>
+  <string name="feedback_title">Повратни информации</string>
+  <string name="general_settings">Општи подесувања</string>
+  <string name="install_data_header">Преземете ги овие податоци за поддршка на офлајн синтеза во говор на вашиот уред.</string>
+  <string name="install_voice_text_2">Достапна за преземање.</string>
+  <string name="license_activity_loading">Се вчитува...</string>
+  <string name="license_activity_title">Лиценци со отворен код</string>
+  <string name="license_activity_unavailable">Постои проблем при вчитување на лиценците.</string>
+  <string name="manage_voice_data">Управување со гласовни податоци</string>
+  <string name="morphed_voice_set_title">Група гласови</string>
+  <string name="multi_voice_pack_entry_name">Група гласови %1$d</string>
+  <string name="multi_voice_pack_title">Гласови на %1$s</string>
+  <string name="no_installable_voices">Нема гласови што може да се преземат</string>
+  <string name="play_sample_text_button_description">Репродуцирај примерок на текст %1$s</string>
+  <string name="process_text_summary">Новиот запис ќе го синтетизира секој избран текст.</string>
+  <string name="process_text_title">Додајте запис од GoogleTTS на менито</string>
+  <string name="quick_error">Грешка</string>
+  <string name="quick_speaking">Се изговара</string>
+  <string name="quick_stopped">Запрено</string>
+  <string name="quick_synthesizing">Се синтетизира</string>
+  <string name="quick_wait_for_init">Се вчитува</string>
+  <string name="sample_text_synthesis_failure">Не успеа да се синтетизира пример за овој глас.</string>
+  <string name="select_voice_title">Изберете глас</string>
+  <string name="tts_settings_label">Опции за текст-во-говор на Google</string>
+  <string name="unpack_voice_pack_service_text">Се отпакува…</string>
+  <string name="unpack_voice_pack_service_title">Се ажурираат податоците за текст-во-говор</string>
+  <string name="update">Ажурирај</string>
+  <string name="voice_data_install_title">Гласовни податоци за текст-во-говор на Google</string>
+  <string name="voice_entity_status_gender_female">Женски %1$d</string>
+  <string name="voice_entity_status_gender_male">Машки %1$d</string>
+  <string name="voice_entity_status_gender_unknown">Непознат пол %1$d</string>
+  <string name="voice_entry_cancel_download_desc">Откажи преземање пакет гласови</string>
+  <string name="voice_entry_delete_desc">Избриши пакет гласови</string>
+  <string name="voice_entry_details">Стартувај дијалог-прозорец со детали за глас</string>
+  <string name="voice_entry_download_desc">Преземи пакет гласови</string>
+  <string name="voice_entry_edit_desc">Отворете пакет гласови</string>
+  <string name="voice_entry_overflow_desc">Дополнителни дејства на пакет гласови</string>
+  <string name="voice_entry_sample">Пушти примерок на глас</string>
+  <string name="voice_installed">Инсталирани.</string>
+  <string name="voice_installed_and_default">Инсталирани и поставени како стандардни вредности.</string>
+  <string name="voice_pack_action_cancel">Откажи преземање</string>
+  <string name="voice_pack_action_download">Превземи (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">Направи го тековен глас за %1$s</string>
+  <string name="voice_pack_action_remove">Отстрани</string>
+  <string name="voice_pack_action_update">Ажурирај (~%1$s)</string>
+  <string name="voice_pack_description">"Име: %1$s 
 Јазик: %2$s 
 Големина на податоци: ~%3$s 
 Пол на говорник: %4$s"</string>
-    <string name="voice_pack_action_download">Превземи (~%1$s)</string>
-    <string name="voice_pack_action_remove">Отстрани</string>
-    <string name="voice_pack_action_update">Ажурирај (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">Направи го тековен глас за %1$s</string>
-    <string name="voice_pack_action_cancel">Откажи преземање</string>
-    <string name="voice_pack_install_tab_installed">ИНСТАЛИРАНИ</string>
-    <string name="voice_pack_install_tab_all">СИТЕ</string>
-    <string name="voice_pack_install_tab_settings">ПОСТАВУВАЊА</string>
-    <string name="voice_entry_details">Стартувај дијалог-прозорец со детали за глас</string>
-    <string name="voice_entry_edit_desc">Отворете пакет гласови</string>
-    <string name="voice_entry_overflow_desc">Дополнителни дејства на пакет гласови</string>
-    <string name="voice_entry_download_desc">Преземи пакет гласови</string>
-    <string name="voice_entry_cancel_download_desc">Откажи преземање пакет гласови</string>
-    <string name="voice_entry_delete_desc">Избриши пакет гласови</string>
-    <string name="voice_entry_sample">Пушти примерок на глас</string>
-    <string name="voice_pack_not_enough_space">Нема доволно слободен простор на внатрешната меморија. Треба да се ослободи простор за да се инсталира овој глас.</string>
-    <string name="action_settings">Опции</string>
-    <string name="action_licenses">Лиценци со отворен код</string>
-    <string name="action_voice_pack_update">Ажурирај</string>
-    <string name="action_voice_pack_uninstall">Деинсталирај</string>
-    <string name="voice_pack_uninstall_dialog">Деинсталирај го овој глас?</string>
-    <string name="voice_pack_uninstall_keep">Продолжи</string>
-    <string name="voice_pack_uninstall_uninstall">Деинсталирај</string>
-    <string name="voice_pack_unpack_failure">Преземаниот глас не се инсталираше</string>
-    <string name="multi_voice_pack_title">Гласови на %1$s</string>
-    <string name="multi_voice_pack_entry_name">Група гласови %1$d</string>
-    <string name="morphed_voice_set_title">Група гласови</string>
-    <string name="select_voice_title">Изберете глас</string>
-    <string name="play_sample_text_button_description">Репродуцирај примерок на текст %1$s</string>
-    <string name="voice_pack_no_download_manager">Управникот за преземање е исклучен или загубен; гласовниот пакет не може да се преземе</string>
-    <string name="unpack_voice_pack_service_title">Се ажурираат податоците за текст-во-говор</string>
-    <string name="unpack_voice_pack_service_text">Се отпакува…</string>
-    <string name="sample_text_synthesis_failure">Не успеа да се синтетизира пример за овој глас.</string>
-    <string name="quick_wait_for_init">Се вчитува</string>
-    <string name="quick_synthesizing">Се синтетизира</string>
-    <string name="quick_speaking">Се изговара</string>
-    <string name="quick_stopped">Запрено</string>
-    <string name="quick_error">Грешка</string>
+  <string name="voice_pack_install_tab_all">СИТЕ</string>
+  <string name="voice_pack_install_tab_installed">ИНСТАЛИРАНИ</string>
+  <string name="voice_pack_install_tab_settings">ПОСТАВУВАЊА</string>
+  <string name="voice_pack_name_high_quality">%1$s (висок квалитет)</string>
+  <string name="voice_pack_no_download_manager">Управникот за преземање е исклучен или загубен; гласовниот пакет не може да се преземе</string>
+  <string name="voice_pack_not_enough_space">Нема доволно слободен простор на внатрешната меморија. Треба да се ослободи простор за да се инсталира овој глас.</string>
+  <string name="voice_pack_status_downloadable">Преземи (~%1$s)</string>
+  <string name="voice_pack_status_downloading">Преземање...</string>
+  <string name="voice_pack_status_gender_female">Женски</string>
+  <string name="voice_pack_status_gender_female_legacy">Женски наследен глас</string>
+  <string name="voice_pack_status_gender_male">Машки</string>
+  <string name="voice_pack_status_gender_male_legacy">Машки наследен глас</string>
+  <string name="voice_pack_status_gender_unknown">Непознат пол</string>
+  <string name="voice_pack_status_installed">Инсталирано (%1$s)</string>
+  <string name="voice_pack_status_locale_default">Тековен глас</string>
+  <string name="voice_pack_status_updatable">Достапно е ажурирање</string>
+  <string name="voice_pack_uninstall_dialog">Деинсталирај го овој глас?</string>
+  <string name="voice_pack_uninstall_keep">Продолжи</string>
+  <string name="voice_pack_uninstall_uninstall">Деинсталирај</string>
+  <string name="voice_pack_unpack_failure">Преземаниот глас не се инсталираше</string>
+  <string name="voices_type_summary">[DOGFOOD] Вид синтетизатор на говор</string>
+  <string name="voices_type_title">Типови на гласови</string>
 </resources>

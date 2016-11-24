@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">Даље</string>
-    <string name="suw_back_button_label">Назад</string>
-    <string name="suw_more_button_label">Још</string>
-    <string name="entitlement_check_progress">Проверавамо статус претплате. Сачекајте.</string>
-    <string name="att_service_upgrade_msg">Да бисте омогућили функцију, идите на att.com/mywireless или позовите 611</string>
-    <string name="att_network_error">Мрежа није доступна. Пробајте поново касније.</string>
-    <string name="sprint_entitlement_error">Услуга није подржана. Контактирајте добављача услуге.</string>
-    <string name="sprint_network_error">Мрежа није доступна. Пробајте поново касније.</string>
-    <string name="vzw_service_upgrade_msg">Да бисте користили мобилни хотспот, позовите корисничку подршку да бисте се претплатили.</string>
-    <string name="vzw_network_error">Мрежа није доступна. Пробајте поново касније.</string>
-    <string name="vzw_wfc_activation_error">Нисмо успели да активирамо Позивање преко Wi-Fi-ја. Пробајте поново касније.</string>
-    <string name="vzw_address_update_error">Нисмо успели да ажурирамо актуелну адресу за хитне случајеве. Пробајте поново касније.</string>
-    <string name="generic_error">Потврда аутентичности није успела. Пробајте поново касније.</string>
-    <string name="vzw_setup_app_label">Активација Verizon налога</string>
-    <string name="vzw_activate_title">Активација телефона</string>
-    <string name="vzw_activate_progress">Сачекајте док припремимо телефон.</string>
-    <string name="vzw_activate_exiting">Напуштате активацију.</string>
-    <string name="vzw_verify_title">Верификујте налог</string>
-    <string name="vzw_verify_ssn">Да бисте започели, унесите последње 4 цифре матичног броја власника налога:</string>
-    <string name="vzw_verify_pwd">Да бисте започели, унесите лозинку за обрачун за налог:</string>
-    <string name="vzw_verify_button">Верификуј</string>
-    <string name="vzw_later_button">Касније</string>
-    <string name="vzw_verify_switch_ssn">Користи број социјалног осигурања</string>
-    <string name="vzw_verify_switch_pwd">Користи лозинку за обрачун</string>
-    <string name="vzw_verify_progress_title">Налог се верификује…</string>
-    <string name="vzw_activate_ready_title">Јесте ли спремни за активацију?</string>
-    <string name="vzw_activate_ready_new">Ово може да потраје неколико минута</string>
-    <string name="vzw_activate_ready_upgrade">"Пре него што активирате овај телефон, направите резервну копију контаката и искључите стари телефон.
+  <string name="apt_suite_number">Стан, апартман итд.</string>
+  <string name="att_network_error">Мрежа није доступна. Пробајте поново касније.</string>
+  <string name="att_service_upgrade_msg">Да бисте омогућили функцију, идите на att.com/mywireless или позовите 611</string>
+  <string name="cancel">Откажи</string>
+  <string name="city">Град</string>
+  <string name="edit_address">Измени адресу</string>
+  <string name="emergency_address_app_label">Управљање адресом за хитне случајеве</string>
+  <string name="entitlement_check_progress">Проверавамо статус претплате. Сачекајте.</string>
+  <string name="generic_error">Потврда аутентичности није успела. Пробајте поново касније.</string>
+  <string name="house_number">Број у адреси</string>
+  <string name="ok">Потврди</string>
+  <string name="progress_text">Сачекајте…</string>
+  <string name="save">Сачувај</string>
+  <string name="save_anyway">Ипак сачувај</string>
+  <string name="sprint_entitlement_error">Услуга није подржана. Контактирајте добављача услуге.</string>
+  <string name="sprint_network_error">Мрежа није доступна. Пробајте поново касније.</string>
+  <string name="state">Држава</string>
+  <string name="street">Улица</string>
+  <string name="suw_back_button_label">Назад</string>
+  <string name="suw_more_button_label">Још</string>
+  <string name="suw_next_button_label">Даље</string>
+  <string name="vzw_activate_button">Активирај</string>
+  <string name="vzw_activate_continue">Настави</string>
+  <string name="vzw_activate_error_lookup">Жао нам је, имамо проблема са активирањем телефона. Контактирајте корисничку подршку на (800) 922 0204.</string>
+  <string name="vzw_activate_error_lost_stolen">Жао нам је, имамо проблема са активирањем телефона. Позовите (877) 807-4646 са неког другог телефона да бисте активирали 4G LTE услугу и покушајте поново.</string>
+  <string name="vzw_activate_error_network">Проверите да ли имате добар сигнал (више црта) и покушајте поново. Ако се овај проблем и даље буде јављао, контактирајте корисничку подршку на (800) 922-0204 и затражите помоћ.</string>
+  <string name="vzw_activate_error_not_retryable">Жао нам је, имамо проблема са активирањем телефона. Контактирајте корисничку подршку на (800) 922 0204.</string>
+  <string name="vzw_activate_error_pwd">Лозинка за обрачун се не подудара. Пробајте поново.</string>
+  <string name="vzw_activate_error_release">Да бисте активирали телефон, позовите (800) 922 0204 са другог телефона.</string>
+  <string name="vzw_activate_error_restricted">Да бисте активирали телефон, пратите упутства која сте добили уз нови телефон или контактирајте Verizon Wireless администратора у организацији.</string>
+  <string name="vzw_activate_error_restricted_title">Како да активирате телефон</string>
+  <string name="vzw_activate_error_ssn">Број социјалног осигурања се не подудара. Пробајте поново.</string>
+  <string name="vzw_activate_error_title">Активација није успела</string>
+  <string name="vzw_activate_exiting">Напуштате активацију.</string>
+  <string name="vzw_activate_notification">Додирните за активацију телефона</string>
+  <string name="vzw_activate_notification_title">Спремни сте за активацију</string>
+  <string name="vzw_activate_progress">Сачекајте док припремимо телефон.</string>
+  <string name="vzw_activate_ready_new">Ово може да потраје неколико минута</string>
+  <string name="vzw_activate_ready_title">Јесте ли спремни за активацију?</string>
+  <string name="vzw_activate_ready_upgrade">"Пре него што активирате овај телефон, направите резервну копију контаката и искључите стари телефон.
 
 Када покренете активацију, пребацићемо ваш број на овај телефон и деактивираћемо стари телефон."</string>
-    <string name="vzw_activate_button">Активирај</string>
-    <string name="vzw_activating_new_title">Број телефона се преузима…</string>
-    <string name="vzw_activating_upgrade_title">Број телефона се преноси…</string>
-    <string name="vzw_activating_upgrade">Да бисте пренели број у нов телефон, стари телефон треба да буде искључен.</string>
-    <string name="vzw_activate_success_title">Телефон је активиран</string>
-    <string name="vzw_activate_success">Verizon телефон је сада активан. Број телефона је %1$s</string>
-    <string name="vzw_data_limit_title">Потрошња података је ограничена</string>
-    <string name="vzw_data_limit">Потрошња података је тренутно ограничена због доба дана или ограничења потрошње података. Треба да користите Wi-Fi да бисте наставили да подешавате уређај.</string>
-    <string name="vzw_data_restricted_title">Потрошња података је ограничена</string>
-    <string name="vzw_data_restricted">Због доба дана или ограничења потрошње података</string>
-    <string name="vzw_data_redirected_title">Набавите услугу Verizon</string>
-    <string name="vzw_data_redirected">Немате тарифни пакет за Verizon Wireless или сте искористили све податке из пакета. Контактирајте Verizon</string>
-    <string name="vzw_activate_notification_title">Спремни сте за активацију</string>
-    <string name="vzw_activate_notification">Додирните за активацију телефона</string>
-    <string name="vzw_cold_notification">Контактирајте Verizon да бисте активирали телефон.</string>
-    <string name="vzw_activate_error_title">Активација није успела</string>
-    <string name="vzw_activate_error_network">Проверите да ли имате добар сигнал (више црта) и покушајте поново. Ако се овај проблем и даље буде јављао, контактирајте корисничку подршку на (800) 922-0204 и затражите помоћ.</string>
-    <string name="vzw_activate_error_lookup">Жао нам је, имамо проблема са активирањем телефона. Контактирајте корисничку подршку на (800) 922 0204.</string>
-    <string name="vzw_activate_error_ssn">Број социјалног осигурања се не подудара. Пробајте поново.</string>
-    <string name="vzw_activate_error_pwd">Лозинка за обрачун се не подудара. Пробајте поново.</string>
-    <string name="vzw_activate_error_not_retryable">Жао нам је, имамо проблема са активирањем телефона. Контактирајте корисничку подршку на (800) 922 0204.</string>
-    <string name="vzw_activate_error_release">Да бисте активирали телефон, позовите (800) 922 0204 са другог телефона.</string>
-    <string name="vzw_activate_error_restricted_title">Како да активирате телефон</string>
-    <string name="vzw_activate_error_restricted">Да бисте активирали телефон, пратите упутства која сте добили уз нови телефон или контактирајте Verizon Wireless администратора у организацији.</string>
-    <string name="vzw_activate_error_lost_stolen">Жао нам је, имамо проблема са активирањем телефона. Позовите (877) 807-4646 са неког другог телефона да бисте активирали 4G LTE услугу и покушајте поново.</string>
-    <string name="vzw_activate_continue">Настави</string>
-    <string name="vzw_activate_retry">Пробај поново</string>
-    <string name="vzw_activate_skip">Прескочи</string>
-    <string name="emergency_address_app_label">Управљање адресом за хитне случајеве</string>
-    <string name="progress_text">Сачекајте…</string>
-    <string name="vzw_tos_title">Активација Позивања преко Wi-Fi-ја</string>
-    <string name="cancel">Откажи</string>
-    <string name="vzw_tos_text">"Позивање преко Wi-Fi-ја вам омогућава да упућујете позиве помоћу Wi-Fi-ја када мобилна мрежа није доступна.
+  <string name="vzw_activate_retry">Пробај поново</string>
+  <string name="vzw_activate_skip">Прескочи</string>
+  <string name="vzw_activate_success">Verizon телефон је сада активан. Број телефона је %1$s</string>
+  <string name="vzw_activate_success_title">Телефон је активиран</string>
+  <string name="vzw_activate_title">Активација телефона</string>
+  <string name="vzw_activating_new_title">Број телефона се преузима…</string>
+  <string name="vzw_activating_upgrade">Да бисте пренели број у нов телефон, стари телефон треба да буде искључен.</string>
+  <string name="vzw_activating_upgrade_title">Број телефона се преноси…</string>
+  <string name="vzw_address_alternate_text">Да ли сте мислили:</string>
+  <string name="vzw_address_confirm_text">"Нисмо успели да пронађемо адресу коју сте унели јер нисмо успели да пронађемо улицу и број, односно, град, држава и поштански број можда нису тачни.
+
+Ако град, држава и поштански број нису тачни, додирните %1$s. У супротном, додирните %2$s."</string>
+  <string name="vzw_address_confirm_text_part1">Нисмо успели да пронађемо адресу коју сте унели јер нисмо успели да пронађемо улицу и број, односно, град, држава и поштански број можда нису тачни.</string>
+  <string name="vzw_address_confirm_text_part2">Ако град, држава и поштански број нису тачни, додирните %1$s. У супротном, додирните %2$s.</string>
+  <string name="vzw_address_select_text">Нисмо успели да пронађемо адресу коју сте унели:</string>
+  <string name="vzw_address_update_error">Нисмо успели да ажурирамо актуелну адресу за хитне случајеве. Пробајте поново касније.</string>
+  <string name="vzw_cold_notification">Контактирајте Verizon да бисте активирали телефон.</string>
+  <string name="vzw_data_limit">Потрошња података је тренутно ограничена због доба дана или ограничења потрошње података. Треба да користите Wi-Fi да бисте наставили да подешавате уређај.</string>
+  <string name="vzw_data_limit_title">Потрошња података је ограничена</string>
+  <string name="vzw_data_redirected">Немате тарифни пакет за Verizon Wireless или сте искористили све податке из пакета. Контактирајте Verizon</string>
+  <string name="vzw_data_redirected_title">Набавите услугу Verizon</string>
+  <string name="vzw_data_restricted">Због доба дана или ограничења потрошње података</string>
+  <string name="vzw_data_restricted_title">Потрошња података је ограничена</string>
+  <string name="vzw_e911_description">&lt;b&gt;&amp;#1042;&amp;#1040;&amp;#1046;&amp;#1053;&amp;#1054; &amp;#8211; &amp;#1040;&amp;#1044;&amp;#1056;&amp;#1045;&amp;#1057;&amp;#1040; &amp;#1047;&amp;#1040; &amp;#1061;&amp;#1048;&amp;#1058;&amp;#1053;&amp;#1045; &amp;#1057;&amp;#1051;&amp;#1059;&amp;#1063;&amp;#1040;&amp;#1032;&amp;#1045;&amp;#1042;&amp;#1045; &amp;#1047;&amp;#1040; 911 &amp;#1032;&amp;#1045; &amp;#1054;&amp;#1041;&amp;#1040;&amp;#1042;&amp;#1045;&amp;#1047;&amp;#1053;&amp;#1040;&lt;/b&gt;"
+&amp;#1044;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1082;&amp;#1113;&amp;#1091;&amp;#1095;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1055;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1082;&amp;#1086; Wi-Fi-&amp;#1112;&amp;#1072;, &amp;#1091;&amp;#1085;&amp;#1077;&amp;#1089;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1072;&amp;#1076;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1091; &amp;#1091; &amp;#1057;&amp;#1040;&amp;#1044; &amp;#1085;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1091; &amp;#1078;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1084;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1077; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1115; &amp;#1091; &amp;#1093;&amp;#1080;&amp;#1090;&amp;#1085;&amp;#1080;&amp;#1084; &amp;#1089;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1072;&amp;#1112;&amp;#1077;&amp;#1074;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1079;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1090;&amp;#1077; 911. &amp;#1059;&amp;#1074;&amp;#1077;&amp;#1082; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1086;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1055;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1096;&amp;#1072;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1080; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1090;&amp;#1091; &amp;#1072;&amp;#1076;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1091;. &amp;#1042;&amp;#1077;&amp;#1086;&amp;#1084;&amp;#1072; &amp;#1112;&amp;#1077; &amp;#1074;&amp;#1072;&amp;#1078;&amp;#1085;&amp;#1086; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1090;&amp;#1091; &amp;#1072;&amp;#1076;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1091; &amp;#1082;&amp;#1072;&amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086;&amp;#1076; &amp;#1084;&amp;#1077;&amp;#1114;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1083;&amp;#1086;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1091;."</string>
+  <string name="vzw_e911_title">Подаци о локацији за хитне случајеве</string>
+  <string name="vzw_e911_warning">&lt;b&gt;&amp;#1059;&amp;#1055;&amp;#1054;&amp;#1047;&amp;#1054;&amp;#1056;&amp;#1045;&amp;#1034;&amp;#1040; &amp;#8211; &amp;#1054;&amp;#1043;&amp;#1056;&amp;#1040;&amp;#1053;&amp;#1048;&amp;#1063;&amp;#1045;&amp;#1034;&amp;#1040; &amp;#1047;&amp;#1040; &amp;#1055;&amp;#1054;&amp;#1047;&amp;#1048;&amp;#1042;&amp;#1045; &amp;#1059; &amp;#1061;&amp;#1048;&amp;#1058;&amp;#1053;&amp;#1048;&amp;#1052; &amp;#1057;&amp;#1051;&amp;#1059;&amp;#1063;&amp;#1040;&amp;#1032;&amp;#1045;&amp;#1042;&amp;#1048;&amp;#1052;&amp;#1040; &amp;#1053;&amp;#1040; &amp;#1041;&amp;#1056;&amp;#1054;&amp;#1032; 911&lt;/b&gt;"
+&amp;#1050;&amp;#1072;&amp;#1076;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1077; 911, &amp;#1091;&amp;#1074;&amp;#1077;&amp;#1082; &amp;#1082;&amp;#1072;&amp;#1078;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1086;&amp;#1087;&amp;#1077;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#1091; &amp;#1075;&amp;#1076;&amp;#1077; &amp;#1089;&amp;#1077; &amp;#1085;&amp;#1072;&amp;#1083;&amp;#1072;&amp;#1079;&amp;#1080;&amp;#1090;&amp;#1077;. &amp;#1055;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1074; &amp;#1085;&amp;#1072; 911 &amp;#1115;&amp;#1077; &amp;#1080;&amp;#1115;&amp;#1080; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1082;&amp;#1086; Wi-Fi-&amp;#1112;&amp;#1072; &amp;#1089;&amp;#1072;&amp;#1084;&amp;#1086; &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072; &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1072; &amp;#1085;&amp;#1080;&amp;#1112;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1091;&amp;#1087;&amp;#1085;&amp;#1072;. &amp;#1055;&amp;#1086;&amp;#1079;&amp;#1080;&amp;#1074; &amp;#1085;&amp;#1072; 911 &amp;#1091;&amp;#1087;&amp;#1091;&amp;#1115;&amp;#1077;&amp;#1085; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1082;&amp;#1086; Wi-Fi-&amp;#1112;&amp;#1072; &amp;#1115;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1076;&amp;#1072; &amp;#1082;&amp;#1072;&amp;#1089;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1080; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1077;&amp;#1115;&amp;#1077; &amp;#1091;&amp;#1089;&amp;#1087;&amp;#1077;&amp;#1090;&amp;#1080;; &amp;#1085;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1084;&amp;#1077;&amp;#1088;, &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1089;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1084; &amp;#1089;&amp;#1083;&amp;#1091;&amp;#1078;&amp;#1073;&amp;#1077; 911 &amp;#1085;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1087;&amp;#1086;&amp;#1079;&amp;#1085;&amp;#1072;&amp;#1112;&amp;#1077; &amp;#1072;&amp;#1076;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1091;, &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1085;&amp;#1077;&amp;#1084;&amp;#1072; &amp;#1089;&amp;#1090;&amp;#1088;&amp;#1091;&amp;#1112;&amp;#1077; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1072;&amp;#1082;&amp;#1086; Wi-Fi &amp;#1074;&amp;#1077;&amp;#1079;&amp;#1072; &amp;#1085;&amp;#1077; &amp;#1092;&amp;#1091;&amp;#1085;&amp;#1082;&amp;#1094;&amp;#1080;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1096;&amp;#1077;. &amp;#1059;&amp;#1089;&amp;#1083;&amp;#1091;&amp;#1075;&amp;#1077; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1084;&amp;#1086;&amp;#1115; &amp;#1091; &amp;#1093;&amp;#1080;&amp;#1090;&amp;#1085;&amp;#1080;&amp;#1084; &amp;#1089;&amp;#1083;&amp;#1091;&amp;#1095;&amp;#1072;&amp;#1112;&amp;#1077;&amp;#1074;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1115;&amp;#1077; &amp;#1073;&amp;#1080;&amp;#1090;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1083;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1072;&amp;#1076;&amp;#1088;&amp;#1077;&amp;#1089;&amp;#1091; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1091; &amp;#1089;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1090;&amp;#1093;&amp;#1086;&amp;#1076;&amp;#1085;&amp;#1086; &amp;#1085;&amp;#1072;&amp;#1074;&amp;#1077;&amp;#1083;&amp;#1080;, &amp;#1087;&amp;#1072; &amp;#1112;&amp;#1077; &amp;#1072;&amp;#1078;&amp;#1091;&amp;#1088;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1112;&amp;#1090;&amp;#1077; &amp;#1082;&amp;#1072;&amp;#1076;&amp;#1072; &amp;#1073;&amp;#1091;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1084;&amp;#1077;&amp;#1114;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1083;&amp;#1086;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1091;."</string>
+  <string name="vzw_later_button">Касније</string>
+  <string name="vzw_network_error">Мрежа није доступна. Пробајте поново касније.</string>
+  <string name="vzw_partial_confirm_head">Добављачи услуга за помоћ у хитним случајевима нису успели да провере адресу коју сте унели.</string>
+  <string name="vzw_partial_confirm_text">Желите ли стварно да користите ову адресу за хитне случајеве?</string>
+  <string name="vzw_partial_failure_text">"Град, држава или поштански број које сте унели можда нису тачни.
+
+Проверите адресу и покушајте поново."</string>
+  <string name="vzw_partial_failure_text_part1">Град, држава или поштански број које сте унели можда нису тачни.</string>
+  <string name="vzw_partial_failure_text_part2">Проверите адресу и покушајте поново.</string>
+  <string name="vzw_service_upgrade_msg">Да бисте користили мобилни хотспот, позовите корисничку подршку да бисте се претплатили.</string>
+  <string name="vzw_setup_app_label">Активација Verizon налога</string>
+  <string name="vzw_tos_link">Услови и одредбе</string>
+  <string name="vzw_tos_text">"Позивање преко Wi-Fi-ја вам омогућава да упућујете позиве помоћу Wi-Fi-ја када мобилна мрежа није доступна.
 
 Да бисте подесили Позивање преко Wi-Fi-ја, треба да унесете адресу у САД. Ту адресу ће користити добављачи услуга за помоћ у хитним случајевима на вашој локацији ако у САД са овог телефона упутите позив за помоћ у хитним случајевима (E911) преко Wi-Fi-ја.
 
 Препоручујемо вам да промените ту адресу када упућујете позиве преко неке друге Wi-Fi мреже да би информације о локацији биле тачне. Увек можете да промените локацију ако одете у мени са подешавањима Позивања преко Wi-Fi-ја."</string>
-    <string name="vzw_tos_link">Услови и одредбе</string>
-    <string name="vzw_e911_title">Подаци о локацији за хитне случајеве</string>
-    <string name="vzw_e911_description"><b>ВАЖНО – АДРЕСА ЗА ХИТНЕ СЛУЧАЈЕВЕ ЗА 911 ЈЕ ОБАВЕЗНА</b>"
-Да бисте укључили Позивање преко Wi-Fi-ја, унесите адресу у САД на коју желите да примате услуге за помоћ у хитним случајевима ако позовете 911. Увек можете да одете на Подешавања и да промените ту адресу. Веома је важно да промените ту адресу када год мењате локацију."</string>
-    <string name="vzw_e911_warning"><b>УПОЗОРЕЊА – ОГРАНИЧЕЊА ЗА ПОЗИВЕ У ХИТНИМ СЛУЧАЈЕВИМА НА БРОЈ 911</b>"
-Када позивате 911, увек кажите оператеру где се налазите. Позив на 911 ће ићи преко Wi-Fi-ја само ако мобилна мрежа није доступна. Позив на 911 упућен преко Wi-Fi-ја ће можда каснити или неће успети; на пример, ако систем службе 911 не препознаје адресу, ако нема струје или ако Wi-Fi веза не функционише. Услуге за помоћ у хитним случајевима ће бити послате на адресу коју сте претходно навели, па је ажурирајте када будете мењали локацију."</string>
-    <string name="house_number">Број у адреси</string>
-    <string name="street">Улица</string>
-    <string name="apt_suite_number">Стан, апартман итд.</string>
-    <string name="city">Град</string>
-    <string name="state">Држава</string>
-    <string name="zip_code">Поштански број</string>
-    <string name="save">Сачувај</string>
-    <string name="vzw_address_confirm_text">"Нисмо успели да пронађемо адресу коју сте унели јер нисмо успели да пронађемо улицу и број, односно, град, држава и поштански број можда нису тачни.
-
-Ако град, држава и поштански број нису тачни, додирните %1$s. У супротном, додирните %2$s."</string>
-    <string name="vzw_address_confirm_text_part1">Нисмо успели да пронађемо адресу коју сте унели јер нисмо успели да пронађемо улицу и број, односно, град, држава и поштански број можда нису тачни.</string>
-    <string name="vzw_address_confirm_text_part2">Ако град, држава и поштански број нису тачни, додирните %1$s. У супротном, додирните %2$s.</string>
-    <string name="save_anyway">Ипак сачувај</string>
-    <string name="edit_address">Измени адресу</string>
-    <string name="ok">Потврди</string>
-    <string name="vzw_address_select_text">Нисмо успели да пронађемо адресу коју сте унели:</string>
-    <string name="vzw_address_alternate_text">Да ли сте мислили:</string>
-    <string name="vzw_partial_confirm_head">Добављачи услуга за помоћ у хитним случајевима нису успели да провере адресу коју сте унели.</string>
-    <string name="vzw_partial_confirm_text">Желите ли стварно да користите ову адресу за хитне случајеве?</string>
-    <string name="vzw_partial_failure_text">"Град, држава или поштански број које сте унели можда нису тачни.
-
-Проверите адресу и покушајте поново."</string>
-    <string name="vzw_partial_failure_text_part1">Град, држава или поштански број које сте унели можда нису тачни.</string>
-    <string name="vzw_partial_failure_text_part2">Проверите адресу и покушајте поново.</string>
+  <string name="vzw_tos_title">Активација Позивања преко Wi-Fi-ја</string>
+  <string name="vzw_verify_button">Верификуј</string>
+  <string name="vzw_verify_progress_title">Налог се верификује…</string>
+  <string name="vzw_verify_pwd">Да бисте започели, унесите лозинку за обрачун за налог:</string>
+  <string name="vzw_verify_ssn">Да бисте започели, унесите последње 4 цифре матичног броја власника налога:</string>
+  <string name="vzw_verify_switch_pwd">Користи лозинку за обрачун</string>
+  <string name="vzw_verify_switch_ssn">Користи број социјалног осигурања</string>
+  <string name="vzw_verify_title">Верификујте налог</string>
+  <string name="vzw_wfc_activation_error">Нисмо успели да активирамо Позивање преко Wi-Fi-ја. Пробајте поново касније.</string>
+  <string name="zip_code">Поштански број</string>
 </resources>

@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Google Text-to-speech Engine</string>
-    <string name="general_settings">Жалпы параметрлер</string>
-    <string name="license_activity_title">Ашық бастапқы код лицензиялары</string>
-    <string name="license_activity_loading">Жүктелуде...</string>
-    <string name="license_activity_unavailable">Лицензияларды жүктеу барысында мәселе орын алды.</string>
-    <string name="tts_settings_label">Google TTS опциялары</string>
-    <string name="voice_data_install_title">Google TTS дауыс дерегі</string>
-    <string name="install_data_header">Құрылғыңыздағы желіден тыс сөйлеу синтезін қолдау үшін осы дерекқорды жүктеңіз.</string>
-    <string name="download_invite_title">%1$s сөйлеу дауысын орнату</string>
-    <string name="download_invite">%1$s үшін желіден тыс мәтіннен сөйлеуге функциясын қосу</string>
-    <string name="install_voice_text_2">Жүктеуге дайын.</string>
-    <string name="download_in_progress">Жүктеуде</string>
-    <string name="no_installable_voices">Жүктелетін дауыстар жоқ</string>
-    <string name="cancel">Бас тарту</string>
-    <string name="delete_voice_data">Жою</string>
-    <string name="update">Жаңарту</string>
-    <string name="download">Жүктеу</string>
-    <string name="voice_installed">Орнатылды.</string>
-    <string name="voice_installed_and_default">Орнатылды және бастапқы ретінде реттелді.</string>
-    <string name="download_notification_title">%2$s %1$s үшін</string>
-    <string name="download_notification_description">Мәтіннен сөйлеуге функциясына арналған дауыс дереқоры</string>
-    <string name="download_success_title">%1$s үшін жүктелген дауыс дерекқоры</string>
-    <string name="download_success_description">Параметрлерге кіріп, осы дауысты бастапқы ретінде реттеу үшін түрту</string>
-    <string name="download_failure_title">%1$s үшін дауыс дерекқорын жүктеу қателігі</string>
-    <string name="download_failure_description">Қайта әркеттену үшін түртіңіз.</string>
-    <string name="download_failed_toast">Дауыс орамын жүктеуді бастау орындалмады.</string>
-    <string name="manage_voice_data">Дауыс дереқорын басқару</string>
-    <string name="auto_update_title">Дауыстарды автожаңарту</string>
-    <string name="auto_update_wifi_title">Wi-Fi байланысын ғана қолдану</string>
-    <string name="auto_update_wifi_summary">Дауыс дерегін Wi-Fi байланысын ғана қолданып жүктеу. Дерек трафигін үнемдейді.</string>
-    <string name="feedback_title">Кері байланыс</string>
-    <string name="feedback_failed">Кері байланыс пішінін ашу мүмкін болмады</string>
-    <string name="voices_type_title">Дауыстар түрі</string>
-    <string name="voices_type_summary">[DOGFOOD]Сөйлеу синтезаторының түрі</string>
-    <string name="analytics_title">Пайдалану туралы анонимді есептер</string>
-    <string name="analytics_summary_on">Қосулы</string>
-    <string name="analytics_summary_off">Өшірулі</string>
-    <string name="analytics_screen_explanation">"Бұл мүмкіндік қосулы болғанда пайдалану туралы анонимді есептер жиналады. Бұл бізге құрылғыңызда Google мәтінді дыбысқа түрлендірудің жұмысын жақсырақ түсінуге көмектеседі.
+  <string name="action_licenses">Ашық бастапқы код лиц-ры</string>
+  <string name="action_settings">Опциялар</string>
+  <string name="action_voice_pack_uninstall">Алып тастау</string>
+  <string name="action_voice_pack_update">Жаңарту</string>
+  <string name="analytics_screen_explanation">"Бұл мүмкіндік қосулы болғанда пайдалану туралы анонимді есептер жиналады. Бұл бізге құрылғыңызда Google мәтінді дыбысқа түрлендірудің жұмысын жақсырақ түсінуге көмектеседі.
 
 Біз жинайтын біріккен көрсеткіштердің мысалдары:
-"<li><ul>"Мәтінді дыбысқа түрлендіруді пайдалану жиілігі.
-"<li>Мәтінді дыбысқа түрлендіру сұрауларын орындау.</li>"
-"<li>Қай тілдер пайдаланылады.</li>"
-"<li>Мәтінді дыбысқа түрлендірудің дыбыстық шығысты жеткізуінің сәтсіздікпен аяқталу жиілігі.</li>"
-"</ul></li></string>
-    <string name="process_text_title">Мәтінді таңдау мәзіріне GoogleTTS жазбасын қосу</string>
-    <string name="process_text_summary">Бұл жаңа жазба кез келген таңдалған мәтінді синтездейді.</string>
-    <string name="voice_pack_status_installed">Орнатылды (%1$s)</string>
-    <string name="voice_pack_status_gender_female">Әйел</string>
-    <string name="voice_pack_status_gender_male">Ер адам</string>
-    <string name="voice_entity_status_gender_female">Әйел %1$d</string>
-    <string name="voice_entity_status_gender_male">Еркек %1$d</string>
-    <string name="voice_entity_status_gender_unknown">Белгісіз жыныс %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">Бұрынғы әйел дауысы</string>
-    <string name="voice_pack_status_gender_male_legacy">Бұрынғы еркек дауысы</string>
-    <string name="voice_pack_status_gender_unknown">Белгісіз жыныс</string>
-    <string name="voice_pack_status_updatable">Жаңарту қол жетімді</string>
-    <string name="voice_pack_status_downloadable">Жүктеу (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">Ағымдағы дауыс</string>
-    <string name="voice_pack_status_downloading">Жүктеуде…</string>
-    <string name="voice_pack_name_high_quality">%1$s (жоғары сапалы)</string>
-    <string name="voice_pack_description">"Атауы: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#1052;&amp;#1241;&amp;#1090;&amp;#1110;&amp;#1085;&amp;#1076;&amp;#1110; &amp;#1076;&amp;#1099;&amp;#1073;&amp;#1099;&amp;#1089;&amp;#1179;&amp;#1072; &amp;#1090;&amp;#1199;&amp;#1088;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1076;&amp;#1110;&amp;#1088;&amp;#1091;&amp;#1076;&amp;#1110; &amp;#1087;&amp;#1072;&amp;#1081;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1072;&amp;#1085;&amp;#1091; &amp;#1078;&amp;#1080;&amp;#1110;&amp;#1083;&amp;#1110;&amp;#1075;&amp;#1110;.
+"&lt;li&gt;&amp;#1052;&amp;#1241;&amp;#1090;&amp;#1110;&amp;#1085;&amp;#1076;&amp;#1110; &amp;#1076;&amp;#1099;&amp;#1073;&amp;#1099;&amp;#1089;&amp;#1179;&amp;#1072; &amp;#1090;&amp;#1199;&amp;#1088;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1076;&amp;#1110;&amp;#1088;&amp;#1091; &amp;#1089;&amp;#1201;&amp;#1088;&amp;#1072;&amp;#1091;&amp;#1083;&amp;#1072;&amp;#1088;&amp;#1099;&amp;#1085; &amp;#1086;&amp;#1088;&amp;#1099;&amp;#1085;&amp;#1076;&amp;#1072;&amp;#1091;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1178;&amp;#1072;&amp;#1081; &amp;#1090;&amp;#1110;&amp;#1083;&amp;#1076;&amp;#1077;&amp;#1088; &amp;#1087;&amp;#1072;&amp;#1081;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1072;&amp;#1085;&amp;#1099;&amp;#1083;&amp;#1072;&amp;#1076;&amp;#1099;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1052;&amp;#1241;&amp;#1090;&amp;#1110;&amp;#1085;&amp;#1076;&amp;#1110; &amp;#1076;&amp;#1099;&amp;#1073;&amp;#1099;&amp;#1089;&amp;#1179;&amp;#1072; &amp;#1090;&amp;#1199;&amp;#1088;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1076;&amp;#1110;&amp;#1088;&amp;#1091;&amp;#1076;&amp;#1110;&amp;#1187; &amp;#1076;&amp;#1099;&amp;#1073;&amp;#1099;&amp;#1089;&amp;#1090;&amp;#1099;&amp;#1179; &amp;#1096;&amp;#1099;&amp;#1171;&amp;#1099;&amp;#1089;&amp;#1090;&amp;#1099; &amp;#1078;&amp;#1077;&amp;#1090;&amp;#1082;&amp;#1110;&amp;#1079;&amp;#1091;&amp;#1110;&amp;#1085;&amp;#1110;&amp;#1187; &amp;#1089;&amp;#1241;&amp;#1090;&amp;#1089;&amp;#1110;&amp;#1079;&amp;#1076;&amp;#1110;&amp;#1082;&amp;#1087;&amp;#1077;&amp;#1085; &amp;#1072;&amp;#1103;&amp;#1179;&amp;#1090;&amp;#1072;&amp;#1083;&amp;#1091; &amp;#1078;&amp;#1080;&amp;#1110;&amp;#1083;&amp;#1110;&amp;#1075;&amp;#1110;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">Өшірулі</string>
+  <string name="analytics_summary_on">Қосулы</string>
+  <string name="analytics_title">Пайдалану туралы анонимді есептер</string>
+  <string name="app_name">Google Text-to-speech Engine</string>
+  <string name="auto_update_title">Дауыстарды автожаңарту</string>
+  <string name="auto_update_wifi_summary">Дауыс дерегін Wi-Fi байланысын ғана қолданып жүктеу. Дерек трафигін үнемдейді.</string>
+  <string name="auto_update_wifi_title">Wi-Fi байланысын ғана қолдану</string>
+  <string name="cancel">Бас тарту</string>
+  <string name="delete_voice_data">Жою</string>
+  <string name="download">Жүктеу</string>
+  <string name="download_failed_toast">Дауыс орамын жүктеуді бастау орындалмады.</string>
+  <string name="download_failure_description">Қайта әркеттену үшін түртіңіз.</string>
+  <string name="download_failure_title">%1$s үшін дауыс дерекқорын жүктеу қателігі</string>
+  <string name="download_in_progress">Жүктеуде</string>
+  <string name="download_invite">%1$s үшін желіден тыс мәтіннен сөйлеуге функциясын қосу</string>
+  <string name="download_invite_title">%1$s сөйлеу дауысын орнату</string>
+  <string name="download_notification_description">Мәтіннен сөйлеуге функциясына арналған дауыс дереқоры</string>
+  <string name="download_notification_title">%2$s %1$s үшін</string>
+  <string name="download_success_description">Параметрлерге кіріп, осы дауысты бастапқы ретінде реттеу үшін түрту</string>
+  <string name="download_success_title">%1$s үшін жүктелген дауыс дерекқоры</string>
+  <string name="feedback_failed">Кері байланыс пішінін ашу мүмкін болмады</string>
+  <string name="feedback_title">Кері байланыс</string>
+  <string name="general_settings">Жалпы параметрлер</string>
+  <string name="install_data_header">Құрылғыңыздағы желіден тыс сөйлеу синтезін қолдау үшін осы дерекқорды жүктеңіз.</string>
+  <string name="install_voice_text_2">Жүктеуге дайын.</string>
+  <string name="license_activity_loading">Жүктелуде...</string>
+  <string name="license_activity_title">Ашық бастапқы код лицензиялары</string>
+  <string name="license_activity_unavailable">Лицензияларды жүктеу барысында мәселе орын алды.</string>
+  <string name="manage_voice_data">Дауыс дереқорын басқару</string>
+  <string name="morphed_voice_set_title">Дауыс жиынтығы</string>
+  <string name="multi_voice_pack_entry_name">Дауыс жиынтығы %1$d</string>
+  <string name="multi_voice_pack_title">%1$s дауыстар</string>
+  <string name="no_installable_voices">Жүктелетін дауыстар жоқ</string>
+  <string name="play_sample_text_button_description">%1$s даусының үлгі мәтінін ойнату</string>
+  <string name="process_text_summary">Бұл жаңа жазба кез келген таңдалған мәтінді синтездейді.</string>
+  <string name="process_text_title">Мәтінді таңдау мәзіріне GoogleTTS жазбасын қосу</string>
+  <string name="quick_error">Қате</string>
+  <string name="quick_speaking">Айтылуда</string>
+  <string name="quick_stopped">Тоқтатылды</string>
+  <string name="quick_synthesizing">Синтездеуде</string>
+  <string name="quick_wait_for_init">Жүктелуде</string>
+  <string name="sample_text_synthesis_failure">Осы дауыс үшін мысалды синтездеу сәтсіз аяқталды.</string>
+  <string name="select_voice_title">Дауысты таңдау</string>
+  <string name="tts_settings_label">Google TTS опциялары</string>
+  <string name="unpack_voice_pack_service_text">Мұрағаттан шығарылуда…</string>
+  <string name="unpack_voice_pack_service_title">Мәтінді сөзге түрлендіру деректері жаңартылуда</string>
+  <string name="update">Жаңарту</string>
+  <string name="voice_data_install_title">Google TTS дауыс дерегі</string>
+  <string name="voice_entity_status_gender_female">Әйел %1$d</string>
+  <string name="voice_entity_status_gender_male">Еркек %1$d</string>
+  <string name="voice_entity_status_gender_unknown">Белгісіз жыныс %1$d</string>
+  <string name="voice_entry_cancel_download_desc">Дауыс орамын жүктеуді тоқтату</string>
+  <string name="voice_entry_delete_desc">Дауыс орамын жою</string>
+  <string name="voice_entry_details">Дауыс деректері сұхбатын бастау</string>
+  <string name="voice_entry_download_desc">Дауыс орамын жүктеу</string>
+  <string name="voice_entry_edit_desc">Ашық дауыс бумасы</string>
+  <string name="voice_entry_overflow_desc">Дауыс орамына қатысты қосымша функциялар</string>
+  <string name="voice_entry_sample">Дауыс үлгісін ойнату</string>
+  <string name="voice_installed">Орнатылды.</string>
+  <string name="voice_installed_and_default">Орнатылды және бастапқы ретінде реттелді.</string>
+  <string name="voice_pack_action_cancel">Жүктеуді тоқтату</string>
+  <string name="voice_pack_action_download">Жүктеу (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">%1$s үшін ағымдағы дауыс ретінде тағайындау</string>
+  <string name="voice_pack_action_remove">Алып тастау</string>
+  <string name="voice_pack_action_update">Жаңарту (~%1$s)</string>
+  <string name="voice_pack_description">"Атауы: %1$s 
 Тіл: %2$s 
 Дерекқор өлшемі: ~%3$s 
 Сөйлеушінің жынысы: %4$s"</string>
-    <string name="voice_pack_action_download">Жүктеу (~%1$s)</string>
-    <string name="voice_pack_action_remove">Алып тастау</string>
-    <string name="voice_pack_action_update">Жаңарту (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">%1$s үшін ағымдағы дауыс ретінде тағайындау</string>
-    <string name="voice_pack_action_cancel">Жүктеуді тоқтату</string>
-    <string name="voice_pack_install_tab_installed">ОРНАТЫЛҒАН</string>
-    <string name="voice_pack_install_tab_all">БАРЛЫҒЫ</string>
-    <string name="voice_pack_install_tab_settings">ПАРАМЕТРЛЕР</string>
-    <string name="voice_entry_details">Дауыс деректері сұхбатын бастау</string>
-    <string name="voice_entry_edit_desc">Ашық дауыс бумасы</string>
-    <string name="voice_entry_overflow_desc">Дауыс орамына қатысты қосымша функциялар</string>
-    <string name="voice_entry_download_desc">Дауыс орамын жүктеу</string>
-    <string name="voice_entry_cancel_download_desc">Дауыс орамын жүктеуді тоқтату</string>
-    <string name="voice_entry_delete_desc">Дауыс орамын жою</string>
-    <string name="voice_entry_sample">Дауыс үлгісін ойнату</string>
-    <string name="voice_pack_not_enough_space">Интернет жадында орын жеткіліксіз.Бұл дауысты орнату үшін аздап орын босатуыңыз қажет.</string>
-    <string name="action_settings">Опциялар</string>
-    <string name="action_licenses">Ашық бастапқы код лиц-ры</string>
-    <string name="action_voice_pack_update">Жаңарту</string>
-    <string name="action_voice_pack_uninstall">Алып тастау</string>
-    <string name="voice_pack_uninstall_dialog">Бұл дауыс жойылсын ба?</string>
-    <string name="voice_pack_uninstall_keep">Қалсын</string>
-    <string name="voice_pack_uninstall_uninstall">Алып тастау</string>
-    <string name="voice_pack_unpack_failure">Жүктелген дауысты орнату орындалмады</string>
-    <string name="multi_voice_pack_title">%1$s дауыстар</string>
-    <string name="multi_voice_pack_entry_name">Дауыс жиынтығы %1$d</string>
-    <string name="morphed_voice_set_title">Дауыс жиынтығы</string>
-    <string name="select_voice_title">Дауысты таңдау</string>
-    <string name="play_sample_text_button_description">%1$s даусының үлгі мәтінін ойнату</string>
-    <string name="voice_pack_no_download_manager">Жүктеулер реттегіші өшірілген немесе жоқ; дауыс бумасын жүктеу мүмкін болмады</string>
-    <string name="unpack_voice_pack_service_title">Мәтінді сөзге түрлендіру деректері жаңартылуда</string>
-    <string name="unpack_voice_pack_service_text">Мұрағаттан шығарылуда…</string>
-    <string name="sample_text_synthesis_failure">Осы дауыс үшін мысалды синтездеу сәтсіз аяқталды.</string>
-    <string name="quick_wait_for_init">Жүктелуде</string>
-    <string name="quick_synthesizing">Синтездеуде</string>
-    <string name="quick_speaking">Айтылуда</string>
-    <string name="quick_stopped">Тоқтатылды</string>
-    <string name="quick_error">Қате</string>
+  <string name="voice_pack_install_tab_all">БАРЛЫҒЫ</string>
+  <string name="voice_pack_install_tab_installed">ОРНАТЫЛҒАН</string>
+  <string name="voice_pack_install_tab_settings">ПАРАМЕТРЛЕР</string>
+  <string name="voice_pack_name_high_quality">%1$s (жоғары сапалы)</string>
+  <string name="voice_pack_no_download_manager">Жүктеулер реттегіші өшірілген немесе жоқ; дауыс бумасын жүктеу мүмкін болмады</string>
+  <string name="voice_pack_not_enough_space">Интернет жадында орын жеткіліксіз.Бұл дауысты орнату үшін аздап орын босатуыңыз қажет.</string>
+  <string name="voice_pack_status_downloadable">Жүктеу (~%1$s)</string>
+  <string name="voice_pack_status_downloading">Жүктеуде…</string>
+  <string name="voice_pack_status_gender_female">Әйел</string>
+  <string name="voice_pack_status_gender_female_legacy">Бұрынғы әйел дауысы</string>
+  <string name="voice_pack_status_gender_male">Ер адам</string>
+  <string name="voice_pack_status_gender_male_legacy">Бұрынғы еркек дауысы</string>
+  <string name="voice_pack_status_gender_unknown">Белгісіз жыныс</string>
+  <string name="voice_pack_status_installed">Орнатылды (%1$s)</string>
+  <string name="voice_pack_status_locale_default">Ағымдағы дауыс</string>
+  <string name="voice_pack_status_updatable">Жаңарту қол жетімді</string>
+  <string name="voice_pack_uninstall_dialog">Бұл дауыс жойылсын ба?</string>
+  <string name="voice_pack_uninstall_keep">Қалсын</string>
+  <string name="voice_pack_uninstall_uninstall">Алып тастау</string>
+  <string name="voice_pack_unpack_failure">Жүктелген дауысты орнату орындалмады</string>
+  <string name="voices_type_summary">[DOGFOOD]Сөйлеу синтезаторының түрі</string>
+  <string name="voices_type_title">Дауыстар түрі</string>
 </resources>

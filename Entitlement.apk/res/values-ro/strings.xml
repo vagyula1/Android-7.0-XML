@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Atribuire</string>
-    <string name="feature_check_msg">Se verifică starea abonamentului. Vă rugăm așteptați...</string>
-    <string name="vzw_self_provisioning_msg">"Utilizarea Mobile Hotspot presupune abonarea la serviciul Mobile Hotspot.
-Pentru mai multe informații despre și pentru abonarea la Mobile Hotspot accesați My Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Anulare</string>
-    <string name="vzw_self_provisioning_learn_more">Af. mai multe</string>
-    <string name="vzw_error_msg_title">Procesarea solicitării dvs. a eșuat</string>
-    <string name="vzw_error_msg">"Pentru abonarea la Mobile Hotspot/Mobile Broadband Connect, apelați:
- Clienți persoane fizice: (800) 256-4646,
- Clienți persoane juridice: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">E nevoie de actualizarea serviciului</string>
-    <string name="tmo_error_msg">Planul dvs. tarifar nu include serviciul Mobile Hotspot pentru smartphone-uri, care permite partajarea conexiunii de date a telefonului dvs. cu alte dispozitive. Doriți să adăugați serviciul Mobile Hotspot pentru smartphone-uri la planul dvs. tarifar? Serviciul poate fi adăugat și online la adresa https://my.t-mobile.com cu accesarea meniurilor Gestionare > Planuri și servicii. &lt;</string>
-    <string name="retv_terms_conditions_msg">Se verifică starea abonamentului. Vă rugăm așteptați...</string>
-    <string name="change_data_request_msg">Se trimite solicitarea de furnizare. Vă rugăm așteptați...</string>
-    <string name="alert_dialog_failure_title">Procesarea solicitării dvs. a eșuat</string>
-    <string name="alert_dialog_failure_msg">Încercaţi din nou mai târziu.</string>
-    <string name="network_connection_title">Eroare de conectare la rețea</string>
-    <string name="network_connection_error_msg">În prezent conectarea telefonul dvs. la serverul %s nu este posibilă. Vă rugăm încercați din nou mai târziu.</string>
-    <string name="mobile_hotspot">Hotspot mobil</string>
-    <string name="alert_dialog_upgrade_button">Actualiz.</string>
-    <string name="alert_dialog_later_button">Mai târziu</string>
-    <string name="current_subscription">(abonamentul curent)</string>
-    <string name="unavailable_subscription">(indisponibil din cauza nivelului de stocare)</string>
-    <string name="request_pending_title">Furnizare în așteptare</string>
-    <string name="request_pending_error_msg">Serverul Verizon procesează solicitarea dvs. Vă rugăm încercați din nou după 5 minute.</string>
-    <string name="browser_error_msg">Pornirea browserului a eșuat.</string>
-    <string name="att_error_msg">Pentru activare accesați att.com/mywireless sau apelați 611</string>
-    <string name="att_error_msg_title">Contul nu este setat pentru partajare</string>
-    <string name="att_error_msg_other">Există o problemă temporară de reţea care împiedică activarea funcţiei de Hotspot mobil. Vă rugăm să încercaţi mai târziu</string>
-    <string name="att_error_msg_other_title">Eroare de reţea</string>
-    <string name="sprint_error_msg">Nu poate fi conectat la reţeaua de date; Probabil nu sunteți abonat(ă) la serviciul Partajare sau Hotspot; Vă rugăm să luaţi legătura cu compania dvs; de telefonie.</string>
-    <string name="sprint_error_msg_title">Partajare sau eroare Hotspot</string>
-    <string name="sprint_notification_msg">Atingeți pentru definirea mai multor setări</string>
-    <string name="term_and_conditions_title">Termeni şi condiţii</string>
-    <string name="sbm_content_activity_title">Condițiile acordului</string>
-    <string name="consent_title">Condițiile acordului</string>
-    <string name="consent_message">"Această aplicație poate fi utilizată doar după acceptarea și trimiterea informațiilor menționate în continuare. După verificarea conținutului, continuați.
+  <string name="alert_dialog_failure_msg">Încercaţi din nou mai târziu.</string>
+  <string name="alert_dialog_failure_title">Procesarea solicitării dvs. a eșuat</string>
+  <string name="alert_dialog_later_button">Mai târziu</string>
+  <string name="alert_dialog_upgrade_button">Actualiz.</string>
+  <string name="app_name">Atribuire</string>
+  <string name="att_error_msg">Pentru activare accesați att.com/mywireless sau apelați 611</string>
+  <string name="att_error_msg_other">Există o problemă temporară de reţea care împiedică activarea funcţiei de Hotspot mobil. Vă rugăm să încercaţi mai târziu</string>
+  <string name="att_error_msg_other_title">Eroare de reţea</string>
+  <string name="att_error_msg_title">Contul nu este setat pentru partajare</string>
+  <string name="browser_error_msg">Pornirea browserului a eșuat.</string>
+  <string name="change_data_request_msg">Se trimite solicitarea de furnizare. Vă rugăm așteptați...</string>
+  <string name="concent_agree_btn">De acord</string>
+  <string name="concent_disagree_btn">Dezacord</string>
+  <string name="consent_message">"Această aplicație poate fi utilizată doar după acceptarea și trimiterea informațiilor menționate în continuare. După verificarea conținutului, continuați.
 
 [Trimitere informații]
 ID-ul specific al contractantului
 [Utilizare aplicații]
 Solicitați utilizarea aplicației de partajare"</string>
-    <string name="consent_terms_btn">Termeni serviciu</string>
-    <string name="concent_disagree_btn">Dezacord</string>
-    <string name="concent_agree_btn">De acord</string>
-    <string name="sbm_error_msg_title">Partajare sau eroare Hotspot</string>
-    <string name="sbm_error_msg">Conectare nereuşită la reţeaua de date.</string>
-    <string name="sbm_error_msg_not_subscribed">Verificarea abonamentului dvs. Opţiuni partajare a eșuat.</string>
-    <string name="sbm_error_msg_not_authenticated">"Autentificare eşuată.
+  <string name="consent_terms_btn">Termeni serviciu</string>
+  <string name="consent_title">Condițiile acordului</string>
+  <string name="current_subscription">(abonamentul curent)</string>
+  <string name="feature_check_msg">Se verifică starea abonamentului. Vă rugăm așteptați...</string>
+  <string name="mobile_hotspot">Hotspot mobil</string>
+  <string name="network_connection_error_msg">În prezent conectarea telefonul dvs. la serverul %s nu este posibilă. Vă rugăm încercați din nou mai târziu.</string>
+  <string name="network_connection_title">Eroare de conectare la rețea</string>
+  <string name="request_pending_error_msg">Serverul Verizon procesează solicitarea dvs. Vă rugăm încercați din nou după 5 minute.</string>
+  <string name="request_pending_title">Furnizare în așteptare</string>
+  <string name="retv_terms_conditions_msg">Se verifică starea abonamentului. Vă rugăm așteptați...</string>
+  <string name="sbm_content_activity_title">Condițiile acordului</string>
+  <string name="sbm_error_msg">Conectare nereuşită la reţeaua de date.</string>
+  <string name="sbm_error_msg_no_response">Autentificare eşuată. Vă rugăm încercați din nou într-un loc cu semnal bun.</string>
+  <string name="sbm_error_msg_not_authenticated">"Autentificare eşuată.
 (Eroare cod %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Autentificare eşuată. Vă rugăm încercați din nou într-un loc cu semnal bun.</string>
+  <string name="sbm_error_msg_not_subscribed">Verificarea abonamentului dvs. Opţiuni partajare a eșuat.</string>
+  <string name="sbm_error_msg_title">Partajare sau eroare Hotspot</string>
+  <string name="sprint_error_msg">Nu poate fi conectat la reţeaua de date; Probabil nu sunteți abonat(ă) la serviciul Partajare sau Hotspot; Vă rugăm să luaţi legătura cu compania dvs; de telefonie.</string>
+  <string name="sprint_error_msg_title">Partajare sau eroare Hotspot</string>
+  <string name="sprint_notification_msg">Atingeți pentru definirea mai multor setări</string>
+  <string name="term_and_conditions_title">Termeni şi condiţii</string>
+  <string name="tmo_error_msg">Planul dvs. tarifar nu include serviciul Mobile Hotspot pentru smartphone-uri, care permite partajarea conexiunii de date a telefonului dvs. cu alte dispozitive. Doriți să adăugați serviciul Mobile Hotspot pentru smartphone-uri la planul dvs. tarifar? Serviciul poate fi adăugat și online la adresa https://my.t-mobile.com cu accesarea meniurilor Gestionare &gt; Planuri și servicii. &lt;</string>
+  <string name="tmo_error_msg_title">E nevoie de actualizarea serviciului</string>
+  <string name="unavailable_subscription">(indisponibil din cauza nivelului de stocare)</string>
+  <string name="vzw_error_msg">"Pentru abonarea la Mobile Hotspot/Mobile Broadband Connect, apelați:
+ Clienți persoane fizice: (800) 256-4646,
+ Clienți persoane juridice: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Procesarea solicitării dvs. a eșuat</string>
+  <string name="vzw_self_provisioning_cancel">Anulare</string>
+  <string name="vzw_self_provisioning_learn_more">Af. mai multe</string>
+  <string name="vzw_self_provisioning_msg">"Utilizarea Mobile Hotspot presupune abonarea la serviciul Mobile Hotspot.
+Pentru mai multe informații despre și pentru abonarea la Mobile Hotspot accesați My Verizon."</string>
 </resources>

@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">가입</string>
-    <string name="feature_check_msg">가입 상태를 확인하고 있습니다. 잠시 기다려주십시오...</string>
-    <string name="vzw_self_provisioning_msg">"모바일 핫스팟 을 사용하려면 모바일 핫스팟 서비스에 가입 해야합니다.
-가입 관련 더 많은 정보는 버라이존 을 방문하세요."</string>
-    <string name="vzw_self_provisioning_cancel">취소</string>
-    <string name="vzw_self_provisioning_learn_more">자세히 알아보기</string>
-    <string name="vzw_error_msg_title">주문을 처리 할 수 ​​없습니다</string>
-    <string name="vzw_error_msg">"모바일 핫스팟 / 모바일 광대역 연결 에 가입 하려면 아래 번호로 전화 하세요:
- 소비자 : (800) 256-4646 ,
- 기업 : (800) 899-4249 ."</string>
-    <string name="tmo_error_msg_title">서비스 업그레이드 필요</string>
-    <string name="tmo_error_msg">현재 사용하시는 요금제는 폰에 연결된 다른 장치와 스마트폰 모바일 핫 스팟 서비스를 이용하여 데이터를 공유 할 수 없습니다. 스마트폰 모바일 핫 스팟 서비스 요금제에 가입을 원하면 온라인 https://my.t-mobile.com에서 가입 가능 합니다.</string>
-    <string name="retv_terms_conditions_msg">가입 상태를 확인하고 있습니다. 잠시 기다려주십시오...</string>
-    <string name="change_data_request_msg">권한설정 요청을 보내는중입니다. 잠시 기다려주십시오 .</string>
-    <string name="alert_dialog_failure_title">주문을 처리 할 수 ​​없습니다</string>
-    <string name="alert_dialog_failure_msg">나중에 다시 시도해 보세요.</string>
-    <string name="network_connection_title">네트워크 접속 에러</string>
-    <string name="network_connection_error_msg">폰을 서버에 연결 할 수 없습니다. 나중에 재 시도 해주세요.</string>
-    <string name="mobile_hotspot">모바일 핫스팟</string>
-    <string name="alert_dialog_positive_button">확인</string>
-    <string name="alert_dialog_upgrade_button">업그레이드</string>
-    <string name="alert_dialog_later_button">나중에</string>
-    <string name="current_subscription">( 현재 가입)</string>
-    <string name="unavailable_subscription">( 스토리지 레벨에 의해 유용하지 않습니다. )</string>
-    <string name="request_pending_title">권한설정 지연</string>
-    <string name="request_pending_error_msg">버라이존 서버가 당신의 요청을 처리 할 수 없습니다. 5분후 재 시도해 주세요.</string>
-    <string name="browser_error_msg">브라우저를 오픈 할 수 없습니다.</string>
-    <string name="att_error_msg">활성화 하려면, att.com/mywireless 또는 611 전화 하세요</string>
-    <string name="att_error_msg_title">테더링 비활성화 계정</string>
-    <string name="att_error_msg_other">모바일 핫 스팟이 일시적인 네트워크 이슈로 가능하지 않습니다. 나중에 재 시도 하세요</string>
-    <string name="att_error_msg_other_title">네트워크 에러</string>
-    <string name="sprint_error_msg">데이터 네트워크에 연결 할 수 없습니다. 테더링이나 핫 스팟 서비스에 가입해야 합니다. 전화 회사 에 문의하시기 바랍니다.</string>
-    <string name="sprint_error_msg_title">테더링 이나 핫 스팟 에러</string>
-    <string name="sprint_notification_msg">자세한 내용를 확인하려면 터치 하세요</string>
-    <string name="term_and_conditions_title">이용 약관</string>
-    <string name="sbm_content_activity_title">계약</string>
-    <string name="consent_title">계약</string>
-    <string name="consent_message">"이 응용 프로그램을 사용하려면, 당신의 동의와 다음 정보를 제공 해야합니다. 정보를 확인하시고, 다음의 절차를 따르십시오
+  <string name="alert_dialog_failure_msg">나중에 다시 시도해 보세요.</string>
+  <string name="alert_dialog_failure_title">주문을 처리 할 수 ​​없습니다</string>
+  <string name="alert_dialog_later_button">나중에</string>
+  <string name="alert_dialog_positive_button">확인</string>
+  <string name="alert_dialog_upgrade_button">업그레이드</string>
+  <string name="app_name">가입</string>
+  <string name="att_error_msg">활성화 하려면, att.com/mywireless 또는 611 전화 하세요</string>
+  <string name="att_error_msg_other">모바일 핫 스팟이 일시적인 네트워크 이슈로 가능하지 않습니다. 나중에 재 시도 하세요</string>
+  <string name="att_error_msg_other_title">네트워크 에러</string>
+  <string name="att_error_msg_title">테더링 비활성화 계정</string>
+  <string name="browser_error_msg">브라우저를 오픈 할 수 없습니다.</string>
+  <string name="change_data_request_msg">권한설정 요청을 보내는중입니다. 잠시 기다려주십시오 .</string>
+  <string name="concent_agree_btn">동의함</string>
+  <string name="concent_disagree_btn">동의 안 함</string>
+  <string name="consent_message">"이 응용 프로그램을 사용하려면, 당신의 동의와 다음 정보를 제공 해야합니다. 정보를 확인하시고, 다음의 절차를 따르십시오
 [ 정보 보내기 ] 
 Contractor 고유 ID
 [ 사용 신청 ] 
 테더링 응용 프로그램 사용 주문서"</string>
-    <string name="consent_terms_btn">사용 허가 조건서</string>
-    <string name="concent_disagree_btn">동의 안 함</string>
-    <string name="concent_agree_btn">동의함</string>
-    <string name="sbm_error_msg_title">테더링 이나 핫 스팟 에러</string>
-    <string name="sbm_error_msg">데이터 네트워크 에 연결할 수 없습니다.</string>
-    <string name="sbm_error_msg_not_subscribed">"테더링 옵션의 가입 여부 확인이 실패 하였습니다. "</string>
-    <string name="sbm_error_msg_not_authenticated">인증 실패</string>
-    <string name="sbm_error_msg_no_response">인증 실패. 수신 감도가 좋은 위치에서 다시 시도 하세요</string>
+  <string name="consent_terms_btn">사용 허가 조건서</string>
+  <string name="consent_title">계약</string>
+  <string name="current_subscription">( 현재 가입)</string>
+  <string name="feature_check_msg">가입 상태를 확인하고 있습니다. 잠시 기다려주십시오...</string>
+  <string name="mobile_hotspot">모바일 핫스팟</string>
+  <string name="network_connection_error_msg">폰을 서버에 연결 할 수 없습니다. 나중에 재 시도 해주세요.</string>
+  <string name="network_connection_title">네트워크 접속 에러</string>
+  <string name="request_pending_error_msg">버라이존 서버가 당신의 요청을 처리 할 수 없습니다. 5분후 재 시도해 주세요.</string>
+  <string name="request_pending_title">권한설정 지연</string>
+  <string name="retv_terms_conditions_msg">가입 상태를 확인하고 있습니다. 잠시 기다려주십시오...</string>
+  <string name="sbm_content_activity_title">계약</string>
+  <string name="sbm_error_msg">데이터 네트워크 에 연결할 수 없습니다.</string>
+  <string name="sbm_error_msg_no_response">인증 실패. 수신 감도가 좋은 위치에서 다시 시도 하세요</string>
+  <string name="sbm_error_msg_not_authenticated">인증 실패</string>
+  <string name="sbm_error_msg_not_subscribed">"테더링 옵션의 가입 여부 확인이 실패 하였습니다. "</string>
+  <string name="sbm_error_msg_title">테더링 이나 핫 스팟 에러</string>
+  <string name="sprint_error_msg">데이터 네트워크에 연결 할 수 없습니다. 테더링이나 핫 스팟 서비스에 가입해야 합니다. 전화 회사 에 문의하시기 바랍니다.</string>
+  <string name="sprint_error_msg_title">테더링 이나 핫 스팟 에러</string>
+  <string name="sprint_notification_msg">자세한 내용를 확인하려면 터치 하세요</string>
+  <string name="term_and_conditions_title">이용 약관</string>
+  <string name="tmo_error_msg">현재 사용하시는 요금제는 폰에 연결된 다른 장치와 스마트폰 모바일 핫 스팟 서비스를 이용하여 데이터를 공유 할 수 없습니다. 스마트폰 모바일 핫 스팟 서비스 요금제에 가입을 원하면 온라인 https://my.t-mobile.com에서 가입 가능 합니다.</string>
+  <string name="tmo_error_msg_title">서비스 업그레이드 필요</string>
+  <string name="unavailable_subscription">( 스토리지 레벨에 의해 유용하지 않습니다. )</string>
+  <string name="vzw_error_msg">"모바일 핫스팟 / 모바일 광대역 연결 에 가입 하려면 아래 번호로 전화 하세요:
+ 소비자 : (800) 256-4646 ,
+ 기업 : (800) 899-4249 ."</string>
+  <string name="vzw_error_msg_title">주문을 처리 할 수 ​​없습니다</string>
+  <string name="vzw_self_provisioning_cancel">취소</string>
+  <string name="vzw_self_provisioning_learn_more">자세히 알아보기</string>
+  <string name="vzw_self_provisioning_msg">"모바일 핫스팟 을 사용하려면 모바일 핫스팟 서비스에 가입 해야합니다.
+가입 관련 더 많은 정보는 버라이존 을 방문하세요."</string>
 </resources>

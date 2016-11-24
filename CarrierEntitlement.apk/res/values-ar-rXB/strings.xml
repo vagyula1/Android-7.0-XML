@@ -1,101 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">‏‮Next‬‏</string>
-    <string name="suw_back_button_label">‏‮Back‬‏</string>
-    <string name="suw_more_button_label">‏‮More‬‏</string>
-    <string name="app_label">‏‮Carrier‬‏ ‏‮Setup‬‏</string>
-    <string name="entitlement_check_progress">‏‮Checking‬‏ ‏‮subscription‬‏ ‏‮status.‬‏ ‏‮Please‬‏ ‏‮wait.‬‏</string>
-    <string name="att_service_upgrade_msg">‏‮To‬‏ ‏‮enable,‬‏ ‏‮go‬‏ ‏‮to‬‏ ‏‮att.com/mywireless‬‏ ‏‮or‬‏ ‏‮dial‬‏ ‏‮611‬‏</string>
-    <string name="att_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="sprint_entitlement_error">‏‮Service‬‏ ‏‮not‬‏ ‏‮supported.‬‏ ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮service‬‏ ‏‮provider.‬‏</string>
-    <string name="sprint_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="vzw_service_upgrade_msg">‏‮To‬‏ ‏‮use‬‏ ‏‮Mobile‬‏ ‏‮Hotspot,‬‏ ‏‮please‬‏ ‏‮call‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮to‬‏ ‏‮subscribe.‬‏</string>
-    <string name="vzw_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="vzw_wfc_activation_error">‏‮Unable‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮WiFi‬‏ ‏‮calling.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="vzw_address_update_error">‏‮Unable‬‏ ‏‮to‬‏ ‏‮update‬‏ ‏‮the‬‏ ‏‮current‬‏ ‏‮emergency‬‏ ‏‮address‬‏ ‏‮at‬‏ ‏‮this‬‏ ‏‮time.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="generic_error">‏‮Authentication‬‏ ‏‮failed.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
-    <string name="vzw_setup_app_label">‏‮Verizon‬‏ ‏‮Account‬‏ ‏‮Activation‬‏</string>
-    <string name="vzw_activate_title">‏‮Phone‬‏ ‏‮activation‬‏</string>
-    <string name="vzw_activate_progress">‏‮Please‬‏ ‏‮wait‬‏ ‏‮while‬‏ ‏‮we‬‏ ‏‮prepare‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
-    <string name="vzw_activate_exiting">‏‮Exiting‬‏ ‏‮activation.‬‏</string>
-    <string name="vzw_verify_title">‏‮Verify‬‏ ‏‮your‬‏ ‏‮account‬‏</string>
-    <string name="vzw_verify_ssn">"‏‮To‬‏ ‏‮get‬‏ ‏‮started,‬‏ ‏‮enter‬‏ ‏‮the‬‏ ‏‮last‬‏ ‏‮4‬‏ ‏‮digits‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮account‬‏ ‏‮owner's‬‏ ‏‮Social‬‏ ‏‮Security‬‏ ‏‮number:‬‏"</string>
-    <string name="vzw_verify_pwd">"‏‮To‬‏ ‏‮get‬‏ ‏‮started,‬‏ ‏‮enter‬‏ ‏‮your‬‏ ‏‮account's‬‏ ‏‮billing‬‏ ‏‮password:‬‏"</string>
-    <string name="vzw_verify_button">‏‮Verify‬‏</string>
-    <string name="vzw_later_button">‏‮Later‬‏</string>
-    <string name="vzw_verify_switch_ssn">‏‮Use‬‏ ‏‮Social‬‏ ‏‮Security‬‏ ‏‮number‬‏ ‏‮instead‬‏</string>
-    <string name="vzw_verify_switch_pwd">‏‮Use‬‏ ‏‮billing‬‏ ‏‮password‬‏ ‏‮instead‬‏</string>
-    <string name="vzw_verify_progress_title">‏‮Verifying‬‏ ‏‮your‬‏ ‏‮account…‬‏</string>
-    <string name="vzw_activate_ready_title">‏‮Ready‬‏ ‏‮to‬‏ ‏‮activate?‬‏</string>
-    <string name="vzw_activate_ready_new">‏‮This‬‏ ‏‮may‬‏ ‏‮take‬‏ ‏‮a‬‏ ‏‮few‬‏ ‏‮minutes‬‏</string>
-    <string name="vzw_activate_ready_upgrade">"‏‮Before‬‏ ‏‮you‬‏ ‏‮activate‬‏ ‏‮this‬‏ ‏‮phone,‬‏ ‏‮back‬‏ ‏‮up‬‏ ‏‮your‬‏ ‏‮contacts‬‏ ‏‮and‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮your‬‏ ‏‮old‬‏ ‏‮phone.
+  <string name="app_label">‏‮Carrier‬‏ ‏‮Setup‬‏</string>
+  <string name="apt_suite_number">‏‮Apt,‬‏ ‏‮Suite,‬‏ ‏‮etc.‬‏</string>
+  <string name="att_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="att_service_upgrade_msg">‏‮To‬‏ ‏‮enable,‬‏ ‏‮go‬‏ ‏‮to‬‏ ‏‮att.com/mywireless‬‏ ‏‮or‬‏ ‏‮dial‬‏ ‏‮611‬‏</string>
+  <string name="cancel">‏‮Cancel‬‏</string>
+  <string name="city">‏‮City‬‏</string>
+  <string name="edit_address">‏‮Edit‬‏ ‏‮Address‬‏</string>
+  <string name="emergency_address_app_label">‏‮Emergency‬‏ ‏‮Address‬‏ ‏‮Management‬‏</string>
+  <string name="entitlement_check_progress">‏‮Checking‬‏ ‏‮subscription‬‏ ‏‮status.‬‏ ‏‮Please‬‏ ‏‮wait.‬‏</string>
+  <string name="generic_error">‏‮Authentication‬‏ ‏‮failed.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="house_number">‏‮Address‬‏ ‏‮Number‬‏</string>
+  <string name="ok">‏‮OK‬‏</string>
+  <string name="progress_text">‏‮Please‬‏ ‏‮wait…‬‏</string>
+  <string name="save">‏‮Save‬‏</string>
+  <string name="save_anyway">‏‮Save‬‏ ‏‮Anyway‬‏</string>
+  <string name="sprint_entitlement_error">‏‮Service‬‏ ‏‮not‬‏ ‏‮supported.‬‏ ‏‮Please‬‏ ‏‮contact‬‏ ‏‮your‬‏ ‏‮service‬‏ ‏‮provider.‬‏</string>
+  <string name="sprint_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="state">‏‮State‬‏</string>
+  <string name="street">‏‮Street‬‏</string>
+  <string name="suw_back_button_label">‏‮Back‬‏</string>
+  <string name="suw_more_button_label">‏‮More‬‏</string>
+  <string name="suw_next_button_label">‏‮Next‬‏</string>
+  <string name="vzw_activate_button">‏‮Activate‬‏</string>
+  <string name="vzw_activate_continue">‏‮Continue‬‏</string>
+  <string name="vzw_activate_error_lookup">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone. Contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204.‬‏"</string>
+  <string name="vzw_activate_error_lost_stolen">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone.‬‏ ‏‮Please‬‏ ‏‮call‬‏ ‏‮(877)‬‏ ‏‮807-4646‬‏ ‏‮from‬‏ ‏‮another‬‏ ‏‮phone‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮4G‬‏ ‏‮LTE‬‏ ‏‮service‬‏ ‏‮and‬‏ ‏‮then‬‏ ‏‮try‬‏ ‏‮again.‬‏"</string>
+  <string name="vzw_activate_error_network">‏‮Make‬‏ ‏‮sure‬‏ ‏‮you‬‏ ‏‮have‬‏ ‏‮a‬‏ ‏‮good‬‏ ‏‮signal‬‏ ‏‮(multiple‬‏ ‏‮bars)‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏ ‏‮If‬‏ ‏‮this‬‏ ‏‮problem‬‏ ‏‮persists,‬‏ ‏‮please‬‏ ‏‮contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204‬‏ ‏‮for‬‏ ‏‮assistance.‬‏</string>
+  <string name="vzw_activate_error_not_retryable">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone.‬‏ ‏‮Contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204.‬‏"</string>
+  <string name="vzw_activate_error_pwd">‏‮Billing‬‏ ‏‮password‬‏ ‏‮does‬‏ ‏‮not‬‏ ‏‮match.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
+  <string name="vzw_activate_error_release">‏‮To‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮call‬‏ ‏‮(800)‬‏ ‏‮922-0204‬‏ ‏‮from‬‏ ‏‮another‬‏ ‏‮phone.‬‏</string>
+  <string name="vzw_activate_error_restricted">‏‮To‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮follow‬‏ ‏‮the‬‏ ‏‮instructions‬‏ ‏‮included‬‏ ‏‮with‬‏ ‏‮your‬‏ ‏‮new‬‏ ‏‮phone‬‏ ‏‮or‬‏ ‏‮contact‬‏ ‏‮the‬‏ ‏‮Verizon‬‏ ‏‮Wireless‬‏ ‏‮administrator‬‏ ‏‮at‬‏ ‏‮your‬‏ ‏‮organization.‬‏</string>
+  <string name="vzw_activate_error_restricted_title">‏‮How‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
+  <string name="vzw_activate_error_ssn">‏‮Social‬‏ ‏‮Security‬‏ ‏‮number‬‏ ‏‮does‬‏ ‏‮not‬‏ ‏‮match.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
+  <string name="vzw_activate_error_title">"‏‮Can't‬‏ ‏‮activate‬‏"</string>
+  <string name="vzw_activate_exiting">‏‮Exiting‬‏ ‏‮activation.‬‏</string>
+  <string name="vzw_activate_notification">‏‮Tap‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
+  <string name="vzw_activate_notification_title">‏‮Ready‬‏ ‏‮to‬‏ ‏‮activate‬‏</string>
+  <string name="vzw_activate_progress">‏‮Please‬‏ ‏‮wait‬‏ ‏‮while‬‏ ‏‮we‬‏ ‏‮prepare‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
+  <string name="vzw_activate_ready_new">‏‮This‬‏ ‏‮may‬‏ ‏‮take‬‏ ‏‮a‬‏ ‏‮few‬‏ ‏‮minutes‬‏</string>
+  <string name="vzw_activate_ready_title">‏‮Ready‬‏ ‏‮to‬‏ ‏‮activate?‬‏</string>
+  <string name="vzw_activate_ready_upgrade">"‏‮Before‬‏ ‏‮you‬‏ ‏‮activate‬‏ ‏‮this‬‏ ‏‮phone,‬‏ ‏‮back‬‏ ‏‮up‬‏ ‏‮your‬‏ ‏‮contacts‬‏ ‏‮and‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮your‬‏ ‏‮old‬‏ ‏‮phone.
 
 Once‬‏ ‏‮you‬‏ ‏‮start‬‏ ‏‮activation,‬‏ ‏‮we'll‬‏ ‏‮transfer‬‏ ‏‮your‬‏ ‏‮number‬‏ ‏‮to‬‏ ‏‮this‬‏ ‏‮phone‬‏ ‏‮and‬‏ ‏‮deactivate‬‏ ‏‮your‬‏ ‏‮old‬‏ ‏‮phone.‬‏"</string>
-    <string name="vzw_activate_button">‏‮Activate‬‏</string>
-    <string name="vzw_activating_new_title">‏‮Getting‬‏ ‏‮phone‬‏ ‏‮number…‬‏</string>
-    <string name="vzw_activating_upgrade_title">‏‮Transferring‬‏ ‏‮phone‬‏ ‏‮number…‬‏</string>
-    <string name="vzw_activating_upgrade">‏‮To‬‏ ‏‮transfer‬‏ ‏‮your‬‏ ‏‮number‬‏ ‏‮to‬‏ ‏‮your‬‏ ‏‮new‬‏ ‏‮phone,‬‏ ‏‮your‬‏ ‏‮old‬‏ ‏‮phone‬‏ ‏‮needs‬‏ ‏‮to‬‏ ‏‮be‬‏ ‏‮turned‬‏ ‏‮off.‬‏</string>
-    <string name="vzw_activate_success_title">‏‮Phone‬‏ ‏‮activated‬‏</string>
-    <string name="vzw_activate_success">‏‮Your‬‏ ‏‮Verizon‬‏ ‏‮phone‬‏ ‏‮is‬‏ ‏‮now‬‏ ‏‮active.‬‏ ‏‮Your‬‏ ‏‮number‬‏ ‏‮is‬‏ %1$s</string>
-    <string name="vzw_data_limit_title">‏‮Data‬‏ ‏‮usage‬‏ ‏‮limited‬‏</string>
-    <string name="vzw_data_limit">‏‮Your‬‏ ‏‮data‬‏ ‏‮usage‬‏ ‏‮is‬‏ ‏‮currently‬‏ ‏‮limited‬‏ ‏‮due‬‏ ‏‮to‬‏ ‏‮time‬‏ ‏‮of‬‏ ‏‮day‬‏ ‏‮or‬‏ ‏‮a‬‏ ‏‮data‬‏ ‏‮limit.‬‏ ‏‮You‬‏ ‏‮will‬‏ ‏‮need‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮Wi-Fi‬‏ ‏‮to‬‏ ‏‮continue‬‏ ‏‮setting‬‏ ‏‮up‬‏ ‏‮your‬‏ ‏‮device.‬‏</string>
-    <string name="vzw_data_restricted_title">‏‮Data‬‏ ‏‮usage‬‏ ‏‮limited‬‏</string>
-    <string name="vzw_data_restricted">‏‮Due‬‏ ‏‮to‬‏ ‏‮time‬‏ ‏‮of‬‏ ‏‮day‬‏ ‏‮or‬‏ ‏‮a‬‏ ‏‮data‬‏ ‏‮limit‬‏</string>
-    <string name="vzw_data_redirected_title">‏‮Get‬‏ ‏‮Verizon‬‏ ‏‮service‬‏</string>
-    <string name="vzw_data_redirected">"‏‮You‬‏ ‏‮don't‬‏ ‏‮have‬‏ ‏‮a‬‏ ‏‮Verizon‬‏ ‏‮Wireless‬‏ ‏‮plan‬‏ ‏‮or‬‏ ‏‮you've‬‏ ‏‮used‬‏ ‏‮all‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮plan‬‏ ‏‮allowance,‬‏ ‏‮please‬‏ ‏‮contact‬‏ ‏‮Verizon‬‏"</string>
-    <string name="vzw_activate_notification_title">‏‮Ready‬‏ ‏‮to‬‏ ‏‮activate‬‏</string>
-    <string name="vzw_activate_notification">‏‮Tap‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
-    <string name="vzw_cold_notification">‏‮Contact‬‏ ‏‮Verizon‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
-    <string name="vzw_activate_error_title">"‏‮Can't‬‏ ‏‮activate‬‏"</string>
-    <string name="vzw_activate_error_network">‏‮Make‬‏ ‏‮sure‬‏ ‏‮you‬‏ ‏‮have‬‏ ‏‮a‬‏ ‏‮good‬‏ ‏‮signal‬‏ ‏‮(multiple‬‏ ‏‮bars)‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏ ‏‮If‬‏ ‏‮this‬‏ ‏‮problem‬‏ ‏‮persists,‬‏ ‏‮please‬‏ ‏‮contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204‬‏ ‏‮for‬‏ ‏‮assistance.‬‏</string>
-    <string name="vzw_activate_error_lookup">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone. Contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204.‬‏"</string>
-    <string name="vzw_activate_error_ssn">‏‮Social‬‏ ‏‮Security‬‏ ‏‮number‬‏ ‏‮does‬‏ ‏‮not‬‏ ‏‮match.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
-    <string name="vzw_activate_error_pwd">‏‮Billing‬‏ ‏‮password‬‏ ‏‮does‬‏ ‏‮not‬‏ ‏‮match.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
-    <string name="vzw_activate_error_not_retryable">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone.‬‏ ‏‮Contact‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮at‬‏ ‏‮(800)‬‏ ‏‮922-0204.‬‏"</string>
-    <string name="vzw_activate_error_release">‏‮To‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮call‬‏ ‏‮(800)‬‏ ‏‮922-0204‬‏ ‏‮from‬‏ ‏‮another‬‏ ‏‮phone.‬‏</string>
-    <string name="vzw_activate_error_restricted_title">‏‮How‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone‬‏</string>
-    <string name="vzw_activate_error_restricted">‏‮To‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮follow‬‏ ‏‮the‬‏ ‏‮instructions‬‏ ‏‮included‬‏ ‏‮with‬‏ ‏‮your‬‏ ‏‮new‬‏ ‏‮phone‬‏ ‏‮or‬‏ ‏‮contact‬‏ ‏‮the‬‏ ‏‮Verizon‬‏ ‏‮Wireless‬‏ ‏‮administrator‬‏ ‏‮at‬‏ ‏‮your‬‏ ‏‮organization.‬‏</string>
-    <string name="vzw_activate_error_lost_stolen">"‏‮Sorry,‬‏ ‏‮we're‬‏ ‏‮having‬‏ ‏‮trouble‬‏ ‏‮activating‬‏ ‏‮your‬‏ ‏‮phone.‬‏ ‏‮Please‬‏ ‏‮call‬‏ ‏‮(877)‬‏ ‏‮807-4646‬‏ ‏‮from‬‏ ‏‮another‬‏ ‏‮phone‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮4G‬‏ ‏‮LTE‬‏ ‏‮service‬‏ ‏‮and‬‏ ‏‮then‬‏ ‏‮try‬‏ ‏‮again.‬‏"</string>
-    <string name="vzw_activate_continue">‏‮Continue‬‏</string>
-    <string name="vzw_activate_retry">‏‮Retry‬‏</string>
-    <string name="vzw_activate_skip">‏‮Skip‬‏</string>
-    <string name="emergency_address_app_label">‏‮Emergency‬‏ ‏‮Address‬‏ ‏‮Management‬‏</string>
-    <string name="progress_text">‏‮Please‬‏ ‏‮wait…‬‏</string>
-    <string name="vzw_tos_title">‏‮Activate‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling‬‏</string>
-    <string name="cancel">‏‮Cancel‬‏</string>
-    <string name="vzw_tos_text">"‏‮Wi-Fi‬‏ ‏‮Calling‬‏ ‏‮lets‬‏ ‏‮you‬‏ ‏‮to‬‏ ‏‮make‬‏ ‏‮calls‬‏ ‏‮using‬‏ ‏‮Wi-Fi‬‏ ‏‮when‬‏ ‏‮the‬‏ ‏‮mobile‬‏ ‏‮network‬‏ ‏‮is‬‏ ‏‮not‬‏ ‏‮available.
+  <string name="vzw_activate_retry">‏‮Retry‬‏</string>
+  <string name="vzw_activate_skip">‏‮Skip‬‏</string>
+  <string name="vzw_activate_success">‏‮Your‬‏ ‏‮Verizon‬‏ ‏‮phone‬‏ ‏‮is‬‏ ‏‮now‬‏ ‏‮active.‬‏ ‏‮Your‬‏ ‏‮number‬‏ ‏‮is‬‏ %1$s</string>
+  <string name="vzw_activate_success_title">‏‮Phone‬‏ ‏‮activated‬‏</string>
+  <string name="vzw_activate_title">‏‮Phone‬‏ ‏‮activation‬‏</string>
+  <string name="vzw_activating_new_title">‏‮Getting‬‏ ‏‮phone‬‏ ‏‮number…‬‏</string>
+  <string name="vzw_activating_upgrade">‏‮To‬‏ ‏‮transfer‬‏ ‏‮your‬‏ ‏‮number‬‏ ‏‮to‬‏ ‏‮your‬‏ ‏‮new‬‏ ‏‮phone,‬‏ ‏‮your‬‏ ‏‮old‬‏ ‏‮phone‬‏ ‏‮needs‬‏ ‏‮to‬‏ ‏‮be‬‏ ‏‮turned‬‏ ‏‮off.‬‏</string>
+  <string name="vzw_activating_upgrade_title">‏‮Transferring‬‏ ‏‮phone‬‏ ‏‮number…‬‏</string>
+  <string name="vzw_address_alternate_text">‏‮Did‬‏ ‏‮you‬‏ ‏‮mean:‬‏</string>
+  <string name="vzw_address_confirm_text">"‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮because‬‏ ‏‮the‬‏ ‏‮street‬‏ ‏‮address‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮found,‬‏ ‏‮or‬‏ ‏‮the‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.
+
+If‬‏ ‏‮your‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮are‬‏ ‏‮not‬‏ ‏‮correct‬‏ ‏‮tap‬‏ %1$s‏‮,‬‏ ‏‮otherwise‬‏ ‏‮tap‬‏ %2$s‏‮.‬‏"</string>
+  <string name="vzw_address_confirm_text_part1">‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮because‬‏ ‏‮the‬‏ ‏‮street‬‏ ‏‮address‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮found,‬‏ ‏‮or‬‏ ‏‮the‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.‬‏</string>
+  <string name="vzw_address_confirm_text_part2">‏‮If‬‏ ‏‮your‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮are‬‏ ‏‮not‬‏ ‏‮correct‬‏ ‏‮tap‬‏ %1$s‏‮,‬‏ ‏‮otherwise‬‏ ‏‮tap‬‏ %2$s‏‮.‬‏</string>
+  <string name="vzw_address_select_text">‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered:‬‏</string>
+  <string name="vzw_address_update_error">‏‮Unable‬‏ ‏‮to‬‏ ‏‮update‬‏ ‏‮the‬‏ ‏‮current‬‏ ‏‮emergency‬‏ ‏‮address‬‏ ‏‮at‬‏ ‏‮this‬‏ ‏‮time.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="vzw_cold_notification">‏‮Contact‬‏ ‏‮Verizon‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
+  <string name="vzw_data_limit">‏‮Your‬‏ ‏‮data‬‏ ‏‮usage‬‏ ‏‮is‬‏ ‏‮currently‬‏ ‏‮limited‬‏ ‏‮due‬‏ ‏‮to‬‏ ‏‮time‬‏ ‏‮of‬‏ ‏‮day‬‏ ‏‮or‬‏ ‏‮a‬‏ ‏‮data‬‏ ‏‮limit.‬‏ ‏‮You‬‏ ‏‮will‬‏ ‏‮need‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮Wi-Fi‬‏ ‏‮to‬‏ ‏‮continue‬‏ ‏‮setting‬‏ ‏‮up‬‏ ‏‮your‬‏ ‏‮device.‬‏</string>
+  <string name="vzw_data_limit_title">‏‮Data‬‏ ‏‮usage‬‏ ‏‮limited‬‏</string>
+  <string name="vzw_data_redirected">"‏‮You‬‏ ‏‮don't‬‏ ‏‮have‬‏ ‏‮a‬‏ ‏‮Verizon‬‏ ‏‮Wireless‬‏ ‏‮plan‬‏ ‏‮or‬‏ ‏‮you've‬‏ ‏‮used‬‏ ‏‮all‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮plan‬‏ ‏‮allowance,‬‏ ‏‮please‬‏ ‏‮contact‬‏ ‏‮Verizon‬‏"</string>
+  <string name="vzw_data_redirected_title">‏‮Get‬‏ ‏‮Verizon‬‏ ‏‮service‬‏</string>
+  <string name="vzw_data_restricted">‏‮Due‬‏ ‏‮to‬‏ ‏‮time‬‏ ‏‮of‬‏ ‏‮day‬‏ ‏‮or‬‏ ‏‮a‬‏ ‏‮data‬‏ ‏‮limit‬‏</string>
+  <string name="vzw_data_restricted_title">‏‮Data‬‏ ‏‮usage‬‏ ‏‮limited‬‏</string>
+  <string name="vzw_e911_description">&lt;b&gt;&amp;#8207;&amp;#8238;IMPORTANT&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;-&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;EMERGENCY&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;ADDRESS&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;REQUIRED&amp;#8236;&amp;#8207;&lt;/b&gt;"&amp;#8207;&amp;#8238;
+To&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;turn&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;on&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Wi-Fi&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Calling,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;enter&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;U.S.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;address&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;where&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;you&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;want&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;emergency&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;services&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;sent&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;if&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;you&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;call&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;You&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;can&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;go&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;to&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Settings&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;and&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;change&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;this&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;address&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;at&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;any&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;time.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;It&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;is&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;very&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;important&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;to&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;update&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;this&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;address&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;whenever&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;you&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;change&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;your&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;location.&amp;#8236;&amp;#8207;"</string>
+  <string name="vzw_e911_title">‏‮Emergency‬‏ ‏‮Location‬‏ ‏‮Information‬‏</string>
+  <string name="vzw_e911_warning">&lt;b&gt;&amp;#8207;&amp;#8238;WARNINGS&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;-&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;EMERGENCY&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;CALL&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;LIMITATIONS&amp;#8236;&amp;#8207;&lt;/b&gt;"&amp;#8207;&amp;#8238;
+When&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;calling&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;always&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;tell&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;operator&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;where&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;you&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;are.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Your&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;call&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;will&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;go&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;over&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Wi-Fi&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;only&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;if&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;cellular&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;network&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;is&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;unavailable.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;call&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;made&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;over&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Wi-Fi&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;may&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;be&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;delayed&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;or&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;unsuccessful;&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;for&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;example,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;if&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;911&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;system&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;doesn't&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;recognize&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;address,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;electrical&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;power&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;is&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;out,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;or&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;your&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Wi-Fi&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;connection&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;isn't&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;working.&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;Emergency&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;services&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;will&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;be&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;sent&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;to&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;the&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;address&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;your&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;provided&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;above,&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;so&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;please&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;update&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;it&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;as&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;you&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;change&amp;#8236;&amp;#8207; &amp;#8207;&amp;#8238;locations.&amp;#8236;&amp;#8207;"</string>
+  <string name="vzw_later_button">‏‮Later‬‏</string>
+  <string name="vzw_network_error">‏‮Network‬‏ ‏‮unavailable.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="vzw_partial_confirm_head">‏‮The‬‏ ‏‮address‬‏ ‏‮entered‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮validated‬‏ ‏‮by‬‏ ‏‮Emergency‬‏ ‏‮Service‬‏ ‏‮Providers.‬‏</string>
+  <string name="vzw_partial_confirm_text">‏‮Are‬‏ ‏‮you‬‏ ‏‮sure‬‏ ‏‮you‬‏ ‏‮want‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮this‬‏ ‏‮address‬‏ ‏‮in‬‏ ‏‮case‬‏ ‏‮of‬‏ ‏‮an‬‏ ‏‮emergency?‬‏</string>
+  <string name="vzw_partial_failure_text">"‏‮The‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮or‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.
+
+Please‬‏ ‏‮check‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏"</string>
+  <string name="vzw_partial_failure_text_part1">‏‮The‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮or‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.‬‏</string>
+  <string name="vzw_partial_failure_text_part2">‏‮Please‬‏ ‏‮check‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
+  <string name="vzw_service_upgrade_msg">‏‮To‬‏ ‏‮use‬‏ ‏‮Mobile‬‏ ‏‮Hotspot,‬‏ ‏‮please‬‏ ‏‮call‬‏ ‏‮customer‬‏ ‏‮service‬‏ ‏‮to‬‏ ‏‮subscribe.‬‏</string>
+  <string name="vzw_setup_app_label">‏‮Verizon‬‏ ‏‮Account‬‏ ‏‮Activation‬‏</string>
+  <string name="vzw_tos_link">‏‮Terms‬‏ ‏‮and‬‏ ‏‮Conditions‬‏</string>
+  <string name="vzw_tos_text">"‏‮Wi-Fi‬‏ ‏‮Calling‬‏ ‏‮lets‬‏ ‏‮you‬‏ ‏‮to‬‏ ‏‮make‬‏ ‏‮calls‬‏ ‏‮using‬‏ ‏‮Wi-Fi‬‏ ‏‮when‬‏ ‏‮the‬‏ ‏‮mobile‬‏ ‏‮network‬‏ ‏‮is‬‏ ‏‮not‬‏ ‏‮available.
 
 To‬‏ ‏‮set‬‏ ‏‮up‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling,‬‏ ‏‮you‬‏ ‏‮will‬‏ ‏‮need‬‏ ‏‮to‬‏ ‏‮enter‬‏ ‏‮a‬‏ ‏‮US‬‏ ‏‮address.‬‏ ‏‮This‬‏ ‏‮address‬‏ ‏‮will‬‏ ‏‮be‬‏ ‏‮used‬‏ ‏‮by‬‏ ‏‮emergency‬‏ ‏‮services‬‏ ‏‮in‬‏ ‏‮your‬‏ ‏‮location‬‏ ‏‮if‬‏ ‏‮you‬‏ ‏‮make‬‏ ‏‮an‬‏ ‏‮emergency‬‏ ‏‮(E911)‬‏ ‏‮call‬‏ ‏‮over‬‏ ‏‮Wi-Fi‬‏ ‏‮from‬‏ ‏‮this‬‏ ‏‮phone‬‏ ‏‮within‬‏ ‏‮the‬‏ ‏‮US.
 
 We‬‏ ‏‮recommend‬‏ ‏‮you‬‏ ‏‮change‬‏ ‏‮this‬‏ ‏‮address‬‏ ‏‮when‬‏ ‏‮you‬‏ ‏‮make‬‏ ‏‮calls‬‏ ‏‮using‬‏ ‏‮a‬‏ ‏‮different‬‏ ‏‮Wi-Fi‬‏ ‏‮network‬‏ ‏‮so‬‏ ‏‮your‬‏ ‏‮location‬‏ ‏‮information‬‏ ‏‮is‬‏ ‏‮accurate.‬‏ ‏‮You‬‏ ‏‮can‬‏ ‏‮change‬‏ ‏‮your‬‏ ‏‮location‬‏ ‏‮any‬‏ ‏‮time‬‏ ‏‮by‬‏ ‏‮going‬‏ ‏‮to‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling‬‏ ‏‮settings‬‏ ‏‮menu.‬‏"</string>
-    <string name="vzw_tos_link">‏‮Terms‬‏ ‏‮and‬‏ ‏‮Conditions‬‏</string>
-    <string name="vzw_e911_title">‏‮Emergency‬‏ ‏‮Location‬‏ ‏‮Information‬‏</string>
-    <string name="vzw_e911_description"><b>‏‮IMPORTANT‬‏ ‏‮-‬‏ ‏‮EMERGENCY‬‏ ‏‮911‬‏ ‏‮ADDRESS‬‏ ‏‮REQUIRED‬‏</b>"‏‮
-To‬‏ ‏‮turn‬‏ ‏‮on‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling,‬‏ ‏‮enter‬‏ ‏‮the‬‏ ‏‮U.S.‬‏ ‏‮address‬‏ ‏‮where‬‏ ‏‮you‬‏ ‏‮want‬‏ ‏‮emergency‬‏ ‏‮services‬‏ ‏‮sent‬‏ ‏‮if‬‏ ‏‮you‬‏ ‏‮call‬‏ ‏‮911.‬‏ ‏‮You‬‏ ‏‮can‬‏ ‏‮go‬‏ ‏‮to‬‏ ‏‮Settings‬‏ ‏‮and‬‏ ‏‮change‬‏ ‏‮this‬‏ ‏‮address‬‏ ‏‮at‬‏ ‏‮any‬‏ ‏‮time.‬‏ ‏‮It‬‏ ‏‮is‬‏ ‏‮very‬‏ ‏‮important‬‏ ‏‮to‬‏ ‏‮update‬‏ ‏‮this‬‏ ‏‮address‬‏ ‏‮whenever‬‏ ‏‮you‬‏ ‏‮change‬‏ ‏‮your‬‏ ‏‮location.‬‏"</string>
-    <string name="vzw_e911_warning"><b>‏‮WARNINGS‬‏ ‏‮-‬‏ ‏‮EMERGENCY‬‏ ‏‮911‬‏ ‏‮CALL‬‏ ‏‮LIMITATIONS‬‏</b>"‏‮
-When‬‏ ‏‮calling‬‏ ‏‮911,‬‏ ‏‮always‬‏ ‏‮tell‬‏ ‏‮the‬‏ ‏‮operator‬‏ ‏‮where‬‏ ‏‮you‬‏ ‏‮are.‬‏ ‏‮Your‬‏ ‏‮911‬‏ ‏‮call‬‏ ‏‮will‬‏ ‏‮go‬‏ ‏‮over‬‏ ‏‮Wi-Fi‬‏ ‏‮only‬‏ ‏‮if‬‏ ‏‮the‬‏ ‏‮cellular‬‏ ‏‮network‬‏ ‏‮is‬‏ ‏‮unavailable.‬‏ ‏‮911‬‏ ‏‮call‬‏ ‏‮made‬‏ ‏‮over‬‏ ‏‮Wi-Fi‬‏ ‏‮may‬‏ ‏‮be‬‏ ‏‮delayed‬‏ ‏‮or‬‏ ‏‮unsuccessful;‬‏ ‏‮for‬‏ ‏‮example,‬‏ ‏‮if‬‏ ‏‮the‬‏ ‏‮911‬‏ ‏‮system‬‏ ‏‮doesn't‬‏ ‏‮recognize‬‏ ‏‮the‬‏ ‏‮address,‬‏ ‏‮electrical‬‏ ‏‮power‬‏ ‏‮is‬‏ ‏‮out,‬‏ ‏‮or‬‏ ‏‮your‬‏ ‏‮Wi-Fi‬‏ ‏‮connection‬‏ ‏‮isn't‬‏ ‏‮working.‬‏ ‏‮Emergency‬‏ ‏‮services‬‏ ‏‮will‬‏ ‏‮be‬‏ ‏‮sent‬‏ ‏‮to‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮your‬‏ ‏‮provided‬‏ ‏‮above,‬‏ ‏‮so‬‏ ‏‮please‬‏ ‏‮update‬‏ ‏‮it‬‏ ‏‮as‬‏ ‏‮you‬‏ ‏‮change‬‏ ‏‮locations.‬‏"</string>
-    <string name="house_number">‏‮Address‬‏ ‏‮Number‬‏</string>
-    <string name="street">‏‮Street‬‏</string>
-    <string name="apt_suite_number">‏‮Apt,‬‏ ‏‮Suite,‬‏ ‏‮etc.‬‏</string>
-    <string name="city">‏‮City‬‏</string>
-    <string name="state">‏‮State‬‏</string>
-    <string name="zip_code">‏‮Zip‬‏ ‏‮code‬‏</string>
-    <string name="save">‏‮Save‬‏</string>
-    <string name="vzw_address_confirm_text">"‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮because‬‏ ‏‮the‬‏ ‏‮street‬‏ ‏‮address‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮found,‬‏ ‏‮or‬‏ ‏‮the‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.
-
-If‬‏ ‏‮your‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮are‬‏ ‏‮not‬‏ ‏‮correct‬‏ ‏‮tap‬‏ %1$s‏‮,‬‏ ‏‮otherwise‬‏ ‏‮tap‬‏ %2$s‏‮.‬‏"</string>
-    <string name="vzw_address_confirm_text_part1">‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮because‬‏ ‏‮the‬‏ ‏‮street‬‏ ‏‮address‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮found,‬‏ ‏‮or‬‏ ‏‮the‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.‬‏</string>
-    <string name="vzw_address_confirm_text_part2">‏‮If‬‏ ‏‮your‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮and‬‏ ‏‮zip‬‏ ‏‮are‬‏ ‏‮not‬‏ ‏‮correct‬‏ ‏‮tap‬‏ %1$s‏‮,‬‏ ‏‮otherwise‬‏ ‏‮tap‬‏ %2$s‏‮.‬‏</string>
-    <string name="save_anyway">‏‮Save‬‏ ‏‮Anyway‬‏</string>
-    <string name="edit_address">‏‮Edit‬‏ ‏‮Address‬‏</string>
-    <string name="ok">‏‮OK‬‏</string>
-    <string name="vzw_address_select_text">‏‮We‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮find‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered:‬‏</string>
-    <string name="vzw_address_alternate_text">‏‮Did‬‏ ‏‮you‬‏ ‏‮mean:‬‏</string>
-    <string name="vzw_partial_confirm_head">‏‮The‬‏ ‏‮address‬‏ ‏‮entered‬‏ ‏‮could‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮validated‬‏ ‏‮by‬‏ ‏‮Emergency‬‏ ‏‮Service‬‏ ‏‮Providers.‬‏</string>
-    <string name="vzw_partial_confirm_text">‏‮Are‬‏ ‏‮you‬‏ ‏‮sure‬‏ ‏‮you‬‏ ‏‮want‬‏ ‏‮to‬‏ ‏‮use‬‏ ‏‮this‬‏ ‏‮address‬‏ ‏‮in‬‏ ‏‮case‬‏ ‏‮of‬‏ ‏‮an‬‏ ‏‮emergency?‬‏</string>
-    <string name="vzw_partial_failure_text">"‏‮The‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮or‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.
-
-Please‬‏ ‏‮check‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏"</string>
-    <string name="vzw_partial_failure_text_part1">‏‮The‬‏ ‏‮city,‬‏ ‏‮state,‬‏ ‏‮or‬‏ ‏‮zip‬‏ ‏‮code‬‏ ‏‮that‬‏ ‏‮you‬‏ ‏‮entered‬‏ ‏‮may‬‏ ‏‮not‬‏ ‏‮be‬‏ ‏‮correct.‬‏</string>
-    <string name="vzw_partial_failure_text_part2">‏‮Please‬‏ ‏‮check‬‏ ‏‮the‬‏ ‏‮address‬‏ ‏‮and‬‏ ‏‮try‬‏ ‏‮again.‬‏</string>
+  <string name="vzw_tos_title">‏‮Activate‬‏ ‏‮Wi-Fi‬‏ ‏‮Calling‬‏</string>
+  <string name="vzw_verify_button">‏‮Verify‬‏</string>
+  <string name="vzw_verify_progress_title">‏‮Verifying‬‏ ‏‮your‬‏ ‏‮account…‬‏</string>
+  <string name="vzw_verify_pwd">"‏‮To‬‏ ‏‮get‬‏ ‏‮started,‬‏ ‏‮enter‬‏ ‏‮your‬‏ ‏‮account's‬‏ ‏‮billing‬‏ ‏‮password:‬‏"</string>
+  <string name="vzw_verify_ssn">"‏‮To‬‏ ‏‮get‬‏ ‏‮started,‬‏ ‏‮enter‬‏ ‏‮the‬‏ ‏‮last‬‏ ‏‮4‬‏ ‏‮digits‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮account‬‏ ‏‮owner's‬‏ ‏‮Social‬‏ ‏‮Security‬‏ ‏‮number:‬‏"</string>
+  <string name="vzw_verify_switch_pwd">‏‮Use‬‏ ‏‮billing‬‏ ‏‮password‬‏ ‏‮instead‬‏</string>
+  <string name="vzw_verify_switch_ssn">‏‮Use‬‏ ‏‮Social‬‏ ‏‮Security‬‏ ‏‮number‬‏ ‏‮instead‬‏</string>
+  <string name="vzw_verify_title">‏‮Verify‬‏ ‏‮your‬‏ ‏‮account‬‏</string>
+  <string name="vzw_wfc_activation_error">‏‮Unable‬‏ ‏‮to‬‏ ‏‮activate‬‏ ‏‮WiFi‬‏ ‏‮calling.‬‏ ‏‮Please‬‏ ‏‮try‬‏ ‏‮again‬‏ ‏‮later.‬‏</string>
+  <string name="zip_code">‏‮Zip‬‏ ‏‮code‬‏</string>
 </resources>

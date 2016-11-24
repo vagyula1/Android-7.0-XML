@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Upravičenost</string>
-    <string name="feature_check_msg">Preverjam stanje naročnine. Prosimo, počakajte...</string>
-    <string name="vzw_self_provisioning_msg">"Za uporabo Mobile Hotspot se morate prijaviti na storitev Mobile Hotspot.
-Če želite izvedeti več in se prijaviti na Mobile Hotspot, obiščite Moj Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Prekliči</string>
-    <string name="vzw_self_provisioning_learn_more">Več o tem</string>
-    <string name="vzw_error_msg_title">Vašega naročila ni bilo mogoče obdelati</string>
-    <string name="vzw_error_msg">"Če se želite naročiti na Mobile Hotspot/mobilno širokopasovno povezavo, pokličite:
- Posamezniki: (800) 256-4646,
- Podjetja: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Zahtevana je nadgradnja storitve</string>
-    <string name="tmo_error_msg">Vaš trenutni načrt ne vključuje storitve Mobile Hotspot za pametni telefon, ki omogoča skupno rabo podatkovne povezave vašega telefona z drugimi napravami. Ali želite dodati storitev Mobile Hotspot za pametni telefon v svoj načrt? Dodajanje lahko izvedete tudi prek spleta na naslovu https://my.t-mobile.com pod Upravljanje > Načrti in storitve. &lt;</string>
-    <string name="retv_terms_conditions_msg">Preverjam stanje naročnine. Prosimo, počakajte...</string>
-    <string name="change_data_request_msg">Pošiljam zahtevo za omogočenje uporabe. Prosimo, počakajte...</string>
-    <string name="alert_dialog_failure_title">Vašega naročila ni bilo mogoče obdelati</string>
-    <string name="alert_dialog_failure_msg">Poskusite znova pozneje.</string>
-    <string name="network_connection_title">Napaka pri povezovanju v omrežje</string>
-    <string name="network_connection_error_msg">Vaš telefon se trenutno ne more povezati s strežnikom %s. Prosimo, poskusite znova kasneje.</string>
-    <string name="mobile_hotspot">Mobilna vroča točka</string>
-    <string name="alert_dialog_positive_button">Ok</string>
-    <string name="alert_dialog_upgrade_button">Nadgradi</string>
-    <string name="alert_dialog_later_button">Pozneje</string>
-    <string name="current_subscription">(trenutna naročnina)</string>
-    <string name="unavailable_subscription">(ni na voljo na osnovi nivoja prostora za shranjevanje)</string>
-    <string name="request_pending_title">Omogočitev uporabe na čakanju</string>
-    <string name="request_pending_error_msg">Strežnik družbe Verizon obdeluje vašo zahtevo. Prosimo, poskusite znova v 5 minutah.</string>
-    <string name="browser_error_msg">Ne morem odpreti brskalnika.</string>
-    <string name="att_error_msg">Za omogočitev obiščite att.com/mywireless ali pokličite številko 611</string>
-    <string name="att_error_msg_title">Račun ni nastavljen za storitev skupne rabe mobilnega interneta</string>
-    <string name="att_error_msg_other">Prišlo je do začasne omrežne težave, ki preprečuje omogočitev funkcije mobilne dostopne točke. Prosimo, poskusite ponovno pozneje</string>
-    <string name="att_error_msg_other_title">Napaka v omrežju</string>
-    <string name="sprint_error_msg">Povezava na podatkovno omrežje ni uspela; Morda niste naročeni na storitev skupne rabe ali dostopne točke; Kontaktirajte vašo telefonsko družbo.</string>
-    <string name="sprint_error_msg_title">Napaka skupne rabe ali dostopne točke</string>
-    <string name="sprint_notification_msg">Pritisnite za ogled dodatnih podatkov</string>
-    <string name="term_and_conditions_title">Pogoji in določila</string>
-    <string name="sbm_content_activity_title">Pogoji dogovora</string>
-    <string name="consent_title">Pogoji dogovora</string>
-    <string name="consent_message">"Za uporabo te aplikacije se morate strinjati in poslati naslednje informacije. Vklopite vsebino za preverjanje in nato nadaljujte.
+  <string name="alert_dialog_failure_msg">Poskusite znova pozneje.</string>
+  <string name="alert_dialog_failure_title">Vašega naročila ni bilo mogoče obdelati</string>
+  <string name="alert_dialog_later_button">Pozneje</string>
+  <string name="alert_dialog_positive_button">Ok</string>
+  <string name="alert_dialog_upgrade_button">Nadgradi</string>
+  <string name="app_name">Upravičenost</string>
+  <string name="att_error_msg">Za omogočitev obiščite att.com/mywireless ali pokličite številko 611</string>
+  <string name="att_error_msg_other">Prišlo je do začasne omrežne težave, ki preprečuje omogočitev funkcije mobilne dostopne točke. Prosimo, poskusite ponovno pozneje</string>
+  <string name="att_error_msg_other_title">Napaka v omrežju</string>
+  <string name="att_error_msg_title">Račun ni nastavljen za storitev skupne rabe mobilnega interneta</string>
+  <string name="browser_error_msg">Ne morem odpreti brskalnika.</string>
+  <string name="change_data_request_msg">Pošiljam zahtevo za omogočenje uporabe. Prosimo, počakajte...</string>
+  <string name="concent_agree_btn">Strinjam se</string>
+  <string name="concent_disagree_btn">Ne strinjam se</string>
+  <string name="consent_message">"Za uporabo te aplikacije se morate strinjati in poslati naslednje informacije. Vklopite vsebino za preverjanje in nato nadaljujte.
 
 [Pošljite informacije]
 ID, ki je specifična za pogodbeno stranko
 [Uporaba aplikacij]
 Naročite za uporabo aplikacije za skupno rabo"</string>
-    <string name="consent_terms_btn">Pogoji storitve</string>
-    <string name="concent_disagree_btn">Ne strinjam se</string>
-    <string name="concent_agree_btn">Strinjam se</string>
-    <string name="sbm_error_msg_title">Napaka skupne rabe ali dostopne točke</string>
-    <string name="sbm_error_msg">Povezave s podatkovnim omrežjem ni mogoče vzpostaviti.</string>
-    <string name="sbm_error_msg_not_subscribed">Preverjanje prijave za možnost skupne rabe ni uspelo.</string>
-    <string name="sbm_error_msg_not_authenticated">"Preverjanje pristnosti ni uspelo.
+  <string name="consent_terms_btn">Pogoji storitve</string>
+  <string name="consent_title">Pogoji dogovora</string>
+  <string name="current_subscription">(trenutna naročnina)</string>
+  <string name="feature_check_msg">Preverjam stanje naročnine. Prosimo, počakajte...</string>
+  <string name="mobile_hotspot">Mobilna vroča točka</string>
+  <string name="network_connection_error_msg">Vaš telefon se trenutno ne more povezati s strežnikom %s. Prosimo, poskusite znova kasneje.</string>
+  <string name="network_connection_title">Napaka pri povezovanju v omrežje</string>
+  <string name="request_pending_error_msg">Strežnik družbe Verizon obdeluje vašo zahtevo. Prosimo, poskusite znova v 5 minutah.</string>
+  <string name="request_pending_title">Omogočitev uporabe na čakanju</string>
+  <string name="retv_terms_conditions_msg">Preverjam stanje naročnine. Prosimo, počakajte...</string>
+  <string name="sbm_content_activity_title">Pogoji dogovora</string>
+  <string name="sbm_error_msg">Povezave s podatkovnim omrežjem ni mogoče vzpostaviti.</string>
+  <string name="sbm_error_msg_no_response">Preverjanje pristnosti ni uspelo. Prosimo, poskusite znova na mestu, kjer je dober sprejem.</string>
+  <string name="sbm_error_msg_not_authenticated">"Preverjanje pristnosti ni uspelo.
 (Koda napake %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Preverjanje pristnosti ni uspelo. Prosimo, poskusite znova na mestu, kjer je dober sprejem.</string>
+  <string name="sbm_error_msg_not_subscribed">Preverjanje prijave za možnost skupne rabe ni uspelo.</string>
+  <string name="sbm_error_msg_title">Napaka skupne rabe ali dostopne točke</string>
+  <string name="sprint_error_msg">Povezava na podatkovno omrežje ni uspela; Morda niste naročeni na storitev skupne rabe ali dostopne točke; Kontaktirajte vašo telefonsko družbo.</string>
+  <string name="sprint_error_msg_title">Napaka skupne rabe ali dostopne točke</string>
+  <string name="sprint_notification_msg">Pritisnite za ogled dodatnih podatkov</string>
+  <string name="term_and_conditions_title">Pogoji in določila</string>
+  <string name="tmo_error_msg">Vaš trenutni načrt ne vključuje storitve Mobile Hotspot za pametni telefon, ki omogoča skupno rabo podatkovne povezave vašega telefona z drugimi napravami. Ali želite dodati storitev Mobile Hotspot za pametni telefon v svoj načrt? Dodajanje lahko izvedete tudi prek spleta na naslovu https://my.t-mobile.com pod Upravljanje &gt; Načrti in storitve. &lt;</string>
+  <string name="tmo_error_msg_title">Zahtevana je nadgradnja storitve</string>
+  <string name="unavailable_subscription">(ni na voljo na osnovi nivoja prostora za shranjevanje)</string>
+  <string name="vzw_error_msg">"Če se želite naročiti na Mobile Hotspot/mobilno širokopasovno povezavo, pokličite:
+ Posamezniki: (800) 256-4646,
+ Podjetja: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Vašega naročila ni bilo mogoče obdelati</string>
+  <string name="vzw_self_provisioning_cancel">Prekliči</string>
+  <string name="vzw_self_provisioning_learn_more">Več o tem</string>
+  <string name="vzw_self_provisioning_msg">"Za uporabo Mobile Hotspot se morate prijaviti na storitev Mobile Hotspot.
+Če želite izvedeti več in se prijaviti na Mobile Hotspot, obiščite Moj Verizon."</string>
 </resources>

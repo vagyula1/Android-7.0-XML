@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Dret</string>
-    <string name="feature_check_msg">"Comprovant l'estat de la subscripció. Espereu si us plau..."</string>
-    <string name="vzw_self_provisioning_msg">"Per utilitzar Mobile Hotspot haureu de subscriure-us al servei Mobile Hotspot.
-Obteniu més informació i subscriviu-vos a Mobile Hotspot visitant El meu Verizon."</string>
-    <string name="vzw_self_provisioning_cancel">Cancel·la</string>
-    <string name="vzw_self_provisioning_learn_more">Més informació</string>
-    <string name="vzw_error_msg_title">La vostra comanda no es va poder processar</string>
-    <string name="vzw_error_msg">"Si voleu subscriure-us a Mobile Hotspot/Mobile Broadband Connect, truqueu a:
- Particulars: (800) 256-4646,
- Empreses: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Es requereix actualització del servei</string>
-    <string name="tmo_error_msg">El vostre pla de tarifes actual no inclou el servei Mobile Hotspot per a smartphones que permet compartir la connexió de dades del telèfon amb altres dispositius. Voleu afegir el servei Mobile Hotspot per a smartphones al vostre pla de tarifes? També podeu afegir-lo en línia a https://my.t-mobile.com mitjançant Administrar > Plans i serveis. &lt;</string>
-    <string name="retv_terms_conditions_msg">"Comprovant l'estat de la subscripció. Espereu si us plau..."</string>
-    <string name="change_data_request_msg">"Enviant sol·licitud d'aprovisionament. Si us plau, espereu..."</string>
-    <string name="alert_dialog_failure_title">La vostra comanda no es va poder processar</string>
-    <string name="alert_dialog_failure_msg">Intenteu-ho més tard.</string>
-    <string name="network_connection_title">Error de connexió de xarxa</string>
-    <string name="network_connection_error_msg">El telèfon no es pot connectar actualment al servidor de %s. Torneu a provar més tard.</string>
-    <string name="alert_dialog_positive_button">"D'acord"</string>
-    <string name="alert_dialog_upgrade_button">Actualitzar</string>
-    <string name="alert_dialog_later_button">"Darrera  "</string>
-    <string name="current_subscription">(subscripció actual)</string>
-    <string name="unavailable_subscription">"(no disponible a causa del nivell d'emmagatzematge)"</string>
-    <string name="request_pending_title">Aprovisionament pendent</string>
-    <string name="request_pending_error_msg">El servidor de Verizon està processant la vostra sol·licitud. Si us plau, proveu de nou en 5 minuts.</string>
-    <string name="browser_error_msg">No es pot obrir el navegador.</string>
-    <string name="att_error_msg">Per habilitar, aneu a att.com/mywireless o marqueu 611</string>
-    <string name="att_error_msg_title">El compte no està configurat per a tethering</string>
-    <string name="att_error_msg_other">"Hi ha un problema temporal a la xarxa que impedeix l'habilitació de la funció de la Wi-Fi portàtil. Torni-ho a provar més tard"</string>
-    <string name="att_error_msg_other_title">Error en xarxa</string>
-    <string name="sprint_error_msg">No es pot connectar la xarxa de dades; No podeu estar subscrits al servei Tethering o Hotspot; Contactar amb la companyia de telefonia.</string>
-    <string name="sprint_error_msg_title">Error de Tethering o Hotspot</string>
-    <string name="sprint_notification_msg">Toqueu per veure més detalls</string>
-    <string name="term_and_conditions_title">Termes i condicions</string>
-    <string name="sbm_content_activity_title">"Termes de l'acord"</string>
-    <string name="consent_title">"Termes de l'acord"</string>
-    <string name="consent_message">"Per utilitzar aquesta aplicació, cal acceptar i enviar la següent informació. En el contingut del xec, si us plau, procediu.
+  <string name="alert_dialog_failure_msg">Intenteu-ho més tard.</string>
+  <string name="alert_dialog_failure_title">La vostra comanda no es va poder processar</string>
+  <string name="alert_dialog_later_button">"Darrera  "</string>
+  <string name="alert_dialog_positive_button">"D'acord"</string>
+  <string name="alert_dialog_upgrade_button">Actualitzar</string>
+  <string name="app_name">Dret</string>
+  <string name="att_error_msg">Per habilitar, aneu a att.com/mywireless o marqueu 611</string>
+  <string name="att_error_msg_other">"Hi ha un problema temporal a la xarxa que impedeix l'habilitació de la funció de la Wi-Fi portàtil. Torni-ho a provar més tard"</string>
+  <string name="att_error_msg_other_title">Error en xarxa</string>
+  <string name="att_error_msg_title">El compte no està configurat per a tethering</string>
+  <string name="browser_error_msg">No es pot obrir el navegador.</string>
+  <string name="change_data_request_msg">"Enviant sol·licitud d'aprovisionament. Si us plau, espereu..."</string>
+  <string name="concent_agree_btn">Accepto</string>
+  <string name="concent_disagree_btn">No accepto</string>
+  <string name="consent_message">"Per utilitzar aquesta aplicació, cal acceptar i enviar la següent informació. En el contingut del xec, si us plau, procediu.
 
 [Enviar informació]
 Contratista-ID específica
 [Utilitzar aplicacions]
 Feu la comanda per utilitzar l'aplicació tethering"</string>
-    <string name="consent_terms_btn">Condicions de servei</string>
-    <string name="concent_disagree_btn">No accepto</string>
-    <string name="concent_agree_btn">Accepto</string>
-    <string name="sbm_error_msg_title">Error de Tethering o Hotspot</string>
-    <string name="sbm_error_msg">No és possible connectar a la xarxa de dades.</string>
-    <string name="sbm_error_msg_not_subscribed">"No s'ha pogut verificar la vostra subscripció a l'Opció Tethering."</string>
-    <string name="sbm_error_msg_not_authenticated">"Error d'autenticació.
+  <string name="consent_terms_btn">Condicions de servei</string>
+  <string name="consent_title">"Termes de l'acord"</string>
+  <string name="current_subscription">(subscripció actual)</string>
+  <string name="feature_check_msg">"Comprovant l'estat de la subscripció. Espereu si us plau..."</string>
+  <string name="network_connection_error_msg">El telèfon no es pot connectar actualment al servidor de %s. Torneu a provar més tard.</string>
+  <string name="network_connection_title">Error de connexió de xarxa</string>
+  <string name="request_pending_error_msg">El servidor de Verizon està processant la vostra sol·licitud. Si us plau, proveu de nou en 5 minuts.</string>
+  <string name="request_pending_title">Aprovisionament pendent</string>
+  <string name="retv_terms_conditions_msg">"Comprovant l'estat de la subscripció. Espereu si us plau..."</string>
+  <string name="sbm_content_activity_title">"Termes de l'acord"</string>
+  <string name="sbm_error_msg">No és possible connectar a la xarxa de dades.</string>
+  <string name="sbm_error_msg_no_response">"Error d'autenticació. Proveu de nou en un lloc amb bona recepció."</string>
+  <string name="sbm_error_msg_not_authenticated">"Error d'autenticació.
 (Codi d'error %1$s)"</string>
-    <string name="sbm_error_msg_no_response">"Error d'autenticació. Proveu de nou en un lloc amb bona recepció."</string>
+  <string name="sbm_error_msg_not_subscribed">"No s'ha pogut verificar la vostra subscripció a l'Opció Tethering."</string>
+  <string name="sbm_error_msg_title">Error de Tethering o Hotspot</string>
+  <string name="sprint_error_msg">No es pot connectar la xarxa de dades; No podeu estar subscrits al servei Tethering o Hotspot; Contactar amb la companyia de telefonia.</string>
+  <string name="sprint_error_msg_title">Error de Tethering o Hotspot</string>
+  <string name="sprint_notification_msg">Toqueu per veure més detalls</string>
+  <string name="term_and_conditions_title">Termes i condicions</string>
+  <string name="tmo_error_msg">El vostre pla de tarifes actual no inclou el servei Mobile Hotspot per a smartphones que permet compartir la connexió de dades del telèfon amb altres dispositius. Voleu afegir el servei Mobile Hotspot per a smartphones al vostre pla de tarifes? També podeu afegir-lo en línia a https://my.t-mobile.com mitjançant Administrar &gt; Plans i serveis. &lt;</string>
+  <string name="tmo_error_msg_title">Es requereix actualització del servei</string>
+  <string name="unavailable_subscription">"(no disponible a causa del nivell d'emmagatzematge)"</string>
+  <string name="vzw_error_msg">"Si voleu subscriure-us a Mobile Hotspot/Mobile Broadband Connect, truqueu a:
+ Particulars: (800) 256-4646,
+ Empreses: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">La vostra comanda no es va poder processar</string>
+  <string name="vzw_self_provisioning_cancel">Cancel·la</string>
+  <string name="vzw_self_provisioning_learn_more">Més informació</string>
+  <string name="vzw_self_provisioning_msg">"Per utilitzar Mobile Hotspot haureu de subscriure-us al servei Mobile Hotspot.
+Obteniu més informació i subscriviu-vos a Mobile Hotspot visitant El meu Verizon."</string>
 </resources>

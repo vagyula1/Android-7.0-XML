@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ਹੱਕ</string>
-    <string name="feature_check_msg">ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ Mobile Hotspot ਸੇਵਾ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ।
-ਹੋਰ ਜਾਣੋ ਅਤੇ ਮਾਈ ਵਰਜਨ ਤੇ ਜਾ ਕੇ Mobile Hotspot ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰੋ।"</string>
-    <string name="vzw_self_provisioning_cancel">ਰੱਦ ਕਰੋ</string>
-    <string name="vzw_self_provisioning_learn_more">ਹੋਰ ਸਿੱਖੋ</string>
-    <string name="vzw_error_msg_title">ਤੁਹਾਡੇ ਕ੍ਰਮ ਤੇ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਹੋ ਸਕੀ</string>
-    <string name="vzw_error_msg">"ਜੇ ਤੁਸੀਂ Mobile Hotspot/ਮੋਬਾਇਲ ਬ੍ਰੋਡਬੈਂਡ ਕਨੈਕਟ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਾੱਲ ਕਰੋ:
- ਉਪਭੋਗਤਾ: (800) 256-4646,
- ਬਿਜਨਿਸ: (800) 899-4249"</string>
-    <string name="tmo_error_msg_title">ਸੇਵਾ ਅਪਗਰੇਡ ਦੀ ਲੋੜ ਹੈ</string>
-    <string name="tmo_error_msg">ਤੁਹਾਡੇ ਵਰਤਮਾਨ ਰੇਟ ਪਲਾਨ ਵਿੱਚ ਸਮਾਰਟਫੋਨ Mobile Hotspot ਸੇਵਾ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੈ ਜੋ ਤੁਹਾਡੇ ਫੋਨ ਦੇ ਡਾਟਾ ਕਨੈਕਸ਼ਨ ਨੂੰ ਹੋਰ ਡਿਵਾਇਸਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰਨ ਦੇ ਯੋਗ ਬਣਾਉਂਦੀ ਹੈ।ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਰੇਟ ਪਲਾਨ ਵਿੱਚ ਸਮਾਰਟਫੋਨ Mobile Hotspot ਸੇਵਾ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?ਤੁਸੀਂ ਇਸਨੂੰ ਆੱਨਲਾਈਨ https://my.t-mobile.com ਮੈਨੇਜ > ਪਲਾਨ ਅਤੇ ਸੇਵਾਵਾਂ ਦੇ ਤਹਿਤ ਵੀ ਸ਼ਾਮਿਲ ਕਰ ਸਕਦੇ ਹੋ। &lt;</string>
-    <string name="retv_terms_conditions_msg">ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
-    <string name="change_data_request_msg">ਪ੍ਰਬੰਧ ਲਈ ਬੇਨਤੀ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
-    <string name="alert_dialog_failure_title">ਤੁਹਾਡੇ ਕ੍ਰਮ ਤੇ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਹੋ ਸਕੀ</string>
-    <string name="alert_dialog_failure_msg">ਕਿਰਪਾ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
-    <string name="network_connection_title">ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਤਰੁੱਟੀ</string>
-    <string name="network_connection_error_msg">ਤੁਹਾਡਾ ਫੋਨ ਵਰਤਮਾਨ ਵਿੱਚ%sਦੇ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
-    <string name="mobile_hotspot">ਮੋਬਾਈਲ ਹੌਟਸਪੌਟ</string>
-    <string name="alert_dialog_positive_button">ਠੀਕ ਹੈ</string>
-    <string name="alert_dialog_upgrade_button">ਅਪਗ੍ਰੇਡ</string>
-    <string name="alert_dialog_later_button">ਬਾਦ ਵਿਚ</string>
-    <string name="current_subscription">(ਵਰਤਮਾਨ ਸਬਸਕ੍ਰਿਪਸ਼ਨ)</string>
-    <string name="unavailable_subscription">(ਸਟੋਰੇਜ ਸਤਰ ਤੇ ਅਣਉਪਲਬਧ)</string>
-    <string name="request_pending_title">ਬਾਕੀ ਦਾ ਪ੍ਰਬੰਧ ਹੋ ਰਿਹਾ ਹੈ</string>
-    <string name="request_pending_error_msg">ਵਰਜ਼ਨ ਦਾ ਸਰਵਰ ਤੁਹਾਡੀ ਬੇਨਤੀ ਤੇ ਪ੍ਰਕਿਰਿਆ ਕਰ ਰਿਹਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ 5 ਮਿੰਟਾਂ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
-    <string name="browser_error_msg">ਬ੍ਰਾਊਜ਼ਰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।</string>
-    <string name="att_error_msg">ਸਕ੍ਰਿਅ ਕਰਨ, att.com/mywireless ਤੇ ਜਾਓ ਜਾਂ 611 ਡਾਇਲ ਕਰੋ</string>
-    <string name="att_error_msg_title">ਟੈਦਰਿੰਗ ਲਈ ਖਾਤਾ ਸਥਾਪਿਤ ਨਹੀਂ ਹੈ</string>
-    <string name="att_error_msg_other">ਇੱਕ ਅਸਥਾਈ ਨੈਟਵਰਕ ਸਮਸਿਆ ਹੈ ਜਿਹੜੀ Mobile Hotspot ਕਾਰਜ ਨੂੰ ਸਮਰਥ ਕਰਣ ਤੋਂ ਰੋਕ ਰਹੀ ਹੈ। ਕ੍ਰਿਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨਾ</string>
-    <string name="att_error_msg_other_title">ਨੇਟਵਰਕ ਗਲਤੀ</string>
-    <string name="sprint_error_msg">ਡੇਟਾ ਨੈਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਅਯੋਗ; ਤੁਸੀਂ ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੇਵਾ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਨਹੀਂ ਕਰ ਸਕਦੇ; ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਫ਼ੋਨ ਕੰਪਨੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</string>
-    <string name="sprint_error_msg_title">ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੰਬੰਧੀ ਤਰੁੱਟੀ</string>
-    <string name="sprint_notification_msg">ਜ਼ਿਆਦਾ ਜਾਣਕਾਰੀ ਦੇਖਣ ਲਈ ਟੱਚ ਕਰੋ</string>
-    <string name="term_and_conditions_title">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
-    <string name="sbm_content_activity_title">ਸਮਝੌਤੇ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
-    <string name="consent_title">ਸਮਝੌਤੇ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
-    <string name="consent_message">"ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਸਹਿਮਤ ਹੋਣ ਅਤੇ ਹੇਠਾਂ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਭੇਜਣ ਦੀ ਲੋੜ ਹੈ। ਜਾਂਚ ਦੇ ਸਮੱਗਰੀ ਤੇ, ਕਿਰਪਾ ਕਰਕੇ ਅੱਗੇ ਪ੍ਰਕਿਰਿਆ ਕਰੋ।
+  <string name="alert_dialog_failure_msg">ਕਿਰਪਾ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+  <string name="alert_dialog_failure_title">ਤੁਹਾਡੇ ਕ੍ਰਮ ਤੇ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਹੋ ਸਕੀ</string>
+  <string name="alert_dialog_later_button">ਬਾਦ ਵਿਚ</string>
+  <string name="alert_dialog_positive_button">ਠੀਕ ਹੈ</string>
+  <string name="alert_dialog_upgrade_button">ਅਪਗ੍ਰੇਡ</string>
+  <string name="app_name">ਹੱਕ</string>
+  <string name="att_error_msg">ਸਕ੍ਰਿਅ ਕਰਨ, att.com/mywireless ਤੇ ਜਾਓ ਜਾਂ 611 ਡਾਇਲ ਕਰੋ</string>
+  <string name="att_error_msg_other">ਇੱਕ ਅਸਥਾਈ ਨੈਟਵਰਕ ਸਮਸਿਆ ਹੈ ਜਿਹੜੀ Mobile Hotspot ਕਾਰਜ ਨੂੰ ਸਮਰਥ ਕਰਣ ਤੋਂ ਰੋਕ ਰਹੀ ਹੈ। ਕ੍ਰਿਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨਾ</string>
+  <string name="att_error_msg_other_title">ਨੇਟਵਰਕ ਗਲਤੀ</string>
+  <string name="att_error_msg_title">ਟੈਦਰਿੰਗ ਲਈ ਖਾਤਾ ਸਥਾਪਿਤ ਨਹੀਂ ਹੈ</string>
+  <string name="browser_error_msg">ਬ੍ਰਾਊਜ਼ਰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।</string>
+  <string name="change_data_request_msg">ਪ੍ਰਬੰਧ ਲਈ ਬੇਨਤੀ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
+  <string name="concent_agree_btn">ਸਹਿਮਤ</string>
+  <string name="concent_disagree_btn">ਅਸਹਿਮਤ</string>
+  <string name="consent_message">"ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਸਹਿਮਤ ਹੋਣ ਅਤੇ ਹੇਠਾਂ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਭੇਜਣ ਦੀ ਲੋੜ ਹੈ। ਜਾਂਚ ਦੇ ਸਮੱਗਰੀ ਤੇ, ਕਿਰਪਾ ਕਰਕੇ ਅੱਗੇ ਪ੍ਰਕਿਰਿਆ ਕਰੋ।
 
 [ਜਾਣਕਾਰੀ ਭੇਜੋ]
 ਠੇਕੇਦਾਰ-ਵਿਸ਼ੇਸ਼ ID
 [ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਰਤੋਂ]
 ਟੇਦਰਿੰਗ ਐਪਲੀਕੇਸ਼ਨ ਵਰਤਣ ਲਈ ਕ੍ਰਮ"</string>
-    <string name="consent_terms_btn">ਸੇਵਾਂ ਦੇ ਨਿਯਮ</string>
-    <string name="concent_disagree_btn">ਅਸਹਿਮਤ</string>
-    <string name="concent_agree_btn">ਸਹਿਮਤ</string>
-    <string name="sbm_error_msg_title">ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੰਬੰਧੀ ਤਰੁੱਟੀ</string>
-    <string name="sbm_error_msg">ਡਾਟਾ ਨੈਟਵਰਕ ਨਾਲ ਜੁੜਣ ਵਿੱਚ ਅਸਮਰੱਥ।</string>
-    <string name="sbm_error_msg_not_subscribed">ਟੇਦਰਿੰਗ ਵਿਕਲਪ ਲਈ ਤੁਹਾਡੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਵਿੱਚ ਅਸਫ਼ਲ।</string>
-    <string name="sbm_error_msg_not_authenticated">"ਪ੍ਰਮਾਣੀਕਰਣ ਨਾਕਾਮਯਾਬ ਰਿਹਾ।.
+  <string name="consent_terms_btn">ਸੇਵਾਂ ਦੇ ਨਿਯਮ</string>
+  <string name="consent_title">ਸਮਝੌਤੇ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
+  <string name="current_subscription">(ਵਰਤਮਾਨ ਸਬਸਕ੍ਰਿਪਸ਼ਨ)</string>
+  <string name="feature_check_msg">ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
+  <string name="mobile_hotspot">ਮੋਬਾਈਲ ਹੌਟਸਪੌਟ</string>
+  <string name="network_connection_error_msg">ਤੁਹਾਡਾ ਫੋਨ ਵਰਤਮਾਨ ਵਿੱਚ%sਦੇ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="network_connection_title">ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਤਰੁੱਟੀ</string>
+  <string name="request_pending_error_msg">ਵਰਜ਼ਨ ਦਾ ਸਰਵਰ ਤੁਹਾਡੀ ਬੇਨਤੀ ਤੇ ਪ੍ਰਕਿਰਿਆ ਕਰ ਰਿਹਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ 5 ਮਿੰਟਾਂ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="request_pending_title">ਬਾਕੀ ਦਾ ਪ੍ਰਬੰਧ ਹੋ ਰਿਹਾ ਹੈ</string>
+  <string name="retv_terms_conditions_msg">ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ...</string>
+  <string name="sbm_content_activity_title">ਸਮਝੌਤੇ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
+  <string name="sbm_error_msg">ਡਾਟਾ ਨੈਟਵਰਕ ਨਾਲ ਜੁੜਣ ਵਿੱਚ ਅਸਮਰੱਥ।</string>
+  <string name="sbm_error_msg_no_response">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ. ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਚੰਗੇ ਰਿਸੈਪਸ਼ਨ ਨਾਲ ਇੱਕ ਸਥਿਤੀ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="sbm_error_msg_not_authenticated">"ਪ੍ਰਮਾਣੀਕਰਣ ਨਾਕਾਮਯਾਬ ਰਿਹਾ।.
 (ਗਲਤੀ ਕੋਡ %1$s)"</string>
-    <string name="sbm_error_msg_no_response">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ. ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਚੰਗੇ ਰਿਸੈਪਸ਼ਨ ਨਾਲ ਇੱਕ ਸਥਿਤੀ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+  <string name="sbm_error_msg_not_subscribed">ਟੇਦਰਿੰਗ ਵਿਕਲਪ ਲਈ ਤੁਹਾਡੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਵਿੱਚ ਅਸਫ਼ਲ।</string>
+  <string name="sbm_error_msg_title">ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੰਬੰਧੀ ਤਰੁੱਟੀ</string>
+  <string name="sprint_error_msg">ਡੇਟਾ ਨੈਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਅਯੋਗ; ਤੁਸੀਂ ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੇਵਾ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਨਹੀਂ ਕਰ ਸਕਦੇ; ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਫ਼ੋਨ ਕੰਪਨੀ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</string>
+  <string name="sprint_error_msg_title">ਟੇਦਰਿੰਗ ਜਾਂ ਹੋਟਸਪੋਟ ਸੰਬੰਧੀ ਤਰੁੱਟੀ</string>
+  <string name="sprint_notification_msg">ਜ਼ਿਆਦਾ ਜਾਣਕਾਰੀ ਦੇਖਣ ਲਈ ਟੱਚ ਕਰੋ</string>
+  <string name="term_and_conditions_title">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
+  <string name="tmo_error_msg">ਤੁਹਾਡੇ ਵਰਤਮਾਨ ਰੇਟ ਪਲਾਨ ਵਿੱਚ ਸਮਾਰਟਫੋਨ Mobile Hotspot ਸੇਵਾ ਸ਼ਾਮਿਲ ਨਹੀਂ ਹੈ ਜੋ ਤੁਹਾਡੇ ਫੋਨ ਦੇ ਡਾਟਾ ਕਨੈਕਸ਼ਨ ਨੂੰ ਹੋਰ ਡਿਵਾਇਸਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰਨ ਦੇ ਯੋਗ ਬਣਾਉਂਦੀ ਹੈ।ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਰੇਟ ਪਲਾਨ ਵਿੱਚ ਸਮਾਰਟਫੋਨ Mobile Hotspot ਸੇਵਾ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?ਤੁਸੀਂ ਇਸਨੂੰ ਆੱਨਲਾਈਨ https://my.t-mobile.com ਮੈਨੇਜ &gt; ਪਲਾਨ ਅਤੇ ਸੇਵਾਵਾਂ ਦੇ ਤਹਿਤ ਵੀ ਸ਼ਾਮਿਲ ਕਰ ਸਕਦੇ ਹੋ। &lt;</string>
+  <string name="tmo_error_msg_title">ਸੇਵਾ ਅਪਗਰੇਡ ਦੀ ਲੋੜ ਹੈ</string>
+  <string name="unavailable_subscription">(ਸਟੋਰੇਜ ਸਤਰ ਤੇ ਅਣਉਪਲਬਧ)</string>
+  <string name="vzw_error_msg">"ਜੇ ਤੁਸੀਂ Mobile Hotspot/ਮੋਬਾਇਲ ਬ੍ਰੋਡਬੈਂਡ ਕਨੈਕਟ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਾੱਲ ਕਰੋ:
+ ਉਪਭੋਗਤਾ: (800) 256-4646,
+ ਬਿਜਨਿਸ: (800) 899-4249"</string>
+  <string name="vzw_error_msg_title">ਤੁਹਾਡੇ ਕ੍ਰਮ ਤੇ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਹੋ ਸਕੀ</string>
+  <string name="vzw_self_provisioning_cancel">ਰੱਦ ਕਰੋ</string>
+  <string name="vzw_self_provisioning_learn_more">ਹੋਰ ਸਿੱਖੋ</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ Mobile Hotspot ਸੇਵਾ ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ।
+ਹੋਰ ਜਾਣੋ ਅਤੇ ਮਾਈ ਵਰਜਨ ਤੇ ਜਾ ਕੇ Mobile Hotspot ਲਈ ਸਬਸਕ੍ਰਾਇਬ ਕਰੋ।"</string>
 </resources>

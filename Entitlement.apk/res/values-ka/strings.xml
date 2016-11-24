@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">სახელწოდება</string>
-    <string name="feature_check_msg">ხელმოწერის სტატუსის შემოწმება. გთხოვთ დაელოდოთ...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot-ის გამოსაყენებლად, დაგჭირდებათ Mobile Hotspot სერვისის გამოწერა.
-შეიტყვეთ მეტი და გამოიწერეთ Mobile Hotspot მაი ვერიზონზე."</string>
-    <string name="vzw_self_provisioning_cancel">გაუქმება</string>
-    <string name="vzw_self_provisioning_learn_more">დაწვრილებით</string>
-    <string name="vzw_error_msg_title">თქვენი შეკვეთა ვერ დაკმაყოფილდება</string>
-    <string name="vzw_error_msg">"თუ გსურთ Mobile Hotspot/მობილური მაღალსიჩქარიანი კავშირის ხელმომწერი გახდეთ, დარეკეთ:
- მომხმარებელი: (800) 256-4646,
- ბიზნესი: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">მომსახურების განახლება აუცილებელია</string>
-    <string name="tmo_error_msg">თქვენი მიმდინარე სატარიფო გეგმა არ შეიცავს სმარტფონ Mobile Hotspot სერვისს, რომელიც რთავს თქვენი ტელეფონის მონაცემების კავშირის გაზიარებას სხვა მოწყობილობებთან. გსურთ დაამატოთ სმარტფონ Mobile Hotspot სერვისი თქვენს სატარიფო გეგმას? შეგიძლიათ ასევე დაამატოთ იგი ონლაინ https://my.t-mobile.com მართვაში > გეგმები და სერვისები. &lt;</string>
-    <string name="retv_terms_conditions_msg">ხელმოწერის სტატუსის შემოწმება. გთხოვთ დაელოდოთ...</string>
-    <string name="change_data_request_msg">დაწყებისთვის მოთხოვნის გაგზავნა. გთხოვთ დაელოდოთ...</string>
-    <string name="alert_dialog_failure_title">თქვენი შეკვეთა ვერ დაკმაყოფილდება</string>
-    <string name="alert_dialog_failure_msg">გთხოვთ, კიდევ სცადოთ მოგვიანებით.</string>
-    <string name="network_connection_title">ქსელში კავშირის შეცდომა</string>
-    <string name="network_connection_error_msg">თქვენს ტელეფონს არ შეუძლია ამჟამად დაუკავშირდეს %s-ის სერვერს. გთხოვთ სცადეთ მოგვიანებით.</string>
-    <string name="mobile_hotspot">მობილური წვდომის ზონა</string>
-    <string name="alert_dialog_upgrade_button">გაუმჯობესება</string>
-    <string name="alert_dialog_later_button">უფრო გვიანი</string>
-    <string name="current_subscription">(მიმდინარე ხელმოწერა)</string>
-    <string name="unavailable_subscription">(მიუწვდომელია მეხსიერების დონეზე დაყრდნობით)</string>
-    <string name="request_pending_title">დაწყება მოლოდინშია</string>
-    <string name="request_pending_error_msg">ვერიზონის სერვერი ამუშავებს თქვენს მოთხოვნას. გთხოვთ კიდევ სცადეთ 5 წუთში.</string>
-    <string name="browser_error_msg">შეუძლებელია ბრაუზერის გახსნა.</string>
-    <string name="att_error_msg">ჩასართავად გადადით att.com/mywireless ან აკრიფეთ 611</string>
-    <string name="att_error_msg_title">ანგარიში არ არის დაყენებული მოდემისთვის</string>
-    <string name="att_error_msg_other">არსებობს დროებითი ქსელის პრობლემა, რომელიც აბრკოლებს მობილური წვდომის ზონის ფუნქციის ჩართვას. გთხოვთ კიდევ სცადეთ მოგვიანებით</string>
-    <string name="att_error_msg_other_title">ქსელის შეცდომა</string>
-    <string name="sprint_error_msg">შეუძლებელია ქსელის მონაცემებთან დაკავშირება; შეგიძლიათ არ იყოთ მოდემის ან ჰოტსპოტის სერვისზე ხელმომწერი; გთხოვთ, დაუკავშირდეთ თქვენს სატელეფონო კომპანიას,</string>
-    <string name="sprint_error_msg_title">მოდემის ან ჰოტსპოტის შეცდომა</string>
-    <string name="sprint_notification_msg">შეეხეთ დეტალების სანახავად</string>
-    <string name="term_and_conditions_title">წესები და პირობები</string>
-    <string name="sbm_content_activity_title">ხელშეკრულების პირობები</string>
-    <string name="consent_title">ხელშეკრულების პირობები</string>
-    <string name="consent_message">"ამ აპლიკაციის გამოსაყენებლად, უნდა დაეთანხმოთ და გაგზავნოთ შემდეგი ინფორმაცია. ჩეკის შინაარსზე, გთხოვთ გადახვიდეთ შემდეგ. 
+  <string name="alert_dialog_failure_msg">გთხოვთ, კიდევ სცადოთ მოგვიანებით.</string>
+  <string name="alert_dialog_failure_title">თქვენი შეკვეთა ვერ დაკმაყოფილდება</string>
+  <string name="alert_dialog_later_button">უფრო გვიანი</string>
+  <string name="alert_dialog_upgrade_button">გაუმჯობესება</string>
+  <string name="app_name">სახელწოდება</string>
+  <string name="att_error_msg">ჩასართავად გადადით att.com/mywireless ან აკრიფეთ 611</string>
+  <string name="att_error_msg_other">არსებობს დროებითი ქსელის პრობლემა, რომელიც აბრკოლებს მობილური წვდომის ზონის ფუნქციის ჩართვას. გთხოვთ კიდევ სცადეთ მოგვიანებით</string>
+  <string name="att_error_msg_other_title">ქსელის შეცდომა</string>
+  <string name="att_error_msg_title">ანგარიში არ არის დაყენებული მოდემისთვის</string>
+  <string name="browser_error_msg">შეუძლებელია ბრაუზერის გახსნა.</string>
+  <string name="change_data_request_msg">დაწყებისთვის მოთხოვნის გაგზავნა. გთხოვთ დაელოდოთ...</string>
+  <string name="concent_agree_btn">ვეთანხმები</string>
+  <string name="concent_disagree_btn">არ ვეთანხმები</string>
+  <string name="consent_message">"ამ აპლიკაციის გამოსაყენებლად, უნდა დაეთანხმოთ და გაგზავნოთ შემდეგი ინფორმაცია. ჩეკის შინაარსზე, გთხოვთ გადახვიდეთ შემდეგ. 
 
 [გაგზავნეთ ინფორმაცია]
 კონტრაქტორის სპეციფიური ID
 [გამოიყენეთ აპლიკაციები]
 მოდემის აპლიკაციის გამოყენება"</string>
-    <string name="consent_terms_btn">მომსახურების პირობები</string>
-    <string name="concent_disagree_btn">არ ვეთანხმები</string>
-    <string name="concent_agree_btn">ვეთანხმები</string>
-    <string name="sbm_error_msg_title">მოდემის ან ჰოტსპოტის შეცდომა</string>
-    <string name="sbm_error_msg">შეუძლებელია ქსელის მონაცემებთან დაკავშირება.</string>
-    <string name="sbm_error_msg_not_subscribed">მოდემის ოფციაზე თქვენი ხელმოწერის შემოწმება ვერ მოხერხდა.</string>
-    <string name="sbm_error_msg_not_authenticated">"იდენტიფიკაცია ვერ განხორციელდა.
+  <string name="consent_terms_btn">მომსახურების პირობები</string>
+  <string name="consent_title">ხელშეკრულების პირობები</string>
+  <string name="current_subscription">(მიმდინარე ხელმოწერა)</string>
+  <string name="feature_check_msg">ხელმოწერის სტატუსის შემოწმება. გთხოვთ დაელოდოთ...</string>
+  <string name="mobile_hotspot">მობილური წვდომის ზონა</string>
+  <string name="network_connection_error_msg">თქვენს ტელეფონს არ შეუძლია ამჟამად დაუკავშირდეს %s-ის სერვერს. გთხოვთ სცადეთ მოგვიანებით.</string>
+  <string name="network_connection_title">ქსელში კავშირის შეცდომა</string>
+  <string name="request_pending_error_msg">ვერიზონის სერვერი ამუშავებს თქვენს მოთხოვნას. გთხოვთ კიდევ სცადეთ 5 წუთში.</string>
+  <string name="request_pending_title">დაწყება მოლოდინშია</string>
+  <string name="retv_terms_conditions_msg">ხელმოწერის სტატუსის შემოწმება. გთხოვთ დაელოდოთ...</string>
+  <string name="sbm_content_activity_title">ხელშეკრულების პირობები</string>
+  <string name="sbm_error_msg">შეუძლებელია ქსელის მონაცემებთან დაკავშირება.</string>
+  <string name="sbm_error_msg_no_response">იდენტიფიკაცია ვერ განხორციელდა. გთხოვთ ხელახლა სცადეთ კარგი მიღების ადგილზე.</string>
+  <string name="sbm_error_msg_not_authenticated">"იდენტიფიკაცია ვერ განხორციელდა.
 (შეცდომის კოდი %1$s)"</string>
-    <string name="sbm_error_msg_no_response">იდენტიფიკაცია ვერ განხორციელდა. გთხოვთ ხელახლა სცადეთ კარგი მიღების ადგილზე.</string>
+  <string name="sbm_error_msg_not_subscribed">მოდემის ოფციაზე თქვენი ხელმოწერის შემოწმება ვერ მოხერხდა.</string>
+  <string name="sbm_error_msg_title">მოდემის ან ჰოტსპოტის შეცდომა</string>
+  <string name="sprint_error_msg">შეუძლებელია ქსელის მონაცემებთან დაკავშირება; შეგიძლიათ არ იყოთ მოდემის ან ჰოტსპოტის სერვისზე ხელმომწერი; გთხოვთ, დაუკავშირდეთ თქვენს სატელეფონო კომპანიას,</string>
+  <string name="sprint_error_msg_title">მოდემის ან ჰოტსპოტის შეცდომა</string>
+  <string name="sprint_notification_msg">შეეხეთ დეტალების სანახავად</string>
+  <string name="term_and_conditions_title">წესები და პირობები</string>
+  <string name="tmo_error_msg">თქვენი მიმდინარე სატარიფო გეგმა არ შეიცავს სმარტფონ Mobile Hotspot სერვისს, რომელიც რთავს თქვენი ტელეფონის მონაცემების კავშირის გაზიარებას სხვა მოწყობილობებთან. გსურთ დაამატოთ სმარტფონ Mobile Hotspot სერვისი თქვენს სატარიფო გეგმას? შეგიძლიათ ასევე დაამატოთ იგი ონლაინ https://my.t-mobile.com მართვაში &gt; გეგმები და სერვისები. &lt;</string>
+  <string name="tmo_error_msg_title">მომსახურების განახლება აუცილებელია</string>
+  <string name="unavailable_subscription">(მიუწვდომელია მეხსიერების დონეზე დაყრდნობით)</string>
+  <string name="vzw_error_msg">"თუ გსურთ Mobile Hotspot/მობილური მაღალსიჩქარიანი კავშირის ხელმომწერი გახდეთ, დარეკეთ:
+ მომხმარებელი: (800) 256-4646,
+ ბიზნესი: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">თქვენი შეკვეთა ვერ დაკმაყოფილდება</string>
+  <string name="vzw_self_provisioning_cancel">გაუქმება</string>
+  <string name="vzw_self_provisioning_learn_more">დაწვრილებით</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot-ის გამოსაყენებლად, დაგჭირდებათ Mobile Hotspot სერვისის გამოწერა.
+შეიტყვეთ მეტი და გამოიწერეთ Mobile Hotspot მაი ვერიზონზე."</string>
 </resources>

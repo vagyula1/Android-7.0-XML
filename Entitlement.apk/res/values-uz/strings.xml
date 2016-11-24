@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">"Huquqqa ega bo'lish"</string>
-    <string name="feature_check_msg">Obuna holati tekshirilayapti. Iltimos, kuting...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot-dan foydalanish uchun Mobile Hotspot xizmatiga obuna bo'lishingiz kerak.
-Mening Verizon-ga tashrif buyurish orqali ko'proq biling va Mobile Hotspot-ga obuna bo'ling."</string>
-    <string name="vzw_self_provisioning_cancel">Bekor qilish</string>
-    <string name="vzw_self_provisioning_learn_more">Batafsil tanishib chiqish</string>
-    <string name="vzw_error_msg_title">"Buyurtmangizni qayta ishlab bo'lmadi"</string>
-    <string name="vzw_error_msg">"Agar siz Mobile Hotspot/Mobil Keng polosali ulanishga obuna bo'lmoqchi bo'lsangiz, quyidagi raqamga qo'ng'rioq qiling:
- Iste'molchi: (800) 256-4646,
- Yuridik shaxs: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Xizmatni modernizatsiyalash talab qilinadi</string>
-    <string name="tmo_error_msg">"Joriy tarif rejangiz telefoningizning ma'lumotlar uzatishga ulanishini boshqa qurilmalar bilan baham ko'rishga imkon beruvchi Smartfon Mobile Hotspot xizmatini o'z ichiga olmaydi. Smartfon Mobile Hotspot xizmatini tarif rejangizga qo'shishni xohlaysizmi? Siz uni https://my.t-mobile.com saytida Boshqarish > Rejalar va xizmatlar ostida ham onlayn rejimda qo'shishingiz mumkin. &lt;"</string>
-    <string name="retv_terms_conditions_msg">Obuna holati tekshirilayapti. Iltimos, kuting...</string>
-    <string name="change_data_request_msg">Resurslarni ajratish uchun talab yuborilayapti. Iltimos, kuting...</string>
-    <string name="alert_dialog_failure_title">"Buyurtmangizni qayta ishlab bo'lmadi"</string>
-    <string name="alert_dialog_failure_msg">"Keyinroq qayta urinib ko'ring."</string>
-    <string name="network_connection_title">Tarmoq ulanish xatoligi</string>
-    <string name="network_connection_error_msg">Telefoningiz hozirda %s serveriga ulana olmaydi. Iltimos, keyinroq qaytadan urining.</string>
-    <string name="mobile_hotspot">Mobil kirish nuqtasi</string>
-    <string name="alert_dialog_upgrade_button">Modernizatsiyalash</string>
-    <string name="alert_dialog_later_button">Keyinroq</string>
-    <string name="current_subscription">(joriy obuna)</string>
-    <string name="unavailable_subscription">"(xotira darajasiga asoslangan holda foydalanib bo'lmaydi)"</string>
-    <string name="request_pending_title">Resurslarni ajratish kutilayapti</string>
-    <string name="request_pending_error_msg">Verizon serveri talabingizni qayta ishlayapti. Iltimos, 5 daqiqada qaytadan urining.</string>
-    <string name="browser_error_msg">"Brauzerni ochib bo'lmaydi."</string>
-    <string name="att_error_msg">"Yoqish uchun att.com/mywireless saytiga o'ting yoki 611 raqamini tering"</string>
-    <string name="att_error_msg_title">"Akkaunt modemlash uchun o'rnatilmagan"</string>
-    <string name="att_error_msg_other">"Mobil kirish nuqtasi funksiyasini yoqishga to'siq bo'layotgan vaqtinchalik tarmoq muammosi mavjud. Keyinroq qayta urinib ko'ring"</string>
-    <string name="att_error_msg_other_title">Tarmoq xatoligi</string>
-    <string name="sprint_error_msg">"Ma'lumotlar tarmog'iga ulanib bo'lmaydi; Siz Modem yoki Kirish xizmatiga obuna bo'lmagan bo'lishingiz mumkin; Telefon kompaniyangiz bilan bog'laning."</string>
-    <string name="sprint_error_msg_title">Modem yoki kirish nuqtasi xatoligi</string>
-    <string name="sprint_notification_msg">"Ko'proq tafsilotlarni ko'rish uchun teging"</string>
-    <string name="term_and_conditions_title">Shartlar va qoidalar</string>
-    <string name="sbm_content_activity_title">Kelishuv shartlari</string>
-    <string name="consent_title">Kelishuv shartlari</string>
-    <string name="consent_message">"Bu ilovadan foydalanish uchun siz quyidagi ma'lumotlarga rozi bo'lishingiz va ularni yuborishingiz kerak. Mundarijada tekshiring, keyin davom ettiring.
+  <string name="alert_dialog_failure_msg">"Keyinroq qayta urinib ko'ring."</string>
+  <string name="alert_dialog_failure_title">"Buyurtmangizni qayta ishlab bo'lmadi"</string>
+  <string name="alert_dialog_later_button">Keyinroq</string>
+  <string name="alert_dialog_upgrade_button">Modernizatsiyalash</string>
+  <string name="app_name">"Huquqqa ega bo'lish"</string>
+  <string name="att_error_msg">"Yoqish uchun att.com/mywireless saytiga o'ting yoki 611 raqamini tering"</string>
+  <string name="att_error_msg_other">"Mobil kirish nuqtasi funksiyasini yoqishga to'siq bo'layotgan vaqtinchalik tarmoq muammosi mavjud. Keyinroq qayta urinib ko'ring"</string>
+  <string name="att_error_msg_other_title">Tarmoq xatoligi</string>
+  <string name="att_error_msg_title">"Akkaunt modemlash uchun o'rnatilmagan"</string>
+  <string name="browser_error_msg">"Brauzerni ochib bo'lmaydi."</string>
+  <string name="change_data_request_msg">Resurslarni ajratish uchun talab yuborilayapti. Iltimos, kuting...</string>
+  <string name="concent_agree_btn">Qabul qilish</string>
+  <string name="concent_disagree_btn">"Qo'shilmaslik"</string>
+  <string name="consent_message">"Bu ilovadan foydalanish uchun siz quyidagi ma'lumotlarga rozi bo'lishingiz va ularni yuborishingiz kerak. Mundarijada tekshiring, keyin davom ettiring.
 
 [Ma'lumototlarni yuborish]
 Kontraktorga xos identifikator
 [Ilovalardan foydalanish]
 Modem ilovasidan foydalanish uchun buyurtma"</string>
-    <string name="consent_terms_btn">Xizmati shartlari</string>
-    <string name="concent_disagree_btn">"Qo'shilmaslik"</string>
-    <string name="concent_agree_btn">Qabul qilish</string>
-    <string name="sbm_error_msg_title">Modem yoki kirish nuqtasi xatoligi</string>
-    <string name="sbm_error_msg">"Ma'lumotlar tarmog'iga ulanib bo'lmaydi."</string>
-    <string name="sbm_error_msg_not_subscribed">Modem opsiyasiga obunangizni tasdiqlash xatolikka uchradi.</string>
-    <string name="sbm_error_msg_not_authenticated">"Autentifikatsiya amalga oshmadi.
+  <string name="consent_terms_btn">Xizmati shartlari</string>
+  <string name="consent_title">Kelishuv shartlari</string>
+  <string name="current_subscription">(joriy obuna)</string>
+  <string name="feature_check_msg">Obuna holati tekshirilayapti. Iltimos, kuting...</string>
+  <string name="mobile_hotspot">Mobil kirish nuqtasi</string>
+  <string name="network_connection_error_msg">Telefoningiz hozirda %s serveriga ulana olmaydi. Iltimos, keyinroq qaytadan urining.</string>
+  <string name="network_connection_title">Tarmoq ulanish xatoligi</string>
+  <string name="request_pending_error_msg">Verizon serveri talabingizni qayta ishlayapti. Iltimos, 5 daqiqada qaytadan urining.</string>
+  <string name="request_pending_title">Resurslarni ajratish kutilayapti</string>
+  <string name="retv_terms_conditions_msg">Obuna holati tekshirilayapti. Iltimos, kuting...</string>
+  <string name="sbm_content_activity_title">Kelishuv shartlari</string>
+  <string name="sbm_error_msg">"Ma'lumotlar tarmog'iga ulanib bo'lmaydi."</string>
+  <string name="sbm_error_msg_no_response">"Autentifikatsiya muvaffaqiyatsiz kechdi. Signal qabuli yaxshi bo'lgan joyda qaytadan urining."</string>
+  <string name="sbm_error_msg_not_authenticated">"Autentifikatsiya amalga oshmadi.
 (Xatolik kodi %1$s)"</string>
-    <string name="sbm_error_msg_no_response">"Autentifikatsiya muvaffaqiyatsiz kechdi. Signal qabuli yaxshi bo'lgan joyda qaytadan urining."</string>
+  <string name="sbm_error_msg_not_subscribed">Modem opsiyasiga obunangizni tasdiqlash xatolikka uchradi.</string>
+  <string name="sbm_error_msg_title">Modem yoki kirish nuqtasi xatoligi</string>
+  <string name="sprint_error_msg">"Ma'lumotlar tarmog'iga ulanib bo'lmaydi; Siz Modem yoki Kirish xizmatiga obuna bo'lmagan bo'lishingiz mumkin; Telefon kompaniyangiz bilan bog'laning."</string>
+  <string name="sprint_error_msg_title">Modem yoki kirish nuqtasi xatoligi</string>
+  <string name="sprint_notification_msg">"Ko'proq tafsilotlarni ko'rish uchun teging"</string>
+  <string name="term_and_conditions_title">Shartlar va qoidalar</string>
+  <string name="tmo_error_msg">"Joriy tarif rejangiz telefoningizning ma'lumotlar uzatishga ulanishini boshqa qurilmalar bilan baham ko'rishga imkon beruvchi Smartfon Mobile Hotspot xizmatini o'z ichiga olmaydi. Smartfon Mobile Hotspot xizmatini tarif rejangizga qo'shishni xohlaysizmi? Siz uni https://my.t-mobile.com saytida Boshqarish &gt; Rejalar va xizmatlar ostida ham onlayn rejimda qo'shishingiz mumkin. &lt;"</string>
+  <string name="tmo_error_msg_title">Xizmatni modernizatsiyalash talab qilinadi</string>
+  <string name="unavailable_subscription">"(xotira darajasiga asoslangan holda foydalanib bo'lmaydi)"</string>
+  <string name="vzw_error_msg">"Agar siz Mobile Hotspot/Mobil Keng polosali ulanishga obuna bo'lmoqchi bo'lsangiz, quyidagi raqamga qo'ng'rioq qiling:
+ Iste'molchi: (800) 256-4646,
+ Yuridik shaxs: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">"Buyurtmangizni qayta ishlab bo'lmadi"</string>
+  <string name="vzw_self_provisioning_cancel">Bekor qilish</string>
+  <string name="vzw_self_provisioning_learn_more">Batafsil tanishib chiqish</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot-dan foydalanish uchun Mobile Hotspot xizmatiga obuna bo'lishingiz kerak.
+Mening Verizon-ga tashrif buyurish orqali ko'proq biling va Mobile Hotspot-ga obuna bo'ling."</string>
 </resources>

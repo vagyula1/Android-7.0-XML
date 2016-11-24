@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">ລະບົບແປງຂໍ້ຄວາມເປັນສຽງຂອງ Google</string>
-    <string name="general_settings">ການຕັ້ງຄ່າທົ່ວໄປ</string>
-    <string name="license_activity_title">ລິ​ຂະ​ສິດ​ໂອ​ເພນ​ຊອດ</string>
-    <string name="license_activity_loading">ກຳລັງໂຫລດ...</string>
-    <string name="license_activity_unavailable">ເກີດບັນຫາໃນການໂຫລດຂໍ້ມູນລິຂະສິດ.</string>
-    <string name="tts_settings_label">ໂຕເລືອກ Google TTS</string>
-    <string name="voice_data_install_title">ຂໍ້​ມູນ​ສຽງ Google TTS</string>
-    <string name="install_data_header">ດາວໂຫລດຂໍ້ມູນນີ້ ເພື່ອໃຊ້ການສັງເຄາະສຽງເວົ້າແບບອອບລາຍ ໃນອຸປະກອນຂອງທ່ານ.</string>
-    <string name="download_invite_title">ຕິດຕັ້ງສຽງເວົ້າ %1$s</string>
-    <string name="download_invite">ເປີດໃຊ້ການແປງຂໍ້ຄວາມເປັນສຽງເວົ້າແບບອອບລາຍສຳລັບ %1$s</string>
-    <string name="install_voice_text_2">ສາມາດດາວໂຫລດໄດ້</string>
-    <string name="download_in_progress">ການດາວໂຫລດກຳລັງດຳເນີນຢູ່</string>
-    <string name="no_installable_voices">ບໍ່ມີສຽງທີ່ສາມາດດາວໂຫລດໄດ້</string>
-    <string name="cancel">ຍົກເລີກ</string>
-    <string name="delete_voice_data">ລຶບ</string>
-    <string name="update">ອັບເດດ</string>
-    <string name="download">ດາວໂຫລດ</string>
-    <string name="voice_installed">ຕິດຕັ້ງແລ້ວ.</string>
-    <string name="voice_installed_and_default">ຕິດຕັ້ງ ແລະກຳນົດໃຫ້ເປັນສຽງເລີ່ມຕົ້ນແລ້ວ.</string>
-    <string name="download_notification_title">%2$s ສໍາ​ລັບ %1$s</string>
-    <string name="download_notification_description">ຂໍ້​ມູນ​ສຽງ​ສຳ​ລັບ​ການ​ແປງ​ຂໍ້​ຄວາມ​ເປັນ​ສຽງ​ເວົ້າ</string>
-    <string name="download_success_title">ດາວໂຫລດຂໍ້ມູນສຽງ %1$s ແລ້ວ</string>
-    <string name="download_success_description">ແຕະເພື່ອເຂົ້າເບິ່ງການຕັ້ງຄ່າ ແລະໃຊ້ສຽງນີ້ເປັນຄ່າເລີ່ມຕົ້ນ.</string>
-    <string name="download_failure_title">ການດາວໂຫລດສຽງສຳລັບ %1$s ເກີດຄວາມຜິດພາດ</string>
-    <string name="download_failure_description">ແຕະເພື່ອລອງໃໝ່ອີກຄັ້ງ.</string>
-    <string name="download_failed_toast">ບໍ່ສາມາດເລີ່ມການດາວໂຫຼດແພັກສຽງໄດ້.</string>
-    <string name="manage_voice_data">ຈັດການຂໍ້ມູນສຽງ</string>
-    <string name="auto_update_title">ອັບເດດສຽງອັດຕະໂນມັດ</string>
-    <string name="auto_update_wifi_title">ໃຊ້ Wi-Fi ເທົ່ານັ້ນ</string>
-    <string name="auto_update_wifi_summary">ດາວໂຫລດຂໍ້ມູນສຽງໂດຍໃຊ້ Wi-Fi ເທົ່ານັ້ນ. ຖະໜອມການນຳໃຊ້ຂໍ້ມູນ.</string>
-    <string name="feedback_title">ຄຳຕິຊົມ</string>
-    <string name="feedback_failed">ບໍ່ສາມາດເປີດແບບຟອມຄຳຕິຊົມໄດ້</string>
-    <string name="voices_type_title">ປະ​ເພດ​ສຽງ</string>
-    <string name="voices_type_summary">[DOGFOOD]ປະ​ເພດ​ຕົວ​ສັງ​ເຄາະ​ຄຳ​ເວົ້າ</string>
-    <string name="analytics_title">ລາຍ​ງານ​ການ​ໃຊ້​ບໍ່​ເປີດ​ເຜີຍ​ຕົນ​ຕົວ</string>
-    <string name="analytics_summary_on">ເປີດ</string>
-    <string name="analytics_summary_off">ປິດ</string>
-    <string name="analytics_screen_explanation">"ເມື່ອ​ຟີ​ເຈີ​ນີ້​ເປີດ, ພວກ​ເຮົາ​ເກັບ​ເອົາ​ລາຍ​ງານ​ການ​ໃຊ້​ບໍ່​ເປີດ​ເຜູ້ີຍ​ຕົນ​ຕົວ. ອັນ​ນີ້​ຊ່ວຍ​ພວກ​ເຮົາ​ເຂົ້າ​ໃຈ​ການ​ປະ​ຕິ​ບັດ Google ຂໍ້​ຄວາມ​ເປັນ​ຄຳ​ເວົ້າ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ.
+  <string name="action_licenses">ລິ​ຂະ​ສິດ​ໂອ​ເພນ​ຊອດ</string>
+  <string name="action_settings">ໂຕເລືອກ</string>
+  <string name="action_voice_pack_uninstall">ຖອນການຕິດຕັ້ງ</string>
+  <string name="action_voice_pack_update">ອັບເດດ</string>
+  <string name="analytics_screen_explanation">"ເມື່ອ​ຟີ​ເຈີ​ນີ້​ເປີດ, ພວກ​ເຮົາ​ເກັບ​ເອົາ​ລາຍ​ງານ​ການ​ໃຊ້​ບໍ່​ເປີດ​ເຜູ້ີຍ​ຕົນ​ຕົວ. ອັນ​ນີ້​ຊ່ວຍ​ພວກ​ເຮົາ​ເຂົ້າ​ໃຈ​ການ​ປະ​ຕິ​ບັດ Google ຂໍ້​ຄວາມ​ເປັນ​ຄຳ​ເວົ້າ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ.
 
 ຕົວ​ຢ່າງ​ຂອງ​ເມ​ຕ​ຣິກ​ລວມ​ທີ່​ພວກ​ເຮົາ​ເກັບ​ເອົາ​ມີ​ຄື:
-"<li><ul>"ຂໍ້​ຄວາມ​ເປັນ​ຄຳ​ເວົ້າ​ໄດ້​ຮັບ​ການ​ນຳ​ໃຊ້​ເລື້ອຍ​ປານ​ໃດ.
-"<li>ການ​ປະ​ຕິ​ບັດ​ຂໍ້​ຄວາມ​ເປັນ​ຄຳ​ເວົ້າ​ທີ່​ຂໍ.</li>"
-"<li>ພາ​ສາ​ໃດ​ທີ່​ຖືກ​ນຳ​ໃຊ້.</li>"
-"<li>ຂໍ້​ຄວາມ​ເປັນ​ຄຳ​ເວົ້າ​ທີ່​ສົ່ງ​ອອກ​ເປັນ​ຄຳ​ເວົ້າ​ນັ້ນ​ບໍ່​ສຳ​ເລັດ​ເລື້ອຍ​ປານ​ໃດ.</li>"
-"</ul></li></string>
-    <string name="process_text_title">ເພີ່ມການປ້ອນຂໍ້ມູນ GoogleTTS ໃສ່ເມນູການເລືອກຂໍ້ຄວາມ</string>
-    <string name="process_text_summary">ການປ້ອນຂໍ້ມູນໃໝ່ນີ້ຈະສັງເຄາະຂໍ້ຄວາມຕ່າງໆທີ່ເລືອກໄວ້.</string>
-    <string name="voice_pack_status_installed">ຕິດຕັ້ງແລ້ວ (%1$s)</string>
-    <string name="voice_pack_status_gender_female">ຍິງ</string>
-    <string name="voice_pack_status_gender_male">ຊາຍ</string>
-    <string name="voice_entity_status_gender_female">​ຍິງ %1$d</string>
-    <string name="voice_entity_status_gender_male">ຊາຍ %1$d</string>
-    <string name="voice_entity_status_gender_unknown">​ເພດ​ທີ່​ບໍ່​ຮູ້ຈັກ %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">ສຽງແມ່ຍິງແບບເດີມ</string>
-    <string name="voice_pack_status_gender_male_legacy">ສຽງຜູ້ຊາຍແບບເດີມ</string>
-    <string name="voice_pack_status_gender_unknown">ເພດທີ່ບໍ່ຮູ້ຈັກ</string>
-    <string name="voice_pack_status_updatable">ມີອັບເດດມາໃໝ່</string>
-    <string name="voice_pack_status_downloadable">ດາວໂຫລດ (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">ສຽງ​ປັດ​ຈຸ​ບັນ</string>
-    <string name="voice_pack_status_downloading">​ກຳ​ລັງ​ດາວ​ໂຫລດ...</string>
-    <string name="voice_pack_name_high_quality">%1$s (ຄຸນ​ນະ​ພາບ​ສູງ​)</string>
-    <string name="voice_pack_description">"ຊື່: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#3714;&amp;#3789;&amp;#3785;&amp;#8203;&amp;#3716;&amp;#3751;&amp;#3762;&amp;#3745;&amp;#8203;&amp;#3776;&amp;#3739;&amp;#3761;&amp;#3737;&amp;#8203;&amp;#3716;&amp;#3763;&amp;#8203;&amp;#3776;&amp;#3751;&amp;#3771;&amp;#3785;&amp;#3762;&amp;#8203;&amp;#3780;&amp;#3732;&amp;#3785;&amp;#8203;&amp;#3758;&amp;#3761;&amp;#3738;&amp;#8203;&amp;#3713;&amp;#3762;&amp;#3737;&amp;#8203;&amp;#3737;&amp;#3763;&amp;#8203;&amp;#3779;&amp;#3722;&amp;#3785;&amp;#8203;&amp;#3776;&amp;#3749;&amp;#3767;&amp;#3785;&amp;#3757;&amp;#3725;&amp;#8203;&amp;#3739;&amp;#3762;&amp;#3737;&amp;#8203;&amp;#3779;&amp;#3732;.
+"&lt;li&gt;&amp;#3713;&amp;#3762;&amp;#3737;&amp;#8203;&amp;#3739;&amp;#3760;&amp;#8203;&amp;#3733;&amp;#3764;&amp;#8203;&amp;#3738;&amp;#3761;&amp;#3732;&amp;#8203;&amp;#3714;&amp;#3789;&amp;#3785;&amp;#8203;&amp;#3716;&amp;#3751;&amp;#3762;&amp;#3745;&amp;#8203;&amp;#3776;&amp;#3739;&amp;#3761;&amp;#3737;&amp;#8203;&amp;#3716;&amp;#3763;&amp;#8203;&amp;#3776;&amp;#3751;&amp;#3771;&amp;#3785;&amp;#3762;&amp;#8203;&amp;#3735;&amp;#3765;&amp;#3784;&amp;#8203;&amp;#3714;&amp;#3789;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#3742;&amp;#3762;&amp;#8203;&amp;#3754;&amp;#3762;&amp;#8203;&amp;#3779;&amp;#3732;&amp;#8203;&amp;#3735;&amp;#3765;&amp;#3784;&amp;#8203;&amp;#3734;&amp;#3767;&amp;#3713;&amp;#8203;&amp;#3737;&amp;#3763;&amp;#8203;&amp;#3779;&amp;#3722;&amp;#3785;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#3714;&amp;#3789;&amp;#3785;&amp;#8203;&amp;#3716;&amp;#3751;&amp;#3762;&amp;#3745;&amp;#8203;&amp;#3776;&amp;#3739;&amp;#3761;&amp;#3737;&amp;#8203;&amp;#3716;&amp;#3763;&amp;#8203;&amp;#3776;&amp;#3751;&amp;#3771;&amp;#3785;&amp;#3762;&amp;#8203;&amp;#3735;&amp;#3765;&amp;#3784;&amp;#8203;&amp;#3754;&amp;#3771;&amp;#3784;&amp;#3719;&amp;#8203;&amp;#3757;&amp;#3757;&amp;#3713;&amp;#8203;&amp;#3776;&amp;#3739;&amp;#3761;&amp;#3737;&amp;#8203;&amp;#3716;&amp;#3763;&amp;#8203;&amp;#3776;&amp;#3751;&amp;#3771;&amp;#3785;&amp;#3762;&amp;#8203;&amp;#3737;&amp;#3761;&amp;#3785;&amp;#3737;&amp;#8203;&amp;#3738;&amp;#3789;&amp;#3784;&amp;#8203;&amp;#3754;&amp;#3763;&amp;#8203;&amp;#3776;&amp;#3749;&amp;#3761;&amp;#3732;&amp;#8203;&amp;#3776;&amp;#3749;&amp;#3767;&amp;#3785;&amp;#3757;&amp;#3725;&amp;#8203;&amp;#3739;&amp;#3762;&amp;#3737;&amp;#8203;&amp;#3779;&amp;#3732;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">ປິດ</string>
+  <string name="analytics_summary_on">ເປີດ</string>
+  <string name="analytics_title">ລາຍ​ງານ​ການ​ໃຊ້​ບໍ່​ເປີດ​ເຜີຍ​ຕົນ​ຕົວ</string>
+  <string name="app_name">ລະບົບແປງຂໍ້ຄວາມເປັນສຽງຂອງ Google</string>
+  <string name="auto_update_title">ອັບເດດສຽງອັດຕະໂນມັດ</string>
+  <string name="auto_update_wifi_summary">ດາວໂຫລດຂໍ້ມູນສຽງໂດຍໃຊ້ Wi-Fi ເທົ່ານັ້ນ. ຖະໜອມການນຳໃຊ້ຂໍ້ມູນ.</string>
+  <string name="auto_update_wifi_title">ໃຊ້ Wi-Fi ເທົ່ານັ້ນ</string>
+  <string name="cancel">ຍົກເລີກ</string>
+  <string name="delete_voice_data">ລຶບ</string>
+  <string name="download">ດາວໂຫລດ</string>
+  <string name="download_failed_toast">ບໍ່ສາມາດເລີ່ມການດາວໂຫຼດແພັກສຽງໄດ້.</string>
+  <string name="download_failure_description">ແຕະເພື່ອລອງໃໝ່ອີກຄັ້ງ.</string>
+  <string name="download_failure_title">ການດາວໂຫລດສຽງສຳລັບ %1$s ເກີດຄວາມຜິດພາດ</string>
+  <string name="download_in_progress">ການດາວໂຫລດກຳລັງດຳເນີນຢູ່</string>
+  <string name="download_invite">ເປີດໃຊ້ການແປງຂໍ້ຄວາມເປັນສຽງເວົ້າແບບອອບລາຍສຳລັບ %1$s</string>
+  <string name="download_invite_title">ຕິດຕັ້ງສຽງເວົ້າ %1$s</string>
+  <string name="download_notification_description">ຂໍ້​ມູນ​ສຽງ​ສຳ​ລັບ​ການ​ແປງ​ຂໍ້​ຄວາມ​ເປັນ​ສຽງ​ເວົ້າ</string>
+  <string name="download_notification_title">%2$s ສໍາ​ລັບ %1$s</string>
+  <string name="download_success_description">ແຕະເພື່ອເຂົ້າເບິ່ງການຕັ້ງຄ່າ ແລະໃຊ້ສຽງນີ້ເປັນຄ່າເລີ່ມຕົ້ນ.</string>
+  <string name="download_success_title">ດາວໂຫລດຂໍ້ມູນສຽງ %1$s ແລ້ວ</string>
+  <string name="feedback_failed">ບໍ່ສາມາດເປີດແບບຟອມຄຳຕິຊົມໄດ້</string>
+  <string name="feedback_title">ຄຳຕິຊົມ</string>
+  <string name="general_settings">ການຕັ້ງຄ່າທົ່ວໄປ</string>
+  <string name="install_data_header">ດາວໂຫລດຂໍ້ມູນນີ້ ເພື່ອໃຊ້ການສັງເຄາະສຽງເວົ້າແບບອອບລາຍ ໃນອຸປະກອນຂອງທ່ານ.</string>
+  <string name="install_voice_text_2">ສາມາດດາວໂຫລດໄດ້</string>
+  <string name="license_activity_loading">ກຳລັງໂຫລດ...</string>
+  <string name="license_activity_title">ລິ​ຂະ​ສິດ​ໂອ​ເພນ​ຊອດ</string>
+  <string name="license_activity_unavailable">ເກີດບັນຫາໃນການໂຫລດຂໍ້ມູນລິຂະສິດ.</string>
+  <string name="manage_voice_data">ຈັດການຂໍ້ມູນສຽງ</string>
+  <string name="morphed_voice_set_title">ຊຸດ​ສຽງ</string>
+  <string name="multi_voice_pack_entry_name">ຊຸດ​ສຽງ %1$d</string>
+  <string name="multi_voice_pack_title">ສຽງ %1$s</string>
+  <string name="no_installable_voices">ບໍ່ມີສຽງທີ່ສາມາດດາວໂຫລດໄດ້</string>
+  <string name="play_sample_text_button_description">ເລືອກຂໍ້ຄວາມຕົວຢ່າງສຳລັບ %1$s</string>
+  <string name="process_text_summary">ການປ້ອນຂໍ້ມູນໃໝ່ນີ້ຈະສັງເຄາະຂໍ້ຄວາມຕ່າງໆທີ່ເລືອກໄວ້.</string>
+  <string name="process_text_title">ເພີ່ມການປ້ອນຂໍ້ມູນ GoogleTTS ໃສ່ເມນູການເລືອກຂໍ້ຄວາມ</string>
+  <string name="quick_error">ຜິດພາດ</string>
+  <string name="quick_speaking">ກຳລັງເວົ້າ</string>
+  <string name="quick_stopped">ຢຸດແລ້ວ</string>
+  <string name="quick_synthesizing">ກຳລັງສັງເຄາະ</string>
+  <string name="quick_wait_for_init">ກຳລັງໂຫລດ</string>
+  <string name="sample_text_synthesis_failure">ສັງເຄາະຕົວຢ່າງສຳລັບສຽງນີ້ບໍ່ສຳເລັດ.</string>
+  <string name="select_voice_title">ເລືອກສຽງ</string>
+  <string name="tts_settings_label">ໂຕເລືອກ Google TTS</string>
+  <string name="unpack_voice_pack_service_text">​ກຳ​ລັງ​ແກະ​ລະ​ຫັດ…</string>
+  <string name="unpack_voice_pack_service_title">​ກຳ​ລັງ​ອັບ​ເດດ​ຂໍ້​ມູນການແປງຂໍ້ຄວາມເປັນສຽງ</string>
+  <string name="update">ອັບເດດ</string>
+  <string name="voice_data_install_title">ຂໍ້​ມູນ​ສຽງ Google TTS</string>
+  <string name="voice_entity_status_gender_female">​ຍິງ %1$d</string>
+  <string name="voice_entity_status_gender_male">ຊາຍ %1$d</string>
+  <string name="voice_entity_status_gender_unknown">​ເພດ​ທີ່​ບໍ່​ຮູ້ຈັກ %1$d</string>
+  <string name="voice_entry_cancel_download_desc">ຍົກເລີກການດາວໂຫລດຊຸດຂໍ້ມູນສຽງ</string>
+  <string name="voice_entry_delete_desc">ລຶບຊຸດຂໍ້​ມູນສຽງ</string>
+  <string name="voice_entry_details">ເປີດໜ້າຈໍລາຍລະອຽດສຽງ</string>
+  <string name="voice_entry_download_desc">ດາວໂຫລດຊຸດຂໍ້ມູນສຽງ</string>
+  <string name="voice_entry_edit_desc">​ເປີດ​ຊຸດຂໍ້ມູນ​ສຽງ</string>
+  <string name="voice_entry_overflow_desc">ຄຳສັ່ງຊຸດຂໍ້ມູນສຽງເພີ່ມເຕີມ</string>
+  <string name="voice_entry_sample">ຫຼິ້ນຕົວຢ່າງສຽງ</string>
+  <string name="voice_installed">ຕິດຕັ້ງແລ້ວ.</string>
+  <string name="voice_installed_and_default">ຕິດຕັ້ງ ແລະກຳນົດໃຫ້ເປັນສຽງເລີ່ມຕົ້ນແລ້ວ.</string>
+  <string name="voice_pack_action_cancel">ຍົກເລີກການດາວໂຫລດ</string>
+  <string name="voice_pack_action_download">ດາວໂຫລດ (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">ເຮັດໃຫ້ມັນເປັນສຽງປັດຈຸບັນສຳລັບ %1$s</string>
+  <string name="voice_pack_action_remove">ລຶບອອກ</string>
+  <string name="voice_pack_action_update">ອັບເດດ (~%1$s)</string>
+  <string name="voice_pack_description">"ຊື່: %1$s 
 ສະຖານທີ່: %2$s 
 ຂະໜາດຂໍ້ມູນ: ~%3$s 
 ເພດຂອງຜູ່ເວົ້າ: %4$s"</string>
-    <string name="voice_pack_action_download">ດາວໂຫລດ (~%1$s)</string>
-    <string name="voice_pack_action_remove">ລຶບອອກ</string>
-    <string name="voice_pack_action_update">ອັບເດດ (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">ເຮັດໃຫ້ມັນເປັນສຽງປັດຈຸບັນສຳລັບ %1$s</string>
-    <string name="voice_pack_action_cancel">ຍົກເລີກການດາວໂຫລດ</string>
-    <string name="voice_pack_install_tab_installed">ຕິດຕັ້ງແລ້ວ</string>
-    <string name="voice_pack_install_tab_all">ທັງໝົດ</string>
-    <string name="voice_pack_install_tab_settings">ການຕັ້ງຄ່າ</string>
-    <string name="voice_entry_details">ເປີດໜ້າຈໍລາຍລະອຽດສຽງ</string>
-    <string name="voice_entry_edit_desc">​ເປີດ​ຊຸດຂໍ້ມູນ​ສຽງ</string>
-    <string name="voice_entry_overflow_desc">ຄຳສັ່ງຊຸດຂໍ້ມູນສຽງເພີ່ມເຕີມ</string>
-    <string name="voice_entry_download_desc">ດາວໂຫລດຊຸດຂໍ້ມູນສຽງ</string>
-    <string name="voice_entry_cancel_download_desc">ຍົກເລີກການດາວໂຫລດຊຸດຂໍ້ມູນສຽງ</string>
-    <string name="voice_entry_delete_desc">ລຶບຊຸດຂໍ້​ມູນສຽງ</string>
-    <string name="voice_entry_sample">ຫຼິ້ນຕົວຢ່າງສຽງ</string>
-    <string name="voice_pack_not_enough_space">ບໍ່ມີບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນພຽງພໍ. ທ່ານຈຳເປັນຕ້ອງລຶບຂໍ້ມູນໃຫ້ມີບ່ອນຫວ່າງ ເພື່ອຕິດຕັ້ງຂໍ້ມູນສຽງນີ້.</string>
-    <string name="action_settings">ໂຕເລືອກ</string>
-    <string name="action_licenses">ລິ​ຂະ​ສິດ​ໂອ​ເພນ​ຊອດ</string>
-    <string name="action_voice_pack_update">ອັບເດດ</string>
-    <string name="action_voice_pack_uninstall">ຖອນການຕິດຕັ້ງ</string>
-    <string name="voice_pack_uninstall_dialog">ຖອນການຕິດຕັ້ງສຽງນີ້?</string>
-    <string name="voice_pack_uninstall_keep">ຮັກສາໄວ້</string>
-    <string name="voice_pack_uninstall_uninstall">ຖອນການຕິດຕັ້ງ</string>
-    <string name="voice_pack_unpack_failure">ການຕິດຕັ້ງສຽງທີ່​ດາວໂຫລດມານັ້ນ​ລົ້ມເຫລວ</string>
-    <string name="multi_voice_pack_title">ສຽງ %1$s</string>
-    <string name="multi_voice_pack_entry_name">ຊຸດ​ສຽງ %1$d</string>
-    <string name="morphed_voice_set_title">ຊຸດ​ສຽງ</string>
-    <string name="select_voice_title">ເລືອກສຽງ</string>
-    <string name="play_sample_text_button_description">ເລືອກຂໍ້ຄວາມຕົວຢ່າງສຳລັບ %1$s</string>
-    <string name="voice_pack_no_download_manager">​ໂຕ​ຈັດ​ການ​ດາວ​ໂຫລດ​ຖືກ​ປິດ​ໄວ້ຫຼືບໍ່​ມີ; ບໍ່​ສາ​ມາດ​ດາວ​ໂຫລດ​ຊຸດ​ສຽງ​ໄດ້</string>
-    <string name="unpack_voice_pack_service_title">​ກຳ​ລັງ​ອັບ​ເດດ​ຂໍ້​ມູນການແປງຂໍ້ຄວາມເປັນສຽງ</string>
-    <string name="unpack_voice_pack_service_text">​ກຳ​ລັງ​ແກະ​ລະ​ຫັດ…</string>
-    <string name="sample_text_synthesis_failure">ສັງເຄາະຕົວຢ່າງສຳລັບສຽງນີ້ບໍ່ສຳເລັດ.</string>
-    <string name="quick_wait_for_init">ກຳລັງໂຫລດ</string>
-    <string name="quick_synthesizing">ກຳລັງສັງເຄາະ</string>
-    <string name="quick_speaking">ກຳລັງເວົ້າ</string>
-    <string name="quick_stopped">ຢຸດແລ້ວ</string>
-    <string name="quick_error">ຜິດພາດ</string>
+  <string name="voice_pack_install_tab_all">ທັງໝົດ</string>
+  <string name="voice_pack_install_tab_installed">ຕິດຕັ້ງແລ້ວ</string>
+  <string name="voice_pack_install_tab_settings">ການຕັ້ງຄ່າ</string>
+  <string name="voice_pack_name_high_quality">%1$s (ຄຸນ​ນະ​ພາບ​ສູງ​)</string>
+  <string name="voice_pack_no_download_manager">​ໂຕ​ຈັດ​ການ​ດາວ​ໂຫລດ​ຖືກ​ປິດ​ໄວ້ຫຼືບໍ່​ມີ; ບໍ່​ສາ​ມາດ​ດາວ​ໂຫລດ​ຊຸດ​ສຽງ​ໄດ້</string>
+  <string name="voice_pack_not_enough_space">ບໍ່ມີບ່ອນຈັດເກັບຂໍ້ມູນພາຍໃນພຽງພໍ. ທ່ານຈຳເປັນຕ້ອງລຶບຂໍ້ມູນໃຫ້ມີບ່ອນຫວ່າງ ເພື່ອຕິດຕັ້ງຂໍ້ມູນສຽງນີ້.</string>
+  <string name="voice_pack_status_downloadable">ດາວໂຫລດ (~%1$s)</string>
+  <string name="voice_pack_status_downloading">​ກຳ​ລັງ​ດາວ​ໂຫລດ...</string>
+  <string name="voice_pack_status_gender_female">ຍິງ</string>
+  <string name="voice_pack_status_gender_female_legacy">ສຽງແມ່ຍິງແບບເດີມ</string>
+  <string name="voice_pack_status_gender_male">ຊາຍ</string>
+  <string name="voice_pack_status_gender_male_legacy">ສຽງຜູ້ຊາຍແບບເດີມ</string>
+  <string name="voice_pack_status_gender_unknown">ເພດທີ່ບໍ່ຮູ້ຈັກ</string>
+  <string name="voice_pack_status_installed">ຕິດຕັ້ງແລ້ວ (%1$s)</string>
+  <string name="voice_pack_status_locale_default">ສຽງ​ປັດ​ຈຸ​ບັນ</string>
+  <string name="voice_pack_status_updatable">ມີອັບເດດມາໃໝ່</string>
+  <string name="voice_pack_uninstall_dialog">ຖອນການຕິດຕັ້ງສຽງນີ້?</string>
+  <string name="voice_pack_uninstall_keep">ຮັກສາໄວ້</string>
+  <string name="voice_pack_uninstall_uninstall">ຖອນການຕິດຕັ້ງ</string>
+  <string name="voice_pack_unpack_failure">ການຕິດຕັ້ງສຽງທີ່​ດາວໂຫລດມານັ້ນ​ລົ້ມເຫລວ</string>
+  <string name="voices_type_summary">[DOGFOOD]ປະ​ເພດ​ຕົວ​ສັງ​ເຄາະ​ຄຳ​ເວົ້າ</string>
+  <string name="voices_type_title">ປະ​ເພດ​ສຽງ</string>
 </resources>

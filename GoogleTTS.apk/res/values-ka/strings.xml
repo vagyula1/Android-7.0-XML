@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Google-ის ტექსტის წამკითხველი (TTS) ძრავა</string>
-    <string name="general_settings">ძირითადი პარამეტრები</string>
-    <string name="license_activity_title">ღია კოდის ლიცენზიები</string>
-    <string name="license_activity_loading">იტვირთება...</string>
-    <string name="license_activity_unavailable">ლიცენზიების ჩამოტვირთვისას წარმოიშვა პრობლემა.</string>
-    <string name="tts_settings_label">Google TTS Options</string>
-    <string name="voice_data_install_title">Google TTS ხმის მონაცემები</string>
-    <string name="install_data_header">თქვენი მოწყობილობისათვის ხაზგარე ხმის სინთეზატორის მხარდაჭერისათვის, ჩამოტვირთეთ ეს მონაცემები.</string>
-    <string name="download_invite_title">%1$s მეტყველების ხმის ინსტალაცია</string>
-    <string name="download_invite">ხაზგარე ტექსტის წამკითხველის აქტივაცია ენისთვის: %1$s</string>
-    <string name="install_voice_text_2">შესაძლებელია ჩამოტვირთვა.</string>
-    <string name="download_in_progress">ჩამოტვირთვა მიმდინარეობს</string>
-    <string name="no_installable_voices">ჩამოტვირთვადი ხმები არ არის</string>
-    <string name="cancel">გაუქმება</string>
-    <string name="delete_voice_data">წაშლა</string>
-    <string name="update">განახლება</string>
-    <string name="download">ჩამოტვირთვა</string>
-    <string name="voice_installed">დაყენებულია.</string>
-    <string name="voice_installed_and_default">დაყენებული და არჩეულია, როგორც ნაგულისხმევი.</string>
-    <string name="download_notification_title">%2$s, %1$s-ისთვის</string>
-    <string name="download_notification_description">ხმოვანი მონაცემები Voice data for ტექსტის გახმოვანებისათვის</string>
-    <string name="download_success_title">%1$s-ისთვის მეტყველების მონაცემების ჩამორტვირთვა</string>
-    <string name="download_success_description">შეეხეთ პარამეტრების სანახავად და ამ ხმის ნაგულისხმევად დასაყენებლად.</string>
-    <string name="download_failure_title">%1$s-ისთვის მეტყველების მონაცემების ჩამოტვირთვა ვერ მოხერხდა.</string>
-    <string name="download_failure_description">საცდელად შეეხეთ ისევ.</string>
-    <string name="download_failed_toast">ხმის პაკეტის ჩამოტვირთვის დაწყება ვერ მოხერხდა.</string>
-    <string name="manage_voice_data">მეტყველების მონაცემების მართვა</string>
-    <string name="auto_update_title">ხმების ავტო-განახლება</string>
-    <string name="auto_update_wifi_title">გამოიყენე მხოლოდ Wi-Fi</string>
-    <string name="auto_update_wifi_summary">ხმების მონაცემების ჩამოტვირთვა მხოლოდ Wi-Fi-ს გამოყენებით. ამით იზოგება მობილური ინტერნეტის ტრაფიკი.</string>
-    <string name="feedback_title">გამოხმაურება</string>
-    <string name="feedback_failed">გამოხმაურების ფორმა ვერ გაიხსნა</string>
-    <string name="voices_type_title">ხმების ტიპი</string>
-    <string name="voices_type_summary">[დოგფუდი] მეტყველების სინთეზატორის ტიპი</string>
-    <string name="analytics_title">ანონიმური გამოყენების ანგარიშები</string>
-    <string name="analytics_summary_on">ჩართული</string>
-    <string name="analytics_summary_off">გამორთული</string>
-    <string name="analytics_screen_explanation">"როდესაც ეს ფუნქცია ჩართულია, ჩვენ ანონიმური გამოყენების ანგარიშებს ვაგროვებთ. ეს გვეხმარება, უკეთ გავიგოთ, რამდენად კარგად სრულდება Google-ის ტექსტის მეტყველებად გარდაქმნა თქვენს მოწყობილობაზე.
+  <string name="action_licenses">ღია კოდის ლიცენზიები</string>
+  <string name="action_settings">პარამეტრები</string>
+  <string name="action_voice_pack_uninstall">დეინსტალაცია</string>
+  <string name="action_voice_pack_update">განახლება</string>
+  <string name="analytics_screen_explanation">"როდესაც ეს ფუნქცია ჩართულია, ჩვენ ანონიმური გამოყენების ანგარიშებს ვაგროვებთ. ეს გვეხმარება, უკეთ გავიგოთ, რამდენად კარგად სრულდება Google-ის ტექსტის მეტყველებად გარდაქმნა თქვენს მოწყობილობაზე.
 
 ერთიანი მეტრულების მაგალითები, რომლებსაც ჩვენ ვაგროვებთ:
-"<li><ul>"რამდენად ხშირად გამოიყენება ტექსტის მეტყველებად გარდაქმნა.
-"<li>ტექსტის მეტყველებად გარდაქმნის მოთხოვნების შესრულება.</li>"
-"<li>რომელი ენები გამოყენება.</li>"
-"<li>რამდენად ხშირად ვერ ახერხებს ტექსტის მეტყველებად გარდაქმნა შედეგის მეტყველების სახით მოწოდებას.</li>"
-"</ul></li></string>
-    <string name="process_text_title">ტექსტის არჩევის მენიუში GoogleTTS ჩანაწერის დამატება</string>
-    <string name="process_text_summary">ეს ახალი ჩანაწერი არჩეული ტექსტის სინთეზირებას მოახდენს.</string>
-    <string name="voice_pack_status_installed">დაყენებული (%1$s)</string>
-    <string name="voice_pack_status_gender_female">მდედრობითი</string>
-    <string name="voice_pack_status_gender_male">მამრობითი</string>
-    <string name="voice_entity_status_gender_female">ქალი %1$d</string>
-    <string name="voice_entity_status_gender_male">მამაკაცი %1$d</string>
-    <string name="voice_entity_status_gender_unknown">უცნობი სქესი %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">ქალის მოძველებული ხმა</string>
-    <string name="voice_pack_status_gender_male_legacy">მამაკაცის მოძველებული ხმა</string>
-    <string name="voice_pack_status_gender_unknown">სქესი უცნობია</string>
-    <string name="voice_pack_status_updatable">ხელმისაწვდომია განახლება</string>
-    <string name="voice_pack_status_downloadable">ჩამოტვირთვა (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">ამჟამინდელი ხმა</string>
-    <string name="voice_pack_status_downloading">მიმდინარეობს ჩამოტვირთვა…</string>
-    <string name="voice_pack_name_high_quality">%1$s (მაღალი ხარისხი)</string>
-    <string name="voice_pack_description">"სახელი: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#4320;&amp;#4304;&amp;#4315;&amp;#4307;&amp;#4308;&amp;#4316;&amp;#4304;&amp;#4307; &amp;#4334;&amp;#4328;&amp;#4312;&amp;#4320;&amp;#4304;&amp;#4307; &amp;#4306;&amp;#4304;&amp;#4315;&amp;#4317;&amp;#4312;&amp;#4327;&amp;#4308;&amp;#4316;&amp;#4308;&amp;#4305;&amp;#4304; &amp;#4322;&amp;#4308;&amp;#4325;&amp;#4321;&amp;#4322;&amp;#4312;&amp;#4321; &amp;#4315;&amp;#4308;&amp;#4322;&amp;#4327;&amp;#4309;&amp;#4308;&amp;#4314;&amp;#4308;&amp;#4305;&amp;#4304;&amp;#4307; &amp;#4306;&amp;#4304;&amp;#4320;&amp;#4307;&amp;#4304;&amp;#4325;&amp;#4315;&amp;#4316;&amp;#4304;.
+"&lt;li&gt;&amp;#4322;&amp;#4308;&amp;#4325;&amp;#4321;&amp;#4322;&amp;#4312;&amp;#4321; &amp;#4315;&amp;#4308;&amp;#4322;&amp;#4327;&amp;#4309;&amp;#4308;&amp;#4314;&amp;#4308;&amp;#4305;&amp;#4304;&amp;#4307; &amp;#4306;&amp;#4304;&amp;#4320;&amp;#4307;&amp;#4304;&amp;#4325;&amp;#4315;&amp;#4316;&amp;#4312;&amp;#4321; &amp;#4315;&amp;#4317;&amp;#4311;&amp;#4334;&amp;#4317;&amp;#4309;&amp;#4316;&amp;#4308;&amp;#4305;&amp;#4312;&amp;#4321; &amp;#4328;&amp;#4308;&amp;#4321;&amp;#4320;&amp;#4323;&amp;#4314;&amp;#4308;&amp;#4305;&amp;#4304;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#4320;&amp;#4317;&amp;#4315;&amp;#4308;&amp;#4314;&amp;#4312; &amp;#4308;&amp;#4316;&amp;#4308;&amp;#4305;&amp;#4312; &amp;#4306;&amp;#4304;&amp;#4315;&amp;#4317;&amp;#4327;&amp;#4308;&amp;#4316;&amp;#4308;&amp;#4305;&amp;#4304;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#4320;&amp;#4304;&amp;#4315;&amp;#4307;&amp;#4308;&amp;#4316;&amp;#4304;&amp;#4307; &amp;#4334;&amp;#4328;&amp;#4312;&amp;#4320;&amp;#4304;&amp;#4307; &amp;#4309;&amp;#4308;&amp;#4320; &amp;#4304;&amp;#4334;&amp;#4308;&amp;#4320;&amp;#4334;&amp;#4308;&amp;#4305;&amp;#4321; &amp;#4322;&amp;#4308;&amp;#4325;&amp;#4321;&amp;#4322;&amp;#4312;&amp;#4321; &amp;#4315;&amp;#4308;&amp;#4322;&amp;#4327;&amp;#4309;&amp;#4308;&amp;#4314;&amp;#4308;&amp;#4305;&amp;#4304;&amp;#4307; &amp;#4306;&amp;#4304;&amp;#4320;&amp;#4307;&amp;#4304;&amp;#4325;&amp;#4315;&amp;#4316;&amp;#4304; &amp;#4328;&amp;#4308;&amp;#4307;&amp;#4308;&amp;#4306;&amp;#4312;&amp;#4321; &amp;#4315;&amp;#4308;&amp;#4322;&amp;#4327;&amp;#4309;&amp;#4308;&amp;#4314;&amp;#4308;&amp;#4305;&amp;#4312;&amp;#4321; &amp;#4321;&amp;#4304;&amp;#4334;&amp;#4312;&amp;#4311; &amp;#4315;&amp;#4317;&amp;#4332;&amp;#4317;&amp;#4307;&amp;#4308;&amp;#4305;&amp;#4304;&amp;#4321;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">გამორთული</string>
+  <string name="analytics_summary_on">ჩართული</string>
+  <string name="analytics_title">ანონიმური გამოყენების ანგარიშები</string>
+  <string name="app_name">Google-ის ტექსტის წამკითხველი (TTS) ძრავა</string>
+  <string name="auto_update_title">ხმების ავტო-განახლება</string>
+  <string name="auto_update_wifi_summary">ხმების მონაცემების ჩამოტვირთვა მხოლოდ Wi-Fi-ს გამოყენებით. ამით იზოგება მობილური ინტერნეტის ტრაფიკი.</string>
+  <string name="auto_update_wifi_title">გამოიყენე მხოლოდ Wi-Fi</string>
+  <string name="cancel">გაუქმება</string>
+  <string name="delete_voice_data">წაშლა</string>
+  <string name="download">ჩამოტვირთვა</string>
+  <string name="download_failed_toast">ხმის პაკეტის ჩამოტვირთვის დაწყება ვერ მოხერხდა.</string>
+  <string name="download_failure_description">საცდელად შეეხეთ ისევ.</string>
+  <string name="download_failure_title">%1$s-ისთვის მეტყველების მონაცემების ჩამოტვირთვა ვერ მოხერხდა.</string>
+  <string name="download_in_progress">ჩამოტვირთვა მიმდინარეობს</string>
+  <string name="download_invite">ხაზგარე ტექსტის წამკითხველის აქტივაცია ენისთვის: %1$s</string>
+  <string name="download_invite_title">%1$s მეტყველების ხმის ინსტალაცია</string>
+  <string name="download_notification_description">ხმოვანი მონაცემები Voice data for ტექსტის გახმოვანებისათვის</string>
+  <string name="download_notification_title">%2$s, %1$s-ისთვის</string>
+  <string name="download_success_description">შეეხეთ პარამეტრების სანახავად და ამ ხმის ნაგულისხმევად დასაყენებლად.</string>
+  <string name="download_success_title">%1$s-ისთვის მეტყველების მონაცემების ჩამორტვირთვა</string>
+  <string name="feedback_failed">გამოხმაურების ფორმა ვერ გაიხსნა</string>
+  <string name="feedback_title">გამოხმაურება</string>
+  <string name="general_settings">ძირითადი პარამეტრები</string>
+  <string name="install_data_header">თქვენი მოწყობილობისათვის ხაზგარე ხმის სინთეზატორის მხარდაჭერისათვის, ჩამოტვირთეთ ეს მონაცემები.</string>
+  <string name="install_voice_text_2">შესაძლებელია ჩამოტვირთვა.</string>
+  <string name="license_activity_loading">იტვირთება...</string>
+  <string name="license_activity_title">ღია კოდის ლიცენზიები</string>
+  <string name="license_activity_unavailable">ლიცენზიების ჩამოტვირთვისას წარმოიშვა პრობლემა.</string>
+  <string name="manage_voice_data">მეტყველების მონაცემების მართვა</string>
+  <string name="morphed_voice_set_title">ხმოვანი ნაკრები</string>
+  <string name="multi_voice_pack_entry_name">ხმოვანი ნაკრები %1$d</string>
+  <string name="multi_voice_pack_title">%1$s ხმა</string>
+  <string name="no_installable_voices">ჩამოტვირთვადი ხმები არ არის</string>
+  <string name="play_sample_text_button_description">ტექსტის ნიმუშის დაკვრა ამ ხმით: %1$s</string>
+  <string name="process_text_summary">ეს ახალი ჩანაწერი არჩეული ტექსტის სინთეზირებას მოახდენს.</string>
+  <string name="process_text_title">ტექსტის არჩევის მენიუში GoogleTTS ჩანაწერის დამატება</string>
+  <string name="quick_error">შეცდომა</string>
+  <string name="quick_speaking">მიმდინარეობს წარმოთქმა</string>
+  <string name="quick_stopped">შეწყდა</string>
+  <string name="quick_synthesizing">მიმდინარეობს სინთეზირება</string>
+  <string name="quick_wait_for_init">იტვირთება</string>
+  <string name="sample_text_synthesis_failure">ხმის ამ ნიმუშის სინთეზირება ვერ მოხერხდა.</string>
+  <string name="select_voice_title">აირჩიეთ ხმა</string>
+  <string name="tts_settings_label">Google TTS Options</string>
+  <string name="unpack_voice_pack_service_text">ამოღება…</string>
+  <string name="unpack_voice_pack_service_title">მიმდინარეობს ტექსტის გახმოვანების მონაცემების განახლება</string>
+  <string name="update">განახლება</string>
+  <string name="voice_data_install_title">Google TTS ხმის მონაცემები</string>
+  <string name="voice_entity_status_gender_female">ქალი %1$d</string>
+  <string name="voice_entity_status_gender_male">მამაკაცი %1$d</string>
+  <string name="voice_entity_status_gender_unknown">უცნობი სქესი %1$d</string>
+  <string name="voice_entry_cancel_download_desc">ხმის პაკეტის ჩამოტვირთვის გაუქმება</string>
+  <string name="voice_entry_delete_desc">ხმის პაკეტის წაშლა</string>
+  <string name="voice_entry_details">ხმის რედაქტირების დიალოგის გაშვება</string>
+  <string name="voice_entry_download_desc">ხმის პაკეტის ჩამოტვირთვა</string>
+  <string name="voice_entry_edit_desc">ხმოვანი პაკეტის გახსნა</string>
+  <string name="voice_entry_overflow_desc">ხმის პაკეტის დამატებითი ქმედებები</string>
+  <string name="voice_entry_sample">ხმის ნიმუშის დაკვრა</string>
+  <string name="voice_installed">დაყენებულია.</string>
+  <string name="voice_installed_and_default">დაყენებული და არჩეულია, როგორც ნაგულისხმევი.</string>
+  <string name="voice_pack_action_cancel">ჩამოტვირთვის გაუქმება</string>
+  <string name="voice_pack_action_download">ჩამოტვირთვა (~%1$s)</string>
+  <string name="voice_pack_action_locale_default">გახდეს %1$s-ის ამჟამინდელი ხმა</string>
+  <string name="voice_pack_action_remove">ამოშლა</string>
+  <string name="voice_pack_action_update">განახლება (~%1$s)</string>
+  <string name="voice_pack_description">"სახელი: %1$s 
 ლოკალი: %2$s 
 მონაცემთა ზომა: ~%3$s 
 მოსაუბრის სქესი: %4$s"</string>
-    <string name="voice_pack_action_download">ჩამოტვირთვა (~%1$s)</string>
-    <string name="voice_pack_action_remove">ამოშლა</string>
-    <string name="voice_pack_action_update">განახლება (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">გახდეს %1$s-ის ამჟამინდელი ხმა</string>
-    <string name="voice_pack_action_cancel">ჩამოტვირთვის გაუქმება</string>
-    <string name="voice_pack_install_tab_installed">დაყენებული</string>
-    <string name="voice_pack_install_tab_all">ყველა</string>
-    <string name="voice_pack_install_tab_settings">პარამეტრები</string>
-    <string name="voice_entry_details">ხმის რედაქტირების დიალოგის გაშვება</string>
-    <string name="voice_entry_edit_desc">ხმოვანი პაკეტის გახსნა</string>
-    <string name="voice_entry_overflow_desc">ხმის პაკეტის დამატებითი ქმედებები</string>
-    <string name="voice_entry_download_desc">ხმის პაკეტის ჩამოტვირთვა</string>
-    <string name="voice_entry_cancel_download_desc">ხმის პაკეტის ჩამოტვირთვის გაუქმება</string>
-    <string name="voice_entry_delete_desc">ხმის პაკეტის წაშლა</string>
-    <string name="voice_entry_sample">ხმის ნიმუშის დაკვრა</string>
-    <string name="voice_pack_not_enough_space">შიდა მეხსიერებაში საკმარისი სივრცე არ არის. ამ ხმის ინსტალაციისათვის, მოგიწევთ გაათავისუფლოთ სივრცე.</string>
-    <string name="action_settings">პარამეტრები</string>
-    <string name="action_licenses">ღია კოდის ლიცენზიები</string>
-    <string name="action_voice_pack_update">განახლება</string>
-    <string name="action_voice_pack_uninstall">დეინსტალაცია</string>
-    <string name="voice_pack_uninstall_dialog">გსურთ, ხმის დეინსტალაცია?</string>
-    <string name="voice_pack_uninstall_keep">შენარჩუნება</string>
-    <string name="voice_pack_uninstall_uninstall">დეინსტალაცია</string>
-    <string name="voice_pack_unpack_failure">ჩამოტვირთული ხმის ინსტალაცია ვერ მოხერხდა</string>
-    <string name="multi_voice_pack_title">%1$s ხმა</string>
-    <string name="multi_voice_pack_entry_name">ხმოვანი ნაკრები %1$d</string>
-    <string name="morphed_voice_set_title">ხმოვანი ნაკრები</string>
-    <string name="select_voice_title">აირჩიეთ ხმა</string>
-    <string name="play_sample_text_button_description">ტექსტის ნიმუშის დაკვრა ამ ხმით: %1$s</string>
-    <string name="voice_pack_no_download_manager">ჩამოტვირთვის მენეჯერი გაუქმებულია, ან ვერ იძებნება; ხმის პაკეტის ჩამოტვირთვა ვერ ხერხდება</string>
-    <string name="unpack_voice_pack_service_title">მიმდინარეობს ტექსტის გახმოვანების მონაცემების განახლება</string>
-    <string name="unpack_voice_pack_service_text">ამოღება…</string>
-    <string name="sample_text_synthesis_failure">ხმის ამ ნიმუშის სინთეზირება ვერ მოხერხდა.</string>
-    <string name="quick_wait_for_init">იტვირთება</string>
-    <string name="quick_synthesizing">მიმდინარეობს სინთეზირება</string>
-    <string name="quick_speaking">მიმდინარეობს წარმოთქმა</string>
-    <string name="quick_stopped">შეწყდა</string>
-    <string name="quick_error">შეცდომა</string>
+  <string name="voice_pack_install_tab_all">ყველა</string>
+  <string name="voice_pack_install_tab_installed">დაყენებული</string>
+  <string name="voice_pack_install_tab_settings">პარამეტრები</string>
+  <string name="voice_pack_name_high_quality">%1$s (მაღალი ხარისხი)</string>
+  <string name="voice_pack_no_download_manager">ჩამოტვირთვის მენეჯერი გაუქმებულია, ან ვერ იძებნება; ხმის პაკეტის ჩამოტვირთვა ვერ ხერხდება</string>
+  <string name="voice_pack_not_enough_space">შიდა მეხსიერებაში საკმარისი სივრცე არ არის. ამ ხმის ინსტალაციისათვის, მოგიწევთ გაათავისუფლოთ სივრცე.</string>
+  <string name="voice_pack_status_downloadable">ჩამოტვირთვა (~%1$s)</string>
+  <string name="voice_pack_status_downloading">მიმდინარეობს ჩამოტვირთვა…</string>
+  <string name="voice_pack_status_gender_female">მდედრობითი</string>
+  <string name="voice_pack_status_gender_female_legacy">ქალის მოძველებული ხმა</string>
+  <string name="voice_pack_status_gender_male">მამრობითი</string>
+  <string name="voice_pack_status_gender_male_legacy">მამაკაცის მოძველებული ხმა</string>
+  <string name="voice_pack_status_gender_unknown">სქესი უცნობია</string>
+  <string name="voice_pack_status_installed">დაყენებული (%1$s)</string>
+  <string name="voice_pack_status_locale_default">ამჟამინდელი ხმა</string>
+  <string name="voice_pack_status_updatable">ხელმისაწვდომია განახლება</string>
+  <string name="voice_pack_uninstall_dialog">გსურთ, ხმის დეინსტალაცია?</string>
+  <string name="voice_pack_uninstall_keep">შენარჩუნება</string>
+  <string name="voice_pack_uninstall_uninstall">დეინსტალაცია</string>
+  <string name="voice_pack_unpack_failure">ჩამოტვირთული ხმის ინსტალაცია ვერ მოხერხდა</string>
+  <string name="voices_type_summary">[დოგფუდი] მეტყველების სინთეზატორის ტიპი</string>
+  <string name="voices_type_title">ხმების ტიპი</string>
 </resources>

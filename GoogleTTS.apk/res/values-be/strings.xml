@@ -1,106 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Модуль Google Text-to-speech</string>
-    <string name="general_settings">Агульныя налады</string>
-    <string name="license_activity_title">Лiцэнзіі на ПЗ з адкр. кодам</string>
-    <string name="license_activity_loading">Загрузка...</string>
-    <string name="license_activity_unavailable">Не атрымлiваецца загрузіць ліцэнзіі.</string>
-    <string name="tts_settings_label">Параметры Google СМ</string>
-    <string name="voice_data_install_title">Галасавыя даныя Google СМ</string>
-    <string name="install_data_header">Спампуйце гэтыя дадзеныя, каб падтрымліваць сінтэз гаворкі на вашай прыладзе ў аўтаномным рэжыме.</string>
-    <string name="download_invite_title">Усталяваць голас прамовы %1$s</string>
-    <string name="download_invite">Уключыць для %1$s прагаворванне тэксту ў аўтаномным рэжыме</string>
-    <string name="install_voice_text_2">Даступна для спампоўкі</string>
-    <string name="download_in_progress">Ідзе спампоўка</string>
-    <string name="no_installable_voices">Няма галасоў, якія могуць быць спампаваны</string>
-    <string name="cancel">Скасаваць</string>
-    <string name="delete_voice_data">Выдаліць</string>
-    <string name="update">Абнавіць</string>
-    <string name="download">Спампаваць</string>
-    <string name="voice_installed">Усталявана.</string>
-    <string name="voice_installed_and_default">Усталявана і наладжана па змаўчанні.</string>
-    <string name="download_notification_title">%2$s для мовы %1$s</string>
-    <string name="download_notification_description">Галасавыя даныя для сінтэзу маўлення</string>
-    <string name="download_success_title">Спампаваны галасавыя дадзеныя для мовы: %1$s</string>
-    <string name="download_success_description">Націсніце, каб перайсці ў налады і ўсталяваць гэты голас па змаўчанні.</string>
-    <string name="download_failure_title">Памылка спампавання галасавых дадзеных для мовы: %1$s</string>
-    <string name="download_failure_description">Націсніце, каб паўтарыць спробу.</string>
-    <string name="download_failed_toast">Не атрымалася пачаць спампоўку галасавога пакета.</string>
-    <string name="manage_voice_data">Кіраванне галасавымі дадзенымі</string>
-    <string name="auto_update_title">Аўтаматычна абнавіць галасы</string>
-    <string name="auto_update_wifi_title">Ужываць толькі Wi-Fi</string>
-    <string name="auto_update_wifi_summary">Спампоўваць галасавыя даныя толькі па Wi-Fi. Змяншае выкарыстанне трафіку.</string>
-    <string name="feedback_title">Зваротная сувязь</string>
-    <string name="feedback_failed">Не атрымалася адкрыць форму зваротнай сувязі</string>
-    <string name="voices_type_title">Тып галасоў</string>
-    <string name="voices_type_summary">[ДЛЯ СУПРАЦОЎНІКАЎ]Тып сінтэзатара маўлення</string>
-    <string name="analytics_title">Ананімныя справаздачы аб выкарыстанні</string>
-    <string name="analytics_summary_on">Уключана</string>
-    <string name="analytics_summary_off">Адключана</string>
-    <string name="analytics_screen_explanation">"Калі гэта функцыя ўключана, мы збіраем ананімныя справаздачы аб выкарыстанні. Гэта дапамагае нам лепш разумець, як сінтэз маўлення Google працуе на вашай прыладзе.
+  <string name="action_licenses">Ліцэнзіі ПЗ з адкр. кодам</string>
+  <string name="action_settings">Параметры</string>
+  <string name="action_voice_pack_uninstall">Выдаліць</string>
+  <string name="action_voice_pack_update">Абнавіць</string>
+  <string name="analytics_screen_explanation">"Калі гэта функцыя ўключана, мы збіраем ананімныя справаздачы аб выкарыстанні. Гэта дапамагае нам лепш разумець, як сінтэз маўлення Google працуе на вашай прыладзе.
 
 Узоры сукупнай статыстыкі, якую мы збіраем:
-"<li><ul>"Як часта выкарыстоўваецца сінтэз маўлення.
-"<li>Прадукцыйнасць запытаў сінтэзу маўлення.</li>"
-"<li>Якія мовы выкарыстоўваюцца.</li>"
-"<li>Як часта праграме сінтэзу маўлення не ўдаецца забяспечыць вывад маўлення.</li>"
-"</ul></li></string>
-    <string name="process_text_title">Дад.запіс GoogleTTS у меню выбару тэксту</string>
-    <string name="process_text_summary">Гэты новы запіс будзе сінтэзаваць любы выбраны тэкст.</string>
-    <string name="voice_pack_status_installed">Усталявана (%1$s)</string>
-    <string name="voice_pack_status_gender_female">Жаночы</string>
-    <string name="voice_pack_status_gender_male">Мужчынскі</string>
-    <string name="voice_entity_status_gender_female">Жаночы %1$d</string>
-    <string name="voice_entity_status_gender_male">Мужчынскі %1$d</string>
-    <string name="voice_entity_status_gender_unknown">Невядомага полу %1$d</string>
-    <string name="voice_pack_status_gender_female_legacy">Папярэдні жаночы голас</string>
-    <string name="voice_pack_status_gender_male_legacy">Папярэдні мужчынскі голас</string>
-    <string name="voice_pack_status_gender_unknown">Невядомага полу</string>
-    <string name="voice_pack_status_updatable">Ёсць абнаўленне</string>
-    <string name="voice_pack_status_downloadable">Спампаваць (~%1$s)</string>
-    <string name="voice_pack_status_locale_default">Бягучы голас</string>
-    <string name="voice_pack_status_downloading">Спампоўваецца...</string>
-    <string name="voice_pack_name_high_quality">%1$s (высокая якасць)</string>
-    <string name="voice_pack_description">"Імя: %1$s 
+"&lt;li&gt;&lt;ul&gt;"&amp;#1071;&amp;#1082; &amp;#1095;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1072; &amp;#1074;&amp;#1099;&amp;#1082;&amp;#1072;&amp;#1088;&amp;#1099;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1118;&amp;#1074;&amp;#1072;&amp;#1077;&amp;#1094;&amp;#1094;&amp;#1072; &amp;#1089;&amp;#1110;&amp;#1085;&amp;#1090;&amp;#1101;&amp;#1079; &amp;#1084;&amp;#1072;&amp;#1118;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103;.
+"&lt;li&gt;&amp;#1055;&amp;#1088;&amp;#1072;&amp;#1076;&amp;#1091;&amp;#1082;&amp;#1094;&amp;#1099;&amp;#1081;&amp;#1085;&amp;#1072;&amp;#1089;&amp;#1094;&amp;#1100; &amp;#1079;&amp;#1072;&amp;#1087;&amp;#1099;&amp;#1090;&amp;#1072;&amp;#1118; &amp;#1089;&amp;#1110;&amp;#1085;&amp;#1090;&amp;#1101;&amp;#1079;&amp;#1091; &amp;#1084;&amp;#1072;&amp;#1118;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1071;&amp;#1082;&amp;#1110;&amp;#1103; &amp;#1084;&amp;#1086;&amp;#1074;&amp;#1099; &amp;#1074;&amp;#1099;&amp;#1082;&amp;#1072;&amp;#1088;&amp;#1099;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1118;&amp;#1074;&amp;#1072;&amp;#1102;&amp;#1094;&amp;#1094;&amp;#1072;.&lt;/li&gt;"
+"&lt;li&gt;&amp;#1071;&amp;#1082; &amp;#1095;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1072;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1084;&amp;#1077; &amp;#1089;&amp;#1110;&amp;#1085;&amp;#1090;&amp;#1101;&amp;#1079;&amp;#1091; &amp;#1084;&amp;#1072;&amp;#1118;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103; &amp;#1085;&amp;#1077; &amp;#1118;&amp;#1076;&amp;#1072;&amp;#1077;&amp;#1094;&amp;#1094;&amp;#1072; &amp;#1079;&amp;#1072;&amp;#1073;&amp;#1103;&amp;#1089;&amp;#1087;&amp;#1077;&amp;#1095;&amp;#1099;&amp;#1094;&amp;#1100; &amp;#1074;&amp;#1099;&amp;#1074;&amp;#1072;&amp;#1076; &amp;#1084;&amp;#1072;&amp;#1118;&amp;#1083;&amp;#1077;&amp;#1085;&amp;#1085;&amp;#1103;.&lt;/li&gt;"
+"&lt;/ul&gt;&lt;/li&gt;</string>
+  <string name="analytics_summary_off">Адключана</string>
+  <string name="analytics_summary_on">Уключана</string>
+  <string name="analytics_title">Ананімныя справаздачы аб выкарыстанні</string>
+  <string name="app_name">Модуль Google Text-to-speech</string>
+  <string name="auto_update_title">Аўтаматычна абнавіць галасы</string>
+  <string name="auto_update_wifi_summary">Спампоўваць галасавыя даныя толькі па Wi-Fi. Змяншае выкарыстанне трафіку.</string>
+  <string name="auto_update_wifi_title">Ужываць толькі Wi-Fi</string>
+  <string name="cancel">Скасаваць</string>
+  <string name="delete_voice_data">Выдаліць</string>
+  <string name="download">Спампаваць</string>
+  <string name="download_failed_toast">Не атрымалася пачаць спампоўку галасавога пакета.</string>
+  <string name="download_failure_description">Націсніце, каб паўтарыць спробу.</string>
+  <string name="download_failure_title">Памылка спампавання галасавых дадзеных для мовы: %1$s</string>
+  <string name="download_in_progress">Ідзе спампоўка</string>
+  <string name="download_invite">Уключыць для %1$s прагаворванне тэксту ў аўтаномным рэжыме</string>
+  <string name="download_invite_title">Усталяваць голас прамовы %1$s</string>
+  <string name="download_notification_description">Галасавыя даныя для сінтэзу маўлення</string>
+  <string name="download_notification_title">%2$s для мовы %1$s</string>
+  <string name="download_success_description">Націсніце, каб перайсці ў налады і ўсталяваць гэты голас па змаўчанні.</string>
+  <string name="download_success_title">Спампаваны галасавыя дадзеныя для мовы: %1$s</string>
+  <string name="feedback_failed">Не атрымалася адкрыць форму зваротнай сувязі</string>
+  <string name="feedback_title">Зваротная сувязь</string>
+  <string name="general_settings">Агульныя налады</string>
+  <string name="install_data_header">Спампуйце гэтыя дадзеныя, каб падтрымліваць сінтэз гаворкі на вашай прыладзе ў аўтаномным рэжыме.</string>
+  <string name="install_voice_text_2">Даступна для спампоўкі</string>
+  <string name="license_activity_loading">Загрузка...</string>
+  <string name="license_activity_title">Лiцэнзіі на ПЗ з адкр. кодам</string>
+  <string name="license_activity_unavailable">Не атрымлiваецца загрузіць ліцэнзіі.</string>
+  <string name="manage_voice_data">Кіраванне галасавымі дадзенымі</string>
+  <string name="morphed_voice_set_title">Набор галасоў</string>
+  <string name="multi_voice_pack_entry_name">Набор галасоў %1$d</string>
+  <string name="multi_voice_pack_title">Галасы для мовы: %1$s</string>
+  <string name="no_installable_voices">Няма галасоў, якія могуць быць спампаваны</string>
+  <string name="play_sample_text_button_description">Прайграць узор тэксту для голасу \"%1$s\"</string>
+  <string name="process_text_summary">Гэты новы запіс будзе сінтэзаваць любы выбраны тэкст.</string>
+  <string name="process_text_title">Дад.запіс GoogleTTS у меню выбару тэксту</string>
+  <string name="quick_error">Памылка</string>
+  <string name="quick_speaking">Прагаворванне</string>
+  <string name="quick_stopped">Спынена</string>
+  <string name="quick_synthesizing">Сінтэз</string>
+  <string name="quick_wait_for_init">Загрузка</string>
+  <string name="sample_text_synthesis_failure">Не атрымалася сінтэзаваць прыклад для гэтага голасу.</string>
+  <string name="select_voice_title">Выберыце голас</string>
+  <string name="tts_settings_label">Параметры Google СМ</string>
+  <string name="unpack_voice_pack_service_text">Распакоўка…</string>
+  <string name="unpack_voice_pack_service_title">Абнаўленне даных Сінтэзу маўлення</string>
+  <string name="update">Абнавіць</string>
+  <string name="voice_data_install_title">Галасавыя даныя Google СМ</string>
+  <string name="voice_entity_status_gender_female">Жаночы %1$d</string>
+  <string name="voice_entity_status_gender_male">Мужчынскі %1$d</string>
+  <string name="voice_entity_status_gender_unknown">Невядомага полу %1$d</string>
+  <string name="voice_entry_cancel_download_desc">Скасаваць спампоўку галасавога пакета</string>
+  <string name="voice_entry_delete_desc">Выдаліць галасавы пакет</string>
+  <string name="voice_entry_details">Запусціць дыялог падрабязных звестак пра голас</string>
+  <string name="voice_entry_download_desc">Спампаваць галасавы пакет</string>
+  <string name="voice_entry_edit_desc">Адкрыць галасавы пакет</string>
+  <string name="voice_entry_overflow_desc">Дадатковыя дзеянні з галасавым пакетам</string>
+  <string name="voice_entry_sample">Прайграць узор голасу</string>
+  <string name="voice_installed">Усталявана.</string>
+  <string name="voice_installed_and_default">Усталявана і наладжана па змаўчанні.</string>
+  <string name="voice_pack_action_cancel">Скасаваць спампоўку</string>
+  <string name="voice_pack_action_download">Спампаваць (%1$s)</string>
+  <string name="voice_pack_action_locale_default">Зрабіць бягучым голасам для %1$s</string>
+  <string name="voice_pack_action_remove">Выдаліць</string>
+  <string name="voice_pack_action_update">Абнавіць (~%1$s)</string>
+  <string name="voice_pack_description">"Імя: %1$s 
 Лакальны стандарт: %2$s 
 Памер даных: ~%3$s 
 Пол дыктара: %4$s"</string>
-    <string name="voice_pack_action_download">Спампаваць (%1$s)</string>
-    <string name="voice_pack_action_remove">Выдаліць</string>
-    <string name="voice_pack_action_update">Абнавіць (~%1$s)</string>
-    <string name="voice_pack_action_locale_default">Зрабіць бягучым голасам для %1$s</string>
-    <string name="voice_pack_action_cancel">Скасаваць спампоўку</string>
-    <string name="voice_pack_install_tab_installed">УСТАЛЯВАНА</string>
-    <string name="voice_pack_install_tab_all">УСЕ</string>
-    <string name="voice_pack_install_tab_settings">НАЛАДЫ</string>
-    <string name="voice_entry_details">Запусціць дыялог падрабязных звестак пра голас</string>
-    <string name="voice_entry_edit_desc">Адкрыць галасавы пакет</string>
-    <string name="voice_entry_overflow_desc">Дадатковыя дзеянні з галасавым пакетам</string>
-    <string name="voice_entry_download_desc">Спампаваць галасавы пакет</string>
-    <string name="voice_entry_cancel_download_desc">Скасаваць спампоўку галасавога пакета</string>
-    <string name="voice_entry_delete_desc">Выдаліць галасавы пакет</string>
-    <string name="voice_entry_sample">Прайграць узор голасу</string>
-    <string name="voice_pack_not_enough_space">Мала месца ва ўнутр. памяці. Каб устал. гэты голас, трэба вызваліць крыху месца.</string>
-    <string name="action_settings">Параметры</string>
-    <string name="action_licenses">Ліцэнзіі ПЗ з адкр. кодам</string>
-    <string name="action_voice_pack_update">Абнавіць</string>
-    <string name="action_voice_pack_uninstall">Выдаліць</string>
-    <string name="voice_pack_uninstall_dialog">Выдаліць гэты голас?</string>
-    <string name="voice_pack_uninstall_keep">Пакінуць</string>
-    <string name="voice_pack_uninstall_uninstall">Выдаліць</string>
-    <string name="voice_pack_unpack_failure">Не атрымалася ўсталяваць спампаваны голас</string>
-    <string name="multi_voice_pack_title">Галасы для мовы: %1$s</string>
-    <string name="multi_voice_pack_entry_name">Набор галасоў %1$d</string>
-    <string name="morphed_voice_set_title">Набор галасоў</string>
-    <string name="select_voice_title">Выберыце голас</string>
-    <string name="play_sample_text_button_description">Прайграць узор тэксту для голасу \"%1$s\"</string>
-    <string name="voice_pack_no_download_manager">Менеджар спамповак адключаны або адсутнічае; не атрымалася спампаваць галасавы пакет</string>
-    <string name="unpack_voice_pack_service_title">Абнаўленне даных Сінтэзу маўлення</string>
-    <string name="unpack_voice_pack_service_text">Распакоўка…</string>
-    <string name="sample_text_synthesis_failure">Не атрымалася сінтэзаваць прыклад для гэтага голасу.</string>
-    <string name="quick_wait_for_init">Загрузка</string>
-    <string name="quick_synthesizing">Сінтэз</string>
-    <string name="quick_speaking">Прагаворванне</string>
-    <string name="quick_stopped">Спынена</string>
-    <string name="quick_error">Памылка</string>
+  <string name="voice_pack_install_tab_all">УСЕ</string>
+  <string name="voice_pack_install_tab_installed">УСТАЛЯВАНА</string>
+  <string name="voice_pack_install_tab_settings">НАЛАДЫ</string>
+  <string name="voice_pack_name_high_quality">%1$s (высокая якасць)</string>
+  <string name="voice_pack_no_download_manager">Менеджар спамповак адключаны або адсутнічае; не атрымалася спампаваць галасавы пакет</string>
+  <string name="voice_pack_not_enough_space">Мала месца ва ўнутр. памяці. Каб устал. гэты голас, трэба вызваліць крыху месца.</string>
+  <string name="voice_pack_status_downloadable">Спампаваць (~%1$s)</string>
+  <string name="voice_pack_status_downloading">Спампоўваецца...</string>
+  <string name="voice_pack_status_gender_female">Жаночы</string>
+  <string name="voice_pack_status_gender_female_legacy">Папярэдні жаночы голас</string>
+  <string name="voice_pack_status_gender_male">Мужчынскі</string>
+  <string name="voice_pack_status_gender_male_legacy">Папярэдні мужчынскі голас</string>
+  <string name="voice_pack_status_gender_unknown">Невядомага полу</string>
+  <string name="voice_pack_status_installed">Усталявана (%1$s)</string>
+  <string name="voice_pack_status_locale_default">Бягучы голас</string>
+  <string name="voice_pack_status_updatable">Ёсць абнаўленне</string>
+  <string name="voice_pack_uninstall_dialog">Выдаліць гэты голас?</string>
+  <string name="voice_pack_uninstall_keep">Пакінуць</string>
+  <string name="voice_pack_uninstall_uninstall">Выдаліць</string>
+  <string name="voice_pack_unpack_failure">Не атрымалася ўсталяваць спампаваны голас</string>
+  <string name="voices_type_summary">[ДЛЯ СУПРАЦОЎНІКАЎ]Тып сінтэзатара маўлення</string>
+  <string name="voices_type_title">Тып галасоў</string>
 </resources>

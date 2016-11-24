@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">తదుపరి</string>
-    <string name="suw_back_button_label">వెనుకకు</string>
-    <string name="suw_more_button_label">మరింత</string>
-    <string name="entitlement_check_progress">చందా స్థితిని తనిఖీ చేస్తోంది. దయచేసి వేచి ఉండండి.</string>
-    <string name="att_service_upgrade_msg">ప్రారంభించడానికి, att.com/mywirelessకి వెళ్లండి లేదా 611కి డయల్ చేయండి</string>
-    <string name="att_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="sprint_entitlement_error">సేవకి మద్దతు లేదు. దయచేసి మీ సేవా ప్రదాతను సంప్రదించండి.</string>
-    <string name="sprint_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_service_upgrade_msg">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, దయచేసి చందా తీసుకోవడం కోసం కస్టమర్ సేవకి కాల్ చేయండి.</string>
-    <string name="vzw_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_wfc_activation_error">WiFi కాలింగ్‌ని సక్రియం చేయడం సాధ్యపడలేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_address_update_error">ఈ సమయంలో ప్రస్తుత అత్యవసర చిరునామాను నవీకరించలేకపోయాము. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="generic_error">ప్రామాణీకరణ విఫలమైంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_setup_app_label">Verizon ఖాతా సక్రియం</string>
-    <string name="vzw_activate_title">ఫోన్ సక్రియం</string>
-    <string name="vzw_activate_progress">దయచేసి మేము మీ ఫోన్‌ని సిద్ధం చేస్తున్నప్పుడు వేచి ఉండండి.</string>
-    <string name="vzw_activate_exiting">సక్రియం చేయడం నుండి నిష్క్రమిస్తోంది.</string>
-    <string name="vzw_verify_title">మీ ఖాతాను ధృవీకరించండి</string>
-    <string name="vzw_verify_ssn">ప్రారంభించడానికి, మీ ఖాతా యజమాని సామాజిక భద్రత సంఖ్య యొక్క చివరి 4 అంకెలను నమోదు చేయండి:</string>
-    <string name="vzw_verify_pwd">ప్రారంభించడానికి, మీ ఖాతా బిల్లింగ్ పాస్‌వర్డ్‌ని నమోదు చేయండి:</string>
-    <string name="vzw_verify_button">ధృవీకరించు</string>
-    <string name="vzw_later_button">తర్వాత</string>
-    <string name="vzw_verify_switch_ssn">బదులుగా సామాజిక భద్రతా సంఖ్యను ఉపయోగించండి</string>
-    <string name="vzw_verify_switch_pwd">బదులుగా బిల్లింగ్ పాస్‌వర్డ్‌ని ఉపయోగించండి</string>
-    <string name="vzw_verify_progress_title">మీ ఖాతాను ధృవీకరిస్తోంది...</string>
-    <string name="vzw_activate_ready_title">సక్రియం చేయడానికి సిద్ధంగా ఉన్నారా?</string>
-    <string name="vzw_activate_ready_new">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు</string>
-    <string name="vzw_activate_ready_upgrade">"మీరు ఈ ఫోన్‌ని సక్రియం చేసే ముందు, మీ పరిచయాలను బ్యాకప్ చేసి, ఆపై మీ పాత ఫోన్‌ని ఆఫ్ చేయండి.
+  <string name="apt_suite_number">అపార్ట్‌మెంట్, సూట్ మొదలైనవి</string>
+  <string name="att_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="att_service_upgrade_msg">ప్రారంభించడానికి, att.com/mywirelessకి వెళ్లండి లేదా 611కి డయల్ చేయండి</string>
+  <string name="cancel">రద్దు చేయి</string>
+  <string name="city">నగరం</string>
+  <string name="edit_address">చిరునామాను సవరించు</string>
+  <string name="emergency_address_app_label">అత్యవసర చిరునామా నిర్వహణ</string>
+  <string name="entitlement_check_progress">చందా స్థితిని తనిఖీ చేస్తోంది. దయచేసి వేచి ఉండండి.</string>
+  <string name="generic_error">ప్రామాణీకరణ విఫలమైంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="house_number">చిరునామా సంఖ్య</string>
+  <string name="ok">సరే</string>
+  <string name="progress_text">దయచేసి వేచి ఉండండి...</string>
+  <string name="save">సేవ్ చేయి</string>
+  <string name="save_anyway">ఏదేమైనా సేవ్ చేయి</string>
+  <string name="sprint_entitlement_error">సేవకి మద్దతు లేదు. దయచేసి మీ సేవా ప్రదాతను సంప్రదించండి.</string>
+  <string name="sprint_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="state">రాష్ట్రం</string>
+  <string name="street">వీధి</string>
+  <string name="suw_back_button_label">వెనుకకు</string>
+  <string name="suw_more_button_label">మరింత</string>
+  <string name="suw_next_button_label">తదుపరి</string>
+  <string name="vzw_activate_button">సక్రియం చేయి</string>
+  <string name="vzw_activate_continue">కొనసాగించు</string>
+  <string name="vzw_activate_error_lookup">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి (800) 922-0204లో వినియోగదారు సేవా కేంద్రాన్ని సంప్రదించండి.</string>
+  <string name="vzw_activate_error_lost_stolen">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి మీ 4G LTE సేవను సక్రియం చేయడానికి మరొక ఫోన్ నుండి (877) 807-4646కి కాల్ చేసి, ఆపై మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_activate_error_network">మీరు మంచి సిగ్నల్ సామర్థ్యం (ఒకటి కంటే ఎక్కువ గీతలు) కలిగి ఉన్నట్లు నిర్ధారించుకొని, ఆపై మళ్లీ ప్రయత్నించండి. ఈ సమస్య కొనసాగితే, దయచేసి సహాయం కోసం (800) 922-0204లో కస్టమర్ సేవను సంప్రదించండి.</string>
+  <string name="vzw_activate_error_not_retryable">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి (800) 922-0204లో వినియోగదారు సేవా కేంద్రాన్ని సంప్రదించండి.</string>
+  <string name="vzw_activate_error_pwd">బిల్లింగ్ పాస్‌వర్డ్ సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_activate_error_release">మీ ఫోన్‌ని సక్రియం చేయడానికి, మరో ఫోన్ నుండి (800) 922-0204కి కాల్ చేయండి.</string>
+  <string name="vzw_activate_error_restricted">మీ ఫోన్‌ని సక్రియం చేయడానికి, మీ కొత్త ఫోన్‌తో పాటు అందించిన సూచనలను అనుసరించండి లేదా మీ సంస్థలో Verizon వైర్‌లెస్ నిర్వాహకులను సంప్రదించండి.</string>
+  <string name="vzw_activate_error_restricted_title">మీ ఫోన్‌ని ఎలా సక్రియం చేయాలి</string>
+  <string name="vzw_activate_error_ssn">సామాజిక భద్రతా సంఖ్య సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_activate_error_title">సక్రియం చేయడం సాధ్యపడలేదు</string>
+  <string name="vzw_activate_exiting">సక్రియం చేయడం నుండి నిష్క్రమిస్తోంది.</string>
+  <string name="vzw_activate_notification">మీ ఫోన్‌ సక్రియం చేయుటకు నొక్కండి</string>
+  <string name="vzw_activate_notification_title">సక్రియం చేయడానికి సిద్ధమై ఉంది</string>
+  <string name="vzw_activate_progress">దయచేసి మేము మీ ఫోన్‌ని సిద్ధం చేస్తున్నప్పుడు వేచి ఉండండి.</string>
+  <string name="vzw_activate_ready_new">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు</string>
+  <string name="vzw_activate_ready_title">సక్రియం చేయడానికి సిద్ధంగా ఉన్నారా?</string>
+  <string name="vzw_activate_ready_upgrade">"మీరు ఈ ఫోన్‌ని సక్రియం చేసే ముందు, మీ పరిచయాలను బ్యాకప్ చేసి, ఆపై మీ పాత ఫోన్‌ని ఆఫ్ చేయండి.
 
 మీరు సక్రియం చేయడం ప్రారంభించాక, మేము మీ నంబర్‌ను ఈ ఫోన్‌కి బదిలీ చేస్తాము మరియు మీ పాత ఫోన్‌ని నిష్క్రియం చేస్తాము."</string>
-    <string name="vzw_activate_button">సక్రియం చేయి</string>
-    <string name="vzw_activating_new_title">ఫోన్ నంబర్‌ని పొందుతోంది...</string>
-    <string name="vzw_activating_upgrade_title">ఫోన్ నంబర్‌ని బదిలీ చేస్తోంది...</string>
-    <string name="vzw_activating_upgrade">మీ నంబర్‌ని మీ కొత్త ఫోన్‌కి బదిలీ చేయడానికి, మీ పాత ఫోన్‌ను ఆఫ్ చేయాల్సి ఉంటుంది.</string>
-    <string name="vzw_activate_success_title">ఫోన్ సక్రియం చేయబడింది</string>
-    <string name="vzw_activate_success">మీ Verizon ఫోన్ ఇప్పుడు సక్రియంగా ఉంది. మీ నంబర్ %1$s</string>
-    <string name="vzw_data_limit_title">డేటా వినియోగం పరిమితం చేయబడింది</string>
-    <string name="vzw_data_limit">మీ డేటా వినియోగం రోజులోని సమయం లేదా డేటా పరిమితి కారణంగా ప్రస్తుతం పరిమితం చేయబడింది. మీరు మీ పరికరాన్ని సెటప్ చేయడం కొనసాగించడం కోసం Wi-Fiని ఉపయోగించాలి.</string>
-    <string name="vzw_data_restricted_title">డేటా వినియోగం పరిమితం చేయబడింది</string>
-    <string name="vzw_data_restricted">రోజులోని సమయం లేదా డేటా పరిమితి కారణంగా</string>
-    <string name="vzw_data_redirected_title">Verizon సేవలను పొందండి</string>
-    <string name="vzw_data_redirected">మీకు Verizon వైర్‌లెస్ ప్లాన్ లేదు లేదా మీరు మీ ప్లాన్‌లో అనుమతించే మొత్తాన్ని ఉపయోగించుకున్నారు, దయచేసి Verizonని సంప్రదించండి</string>
-    <string name="vzw_activate_notification_title">సక్రియం చేయడానికి సిద్ధమై ఉంది</string>
-    <string name="vzw_activate_notification">మీ ఫోన్‌ సక్రియం చేయుటకు నొక్కండి</string>
-    <string name="vzw_cold_notification">మీ ఫోన్‌ని సక్రియం చేయడానికి Verizonని సంప్రదించండి.</string>
-    <string name="vzw_activate_error_title">సక్రియం చేయడం సాధ్యపడలేదు</string>
-    <string name="vzw_activate_error_network">మీరు మంచి సిగ్నల్ సామర్థ్యం (ఒకటి కంటే ఎక్కువ గీతలు) కలిగి ఉన్నట్లు నిర్ధారించుకొని, ఆపై మళ్లీ ప్రయత్నించండి. ఈ సమస్య కొనసాగితే, దయచేసి సహాయం కోసం (800) 922-0204లో కస్టమర్ సేవను సంప్రదించండి.</string>
-    <string name="vzw_activate_error_lookup">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి (800) 922-0204లో వినియోగదారు సేవా కేంద్రాన్ని సంప్రదించండి.</string>
-    <string name="vzw_activate_error_ssn">సామాజిక భద్రతా సంఖ్య సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_activate_error_pwd">బిల్లింగ్ పాస్‌వర్డ్ సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_activate_error_not_retryable">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి (800) 922-0204లో వినియోగదారు సేవా కేంద్రాన్ని సంప్రదించండి.</string>
-    <string name="vzw_activate_error_release">మీ ఫోన్‌ని సక్రియం చేయడానికి, మరో ఫోన్ నుండి (800) 922-0204కి కాల్ చేయండి.</string>
-    <string name="vzw_activate_error_restricted_title">మీ ఫోన్‌ని ఎలా సక్రియం చేయాలి</string>
-    <string name="vzw_activate_error_restricted">మీ ఫోన్‌ని సక్రియం చేయడానికి, మీ కొత్త ఫోన్‌తో పాటు అందించిన సూచనలను అనుసరించండి లేదా మీ సంస్థలో Verizon వైర్‌లెస్ నిర్వాహకులను సంప్రదించండి.</string>
-    <string name="vzw_activate_error_lost_stolen">క్షమించండి, మీ ఫోన్‌ని సక్రియం చేయడంలో మాకు సమస్య ఉంది. దయచేసి మీ 4G LTE సేవను సక్రియం చేయడానికి మరొక ఫోన్ నుండి (877) 807-4646కి కాల్ చేసి, ఆపై మళ్లీ ప్రయత్నించండి.</string>
-    <string name="vzw_activate_continue">కొనసాగించు</string>
-    <string name="vzw_activate_retry">మళ్లీ ప్రయత్నించు</string>
-    <string name="vzw_activate_skip">దాటవేయి</string>
-    <string name="emergency_address_app_label">అత్యవసర చిరునామా నిర్వహణ</string>
-    <string name="progress_text">దయచేసి వేచి ఉండండి...</string>
-    <string name="vzw_tos_title">Wi-Fi కాలింగ్‌ని సక్రియం చేయండి</string>
-    <string name="cancel">రద్దు చేయి</string>
-    <string name="vzw_tos_text">"Wi-Fi కాలింగ్ అనేది మొబైల్ నెట్‌వర్క్ అందుబాటులో లేనప్పుడు మీరు Wi-Fiని ఉపయోగించి కాల్‌లు చేయడానికి అనుమతిస్తుంది.
+  <string name="vzw_activate_retry">మళ్లీ ప్రయత్నించు</string>
+  <string name="vzw_activate_skip">దాటవేయి</string>
+  <string name="vzw_activate_success">మీ Verizon ఫోన్ ఇప్పుడు సక్రియంగా ఉంది. మీ నంబర్ %1$s</string>
+  <string name="vzw_activate_success_title">ఫోన్ సక్రియం చేయబడింది</string>
+  <string name="vzw_activate_title">ఫోన్ సక్రియం</string>
+  <string name="vzw_activating_new_title">ఫోన్ నంబర్‌ని పొందుతోంది...</string>
+  <string name="vzw_activating_upgrade">మీ నంబర్‌ని మీ కొత్త ఫోన్‌కి బదిలీ చేయడానికి, మీ పాత ఫోన్‌ను ఆఫ్ చేయాల్సి ఉంటుంది.</string>
+  <string name="vzw_activating_upgrade_title">ఫోన్ నంబర్‌ని బదిలీ చేస్తోంది...</string>
+  <string name="vzw_address_alternate_text">మీ ఉద్దేశ్యం:</string>
+  <string name="vzw_address_confirm_text">"వీధి చిరునామా కనుగొనబడని కారణంగా లేదా నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోయి ఉండే అవకాశం ఉన్నందున, మీరు నమోదు చేసిన చిరునామాను కనుగొనలేకపోయాము.
+
+మీ నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోతే %1$sని నొక్కండి, లేదంటే %2$sని నొక్కండి."</string>
+  <string name="vzw_address_confirm_text_part1">వీధి చిరునామా కనుగొనలేకపోయిన కారణంగా లేదా నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోయి ఉండే అవకాశం ఉన్నందున, మీరు నమోదు చేసిన చిరునామాను కనుగొనలేకపోయాము.</string>
+  <string name="vzw_address_confirm_text_part2">మీ నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోతే %1$s నొక్కండి, లేదంటే %2$s నొక్కండి.</string>
+  <string name="vzw_address_select_text">మీరు నమోదు చేసిన చిరునామాను మేము కనుగొనలేకపోయాము:</string>
+  <string name="vzw_address_update_error">ఈ సమయంలో ప్రస్తుత అత్యవసర చిరునామాను నవీకరించలేకపోయాము. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_cold_notification">మీ ఫోన్‌ని సక్రియం చేయడానికి Verizonని సంప్రదించండి.</string>
+  <string name="vzw_data_limit">మీ డేటా వినియోగం రోజులోని సమయం లేదా డేటా పరిమితి కారణంగా ప్రస్తుతం పరిమితం చేయబడింది. మీరు మీ పరికరాన్ని సెటప్ చేయడం కొనసాగించడం కోసం Wi-Fiని ఉపయోగించాలి.</string>
+  <string name="vzw_data_limit_title">డేటా వినియోగం పరిమితం చేయబడింది</string>
+  <string name="vzw_data_redirected">మీకు Verizon వైర్‌లెస్ ప్లాన్ లేదు లేదా మీరు మీ ప్లాన్‌లో అనుమతించే మొత్తాన్ని ఉపయోగించుకున్నారు, దయచేసి Verizonని సంప్రదించండి</string>
+  <string name="vzw_data_redirected_title">Verizon సేవలను పొందండి</string>
+  <string name="vzw_data_restricted">రోజులోని సమయం లేదా డేటా పరిమితి కారణంగా</string>
+  <string name="vzw_data_restricted_title">డేటా వినియోగం పరిమితం చేయబడింది</string>
+  <string name="vzw_e911_description">&lt;b&gt;&amp;#3118;&amp;#3137;&amp;#3094;&amp;#3149;&amp;#3119;&amp;#3118;&amp;#3144;&amp;#3112;&amp;#3110;&amp;#3135; - &amp;#3077;&amp;#3108;&amp;#3149;&amp;#3119;&amp;#3125;&amp;#3128;&amp;#3120; 911 &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134; &amp;#3077;&amp;#3125;&amp;#3128;&amp;#3120;&amp;#3074;&lt;/b&gt;"
+Wi-Fi &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3135;&amp;#3074;&amp;#3095;&amp;#3149;&amp;#8204;&amp;#3112;&amp;#3135; &amp;#3078;&amp;#3112;&amp;#3149; &amp;#3098;&amp;#3143;&amp;#3119;&amp;#3105;&amp;#3134;&amp;#3112;&amp;#3135;&amp;#3093;&amp;#3135;, &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; 911&amp;#3093;&amp;#3135; &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3149; &amp;#3098;&amp;#3143;&amp;#3128;&amp;#3135;&amp;#3112;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3137; &amp;#3077;&amp;#3108;&amp;#3149;&amp;#3119;&amp;#3125;&amp;#3128;&amp;#3120; &amp;#3128;&amp;#3143;&amp;#3125;&amp;#3122;&amp;#3112;&amp;#3137; &amp;#3114;&amp;#3074;&amp;#3114;&amp;#3134;&amp;#3122;&amp;#3149;&amp;#3128;&amp;#3135;&amp;#3112; U.S. &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3112;&amp;#3137; &amp;#3112;&amp;#3118;&amp;#3147;&amp;#3110;&amp;#3137; &amp;#3098;&amp;#3143;&amp;#3119;&amp;#3074;&amp;#3105;&amp;#3135;. &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; &amp;#3080; &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3112;&amp;#3137; &amp;#3128;&amp;#3142;&amp;#3103;&amp;#3149;&amp;#3103;&amp;#3135;&amp;#3074;&amp;#3095;&amp;#3149;&amp;#8204;&amp;#3122;&amp;#3093;&amp;#3137; &amp;#3125;&amp;#3142;&amp;#3123;&amp;#3149;&amp;#3122;&amp;#3135;, &amp;#3077;&amp;#3093;&amp;#3149;&amp;#3093;&amp;#3105; &amp;#3086;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3144;&amp;#3112;&amp;#3134; &amp;#3118;&amp;#3134;&amp;#3120;&amp;#3149;&amp;#3098;&amp;#3125;&amp;#3098;&amp;#3149;&amp;#3098;&amp;#3137;. &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; &amp;#3118;&amp;#3136; &amp;#3128;&amp;#3149;&amp;#3109;&amp;#3134;&amp;#3112;&amp;#3134;&amp;#3112;&amp;#3149;&amp;#3112;&amp;#3135; &amp;#3118;&amp;#3134;&amp;#3120;&amp;#3149;&amp;#3098;&amp;#3135;&amp;#3112;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3122;&amp;#3149;&amp;#3122;&amp;#3134; &amp;#3080; &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3112;&amp;#3135; &amp;#3112;&amp;#3125;&amp;#3136;&amp;#3093;&amp;#3120;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3105;&amp;#3074; &amp;#3098;&amp;#3134;&amp;#3122;&amp;#3134; &amp;#3118;&amp;#3137;&amp;#3094;&amp;#3149;&amp;#3119;&amp;#3074;."</string>
+  <string name="vzw_e911_title">అత్యవసర స్థాన సమాచారం</string>
+  <string name="vzw_e911_warning">&lt;b&gt;&amp;#3129;&amp;#3142;&amp;#3098;&amp;#3149;&amp;#3098;&amp;#3120;&amp;#3135;&amp;#3093;&amp;#3122;&amp;#3137; - &amp;#3077;&amp;#3108;&amp;#3149;&amp;#3119;&amp;#3125;&amp;#3128;&amp;#3120; 911 &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3149; &amp;#3114;&amp;#3120;&amp;#3135;&amp;#3118;&amp;#3135;&amp;#3108;&amp;#3137;&amp;#3122;&amp;#3137;&lt;/b&gt;"
+911&amp;#3093;&amp;#3135; &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3149; &amp;#3098;&amp;#3143;&amp;#3128;&amp;#3149;&amp;#3108;&amp;#3137;&amp;#3112;&amp;#3149;&amp;#3112;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3137;, &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; &amp;#3081;&amp;#3112;&amp;#3149;&amp;#3112; &amp;#3098;&amp;#3147;&amp;#3103;&amp;#3137;&amp;#3112;&amp;#3135; &amp;#3086;&amp;#3122;&amp;#3149;&amp;#3122;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3138; &amp;#3078;&amp;#3114;&amp;#3120;&amp;#3143;&amp;#3103;&amp;#3120;&amp;#3149;&amp;#8204;&amp;#3093;&amp;#3135; &amp;#3108;&amp;#3142;&amp;#3122;&amp;#3135;&amp;#3119;&amp;#3100;&amp;#3143;&amp;#3119;&amp;#3074;&amp;#3105;&amp;#3135;. &amp;#3128;&amp;#3142;&amp;#3122;&amp;#3149;&amp;#3119;&amp;#3137;&amp;#3122;&amp;#3134;&amp;#3120;&amp;#3149; &amp;#3112;&amp;#3142;&amp;#3103;&amp;#3149;&amp;#8204;&amp;#3125;&amp;#3120;&amp;#3149;&amp;#3093;&amp;#3149; &amp;#3077;&amp;#3074;&amp;#3110;&amp;#3137;&amp;#3116;&amp;#3134;&amp;#3103;&amp;#3137;&amp;#3122;&amp;#3147; &amp;#3122;&amp;#3143;&amp;#3112;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3137; &amp;#3118;&amp;#3134;&amp;#3108;&amp;#3149;&amp;#3120;&amp;#3118;&amp;#3143; &amp;#3118;&amp;#3136; 911 &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3149; Wi-Fi&amp;#3122;&amp;#3147; &amp;#3098;&amp;#3143;&amp;#3119;&amp;#3116;&amp;#3105;&amp;#3137;&amp;#3108;&amp;#3137;&amp;#3074;&amp;#3110;&amp;#3135;. 911 &amp;#3128;&amp;#3135;&amp;#3128;&amp;#3149;&amp;#3103;&amp;#3118;&amp;#3149; &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3112;&amp;#3137; &amp;#3095;&amp;#3137;&amp;#3120;&amp;#3149;&amp;#3108;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3122;&amp;#3143;&amp;#3112;&amp;#3135;, &amp;#3125;&amp;#3135;&amp;#3110;&amp;#3149;&amp;#3119;&amp;#3137;&amp;#3108;&amp;#3149;&amp;#3108;&amp;#3137; &amp;#3128;&amp;#3120;&amp;#3115;&amp;#3120;&amp;#3134; &amp;#3112;&amp;#3135;&amp;#3122;&amp;#3135;&amp;#3114;&amp;#3135;&amp;#3125;&amp;#3143;&amp;#3128;&amp;#3135;&amp;#3112; &amp;#3122;&amp;#3143;&amp;#3110;&amp;#3134; &amp;#3118;&amp;#3136; Wi-Fi &amp;#3093;&amp;#3112;&amp;#3142;&amp;#3093;&amp;#3149;&amp;#3127;&amp;#3112;&amp;#3149; &amp;#3114;&amp;#3112;&amp;#3135; &amp;#3098;&amp;#3143;&amp;#3119;&amp;#3112;&amp;#3135; &amp;#3128;&amp;#3074;&amp;#3110;&amp;#3120;&amp;#3149;&amp;#3117;&amp;#3134;&amp;#3122;&amp;#3149;&amp;#3122;&amp;#3147; Wi-Fi&amp;#3112;&amp;#3135; &amp;#3081;&amp;#3114;&amp;#3119;&amp;#3147;&amp;#3095;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3135; &amp;#3098;&amp;#3143;&amp;#3128;&amp;#3143; 911 &amp;#3093;&amp;#3134;&amp;#3122;&amp;#3149; &amp;#3078;&amp;#3122;&amp;#3128;&amp;#3149;&amp;#3119;&amp;#3074; &amp;#3093;&amp;#3134;&amp;#3125;&amp;#3098;&amp;#3149;&amp;#3098;&amp;#3137; &amp;#3122;&amp;#3143;&amp;#3110;&amp;#3134; &amp;#3125;&amp;#3135;&amp;#3115;&amp;#3122;&amp;#3074; &amp;#3093;&amp;#3134;&amp;#3125;&amp;#3098;&amp;#3149;&amp;#3098;&amp;#3137;. &amp;#3077;&amp;#3108;&amp;#3149;&amp;#3119;&amp;#3125;&amp;#3128;&amp;#3120; &amp;#3128;&amp;#3143;&amp;#3125;&amp;#3122;&amp;#3137; &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; &amp;#3086;&amp;#3095;&amp;#3137;&amp;#3125; &amp;#3077;&amp;#3074;&amp;#3110;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3135;&amp;#3112; &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3093;&amp;#3135; &amp;#3114;&amp;#3074;&amp;#3114;&amp;#3116;&amp;#3105;&amp;#3108;&amp;#3134;&amp;#3119;&amp;#3135;, &amp;#3093;&amp;#3134;&amp;#3116;&amp;#3103;&amp;#3149;&amp;#3103;&amp;#3135; &amp;#3110;&amp;#3119;&amp;#3098;&amp;#3143;&amp;#3128;&amp;#3135; &amp;#3118;&amp;#3136;&amp;#3120;&amp;#3137; &amp;#3112;&amp;#3135;&amp;#3125;&amp;#3128;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3143; &amp;#3128;&amp;#3149;&amp;#3109;&amp;#3134;&amp;#3112;&amp;#3134;&amp;#3122;&amp;#3112;&amp;#3137; &amp;#3118;&amp;#3134;&amp;#3120;&amp;#3149;&amp;#3098;&amp;#3135;&amp;#3112;&amp;#3114;&amp;#3149;&amp;#3114;&amp;#3137;&amp;#3105;&amp;#3137; &amp;#3098;&amp;#3135;&amp;#3120;&amp;#3137;&amp;#3112;&amp;#3134;&amp;#3118;&amp;#3134;&amp;#3112;&amp;#3137; &amp;#3112;&amp;#3125;&amp;#3136;&amp;#3093;&amp;#3120;&amp;#3135;&amp;#3074;&amp;#3098;&amp;#3074;&amp;#3105;&amp;#3135;."</string>
+  <string name="vzw_later_button">తర్వాత</string>
+  <string name="vzw_network_error">నెట్‌వర్క్ అందుబాటులో లేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_partial_confirm_head">నమోదు చేసిన చిరునామాని అత్యవసర సేవా ప్రదాతల ద్వారా ధృవీకరించడం సాధ్యపడలేదు.</string>
+  <string name="vzw_partial_confirm_text">మీరు ఖచ్చితంగా అత్యవసర స్థితిలో ఈ చిరునామాని ఉపయోగించాలనుకుంటున్నారా?</string>
+  <string name="vzw_partial_failure_text">"మీరు నమోదు చేసిన నగరం, రాష్ట్రం లేదా జిప్ కోడ్ సరైనవి కాకపోవచ్చు.
+
+దయచేసి చిరునామాని తనిఖీ చేసి, ఆపై మళ్లీ ప్రయత్నించండి."</string>
+  <string name="vzw_partial_failure_text_part1">మీరు నమోదు చేసిన నగరం, రాష్ట్రం లేదా జిప్ కోడ్ సరైనవి కాకపోవచ్చు.</string>
+  <string name="vzw_partial_failure_text_part2">దయచేసి చిరునామాను తనిఖీ చేసి, ఆపై మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_service_upgrade_msg">మొబైల్ హాట్‌స్పాట్‌ని ఉపయోగించడానికి, దయచేసి చందా తీసుకోవడం కోసం కస్టమర్ సేవకి కాల్ చేయండి.</string>
+  <string name="vzw_setup_app_label">Verizon ఖాతా సక్రియం</string>
+  <string name="vzw_tos_link">నిబంధనలు మరియు షరతులు</string>
+  <string name="vzw_tos_text">"Wi-Fi కాలింగ్ అనేది మొబైల్ నెట్‌వర్క్ అందుబాటులో లేనప్పుడు మీరు Wi-Fiని ఉపయోగించి కాల్‌లు చేయడానికి అనుమతిస్తుంది.
 
 Wi-Fi కాలింగ్‌ని సెటప్ చేయడానికి, మీరు US చిరునామాని నమోదు చేయాలి. మీరు USలో ఈ ఫోన్ నుండి Wi-Fi ద్వారా అత్యవసర (E911) కాల్ చేసినప్పుడు మీ స్థానంలోని అత్యవసర సేవలు ఈ చిరునామాని ఉపయోగిస్తాయి.
 
 మీరు వేరే Wi-Fi నెట్‌వర్క్‌ని ఉపయోగించి కాల్‌లు చేసినప్పుడు ఈ చిరునామాని మార్చమని సిఫార్సు చేస్తాము, అలా చేయడం ద్వారా మీ స్థాన సమాచారాన్ని నిర్దుష్టంగా ఉంచుకోగలరు. మీరు Wi-Fi కాలింగ్ సెట్టింగ్‌ల మెనుకి వెళ్లడం ద్వారా మీ స్థానాన్ని ఎప్పుడైనా మార్చవచ్చు."</string>
-    <string name="vzw_tos_link">నిబంధనలు మరియు షరతులు</string>
-    <string name="vzw_e911_title">అత్యవసర స్థాన సమాచారం</string>
-    <string name="vzw_e911_description"><b>ముఖ్యమైనది - అత్యవసర 911 చిరునామా అవసరం</b>"
-Wi-Fi కాలింగ్‌ని ఆన్ చేయడానికి, మీరు 911కి కాల్ చేసినప్పుడు అత్యవసర సేవలను పంపాల్సిన U.S. చిరునామాను నమోదు చేయండి. మీరు ఈ చిరునామాను సెట్టింగ్‌లకు వెళ్లి, అక్కడ ఎప్పుడైనా మార్చవచ్చు. మీరు మీ స్థానాన్ని మార్చినప్పుడల్లా ఈ చిరునామాని నవీకరించడం చాలా ముఖ్యం."</string>
-    <string name="vzw_e911_warning"><b>హెచ్చరికలు - అత్యవసర 911 కాల్ పరిమితులు</b>"
-911కి కాల్ చేస్తున్నప్పుడు, మీరు ఉన్న చోటుని ఎల్లప్పుడూ ఆపరేటర్‌కి తెలియజేయండి. సెల్యులార్ నెట్‌వర్క్ అందుబాటులో లేనప్పుడు మాత్రమే మీ 911 కాల్ Wi-Fiలో చేయబడుతుంది. 911 సిస్టమ్ చిరునామాను గుర్తించలేని, విద్యుత్తు సరఫరా నిలిపివేసిన లేదా మీ Wi-Fi కనెక్షన్ పని చేయని సందర్భాల్లో Wi-Fiని ఉపయోగించి చేసే 911 కాల్ ఆలస్యం కావచ్చు లేదా విఫలం కావచ్చు. అత్యవసర సేవలు మీరు ఎగువ అందించిన చిరునామాకి పంపబడతాయి, కాబట్టి దయచేసి మీరు నివసించే స్థానాలను మార్చినప్పుడు చిరునామాను నవీకరించండి."</string>
-    <string name="house_number">చిరునామా సంఖ్య</string>
-    <string name="street">వీధి</string>
-    <string name="apt_suite_number">అపార్ట్‌మెంట్, సూట్ మొదలైనవి</string>
-    <string name="city">నగరం</string>
-    <string name="state">రాష్ట్రం</string>
-    <string name="zip_code">జిప్ కోడ్</string>
-    <string name="save">సేవ్ చేయి</string>
-    <string name="vzw_address_confirm_text">"వీధి చిరునామా కనుగొనబడని కారణంగా లేదా నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోయి ఉండే అవకాశం ఉన్నందున, మీరు నమోదు చేసిన చిరునామాను కనుగొనలేకపోయాము.
-
-మీ నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోతే %1$sని నొక్కండి, లేదంటే %2$sని నొక్కండి."</string>
-    <string name="vzw_address_confirm_text_part1">వీధి చిరునామా కనుగొనలేకపోయిన కారణంగా లేదా నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోయి ఉండే అవకాశం ఉన్నందున, మీరు నమోదు చేసిన చిరునామాను కనుగొనలేకపోయాము.</string>
-    <string name="vzw_address_confirm_text_part2">మీ నగరం, రాష్ట్రం మరియు జిప్ కోడ్ సరైనవి కాకపోతే %1$s నొక్కండి, లేదంటే %2$s నొక్కండి.</string>
-    <string name="save_anyway">ఏదేమైనా సేవ్ చేయి</string>
-    <string name="edit_address">చిరునామాను సవరించు</string>
-    <string name="ok">సరే</string>
-    <string name="vzw_address_select_text">మీరు నమోదు చేసిన చిరునామాను మేము కనుగొనలేకపోయాము:</string>
-    <string name="vzw_address_alternate_text">మీ ఉద్దేశ్యం:</string>
-    <string name="vzw_partial_confirm_head">నమోదు చేసిన చిరునామాని అత్యవసర సేవా ప్రదాతల ద్వారా ధృవీకరించడం సాధ్యపడలేదు.</string>
-    <string name="vzw_partial_confirm_text">మీరు ఖచ్చితంగా అత్యవసర స్థితిలో ఈ చిరునామాని ఉపయోగించాలనుకుంటున్నారా?</string>
-    <string name="vzw_partial_failure_text">"మీరు నమోదు చేసిన నగరం, రాష్ట్రం లేదా జిప్ కోడ్ సరైనవి కాకపోవచ్చు.
-
-దయచేసి చిరునామాని తనిఖీ చేసి, ఆపై మళ్లీ ప్రయత్నించండి."</string>
-    <string name="vzw_partial_failure_text_part1">మీరు నమోదు చేసిన నగరం, రాష్ట్రం లేదా జిప్ కోడ్ సరైనవి కాకపోవచ్చు.</string>
-    <string name="vzw_partial_failure_text_part2">దయచేసి చిరునామాను తనిఖీ చేసి, ఆపై మళ్లీ ప్రయత్నించండి.</string>
+  <string name="vzw_tos_title">Wi-Fi కాలింగ్‌ని సక్రియం చేయండి</string>
+  <string name="vzw_verify_button">ధృవీకరించు</string>
+  <string name="vzw_verify_progress_title">మీ ఖాతాను ధృవీకరిస్తోంది...</string>
+  <string name="vzw_verify_pwd">ప్రారంభించడానికి, మీ ఖాతా బిల్లింగ్ పాస్‌వర్డ్‌ని నమోదు చేయండి:</string>
+  <string name="vzw_verify_ssn">ప్రారంభించడానికి, మీ ఖాతా యజమాని సామాజిక భద్రత సంఖ్య యొక్క చివరి 4 అంకెలను నమోదు చేయండి:</string>
+  <string name="vzw_verify_switch_pwd">బదులుగా బిల్లింగ్ పాస్‌వర్డ్‌ని ఉపయోగించండి</string>
+  <string name="vzw_verify_switch_ssn">బదులుగా సామాజిక భద్రతా సంఖ్యను ఉపయోగించండి</string>
+  <string name="vzw_verify_title">మీ ఖాతాను ధృవీకరించండి</string>
+  <string name="vzw_wfc_activation_error">WiFi కాలింగ్‌ని సక్రియం చేయడం సాధ్యపడలేదు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+  <string name="zip_code">జిప్ కోడ్</string>
 </resources>

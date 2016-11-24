@@ -1,55 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Haki</string>
-    <string name="feature_check_msg">Inaangalia hadhi ya utumiaji. Tafadhali subiri...</string>
-    <string name="vzw_self_provisioning_msg">"Ili kutumia Mobile Hotspot, utahitaji kuwa mtumiaji wa huduma za Mobile Hotspot.
-Jifunze zaidi na tumia huduma za Mobile Hotspot kwa kutembelea Verizon yangu."</string>
-    <string name="vzw_self_provisioning_cancel">Katisha</string>
-    <string name="vzw_self_provisioning_learn_more">Jifunze zaidi</string>
-    <string name="vzw_error_msg_title">Ombi lako linaweza lisiwe limefanyiwa kazi.</string>
-    <string name="vzw_error_msg">"Kama unapenda kuwa mtumiaji wa Mobile Hotspot/Mobile Broadband, piga:
- Mtumiaji: (800) 256-4646,
- Biashara: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Kuboresha huduma kunahitajika</string>
-    <string name="tmo_error_msg">Mpango wako wa sasa wa kiwango haujumuishi huduma za Mobile Hotspot ya smartphone inayowezesha kuhsirikishana muunganisho wa data za simu yako na vifaa vingine. unataka kuongeza kuongeza huduma za Mobile Hotspot ya Smartphone kwenye mpango wako wa kiwango? unaweza pia kuongeza kwa njia ya mtandao katika https://my.t-mobile.com chini ya Mudu > Mipango na Huduma. &lt;</string>
-    <string name="retv_terms_conditions_msg">Inaangalia hadhi ya utumiaji. Tafadhali subiri...</string>
-    <string name="change_data_request_msg">Utumaji wa ombi kwaajili ya masharti, Tafadhali subiri...</string>
-    <string name="alert_dialog_failure_title">Ombi lako linaweza lisiwe limefanyiwa kazi.</string>
-    <string name="alert_dialog_failure_msg">Tafadhali jaribu tena baadaye.</string>
-    <string name="network_connection_title">Hitilafu ya muunganisho wa mtandao</string>
-    <string name="network_connection_error_msg">Simu yako haiwezi kuunganishwa kwenye seva ya %s kwa sasa. Tafadhali jaribu tena baadaye.</string>
-    <string name="mobile_hotspot">Eneo moto Mobile</string>
-    <string name="alert_dialog_positive_button">Sawa</string>
-    <string name="alert_dialog_upgrade_button">Boresha</string>
-    <string name="alert_dialog_later_button">Baadaye</string>
-    <string name="current_subscription">(utumiaji wa sasa)</string>
-    <string name="unavailable_subscription">(Haipatikani kulingana na kiwango cha hifadhi)</string>
-    <string name="request_pending_title">Utoaji masharti uko hewani</string>
-    <string name="request_pending_error_msg">Seva ya verizon inafanyia kazi ombi lako. Tafahali jaribu ndani ya dakika 5.</string>
-    <string name="browser_error_msg">Haiwezi kufungua brauza</string>
-    <string name="att_error_msg">Kuwezesha, nenda kwenye att.com/mywireless au piga 611</string>
-    <string name="att_error_msg_title">Kuwezesha, nenda kwenye att.com/mywireless au piga 612</string>
-    <string name="att_error_msg_other">Kuna tatizo la muda la mtandao ambalo linazuia uwezeshaji wa utumikaji wa Eneo moto ya Simu ya mkono. Tafadhali jaribu tena baadaye</string>
-    <string name="att_error_msg_other_title">Hitilafu ya mtandao</string>
-    <string name="sprint_error_msg">Haiwezi kuunganisha kwa mtandao wa data; Unaweza usipate huduma za uunganishaji au Hotspot; Tafadhali wasiliana na simu yako ya kampuni.</string>
-    <string name="sprint_error_msg_title">Hitilafu ya uunganishaji au Hotspot</string>
-    <string name="sprint_notification_msg">Gusa kuona maelezo zaidi</string>
-    <string name="term_and_conditions_title">Sheria na Masharti</string>
-    <string name="sbm_content_activity_title">Masharti ya makubaliano</string>
-    <string name="consent_title">Masharti ya makubaliano</string>
-    <string name="consent_message">"Ili kutumia mpangilio huu, unahitaji kukubali na kutuma taarifa zifuatazo. Kwenye maudhui ya kuangalia, tafahali endelea.
+  <string name="alert_dialog_failure_msg">Tafadhali jaribu tena baadaye.</string>
+  <string name="alert_dialog_failure_title">Ombi lako linaweza lisiwe limefanyiwa kazi.</string>
+  <string name="alert_dialog_later_button">Baadaye</string>
+  <string name="alert_dialog_positive_button">Sawa</string>
+  <string name="alert_dialog_upgrade_button">Boresha</string>
+  <string name="app_name">Haki</string>
+  <string name="att_error_msg">Kuwezesha, nenda kwenye att.com/mywireless au piga 611</string>
+  <string name="att_error_msg_other">Kuna tatizo la muda la mtandao ambalo linazuia uwezeshaji wa utumikaji wa Eneo moto ya Simu ya mkono. Tafadhali jaribu tena baadaye</string>
+  <string name="att_error_msg_other_title">Hitilafu ya mtandao</string>
+  <string name="att_error_msg_title">Kuwezesha, nenda kwenye att.com/mywireless au piga 612</string>
+  <string name="browser_error_msg">Haiwezi kufungua brauza</string>
+  <string name="change_data_request_msg">Utumaji wa ombi kwaajili ya masharti, Tafadhali subiri...</string>
+  <string name="concent_agree_btn">Kubali</string>
+  <string name="concent_disagree_btn">Kutokubaliana</string>
+  <string name="consent_message">"Ili kutumia mpangilio huu, unahitaji kukubali na kutuma taarifa zifuatazo. Kwenye maudhui ya kuangalia, tafahali endelea.
 
 [Tuma taarifa]
 ID ya mtoa huduma mahususi
 [Tumia mipangilio]
 Amri ya kutumia mpangilio wa uunganishaji"</string>
-    <string name="consent_terms_btn">Masharti ya huduma</string>
-    <string name="concent_disagree_btn">Kutokubaliana</string>
-    <string name="concent_agree_btn">Kubali</string>
-    <string name="sbm_error_msg_title">Hitilafu ya uunganishaji au Hotspot</string>
-    <string name="sbm_error_msg">Imeshindwa kuunganisha kwa mtandao wa data.</string>
-    <string name="sbm_error_msg_not_subscribed">Imeshindwa kuthibitisha utumiaji wako ili kuunganisha uchaguzi.</string>
-    <string name="sbm_error_msg_not_authenticated">"Imeshindwa kuhalalisha.
+  <string name="consent_terms_btn">Masharti ya huduma</string>
+  <string name="consent_title">Masharti ya makubaliano</string>
+  <string name="current_subscription">(utumiaji wa sasa)</string>
+  <string name="feature_check_msg">Inaangalia hadhi ya utumiaji. Tafadhali subiri...</string>
+  <string name="mobile_hotspot">Eneo moto Mobile</string>
+  <string name="network_connection_error_msg">Simu yako haiwezi kuunganishwa kwenye seva ya %s kwa sasa. Tafadhali jaribu tena baadaye.</string>
+  <string name="network_connection_title">Hitilafu ya muunganisho wa mtandao</string>
+  <string name="request_pending_error_msg">Seva ya verizon inafanyia kazi ombi lako. Tafahali jaribu ndani ya dakika 5.</string>
+  <string name="request_pending_title">Utoaji masharti uko hewani</string>
+  <string name="retv_terms_conditions_msg">Inaangalia hadhi ya utumiaji. Tafadhali subiri...</string>
+  <string name="sbm_content_activity_title">Masharti ya makubaliano</string>
+  <string name="sbm_error_msg">Imeshindwa kuunganisha kwa mtandao wa data.</string>
+  <string name="sbm_error_msg_no_response">Imeshindwa kuhalalisha. Tafadhali jaribu tena baadaye katika mahalai penye mtandao mzuri.</string>
+  <string name="sbm_error_msg_not_authenticated">"Imeshindwa kuhalalisha.
 (Msimbo ya hitilafu %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Imeshindwa kuhalalisha. Tafadhali jaribu tena baadaye katika mahalai penye mtandao mzuri.</string>
+  <string name="sbm_error_msg_not_subscribed">Imeshindwa kuthibitisha utumiaji wako ili kuunganisha uchaguzi.</string>
+  <string name="sbm_error_msg_title">Hitilafu ya uunganishaji au Hotspot</string>
+  <string name="sprint_error_msg">Haiwezi kuunganisha kwa mtandao wa data; Unaweza usipate huduma za uunganishaji au Hotspot; Tafadhali wasiliana na simu yako ya kampuni.</string>
+  <string name="sprint_error_msg_title">Hitilafu ya uunganishaji au Hotspot</string>
+  <string name="sprint_notification_msg">Gusa kuona maelezo zaidi</string>
+  <string name="term_and_conditions_title">Sheria na Masharti</string>
+  <string name="tmo_error_msg">Mpango wako wa sasa wa kiwango haujumuishi huduma za Mobile Hotspot ya smartphone inayowezesha kuhsirikishana muunganisho wa data za simu yako na vifaa vingine. unataka kuongeza kuongeza huduma za Mobile Hotspot ya Smartphone kwenye mpango wako wa kiwango? unaweza pia kuongeza kwa njia ya mtandao katika https://my.t-mobile.com chini ya Mudu &gt; Mipango na Huduma. &lt;</string>
+  <string name="tmo_error_msg_title">Kuboresha huduma kunahitajika</string>
+  <string name="unavailable_subscription">(Haipatikani kulingana na kiwango cha hifadhi)</string>
+  <string name="vzw_error_msg">"Kama unapenda kuwa mtumiaji wa Mobile Hotspot/Mobile Broadband, piga:
+ Mtumiaji: (800) 256-4646,
+ Biashara: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Ombi lako linaweza lisiwe limefanyiwa kazi.</string>
+  <string name="vzw_self_provisioning_cancel">Katisha</string>
+  <string name="vzw_self_provisioning_learn_more">Jifunze zaidi</string>
+  <string name="vzw_self_provisioning_msg">"Ili kutumia Mobile Hotspot, utahitaji kuwa mtumiaji wa huduma za Mobile Hotspot.
+Jifunze zaidi na tumia huduma za Mobile Hotspot kwa kutembelea Verizon yangu."</string>
 </resources>

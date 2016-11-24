@@ -1,100 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="suw_next_button_label">Weiter</string>
-    <string name="suw_back_button_label">Zurück</string>
-    <string name="suw_more_button_label">Mehr</string>
-    <string name="entitlement_check_progress">Abostatus wird geprüft. Bitte warten.</string>
-    <string name="att_service_upgrade_msg">Zum Aktivieren att.com/mywireless aufrufen oder 611 wählen</string>
-    <string name="att_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
-    <string name="sprint_entitlement_error">Dienst wird nicht unterstützt. Bitte wende dich an deinen Mobilfunkanbieter.</string>
-    <string name="sprint_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
-    <string name="vzw_service_upgrade_msg">Bitte rufe den Kundenservice an, wenn du mobile Hotspots nutzen möchtest.</string>
-    <string name="vzw_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
-    <string name="vzw_wfc_activation_error">WLAN-Anrufe können nicht aktiviert werden. Bitte versuche es später noch einmal.</string>
-    <string name="vzw_address_update_error">Die aktuelle Notfalladresse kann momentan nicht aktualisiert werden. Bitte versuche es später noch einmal.</string>
-    <string name="generic_error">Fehler bei der Authentifizierung. Bitte versuche es später noch einmal.</string>
-    <string name="vzw_setup_app_label">Verizon-Kontoaktivierung</string>
-    <string name="vzw_activate_title">Smartphoneaktivierung</string>
-    <string name="vzw_activate_progress">Das Smartphone wird vorbereitet. Bitte warten.</string>
-    <string name="vzw_activate_exiting">Aktivierung wird beendet.</string>
-    <string name="vzw_verify_title">Konto bestätigen</string>
-    <string name="vzw_verify_ssn">Gib als Erstes die letzten 4 Ziffern der Sozialversicherungsnummer des Kontoinhabers ein:</string>
-    <string name="vzw_verify_pwd">Gib zuerst das Passwort für die Abrechnung für dein Konto an:</string>
-    <string name="vzw_verify_button">Bestätigen</string>
-    <string name="vzw_later_button">Später</string>
-    <string name="vzw_verify_switch_ssn">Stattdessen Sozialversicherungsnummer verwenden</string>
-    <string name="vzw_verify_switch_pwd">Stattdessen Passwort für die Abrechnung verwenden</string>
-    <string name="vzw_verify_progress_title">Konto wird bestätigt…</string>
-    <string name="vzw_activate_ready_title">Bereit zum Aktivieren?</string>
-    <string name="vzw_activate_ready_new">Dies kann einige Minuten dauern</string>
-    <string name="vzw_activate_ready_upgrade">"Bevor du dieses Smartphone aktivierst, sichere deine Kontakte und schalte dein altes Smartphone aus.
+  <string name="apt_suite_number">Apartment, Wohnung usw.</string>
+  <string name="att_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
+  <string name="att_service_upgrade_msg">Zum Aktivieren att.com/mywireless aufrufen oder 611 wählen</string>
+  <string name="cancel">Abbrechen</string>
+  <string name="city">Stadt</string>
+  <string name="edit_address">Adresse bearbeiten</string>
+  <string name="emergency_address_app_label">Verwaltung der Notfalladressen</string>
+  <string name="entitlement_check_progress">Abostatus wird geprüft. Bitte warten.</string>
+  <string name="generic_error">Fehler bei der Authentifizierung. Bitte versuche es später noch einmal.</string>
+  <string name="house_number">Hausnummer</string>
+  <string name="ok">OK</string>
+  <string name="progress_text">Bitte warten…</string>
+  <string name="save">Speichern</string>
+  <string name="save_anyway">Trotzdem speichern</string>
+  <string name="sprint_entitlement_error">Dienst wird nicht unterstützt. Bitte wende dich an deinen Mobilfunkanbieter.</string>
+  <string name="sprint_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
+  <string name="state">Bundesstaat/Bundesland</string>
+  <string name="street">Straße</string>
+  <string name="suw_back_button_label">Zurück</string>
+  <string name="suw_more_button_label">Mehr</string>
+  <string name="suw_next_button_label">Weiter</string>
+  <string name="vzw_activate_button">Aktivieren</string>
+  <string name="vzw_activate_continue">Weiter</string>
+  <string name="vzw_activate_error_lookup">Wir können dein Smartphone nicht aktivieren. Bitte wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
+  <string name="vzw_activate_error_lost_stolen">Wir können dein Smartphone nicht aktivieren. Bitte rufe (877) 807-4646 von einem anderen Telefon aus an, um den 4G LTE-Dienst zu aktivieren, und versuche es dann noch einmal.</string>
+  <string name="vzw_activate_error_network">Vergewissere dich, dass du guten Empfang (mehrere Balken) hast, und versuche es erneut. Falls das Problem weiterhin besteht, wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
+  <string name="vzw_activate_error_not_retryable">Wir können dein Smartphone nicht aktivieren. Bitte wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
+  <string name="vzw_activate_error_pwd">Das Passwort für die Abrechnung stimmt nicht überein. Bitte versuche es noch einmal.</string>
+  <string name="vzw_activate_error_release">Um dein Smartphone zu aktivieren, rufe (800) 922-0204 von einem anderen Telefon aus an.</string>
+  <string name="vzw_activate_error_restricted">Um das Smartphone zu aktivieren, folge der Anleitung, die deinem neuen Smartphone beiliegt, oder wende dich an den Verizon Wireless-Administrator in deinem Unternehmen.</string>
+  <string name="vzw_activate_error_restricted_title">So aktivierst du dein Smartphone</string>
+  <string name="vzw_activate_error_ssn">Sozialversicherungsnummer stimmt nicht überein. Bitte versuche es noch einmal.</string>
+  <string name="vzw_activate_error_title">Aktivierung nicht möglich</string>
+  <string name="vzw_activate_exiting">Aktivierung wird beendet.</string>
+  <string name="vzw_activate_notification">Zum Aktivieren tippen</string>
+  <string name="vzw_activate_notification_title">Jetzt aktivieren</string>
+  <string name="vzw_activate_progress">Das Smartphone wird vorbereitet. Bitte warten.</string>
+  <string name="vzw_activate_ready_new">Dies kann einige Minuten dauern</string>
+  <string name="vzw_activate_ready_title">Bereit zum Aktivieren?</string>
+  <string name="vzw_activate_ready_upgrade">"Bevor du dieses Smartphone aktivierst, sichere deine Kontakte und schalte dein altes Smartphone aus.
 
 Sobald du die Aktivierung gestartet hast, übertragen wir deine Nummer auf dieses Smartphone und deaktivieren dein altes."</string>
-    <string name="vzw_activate_button">Aktivieren</string>
-    <string name="vzw_activating_new_title">Telefonnummer wird abgerufen...</string>
-    <string name="vzw_activating_upgrade_title">Telefonnummer wird übertragen...</string>
-    <string name="vzw_activating_upgrade">Um deine Nummer auf dein neues Smartphone zu übertragen, muss dein altes Smartphone ausgeschaltet sein.</string>
-    <string name="vzw_activate_success_title">Smartphone aktiviert</string>
-    <string name="vzw_activate_success">Dein Verizon-Smartphone ist nun aktiv. Deine Nummer lautet %1$s</string>
-    <string name="vzw_data_limit_title">Datennutzung eingeschränkt</string>
-    <string name="vzw_data_limit">Deine Datennutzung ist momentan aufgrund der Tageszeit oder eines Datenlimits eingeschränkt. Zur weiteren Einrichtung deines Geräts ist eine WLAN-Verbindung erforderlich.</string>
-    <string name="vzw_data_restricted_title">Datennutzung eingeschränkt</string>
-    <string name="vzw_data_restricted">Aufgrund der Tageszeit oder eines Datenlimits</string>
-    <string name="vzw_data_redirected_title">Verizon-Kundenservice kontaktieren</string>
-    <string name="vzw_data_redirected">Du verfügst über keinen Verizon Wireless-Tarif oder hast dein gesamtes Tarifguthaben aufgebraucht. Bitte wende dich an Verizon</string>
-    <string name="vzw_activate_notification_title">Jetzt aktivieren</string>
-    <string name="vzw_activate_notification">Zum Aktivieren tippen</string>
-    <string name="vzw_cold_notification">Wende dich zur Aktivierung deines Smartphones an Verizon.</string>
-    <string name="vzw_activate_error_title">Aktivierung nicht möglich</string>
-    <string name="vzw_activate_error_network">Vergewissere dich, dass du guten Empfang (mehrere Balken) hast, und versuche es erneut. Falls das Problem weiterhin besteht, wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
-    <string name="vzw_activate_error_lookup">Wir können dein Smartphone nicht aktivieren. Bitte wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
-    <string name="vzw_activate_error_ssn">Sozialversicherungsnummer stimmt nicht überein. Bitte versuche es noch einmal.</string>
-    <string name="vzw_activate_error_pwd">Das Passwort für die Abrechnung stimmt nicht überein. Bitte versuche es noch einmal.</string>
-    <string name="vzw_activate_error_not_retryable">Wir können dein Smartphone nicht aktivieren. Bitte wende dich an den Kundenservice unter der Nummer (800) 922-0204.</string>
-    <string name="vzw_activate_error_release">Um dein Smartphone zu aktivieren, rufe (800) 922-0204 von einem anderen Telefon aus an.</string>
-    <string name="vzw_activate_error_restricted_title">So aktivierst du dein Smartphone</string>
-    <string name="vzw_activate_error_restricted">Um das Smartphone zu aktivieren, folge der Anleitung, die deinem neuen Smartphone beiliegt, oder wende dich an den Verizon Wireless-Administrator in deinem Unternehmen.</string>
-    <string name="vzw_activate_error_lost_stolen">Wir können dein Smartphone nicht aktivieren. Bitte rufe (877) 807-4646 von einem anderen Telefon aus an, um den 4G LTE-Dienst zu aktivieren, und versuche es dann noch einmal.</string>
-    <string name="vzw_activate_continue">Weiter</string>
-    <string name="vzw_activate_retry">Erneut versuchen</string>
-    <string name="vzw_activate_skip">Überspringen</string>
-    <string name="emergency_address_app_label">Verwaltung der Notfalladressen</string>
-    <string name="progress_text">Bitte warten…</string>
-    <string name="vzw_tos_title">WLAN-Anrufe aktivieren</string>
-    <string name="cancel">Abbrechen</string>
-    <string name="vzw_tos_text">"Mit WLAN-Anrufen kannst du über WLAN telefonieren, wenn das Mobilfunknetz nicht verfügbar ist.
+  <string name="vzw_activate_retry">Erneut versuchen</string>
+  <string name="vzw_activate_skip">Überspringen</string>
+  <string name="vzw_activate_success">Dein Verizon-Smartphone ist nun aktiv. Deine Nummer lautet %1$s</string>
+  <string name="vzw_activate_success_title">Smartphone aktiviert</string>
+  <string name="vzw_activate_title">Smartphoneaktivierung</string>
+  <string name="vzw_activating_new_title">Telefonnummer wird abgerufen...</string>
+  <string name="vzw_activating_upgrade">Um deine Nummer auf dein neues Smartphone zu übertragen, muss dein altes Smartphone ausgeschaltet sein.</string>
+  <string name="vzw_activating_upgrade_title">Telefonnummer wird übertragen...</string>
+  <string name="vzw_address_alternate_text">Meintest du:</string>
+  <string name="vzw_address_confirm_text">"Wir konnten die eingegebene Adresse nicht finden. Möglicherweise ist der Ort, der Bundesstaat/das Bundesland oder die Postleitzahl nicht korrekt.
+
+Wenn der Ort, der Bundesstaat/das Bundesland oder die Postleitzahl nicht korrekt ist, tippe auf %1$s. Tippe ansonsten auf %2$s."</string>
+  <string name="vzw_address_confirm_text_part1">Wir konnten die eingegebene Adresse nicht finden. Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
+  <string name="vzw_address_confirm_text_part2">Wenn der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt ist, tippe auf %1$s. Tippe ansonsten auf %2$s.</string>
+  <string name="vzw_address_select_text">Wir konnten die eingegebene Adresse nicht finden:</string>
+  <string name="vzw_address_update_error">Die aktuelle Notfalladresse kann momentan nicht aktualisiert werden. Bitte versuche es später noch einmal.</string>
+  <string name="vzw_cold_notification">Wende dich zur Aktivierung deines Smartphones an Verizon.</string>
+  <string name="vzw_data_limit">Deine Datennutzung ist momentan aufgrund der Tageszeit oder eines Datenlimits eingeschränkt. Zur weiteren Einrichtung deines Geräts ist eine WLAN-Verbindung erforderlich.</string>
+  <string name="vzw_data_limit_title">Datennutzung eingeschränkt</string>
+  <string name="vzw_data_redirected">Du verfügst über keinen Verizon Wireless-Tarif oder hast dein gesamtes Tarifguthaben aufgebraucht. Bitte wende dich an Verizon</string>
+  <string name="vzw_data_redirected_title">Verizon-Kundenservice kontaktieren</string>
+  <string name="vzw_data_restricted">Aufgrund der Tageszeit oder eines Datenlimits</string>
+  <string name="vzw_data_restricted_title">Datennutzung eingeschränkt</string>
+  <string name="vzw_e911_description">&lt;b&gt;WICHTIG &amp;#8211; NOTFALLADRESSE ERFORDERLICH&lt;/b&gt;"
+Um WLAN-Anrufe zu aktivieren, gib die US-Adresse an, an die die Notfalldienste geschickt werden sollen, wenn du 911 w&amp;#228;hlst. Diese Adresse kannst du jederzeit unter \"Einstellungen\" &amp;#228;ndern. Es ist sehr wichtig, dass du diese Adresse aktualisierst, sobald du deinen Standort wechselst."</string>
+  <string name="vzw_e911_title">Informationen zum Notfallstandort</string>
+  <string name="vzw_e911_warning">&lt;b&gt;ACHTUNG &amp;#8211; EINSCHR&amp;#196;NKUNGEN BEIM NOTRUF&lt;/b&gt;"
+Wenn du die 911 w&amp;#228;hlst, sage der Vermittlung immer, wo du bist. Dein Notruf geht nur &amp;#252;ber WLAN, wenn das Mobilfunknetz nicht verf&amp;#252;gbar ist. Bei Notrufen &amp;#252;ber WLAN kann es zu Verz&amp;#246;gerungen oder Fehlern kommen, zum Beispiel, wenn das Notrufsystem die Adresse nicht erkennt, der Strom ausgefallen ist oder deine WLAN-Verbindung nicht funktioniert. Die Notfalldienste werden an die oben angegebene Adresse geschickt. Bitte aktualisiere die Adresse, sobald du den Standort wechselst."</string>
+  <string name="vzw_later_button">Später</string>
+  <string name="vzw_network_error">Netzwerk nicht verfügbar. Bitte versuche es später erneut.</string>
+  <string name="vzw_partial_confirm_head">Die eingegebene Adresse konnte von den Notfalldienstanbietern nicht bestätigt werden.</string>
+  <string name="vzw_partial_confirm_text">Möchtest du diese Adresse wirklich in einem Notfall nutzen?</string>
+  <string name="vzw_partial_failure_text">"Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.
+
+Überprüfe die Adresse und versuche es noch einmal."</string>
+  <string name="vzw_partial_failure_text_part1">Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
+  <string name="vzw_partial_failure_text_part2">Überprüfe die Adresse und versuche es noch einmal.</string>
+  <string name="vzw_service_upgrade_msg">Bitte rufe den Kundenservice an, wenn du mobile Hotspots nutzen möchtest.</string>
+  <string name="vzw_setup_app_label">Verizon-Kontoaktivierung</string>
+  <string name="vzw_tos_link">Nutzungsbedingungen</string>
+  <string name="vzw_tos_text">"Mit WLAN-Anrufen kannst du über WLAN telefonieren, wenn das Mobilfunknetz nicht verfügbar ist.
 
 Zum Einrichten der WLAN-Anrufe musst du eine Adresse in den USA angeben. Diese Adresse wird von Notfalldiensten an deinem Standort genutzt, wenn du einen Notruf (E911) über WLAN von diesem Smartphone aus absetzt.
 
 Wir empfehlen dir, diese Adresse zu ändern, wenn du über ein anderes WLAN anrufst, damit deine Standortinformationen korrekt sind. Du kannst deinen Standort jederzeit über das Einstellungsmenü für WLAN-Anrufe ändern."</string>
-    <string name="vzw_tos_link">Nutzungsbedingungen</string>
-    <string name="vzw_e911_title">Informationen zum Notfallstandort</string>
-    <string name="vzw_e911_description"><b>WICHTIG – NOTFALLADRESSE ERFORDERLICH</b>"
-Um WLAN-Anrufe zu aktivieren, gib die US-Adresse an, an die die Notfalldienste geschickt werden sollen, wenn du 911 wählst. Diese Adresse kannst du jederzeit unter \"Einstellungen\" ändern. Es ist sehr wichtig, dass du diese Adresse aktualisierst, sobald du deinen Standort wechselst."</string>
-    <string name="vzw_e911_warning"><b>ACHTUNG – EINSCHRÄNKUNGEN BEIM NOTRUF</b>"
-Wenn du die 911 wählst, sage der Vermittlung immer, wo du bist. Dein Notruf geht nur über WLAN, wenn das Mobilfunknetz nicht verfügbar ist. Bei Notrufen über WLAN kann es zu Verzögerungen oder Fehlern kommen, zum Beispiel, wenn das Notrufsystem die Adresse nicht erkennt, der Strom ausgefallen ist oder deine WLAN-Verbindung nicht funktioniert. Die Notfalldienste werden an die oben angegebene Adresse geschickt. Bitte aktualisiere die Adresse, sobald du den Standort wechselst."</string>
-    <string name="house_number">Hausnummer</string>
-    <string name="street">Straße</string>
-    <string name="apt_suite_number">Apartment, Wohnung usw.</string>
-    <string name="city">Stadt</string>
-    <string name="state">Bundesstaat/Bundesland</string>
-    <string name="zip_code">Postleitzahl</string>
-    <string name="save">Speichern</string>
-    <string name="vzw_address_confirm_text">"Wir konnten die eingegebene Adresse nicht finden. Möglicherweise ist der Ort, der Bundesstaat/das Bundesland oder die Postleitzahl nicht korrekt.
-
-Wenn der Ort, der Bundesstaat/das Bundesland oder die Postleitzahl nicht korrekt ist, tippe auf %1$s. Tippe ansonsten auf %2$s."</string>
-    <string name="vzw_address_confirm_text_part1">Wir konnten die eingegebene Adresse nicht finden. Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
-    <string name="vzw_address_confirm_text_part2">Wenn der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt ist, tippe auf %1$s. Tippe ansonsten auf %2$s.</string>
-    <string name="save_anyway">Trotzdem speichern</string>
-    <string name="edit_address">Adresse bearbeiten</string>
-    <string name="ok">OK</string>
-    <string name="vzw_address_select_text">Wir konnten die eingegebene Adresse nicht finden:</string>
-    <string name="vzw_address_alternate_text">Meintest du:</string>
-    <string name="vzw_partial_confirm_head">Die eingegebene Adresse konnte von den Notfalldienstanbietern nicht bestätigt werden.</string>
-    <string name="vzw_partial_confirm_text">Möchtest du diese Adresse wirklich in einem Notfall nutzen?</string>
-    <string name="vzw_partial_failure_text">"Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.
-
-Überprüfe die Adresse und versuche es noch einmal."</string>
-    <string name="vzw_partial_failure_text_part1">Möglicherweise ist der Ort, der Bundesstaat bzw. das Bundesland oder die Postleitzahl nicht korrekt.</string>
-    <string name="vzw_partial_failure_text_part2">Überprüfe die Adresse und versuche es noch einmal.</string>
+  <string name="vzw_tos_title">WLAN-Anrufe aktivieren</string>
+  <string name="vzw_verify_button">Bestätigen</string>
+  <string name="vzw_verify_progress_title">Konto wird bestätigt…</string>
+  <string name="vzw_verify_pwd">Gib zuerst das Passwort für die Abrechnung für dein Konto an:</string>
+  <string name="vzw_verify_ssn">Gib als Erstes die letzten 4 Ziffern der Sozialversicherungsnummer des Kontoinhabers ein:</string>
+  <string name="vzw_verify_switch_pwd">Stattdessen Passwort für die Abrechnung verwenden</string>
+  <string name="vzw_verify_switch_ssn">Stattdessen Sozialversicherungsnummer verwenden</string>
+  <string name="vzw_verify_title">Konto bestätigen</string>
+  <string name="vzw_wfc_activation_error">WLAN-Anrufe können nicht aktiviert werden. Bitte versuche es später noch einmal.</string>
+  <string name="zip_code">Postleitzahl</string>
 </resources>

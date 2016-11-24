@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Kelayakan</string>
-    <string name="feature_check_msg">Menyemak status langganan. Sila Tunggu...</string>
-    <string name="vzw_self_provisioning_msg">"Untuk menggunakan Mobile Hotspot, anda perlu melanggan perkhidmatan Mobile Hotspot.
-Ketahui selanjutnya dan langgan Mobile Hotspot dengan melawat Verizon Saya."</string>
-    <string name="vzw_self_provisioning_cancel">Batal</string>
-    <string name="vzw_self_provisioning_learn_more">Pelajari lagi</string>
-    <string name="vzw_error_msg_title">Pesanan anda tidak dapat diproses</string>
-    <string name="vzw_error_msg">"Jika anda ingin melanggan Mobile Hotspot/Mobile Broadband Connect, hubungi:
- Pengguna: (800) 256-4646,
- Perniagaan: (800) 899-4249."</string>
-    <string name="tmo_error_msg_title">Menaik taraf perkhidmatan yang diperlukan</string>
-    <string name="tmo_error_msg">Pelan kadar semasa anda tidak termasuk perkhidmatan Mobile Hotspot Telefon Pintar yang membolehkan perkongsian sambungan data telefon anda dengan peranti lain. Adakah anda ingin menambah perkhidmatan Mobile Hotspot Telefon Pintar pada pelan kadar anda? Anda juga boleh menambahnya dalam talian di https://my.t-mobile.com di bawah Urus > Pelan dan Perkhidmatan. &lt;</string>
-    <string name="retv_terms_conditions_msg">Menyemak status langganan. Sila Tunggu...</string>
-    <string name="change_data_request_msg">Menghantar permintaan untuk peruntukan. Sila tunggu...</string>
-    <string name="alert_dialog_failure_title">Pesanan anda tidak dapat diproses</string>
-    <string name="alert_dialog_failure_msg">Sila cuba lagi.</string>
-    <string name="network_connection_title">Ralat sambungan rangkaian</string>
-    <string name="network_connection_error_msg">Pada masa ini telefon anda tidak dapat menyambung ke pelayan %s. Sila cuba lagi kemudian.</string>
-    <string name="alert_dialog_positive_button">Pilih</string>
-    <string name="alert_dialog_upgrade_button">Naik taraf</string>
-    <string name="alert_dialog_later_button">Kemudian</string>
-    <string name="current_subscription">(langganan semasa)</string>
-    <string name="unavailable_subscription">(tidak tersedia berdasarkan pada tahap storan)</string>
-    <string name="request_pending_title">Menunggu Peruntukan</string>
-    <string name="request_pending_error_msg">Pelayan Verizon sedang memproses permintaan anda. Sila cuba lagi selepas 5 minit.</string>
-    <string name="browser_error_msg">Tidak dapat membuka pelayan.</string>
-    <string name="att_error_msg">Untuk mendayakan, pergi ke att.com/mywireless atau dail 611</string>
-    <string name="att_error_msg_title">Akaun tidak ditetapkan untuk penambatan</string>
-    <string name="att_error_msg_other">Ini adalah masalah rangkaian sementara yang menghalang pendayaan fungsi Hotspot Mudah Alih. Sila cuba semula kemudian</string>
-    <string name="att_error_msg_other_title">Ralat rangkaian</string>
-    <string name="sprint_error_msg">Tidak dapat disambung ke rangkaian data; Anda mungkin tidak melanggan perkhidmatan Penambatan atau Hotspot; Sila hubungi syarikat telefon anda.</string>
-    <string name="sprint_error_msg_title">Ralat Penambatan atau Hotspot</string>
-    <string name="sprint_notification_msg">Sentuh untuk melihat butiran lanjut</string>
-    <string name="term_and_conditions_title">Terma dan Syarat</string>
-    <string name="sbm_content_activity_title">Terma perjanjian</string>
-    <string name="consent_title">Terma perjanjian</string>
-    <string name="consent_message">"Untuk menggunakan aplikasi ini, anda perlu bersetuju dan menghantar maklumat berikut. Sila teruskan selepas kandungan semakan dipaparkan.
+  <string name="alert_dialog_failure_msg">Sila cuba lagi.</string>
+  <string name="alert_dialog_failure_title">Pesanan anda tidak dapat diproses</string>
+  <string name="alert_dialog_later_button">Kemudian</string>
+  <string name="alert_dialog_positive_button">Pilih</string>
+  <string name="alert_dialog_upgrade_button">Naik taraf</string>
+  <string name="app_name">Kelayakan</string>
+  <string name="att_error_msg">Untuk mendayakan, pergi ke att.com/mywireless atau dail 611</string>
+  <string name="att_error_msg_other">Ini adalah masalah rangkaian sementara yang menghalang pendayaan fungsi Hotspot Mudah Alih. Sila cuba semula kemudian</string>
+  <string name="att_error_msg_other_title">Ralat rangkaian</string>
+  <string name="att_error_msg_title">Akaun tidak ditetapkan untuk penambatan</string>
+  <string name="browser_error_msg">Tidak dapat membuka pelayan.</string>
+  <string name="change_data_request_msg">Menghantar permintaan untuk peruntukan. Sila tunggu...</string>
+  <string name="concent_agree_btn">Setuju</string>
+  <string name="concent_disagree_btn">Tidak setuju</string>
+  <string name="consent_message">"Untuk menggunakan aplikasi ini, anda perlu bersetuju dan menghantar maklumat berikut. Sila teruskan selepas kandungan semakan dipaparkan.
 
 [Hantar maklumat]
 ID khusus kontraktor
 [Guna aplikasi]
 Arahan untuk menggunakan aplikasi penambatan"</string>
-    <string name="consent_terms_btn">Terma khidmat</string>
-    <string name="concent_disagree_btn">Tidak setuju</string>
-    <string name="concent_agree_btn">Setuju</string>
-    <string name="sbm_error_msg_title">Ralat Penambatan atau Hotspot</string>
-    <string name="sbm_error_msg">Tidak dapat sambung ke rangkaian data.</string>
-    <string name="sbm_error_msg_not_subscribed">Gagal untuk mengesahkan langganan anda kepada Pilihan Penambatan.</string>
-    <string name="sbm_error_msg_not_authenticated">"Pengesahan gagal.
+  <string name="consent_terms_btn">Terma khidmat</string>
+  <string name="consent_title">Terma perjanjian</string>
+  <string name="current_subscription">(langganan semasa)</string>
+  <string name="feature_check_msg">Menyemak status langganan. Sila Tunggu...</string>
+  <string name="network_connection_error_msg">Pada masa ini telefon anda tidak dapat menyambung ke pelayan %s. Sila cuba lagi kemudian.</string>
+  <string name="network_connection_title">Ralat sambungan rangkaian</string>
+  <string name="request_pending_error_msg">Pelayan Verizon sedang memproses permintaan anda. Sila cuba lagi selepas 5 minit.</string>
+  <string name="request_pending_title">Menunggu Peruntukan</string>
+  <string name="retv_terms_conditions_msg">Menyemak status langganan. Sila Tunggu...</string>
+  <string name="sbm_content_activity_title">Terma perjanjian</string>
+  <string name="sbm_error_msg">Tidak dapat sambung ke rangkaian data.</string>
+  <string name="sbm_error_msg_no_response">Pengesahan gagal. Sila cuba lagi di lokasi dengan penerimaan yang baik.</string>
+  <string name="sbm_error_msg_not_authenticated">"Pengesahan gagal.
 (Ralat kod %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Pengesahan gagal. Sila cuba lagi di lokasi dengan penerimaan yang baik.</string>
+  <string name="sbm_error_msg_not_subscribed">Gagal untuk mengesahkan langganan anda kepada Pilihan Penambatan.</string>
+  <string name="sbm_error_msg_title">Ralat Penambatan atau Hotspot</string>
+  <string name="sprint_error_msg">Tidak dapat disambung ke rangkaian data; Anda mungkin tidak melanggan perkhidmatan Penambatan atau Hotspot; Sila hubungi syarikat telefon anda.</string>
+  <string name="sprint_error_msg_title">Ralat Penambatan atau Hotspot</string>
+  <string name="sprint_notification_msg">Sentuh untuk melihat butiran lanjut</string>
+  <string name="term_and_conditions_title">Terma dan Syarat</string>
+  <string name="tmo_error_msg">Pelan kadar semasa anda tidak termasuk perkhidmatan Mobile Hotspot Telefon Pintar yang membolehkan perkongsian sambungan data telefon anda dengan peranti lain. Adakah anda ingin menambah perkhidmatan Mobile Hotspot Telefon Pintar pada pelan kadar anda? Anda juga boleh menambahnya dalam talian di https://my.t-mobile.com di bawah Urus &gt; Pelan dan Perkhidmatan. &lt;</string>
+  <string name="tmo_error_msg_title">Menaik taraf perkhidmatan yang diperlukan</string>
+  <string name="unavailable_subscription">(tidak tersedia berdasarkan pada tahap storan)</string>
+  <string name="vzw_error_msg">"Jika anda ingin melanggan Mobile Hotspot/Mobile Broadband Connect, hubungi:
+ Pengguna: (800) 256-4646,
+ Perniagaan: (800) 899-4249."</string>
+  <string name="vzw_error_msg_title">Pesanan anda tidak dapat diproses</string>
+  <string name="vzw_self_provisioning_cancel">Batal</string>
+  <string name="vzw_self_provisioning_learn_more">Pelajari lagi</string>
+  <string name="vzw_self_provisioning_msg">"Untuk menggunakan Mobile Hotspot, anda perlu melanggan perkhidmatan Mobile Hotspot.
+Ketahui selanjutnya dan langgan Mobile Hotspot dengan melawat Verizon Saya."</string>
 </resources>

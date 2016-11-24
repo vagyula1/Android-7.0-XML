@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="feature_check_msg">Բաժանորդագրության կարգավիճակն է ստուգվում: Խնդրում ենք սպասել...</string>
-    <string name="vzw_self_provisioning_msg">"Mobile Hotspot-ից օգտվելու համար Դուք պետք է բաժանորդագրվեք Mobile Hotspot-ի ծառայությանը:
-Ավելին տեղեկացեք և բաժանորդագրվեք Mobile Hotspot-ին՝ այցելելով My Verizon:"</string>
-    <string name="vzw_self_provisioning_cancel">Չեղարկել</string>
-    <string name="vzw_self_provisioning_learn_more">Իմանալ ավելին</string>
-    <string name="vzw_error_msg_title">Ձեր հրամանը անհնար է մշակել</string>
-    <string name="vzw_error_msg">"Եթե կցանկանաք բաժանորդագրվել Mobile Hotspot/Mobile Broadband-ին, զանգահարեք՝
- Սպասառուների համար՝ (800) 256-4646,
- Բիզնես՝ (800) 899-4249:"</string>
-    <string name="tmo_error_msg_title">Ծառայության հզորացում է պահանջվում</string>
-    <string name="tmo_error_msg">Ձեր ներկայիս սակագնային պլանը չի ներառում Սմարթֆոնի Mobile Hotspot ծառայությունը, որը թույլ է տալիս համօգտագործել Ձեր հեռախոսի տվյալների կապակցումը այլ սարքերի հետ: Դուք ցանկանո՞ւմ եք Սմարթֆոնի Mobile Hotspot ծառայությունը ավելացնել Ձեր սակագնային պլանին: Դուք նաև կարող եք այն առցանց ավելացնել https://my.t-mobile.com-ում՝ Կառավարել > Ծրագրեր և ծառայություններ: ընտրանքի ներքո &lt;</string>
-    <string name="retv_terms_conditions_msg">Բաժանորդագրության կարգավիճակն է ստուգվում: Խնդրում ենք սպասել...</string>
-    <string name="change_data_request_msg">Տրամադրման համար հայց է ուղարկվում: Խնդրում ենք սպասել...</string>
-    <string name="alert_dialog_failure_title">Ձեր հրամանը անհնար է մշակել</string>
-    <string name="alert_dialog_failure_msg">Խնդրում նեք ավելի ուշ կրկին փորձել:</string>
-    <string name="network_connection_title">Ցանցի կապակցման սխալ</string>
-    <string name="network_connection_error_msg">Ձեր հեռախոսն այս պահին չի կարող կապվել %s-ի սպասարկչին: Խնդրում ենք ավելի ուշ կրկին փորձել:</string>
-    <string name="mobile_hotspot">Շարժական Ակտիվացվող Դաշտ</string>
-    <string name="alert_dialog_positive_button">Լավ (OK)</string>
-    <string name="alert_dialog_upgrade_button">Նորացնել</string>
-    <string name="alert_dialog_later_button">Ավելի ուշ</string>
-    <string name="current_subscription">(ներկայիս բաժանորդագրություն)</string>
-    <string name="unavailable_subscription">(անհասանելի է՝ հիմնված պահեստի մակարդակի վրա)</string>
-    <string name="request_pending_title">Տրամադրումն առկախ է</string>
-    <string name="request_pending_error_msg">Verizon-ի սպասարկիչը մշակում է Ձեր խնդրանքը: Խնդրում ենք 5 րոպեից կրկին փորձել:</string>
-    <string name="browser_error_msg">Անհնար է բացել զննիչը:</string>
-    <string name="att_error_msg">Միացնելու համար անցում կատարեք՝ att.com/mywireless կամ զանգահարեք 611</string>
-    <string name="att_error_msg_title">Հաշիվը կապակցման համար չի կարգավորվել</string>
-    <string name="att_error_msg_other">Ցանցի ժամանակավոր խնդիր գոյություն ունի, որն արգելում է Բջջային թեժ կետի գործառույթի միացումը: Խնդրում ենք ավելի ուշ կրկին փորձել</string>
-    <string name="att_error_msg_other_title">Ցանցի սխալ</string>
-    <string name="sprint_error_msg">Հնարավոր չէ միանալ տվյալների ցանցին։ Հնարավոր է, որ Դուք չբաժանորդագրվեք Կապակցման կամ Թեժկետի ծառայություններին։ Կապվեք ձեր հեռախոսային ընկերության հետ։</string>
-    <string name="sprint_error_msg_title">կապակցման կամ Թեժկետի սխալ</string>
-    <string name="sprint_notification_msg">Հպեք՝ հավելյալ մանրամասնություններ տեսնելու համար</string>
-    <string name="term_and_conditions_title">Դրույթներ և պայմաններ</string>
-    <string name="sbm_content_activity_title">Համաձայնագրի դրույթներ</string>
-    <string name="consent_title">Համաձայնագրի դրույթներ</string>
-    <string name="consent_message">"Այս հավելվածից օգտվելու համար Դուք պետք է համաձայնեք և ուղարկեք հետևյալ տվյալները: Ստուգման բովանդակությունում խնդրում ենք այնուհետև շարունակել:
+  <string name="alert_dialog_failure_msg">Խնդրում նեք ավելի ուշ կրկին փորձել:</string>
+  <string name="alert_dialog_failure_title">Ձեր հրամանը անհնար է մշակել</string>
+  <string name="alert_dialog_later_button">Ավելի ուշ</string>
+  <string name="alert_dialog_positive_button">Լավ (OK)</string>
+  <string name="alert_dialog_upgrade_button">Նորացնել</string>
+  <string name="att_error_msg">Միացնելու համար անցում կատարեք՝ att.com/mywireless կամ զանգահարեք 611</string>
+  <string name="att_error_msg_other">Ցանցի ժամանակավոր խնդիր գոյություն ունի, որն արգելում է Բջջային թեժ կետի գործառույթի միացումը: Խնդրում ենք ավելի ուշ կրկին փորձել</string>
+  <string name="att_error_msg_other_title">Ցանցի սխալ</string>
+  <string name="att_error_msg_title">Հաշիվը կապակցման համար չի կարգավորվել</string>
+  <string name="browser_error_msg">Անհնար է բացել զննիչը:</string>
+  <string name="change_data_request_msg">Տրամադրման համար հայց է ուղարկվում: Խնդրում ենք սպասել...</string>
+  <string name="concent_agree_btn">Համաձայն եմ</string>
+  <string name="concent_disagree_btn">Չհամաձայնել</string>
+  <string name="consent_message">"Այս հավելվածից օգտվելու համար Դուք պետք է համաձայնեք և ուղարկեք հետևյալ տվյալները: Ստուգման բովանդակությունում խնդրում ենք այնուհետև շարունակել:
 
 [Տվյալներ ուղարկել]
 Կապալառուին հատուկ ID
 [Օգտվել հավելվածներից]
 Կապակցման հավելվածից օգտվելու հրաման"</string>
-    <string name="consent_terms_btn">Ծառայության պայմանները</string>
-    <string name="concent_disagree_btn">Չհամաձայնել</string>
-    <string name="concent_agree_btn">Համաձայն եմ</string>
-    <string name="sbm_error_msg_title">կապակցման կամ Թեժկետի սխալ</string>
-    <string name="sbm_error_msg">Հնարավոր չէ միանալ տվյալների ցանցին։</string>
-    <string name="sbm_error_msg_not_subscribed">Կապակցման Ընտրանքում Ձեր բաժանորդագրման վավերացումը ձախողվեց:</string>
-    <string name="sbm_error_msg_not_authenticated">"Իսկորոշումը ձախողվեց։.
+  <string name="consent_terms_btn">Ծառայության պայմանները</string>
+  <string name="consent_title">Համաձայնագրի դրույթներ</string>
+  <string name="current_subscription">(ներկայիս բաժանորդագրություն)</string>
+  <string name="feature_check_msg">Բաժանորդագրության կարգավիճակն է ստուգվում: Խնդրում ենք սպասել...</string>
+  <string name="mobile_hotspot">Շարժական Ակտիվացվող Դաշտ</string>
+  <string name="network_connection_error_msg">Ձեր հեռախոսն այս պահին չի կարող կապվել %s-ի սպասարկչին: Խնդրում ենք ավելի ուշ կրկին փորձել:</string>
+  <string name="network_connection_title">Ցանցի կապակցման սխալ</string>
+  <string name="request_pending_error_msg">Verizon-ի սպասարկիչը մշակում է Ձեր խնդրանքը: Խնդրում ենք 5 րոպեից կրկին փորձել:</string>
+  <string name="request_pending_title">Տրամադրումն առկախ է</string>
+  <string name="retv_terms_conditions_msg">Բաժանորդագրության կարգավիճակն է ստուգվում: Խնդրում ենք սպասել...</string>
+  <string name="sbm_content_activity_title">Համաձայնագրի դրույթներ</string>
+  <string name="sbm_error_msg">Հնարավոր չէ միանալ տվյալների ցանցին։</string>
+  <string name="sbm_error_msg_no_response">Իսկորոշումը ձախողվեց։. Խնդրում ենք լավ ընդունմամբ տեղանքում կրկին փորձել:</string>
+  <string name="sbm_error_msg_not_authenticated">"Իսկորոշումը ձախողվեց։.
 (Սխալի կոդ %1$s)"</string>
-    <string name="sbm_error_msg_no_response">Իսկորոշումը ձախողվեց։. Խնդրում ենք լավ ընդունմամբ տեղանքում կրկին փորձել:</string>
+  <string name="sbm_error_msg_not_subscribed">Կապակցման Ընտրանքում Ձեր բաժանորդագրման վավերացումը ձախողվեց:</string>
+  <string name="sbm_error_msg_title">կապակցման կամ Թեժկետի սխալ</string>
+  <string name="sprint_error_msg">Հնարավոր չէ միանալ տվյալների ցանցին։ Հնարավոր է, որ Դուք չբաժանորդագրվեք Կապակցման կամ Թեժկետի ծառայություններին։ Կապվեք ձեր հեռախոսային ընկերության հետ։</string>
+  <string name="sprint_error_msg_title">կապակցման կամ Թեժկետի սխալ</string>
+  <string name="sprint_notification_msg">Հպեք՝ հավելյալ մանրամասնություններ տեսնելու համար</string>
+  <string name="term_and_conditions_title">Դրույթներ և պայմաններ</string>
+  <string name="tmo_error_msg">Ձեր ներկայիս սակագնային պլանը չի ներառում Սմարթֆոնի Mobile Hotspot ծառայությունը, որը թույլ է տալիս համօգտագործել Ձեր հեռախոսի տվյալների կապակցումը այլ սարքերի հետ: Դուք ցանկանո՞ւմ եք Սմարթֆոնի Mobile Hotspot ծառայությունը ավելացնել Ձեր սակագնային պլանին: Դուք նաև կարող եք այն առցանց ավելացնել https://my.t-mobile.com-ում՝ Կառավարել &gt; Ծրագրեր և ծառայություններ: ընտրանքի ներքո &lt;</string>
+  <string name="tmo_error_msg_title">Ծառայության հզորացում է պահանջվում</string>
+  <string name="unavailable_subscription">(անհասանելի է՝ հիմնված պահեստի մակարդակի վրա)</string>
+  <string name="vzw_error_msg">"Եթե կցանկանաք բաժանորդագրվել Mobile Hotspot/Mobile Broadband-ին, զանգահարեք՝
+ Սպասառուների համար՝ (800) 256-4646,
+ Բիզնես՝ (800) 899-4249:"</string>
+  <string name="vzw_error_msg_title">Ձեր հրամանը անհնար է մշակել</string>
+  <string name="vzw_self_provisioning_cancel">Չեղարկել</string>
+  <string name="vzw_self_provisioning_learn_more">Իմանալ ավելին</string>
+  <string name="vzw_self_provisioning_msg">"Mobile Hotspot-ից օգտվելու համար Դուք պետք է բաժանորդագրվեք Mobile Hotspot-ի ծառայությանը:
+Ավելին տեղեկացեք և բաժանորդագրվեք Mobile Hotspot-ին՝ այցելելով My Verizon:"</string>
 </resources>
