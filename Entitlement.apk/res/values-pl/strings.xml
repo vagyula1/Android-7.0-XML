@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">Później</string>
-  <string name="alert_dialog_negative_button">Anuluj</string>
-  <string name="alert_dialog_no_button">Nie</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">Aktualizuj</string>
-  <string name="alert_dialog_yes_button">Tak</string>
-  <string name="app_name">Uprawnienie</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">Aby włączyć tę opcję, odwiedź stronę att.com/mywireless lub zadzwoń pod numer 611</string>
-  <string name="att_error_msg_other">Wystąpił tymczasowy problem z siecią, który uniemożliwia włączenie funkcji mobilnego hotspota. Spróbuj ponownie później.</string>
-  <string name="att_error_msg_other_title">Błąd sieci</string>
-  <string name="att_error_msg_title">Konto nie jest przygotowane do obsługi funkcji modemu internetowego</string>
-  <string name="browser_error_msg">Nie można otworzyć przeglądarki</string>
-  <string name="feature_check_msg">Trwa sprawdzanie statusu subskrypcji. Proszę czekać...</string>
-  <string name="mobile_hotspot">Mobilny hotspot</string>
-  <string name="network_connection_error_msg">Telefon nie może połączyć się z serwerem %s. Spróbuj ponownie później.</string>
-  <string name="network_connection_title">Błąd połączenia z siecią</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Dowiedz si&amp;#281; wi&amp;#281;cej o us&amp;#322;udze mobilnego hotspotu i zasubskrybuj j&amp;#261; na stronie M&amp;#243;j Verizon.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">Aby korzystać z mobilnego hotspotu, musisz zasubskrybować tę usługę</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Nie można połączyć z siecią danych. Funkcja modemu internetowego i hotspota może być niedostępna w Twojej taryfie. Skontaktuj się z operatorem.</string>
-  <string name="sprint_error_msg_3g">Nie można połączyć z siecią danych, trwa wyłączanie modemu internetowego lub punktu dostępu. Funkcja modemu internetowego i punktu dostępu może być niedostępna w danej taryfie. Czy chcesz wyświetlić opcje subskrypcji?</string>
-  <string name="sprint_error_msg_lte">Funkcja modemu internetowego i hotspota jest niedostępna w danej taryfie. Czy chcesz wyświetlić opcje subskrypcji?</string>
-  <string name="sprint_error_msg_title">Błąd modemu internetowego lub hotspota</string>
-  <string name="sprint_notification_msg">Dotknij, aby wyświetlić więcej szczegółów</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Twój obecny plan taryfowy nie obejmuje usługi mobilnego hotspota dla smartfonów, umożliwiającej udostępnianie połączenia danych innym urządzeniom. Czy chcesz aktywować usługę mobilnego hotspota dla smartfonów? Możesz również zrobić to na stronie https://my.t-mobile.comw zakładce Manage (Zarządzaj) &gt; Plans and Services (Taryfy i usługi).</string>
-  <string name="tmo_error_msg_title">Wymagana aktualizacja usługi</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Jeśli chcesz wykupić plan mobilnego hotspota/mobilnego dostępu szerokopasmowego, zadzwoń pod numer: 
- Użytkownicy prywatni: (800) 256-4646, 
- Użytkownicy firmowi: (800) 899-4249."</string>
-  <string name="vzw_error_msg_title">Przetworzenie zlecenia nie jest możliwe</string>
+    <string name="app_name">Entitlement [Uprawnienia]</string>
+    <string name="feature_check_msg">Sprawdzanie statusu subskrypcji. Czekaj...</string>
+    <string name="vzw_self_provisioning_msg">"Aby skorzystać z Mobile Hotspot, musisz subskrybować usługę Mobile Hotspot.
+Dowiedz się więcej o usłudze Mobile Hotspot i rozpocznij korzystanie z niej za pośrednictwem Mój Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Anuluj</string>
+    <string name="vzw_self_provisioning_learn_more">Więcej informacji</string>
+    <string name="vzw_error_msg_title">Twoje żądanie nie mogło zostać przetworzone</string>
+    <string name="vzw_error_msg">"Jeśli chcesz subskrybować Mobile Hotspot/Szerokopasmową sieć mobilną, zadzwoń pod jedne z poniższych numerów:
+ Osoby fizyczne: (800) 256-4646,
+ Firmy: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Wymagana aktualizacja usługi</string>
+    <string name="tmo_error_msg">Twoja obecna taryfa nie obejmuje usługi Mobile HotSpot na smartfony, dzięki której można udostępniać transfer danych telefonu innym urządzeniom. Czy chcesz dodać usługę Mobile HotSpot na smartfony do swojej taryfy? Możesz ją dodać internetowo pod adresem https://my.t-mobile.com w menu Zarządzaj > Taryfy i usługi. &lt;</string>
+    <string name="retv_terms_conditions_msg">Sprawdzanie statusu subskrypcji. Czekaj...</string>
+    <string name="change_data_request_msg">Wysyłanie żądania zastrzeżenia. Czekaj...</string>
+    <string name="alert_dialog_failure_title">Twoje żądanie nie mogło zostać przetworzone</string>
+    <string name="alert_dialog_failure_msg">Spróbuj ponownie później.</string>
+    <string name="network_connection_title">Błąd połączenia z siecią</string>
+    <string name="network_connection_error_msg">Twój telefon nie może nawiązać połączenia z serwerem %s. Spróbuj ponownie później.</string>
+    <string name="mobile_hotspot">Mobilny Hotspot</string>
+    <string name="alert_dialog_upgrade_button">Aktualizuj</string>
+    <string name="alert_dialog_later_button">Później</string>
+    <string name="current_subscription">(obecna subskrypcja)</string>
+    <string name="unavailable_subscription">(niedostępne z uwagi na poziom urządzenia magazynującego)</string>
+    <string name="request_pending_title">Zastrzeganie oczekuje</string>
+    <string name="request_pending_error_msg">Serwer Verizon przetwarza Twoje żądanie. Spróbuj ponownie za 5 minut.</string>
+    <string name="browser_error_msg">Nie można uruchomić przeglądarki.</string>
+    <string name="att_error_msg">Aby włączyć, przejdź do att.com/mywireless lub wybierz 611</string>
+    <string name="att_error_msg_title">Konto nie zostało skonfigurowane. Korzystanie z tetheringu jest niemożliwe.</string>
+    <string name="att_error_msg_other">Występuje Chwilowy problem z siecią, co wstrzymuje włączenie mobilnego Hotspotu. Proszę spróbować później</string>
+    <string name="att_error_msg_other_title">Błąd sieci</string>
+    <string name="sprint_error_msg">Nie można połączyć z siecią danych; Możesz nie mieć subskrybowanej usługi tetheringowej lub hotspot; Skontaktuj się ze swoim operatorem.</string>
+    <string name="sprint_error_msg_title">Błąd tetheringu lub hotspotu</string>
+    <string name="sprint_notification_msg">Dotknij, aby wyświetlić więcej informacji</string>
+    <string name="term_and_conditions_title">Warunki i zasady korzystania</string>
+    <string name="sbm_content_activity_title">Warunki umowne</string>
+    <string name="consent_title">Warunki umowne</string>
+    <string name="consent_message">"Aby skorzystać z aplikacji, musisz zatwierdzić i wysłać następującą informację. Przejdź dalej, gdy wyświetlą się sprawdzone treści.
+
+[Wyślij informacje]
+ID wykonawcy
+[Korzystaj z aplikacji]
+Wymuś korzystanie z aplikacji do tetheringu"</string>
+    <string name="consent_terms_btn">Warunki usługi</string>
+    <string name="concent_disagree_btn">Nie zgadzam się</string>
+    <string name="concent_agree_btn">Zgadzam się</string>
+    <string name="sbm_error_msg_title">Błąd tetheringu lub hotspotu</string>
+    <string name="sbm_error_msg">Nie można połączyć z siecią przesyłu danych.</string>
+    <string name="sbm_error_msg_not_subscribed">Nie udało się zweryfikować subskrypcji Tethering Option.</string>
+    <string name="sbm_error_msg_not_authenticated">"Uwierzytelnianie nie powiodło się.
+(Kod błędu %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Uwierzytelnianie nie powiodło się. Spróbuj ponownie w lokalizacji, w której zasięg będzie silniejszy.</string>
 </resources>

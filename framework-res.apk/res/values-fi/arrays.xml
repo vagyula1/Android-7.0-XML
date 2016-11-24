@@ -37,8 +37,16 @@
         <item>Muu</item>
         <item>Muokattu</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Jos haluat soittaa puheluita ja lähettää viestejä Wi-Fin kautta, pyydä ensin operaattoriasi ottamaan tämä palvelu käyttöön. Ota sitten Wi-Fi-puhelut käyttöön asetuksissa.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Rekisteröidy operaattorisi asiakkaaksi.</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Wi-Fi-puhelut: %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Työ</item>
         <item>Muu</item>
         <item>Muokattu</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobiilidata</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

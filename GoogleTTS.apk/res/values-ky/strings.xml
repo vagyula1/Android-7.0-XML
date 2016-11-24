@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google Text-to-speech Engine</string>
+    <string name="general_settings">Жалпы тууралоолор</string>
+    <string name="license_activity_title">Ачык-Программа Уруксаттамалары</string>
+    <string name="license_activity_loading">Жүктөлүүдө…</string>
+    <string name="license_activity_unavailable">Лицензияларды жүктөөдө маселе пайда болду.</string>
+    <string name="tts_settings_label">Google TTS тандоолору</string>
+    <string name="voice_data_install_title">Google TTS үн берилиштери</string>
+    <string name="install_data_header">Түзмөгүңүздө үндү синтездөө офлайн тартипте иштеши үчүн, бул берилиштерди жүктөп алыңыз.</string>
+    <string name="download_invite_title">%1$s үчүн сүйлөө үнүн жүктөө</string>
+    <string name="download_invite">%1$s үчүн офлайн текстти-оозекилөөнү жандыруу</string>
+    <string name="install_voice_text_2">Жүктөп алууга жеткиликтүү.</string>
+    <string name="download_in_progress">Жүктөө аткарылууда</string>
+    <string name="no_installable_voices">Жүктөп алынуучу үндөр жок</string>
+    <string name="cancel">Айнуу</string>
+    <string name="delete_voice_data">Жок кылуу</string>
+    <string name="update">Жаңыртуу</string>
+    <string name="download">Жүктөп алуу</string>
+    <string name="voice_installed">Орнотулду.</string>
+    <string name="voice_installed_and_default">Орнотулуп, абалкы катары аныкталды.</string>
+    <string name="download_notification_title">%1$s үчүн %2$s</string>
+    <string name="download_notification_description">Текстти-оозекилөө үчүн үн берилиштери</string>
+    <string name="download_success_title">%1$s үчүн үн берилиштери жүктөлдү</string>
+    <string name="download_success_description">Тууралоолорго кирип, бул үндү абалкы кылуу үчүн тийиңиз.</string>
+    <string name="download_failure_title">%1$s үчүн үн берилиштерин жүктөп алууда ката кетти.</string>
+    <string name="download_failure_description">Кайта башташ үчүн тийиңиз.</string>
+    <string name="download_failed_toast">Үн пакетин жүктөп алууну баштоо кыйрады.</string>
+    <string name="manage_voice_data">Үн берилиштерин башкаруу</string>
+    <string name="auto_update_title">Үндөрдү авто-жаңыртуу</string>
+    <string name="auto_update_wifi_title">Wi-Fi гана колдонуу</string>
+    <string name="auto_update_wifi_summary">Үн берилиштерин Wi-Fi аркылуу гана жүктөө.Трафик үнөмдөлөт.</string>
+    <string name="feedback_title">Жооп пикир</string>
+    <string name="feedback_failed">Жооп пикир формасы ачылбай койду</string>
+    <string name="voices_type_title">Үндөрдүн түрү</string>
+    <string name="voices_type_summary">[БЕТА ПРОГРАММАЛАРДЫ СЫНОО]Кеп синтезаторунун түрү</string>
+    <string name="analytics_title">Колдонуу боюнча жашыруун баяндамалар</string>
+    <string name="analytics_summary_on">Күйүк</string>
+    <string name="analytics_summary_off">Өчүк</string>
+    <string name="analytics_screen_explanation">"Бул функция күйгүзүлгөндө, колдонуу баяндамаларын жашыруун түрдө чогултабыз. Ушуну менен, түзмөгүңүздөгү Google кеп синтезаторунун майнаптуулугун жакшыраак түшүнүшүбүзгө өбөлгө түзүлөт.
+
+Биз топтоочу көптөгөн маалыматтын үлгүлөрү:
+"<li><ul>"Кеп синтезатору канча ирет колдонулат.
+"<li>Кеп синтезаторунун өтүнүчтөрүнүн майнаптуулугу.</li>"
+"<li>Кайсы тилдер колдонулат.</li>"
+"<li>Кеп синтезатору канча ирет кепти айта албай калат.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Тандоо менюсуна GoogleTTS жазмасын кошуу</string>
+    <string name="process_text_summary">Бул жаңы жазма тандалган тексттин баарын синтездейт.</string>
+    <string name="voice_pack_status_installed">Орнотулду (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Аял</string>
+    <string name="voice_pack_status_gender_male">Эркек</string>
+    <string name="voice_entity_status_gender_female">Аял %1$d</string>
+    <string name="voice_entity_status_gender_male">Эркек %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Жынысы белгисиз %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Аялдын үнү (эскирип калган)</string>
+    <string name="voice_pack_status_gender_male_legacy">Эркектин үнү (эскирип калган)</string>
+    <string name="voice_pack_status_gender_unknown">Жынысы белгисиз</string>
+    <string name="voice_pack_status_updatable">Жаңыртуу жеткиликтүү</string>
+    <string name="voice_pack_status_downloadable">Жүктөө (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Учурдагы үн</string>
+    <string name="voice_pack_status_downloading">Жүктөлүүдө…</string>
+    <string name="voice_pack_name_high_quality">%1$s (жогорку сапаттуу)</string>
+    <string name="voice_pack_description">"Аталышы: %1$s 
+Тил: %2$s 
+Берилиштер өлчөмү: ~%3$s 
+Жынысы: %4$s"</string>
+    <string name="voice_pack_action_download">Жүктөө (~%1$s)</string>
+    <string name="voice_pack_action_remove">Алып салуу</string>
+    <string name="voice_pack_action_update">Жаңыртуу (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">%1$s үчүн учурдагы үн кылуу</string>
+    <string name="voice_pack_action_cancel">Жүктөөнү жокко чыгаруу</string>
+    <string name="voice_pack_install_tab_installed">ОРНОТУЛГАНДАР</string>
+    <string name="voice_pack_install_tab_all">БААРЫ</string>
+    <string name="voice_pack_install_tab_settings">ТУУРАЛООЛОР</string>
+    <string name="voice_entry_details">Үн маалыматтарынын диалогун иштетүү</string>
+    <string name="voice_entry_edit_desc">Үндөр топтомун ачуу</string>
+    <string name="voice_entry_overflow_desc">Үн пакеттери боюнча кошумча иш-аракеттер</string>
+    <string name="voice_entry_download_desc">Үн пакетин жүктөө</string>
+    <string name="voice_entry_cancel_download_desc">Үн пакетин жүктөөнү жокко чыгаруу</string>
+    <string name="voice_entry_delete_desc">Үн пакетин жок кылуу</string>
+    <string name="voice_entry_sample">Үн үлгүсүн угуу</string>
+    <string name="voice_pack_not_enough_space">Ички сактагычта бош орун жетишсиз. Бул үндү орнотуш үчүн бир аз орун бошотушуңуз керек.</string>
+    <string name="action_settings">Опциялары</string>
+    <string name="action_licenses">Ачык-Прогрмма уруксттмлры</string>
+    <string name="action_voice_pack_update">Жаңыртуу</string>
+    <string name="action_voice_pack_uninstall">Чечип салуу</string>
+    <string name="voice_pack_uninstall_dialog">Бул үн чечилип салынсынбы?</string>
+    <string name="voice_pack_uninstall_keep">Калтыруу</string>
+    <string name="voice_pack_uninstall_uninstall">Чечип салуу</string>
+    <string name="voice_pack_unpack_failure">Жүктөлгөн үндү орнотуу кыйрады</string>
+    <string name="multi_voice_pack_title">%1$s үндөрү</string>
+    <string name="multi_voice_pack_entry_name">Үндөр топтому %1$d</string>
+    <string name="morphed_voice_set_title">Үндөр топтому</string>
+    <string name="select_voice_title">Үн тандоо</string>
+    <string name="play_sample_text_button_description">%1$s үлгү текстин ойнотуу</string>
+    <string name="voice_pack_no_download_manager">Жүктөп алуу башкаргычы өчүрүлгөн же жок; үн топтомун жүктөп алуу мүмкүн эмес</string>
+    <string name="unpack_voice_pack_service_title">Тексттен-кепке дайындары жаңыртылууда</string>
+    <string name="unpack_voice_pack_service_text">Таңгактан чыгарылууда…</string>
+    <string name="sample_text_synthesis_failure">Бул үндүн үзүндүсү синтезделбей калды.</string>
+    <string name="quick_wait_for_init">Жүктөлүүдө</string>
+    <string name="quick_synthesizing">Синтезделүүдө</string>
+    <string name="quick_speaking">Айтылууда</string>
+    <string name="quick_stopped">Токтотулду</string>
+    <string name="quick_error">Ката</string>
+</resources>

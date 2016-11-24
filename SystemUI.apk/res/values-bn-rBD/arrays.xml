@@ -60,6 +60,18 @@
         <item>লগ বাফার প্রতি ৪M</item>
         <item>লগ বাফার প্রতি ১৬M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>বন্ধ আছে</item>
+        <item>সমস্ত</item>
+        <item>সমস্ত কিন্তু রেডিও</item>
+        <item>শুধুমাত্র কার্নেল</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>বন্ধ আছে</item>
+        <item>সমস্ত লগ বাফার</item>
+        <item>সমস্ত কিন্তু রেডিও লগ বাফারগুলি</item>
+        <item>শুধুমাত্র কার্নেল লগ বাফার</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>অ্যানিমেশন বন্ধ করুন</item>
         <item>অ্যানিমেশন স্কেল .৫x</item>
@@ -159,6 +171,24 @@
         <item>স্বাভাবিক ভাবে আমরা চোখে যেমনটি দেখি সেইরূপ প্রাকৃতিক রঙ</item>
         <item>ডিজিট্যাল সামগ্রীর জন্য অপ্টিমাইজ করা রঙগুলি</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>০%</item>
+        <item>৫০%</item>
+        <item>১০০%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>কল করুন</item>
+        <item>সিস্টেম</item>
+        <item>রিং</item>
+        <item>মিডিয়া</item>
+        <item>অ্যালার্ম</item>
+        <item></item>
+        <item>ব্লুটুথ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>ঘণ্টা, মিনিট, এবং সেকেন্ড দেখান</item>
         <item>ঘণ্টা এবং মিনিট দেখান (ডিফল্ট)</item>
@@ -169,4 +199,5 @@
         <item>চার্জ করার সময় শতাংশ দেখান (ডিফল্ট)</item>
         <item>এই আইকনটি দেখাবেন না</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

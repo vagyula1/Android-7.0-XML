@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Ang %1$s ay nangangailangan ng update sa Android Wear app.</string>
+    <string name="common_google_play_services_needs_enabling_title">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Hiniling ng %1$s</string>
+    <string name="common_google_play_services_install_title">Kumuha ng mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong telepono.</string>
+    <string name="common_google_play_services_install_text_tablet">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong tablet.</string>
+    <string name="common_google_play_services_install_button">Kumuha ng Google Play services</string>
+    <string name="common_google_play_services_enable_title">Paganahin ang Google Play services</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang %1$s maliban kung i-e-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_android_wear_update_title">I-update ang Android Wear</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_android_wear_update_text">Hindi gagana ang %1$s maliban kung i-a-update mo ang Android Wear app.</string>
+    <string name="common_google_play_services_updating_title">Ina-update mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_updating_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="common_google_play_services_network_error_title">May Error sa Network</string>
+    <string name="common_google_play_services_network_error_text">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Di-wasto ang Account</string>
+    <string name="common_google_play_services_invalid_account_text">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+    <string name="common_google_play_services_unknown_issue">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Sumasalalay ang %1$s sa mga serbisyo ng Google Play na hindi sinusuportahan ng iyong device. Makipag-ugnayan sa manufacturer para sa tulong.</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Mag-sign in sa Google</string>
+    <string name="common_open_on_phone">Buksan sa telepono</string>
+    <string name="common_google_play_services_api_unavailable_text">Kailangan ng %1$s ng isa o higit pang mga serbisyo ng Google Play na kasalukuyang hindi available. Mangyaring makipag-ugnayan sa developer para sa tulong.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Hindi nakapag-sign in</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error sa pagsa-sign in sa tinukoy na account. Pakipili ng ibang account.</string>
+    <string name="app_name">Text-to-speech na Engine ng Google</string>
+    <string name="general_settings">Mga Pangkalahatang Setting</string>
+    <string name="license_activity_title">Mga Lisensyang Open-Source</string>
+    <string name="license_activity_loading">Naglo-load...</string>
+    <string name="license_activity_unavailable">Mayroong problema sa paglo-load ng mga lisensya.</string>
+    <string name="tts_settings_label">Mga Opsyon sa Google TTS</string>
+    <string name="voice_data_install_title">Voice data ng Google TTS</string>
+    <string name="install_data_header">I-download ang data na ito upang suportahan ang offline na synthesis ng pagsasalita sa iyong device.</string>
+    <string name="download_invite_title">I-install ang boses ng pagsasalita sa %1$s</string>
+    <string name="download_invite">Paganahin ang offline na text-to-speech para sa %1$s</string>
+    <string name="install_voice_text_2">Available para sa pag-download.</string>
+    <string name="download_in_progress">Isinasagawa ang pag-download</string>
+    <string name="no_installable_voices">Walang nada-download na mga boses</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="delete_voice_data">I-delete</string>
+    <string name="update">I-update</string>
+    <string name="download">I-download</string>
+    <string name="voice_installed">Naka-install.</string>
+    <string name="voice_installed_and_default">Naka-install at nakatakda bilang default.</string>
+    <string name="download_notification_title">%2$s para sa %1$s</string>
+    <string name="download_notification_description">Data ng boses para sa text-to-speech</string>
+    <string name="download_success_title">Dina-download ang data ng boses para sa %1$s</string>
+    <string name="download_success_description">Pindutin upang bisitahin ang mga setting at gawing default ang boses na ito.</string>
+    <string name="download_failure_title">Error sa pag-download ng data ng boses para sa %1$s</string>
+    <string name="download_failure_description">Pindutin upang subukang muli.</string>
+    <string name="download_failed_toast">Hindi nasimulan ang pag-download ng voice pack.</string>
+    <string name="manage_voice_data">Pamahalaan ang data ng boses</string>
+    <string name="auto_update_title">I-auto-update ang boses</string>
+    <string name="auto_update_wifi_title">Gumamit lang ng Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Mag-download ng data ng mga boses gamit lang ang Wi-Fi. Nakakatipid sa paggamit ng data.</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_failed">Hindi mabuksan ang form ng feedback</string>
+    <string name="voices_type_title">Uri ng mga boses</string>
+    <string name="voices_type_summary">[DOGFOOD]Uri ng synthesizer ng pagsasalita</string>
+    <string name="analytics_title">Mga anonymous na ulat ng paggamit</string>
+    <string name="analytics_summary_on">Naka-on</string>
+    <string name="analytics_summary_off">Naka-off</string>
+    <string name="analytics_screen_explanation">"Kapag naka-on ang feature na ito, nangongolekta kami ng mga anonymous na ulat ng paggamit. Tinutulungan kami nitong mas maunawaan ang performance ng text-to-speech ng Google sa iyong device.
+
+Mga halimbawa ng pinagsama-samang sukatan na aming kinokolekta:
+"<li><ul>"Gaano kadalas gamitin ang text-to-speech.
+"<li>Ang performance ng mga kahilingan sa text-to-speech.</li>"
+"<li>Aling mga wika ang ginagamit.</li>"
+"<li>Gaano kadalas hindi makapagbigay ng pasalitang output ang text-to-speech.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Magdagdag GoogleTTS entry sa text selection menu</string>
+    <string name="process_text_summary">Isi-synthesize ng bagong entry na ito ang anumang napiling text.</string>
+    <string name="voice_pack_status_installed">Naka-install (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Babae</string>
+    <string name="voice_pack_status_gender_male">Lalaki</string>
+    <string name="voice_entity_status_gender_female">Babae %1$d</string>
+    <string name="voice_entity_status_gender_male">Lalaki %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Hindi alam ang kasarian %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Legacy na boses ng babae</string>
+    <string name="voice_pack_status_gender_male_legacy">Legacy na boses ng lalaki</string>
+    <string name="voice_pack_status_gender_unknown">Hindi alam ang kasarian</string>
+    <string name="voice_pack_status_updatable">Available ang update</string>
+    <string name="voice_pack_status_downloadable">I-download (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Kasalukuyang boses</string>
+    <string name="voice_pack_status_downloading">Nagda-download…</string>
+    <string name="voice_pack_name_high_quality">%1$s (mataas na kalidad)</string>
+    <string name="voice_pack_description">"Pangalan: %1$s 
+Lokal: %2$s 
+Laki ng data: ~%3$s 
+Kasarian ng tagapagsalita: %4$s"</string>
+    <string name="voice_pack_action_download">I-download (~%1$s)</string>
+    <string name="voice_pack_action_remove">Alisin</string>
+    <string name="voice_pack_action_update">I-update (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Gawin itong kasalukuyang boses para sa %1$s</string>
+    <string name="voice_pack_action_cancel">Kanselahin ang pag-download</string>
+    <string name="voice_pack_install_tab_installed">NAKA-INSTALL</string>
+    <string name="voice_pack_install_tab_all">LAHAT</string>
+    <string name="voice_pack_install_tab_settings">MGA SETTING</string>
+    <string name="voice_entry_details">Ilunsad ang dialog ng mga detalye ng boses</string>
+    <string name="voice_entry_edit_desc">Buksan ang voice pack</string>
+    <string name="voice_entry_overflow_desc">Mga karagdagang pagkilos sa voice pack</string>
+    <string name="voice_entry_download_desc">I-download ang voice pack</string>
+    <string name="voice_entry_cancel_download_desc">Kanselahin ang pag-download ng voice pack</string>
+    <string name="voice_entry_delete_desc">I-delete ang voice pack</string>
+    <string name="voice_entry_sample">I-play ang sample ng boses</string>
+    <string name="voice_pack_not_enough_space">Wala nang space sa internal storage. Kailangan magka-space para sa pag-install.</string>
+    <string name="action_settings">Mga Opsyon</string>
+    <string name="action_licenses">Mga lisensyang Open-Source</string>
+    <string name="action_voice_pack_update">Update</string>
+    <string name="action_voice_pack_uninstall">I-uninstall</string>
+    <string name="voice_pack_uninstall_dialog">I-uninstall ang boses?</string>
+    <string name="voice_pack_uninstall_keep">Panatilihin</string>
+    <string name="voice_pack_uninstall_uninstall">I-uninstall</string>
+    <string name="voice_pack_unpack_failure">Hindi na-install ang na-download na boses</string>
+    <string name="multi_voice_pack_title">Mga voice sa %1$s</string>
+    <string name="multi_voice_pack_entry_name">Voice set %1$d</string>
+    <string name="morphed_voice_set_title">Voice Set</string>
+    <string name="select_voice_title">Pumili ng boses</string>
+    <string name="play_sample_text_button_description">Mag-play ng sample na text para sa %1$s</string>
+    <string name="voice_pack_no_download_manager">Naka-disable o nawawala ang Download Manager; hindi ma-download ang voice pack</string>
+    <string name="unpack_voice_pack_service_title">Pag-update sa data ng Text-To-Speech</string>
+    <string name="unpack_voice_pack_service_text">Nag-a-unpack…</string>
+    <string name="sample_text_synthesis_failure">Hindi nakapag-synthesize ng isang halimbawa para sa boses na ito.</string>
+    <string name="quick_wait_for_init">Naglo-load</string>
+    <string name="quick_synthesizing">Sine-synthesize</string>
+    <string name="quick_speaking">Sinasalita</string>
+    <string name="quick_stopped">Ihininto</string>
+    <string name="quick_error">Error</string>
+</resources>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <bool name="supports_text_replacement">true</bool>
+    <bool name="is_tablet">false</bool>
     <bool name="atLeastJellyBeanMR2">false</bool>
     <bool name="atLeastL">false</bool>
     <bool name="pref_a11y_hints_default">true</bool>
     <bool name="pref_auto_scroll_default">true</bool>
-    <bool name="pref_caller_id_default">true</bool>
     <bool name="pref_dim_volume_three_clicks_default">false</bool>
     <bool name="pref_dim_when_talkback_enabled_default">false</bool>
     <bool name="pref_explore_by_touch_default">true</bool>
@@ -23,5 +24,4 @@
     <bool name="pref_use_audio_focus_default">false</bool>
     <bool name="pref_vibration_default">true</bool>
     <bool name="pref_web_scripts_default">true</bool>
-    <bool name="supports_text_replacement">true</bool>
 </resources>

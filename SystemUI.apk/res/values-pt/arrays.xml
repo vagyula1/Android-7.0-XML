@@ -60,6 +60,18 @@
         <item>4 M/buffer de log</item>
         <item>16 M/buffer de log</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desativado</item>
+        <item>Todos</item>
+        <item>Todos, exceto o rádio</item>
+        <item>somente kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desativado</item>
+        <item>Todos os buffers de registro</item>
+        <item>Todos, exceto os buffers de registro de rádio</item>
+        <item>somente buffer de registro de kernel</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desligada</item>
         <item>Escala da animação 0,5 x</item>
@@ -159,6 +171,24 @@
         <item>Cores naturais, como vistas pelos olhos</item>
         <item>Cores otimizadas para conteúdo digital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Chamar</item>
+        <item>Sistema</item>
+        <item>Tocar</item>
+        <item>Mídia</item>
+        <item>Alarme</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (padrão)</item>
@@ -169,4 +199,5 @@
         <item>Mostrar porcentagem durante o carregamento (padrão)</item>
         <item>Não mostrar este ícone</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

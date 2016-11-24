@@ -2,6 +2,8 @@
 <resources>
     <attr name="userRestriction" format="string" />
     <attr name="useAdminDisabledSummary" format="boolean" />
+    <attr name="useAdditionalSummary" format="boolean" />
+    <attr name="restrictedSwitchSummary" format="reference" />
     <attr name="state_encrypted" format="boolean" />
     <attr name="wifi_signal" format="reference" />
     <attr name="sideLabels" format="reference" />
@@ -100,8 +102,10 @@
     <attr name="browseTitleTextStyle" format="reference" />
     <attr name="browseTitleIconStyle" format="reference" />
     <attr name="browseTitleViewStyle" format="reference" />
+    <attr name="browseTitleViewLayout" format="reference" />
     <attr name="headersVerticalGridStyle" format="reference" />
     <attr name="headerStyle" format="reference" />
+    <attr name="sectionHeaderStyle" format="reference" />
     <attr name="rowsVerticalGridStyle" format="reference" />
     <attr name="rowHorizontalGridStyle" format="reference" />
     <attr name="rowHeaderStyle" format="reference" />
@@ -119,6 +123,19 @@
     <attr name="detailsDescriptionSubtitleStyle" format="reference" />
     <attr name="detailsDescriptionBodyStyle" format="reference" />
     <attr name="detailsActionButtonStyle" format="reference" />
+    <attr name="playbackPaddingStart" format="dimension" />
+    <attr name="playbackPaddingEnd" format="dimension" />
+    <attr name="playbackMediaItemPaddingStart" format="dimension" />
+    <attr name="playbackMediaListHeaderStyle" format="reference" />
+    <attr name="playbackMediaItemRowStyle" format="reference" />
+    <attr name="playbackMediaItemSeparatorStyle" format="reference" />
+    <attr name="playbackMediaListHeaderTitleStyle" format="reference" />
+    <attr name="playbackMediaItemDetailsStyle" format="reference" />
+    <attr name="playbackMediaItemNumberViewFlipperStyle" format="reference" />
+    <attr name="playbackMediaItemNumberViewFlipperLayout" format="reference" />
+    <attr name="playbackMediaItemNumberStyle" format="reference" />
+    <attr name="playbackMediaItemNameStyle" format="reference" />
+    <attr name="playbackMediaItemDurationStyle" format="reference" />
     <attr name="playbackControlsButtonStyle" format="reference" />
     <attr name="playbackControlButtonLabelStyle" format="reference" />
     <attr name="playbackControlsTimeStyle" format="reference" />
@@ -127,7 +144,9 @@
     <attr name="defaultBrandColor" format="reference|color" />
     <attr name="defaultBrandColorDark" format="reference|color" />
     <attr name="defaultSearchColor" format="reference|color" />
+    <attr name="defaultSearchIconColor" format="reference|color" />
     <attr name="defaultSearchBrightColor" format="reference|color" />
+    <attr name="defaultSectionHeaderColor" format="reference|color" />
     <attr name="searchOrbViewStyle" format="reference" />
     <attr name="defaultSearchIcon" format="reference" />
     <attr name="playbackProgressPrimaryColor" format="reference|color" />
@@ -138,6 +157,7 @@
     <attr name="overlayDimDimmedLevel" format="fraction" />
     <attr name="guidedStepTheme" format="reference" />
     <attr name="guidedStepHeightWeight" format="float" />
+    <attr name="guidedStepKeyline" format="float" />
     <attr name="guidedStepThemeFlag" format="boolean" />
     <attr name="guidedStepBackground" format="reference|color" />
     <attr name="guidedStepImeAppearingAnimation" format="reference" />
@@ -167,6 +187,7 @@
     <attr name="guidedActionDisabledChevronAlpha" format="reference" />
     <attr name="guidedActionContentWidthWeight" format="reference" />
     <attr name="guidedActionContentWidthWeightTwoPanels" format="reference" />
+    <attr name="guidedButtonActionsWidthWeight" format="reference" />
     <attr name="guidedActionTitleMinLines" format="reference" />
     <attr name="guidedActionTitleMaxLines" format="reference" />
     <attr name="guidedActionDescriptionMinLines" format="reference" />
@@ -194,8 +215,12 @@
     <attr name="onboardingPageIndicatorStyle" format="reference" />
     <attr name="onboardingStartButtonStyle" format="reference" />
     <attr name="onboardingLogoStyle" format="reference" />
-    <attr name="onboardingNavigatorDotBgColor" format="reference" />
+    <attr name="lbDotRadius" format="reference" />
+    <attr name="arrowRadius" format="reference" />
+    <attr name="dotToDotGap" format="reference" />
+    <attr name="dotToArrowGap" format="reference" />
     <attr name="dotBgColor" format="reference" />
+    <attr name="arrowBgColor" format="reference" />
     <attr name="layoutManager" format="string" />
     <attr name="spanCount" format="integer" />
     <attr name="reverseLayout" format="boolean" />
@@ -443,7 +468,25 @@
         <enum name="src_in" value="5" />
         <enum name="src_over" value="3" />
     </attr>
+    <attr name="thumbTint" format="color" />
+    <attr name="thumbTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="track" format="reference" />
+    <attr name="trackTint" format="color" />
+    <attr name="trackTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="thumbTextPadding" format="dimension" />
     <attr name="switchTextAppearance" format="reference" />
     <attr name="switchMinWidth" format="dimension" />
@@ -537,9 +580,12 @@
         <enum name="horizontal" value="0" />
         <enum name="vertical" value="1" />
     </attr>
+    <attr name="avatarPadding" format="dimension" />
     <attr name="frameWidth" format="dimension" />
     <attr name="framePadding" format="dimension" />
     <attr name="activeFrameColor" format="color" />
+    <attr name="badgeDiameter" format="dimension" />
+    <attr name="badgeMargin" format="dimension" />
     <attr name="regularFontFamily" format="string" />
     <attr name="activatedFontFamily" format="string" />
     <attr name="datePattern" format="string" />
@@ -553,10 +599,13 @@
     <attr name="hasOverlappingRendering" format="boolean" />
     <attr name="defValue" format="boolean" />
     <attr name="metricsAction" format="integer" />
+    <attr name="itemHeight" format="dimension" />
     <attr name="layout_maxWidth" format="dimension" />
     <attr name="layout_maxHeight" format="dimension" />
     <attr name="digit" format="integer" />
     <attr name="textView" format="reference" />
     <attr name="scaledTextSize" format="integer" />
+    <attr name="dotSize" format="dimension" />
+    <attr name="charPadding" format="dimension" />
     <attr name="allCaps" format="boolean" />
 </resources>

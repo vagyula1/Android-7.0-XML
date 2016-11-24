@@ -60,6 +60,18 @@
         <item>4 MB po međusprem. zapisnika</item>
         <item>16 MB po međusprem. zapisnika</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Isključeno</item>
+        <item>Sve</item>
+        <item>Sve osim radija</item>
+        <item>samo jezgra</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Isključeno</item>
+        <item>Svi međuspremnici zapisa</item>
+        <item>Sve osim međuspremnika zapisnika radija</item>
+        <item>samo međuspremnik zapisnika jezgre</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija isključena</item>
         <item>Brzina animacije 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Prirodan doživljaj boje</item>
         <item>Boje optimizirane za digitalni sadržaj</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Poziv</item>
+        <item>Sustav</item>
+        <item>Zvonjenje</item>
+        <item>Mediji</item>
+        <item>Alarm</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Prikaži sate, minute i sekunde</item>
         <item>Prikaži sate i minute (zadano)</item>
@@ -169,4 +199,5 @@
         <item>Prikazuj postotak tijekom punjenja (zadano)</item>
         <item>Ne prikazuj tu ikonu</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

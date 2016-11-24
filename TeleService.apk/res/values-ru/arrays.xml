@@ -60,6 +60,18 @@
         <item>Буфер: макс. 4 МБ</item>
         <item>Буфер: макс. 16 МБ</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Отключено</item>
+        <item>Все</item>
+        <item>Все, кроме системных</item>
+        <item>только ядро</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Отключено</item>
+        <item>Все буферы журналов</item>
+        <item>Все, кроме буферов системного журнала</item>
+        <item>только буфер журнала ядра</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
         <item>Анимация 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Улучшенные цвета</item>
         <item>Натуральные цвета, привычные глазу</item>
         <item>Цвета, оптимизированные для цифрового контента</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>

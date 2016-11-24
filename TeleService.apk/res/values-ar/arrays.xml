@@ -40,25 +40,37 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>إيقاف</item>
-        <item>64 كيلوبايت</item>
-        <item>256 كيلوبايت</item>
+        <item>٦٤ كيلوبايت</item>
+        <item>٢٥٦ كيلوبايت</item>
         <item>1 ميغابايت</item>
-        <item>4 ميغابايت</item>
-        <item>16 ميغابايت</item>
+        <item>٤ ميغابايت</item>
+        <item>١٦ ميغابايت</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>إيقاف</item>
-        <item>64 كيلوبايت</item>
-        <item>256 كيلوبايت</item>
+        <item>٦٤ كيلوبايت</item>
+        <item>٢٥٦ كيلوبايت</item>
         <item>1 ميغابايت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>إيقاف</item>
-        <item>64 كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>256 كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
         <item>1 ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>4 ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>16 ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>١٦ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>إيقاف</item>
+        <item>الكل</item>
+        <item>الكل دون اللاسلكي</item>
+        <item>‏kernel فقط</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>إيقاف</item>
+        <item>كل المخازن المؤقتة للسجلات</item>
+        <item>كل المخازن المؤقتة باستثناء مخازن سجلات اللاسلكي</item>
+        <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
@@ -128,7 +140,7 @@
         <item>عملية واحدة بحد أقصى</item>
         <item>عمليتان بحد أقصى</item>
         <item>3 عمليات بحد أقصى</item>
-        <item>4 عمليات بحد أقصى</item>
+        <item>٤ عمليات بحد أقصى</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>الشحن</item>
@@ -158,6 +170,11 @@
         <item>ألوان محسَّنة</item>
         <item>الألوان الطبيعية تراها العين</item>
         <item>الألوان المحسَّنة للمحتوى الرقمي</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>٠‏٪</item>
+        <item>٥٠٪</item>
+        <item>٪۱۰۰</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>عام</item>

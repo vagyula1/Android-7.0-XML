@@ -30,12 +30,12 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Ne jamais vérifier</item>
-        <item>Vérifier le contenu GDN uniquement</item>
+        <item>Vérifier le contenu DRM uniquement</item>
         <item>Toujours vérifier</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Ne jamais utiliser la vérification HDCP</item>
-        <item>Utiliser la vérification HDCP uniquement pour le contenu GDN</item>
+        <item>Utiliser la vérification HDCP uniquement pour le contenu DRM</item>
         <item>Toujours utiliser la vérification HDCP</item>
     </string-array>
     <string-array name="select_logd_size_titles">
@@ -59,6 +59,18 @@
         <item>1 Mo par tampon journal</item>
         <item>4 Mo par tampon journal</item>
         <item>16 Mo par tampon journal</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Désactivé</item>
+        <item>Tous</item>
+        <item>Tous sauf radio</item>
+        <item>noyau uniquement</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Désactivé</item>
+        <item>Toutes les mémoires tampon journal</item>
+        <item>Toutes sauf les mémoires tampon journal radio</item>
+        <item>tampon journal du noyau uniquement</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation désactivée</item>
@@ -159,6 +171,24 @@
         <item>"Couleurs naturelles vues par l'œil"</item>
         <item>Couleurs optimisées pour les contenus numériques</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Appeler</item>
+        <item>Système</item>
+        <item>Sonnerie</item>
+        <item>Multimédia</item>
+        <item>Alarme</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Afficher les heures, les minutes et les secondes</item>
         <item>Afficher les heures et les minutes (option par défaut)</item>
@@ -169,4 +199,5 @@
         <item>"Afficher le pourcentage lorsque l'appareil est en charge (option par défaut)"</item>
         <item>Ne plus afficher cette icône</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

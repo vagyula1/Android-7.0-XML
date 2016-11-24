@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Umebakisha hatua %1$d ili uwe msanidi programu.</item>
+        <item quantity="one">Umebakisha hatua %1$d ili uwe msanidi programu.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Ungependa kuondoa lugha zilizochaguliwa?</item>
+        <item quantity="one">Ungependa kuondoa lugha iliyochaguliwa?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Vitambulisho %1$d vimewekwa</item>
+        <item quantity="one">Kitambulisho %1$d kimewekwa</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Ni lazima liwe na angalau herufi %d</item>
+        <item quantity="one">Ni lazima liwe na angalau herufi 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Ni lazima liwe na angalau herufi %d ndogo</item>
+        <item quantity="one">Ni lazima liwe na angalau herufi 1 ndogo</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Ni lazima liwe na angalau herufi %d kubwa</item>
+        <item quantity="one">Ni lazima liwe na angalau herufi 1 kubwa</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ni lazima liwe na angalau tarakimu %d</item>
+        <item quantity="one">Ni lazima liwe na angalau tarakimu 1</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ni lazima liwe na angalau ishara %d maalum</item>
+        <item quantity="one">Ni lazima liwe na angalau ishara 1 maalum</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ni lazima liwe na angalau vibambo %d ambavyo si herufi</item>
+        <item quantity="one">Ni lazima liwe na angalau kibambo 1 ambacho si herufi</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Msimbo wa PIN ya SIM si sahihi, umebakisha majaribio %d.</item>
+        <item quantity="one">Msimbo wa PIN ya SIM si sahihi, umebakisha majaribio %d kabla ya kulazimika kuwasiliana na mtoa huduma wako ili afungue kifaa chako.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee 1</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Kukawia kwa muda mfupi zaidi (ms %1$d)</item>
+        <item quantity="one">Kukawia kwa muda mfupi zaidi (ms %1$d)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Kukawia kwa muda mfupi sana (ms %1$d)</item>
+        <item quantity="one">Kukawia kwa muda mfupi sana (ms %1$d)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kukawia kwa muda mfupi (ms %1$d)</item>
+        <item quantity="one">Kukawia kwa muda mfupi (ms %1$d)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Kukawia kwa muda mrefu (ms%1$d)</item>
+        <item quantity="one">Kukawia kwa muda mrefu (ms %1$d)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Kukawia kwa muda mrefu sana (ms %1$d)</item>
+        <item quantity="one">Kukawia kwa muda mrefu sana (ms %1$d)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">Kazi %d za kuchapisha</item>
+        <item quantity="one">Kazi 1 ya kuchapisha</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Tumia au uondoe vyeti</item>
+        <item quantity="one">Tumia au uondoe cheti</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s amesakinisha mamlaka ya cheti kwenye kifaa chako, huenda hali hii ikaruhusu kuchunguza shughuli za mtandao wa kifaa chako, ikiwa ni pamoja na barua pepe, programu na tovuti salama.
+
+Kwa maelezo zaidi kuhusu vyeti hivi, wasiliana na msimamizi wako."</item>
+        <item quantity="one">"%s amesakinisha mamlaka ya cheti kwenye kifaa chako, huenda hali hii ikaruhusu kuchunguza shughuli za mtandao wa kifaa chako, ikiwa ni pamoja na barua pepe, programu na tovuti salama.
+
+Kwa maelezo zaidi kuhusu cheti hiki, wasiliana na msimamizi wako."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%samesakinisha mamlaka ya cheti kwenye wasifu wako wa kazini, huenda hali hii ikaruhusu kuchunguza shughuli za mtandao wa kazini, ikiwa ni pamoja na barua pepe, programu na tovuti salama.
+
+Kwa maelezo zaidi kuhusu vyeti hivi, wasiliana na msimamizi wako."</item>
+        <item quantity="one">"%s amesakinisha mamlaka ya cheti kwenye wasifu wako wa kazini, huenda hali hii ikaruhusu kuchunguza shughuli za mtandao wa kazini, ikiwa ni pamoja na barua pepe, programu na tovuti salama.
+
+Kwa maelezo zaidi kuhusu cheti hiki, wasiliana na msimamizi wako."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Angalia vyeti</item>
+        <item quantity="one">Angalia cheti</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Onyesha vipengee %d vilivyofichwa</item>
+        <item quantity="one">Onyesha kipengee %d kilichofichwa</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Programu %d zinaweza kusoma arifa</item>
+        <item quantity="one">Programu %d inaweza kusoma arifa</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Badilisha utumie kengele pekee kwa dakika %1$d (hadi %2$s)</item>
+        <item quantity="one">Badilisha utumie kengele pekee kwa dakika moja hadi %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Badilisha utumie kengele pekee kwa saa %1$d hadi %2$s</item>
+        <item quantity="one">Badilisha utumie kengele pekee kwa saa moja hadi %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Ruhusa %d zimetolewa</item>
+        <item quantity="one">Ruhusa %d imetolewa</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Imetoa ruhusa %1$d kati ya %2$d</item>
+        <item quantity="one">Imetoa ruhusa %1$d kati ya %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">Ruhusa %d za ziada</item>
+        <item quantity="one">Ruhusa %d ya ziada</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">Programu %d zinaweza kufungua viungo vyazo vinavyoweza kutumika</item>
+        <item quantity="one">Programu moja inaweza kufungua viungo vyake vinavyoweza kutumika</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">Programu %d zinaruhusiwa kupuuza uboreshaji wa betri</item>
+        <item quantity="one">Programu 1 inaruhusiwa kupuuza uboreshaji wa betri</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">Programu %1$d zilitumia hifadhi katika %2$s zilizopita</item>
+        <item quantity="one">Programu 1 ilitumia hifadhi katika %2$s zilizopita</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Imezuia programu%d kutuma</item>
+        <item quantity="one">Imezuia programu %d kutuma</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Programu %1$d zimeruhusiwa kutumia data ambayo haijadhibitiwa wakati Kiokoa Data kimewashwa</item>
+        <item quantity="one">Programu 1 imeruhusiwa kutumia data ambayo haijadhibitiwa wakati Kiokoa Data kimewashwa</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">Saa %s</item>
+        <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">Dakika %s</item>
+        <item quantity="one">Dakika 1</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">Sekunde %s</item>
+        <item quantity="one">Sekunde 1</item>
+    </plurals>
+</resources>

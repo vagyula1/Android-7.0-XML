@@ -37,8 +37,16 @@
         <item>Iba pa</item>
         <item>Custom</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Upang tumawag at magpadala ng mga mensahe sa pamamagitan ng Wi-Fi, hilingin muna sa iyong carrier na i-set up ang serbisyong ito. Pagkatapos ay muling i-on ang pagtawag sa Wi-Fi mula sa Mga Setting.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Magparehistro sa iyong carrier</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Pagtawag sa Pamamagitan ng Wi-Fi ng %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Trabaho</item>
         <item>Iba pa</item>
         <item>Custom</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>cellular data</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

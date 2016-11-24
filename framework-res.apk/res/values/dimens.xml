@@ -8,7 +8,9 @@
     <dimen name="notification_large_icon_width">64.0dip</dimen>
     <dimen name="notification_large_icon_height">64.0dip</dimen>
     <item type="dimen" name="hint_alpha_material_dark">0.5</item>
-    <item type="dimen" name="hint_alpha_material_light">0.54</item>
+    <item type="dimen" name="hint_alpha_material_light">0.38</item>
+    <item type="dimen" name="hint_pressed_alpha_material_dark">0.7</item>
+    <item type="dimen" name="hint_pressed_alpha_material_light">0.54</item>
     <item type="dimen" name="disabled_alpha_material_light">0.26</item>
     <item type="dimen" name="disabled_alpha_material_dark">0.3</item>
     <item type="dimen" name="highlight_alpha_material_light">0.12</item>
@@ -53,8 +55,8 @@
     <dimen name="preference_breadcrumb_paddingLeft">0.0dip</dimen>
     <dimen name="preference_breadcrumb_paddingRight">0.0dip</dimen>
     <dimen name="preference_icon_minWidth">0.0dip</dimen>
-    <dimen name="dialog_fixed_width_major">320.0dip</dimen>
-    <dimen name="dialog_fixed_width_minor">320.0dip</dimen>
+    <item type="dimen" name="dialog_fixed_width_major">100.0%</item>
+    <item type="dimen" name="dialog_fixed_width_minor">100.0%</item>
     <item type="dimen" name="dialog_fixed_height_major">79.99999%</item>
     <item type="dimen" name="dialog_fixed_height_minor">100.0%</item>
     <dimen name="preference_screen_header_vertical_padding">0.0dip</dimen>
@@ -66,15 +68,20 @@
     <dimen name="notification_content_margin_start">16.0dip</dimen>
     <dimen name="notification_content_margin_end">16.0dip</dimen>
     <dimen name="notification_content_picture_margin">56.0dip</dimen>
+    <dimen name="notification_content_plus_picture_margin_end">72.0dip</dimen>
+    <dimen name="notification_action_list_height">56.0dip</dimen>
     <dimen name="notification_content_margin_top">37.5dip</dimen>
     <dimen name="notification_content_margin_bottom">16.0dip</dimen>
+    <dimen name="notification_header_background_height">45.5dip</dimen>
     <dimen name="notification_min_height">92.0dip</dimen>
     <dimen name="notification_header_shrink_min_width">72.0dip</dimen>
     <dimen name="notification_min_content_height">41.0dip</dimen>
     <dimen name="media_notification_expanded_image_max_size">94.0dip</dimen>
     <dimen name="media_notification_expanded_image_margin_bottom">20.0dip</dimen>
     <dimen name="notification_content_image_margin_end">8.0dip</dimen>
+    <dimen name="notification_messaging_spacing">6.0dip</dimen>
     <dimen name="search_view_preferred_width">320.0dip</dimen>
+    <dimen name="search_view_preferred_height">48.0dip</dimen>
     <dimen name="alert_dialog_round_padding">27.0dip</dimen>
     <dimen name="alert_dialog_title_height">64.0dip</dimen>
     <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
@@ -114,6 +121,8 @@
     <dimen name="notification_top_pad_large_text">5.0dip</dimen>
     <dimen name="notification_top_pad_large_text_narrow">-4.0dip</dimen>
     <dimen name="notification_large_icon_circle_padding">11.0dip</dimen>
+    <dimen name="notification_text_margin_top">0.5dip</dimen>
+    <dimen name="notification_inbox_item_top_padding">5.0dip</dimen>
     <dimen name="notification_badge_size">12.0dip</dimen>
     <dimen name="kg_security_panel_height">600.0dip</dimen>
     <dimen name="kg_security_view_height">480.0dip</dimen>
@@ -184,6 +193,8 @@
     <dimen name="aerr_padding_list_top">15.0dip</dimen>
     <dimen name="aerr_padding_list_bottom">8.0dip</dimen>
     <dimen name="resize_shadow_size">5.0dip</dimen>
+    <dimen name="default_minimal_size_resizable_task">220.0dip</dimen>
+    <dimen name="cascading_menus_min_smallest_width">720.0dip</dimen>
     <dimen name="timepicker_text_inset_inner">58.0dip</dimen>
     <dimen name="timepicker_radial_picker_dimen">296.0dip</dimen>
     <dimen name="floating_window_margin_left">16.0dip</dimen>
@@ -219,6 +230,7 @@
     <dimen name="preference_screen_side_margin_material">0.0dip</dimen>
     <dimen name="preference_screen_side_margin_negative_material">0.0dip</dimen>
     <dimen name="preference_fragment_padding_side_material">0.0dip</dimen>
+    <dimen name="preference_fragment_padding_vertical_material">0.0dip</dimen>
     <dimen name="preference_breadcrumbs_padding_start_material">12.0dip</dimen>
     <dimen name="preference_breadcrumbs_padding_end_material">24.0dip</dimen>
     <dimen name="preference_screen_header_padding_side_material">0.0dip</dimen>
@@ -231,6 +243,8 @@
     <dimen name="action_bar_subtitle_top_margin_material">-3.0dip</dimen>
     <dimen name="action_bar_subtitle_bottom_margin_material">5.0dip</dimen>
     <item type="dimen" name="list_item_padding_horizontal_material">@dimen/action_bar_content_inset_material</item>
+    <item type="dimen" name="list_item_padding_start_material">@dimen/action_bar_content_inset_material</item>
+    <item type="dimen" name="list_item_padding_end_material">@dimen/action_bar_content_inset_material</item>
     <dimen name="action_bar_overflow_padding_start_material">6.0dip</dimen>
     <dimen name="action_bar_overflow_padding_end_material">10.0dip</dimen>
     <dimen name="action_bar_elevation_material">4.0dip</dimen>
@@ -255,6 +269,7 @@
     <dimen name="text_size_large_material">22.0sp</dimen>
     <dimen name="text_size_medium_material">18.0sp</dimen>
     <dimen name="text_size_small_material">14.0sp</dimen>
+    <item type="dimen" name="text_line_spacing_multiplier_material">1.0</item>
     <dimen name="text_edit_floating_toolbar_elevation">2.0dip</dimen>
     <dimen name="text_edit_floating_toolbar_margin">20.0dip</dimen>
     <dimen name="floating_window_z">16.0dip</dimen>
@@ -319,5 +334,5 @@
     <dimen name="day_picker_padding_top">6.0dip</dimen>
     <dimen name="day_picker_button_margin_top">0.0dip</dimen>
     <dimen name="datepicker_view_animator_height">226.0dip</dimen>
-    <item type="dimen" name="APKTOOL_DUMMY_00b8">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_00c5">false</item>
 </resources>

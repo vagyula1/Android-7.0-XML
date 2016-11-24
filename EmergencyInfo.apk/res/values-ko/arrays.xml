@@ -60,6 +60,18 @@
         <item>로그 버퍼당 4M</item>
         <item>로그 버퍼당 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>사용 안함</item>
+        <item>전체</item>
+        <item>라디오 외 모두</item>
+        <item>커널만</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>사용 안함</item>
+        <item>모든 로그 버퍼</item>
+        <item>라디오 로그 버퍼를 제외한 모든 버퍼</item>
+        <item>커널 로그 버퍼만</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>애니메이션 사용 안함</item>
         <item>애니메이션 배율 .5x</item>
@@ -158,5 +170,10 @@
         <item>보정 색상</item>
         <item>눈으로 보는 듯한 내츄럴 색상</item>
         <item>디지털 콘텐츠에 최적화된 색상</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

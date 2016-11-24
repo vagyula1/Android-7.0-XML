@@ -60,6 +60,18 @@
         <item>每个日志缓冲区 4M</item>
         <item>每个日志缓冲区 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>关闭</item>
+        <item>全部</item>
+        <item>所有非无线电</item>
+        <item>仅限内核</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>关闭</item>
+        <item>所有日志缓冲区</item>
+        <item>所有非无线电日志缓冲区</item>
+        <item>仅限内核日志缓冲区</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>关闭动画</item>
         <item>动画缩放 0.5x</item>
@@ -145,8 +157,8 @@
         <item>快</item>
         <item>较快</item>
         <item>非常快</item>
-        <item>迅速</item>
-        <item>很迅速</item>
+        <item>超快</item>
+        <item>极快</item>
         <item>最快</item>
     </string-array>
     <string-array name="color_mode_names">
@@ -159,6 +171,24 @@
         <item>肉眼所看到的自然颜色</item>
         <item>针对数字内容优化的颜色</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>媒体</item>
+        <item>闹钟</item>
+        <item></item>
+        <item>蓝牙</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>显示小时、分钟和秒</item>
         <item>显示小时和分钟（默认）</item>
@@ -169,4 +199,5 @@
         <item>充电时显示百分比（默认）</item>
         <item>不显示此图标</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

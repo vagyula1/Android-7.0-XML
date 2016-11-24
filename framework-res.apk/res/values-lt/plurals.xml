@@ -6,6 +6,12 @@
         <item quantity="few">Liko %d bandymai. Tada SIM kortelė bus užrakinta.</item>
         <item quantity="many">Liko %d bandymo. Tada SIM kortelė bus užrakinta.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertifikato įgaliojimai įdiegti</item>
+        <item quantity="one">Sertifikato įgaliojimai įdiegti</item>
+        <item quantity="few">Sertifikato įgaliojimai įdiegti</item>
+        <item quantity="many">Sertifikato įgaliojimai įdiegti</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Pranešimo apie riktą ekrano kopija bus užfiksuota po %d sekundžių.</item>
         <item quantity="one">Pranešimo apie riktą ekrano kopija bus užfiksuota po %d sekundės.</item>
@@ -35,6 +41,102 @@
         <item quantity="one">%d valanda</item>
         <item quantity="few">%d valandos</item>
         <item quantity="many">%d valandos</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
+        <item quantity="few">%dmin</item>
+        <item quantity="many">%dmin</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="few">%dh</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d m.</item>
+        <item quantity="one">%d m.</item>
+        <item quantity="few">%d m.</item>
+        <item quantity="many">%d m.</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">po %dmin</item>
+        <item quantity="one">po %dmin</item>
+        <item quantity="few">po %dmin</item>
+        <item quantity="many">po %dmin</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">po %dh</item>
+        <item quantity="one">po %dh</item>
+        <item quantity="few">po %dh</item>
+        <item quantity="many">po %dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">po %d d.</item>
+        <item quantity="one">po %d d.</item>
+        <item quantity="few">po %d d.</item>
+        <item quantity="many">po %d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">po %d m.</item>
+        <item quantity="one">po %d m.</item>
+        <item quantity="few">po %d m.</item>
+        <item quantity="many">po %d m.</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">prieš %d minučių</item>
+        <item quantity="one">prieš %d minutę</item>
+        <item quantity="few">prieš %d minutes</item>
+        <item quantity="many">prieš %d minutės</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">prieš %d valandų</item>
+        <item quantity="one">prieš %d valandą</item>
+        <item quantity="few">prieš %d valandas</item>
+        <item quantity="many">prieš %d valandos</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">prieš %d dienų</item>
+        <item quantity="one">prieš %d dieną</item>
+        <item quantity="few">prieš %d dienas</item>
+        <item quantity="many">prieš %d dienos</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">prieš %d metų</item>
+        <item quantity="one">prieš %d metus</item>
+        <item quantity="few">prieš %d metus</item>
+        <item quantity="many">prieš %d metų</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">po %d minučių</item>
+        <item quantity="one">po %d minutės</item>
+        <item quantity="few">po %d minučių</item>
+        <item quantity="many">po %d minutės</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">po %d valandų</item>
+        <item quantity="one">po %d valandos</item>
+        <item quantity="few">po %d valandų</item>
+        <item quantity="many">po %d valandos</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">po %d dienų</item>
+        <item quantity="one">po %d dienos</item>
+        <item quantity="few">po %d dienų</item>
+        <item quantity="many">po %d dienos</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">po %d metų</item>
+        <item quantity="one">po %d metų</item>
+        <item quantity="few">po %d metų</item>
+        <item quantity="many">po %d metų</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Pasiekiami „Wi-Fi“ tinklai</item>

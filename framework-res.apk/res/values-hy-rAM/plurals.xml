@@ -4,6 +4,10 @@
         <item quantity="other">Մնաց %d փորձ, որից հետո SIM քարտն արգելափակվելու է:</item>
         <item quantity="one">Մնաց %d փորձ, որից հետո SIM քարտն արգելափակվելու է:</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Տեղադրված են սերտիֆիկացման կենտրոնի վկայականներ</item>
+        <item quantity="one">Տեղադրված են սերտիֆիկացման կենտրոնի վկայականներ</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Վրիպակի զեկույցի համար էկրանի պատկերի լուսանկարումը կատարվելու է %d վայրկյանից:</item>
         <item quantity="one">Վրիպակի զեկույցի համար էկրանի պատկերի լուսանկարումը կատարվելու է %d վայրկյանից:</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ժամ</item>
         <item quantity="one">%d ժամ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dր</item>
+        <item quantity="one">%dր</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dժ</item>
+        <item quantity="one">%dժ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dօր</item>
+        <item quantity="one">%dօր</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dտ</item>
+        <item quantity="one">%dտ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%dր-ից</item>
+        <item quantity="one">%dր-ից</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%dժ-ից</item>
+        <item quantity="one">%dժ-ից</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%d օրից</item>
+        <item quantity="one">%d օրից</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%dտ.-ուց</item>
+        <item quantity="one">%dտ.-ուց</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">%d րոպե առաջ</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ժամ առաջ</item>
+        <item quantity="one">%d ժամ առաջ</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d օր առաջ</item>
+        <item quantity="one">%d օր առաջ</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d տարի առաջ</item>
+        <item quantity="one">%d տարի առաջ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d րոպեից</item>
+        <item quantity="one">%d րոպեից</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d ժամից</item>
+        <item quantity="one">%d ժամից</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d օրից</item>
+        <item quantity="one">%d օրից</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d տարուց</item>
+        <item quantity="one">%d տարուց</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Հասանելի են Wi-Fi ցանցեր</item>

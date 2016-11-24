@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <attr name="buttonSize" format="reference">
+        <enum name="icon_only" value="2" />
+        <enum name="standard" value="0" />
+        <enum name="wide" value="1" />
+    </attr>
+    <attr name="colorScheme" format="reference">
+        <enum name="auto" value="2" />
+        <enum name="dark" value="0" />
+        <enum name="light" value="1" />
+    </attr>
+    <attr name="scopeUris" format="reference|string" />
     <attr name="imageAspectRatioAdjust">
         <enum name="adjust_height" value="2" />
         <enum name="adjust_width" value="1" />
@@ -102,6 +113,7 @@
     <attr name="colorButtonNormal" format="color" />
     <attr name="colorSwitchThumbNormal" format="color" />
     <attr name="controlBackground" format="reference" />
+    <attr name="colorBackgroundFloating" format="color" />
     <attr name="alertDialogStyle" format="reference" />
     <attr name="alertDialogButtonGroupStyle" format="reference" />
     <attr name="alertDialogCenterButtons" format="boolean" />
@@ -158,6 +170,8 @@
     <attr name="contentInsetEnd" format="dimension" />
     <attr name="contentInsetLeft" format="dimension" />
     <attr name="contentInsetRight" format="dimension" />
+    <attr name="contentInsetStartWithNavigation" format="dimension" />
+    <attr name="contentInsetEndWithActions" format="dimension" />
     <attr name="elevation" format="dimension" />
     <attr name="popupTheme" format="reference" />
     <attr name="closeItemLayout" format="reference" />
@@ -247,7 +261,25 @@
         <enum name="src_in" value="5" />
         <enum name="src_over" value="3" />
     </attr>
+    <attr name="thumbTint" format="color" />
+    <attr name="thumbTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="track" format="reference" />
+    <attr name="trackTint" format="color" />
+    <attr name="trackTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="thumbTextPadding" format="dimension" />
     <attr name="switchTextAppearance" format="reference" />
     <attr name="switchMinWidth" format="dimension" />

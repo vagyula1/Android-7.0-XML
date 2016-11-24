@@ -29,8 +29,12 @@
         <item quantity="one">Alinakili faili %1$d kwenye ubao wa kunakili.</item>
     </plurals>
     <plurals name="elements_selected">
-        <item quantity="other">Imechagua %1$d</item>
-        <item quantity="one">Imechagua %1$d</item>
+        <item quantity="other">%1$d zimechaguliwa</item>
+        <item quantity="one">%1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">Vipengee %1$d</item>
+        <item quantity="one">Kipengee %1$d</item>
     </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">Ungependa kufuta faili %1$d?</item>

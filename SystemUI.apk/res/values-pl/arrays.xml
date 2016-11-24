@@ -60,6 +60,18 @@
         <item>4 MB/bufor dziennika</item>
         <item>16 MB/bufor dziennika</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Wyłączone</item>
+        <item>Wszystkie</item>
+        <item>Bez radiowych</item>
+        <item>tylko jądro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Wyłączone</item>
+        <item>Wszystkie bufory dziennika</item>
+        <item>Wszystkie oprócz buforów dzienników radiowych</item>
+        <item>tylko bufor dziennika jądra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacja wyłączona</item>
         <item>Skala animacji 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Naturalne kolory widziane przez ludzkie oko</item>
         <item>Kolory dostosowane do wyświetlania treści cyfrowych</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Połączenie</item>
+        <item>System</item>
+        <item>Dzwonek</item>
+        <item>Multimedia</item>
+        <item>Alarm</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Pokazuj godziny, minuty i sekundy</item>
         <item>Pokazuj godziny i minuty (domyślnie)</item>
@@ -169,4 +199,5 @@
         <item>Pokazuj procent podczas ładowania (domyślnie)</item>
         <item>Nie pokazuj tej ikony</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

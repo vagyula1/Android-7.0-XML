@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Edit.HeaderButton" parent="@style/CalendarButton">
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/edit_segment_horizontal_padding</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+    <style name="InfoHeadlineTitleMaxLines">
+        <item name="android:maxLines">3</item>
+    </style>
+</resources>

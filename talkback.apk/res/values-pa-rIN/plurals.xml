@@ -2,19 +2,38 @@
 <resources>
     <plurals name="auto_scan_time_delay_summary_format">
         <item quantity="other">%.2f ਸਕਿੰਟ</item>
-        <item quantity="one">1 ਸਕਿੰਟ</item>
+        <item quantity="one">%.2f ਸਕਿੰਟ</item>
     </plurals>
     <plurals name="label_import_succeeded">
-        <item quantity="other">%d ਲੇਬਲ ਅਪਡੇਟ ਹੋਇਆ</item>
-        <item quantity="zero">"ਕੋਈ ਨਵਾਂ  ਲੇਬਲ ਨਹੀਂ"</item>
-        <item quantity="one">1 ਲੇਬਲ ਅਪਡੇਟ ਹੋਇਆ</item>
+        <item quantity="other">%d ਲੇਬਲ ਅੱਪਡੇਟ ਕੀਤੇ ਗਏ</item>
+        <item quantity="one">%d ਲੇਬਲ ਅੱਪਡੇਟ ਕੀਤੇ ਗਏ</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
-        <item quantity="other">%d ਕੁੰਜੀਆਂ ਅਸਾਈਨ ਕੀਤੀਆਂ</item>
-        <item quantity="one">%d ਕੁੰਜੀ ਅਸਾਈਨ ਕੀਤੀ</item>
+        <item quantity="other">%d ਕੁੰਜੀਆਂ ਅਸਾਈਨ ਕੀਤੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%d ਕੁੰਜੀਆਂ ਅਸਾਈਨ ਕੀਤੀਆਂ ਗਈਆਂ</item>
     </plurals>
     <plurals name="template_containers">
-        <item quantity="other">%1$s %2$d ਆਈਟਮਾਂ ਦਿਖਾ ਰਿਹਾ ਹੈ।</item>
-        <item quantity="one">%1$s %2$d ਆਈਟਮ ਦਿਖਾ ਰਿਹਾ ਹੈ।</item>
+        <item quantity="other">%1$s %2$d ਆਈਟਮਾਂ ਵਿਖਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ।</item>
+        <item quantity="one">%1$s %2$d ਆਈਟਮਾਂ ਵਿਖਾਈਆਂ ਜਾ ਰਹੀਆਂ ਹਨ।</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">%1$d ਵਰਤਾਰੇ ਚੁਣੇ ਗਏ</item>
+        <item quantity="one">%1$d ਵਰਤਾਰੇ ਚੁਣੇ ਗਏ</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d ਕਾਲਮ</item>
+        <item quantity="one">%1$d ਕਾਲਮ</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d ਕਤਾਰਾਂ</item>
+        <item quantity="one">%1$d ਕਤਾਰਾਂ</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%1$d ਆਈਟਮਾਂ</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d ਅੱਖਰ-ਚਿੰਨ੍ਹ</item>
+        <item quantity="one">%1$d ਅੱਖਰ-ਚਿੰਨ੍ਹ</item>
     </plurals>
 </resources>

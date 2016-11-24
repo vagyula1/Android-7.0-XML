@@ -60,6 +60,18 @@
         <item>4M per penimbal log</item>
         <item>16M per penimbal log</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Mati</item>
+        <item>Semua</item>
+        <item>Sma kcli radio</item>
+        <item>inti sahaja</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Mati</item>
+        <item>Semua penimbal log</item>
+        <item>Semua kecuali penimbal log radio</item>
+        <item>penimbal log inti sahaja</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasi dimatikan</item>
         <item>Skala animasi .5x</item>
@@ -159,6 +171,24 @@
         <item>Warna semula jadi seperti yang dilihat oleh mata</item>
         <item>Warna dioptimumkan untuk kandungan digital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Panggil</item>
+        <item>Sistem</item>
+        <item>Dering</item>
+        <item>Media</item>
+        <item>Penggera</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Tunjukkan jam, minit dan saat</item>
         <item>Tunjukkan jam dan minit (lalai)</item>
@@ -169,4 +199,5 @@
         <item>Tunjukkan peratusan semasa mengecas (lalai)</item>
         <item>Jangan tunjukkan ikon ini</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

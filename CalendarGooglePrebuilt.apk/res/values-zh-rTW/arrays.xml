@@ -1,91 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>通知</item>
-        <item>電子郵件</item>
-        <item>簡訊</item>
-        <item>鬧鐘</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>無</item>
-        <item>0 分鐘</item>
-        <item>1 分鐘</item>
-        <item>5 分鐘</item>
-        <item>10 分鐘</item>
-        <item>15 分鐘</item>
-        <item>20 分鐘</item>
-        <item>25 分鐘</item>
-        <item>30 分鐘</item>
-        <item>45 分鐘</item>
-        <item>1 小時</item>
-        <item>2 小時</item>
-        <item>3 小時</item>
-        <item>12 小時</item>
-        <item>24 小時</item>
-        <item>2 天</item>
-        <item>1 週</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>週六</item>
-        <item>週日</item>
-        <item>週一</item>
-    </string-array>
-    <string-array name="availability">
-        <item>忙碌</item>
-        <item>有空</item>
-        <item>未定</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>第一個</item>
-        <item>第二個</item>
-        <item>第三個</item>
-        <item>第四個</item>
-        <item>最後一個</item>
-    </string-array>
-    <string-array name="invitation_responses">
-        <item>尚未回覆</item>
-        <item>參加</item>
-        <item>或許</item>
-        <item>不參加</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>這個活動</item>
-        <item>所有後續活動</item>
-        <item>所有活動</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>此活動及未來活動</item>
-        <item>所有活動</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>僅限這項活動</item>
-        <item>所有後續活動</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>天</item>
-        <item>週</item>
-        <item>月</item>
-        <item>待辦事項</item>
-        <item>Timely</item>
-    </string-array>
-    <string-array name="availability_labels">
-        <item>忙碌</item>
-        <item>有空</item>
-    </string-array>
-    <string-array name="color_names">
+    <string-array name="api_color_names">
         <item>番茄紅</item>
         <item>橙橘色</item>
         <item>南瓜黃</item>
         <item>芒果黃</item>
         <item>香蕉黃</item>
         <item>黃金柚色</item>
-        <item>酪梨青</item>
-        <item>開心果綠</item>
+        <item>酪梨黃</item>
+        <item>開心果黃</item>
         <item>羅勒綠</item>
         <item>桉樹綠</item>
         <item>鼠尾草綠</item>
         <item>孔雀藍</item>
-        <item>鈷豔藍</item>
+        <item>鈷藍</item>
         <item>藍莓色</item>
         <item>薰衣草色</item>
         <item>紫藤色</item>
@@ -98,11 +26,387 @@
         <item>石墨黑</item>
         <item>樺木灰</item>
     </string-array>
+    <string-array name="availability">
+        <item>忙碌</item>
+        <item>有空</item>
+        <item>未定</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>忙碌</item>
+        <item>有空</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>聖馬丁節</item>
+        <item>荷蘭加勒比海屬地</item>
+        <item>庫拉索</item>
+        <item>南蘇丹</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>僅限這項活動</item>
+        <item>所有後續活動</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>這一次</item>
+        <item>所有後續既定安排 (並停止安排時程)</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>這個活動</item>
+        <item>所有後續活動</item>
+        <item>所有活動</item>
+    </string-array>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>這則提醒</item>
+        <item>以下所有提醒</item>
+        <item>所有提醒</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>不重複</item>
+        <item>每天</item>
+        <item>每週</item>
+        <item>每月</item>
+        <item>每年</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>和誰？</item>
+        <item>新增人名以取得聯絡人資訊</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}加入聯絡人並不會發出邀請</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>地點？</item>
+        <item>新增地點以取得路線</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} 新增人名即可取得聯絡人資訊</item>
+        <item>{LOCATION_ICON}新增地點以取得路線</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>今天</item>
+        <item>幾天內</item>
+        <item>一週內</item>
+        <item>特定日期前後</item>
+        <item>特定日期</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>今天</item>
+        <item>幾天內</item>
+        <item>一週內</item>
+        <item>特定日期前後…</item>
+        <item>特定日期…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>正在取得時間表…</item>
+        <item>正在分析衝突…</item>
+        <item>建議排序中…</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>一週內</item>
+        <item>特定日期前後</item>
+        <item>特定日期</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>練習吉他</item>
+        <item>練習鋼琴</item>
+        <item>練習打鼓</item>
+        <item>練習長笛</item>
+        <item>練習打擊樂</item>
+        <item>練習豎琴</item>
+        <item>練習薩克斯風</item>
+        <item>練習口琴</item>
+        <item>練習空氣吉他</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>素描</item>
+        <item>繪畫</item>
+        <item>製作剪貼</item>
+        <item>製作手工藝</item>
+        <item>製作雕塑品</item>
+        <item>製作紙塑 (papier-mâché)</item>
+        <item>網版印刷</item>
+        <item>製作黏土捏塑</item>
+        <item>畫簡筆畫</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>學習阿拉伯文</item>
+        <item>學習中文</item>
+        <item>學習英文</item>
+        <item>學習法文</item>
+        <item>學習北印度文</item>
+        <item>學習日文</item>
+        <item>學習葡萄牙文</item>
+        <item>學習俄文</item>
+        <item>學習西班牙文</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>寫作</item>
+        <item>縫紉</item>
+        <item>釣魚</item>
+        <item>園藝</item>
+        <item>打保齡球</item>
+        <item>摺紙</item>
+        <item>騎單輪車</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>列出待辦事項清單</item>
+        <item>採買日常用品</item>
+        <item>自修</item>
+        <item>洗衣服</item>
+        <item>理財</item>
+        <item>規劃一週行程</item>
+        <item>規劃一個月行程</item>
+        <item>清理電子郵件收件匣</item>
+        <item>打掃家裡</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>正在為您的目標尋找適合的時間…</item>
+        <item>正在為您安排時段…</item>
+        <item>您隨時可以調整這些時段…</item>
+        <item>Google 日曆會自動記憶您所偏好的時間…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>使用您的裝置定位資訊。</item>
+        <item></item>
+        <item>您可以在 [設定] 中變更這項設置。</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google 日曆</item>
+        <item>外觀精美，方便瀏覽</item>
+        <item>填寫日曆輕鬆又快速</item>
+        <item>Gmail 中的活動</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>充分利用每一天。</item>
+        <item>「時間表」檢視會將圖片和地圖加進您的日曆。</item>
+        <item>「小幫手」會在您輸入標題、聯絡人和地點的同時顯示相關建議。</item>
+        <item>自動加入電子郵件中的航班和餐廳等預訂事項。</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>週六</item>
+        <item>週日</item>
+        <item>週一</item>
+    </string-array>
     <string-array name="quick_response_defaults">
         <item>我會遲到幾分鐘。</item>
         <item>我大約 10 分鐘後抵達。</item>
         <item>別等我，請直接開始。</item>
         <item>抱歉不克前往。我們再約時間。</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>每天重複</item>
+        <item>每週重複</item>
+        <item>每月重複</item>
+        <item>每年重複</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>通知</item>
+        <item>電子郵件</item>
+        <item>簡訊</item>
+        <item>鬧鐘</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>每月第 1 個週五</item>
+        <item>每月第 2 個週五</item>
+        <item>每月第 3 個週五</item>
+        <item>每月第 4 個週五</item>
+        <item>每月最後一個週五</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>每月第 1 個週一</item>
+        <item>每月第 2 個週一</item>
+        <item>每月第 3 個週一</item>
+        <item>每月第 4 個週一</item>
+        <item>每月最後一個週一</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>每月第 1 個週六</item>
+        <item>每月第 2 個週六</item>
+        <item>每月第 3 個週六</item>
+        <item>每月第 4 個週六</item>
+        <item>每月最後一個週六</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>每月第 1 個週日</item>
+        <item>每月第 2 個週日</item>
+        <item>每月第 3 個週日</item>
+        <item>每月第 4 個週日</item>
+        <item>每月最後一個週日</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>每月第 1 個週四</item>
+        <item>每月第 2 個週四</item>
+        <item>每月第 3 個週四</item>
+        <item>每月第 4 個週四</item>
+        <item>每月最後一個週四</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>每月第 1 個週二</item>
+        <item>每月第 2 個週二</item>
+        <item>每月第 3 個週二</item>
+        <item>每月第 4 個週二</item>
+        <item>每月最後一個週二</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>每月第 1 個週三</item>
+        <item>每月第 2 個週三</item>
+        <item>每月第 3 個週三</item>
+        <item>每月第 4 個週三</item>
+        <item>每月最後一個週三</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>africa/blantyre</item>
+        <item>africa/brazzaville</item>
+        <item>africa/bujumbura</item>
+        <item>africa/dar_es_salaam</item>
+        <item>africa/gaborone</item>
+        <item>africa/harare</item>
+        <item>africa/johannesburg</item>
+        <item>africa/kigali</item>
+        <item>africa/kinshasa</item>
+        <item>africa/luanda</item>
+        <item>africa/lubumbashi</item>
+        <item>africa/lusaka</item>
+        <item>africa/maputo</item>
+        <item>africa/maseru</item>
+        <item>africa/mbabane</item>
+        <item>africa/nairobi</item>
+        <item>africa/windhoek</item>
+        <item>america/araguaina</item>
+        <item>america/argentina/buenos_aires</item>
+        <item>america/argentina/catamarca</item>
+        <item>america/argentina/comodrivadavia</item>
+        <item>america/argentina/cordoba</item>
+        <item>america/argentina/jujuy</item>
+        <item>america/argentina/la_rioja</item>
+        <item>america/argentina/mendoza</item>
+        <item>america/argentina/rio_gallegos</item>
+        <item>america/argentina/salta</item>
+        <item>america/argentina/san_juan</item>
+        <item>america/argentina/san_luis</item>
+        <item>america/argentina/tucuman</item>
+        <item>america/argentina/ushuaia</item>
+        <item>america/asuncion</item>
+        <item>america/bahia</item>
+        <item>america/belem</item>
+        <item>america/buenos_aires</item>
+        <item>america/campo_grande</item>
+        <item>america/catamarca</item>
+        <item>america/cordoba</item>
+        <item>america/cuiaba</item>
+        <item>america/eirunepe</item>
+        <item>america/fortaleza</item>
+        <item>america/guayaquil</item>
+        <item>america/jujuy</item>
+        <item>america/la_paz</item>
+        <item>america/lima</item>
+        <item>america/maceio</item>
+        <item>america/manaus</item>
+        <item>america/mendoza</item>
+        <item>america/montevideo</item>
+        <item>america/noronha</item>
+        <item>america/porto_acre</item>
+        <item>america/porto_velho</item>
+        <item>america/recife</item>
+        <item>america/rio_branco</item>
+        <item>america/rosario</item>
+        <item>america/santarem</item>
+        <item>america/santiago</item>
+        <item>america/sao_paulo</item>
+        <item>antarctica/casey</item>
+        <item>antarctica/davis</item>
+        <item>antarctica/dumontdurville</item>
+        <item>antarctica/macquarie</item>
+        <item>antarctica/mawson</item>
+        <item>antarctica/mcmurdo</item>
+        <item>antarctica/palmer</item>
+        <item>antarctica/rothera</item>
+        <item>antarctica/south_pole</item>
+        <item>antarctica/syowa</item>
+        <item>antarctica/vostok</item>
+        <item>asia/dili</item>
+        <item>asia/jakarta</item>
+        <item>asia/jayapura</item>
+        <item>asia/makassar</item>
+        <item>asia/pontianak</item>
+        <item>asia/ujung_pandang</item>
+        <item>atlantic/south_georgia</item>
+        <item>atlantic/st_helena</item>
+        <item>atlantic/stanley</item>
+        <item>australia/act</item>
+        <item>australia/adelaide</item>
+        <item>australia/brisbane</item>
+        <item>australia/broken_hill</item>
+        <item>australia/canberra</item>
+        <item>australia/currie</item>
+        <item>australia/darwin</item>
+        <item>australia/eucla</item>
+        <item>australia/hobart</item>
+        <item>australia/lhi</item>
+        <item>australia/lindeman</item>
+        <item>australia/lord_howe</item>
+        <item>australia/melbourne</item>
+        <item>australia/nsw</item>
+        <item>australia/north</item>
+        <item>australia/perth</item>
+        <item>australia/queensland</item>
+        <item>australia/south</item>
+        <item>australia/sydney</item>
+        <item>australia/tasmania</item>
+        <item>australia/victoria</item>
+        <item>australia/west</item>
+        <item>australia/yancowinna</item>
+        <item>bet</item>
+        <item>brazil/acre</item>
+        <item>brazil/denoronha</item>
+        <item>brazil/east</item>
+        <item>brazil/west</item>
+        <item>cat</item>
+        <item>chile/continental</item>
+        <item>chile/easterisland</item>
+        <item>indian/antananarivo</item>
+        <item>indian/chagos</item>
+        <item>indian/christmas</item>
+        <item>indian/cocos</item>
+        <item>indian/comoro</item>
+        <item>indian/kerguelen</item>
+        <item>indian/mahe</item>
+        <item>indian/mauritius</item>
+        <item>indian/mayotte</item>
+        <item>indian/reunion</item>
+        <item>mit</item>
+        <item>nz</item>
+        <item>nz-chat</item>
+        <item>pacific/apia</item>
+        <item>pacific/auckland</item>
+        <item>pacific/chatham</item>
+        <item>pacific/easter</item>
+        <item>pacific/efate</item>
+        <item>pacific/enderbury</item>
+        <item>pacific/fakaofo</item>
+        <item>pacific/fiji</item>
+        <item>pacific/funafuti</item>
+        <item>pacific/galapagos</item>
+        <item>pacific/gambier</item>
+        <item>pacific/guadalcanal</item>
+        <item>pacific/marquesas</item>
+        <item>pacific/nauru</item>
+        <item>pacific/niue</item>
+        <item>pacific/norfolk</item>
+        <item>pacific/noumea</item>
+        <item>pacific/pago_pago</item>
+        <item>pacific/pitcairn</item>
+        <item>pacific/port_moresby</item>
+        <item>pacific/rarotonga</item>
+        <item>pacific/samoa</item>
+        <item>pacific/tahiti</item>
+        <item>pacific/tongatapu</item>
+        <item>pacific/wallis</item>
+        <item>us/samoa</item>
     </string-array>
     <string-array name="timezone_rename_labels">
         <item>澳洲中部時間 - 北領地</item>
@@ -110,7 +414,7 @@
         <item>澳洲東部時間 - 昆士蘭</item>
         <item>澳洲東部時間 - 新南威爾斯</item>
         <item>山區標準時間 - 道森克里克</item>
-        <item>中部標準時間 - 薩克斯其萬</item>
+        <item>中部標準時間 - 薩克其萬</item>
         <item>東部標準時間 - 阿蒂科肯</item>
         <item>大西洋標準時間 - 魁北克</item>
         <item>夏威夷-阿留申時間 - 夏威夷</item>
@@ -128,106 +432,5 @@
         <item>加里寧格勒時間</item>
         <item>亞馬遜 - 朗多尼亞</item>
         <item>巴西利亞 - 帕拉</item>
-    </string-array>
-    <string-array name="backup_country_names">
-        <item>聖馬丁</item>
-        <item>荷蘭加勒比海屬地</item>
-        <item>庫拉索</item>
-        <item>南蘇丹</item>
-    </string-array>
-    <string-array name="recurrence_freq">
-        <item>每天重複</item>
-        <item>每週重複</item>
-        <item>每月重複</item>
-        <item>每年重複</item>
-    </string-array>
-    <string-array name="edit_recurrence">
-        <item>不重複</item>
-        <item>每天</item>
-        <item>每週</item>
-        <item>每月</item>
-        <item>每年</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sun">
-        <item>每月第 1 個週日</item>
-        <item>每月第 2 個週日</item>
-        <item>每月第 3 個週日</item>
-        <item>每月第 4 個週日</item>
-        <item>每月最後一個週日</item>
-    </string-array>
-    <string-array name="repeat_by_nth_mon">
-        <item>每月第 1 個週一</item>
-        <item>每月第 2 個週一</item>
-        <item>每月第 3 個週一</item>
-        <item>每月第 4 個週一</item>
-        <item>每月最後一個週一</item>
-    </string-array>
-    <string-array name="repeat_by_nth_tues">
-        <item>每月第 1 個週二</item>
-        <item>每月第 2 個週二</item>
-        <item>每月第 3 個週二</item>
-        <item>每月第 4 個週二</item>
-        <item>每月最後一個週二</item>
-    </string-array>
-    <string-array name="repeat_by_nth_wed">
-        <item>每月第 1 個週三</item>
-        <item>每月第 2 個週三</item>
-        <item>每月第 3 個週三</item>
-        <item>每月第 4 個週三</item>
-        <item>每月最後一個週三</item>
-    </string-array>
-    <string-array name="repeat_by_nth_thurs">
-        <item>每月第 1 個週四</item>
-        <item>每月第 2 個週四</item>
-        <item>每月第 3 個週四</item>
-        <item>每月第 4 個週四</item>
-        <item>每月最後一個週四</item>
-    </string-array>
-    <string-array name="repeat_by_nth_fri">
-        <item>每月第 1 個週五</item>
-        <item>每月第 2 個週五</item>
-        <item>每月第 3 個週五</item>
-        <item>每月第 4 個週五</item>
-        <item>每月最後一個週五</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sat">
-        <item>每月第 1 個週六</item>
-        <item>每月第 2 個週六</item>
-        <item>每月第 3 個週六</item>
-        <item>每月第 4 個週六</item>
-        <item>每月最後一個週六</item>
-    </string-array>
-    <string-array name="oobe_headers">
-        <item>Google 日曆</item>
-        <item>外觀精美，方便瀏覽</item>
-        <item>填寫日曆輕鬆又快速</item>
-        <item>Gmail 中的活動</item>
-    </string-array>
-    <string-array name="oobe_main_texts">
-        <item>充分利用每一天。</item>
-        <item>「時間表」檢視會將圖片和地圖加進您的日曆。</item>
-        <item>「小幫手」會在您輸入的同時建議標題、聯絡人和地點。</item>
-        <item>自動加入電子郵件中的航班和餐廳等預訂事項。</item>
-    </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>使用您的裝置定位資訊。</item>
-        <item></item>
-        <item>您可以在 [設定] 中變更這項設置。</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON}新增人名以取得聯絡人資訊</item>
-        <item>{LOCATION_ICON}新增地點以取得路線</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>和誰？</item>
-        <item>新增人名以取得聯絡人資訊</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON}加入聯絡人並不會發出邀請</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>地點？</item>
-        <item>新增地點以取得路線</item>
     </string-array>
 </resources>

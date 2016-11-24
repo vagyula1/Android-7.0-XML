@@ -60,6 +60,18 @@
         <item>లాగ్ బఫర్‌కి 4M</item>
         <item>లాగ్ బఫర్‌కి 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్నీ</item>
+        <item>అన్నీ కానీ రేడియో</item>
+        <item>కెర్నెల్ మాత్రమే</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్ని లాగ్ బఫర్‌లు</item>
+        <item>అన్నీ కానీ రేడియో లాగ్ బఫర్‌లు</item>
+        <item>కెర్నెల్ లాగ్ బఫర్ మాత్రమే</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
         <item>యానిమేషన్ ప్రమాణం .5x</item>
@@ -159,6 +171,24 @@
         <item>కంటికి కనిపించే విధంగా సహజమైన రంగులు</item>
         <item>డిజిటల్ కంటెంట్ కోసం అనుకూలీకరించిన రంగులు</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>కాల్</item>
+        <item>సిస్టమ్</item>
+        <item>రింగ్</item>
+        <item>మీడియా</item>
+        <item>అలారం</item>
+        <item></item>
+        <item>బ్లూటూత్</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>గంటలు, నిమిషాలు మరియు సెకన్లను చూపు</item>
         <item>గంటలు మరియు నిమిషాలను చూపు (డిఫాల్ట్)</item>
@@ -169,4 +199,5 @@
         <item>ఛార్జ్ అవుతున్నప్పుడు శాతాన్ని చూపు (డిఫాల్ట్)</item>
         <item>ఈ చిహ్నాన్ని చూపవద్దు</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

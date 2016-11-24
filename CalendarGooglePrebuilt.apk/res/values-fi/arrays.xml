@@ -1,78 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>ilmoitus</item>
-        <item>sähköposti</item>
-        <item>Tekstiviesti</item>
-        <item>hälytys</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Ei mitään</item>
-        <item>0 minuuttia</item>
-        <item>1 minuutti</item>
-        <item>5 minuuttia</item>
-        <item>10 minuuttia</item>
-        <item>15 minuuttia</item>
-        <item>20 minuuttia</item>
-        <item>25 minuuttia</item>
-        <item>30 minuuttia</item>
-        <item>45 minuuttia</item>
-        <item>1 tunti</item>
-        <item>2 tuntia</item>
-        <item>3 tuntia</item>
-        <item>12 tuntia</item>
-        <item>24 tuntia</item>
-        <item>2 päivää</item>
-        <item>1 viikko</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Lauantai</item>
-        <item>Sunnuntai</item>
-        <item>Maanantai</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Varattu</item>
-        <item>Tavoitettavissa</item>
-        <item>Alustava</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>ensimmäinen</item>
-        <item>sekunti</item>
-        <item>kolmas</item>
-        <item>neljäs</item>
-        <item>viimeinen</item>
-    </string-array>
-    <string-array name="invitation_responses">
-        <item>Eivät ole vielä vastanneet</item>
-        <item>osallistuu</item>
-        <item>ehkä</item>
-        <item>ei osallistu</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Tämä tapahtumakerta</item>
-        <item>Kaikki seuraavat tapahtumakerrat</item>
-        <item>Kaikki tapahtumat</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Tämä ja tulevat tapahtumat</item>
-        <item>Kaikki tapahtumat</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Vain tämä tapahtuma</item>
-        <item>Kaikki toistokerrat</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Päivä</item>
-        <item>Viikko</item>
-        <item>Kuukausi</item>
-        <item>Tapahtumat</item>
-        <item>Timely</item>
-    </string-array>
-    <string-array name="availability_labels">
-        <item>Varattu</item>
-        <item>Tavoitettavissa</item>
-    </string-array>
-    <string-array name="color_names">
+    <string-array name="api_color_names">
         <item>Tomaatti</item>
         <item>Mandariini</item>
         <item>Kurpitsa</item>
@@ -98,36 +26,14 @@
         <item>Grafiitti</item>
         <item>Koivu</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Myöhästyn muutaman minuutin.</item>
-        <item>Olen paikalla noin 10 minuutin kuluttua.</item>
-        <item>Voitte aloittaa ilman minua.</item>
-        <item>En pääse paikalle. Sovitaanko uusi aika?</item>
+    <string-array name="availability">
+        <item>Varattu</item>
+        <item>Tavoitettavissa</item>
+        <item>Alustava</item>
     </string-array>
-    <string-array name="timezone_rename_labels">
-        <item>Keski-Australian aika – NT</item>
-        <item>Keski-Australian aika – SA</item>
-        <item>Itä-Australian aika – QLD</item>
-        <item>Itä-Australian aika – NSW</item>
-        <item>Kalliovuoret – Dawson Creek</item>
-        <item>Keskinen norm. – Saskatchewan</item>
-        <item>Itäinen normaaliaika – Atikokan</item>
-        <item>Atlantin normaaliaika – Quebec</item>
-        <item>Hawaiji ja Aleutit – Havaiji</item>
-        <item>Hawaiji ja Aleutit – Alaska</item>
-        <item>Tyynenmeren norm. – Metlakatla</item>
-        <item>Kalliovuort. norm.aika – Arizona</item>
-        <item>Tyynimeri – Baja California</item>
-        <item>Kalliovuoret – Chihuahua</item>
-        <item>Keskinen – Tamaulipas</item>
-        <item>Kalliovuoret – Sonora</item>
-        <item>Itä-Afrikan aika</item>
-        <item>Kanadan Atlantin normaaliaika</item>
-        <item>Kanadan Atlantin normaaliaika</item>
-        <item>Itä-Euroopan aika</item>
-        <item>Kaliningradin aika</item>
-        <item>Amazon – Rondônia</item>
-        <item>Brasilia – Pará</item>
+    <string-array name="availability_labels">
+        <item>Varattu</item>
+        <item>Tavoitettavissa</item>
     </string-array>
     <string-array name="backup_country_names">
         <item>Sint Maarten</item>
@@ -135,18 +41,190 @@
         <item>Curaçao</item>
         <item>Etelä-Sudan</item>
     </string-array>
+    <string-array name="change_response_labels">
+        <item>Vain tämä tapahtuma</item>
+        <item>Kaikki toistokerrat</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>Tämä kerta</item>
+        <item>Kaikki tulevat toistokerrat (lopeta aikataulutus)</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tämä tapahtumakerta</item>
+        <item>Kaikki seuraavat tapahtumakerrat</item>
+        <item>Kaikki tapahtumat</item>
+    </string-array>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>Tämä muistutus</item>
+        <item>Kaikki seuraavat muistutukset</item>
+        <item>Kaikki muistutukset</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Ei toisteta</item>
+        <item>Joka päivä</item>
+        <item>Joka viikko</item>
+        <item>Joka kuukausi</item>
+        <item>Joka vuosi</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>Kenen kanssa?</item>
+        <item>Lisää henkilö, hae yhteystietoja</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}Kontaktien lisääminen ei lähetä kutsua</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>Missä?</item>
+        <item>Lisää sijainti, hae reittiohjeita</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} Lisää henkilöitä ja hae yhteystietoja.</item>
+        <item>{LOCATION_ICON} Lisää paikkoja, hae reittiohjeita</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>tänään</item>
+        <item>muutaman päivän kuluessa</item>
+        <item>viikon kuluessa</item>
+        <item>päivämäärän paikkeilla</item>
+        <item>päivänä</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>Tänään</item>
+        <item>Muutaman päivän kuluessa</item>
+        <item>Viikon kuluessa</item>
+        <item>Päivämäärän paikkeilla…</item>
+        <item>Päivänä…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>Noudetaan aikatauluja…</item>
+        <item>Analysoidaan päällekkäisyyksiä…</item>
+        <item>Järjestetään ehdotuksia…</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>Viikon kuluessa</item>
+        <item>Päivämäärän paikkeilla</item>
+        <item>Päivänä</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>Harjoittele kitaran soittoa</item>
+        <item>Harjoittele pianon soittoa</item>
+        <item>Harjoittele rumpujen soittoa</item>
+        <item>Harjoittele huilun soittoa</item>
+        <item>Harjoittele lyömäsoitinten soittoa</item>
+        <item>Harjoittele harpun soittoa</item>
+        <item>Harjoittele saksofonin soittoa</item>
+        <item>Harjoittele huuliharpun soittoa</item>
+        <item>Harjoittele ilmakitaran soittoa</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>Piirrä</item>
+        <item>Maalaa</item>
+        <item>Tee leikekirja</item>
+        <item>Tee käsitöitä</item>
+        <item>Tee veistos</item>
+        <item>Tee paperimassateos</item>
+        <item>Tee silkkipainotyö</item>
+        <item>Vala savimuoteilla</item>
+        <item>Piirrä tikku-ukkoja</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>Opettele arabiaa</item>
+        <item>Opettele kiinaa</item>
+        <item>Opettele englantia</item>
+        <item>Opettele ranskaa</item>
+        <item>Opettele hindiä</item>
+        <item>Opettele japania</item>
+        <item>Opettele portugalia</item>
+        <item>Opettele venäjää</item>
+        <item>Opettele espanjaa</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>Kirjoita</item>
+        <item>Ompele</item>
+        <item>Mene kalastamaan</item>
+        <item>Hoida puutarhaa</item>
+        <item>Mene keilaamaan</item>
+        <item>Tee origami</item>
+        <item>Yksipyöräinen polkupyörä</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>Laadi tehtävälista</item>
+        <item>Osta ruokaa</item>
+        <item>Opiskele</item>
+        <item>Pese pyykkiä</item>
+        <item>Täsmäytä talous</item>
+        <item>Suunnittele viikko</item>
+        <item>Suunnittele kuukausi</item>
+        <item>Siivoa postilaatikko</item>
+        <item>Siivoa talo</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>Etsitään tavoitteelle ajankohtaa…</item>
+        <item>Määritetään toistokertoja…</item>
+        <item>Voit muuttaa asetuksia milloin tahansa…</item>
+        <item>Kalenteri opettelee mieltymyksesi…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>Käyttää laitteen sijaintia.</item>
+        <item></item>
+        <item>Voit muuttaa tätä asetuksissa.</item>
+    </string-array>
+    <string-array name="oobe_headers">
+        <item>Google-kalenteri</item>
+        <item>Helppo skannata ja kauniin näköinen</item>
+        <item>Täytä kalenterisi helposti ja nopeasti</item>
+        <item>Tapahtumat Gmailista</item>
+    </string-array>
+    <string-array name="oobe_main_texts">
+        <item>Tehokkuutta ajankäyttöön.</item>
+        <item>Aikataulunäkymä lisää kuvia ja karttoja kalenteriisi.</item>
+        <item>Avustukset näyttää otsikko-, yhteystieto- ja paikkaehdotuksia kirjoittaessasi.</item>
+        <item>Muun muassa lento- ja ravintolavaraukset lisätään suoraan sähköposteista.</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lauantai</item>
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Myöhästyn muutaman minuutin.</item>
+        <item>Olen paikalla noin 10 minuutin kuluttua.</item>
+        <item>Voitte aloittaa ilman minua.</item>
+        <item>En pääse paikalle. Sovitaanko uusi aika?</item>
+    </string-array>
     <string-array name="recurrence_freq">
         <item>TOISTA PÄIVITTÄIN</item>
         <item>TOISTA VIIKOITTAIN</item>
         <item>TOISTA KUUKAUSITTAIN</item>
         <item>TOISTA VUOSITTAIN</item>
     </string-array>
-    <string-array name="edit_recurrence">
-        <item>Ei toistu</item>
-        <item>Joka päivä</item>
-        <item>Joka viikko</item>
-        <item>Joka kuukausi</item>
-        <item>Joka vuosi</item>
+    <string-array name="reminder_methods_labels">
+        <item>ilmoitus</item>
+        <item>sähköposti</item>
+        <item>Tekstiviesti</item>
+        <item>hälytys</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kuukauden 1. perjantai</item>
+        <item>kuukauden 2. perjantai</item>
+        <item>kuukauden 3. perjantai</item>
+        <item>kuukauden 4. perjantai</item>
+        <item>kuukauden viimeinen perjantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kuukauden 1. maanantai</item>
+        <item>kuukauden 2. maanantai</item>
+        <item>kuukauden 3. maanantai</item>
+        <item>kuukauden 4. maanantai</item>
+        <item>kuukauden viimeinen maanantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kuukauden 1. lauantai</item>
+        <item>kuukauden 2. lauantai</item>
+        <item>kuukauden 3. lauantai</item>
+        <item>kuukauden 4. lauantai</item>
+        <item>kuukauden viimeinen lauantai</item>
     </string-array>
     <string-array name="repeat_by_nth_sun">
         <item>kuukauden 1. sunnuntai</item>
@@ -155,12 +233,12 @@
         <item>kuukauden 4. sunnuntai</item>
         <item>kuukauden viimeinen sunnuntai</item>
     </string-array>
-    <string-array name="repeat_by_nth_mon">
-        <item>kuukauden 1. maanantai</item>
-        <item>kuukauden 2. maanantai</item>
-        <item>kuukauden 3. maanantai</item>
-        <item>kuukauden 4. maanantai</item>
-        <item>kuukauden viimeinen maanantai</item>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kuukauden 1. torstai</item>
+        <item>kuukauden 2. torstai</item>
+        <item>kuukauden 3. torstai</item>
+        <item>kuukauden 4. torstai</item>
+        <item>kuukauden viimeinen torstai</item>
     </string-array>
     <string-array name="repeat_by_nth_tues">
         <item>kuukauden 1. tiistai</item>
@@ -176,58 +254,183 @@
         <item>kuukauden 4. keskiviikko</item>
         <item>kuukauden viim. keskiviikko</item>
     </string-array>
-    <string-array name="repeat_by_nth_thurs">
-        <item>kuukauden 1. torstai</item>
-        <item>kuukauden 2. torstai</item>
-        <item>kuukauden 3. torstai</item>
-        <item>kuukauden 4. torstai</item>
-        <item>kuukauden viimeinen torstai</item>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>africa/blantyre</item>
+        <item>africa/brazzaville</item>
+        <item>africa/bujumbura</item>
+        <item>africa/dar_es_salaam</item>
+        <item>africa/gaborone</item>
+        <item>africa/harare</item>
+        <item>africa/johannesburg</item>
+        <item>africa/kigali</item>
+        <item>africa/kinshasa</item>
+        <item>africa/luanda</item>
+        <item>africa/lubumbashi</item>
+        <item>africa/lusaka</item>
+        <item>africa/maputo</item>
+        <item>africa/maseru</item>
+        <item>africa/mbabane</item>
+        <item>africa/nairobi</item>
+        <item>africa/windhoek</item>
+        <item>america/araguaina</item>
+        <item>america/argentina/buenos_aires</item>
+        <item>america/argentina/catamarca</item>
+        <item>america/argentina/comodrivadavia</item>
+        <item>america/argentina/cordoba</item>
+        <item>america/argentina/jujuy</item>
+        <item>america/argentina/la_rioja</item>
+        <item>america/argentina/mendoza</item>
+        <item>america/argentina/rio_gallegos</item>
+        <item>america/argentina/salta</item>
+        <item>america/argentina/san_juan</item>
+        <item>america/argentina/san_luis</item>
+        <item>america/argentina/tucuman</item>
+        <item>america/argentina/ushuaia</item>
+        <item>america/asuncion</item>
+        <item>america/bahia</item>
+        <item>america/belem</item>
+        <item>america/buenos_aires</item>
+        <item>america/campo_grande</item>
+        <item>america/catamarca</item>
+        <item>america/cordoba</item>
+        <item>america/cuiaba</item>
+        <item>america/eirunepe</item>
+        <item>america/fortaleza</item>
+        <item>america/guayaquil</item>
+        <item>america/jujuy</item>
+        <item>america/la_paz</item>
+        <item>america/lima</item>
+        <item>america/maceio</item>
+        <item>america/manaus</item>
+        <item>america/mendoza</item>
+        <item>america/montevideo</item>
+        <item>america/noronha</item>
+        <item>america/porto_acre</item>
+        <item>america/porto_velho</item>
+        <item>america/recife</item>
+        <item>america/rio_branco</item>
+        <item>america/rosario</item>
+        <item>america/santarem</item>
+        <item>america/santiago</item>
+        <item>america/sao_paulo</item>
+        <item>antarctica/casey</item>
+        <item>antarctica/davis</item>
+        <item>antarctica/dumontdurville</item>
+        <item>antarctica/macquarie</item>
+        <item>antarctica/mawson</item>
+        <item>antarctica/mcmurdo</item>
+        <item>antarctica/palmer</item>
+        <item>antarctica/rothera</item>
+        <item>antarctica/south_pole</item>
+        <item>antarctica/syowa</item>
+        <item>antarctica/vostok</item>
+        <item>asia/dili</item>
+        <item>asia/jakarta</item>
+        <item>asia/jayapura</item>
+        <item>asia/makassar</item>
+        <item>asia/pontianak</item>
+        <item>asia/ujung_pandang</item>
+        <item>atlantic/south_georgia</item>
+        <item>atlantic/st_helena</item>
+        <item>atlantic/stanley</item>
+        <item>australia/act</item>
+        <item>australia/adelaide</item>
+        <item>australia/brisbane</item>
+        <item>australia/broken_hill</item>
+        <item>australia/canberra</item>
+        <item>australia/currie</item>
+        <item>australia/darwin</item>
+        <item>australia/eucla</item>
+        <item>australia/hobart</item>
+        <item>australia/lhi</item>
+        <item>australia/lindeman</item>
+        <item>australia/lord_howe</item>
+        <item>australia/melbourne</item>
+        <item>australia/nsw</item>
+        <item>australia/north</item>
+        <item>australia/perth</item>
+        <item>australia/queensland</item>
+        <item>australia/south</item>
+        <item>australia/sydney</item>
+        <item>australia/tasmania</item>
+        <item>australia/victoria</item>
+        <item>australia/west</item>
+        <item>australia/yancowinna</item>
+        <item>bet</item>
+        <item>brazil/acre</item>
+        <item>brazil/denoronha</item>
+        <item>brazil/east</item>
+        <item>brazil/west</item>
+        <item>cat</item>
+        <item>chile/continental</item>
+        <item>chile/easterisland</item>
+        <item>indian/antananarivo</item>
+        <item>indian/chagos</item>
+        <item>indian/christmas</item>
+        <item>indian/cocos</item>
+        <item>indian/comoro</item>
+        <item>indian/kerguelen</item>
+        <item>indian/mahe</item>
+        <item>indian/mauritius</item>
+        <item>indian/mayotte</item>
+        <item>indian/reunion</item>
+        <item>mit</item>
+        <item>nz</item>
+        <item>nz-chat</item>
+        <item>pacific/apia</item>
+        <item>pacific/auckland</item>
+        <item>pacific/chatham</item>
+        <item>pacific/easter</item>
+        <item>pacific/efate</item>
+        <item>pacific/enderbury</item>
+        <item>pacific/fakaofo</item>
+        <item>pacific/fiji</item>
+        <item>pacific/funafuti</item>
+        <item>pacific/galapagos</item>
+        <item>pacific/gambier</item>
+        <item>pacific/guadalcanal</item>
+        <item>pacific/marquesas</item>
+        <item>pacific/nauru</item>
+        <item>pacific/niue</item>
+        <item>pacific/norfolk</item>
+        <item>pacific/noumea</item>
+        <item>pacific/pago_pago</item>
+        <item>pacific/pitcairn</item>
+        <item>pacific/port_moresby</item>
+        <item>pacific/rarotonga</item>
+        <item>pacific/samoa</item>
+        <item>pacific/tahiti</item>
+        <item>pacific/tongatapu</item>
+        <item>pacific/wallis</item>
+        <item>us/samoa</item>
     </string-array>
-    <string-array name="repeat_by_nth_fri">
-        <item>kuukauden 1. perjantai</item>
-        <item>kuukauden 2. perjantai</item>
-        <item>kuukauden 3. perjantai</item>
-        <item>kuukauden 4. perjantai</item>
-        <item>kuukauden viimeinen perjantai</item>
-    </string-array>
-    <string-array name="repeat_by_nth_sat">
-        <item>kuukauden 1. lauantai</item>
-        <item>kuukauden 2. lauantai</item>
-        <item>kuukauden 3. lauantai</item>
-        <item>kuukauden 4. lauantai</item>
-        <item>kuukauden viimeinen lauantai</item>
-    </string-array>
-    <string-array name="oobe_headers">
-        <item>Google-kalenteri</item>
-        <item>Helppo skannata ja kauniin näköinen</item>
-        <item>Täytä kalenterisi helposti ja nopeasti</item>
-        <item>Tapahtumat Gmailista</item>
-    </string-array>
-    <string-array name="oobe_main_texts">
-        <item>Tehokkuutta ajankäyttöön.</item>
-        <item>Aikataulunäkymä lisää kuvia ja karttoja kalenteriisi.</item>
-        <item>Avustukset näyttää otsikko-, yhteystieto- ja paikkaehdotuksia kirjoittaessasi.</item>
-        <item>Muun muassa lento- ja ravintolavaraukset lisätään suoraan sähköposteista.</item>
-    </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>Käyttää laitteen sijaintia.</item>
-        <item></item>
-        <item>Voit muuttaa tätä asetuksissa.</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON} Lisää henkilöitä, hae yhteystietoja</item>
-        <item>{LOCATION_ICON} Lisää paikkoja, hae reittiohjeita</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>Kenen kanssa?</item>
-        <item>Lisää henkilö, hae yhteystietoja</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON}Kontaktien lisääminen ei lähetä kutsua</item>
-    </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>Missä?</item>
-        <item>Lisää sijainti, hae reittiohjeita</item>
+    <string-array name="timezone_rename_labels">
+        <item>Keski-Australian aika – NT</item>
+        <item>Keski-Australian aika – SA</item>
+        <item>Itä-Australian aika – QLD</item>
+        <item>Itä-Australian aika – NSW</item>
+        <item>Kalliovuoret – Dawson Creek</item>
+        <item>Kesk. norm.aika – Saskatchewan</item>
+        <item>Itäinen normaaliaika – Atikokan</item>
+        <item>Atlantin normaaliaika – Quebec</item>
+        <item>Hawaiji ja Aleutit – Havaiji</item>
+        <item>Hawaiji ja Aleutit – Alaska</item>
+        <item>Tyynenm. norm.aika – Metlakatla</item>
+        <item>Kalliov. norm.aika – Arizona</item>
+        <item>Tyynimeri – Baja California</item>
+        <item>Kalliovuoret – Chihuahua</item>
+        <item>Keskinen – Tamaulipas</item>
+        <item>Kalliovuoret – Sonora</item>
+        <item>Itä-Afrikan aika</item>
+        <item>Atlantin normaaliaika</item>
+        <item>Atlantin normaaliaika</item>
+        <item>Itä-Euroopan aika</item>
+        <item>Kaliningradin aika</item>
+        <item>Amazon – Rondônia</item>
+        <item>Brasilia – Pará</item>
     </string-array>
 </resources>

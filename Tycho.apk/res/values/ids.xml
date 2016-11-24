@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="id" name="BindAdapter_viewA11yCardCount" />
-    <item type="id" name="BindAdapter_viewEqualityFields" />
-    <item type="id" name="BindAdapter_viewGenerator" />
-    <item type="id" name="BindAdapter_viewResId" />
-    <item type="id" name="CardListBuilder_group" />
-    <item type="id" name="CardListBuilder_groupProvider" />
-    <item type="id" name="CardListBuilder_rowId" />
-    <item type="id" name="EditableAdapterView_isEditable" />
-    <item type="id" name="EditableAdapterView_isRemovable" />
-    <item type="id" name="GridGroup_columnSpan" />
     <item type="id" name="action_bar_activity_content" />
     <item type="id" name="action_bar_spinner" />
     <item type="id" name="action_menu_divider" />
     <item type="id" name="action_menu_presenter" />
     <item type="id" name="aggregate_data_usage" />
-    <item type="id" name="bind__card_group_parent" />
-    <item type="id" name="bind__tagDataPagerAdapterObject" />
     <item type="id" name="device_id" />
-    <item type="id" name="expando_hero" />
-    <item type="id" name="expando_logo" />
-    <item type="id" name="expando_splash" />
-    <item type="id" name="flm_paddingEnd" />
-    <item type="id" name="flm_paddingStart" />
-    <item type="id" name="flm_width" />
-    <item type="id" name="forwarding_entry" />
     <item type="id" name="home" />
     <item type="id" name="is_current_selection" />
     <item type="id" name="item_touch_helper_previous_elevation" />
-    <item type="id" name="play_header_listview" />
-    <item type="id" name="play_header_spacer" />
-    <item type="id" name="play_header_viewpager" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_backgroundColor" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_bodyText" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_iconDrawableId" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_pageId" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_primaryButtonClickListener" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_primaryButtonText" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_secondaryButtonClickListener" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_secondaryButtonText" />
-    <item type="id" name="play_onboard__OnboardTutorialPageFragment_titleText" />
     <item type="id" name="progress_circular" />
     <item type="id" name="progress_horizontal" />
     <item type="id" name="split_action_bar" />
@@ -53,6 +22,7 @@
     <item type="id" name="image">false</item>
     <item type="id" name="default_activity_button">false</item>
     <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
     <item type="id" name="title">false</item>
     <item type="id" name="buttonPanel">false</item>
     <item type="id" name="spacer">false</item>
@@ -69,6 +39,7 @@
     <item type="id" name="custom">false</item>
     <item type="id" name="expanded_menu">false</item>
     <item type="id" name="shortcut">false</item>
+    <item type="id" name="submenuarrow">false</item>
     <item type="id" name="action_bar_root">false</item>
     <item type="id" name="action_mode_bar_stub">false</item>
     <item type="id" name="action_mode_bar">false</item>
@@ -91,13 +62,11 @@
     <item type="id" name="select_dialog_listview">false</item>
     <item type="id" name="account_details_frame">false</item>
     <item type="id" name="content">false</item>
-    <item type="id" name="tab_container">false</item>
-    <item type="id" name="pager_tab_strip">false</item>
-    <item type="id" name="pager">false</item>
-    <item type="id" name="account_details_progress_bar">false</item>
     <item type="id" name="hats_container">false</item>
+    <item type="id" name="dogfood_container">false</item>
     <item type="id" name="horizontal_progress">false</item>
     <item type="id" name="content_loading_fragment">false</item>
+    <item type="id" name="saved_scroll">false</item>
     <item type="id" name="number">false</item>
     <item type="id" name="description">false</item>
     <item type="id" name="disclaimer">false</item>
@@ -106,20 +75,23 @@
     <item type="id" name="dashed_line">false</item>
     <item type="id" name="total">false</item>
     <item type="id" name="loading_fragment">false</item>
-    <item type="id" name="daily_usage_details_tab_container">false</item>
-    <item type="id" name="daily_usage_details_pager">false</item>
     <item type="id" name="device_daily_usage_details_fragment_container">false</item>
     <item type="id" name="data_plan_description">false</item>
-    <item type="id" name="subtractButton">false</item>
-    <item type="id" name="numGigabytes">false</item>
-    <item type="id" name="addButton">false</item>
+    <item type="id" name="breakdown_chart">false</item>
+    <item type="id" name="data_account_allowance">false</item>
     <item type="id" name="price">false</item>
+    <item type="id" name="data_user_list">false</item>
     <item type="id" name="save_button">false</item>
+    <item type="id" name="domestic_data_line_item">false</item>
+    <item type="id" name="international_data_section">false</item>
+    <item type="id" name="prepaid_data_line_item">false</item>
     <item type="id" name="edit_device_fragment_container">false</item>
     <item type="id" name="nickname">false</item>
     <item type="id" name="device_details">false</item>
     <item type="id" name="data_only_sim_help">false</item>
     <item type="id" name="insurance_wrapper">false</item>
+    <item type="id" name="device_protection_subheader">false</item>
+    <item type="id" name="tooltip">false</item>
     <item type="id" name="contact_us">false</item>
     <item type="id" name="insurance">false</item>
     <item type="id" name="financing_wrapper">false</item>
@@ -134,13 +106,16 @@
     <item type="id" name="save">false</item>
     <item type="id" name="e911_setting_description">false</item>
     <item type="id" name="street_address">false</item>
+    <item type="id" name="apartment_or_suite">false</item>
     <item type="id" name="city">false</item>
     <item type="id" name="state">false</item>
     <item type="id" name="zip_code">false</item>
+    <item type="id" name="enroll_body">false</item>
+    <item type="id" name="view_details">false</item>
+    <item type="id" name="coverage">false</item>
+    <item type="id" name="enroll">false</item>
     <item type="id" name="voice_section">false</item>
     <item type="id" name="text_section">false</item>
-    <item type="id" name="data_section">false</item>
-    <item type="id" name="butter_bar">false</item>
     <item type="id" name="zero_state_wrapper">false</item>
     <item type="id" name="zero_state_illo">false</item>
     <item type="id" name="zero_state_text">false</item>
@@ -152,23 +127,10 @@
     <item type="id" name="coordinator">false</item>
     <item type="id" name="greetings">false</item>
     <item type="id" name="central_label">false</item>
-    <item type="id" name="add">false</item>
     <item type="id" name="push_notify_usage">false</item>
     <item type="id" name="email_notify_usage">false</item>
     <item type="id" name="notify_roaming">false</item>
     <item type="id" name="notify_spam">false</item>
-    <item type="id" name="port_out_wrapper">false</item>
-    <item type="id" name="account_number">false</item>
-    <item type="id" name="account_password">false</item>
-    <item type="id" name="plan_data_button">false</item>
-    <item type="id" name="plan_voice_button">false</item>
-    <item type="id" name="your_devices_title">false</item>
-    <item type="id" name="my_device_details">false</item>
-    <item type="id" name="plan_intl_roaming">false</item>
-    <item type="id" name="plan_intl_voice">false</item>
-    <item type="id" name="international_details_text">false</item>
-    <item type="id" name="pause_service_button">false</item>
-    <item type="id" name="cancel_service_button">false</item>
     <item type="id" name="privacy_description">false</item>
     <item type="id" name="share_voicemail">false</item>
     <item type="id" name="share_usage">false</item>
@@ -180,20 +142,7 @@
     <item type="id" name="record_button">false</item>
     <item type="id" name="footer_button_bar">false</item>
     <item type="id" name="rerecord_button">false</item>
-    <item type="id" name="highlights">false</item>
-    <item type="id" name="upper_gradient">false</item>
-    <item type="id" name="header_total">false</item>
-    <item type="id" name="previous_balance">false</item>
-    <item type="id" name="last_months_usage_section">false</item>
-    <item type="id" name="device_protection_enrollment_section">false</item>
-    <item type="id" name="monthly_charges_section">false</item>
-    <item type="id" name="taxes_and_fees">false</item>
-    <item type="id" name="footer_total">false</item>
-    <item type="id" name="usage_wrapper">false</item>
-    <item type="id" name="usage_amount_title">false</item>
-    <item type="id" name="data_usage_chart">false</item>
-    <item type="id" name="device_usage_viewer_fragment_container">false</item>
-    <item type="id" name="open_daily_usage">false</item>
+    <item type="id" name="fragment_container">false</item>
     <item type="id" name="info_content">false</item>
     <item type="id" name="eid">false</item>
     <item type="id" name="cached_uicc_imsi">false</item>
@@ -203,6 +152,10 @@
     <item type="id" name="network_operator">false</item>
     <item type="id" name="mandatory_section">false</item>
     <item type="id" name="discretionary_section">false</item>
+    <item type="id" name="intro_fragment_container">false</item>
+    <item type="id" name="eval_period_fragment_container">false</item>
+    <item type="id" name="report_fragment_container">false</item>
+    <item type="id" name="error">false</item>
     <item type="id" name="voicemail_content_view">false</item>
     <item type="id" name="voicemail_greetings_layout">false</item>
     <item type="id" name="manage_greeting">false</item>
@@ -215,23 +168,22 @@
     <item type="id" name="toolbar">false</item>
     <item type="id" name="tycho_content">false</item>
     <item type="id" name="tycho_indeterminate_progress">false</item>
-    <item type="id" name="spinner">false</item>
+    <item type="id" name="base_slide_item_layout">false</item>
     <item type="id" name="icon_container">false</item>
     <item type="id" name="butter_bar_icon">false</item>
     <item type="id" name="loading_indicator">false</item>
     <item type="id" name="butter_bar_title">false</item>
     <item type="id" name="butter_bar_description">false</item>
     <item type="id" name="button_bar">false</item>
-    <item type="id" name="add_account">false</item>
-    <item type="id" name="icon_list_item">false</item>
-    <item type="id" name="account_radio">false</item>
     <item type="id" name="card">false</item>
     <item type="id" name="content_and_header_container">false</item>
     <item type="id" name="content_container">false</item>
     <item type="id" name="arrow">false</item>
-    <item type="id" name="divider">false</item>
+    <item type="id" name="collapsible_card_divider">false</item>
+    <item type="id" name="collapsible_card_header_title">false</item>
     <item type="id" name="contact_card_content">false</item>
     <item type="id" name="phone">false</item>
+    <item type="id" name="chat">false</item>
     <item type="id" name="email">false</item>
     <item type="id" name="wizard">false</item>
     <item type="id" name="current_cycle_highlights">false</item>
@@ -240,6 +192,8 @@
     <item type="id" name="warning_flag">false</item>
     <item type="id" name="data_limit_flag">false</item>
     <item type="id" name="warning_flag_text">false</item>
+    <item type="id" name="touch_outside">false</item>
+    <item type="id" name="design_bottom_sheet">false</item>
     <item type="id" name="snackbar_text">false</item>
     <item type="id" name="snackbar_action">false</item>
     <item type="id" name="navigation_header_container">false</item>
@@ -247,16 +201,22 @@
     <item type="id" name="design_menu_item_text">false</item>
     <item type="id" name="design_menu_item_action_area_stub">false</item>
     <item type="id" name="design_menu_item_action_area">false</item>
-    <item type="id" name="device_usage_layout">false</item>
-    <item type="id" name="device_name">false</item>
-    <item type="id" name="device_usage">false</item>
-    <item type="id" name="location_set_preference">false</item>
     <item type="id" name="progress_bar">false</item>
     <item type="id" name="message">false</item>
     <item type="id" name="greeting_name">false</item>
     <item type="id" name="enter_pin">false</item>
     <item type="id" name="save_error">false</item>
     <item type="id" name="empty_collapsed_content">false</item>
+    <item type="id" name="voice_stats">false</item>
+    <item type="id" name="fi_network_percentage_text">false</item>
+    <item type="id" name="wifi_network_percentage_text">false</item>
+    <item type="id" name="pie_chart">false</item>
+    <item type="id" name="horizontal_bar_chart">false</item>
+    <item type="id" name="fi_stats_pie_voice_time_label">false</item>
+    <item type="id" name="fi_icon">false</item>
+    <item type="id" name="fi_network_text">false</item>
+    <item type="id" name="wifi_icon">false</item>
+    <item type="id" name="wifi_network_text">false</item>
     <item type="id" name="body">false</item>
     <item type="id" name="accounts_recycler_view">false</item>
     <item type="id" name="bartender_fragment_container">false</item>
@@ -271,22 +231,47 @@
     <item type="id" name="emergency_address">false</item>
     <item type="id" name="notification_controls">false</item>
     <item type="id" name="privacy">false</item>
+    <item type="id" name="tryfi">false</item>
     <item type="id" name="signout_separator">false</item>
     <item type="id" name="sign_out">false</item>
-    <item type="id" name="error_code">false</item>
+    <item type="id" name="account_usage_title">false</item>
+    <item type="id" name="account_usage_title_details">false</item>
+    <item type="id" name="account_usage_content">false</item>
+    <item type="id" name="account_usage_viewer_previous">false</item>
+    <item type="id" name="account_usage_amount_container">false</item>
+    <item type="id" name="account_usage_viewer_next">false</item>
+    <item type="id" name="account_usage_details_container">false</item>
+    <item type="id" name="account_usage_dot_page_indicator">false</item>
+    <item type="id" name="account_usage_progress_bar">false</item>
+    <item type="id" name="account_usage_error">false</item>
+    <item type="id" name="account_usage_divider">false</item>
+    <item type="id" name="account_usage_avatar">false</item>
+    <item type="id" name="account_usage_amount">false</item>
+    <item type="id" name="account_usage_bar_chart">false</item>
+    <item type="id" name="account_usage_summary_container">false</item>
+    <item type="id" name="account_usage_device_container">false</item>
+    <item type="id" name="account_usage_international_usage_hint">false</item>
+    <item type="id" name="account_usage_highlights_collapsible_card">false</item>
+    <item type="id" name="account_usage_daily_usage_button">false</item>
     <item type="id" name="offline_bar">false</item>
     <item type="id" name="upgrade_requested_fragment_container">false</item>
     <item type="id" name="butter_bar_fragment_container">false</item>
     <item type="id" name="port_status_fragment_container">false</item>
     <item type="id" name="super_network_fragment_container">false</item>
     <item type="id" name="service_status_fragment_container">false</item>
+    <item type="id" name="base_slide_layout">false</item>
+    <item type="id" name="base_slide_viewer_layout">false</item>
+    <item type="id" name="base_slide_viewer_previous">false</item>
+    <item type="id" name="base_slide_viewer_container">false</item>
+    <item type="id" name="base_slide_viewer_next">false</item>
+    <item type="id" name="base_slide_viewer_dot_page_indicator">false</item>
     <item type="id" name="scroll_view">false</item>
     <item type="id" name="no_statements">false</item>
     <item type="id" name="no_statements_header">false</item>
-    <item type="id" name="error">false</item>
+    <item type="id" name="toggle">false</item>
+    <item type="id" name="illo">false</item>
     <item type="id" name="cancel_closure">false</item>
     <item type="id" name="continue_closure">false</item>
-    <item type="id" name="port_out_params">false</item>
     <item type="id" name="reason_coverage">false</item>
     <item type="id" name="reason_cost">false</item>
     <item type="id" name="reason_usage">false</item>
@@ -295,6 +280,7 @@
     <item type="id" name="reason_other">false</item>
     <item type="id" name="closure_why">false</item>
     <item type="id" name="submit">false</item>
+    <item type="id" name="option_individual_plan">false</item>
     <item type="id" name="option_provider">false</item>
     <item type="id" name="option_gv">false</item>
     <item type="id" name="option_abandon">false</item>
@@ -302,54 +288,74 @@
     <item type="id" name="terms_number">false</item>
     <item type="id" name="terms_payments">false</item>
     <item type="id" name="terms_device">false</item>
+    <item type="id" name="terms_insurance">false</item>
     <item type="id" name="scrim">false</item>
     <item type="id" name="content_loading_progress_bar">false</item>
-    <item type="id" name="current_cycle_card">false</item>
-    <item type="id" name="current_cycle_details">false</item>
-    <item type="id" name="international_usage_hint">false</item>
-    <item type="id" name="current_cycle_highlights_collapsible_card">false</item>
-    <item type="id" name="current_cycle_card_loading">false</item>
-    <item type="id" name="current_cycle_card_error">false</item>
-    <item type="id" name="device_icon">false</item>
-    <item type="id" name="enrolled_in_insurance_badge">false</item>
-    <item type="id" name="device_detail">false</item>
     <item type="id" name="header">false</item>
     <item type="id" name="subheader">false</item>
+    <item type="id" name="data_usage_stacked_bar_chart">false</item>
+    <item type="id" name="prior_usage_label_explanation">false</item>
+    <item type="id" name="usage_legend">false</item>
     <item type="id" name="smartphone_data_icon">false</item>
     <item type="id" name="smartphone_data_title">false</item>
     <item type="id" name="smartphone_data_amount">false</item>
     <item type="id" name="tethering_icon">false</item>
     <item type="id" name="tethering_title">false</item>
     <item type="id" name="tethering_amount">false</item>
-    <item type="id" name="data_usage_stacked_bar_chart">false</item>
-    <item type="id" name="prior_usage_label_explanation">false</item>
-    <item type="id" name="device_usages_layout">false</item>
-    <item type="id" name="device_usages_viewer_layout">false</item>
-    <item type="id" name="device_usages_viewer_previous">false</item>
-    <item type="id" name="device_usages_container">false</item>
-    <item type="id" name="device_usages_viewer_next">false</item>
-    <item type="id" name="device_previous">false</item>
-    <item type="id" name="device_stage">false</item>
-    <item type="id" name="device_next">false</item>
-    <item type="id" name="plan_page_indicator">false</item>
+    <item type="id" name="usage_summary_container">false</item>
+    <item type="id" name="app_usage_container">false</item>
+    <item type="id" name="app_usage_loading_container">false</item>
+    <item type="id" name="app_usage_loading">false</item>
+    <item type="id" name="app_usage_items_container">false</item>
+    <item type="id" name="stats_container">false</item>
+    <item type="id" name="fi_stats_loading">false</item>
+    <item type="id" name="fi_stats_voice_card">false</item>
+    <item type="id" name="fi_stats_data_card">false</item>
+    <item type="id" name="usage_action">false</item>
+    <item type="id" name="usage_table">false</item>
+    <item type="id" name="icon_list_item">false</item>
     <item type="id" name="accept">false</item>
     <item type="id" name="dismiss">false</item>
+    <item type="id" name="add_forwarding_header">false</item>
+    <item type="id" name="forwarding_enabled">false</item>
     <item type="id" name="sms">false</item>
-    <item type="id" name="help">false</item>
     <item type="id" name="delete">false</item>
     <item type="id" name="next">false</item>
-    <item type="id" name="illo">false</item>
     <item type="id" name="finish">false</item>
     <item type="id" name="verify">false</item>
     <item type="id" name="verification_code">false</item>
+    <item type="id" name="intro">false</item>
+    <item type="id" name="calls">false</item>
+    <item type="id" name="data">false</item>
+    <item type="id" name="footer">false</item>
     <item type="id" name="international_card">false</item>
-    <item type="id" name="new_number_gv_disclaimer">false</item>
-    <item type="id" name="wrong_account">false</item>
-    <item type="id" name="sign_up_or_retry">false</item>
+    <item type="id" name="paused_butter_bar">false</item>
+    <item type="id" name="port_out_info">false</item>
+    <item type="id" name="gone_wrapper">false</item>
+    <item type="id" name="gone_header">false</item>
+    <item type="id" name="gone_body">false</item>
+    <item type="id" name="member_removed">false</item>
+    <item type="id" name="open_wrapper">false</item>
+    <item type="id" name="plan_subscriptions">false</item>
+    <item type="id" name="data_plan">false</item>
+    <item type="id" name="voice_plan">false</item>
+    <item type="id" name="change_member_role">false</item>
+    <item type="id" name="device_list">false</item>
+    <item type="id" name="plan_intl_roaming">false</item>
+    <item type="id" name="plan_intl_voice">false</item>
+    <item type="id" name="international_details_text">false</item>
+    <item type="id" name="more_actions_section">false</item>
+    <item type="id" name="pause_service">false</item>
+    <item type="id" name="pause_data">false</item>
+    <item type="id" name="cancel_user">false</item>
+    <item type="id" name="plan_header">false</item>
+    <item type="id" name="plan_change_card">false</item>
+    <item type="id" name="plan_user_list">false</item>
+    <item type="id" name="cancel_group_plan">false</item>
     <item type="id" name="port_account_instructions">false</item>
-    <item type="id" name="wrong_number">false</item>
     <item type="id" name="account_num">false</item>
     <item type="id" name="where_can_i_find">false</item>
+    <item type="id" name="account_password">false</item>
     <item type="id" name="whats_this">false</item>
     <item type="id" name="account_name">false</item>
     <item type="id" name="account_addr">false</item>
@@ -358,27 +364,54 @@
     <item type="id" name="account_state">false</item>
     <item type="id" name="account_zip">false</item>
     <item type="id" name="port_delay_disclaimer">false</item>
-    <item type="id" name="port_gv_number">false</item>
-    <item type="id" name="port_gv_different_number">false</item>
     <item type="id" name="port_enter_number">false</item>
     <item type="id" name="number_to_port">false</item>
-    <item type="id" name="port_lose_gv_warning">false</item>
-    <item type="id" name="skip">false</item>
-    <item type="id" name="choices">false</item>
+    <item type="id" name="done">false</item>
     <item type="id" name="positive">false</item>
     <item type="id" name="negative">false</item>
+    <item type="id" name="highlights">false</item>
+    <item type="id" name="upper_gradient">false</item>
+    <item type="id" name="user_charge_section">false</item>
+    <item type="id" name="user_charge_container">false</item>
+    <item type="id" name="header_total">false</item>
+    <item type="id" name="previous_balance">false</item>
+    <item type="id" name="last_months_usage_section">false</item>
+    <item type="id" name="device_protection_enrollment_section">false</item>
+    <item type="id" name="monthly_charges_section">false</item>
+    <item type="id" name="taxes_and_fees">false</item>
+    <item type="id" name="footer_total">false</item>
+    <item type="id" name="usage_wrapper">false</item>
+    <item type="id" name="statement_avatar">false</item>
+    <item type="id" name="usage_amount_title">false</item>
+    <item type="id" name="data_usage_chart">false</item>
+    <item type="id" name="statement_summary_container">false</item>
+    <item type="id" name="statement_device_container">false</item>
+    <item type="id" name="open_daily_usage">false</item>
     <item type="id" name="contact_card_loading_container">false</item>
     <item type="id" name="contact_card_loading_indicator">false</item>
     <item type="id" name="support_call_failed">false</item>
     <item type="id" name="support_call_failed_header">false</item>
     <item type="id" name="community">false</item>
     <item type="id" name="help_center">false</item>
-    <item type="id" name="learn_more">false</item>
+    <item type="id" name="wrong_account">false</item>
+    <item type="id" name="sign_up_or_retry">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="start_test_button">false</item>
+    <item type="id" name="eval_period">false</item>
+    <item type="id" name="avg_throughput">false</item>
+    <item type="id" name="avg_latency">false</item>
+    <item type="id" name="percent_lte">false</item>
+    <item type="id" name="percent_gsm">false</item>
+    <item type="id" name="percent_cdma">false</item>
+    <item type="id" name="percent_wcdma">false</item>
+    <item type="id" name="percent_no_coverage">false</item>
+    <item type="id" name="places">false</item>
+    <item type="id" name="delete_report">false</item>
     <item type="id" name="plan_card_title">false</item>
     <item type="id" name="plan_card_subtitle">false</item>
-    <item type="id" name="device_viewer_fragment_container">false</item>
-    <item type="id" name="port_out_icon">false</item>
-    <item type="id" name="phone_number">false</item>
+    <item type="id" name="plan_icon">false</item>
+    <item type="id" name="plan_badge">false</item>
+    <item type="id" name="plan_caption">false</item>
     <item type="id" name="manage_plan">false</item>
     <item type="id" name="international_card_content">false</item>
     <item type="id" name="collapsed__icon_list_item">false</item>
@@ -391,8 +424,21 @@
     <item type="id" name="wifi_calls_rate">false</item>
     <item type="id" name="item">false</item>
     <item type="id" name="cost">false</item>
+    <item type="id" name="account">false</item>
+    <item type="id" name="add_account">false</item>
     <item type="id" name="blocked_number">false</item>
-    <item type="id" name="list_item_text">false</item>
+    <item type="id" name="call_forwarding_off">false</item>
+    <item type="id" name="button_list_item">false</item>
+    <item type="id" name="data_allowance_subtract">false</item>
+    <item type="id" name="data_allowance">false</item>
+    <item type="id" name="data_allowance_add">false</item>
+    <item type="id" name="device_name">false</item>
+    <item type="id" name="device_usage">false</item>
+    <item type="id" name="checkable_list_item">false</item>
+    <item type="id" name="plan_change_list">false</item>
+    <item type="id" name="plan_list_item">false</item>
+    <item type="id" name="port_out_params">false</item>
+    <item type="id" name="account_number">false</item>
     <item type="id" name="send_feedback">false</item>
     <item type="id" name="statement_content">false</item>
     <item type="id" name="header_icon">false</item>
@@ -400,6 +446,17 @@
     <item type="id" name="past_divider">false</item>
     <item type="id" name="past_statements_title">false</item>
     <item type="id" name="past">false</item>
+    <item type="id" name="tab_container">false</item>
+    <item type="id" name="tab_layout">false</item>
+    <item type="id" name="tab_pager">false</item>
+    <item type="id" name="tab_progress_bar">false</item>
+    <item type="id" name="edit_text">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="user_name">false</item>
+    <item type="id" name="user_charge">false</item>
+    <item type="id" name="user_icon">false</item>
+    <item type="id" name="user_usage">false</item>
+    <item type="id" name="divider">false</item>
     <item type="id" name="header_text">false</item>
     <item type="id" name="icon_layout">false</item>
     <item type="id" name="play_button">false</item>
@@ -411,7 +468,16 @@
     <item type="id" name="button_layout">false</item>
     <item type="id" name="delete_button">false</item>
     <item type="id" name="set_active_button">false</item>
+    <item type="id" name="usage_amount">false</item>
+    <item type="id" name="usage_progress">false</item>
+    <item type="id" name="list_item_text">false</item>
     <item type="id" name="button">false</item>
+    <item type="id" name="icon_frame">false</item>
+    <item type="id" name="inactive_overlay">false</item>
+    <item type="id" name="icon_overlay">false</item>
+    <item type="id" name="end_text">false</item>
+    <item type="id" name="cancel_invite">false</item>
+    <item type="id" name="resend_invite">false</item>
     <item type="id" name="callout">false</item>
     <item type="id" name="action0">false</item>
     <item type="id" name="cancel_action">false</item>
@@ -423,60 +489,26 @@
     <item type="id" name="chronometer">false</item>
     <item type="id" name="text2">false</item>
     <item type="id" name="line3">false</item>
+    <item type="id" name="text">false</item>
     <item type="id" name="info">false</item>
     <item type="id" name="end_padder">false</item>
-    <item type="id" name="play_card">false</item>
-    <item type="id" name="li_overflow">false</item>
-    <item type="id" name="li_thumbnail_frame">false</item>
-    <item type="id" name="li_thumbnail">false</item>
-    <item type="id" name="li_title">false</item>
-    <item type="id" name="li_rating">false</item>
-    <item type="id" name="li_price">false</item>
-    <item type="id" name="li_subtitle">false</item>
-    <item type="id" name="li_reason_2">false</item>
-    <item type="id" name="li_reason_1">false</item>
-    <item type="id" name="li_description">false</item>
-    <item type="id" name="loading_progress_bar">false</item>
-    <item type="id" name="rating_badge_container">false</item>
-    <item type="id" name="li_badge">false</item>
-    <item type="id" name="li_thumbnail_reason">false</item>
-    <item type="id" name="li_reason">false</item>
-    <item type="id" name="avatar">false</item>
-    <item type="id" name="play_drawer_container">false</item>
-    <item type="id" name="play_drawer_list">false</item>
-    <item type="id" name="action_text">false</item>
-    <item type="id" name="switch_button">false</item>
-    <item type="id" name="account_header_wrapper">false</item>
-    <item type="id" name="selected_profile">false</item>
-    <item type="id" name="secondary_profiles">false</item>
-    <item type="id" name="cover_photo">false</item>
-    <item type="id" name="toggle_account_list_button">false</item>
-    <item type="id" name="account_list_button_divider">false</item>
-    <item type="id" name="display_name">false</item>
-    <item type="id" name="background_container">false</item>
-    <item type="id" name="alt_play_background">false</item>
-    <item type="id" name="controls_container">false</item>
-    <item type="id" name="hero_container">false</item>
-    <item type="id" name="tab_bar">false</item>
-    <item type="id" name="play_header_list_tab_scroll">false</item>
-    <item type="id" name="play_header_list_tab_container">false</item>
-    <item type="id" name="tab_bar_title">false</item>
-    <item type="id" name="header_shadow">false</item>
-    <item type="id" name="play_header_toolbar">false</item>
-    <item type="id" name="play_header_banner">false</item>
-    <item type="id" name="container">false</item>
-    <item type="id" name="app_logo">false</item>
-    <item type="id" name="footer">false</item>
-    <item type="id" name="page_indicator">false</item>
+    <item type="id" name="place_autocomplete_search_button">false</item>
+    <item type="id" name="place_autocomplete_search_input">false</item>
+    <item type="id" name="place_autocomplete_clear_button">false</item>
+    <item type="id" name="place_autocomplete_separator">false</item>
+    <item type="id" name="place_autocomplete_powered_by_google">false</item>
+    <item type="id" name="place_autocomplete_progress">false</item>
+    <item type="id" name="place_autocomplete_prediction_primary_text">false</item>
+    <item type="id" name="place_autocomplete_prediction_secondary_text">false</item>
     <item type="id" name="secondary_button">false</item>
-    <item type="id" name="primary_button">false</item>
-    <item type="id" name="drops">false</item>
-    <item type="id" name="background_disk">false</item>
-    <item type="id" name="pager_tab_container">false</item>
+    <item type="id" name="setup_progress">false</item>
+    <item type="id" name="content_parent">false</item>
+    <item type="id" name="loading_progress">false</item>
+    <item type="id" name="button_parent">false</item>
     <item type="id" name="date_range">false</item>
-    <item type="id" name="details">false</item>
     <item type="id" name="amount">false</item>
     <item type="id" name="subtitle">false</item>
+    <item type="id" name="details">false</item>
     <item type="id" name="details_button">false</item>
     <item type="id" name="delayed">false</item>
     <item type="id" name="icon_and_amount">false</item>
@@ -484,22 +516,49 @@
     <item type="id" name="statement_container">false</item>
     <item type="id" name="statement_section_title">false</item>
     <item type="id" name="survey_container">false</item>
-    <item type="id" name="suw_layout_decor">false</item>
+    <item type="id" name="suw_pattern_bg">false</item>
+    <item type="id" name="suw_layout_content">false</item>
+    <item type="id" name="suw_layout_icon">false</item>
     <item type="id" name="suw_layout_title">false</item>
+    <item type="id" name="suw_layout_progress_stub">false</item>
+    <item type="id" name="suw_layout_progress">false</item>
+    <item type="id" name="suw_layout_footer">false</item>
+    <item type="id" name="suw_scroll_view">false</item>
+    <item type="id" name="suw_items_icon_container">false</item>
+    <item type="id" name="suw_items_icon">false</item>
+    <item type="id" name="suw_items_title">false</item>
+    <item type="id" name="suw_items_summary">false</item>
+    <item type="id" name="suw_items_switch">false</item>
+    <item type="id" name="suw_layout_decor">false</item>
     <item type="id" name="suw_layout_navigation_bar">false</item>
     <item type="id" name="suw_navbar_back">false</item>
     <item type="id" name="suw_navbar_more">false</item>
     <item type="id" name="suw_navbar_next">false</item>
-    <item type="id" name="suw_layout_content">false</item>
-    <item type="id" name="suw_layout_progress_stub">false</item>
-    <item type="id" name="suw_layout_progress">false</item>
     <item type="id" name="suw_bottom_scroll_view">false</item>
     <item type="id" name="suw_layout_header">false</item>
+    <item type="id" name="location">false</item>
+    <item type="id" name="location_type">false</item>
+    <item type="id" name="rat">false</item>
+    <item type="id" name="throughput">false</item>
+    <item type="id" name="latency">false</item>
+    <item type="id" name="wifi">false</item>
+    <item type="id" name="data_user_avatar">false</item>
+    <item type="id" name="data_user_name">false</item>
+    <item type="id" name="data_user_allowance">false</item>
+    <item type="id" name="breakdown_allowance">false</item>
+    <item type="id" name="breakdown_cost">false</item>
+    <item type="id" name="circle_chart_image">false</item>
+    <item type="id" name="data_usage_text">false</item>
+    <item type="id" name="days_left_text">false</item>
+    <item type="id" name="logo">false</item>
+    <item type="id" name="sign_in_background">false</item>
+    <item type="id" name="sign_in">false</item>
+    <item type="id" name="logo_wrapper">false</item>
+    <item type="id" name="total_wrapper">false</item>
+    <item type="id" name="total_change">false</item>
+    <item type="id" name="plan_list_title">false</item>
     <item type="id" name="close">false</item>
     <item type="id" name="secret_code_progress_bar">false</item>
-    <item type="id" name="label">false</item>
-    <item type="id" name="edit_text">false</item>
-    <item type="id" name="callout_text">false</item>
-    <item type="id" name="callout_badge">false</item>
+    <item type="id" name="help">false</item>
     <item type="id" name="download">false</item>
 </resources>

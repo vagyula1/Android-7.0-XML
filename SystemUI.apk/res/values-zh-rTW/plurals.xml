@@ -4,6 +4,10 @@
         <item quantity="other">總覽中有 %d 個畫面</item>
         <item quantity="one">總覽中有 1 個畫面</item>
     </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">群組中還有 %s 則通知。</item>
+        <item quantity="one">群組中還有 %s 則通知。</item>
+    </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">SIM 卡的 PIN 碼輸入錯誤，您還可以再試 %d 次。</item>
         <item quantity="one">SIM 卡的 PIN 碼輸入錯誤，您還可以再試 %d 次。如果仍然失敗，就必須請行動通訊業者為裝置解鎖。</item>

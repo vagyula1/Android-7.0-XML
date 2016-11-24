@@ -60,6 +60,18 @@
         <item>4 M erregistroen bufferreko</item>
         <item>16 M erregistroen bufferreko</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desaktibatuta</item>
+        <item>Guztiak</item>
+        <item>Guztiak, irratiarenak izan ezik</item>
+        <item>kernela soilik</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desaktibatuta</item>
+        <item>Erregistroen buffer guztiak</item>
+        <item>Erregistroen buffer guztiak, irratiarenak izan ezik</item>
+        <item>kernelaren erregistroaren bufferra soilik</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animazioa desaktibatuta</item>
         <item>Animazio-eskala: 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Kolore hobetuak</item>
         <item>Kolore naturalak, bizitza errealean bezala</item>
         <item>Eduki digitalerako optimizatutako koloreak</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>% 0</item>
+        <item>% 50</item>
+        <item>% 100</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Orokorra</item>

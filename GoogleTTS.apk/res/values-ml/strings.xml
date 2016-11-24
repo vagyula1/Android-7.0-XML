@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google ടെക്‌സ്‌റ്റ് ടു സ്പീച്ച് എഞ്ചിൻ</string>
+    <string name="general_settings">പൊതു ക്രമീകരണങ്ങൾ</string>
+    <string name="license_activity_title">ഓപ്പൺ സോഴ്‌സ് ലൈസൻസ്</string>
+    <string name="license_activity_loading">ലോഡുചെയ്യുന്നു...</string>
+    <string name="license_activity_unavailable">ലൈസൻസുകൾ ലോഡുചെയ്യുന്നതിൽ ഒരു പ്രശ്നമുണ്ട്.</string>
+    <string name="tts_settings_label">Google TTS ഓപ്‌ഷനുകൾ</string>
+    <string name="voice_data_install_title">Google TTS വോയ്‌സ് ഡാറ്റ</string>
+    <string name="install_data_header">നിങ്ങളുടെ ഉപകരണത്തിൽ ഓഫ്‌ലൈൻ സംഭാഷണ സിന്തസിസ് പിന്തുണയ്‌ക്കാൻ ഈ ഡാറ്റ ഡൗൺലോഡുചെയ്യുക.</string>
+    <string name="download_invite_title">%1$s സംഭാഷണ വോയ്‌സ് ഇൻസ്റ്റാളുചെയ്യുക</string>
+    <string name="download_invite">%1$s ഭാഷയ്‌ക്കായി ഓഫ്‌ലൈൻ ടെക്‌സ്റ്റ്-ടു-സ്‌പീച്ച് പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="install_voice_text_2">ഡൗൺലോഡുചെയ്യാൻ ലഭ്യമാണ്.</string>
+    <string name="download_in_progress">ഡൗൺലോഡ് പുരോഗതിയിലാണ്</string>
+    <string name="no_installable_voices">ഡൗൺലോഡുചെയ്യാനാകുന്ന വോയ്‌സുകളൊന്നുമില്ല</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="delete_voice_data">ഇല്ലാതാക്കുക</string>
+    <string name="update">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="download">ഡൗൺലോഡ്</string>
+    <string name="voice_installed">ഇൻസ്റ്റാളുചെയ്‌തു.</string>
+    <string name="voice_installed_and_default">ഇൻസ്റ്റാളുചെയ്‌ത് സ്ഥിരമായി സജ്ജമാക്കി.</string>
+    <string name="download_notification_title">%1$s ഭാഷയ്‌ക്കുള്ള %2$s</string>
+    <string name="download_notification_description">ടെക്‌സ്റ്റ്-ടു-സ്‌പീച്ചിനായുള്ള വോയ്‌സ് ഡാറ്റ</string>
+    <string name="download_success_title">%1$s ഭാഷയ്‌ക്കായി വോയ്‌സ് ഡാറ്റ ഡൗൺലോഡുചെയ്‌തു</string>
+    <string name="download_success_description">ക്രമീകരണങ്ങൾ സന്ദർശിച്ച് ഈ വോയ്‌സ് സ്ഥിരമാക്കാൻ സ്‌പർശിക്കുക.</string>
+    <string name="download_failure_title">%1$s ഭാഷയ്‌ക്കായി വോയ്‌സ് ഡാറ്റ ഡൗൺലോഡുചെയ്യുന്നതിൽ പിശക്</string>
+    <string name="download_failure_description">വീണ്ടും ശ്രമിക്കാൻ സ്‌പർശിക്കുക.</string>
+    <string name="download_failed_toast">വോയ്‌സ് പായ്‌ക്ക് ഡൗൺലോഡുചെയ്യാനാരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു.</string>
+    <string name="manage_voice_data">വോയ്‌സ് ഡാറ്റ നിയന്ത്രിക്കുക</string>
+    <string name="auto_update_title">ശബ്ദം സ്വയമേവ അപ്‌ഡേറ്റുചെയ്യൂ</string>
+    <string name="auto_update_wifi_title">വൈഫൈ മാത്രം ഉപയോഗിക്കുക</string>
+    <string name="auto_update_wifi_summary">വൈഫൈ മാത്രം ഉപയോഗിച്ച് വോയ്‌സ് ഡാറ്റ ഡൗൺലോഡുചെയ്യുക. ഡാറ്റ ഉപയോഗം മാത്രം സംരക്ഷിക്കുന്നു.</string>
+    <string name="feedback_title">ഫീഡ്‌ബാക്ക്</string>
+    <string name="feedback_failed">ഫീഡ്ബാക്ക് ഫോം തുറക്കാൻ കഴിഞ്ഞില്ല</string>
+    <string name="voices_type_title">ശബ്‌ദ തരങ്ങൾ</string>
+    <string name="voices_type_summary">[DOGFOOD]സംഭാഷണ സിന്തസൈസർ തരം</string>
+    <string name="analytics_title">അജ്ഞാതമാക്കിയ ഉപയോഗ റിപ്പോർട്ടുകൾ</string>
+    <string name="analytics_summary_on">ഓൺ</string>
+    <string name="analytics_summary_off">ഓഫ്</string>
+    <string name="analytics_screen_explanation">"ഈ ഫീച്ചർ ഓണാക്കുമ്പോൾ, ഞങ്ങൾ അജ്ഞാതമാക്കിയ ഉപയോഗ റിപ്പോർട്ടുകൾ ശേഖരിക്കുന്നു. നിങ്ങളുടെ ഉപകരണത്തിൽ Google ടെക്സ്റ്റ്-ടു-സ്പീച്ച് എത്ര നന്നായി പ്രവർത്തിക്കുവെന്ന് മനസ്സിലാക്കുന്നതിന് ഇത് ഞങ്ങളെ സഹായിക്കുന്നു.
+
+ഞങ്ങൾ ശേഖരിക്കുന്ന സംയോജിത വിവരങ്ങളുടെ ഉദാഹരണങ്ങൾ:
+"<li><ul>"എങ്ങനെയാണ് ടെക്സ്റ്റ്-ടു-സ്പീച്ച് ഉപയോഗിക്കുന്നത്.
+"<li>ടെക്സ്റ്റ്-ടു-സ്പീച്ച് അഭ്യർത്ഥനകളുടെ പ്രകടന നിലവാരം.</li>"
+"<li>ഏതൊക്കെ ഭാഷകളാണ് ഉപയോഗിക്കുന്നത്.</li>"
+"<li>സ്പീച്ച് ഔട്ട്‌പുട്ട് നൽകുന്നതിൽ ടെക്സ്റ്റ്-ടു-സ്പീച്ച് എത്ര പ്രാവശ്യം പരാജയപ്പെടുന്നു.</li>"
+"</ul></li></string>
+    <string name="process_text_title">ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ മെനുവിലേക്ക് GoogleTTS എൻട്രി ചേർക്കുക</string>
+    <string name="process_text_summary">തിരഞ്ഞെടുത്ത എന്തെങ്കിലും ടെക്സ്റ്റ് ഈ പുതിയ എൻട്രി സിന്തസൈസ് ചെയ്യും.</string>
+    <string name="voice_pack_status_installed">ഇൻസ്റ്റാളുചെയ്‌തു (%1$s)</string>
+    <string name="voice_pack_status_gender_female">സ്‌ത്രീ</string>
+    <string name="voice_pack_status_gender_male">പുരുഷൻ</string>
+    <string name="voice_entity_status_gender_female">സ്ത്രീ %1$d</string>
+    <string name="voice_entity_status_gender_male">പുരുഷൻ %1$d</string>
+    <string name="voice_entity_status_gender_unknown">തിരിച്ചറിയാനാകാത്ത ലിംഗഭേദം %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">സ്ത്രീ ലെഗസി ശബ്ദം</string>
+    <string name="voice_pack_status_gender_male_legacy">പുരുഷ ലെഗസി ശബ്ദം</string>
+    <string name="voice_pack_status_gender_unknown">അറിയപ്പെടാത്ത ലിംഗഭേദം</string>
+    <string name="voice_pack_status_updatable">അപ്‌ഡേറ്റ് ലഭ്യമാണ്</string>
+    <string name="voice_pack_status_downloadable">ഡൗൺലോഡുചെയ്യുക (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">നിലവിലെ വോയ്‌സ്</string>
+    <string name="voice_pack_status_downloading">ഡൗൺലോഡുചെയ്യുന്നു…</string>
+    <string name="voice_pack_name_high_quality">%1$s (ഉയർന്ന നിലവാരമുള്ളത്)</string>
+    <string name="voice_pack_description">"പേര്: %1$s 
+ഭാഷ: %2$s 
+ഡാറ്റ വലുപ്പം: ~%3$s 
+സംസാരിക്കുന്നയാളുടെ ലിംഗഭേദം: %4$s"</string>
+    <string name="voice_pack_action_download">ഡൗൺലോഡുചെയ്യുക (~%1$s)</string>
+    <string name="voice_pack_action_remove">നീക്കംചെയ്യുക</string>
+    <string name="voice_pack_action_update">അപ്‌ഡേറ്റുചെയ്യുക (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">%1$s ഭാഷയ്‌ക്കായി ഇത് നിലവിലെ വോയ്‌സാക്കുക</string>
+    <string name="voice_pack_action_cancel">ഡൗൺലോഡ് റദ്ദാക്കുക</string>
+    <string name="voice_pack_install_tab_installed">ഇൻസ്റ്റാളുചെയ്‌തു</string>
+    <string name="voice_pack_install_tab_all">എല്ലാം</string>
+    <string name="voice_pack_install_tab_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="voice_entry_details">വോയ്‌സ് വിശദാംശ ഡയലോഗ് സമാരംഭിക്കുക</string>
+    <string name="voice_entry_edit_desc">വോയ്‌സ് പായ്‌ക്ക് തുറക്കുക</string>
+    <string name="voice_entry_overflow_desc">അധിക വോയ്‌സ് പായ്‌ക്ക് പ്രവർത്തനങ്ങൾ</string>
+    <string name="voice_entry_download_desc">വോയ്‌സ് പായ്‌ക്ക് ഡൗൺലോഡുചെയ്യുക</string>
+    <string name="voice_entry_cancel_download_desc">വോയ്‌സ് പായ്‌ക്ക് ഡൗൺലോഡ് റദ്ദാക്കുക</string>
+    <string name="voice_entry_delete_desc">വോയ്‌സ് പായ്‌ക്ക് ഇല്ലാതാക്കുക</string>
+    <string name="voice_entry_sample">വോയ്‌സ് സാമ്പിൾ പ്ലേ ചെയ്യുക</string>
+    <string name="voice_pack_not_enough_space">ആന്തരിക സംഭരണത്തിൽ ആവശ്യമായത്രയും ശൂന്യമായ ഇടമില്ല. ഈ വോയ്‌സ് ഇൻസ്റ്റാളുചെയ്യുന്നതിന് നിങ്ങൾക്ക് ശൂന്യമാക്കിയ കുറച്ച് ഇടം ആവശ്യമായിവരും.</string>
+    <string name="action_settings">ഓപ്ഷനുകള്‍</string>
+    <string name="action_licenses">ഓപ്പൺ സോഴ്‌സ് ലൈസൻസുകൾ</string>
+    <string name="action_voice_pack_update">അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="action_voice_pack_uninstall">അൺഇൻസ്റ്റാൾ</string>
+    <string name="voice_pack_uninstall_dialog">ഈ വോയ്‌സ് അൺഇൻസ്റ്റാളുചെയ്യണോ?</string>
+    <string name="voice_pack_uninstall_keep">സൂക്ഷിക്കുക</string>
+    <string name="voice_pack_uninstall_uninstall">അൺഇൻസ്റ്റാൾ</string>
+    <string name="voice_pack_unpack_failure">ഡൗൺലോഡുചെയ്‌ത വോയ്‌സ് ഇൻസ്റ്റാളുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു</string>
+    <string name="multi_voice_pack_title">%1$s വോയ്‌സുകൾ</string>
+    <string name="multi_voice_pack_entry_name">വോയ്സ് സെറ്റ് %1$d</string>
+    <string name="morphed_voice_set_title">വോയ്സ് സെറ്റ്</string>
+    <string name="select_voice_title">ശബ്ദം തിരഞ്ഞെടുക്കുക</string>
+    <string name="play_sample_text_button_description">%1$s എന്നതിന് സാമ്പിൾ ടെക്സ്റ്റ് പ്ലേ ചെയ്യുക</string>
+    <string name="voice_pack_no_download_manager">ഡൗൺലോഡ് മാനേജർ പ്രവർത്തനരഹിതമാക്കി അല്ലെങ്കിൽ കാണുന്നില്ല; വോയ്‌സ് പായ്ക്ക് ഡൗൺലോഡുചെയ്യാനാകില്ല</string>
+    <string name="unpack_voice_pack_service_title">ടെക്‌സ്റ്റ്-ടു-സ്‌പീച്ച് വിവരം അപ്‌ഡേറ്റുചെയ്യുന്നു</string>
+    <string name="unpack_voice_pack_service_text">അൺപാക്കുചെയ്യുന്നു...</string>
+    <string name="sample_text_synthesis_failure">ഈ ശബ്ദത്തിനായി ഒരു ഉദാഹരണം സിന്തസൈസ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="quick_wait_for_init">ലോഡുചെയ്യുന്നു</string>
+    <string name="quick_synthesizing">സിന്തസൈസ് ചെയ്യുന്നു</string>
+    <string name="quick_speaking">സംസാരിക്കുന്നു</string>
+    <string name="quick_stopped">അവസാനിപ്പിച്ചു</string>
+    <string name="quick_error">പിശക്</string>
+</resources>

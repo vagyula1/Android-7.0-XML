@@ -60,6 +60,18 @@
         <item>4M kada log buffer</item>
         <item>16M kada log buffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Naka-off</item>
+        <item>Lahat</item>
+        <item>Maliban sa radyo</item>
+        <item>kernel lang</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Naka-off</item>
+        <item>Lahat ng buffer ng log</item>
+        <item>Lahat maliban sa buffer ng log ng radyo</item>
+        <item>kernel log buffer lang</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Naka-off ang animation</item>
         <item>Scale ng animation .5x</item>
@@ -159,6 +171,24 @@
         <item>Mga natural na kulay tulad ng nakikita ng mata</item>
         <item>Mga kulay na naka-optimize para sa digital na content</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Tawag</item>
+        <item>System</item>
+        <item>Ipa-ring</item>
+        <item>Media</item>
+        <item>Alarm</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Ipakita ang oras, minuto at segundo</item>
         <item>Ipakita ang oras at minuto (default)</item>
@@ -169,4 +199,5 @@
         <item>Ipakita ang porsyento kapag nagcha-charge (default)</item>
         <item>Huwag ipakita ang icon na ito</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

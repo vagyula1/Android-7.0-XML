@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Doma</item>
+        <item>Dom</item>
         <item>Služba</item>
         <item>Drugo</item>
         <item>Po meri</item>
@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>Dom</item>
-        <item>Mobilni</item>
+        <item>Mobilni telefon</item>
         <item>Služba</item>
         <item>Službeni faks</item>
         <item>Domači faks</item>
@@ -37,14 +37,29 @@
         <item>Drugo</item>
         <item>Po meri</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Če želite klicati ali pošiljati sporočila prek omrežja Wi-Fi, se najprej obrnite na operaterja, da nastavi to storitev. Nato v nastavitvah znova vklopite klicanje prek omrežja Wi-Fi.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registracija pri operaterju</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Klicanje prek Wi-Fi-ja (%s)</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Začetna stran</item>
+        <item>Dom</item>
         <item>Služba</item>
         <item>Drugo</item>
         <item>Po meri</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>prenos podatkov v mobilnih omrežjih</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

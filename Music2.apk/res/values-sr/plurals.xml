@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="NalbumsWordCase">
-        <item quantity="other">%1$d албума</item>
-        <item quantity="one">%1$d албум</item>
-        <item quantity="few">%1$d албума</item>
+        <item quantity="other">%d албума</item>
+        <item quantity="one">%d албум</item>
+        <item quantity="few">%d албума</item>
     </plurals>
     <plurals name="NsongsWordCase">
         <item quantity="other">%1$d песама</item>
@@ -21,24 +21,44 @@
         <item quantity="few">%1$d песме су додате на плејлисту %2$s.</item>
     </plurals>
     <plurals name="NNsong_added">
-        <item quantity="other">Додато је само %1$d песама. Максимум за ред је %2$d песама.</item>
-        <item quantity="one">Додата је само %1$d песма. Максимум за ред је %2$d песама.</item>
-        <item quantity="few">Додате су само %1$d песме. Максимум за ред је %2$d песама.</item>
+        <item quantity="other">Додато је само %1$d песама. Максимум за редослед је %2$d песама.</item>
+        <item quantity="one">Додата је само %1$d песма. Максимум за редослед је %2$d песама.</item>
+        <item quantity="few">Додате су само %1$d песме. Максимум за редослед је %2$d песама.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">Неке од ових песама су већ на овој плејлисти.</item>
+        <item quantity="one">Неке од ових песама су већ на овој плејлисти.</item>
+        <item quantity="few">Неке од ових песама су већ на овој плејлисти.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">Желите ли да додате дупликате песама?</item>
+        <item quantity="one">Желите ли да додате дупликате песама?</item>
+        <item quantity="few">Желите ли да додате дупликате песама?</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%1$d АЛБУМА</item>
-        <item quantity="one">%1$d АЛБУМ</item>
-        <item quantity="few">%1$d АЛБУМА</item>
+        <item quantity="other">%d АЛБУМА</item>
+        <item quantity="one">%d АЛБУМ</item>
+        <item quantity="few">%d АЛБУМА</item>
     </plurals>
     <plurals name="NartistsSelected">
-        <item quantity="other">%1$d извођача је изабрано</item>
-        <item quantity="one">%1$d извођач је изабран</item>
-        <item quantity="few">%1$d извођача су изабрана</item>
+        <item quantity="other">%d извођача је изабрано</item>
+        <item quantity="one">%d извођач је изабран</item>
+        <item quantity="few">%d извођача су изабрана</item>
     </plurals>
     <plurals name="NgenresSelected">
-        <item quantity="other">%1$d жанрова је изабрано</item>
-        <item quantity="one">%1$d жанр је изабран</item>
-        <item quantity="few">%1$d жанра су изабрана</item>
+        <item quantity="other">%d жанрова је изабрано</item>
+        <item quantity="one">%d жанр је изабран</item>
+        <item quantity="few">%d жанра су изабрана</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">%d нових епизода</item>
+        <item quantity="one">%d нова епизода</item>
+        <item quantity="few">%d нове епизоде</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d епизода</item>
+        <item quantity="one">%1$d епизода</item>
+        <item quantity="few">%1$d епизоде</item>
     </plurals>
     <plurals name="Nscrubber_description_hours">
         <item quantity="other">%d сати</item>
@@ -56,13 +76,18 @@
         <item quantity="few">%d секунде</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%1$d песама</item>
-        <item quantity="one">%1$d песма</item>
-        <item quantity="few">%1$d песме</item>
+        <item quantity="other">%d песама</item>
+        <item quantity="one">%d песма</item>
+        <item quantity="few">%d песме</item>
     </plurals>
     <plurals name="Nsongs_removed">
         <item quantity="other">%d песама је уклоњено.</item>
         <item quantity="one">%d песма је уклоњена.</item>
         <item quantity="few">%d песме су уклоњене.</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">До %d чланова</item>
+        <item quantity="one">До %d члана</item>
+        <item quantity="few">До %d члана</item>
     </plurals>
 </resources>

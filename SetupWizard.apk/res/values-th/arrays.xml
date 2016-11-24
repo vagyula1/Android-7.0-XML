@@ -60,6 +60,18 @@
         <item>4 M ต่อบัฟเฟอร์ไฟล์บันทึก</item>
         <item>16 M ต่อบัฟเฟอร์ไฟล์บันทึก</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ปิด</item>
+        <item>ทั้งหมด</item>
+        <item>ทั้งหมดเว้นวิทยุ</item>
+        <item>เฉพาะเคอร์เนล</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ปิด</item>
+        <item>บัฟเฟอร์บันทึกทั้งหมด</item>
+        <item>ทั้งหมดยกเว้นบัฟเฟอร์บันทึกวิทยุ</item>
+        <item>เฉพาะบัฟเฟอร์ไฟล์บันทึกเคอร์เนล</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
         <item>ภาพเคลื่อนไหวขนาด 0.5 เท่า</item>
@@ -158,5 +170,10 @@
         <item>สีที่ได้รับการปรับปรุง</item>
         <item>สีธรรมชาติตามที่ดวงตามองเห็น</item>
         <item>สีที่เหมาะกับเนื้อหาดิจิทัล</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

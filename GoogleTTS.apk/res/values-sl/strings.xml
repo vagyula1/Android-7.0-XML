@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Za delovanje aplikacije morate posodobiti storitve Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikacija %1$s zahteva posodobitev aplikacije Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Za delovanje aplikacije morate omogočiti storitve Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Zahteva aplikacije %1$s</string>
+    <string name="common_google_play_services_install_title">Namestite storitve Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v telefonu.</string>
+    <string name="common_google_play_services_install_text_tablet">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v tabličnem računalniku.</string>
+    <string name="common_google_play_services_install_button">Namestite storitve Google Play</string>
+    <string name="common_google_play_services_enable_title">Omogočite storitve Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+    <string name="common_google_play_services_enable_button">Omogočite storitve Google Play</string>
+    <string name="common_google_play_services_update_title">Posodobite storitve Google Play</string>
+    <string name="common_android_wear_update_title">Posodobitev aplikacije Android Wear</string>
+    <string name="common_google_play_services_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+    <string name="common_android_wear_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite aplikacije Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Storitve Google Play se posodabljajo</string>
+    <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+    <string name="common_google_play_services_network_error_title">Omrežna napaka</string>
+    <string name="common_google_play_services_network_error_text">Za povezavo s storitvami Google Play potrebujete internetno povezavo.</string>
+    <string name="common_google_play_services_invalid_account_title">Neveljaven račun</string>
+    <string name="common_google_play_services_invalid_account_text">V tej napravi ne obstaja navedeni račun. Izberite drugega.</string>
+    <string name="common_google_play_services_unknown_issue">Neznana težava s storitvami Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Storitve Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Aplikacija %1$s potrebuje storitve Google Play, ki jih vaša naprava ne podpira. Za pomoč se obrnite na proizvajalca.</string>
+    <string name="common_google_play_services_update_button">Posodobi</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijavite se v Google</string>
+    <string name="common_open_on_phone">Odpiranje v telefonu</string>
+    <string name="common_google_play_services_api_unavailable_text">Aplikacija %1$s potrebuje eno ali več storitev za Google Play, ki trenutno niso na voljo. Za pomoč se obrnite na razvijalca.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Prijava ni uspela</string>
+    <string name="common_google_play_services_sign_in_failed_text">Napaka pri prijavi v izbran račun. Izberite drug račun.</string>
+    <string name="app_name">Googlov mehanizem za pretvorbo besedila v govor</string>
+    <string name="general_settings">Splošne nastavitve</string>
+    <string name="license_activity_title">Odprtokodne licence</string>
+    <string name="license_activity_loading">Nalaganje ...</string>
+    <string name="license_activity_unavailable">Težava pri nalaganju licenc.</string>
+    <string name="tts_settings_label">Možnosti pretvorbe besedila v govor</string>
+    <string name="voice_data_install_title">Glas. podatki za Googlovo pretvorbo besed. v govor</string>
+    <string name="install_data_header">Prenesite te podatke, da v tej napravi podprete sintezo govora brez povezave.</string>
+    <string name="download_invite_title">Namestite govor v jeziku %1$s</string>
+    <string name="download_invite">Omogočanje pretvorbe besedila v govor brez povezave za jezik %1$s</string>
+    <string name="install_voice_text_2">Na voljo za prenos.</string>
+    <string name="download_in_progress">Prenos poteka</string>
+    <string name="no_installable_voices">Ni glasov za prenos</string>
+    <string name="cancel">Prekliči</string>
+    <string name="delete_voice_data">Izbriši</string>
+    <string name="update">Posodobi</string>
+    <string name="download">Prenesi</string>
+    <string name="voice_installed">Nameščeno.</string>
+    <string name="voice_installed_and_default">Nameščeno in nastavljeno kot privzeto.</string>
+    <string name="download_notification_title">%2$s – jezik: %1$s</string>
+    <string name="download_notification_description">Glasovni podatki za pretvorbo besedila v govor</string>
+    <string name="download_success_title">Končan prenos glasovnih podatkov za %1$s</string>
+    <string name="download_success_description">Dotaknite se, da odprete nastavitve in nastavite ta glas za privzet.</string>
+    <string name="download_failure_title">Napaka pri prenosu glasovnih podatkov za %1$s</string>
+    <string name="download_failure_description">Dotaknite se, da poskusite znova.</string>
+    <string name="download_failed_toast">Prenosa glasovnega paketa ni bilo mogoče začeti.</string>
+    <string name="manage_voice_data">Upravljanje glasovnih podatkov</string>
+    <string name="auto_update_title">Samodejno posodabljanje glasov</string>
+    <string name="auto_update_wifi_title">Samo prek omrežja Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Prenos podatkov glasov samo prek omrežja Wi-Fi. S tem prihranite pri porabi podatkov.</string>
+    <string name="feedback_title">Povratne informacije</string>
+    <string name="feedback_failed">Obrazca za povratne informacije ni bilo mogoče odpreti</string>
+    <string name="voices_type_title">Vrsta glasov</string>
+    <string name="voices_type_summary">[PRESKUSNA INTERNA UPORABA]Vrsta sintetizatorja govora</string>
+    <string name="analytics_title">Anonimna poročila o uporabi</string>
+    <string name="analytics_summary_on">Vklopljeno</string>
+    <string name="analytics_summary_off">Izklopljeno</string>
+    <string name="analytics_screen_explanation">"Če je ta funkcija vklopljena, zbiramo anonimna poročila o uporabi. S tem si pomagamo pri razumevanju delovanja Googlove Pretvorbe besedila v govor v vaši napravi.
+
+Primeri združenih meritev, ki jih zbiramo:
+"<li><ul>"Kako pogosto se uporablja pretvorba besedila v govor.
+"<li>Delovanje zahtev za pretvorbo besedila v govor.</li>"
+"<li>Kateri jeziki se uporabljajo.</li>"
+"<li>Kako pogosto pretvorbi besedila v govor ne uspe zagotoviti govornega izhoda.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Dodajanje vnosa za TTS v meni za izbiro besedila</string>
+    <string name="process_text_summary">Novi vnos bo sintetiziral katero koli izbrano besedilo.</string>
+    <string name="voice_pack_status_installed">Nameščeno (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Ženski</string>
+    <string name="voice_pack_status_gender_male">Moški</string>
+    <string name="voice_entity_status_gender_female">Ženski %1$d</string>
+    <string name="voice_entity_status_gender_male">Moški %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Neznan spol %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Ženski starejši glas</string>
+    <string name="voice_pack_status_gender_male_legacy">Moški starejši glas</string>
+    <string name="voice_pack_status_gender_unknown">Neznan spol</string>
+    <string name="voice_pack_status_updatable">Na voljo je posodobitev</string>
+    <string name="voice_pack_status_downloadable">Prenos (~ %1$s)</string>
+    <string name="voice_pack_status_locale_default">Trenutni glas</string>
+    <string name="voice_pack_status_downloading">Prenos …</string>
+    <string name="voice_pack_name_high_quality">%1$s (visoka kakovost)</string>
+    <string name="voice_pack_description">"Ime: %1$s 
+Jezik: %2$s 
+Velikost podatkov: ~ %3$s 
+Spol govorca: %4$s"</string>
+    <string name="voice_pack_action_download">Prenos (~ %1$s)</string>
+    <string name="voice_pack_action_remove">Odstrani</string>
+    <string name="voice_pack_action_update">Posodobi (~ %1$s)</string>
+    <string name="voice_pack_action_locale_default">To naj bo trenutni glas za ta jezik: %1$s</string>
+    <string name="voice_pack_action_cancel">Prekliči prenos</string>
+    <string name="voice_pack_install_tab_installed">NAMEŠČENO</string>
+    <string name="voice_pack_install_tab_all">VSE</string>
+    <string name="voice_pack_install_tab_settings">NASTAVITVE</string>
+    <string name="voice_entry_details">Odpri pogovorno okno s podrobnostmi glasu</string>
+    <string name="voice_entry_edit_desc">Odpiranje glasovnega paketa</string>
+    <string name="voice_entry_overflow_desc">Dodatna dejanja za glasovni paket</string>
+    <string name="voice_entry_download_desc">Prenos glasovnega paketa</string>
+    <string name="voice_entry_cancel_download_desc">Preklic prenosa glasovnega paketa</string>
+    <string name="voice_entry_delete_desc">Izbris glasovnega paketa</string>
+    <string name="voice_entry_sample">Predvajaj vzorec glasu</string>
+    <string name="voice_pack_not_enough_space">V notranjem pomnilniku ni dovolj prostora. Če želite namestiti ta glas, boste morali sprostiti nekaj prostora.</string>
+    <string name="action_settings">Možnosti</string>
+    <string name="action_licenses">Odprtokodne licence</string>
+    <string name="action_voice_pack_update">Posodobi</string>
+    <string name="action_voice_pack_uninstall">Odstrani</string>
+    <string name="voice_pack_uninstall_dialog">Želite odstraniti glas?</string>
+    <string name="voice_pack_uninstall_keep">Ohrani</string>
+    <string name="voice_pack_uninstall_uninstall">Odstrani</string>
+    <string name="voice_pack_unpack_failure">Namestitev prenesenega glasu ni uspela</string>
+    <string name="multi_voice_pack_title">Glasovi: %1$s</string>
+    <string name="multi_voice_pack_entry_name">Glasovni niz %1$d</string>
+    <string name="morphed_voice_set_title">Glasovni niz</string>
+    <string name="select_voice_title">Izbira glasu</string>
+    <string name="play_sample_text_button_description">Predvajaj vzorčno besedilo za ta glas: %1$s</string>
+    <string name="voice_pack_no_download_manager">Upravitelj prenosov je onemogočen ali manjka; glasovnega paketa ni mogoče prenesti.</string>
+    <string name="unpack_voice_pack_service_title">Posodabljanje podatkov za pretvorbo besedila v govor</string>
+    <string name="unpack_voice_pack_service_text">Odpakiranje …</string>
+    <string name="sample_text_synthesis_failure">Primera za ta glas ni bilo mogoče sintetizirati.</string>
+    <string name="quick_wait_for_init">Nalaganje</string>
+    <string name="quick_synthesizing">Sintetiziranje</string>
+    <string name="quick_speaking">Govor</string>
+    <string name="quick_stopped">Ustavljeno</string>
+    <string name="quick_error">Napaka</string>
+</resources>

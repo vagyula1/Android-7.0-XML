@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">他%d人</item>
+        <item quantity="one">他1人</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">ゴミ箱に移動すると、次の場所からも削除されます:</item>
+        <item quantity="one">ゴミ箱に移動すると、次の場所からも削除されます:</item>
+    </plurals>
+    <plurals name="delete_on_device_title">
+        <item quantity="other">端末上のファイルを削除しますか？</item>
+        <item quantity="one">端末上のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d 分</item>
+        <item quantity="zero">0 分</item>
+        <item quantity="one">1 分</item>
+        <item quantity="two">2 分</item>
+        <item quantity="few">%1$d 分</item>
+        <item quantity="many">%1$d 分</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="zero">0 秒</item>
+        <item quantity="one">1 秒</item>
+        <item quantity="two">2 秒</item>
+        <item quantity="few">%1$d 秒</item>
+        <item quantity="many">%1$d 秒</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">サイズが大きすぎるため端末のゴミ箱に移動できません。ファイルを削除すると、そのファイルは端末やアカウントから完全に削除されます。</item>
+        <item quantity="one">サイズが大きすぎるため端末のゴミ箱に移動できません。ファイルを削除すると、そのファイルは端末やアカウントから完全に削除されます。</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d個のファイルをスキャンしました</item>
+        <item quantity="one">%1$d個のファイルをスキャンしました</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d個のファイルを選択しました</item>
+        <item quantity="one">%1$d個のファイルを選択しました</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">%1$d本の動画をスキャンできませんでした。</item>
+        <item quantity="zero">%1$d本の動画をスキャンできませんでした。</item>
+        <item quantity="one">%1$d本の動画をスキャンできませんでした。</item>
+        <item quantity="two">%1$d本の動画をスキャンできませんでした。</item>
+        <item quantity="few">%1$d本の動画をスキャンできませんでした。</item>
+        <item quantity="many">%1$d本の動画をスキャンできませんでした。</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d 分</item>
+        <item quantity="zero">%1$d 分</item>
+        <item quantity="one">%1$d 分</item>
+        <item quantity="two">%1$d 分</item>
+        <item quantity="few">%1$d 分</item>
+        <item quantity="many">%1$d 分</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d個を選択済み</item>
+        <item quantity="zero">%1$d個を選択済み</item>
+        <item quantity="one">%1$d個を選択済み</item>
+        <item quantity="two">%1$d個を選択済み</item>
+        <item quantity="few">%1$d個を選択済み</item>
+        <item quantity="many">%1$d個を選択済み</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="zero">%1$d 秒</item>
+        <item quantity="one">%1$d 秒</item>
+        <item quantity="two">%1$d 秒</item>
+        <item quantity="few">%1$d 秒</item>
+        <item quantity="many">%1$d 秒</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">指定の動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+        <item quantity="zero">指定の動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+        <item quantity="one">この動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+        <item quantity="two">指定の動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+        <item quantity="few">指定の動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+        <item quantity="many">指定の動画は使用できません。短すぎるか、サポートされていない形式です。</item>
+    </plurals>
+    <plurals name="moved_to_trash_undo_text">
+        <item quantity="other">%d個をゴミ箱に移動しました</item>
+        <item quantity="one">ゴミ箱に移動しました</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">コメント%d件</item>
+        <item quantity="one">コメント%d件</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">%d 個をアルバムから削除しています…</item>
+        <item quantity="one">%d 個をアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d 件の場所を追加しました</item>
+        <item quantity="one">%d 件の場所を追加しました</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d 件の場所</item>
+        <item quantity="one">%d 件の場所</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d 個の地図</item>
+        <item quantity="one">%d 個の地図</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d 個の地図を追加しました</item>
+        <item quantity="one">%d 個の地図を追加しました</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ファイルをこのアルバムから削除しています…</item>
+        <item quantity="one">ファイルをこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">ファイル %d 個をアルバムから削除しました</item>
+        <item quantity="one">ファイル %d 個をアルバムから削除しました</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">写真をこのアルバムから削除しています…</item>
+        <item quantity="one">写真をこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">動画をこのアルバムから削除しています…</item>
+        <item quantity="one">動画をこのアルバムから削除しています…</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">端末上のファイルを削除しますか？</item>
+        <item quantity="one">端末上のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">これらのファイルはフォトライブラリにバックアップされていないため、端末から削除するとフォトから完全に削除されます</item>
+        <item quantity="one">このファイルはフォトライブラリにバックアップされていないため、端末から削除するとフォトから完全に削除されます</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_items_left">
+        <item quantity="other">残り %d 個</item>
+        <item quantity="one">残り %d 個</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_photos_to_back_up">
+        <item quantity="other">%d 個がバックアップ待ちです</item>
+        <item quantity="one">%d 個がバックアップ待ちです</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">バックアップされていない写真が %1$d 枚あります</item>
+        <item quantity="one">バックアップされていない写真が %1$d 枚あります</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d 枚の写真すべて</item>
+        <item quantity="one">写真 %d 枚</item>
+    </plurals>
+    <plurals name="photos_collectionlist_album_items_count">
+        <item quantity="other">%1$d個のファイル</item>
+        <item quantity="one">1個のファイル</item>
+    </plurals>
+    <plurals name="photos_collectionlist_story_moments_count">
+        <item quantity="other">%1$d件のコンテンツ</item>
+        <item quantity="one">1件のコンテンツ</item>
+    </plurals>
+    <plurals name="photos_comments_ui_album_comment_badge_content_desc">
+        <item quantity="other">このアルバムのコメント %d 件</item>
+        <item quantity="one">このアルバムのコメント %d 件</item>
+    </plurals>
+    <plurals name="photos_create_album_subtitle_items">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">アルバムに追加できるファイルは %d 個までです。</item>
+        <item quantity="one">アルバムに追加できるファイルは %d 個までです。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">選択できるのは %d 個までです。</item>
+        <item quantity="one">選択できるのは %d 個までです。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">%d 個以上選択してください。</item>
+        <item quantity="one">%d 個以上選択してください。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d 日間の範囲からファイルを選択してください。</item>
+        <item quantity="one">%d 日間の範囲からファイルを選択してください。</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">ファイル %d 個をアルバムに追加しています…</item>
+        <item quantity="one">ファイル %d 個をアルバムに追加しています…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">ファイル %d 個をアルバムに追加しました。</item>
+        <item quantity="one">ファイル %d 個をアルバムに追加しました。</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d 時間</item>
+        <item quantity="one">%d 時間</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d 週間</item>
+        <item quantity="one">%d 週間</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">%d 分</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d 日</item>
+        <item quantity="one">%d 日</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$d 個のファイルを削除しますか？</item>
+        <item quantity="one">%1$d 個のファイルを削除しますか？</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d 個の元の写真と動画を削除しています</item>
+        <item quantity="one">%1$d 個の元の写真や動画を削除しています</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d枚の新しいカード</item>
+        <item quantity="one">1枚の新しいカード</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ファイルをライブラリに保存しています…</item>
+        <item quantity="one">ファイルをライブラリに保存しています…</item>
+    </plurals>
+    <plurals name="photos_envelope_suggest_banner_related_photos_found">
+        <item quantity="other">関連写真が %d 枚見つかりました。追加しますか？</item>
+        <item quantity="one">関連写真が %d 枚見つかりました。追加しますか？</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">フォルダとその中のファイル %d 個の削除</item>
+        <item quantity="one">フォルダとその中のファイル %d 個の削除</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">ファイル %d 個をコピーできませんでした</item>
+        <item quantity="one">ファイル %d 個をコピーできませんでした</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">ファイル %d 個をコピーしました</item>
+        <item quantity="one">ファイル %d 個をコピーしました</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">ファイル %d 個を移動できませんでした</item>
+        <item quantity="one">ファイル %d 個を移動できませんでした</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">ファイル %d 個を移動しました</item>
+        <item quantity="one">ファイル %d 個を移動しました</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d 個のファイルを選択中</item>
+        <item quantity="one">%1$d 個のファイルを選択中</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d 個を選択しました</item>
+        <item quantity="one">%d 個を選択しました</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">%1$d 個の写真または動画を削除できませんでした</item>
+        <item quantity="one">写真または動画を削除できませんでした</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">写真や動画を%1$d個削除しています…</item>
+        <item quantity="one">写真や動画を削除しています…</item>
+    </plurals>
+    <plurals name="photos_share_add_recipients_progress">
+        <item quantity="other">写真を送信しています…</item>
+        <item quantity="one">写真を送信しています…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d 個のファイルをアルバムに追加しました</item>
+        <item quantity="one">%d 個のファイルをアルバムに追加しました</item>
+    </plurals>
+    <plurals name="photos_share_handler_photos_shared">
+        <item quantity="other">写真を共有しました</item>
+        <item quantity="one">写真を共有しました</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s、他 %2$d 人</item>
+        <item quantity="one">%1$s、他 %2$d 人</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_title">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ファイルを削除できません</item>
+        <item quantity="one">ファイルを削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">端末上のファイルを削除できません</item>
+        <item quantity="one">端末上のファイルを削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">端末上のファイルを削除しました</item>
+        <item quantity="one">端末上のファイルを削除しました</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">ファイル %d 個を削除できません</item>
+        <item quantity="one">ファイル %d 個を削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">ファイル %d 個を完全に削除できません</item>
+        <item quantity="one">ファイル %d 個を完全に削除できません</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">完全に削除しています…</item>
+        <item quantity="one">完全に削除しています…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">ファイル %d 個を完全に削除しました</item>
+        <item quantity="one">ファイル %d 個を完全に削除しました</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">復元しています…</item>
+        <item quantity="one">復元しています…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">ファイル %d 個を復元できません</item>
+        <item quantity="one">ファイル %d 個を復元できません</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">ファイル %d 個をゴミ箱から復元しました</item>
+        <item quantity="one">ファイル %d 個をゴミ箱から復元しました</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ファイルを完全に削除しますか？</item>
+        <item quantity="one">ファイルを完全に削除しますか？</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">ゴミ箱から削除すると元に戻せません</item>
+        <item quantity="one">ゴミ箱から削除すると元に戻せません</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">削除しますか？</item>
+        <item quantity="one">削除しますか？</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d個のファイルが完全に削除されます</item>
+        <item quantity="one">1個のファイルが完全に削除されます</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">このバージョンのGoogleフォトは後%d日で有効期限が終了します。引き続きご利用いただくにはアップデートしてください。</item>
+        <item quantity="one">このバージョンのGoogleフォトは後1日で有効期限が終了します。引き続きご利用いただくにはアップデートしてください。</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">これらのコンテンツのバックアップには %s ほど使用します。通信をスムーズに行うには Wi-Fi に接続してください。</item>
+        <item quantity="one">このコンテンツのバックアップには %s ほど使用します。通信をスムーズに行うには Wi-Fi に接続してください。</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">モバイルデータ通信の一部がバックアップに使われます。通信をスムーズに行うには Wi-Fi に接続してください。</item>
+        <item quantity="one">モバイルデータ通信の一部がバックアップに使われます。通信をスムーズに行うには Wi-Fi に接続してください。</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">ファイル %d 個</item>
+        <item quantity="one">ファイル %d 個</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s枚の写真</item>
+        <item quantity="one">%s枚の写真</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s個の項目</item>
+        <item quantity="one">%s個の項目</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s本の動画</item>
+        <item quantity="one">%s本の動画</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">写真を選択</item>
+        <item quantity="one">写真を選択</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">ファイルを選択</item>
+        <item quantity="one">ファイルを選択</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">動画を選択</item>
+        <item quantity="one">動画を選択</item>
+    </plurals>
+    <plurals name="story_element_picker_tooltip">
+        <item quantity="other">コンテンツを選択（%d 件）</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="story_warning_hit_min_photos">
+        <item quantity="other">ストーリー作成には写真が %1$d 枚以上必要です。</item>
+        <item quantity="one">ストーリー作成には写真が %1$d 枚以上必要です。</item>
+    </plurals>
+    <plurals name="story_warning_too_few_photos">
+        <item quantity="other">ストーリーで使う写真を %1$d 枚以上選択してください。</item>
+        <item quantity="one">ストーリーで使う写真を %1$d 枚以上選択してください。</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">端末のゴミ箱がいっぱいです。ファイルを削除すると、そのファイルは端末やアカウントから完全に削除されます。</item>
+        <item quantity="one">端末のゴミ箱がいっぱいです。ファイルを削除すると、そのファイルは端末やアカウントから完全に削除されます。</item>
+    </plurals>
+</resources>

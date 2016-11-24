@@ -60,6 +60,18 @@
         <item>4M प्रति लॉग बफ़र</item>
         <item>16M प्रति लॉग बफ़र</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>बंद</item>
+        <item>सभी</item>
+        <item>रेडियो छोड़कर सभी</item>
+        <item>केवल कर्नल</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>बंद</item>
+        <item>सभी लॉग बफ़र</item>
+        <item>रेडियो लॉग बफ़र को छोड़कर सभी</item>
+        <item>केवल कर्नल लॉग बफ़र</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>एनिमेशन बंद</item>
         <item>एनिमेशन स्‍केल .5x</item>
@@ -158,5 +170,10 @@
         <item>बेहतर रंग</item>
         <item>आंखों को दिखाई देने वाले प्राकृतिक रंग</item>
         <item>डिजिटल सामग्री के लिए ऑप्टिमाइज़़ किए गए रंग</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

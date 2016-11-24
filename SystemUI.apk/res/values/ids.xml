@@ -69,10 +69,11 @@
     <item type="id" name="image_icon_tag" />
     <item type="id" name="contains_transformed_view" />
     <item type="id" name="is_clicked_heads_up_tag" />
-    <item type="id" name="action_move_left" />
-    <item type="id" name="action_move_right" />
-    <item type="id" name="action_move_up" />
-    <item type="id" name="action_move_down" />
+    <item type="id" name="action_move_tl_full" />
+    <item type="id" name="action_move_tl_70" />
+    <item type="id" name="action_move_tl_50" />
+    <item type="id" name="action_move_tl_30" />
+    <item type="id" name="action_move_rb_full" />
     <item type="id" name="action_bar_title">false</item>
     <item type="id" name="action_bar_subtitle">false</item>
     <item type="id" name="action_mode_close_button">false</item>
@@ -129,9 +130,7 @@
     <item type="id" name="charge_and_estimation">false</item>
     <item type="id" name="battery_usage">false</item>
     <item type="id" name="switch_container">false</item>
-    <item type="id" name="r_group">false</item>
-    <item type="id" name="g_group">false</item>
-    <item type="id" name="b_group">false</item>
+    <item type="id" name="brightness_mirror">false</item>
     <item type="id" name="user_avatar">false</item>
     <item type="id" name="user_name">false</item>
     <item type="id" name="user_grid">false</item>
@@ -146,15 +145,17 @@
     <item type="id" name="usage_period_text">false</item>
     <item type="id" name="usage_info_bottom_text">false</item>
     <item type="id" name="docked_divider_background">false</item>
+    <item type="id" name="minimized_dock_shadow">false</item>
     <item type="id" name="docked_divider_handle">false</item>
     <item type="id" name="tile_item">false</item>
+    <item type="id" name="emergency_cryptkeeper_text">false</item>
     <item type="id" name="global_screenshot_background">false</item>
     <item type="id" name="global_screenshot">false</item>
     <item type="id" name="global_screenshot_flash">false</item>
     <item type="id" name="global_screenshot_selector">false</item>
     <item type="id" name="notification_title">false</item>
     <item type="id" name="notification_text">false</item>
-    <item type="id" name="keyboard_shortcuts_keyword_wrapper">false</item>
+    <item type="id" name="keyboard_shortcuts_icon">false</item>
     <item type="id" name="keyboard_shortcuts_keyword">false</item>
     <item type="id" name="keyboard_shortcuts_item_container">false</item>
     <item type="id" name="keyboard_shortcuts_scroll_view">false</item>
@@ -244,19 +245,21 @@
     <item type="id" name="details_overview_right_panel">false</item>
     <item type="id" name="details_overview_description">false</item>
     <item type="id" name="details_overview_actions">false</item>
+    <item type="id" name="row_header">false</item>
     <item type="id" name="error_frame">false</item>
     <item type="id" name="message">false</item>
     <item type="id" name="details_root">false</item>
     <item type="id" name="details_overview_actions_background">false</item>
     <item type="id" name="guidance_container">false</item>
     <item type="id" name="guidance_icon">false</item>
-    <item type="id" name="guidance_title">false</item>
     <item type="id" name="guidance_breadcrumb">false</item>
+    <item type="id" name="guidance_title">false</item>
     <item type="id" name="guidance_description">false</item>
     <item type="id" name="guidedactions_root">false</item>
     <item type="id" name="guidedactions_list_background">false</item>
     <item type="id" name="guidedactions_content">false</item>
     <item type="id" name="guidedactions_list">false</item>
+    <item type="id" name="guidedactions_sub_list_background">false</item>
     <item type="id" name="guidedactions_sub_list">false</item>
     <item type="id" name="guidedactions_item_icon">false</item>
     <item type="id" name="guidedactions_item_title">false</item>
@@ -277,7 +280,6 @@
     <item type="id" name="action_fragment_root">false</item>
     <item type="id" name="action_fragment_background">false</item>
     <item type="id" name="action_fragment">false</item>
-    <item type="id" name="row_header">false</item>
     <item type="id" name="browse_headers_root">false</item>
     <item type="id" name="browse_headers">false</item>
     <item type="id" name="fade_out_edge">false</item>
@@ -289,6 +291,10 @@
     <item type="id" name="row_content">false</item>
     <item type="id" name="hovercard_panel">false</item>
     <item type="id" name="description">false</item>
+    <item type="id" name="initial">false</item>
+    <item type="id" name="paused">false</item>
+    <item type="id" name="playing">false</item>
+    <item type="id" name="mediaListHeader">false</item>
     <item type="id" name="onboarding_fragment_root">false</item>
     <item type="id" name="background_container">false</item>
     <item type="id" name="page_container">false</item>
@@ -314,7 +320,20 @@
     <item type="id" name="controls_dock">false</item>
     <item type="id" name="secondary_controls_dock">false</item>
     <item type="id" name="bottom_spacer">false</item>
+    <item type="id" name="bar1">false</item>
+    <item type="id" name="bar2">false</item>
+    <item type="id" name="bar3">false</item>
     <item type="id" name="lb_row_container_header_dock">false</item>
+    <item type="id" name="mediaRowSeparator">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="mediaRowSelector">false</item>
+    <item type="id" name="mediaItemRow">false</item>
+    <item type="id" name="mediaItemDetails">false</item>
+    <item type="id" name="mediaItemNumberViewFlipper">false</item>
+    <item type="id" name="mediaItemName">false</item>
+    <item type="id" name="mediaItemDuration">false</item>
+    <item type="id" name="mediaItemActionsContainer">false</item>
+    <item type="id" name="actionIcon">false</item>
     <item type="id" name="container_list">false</item>
     <item type="id" name="lb_search_bar_speech_orb">false</item>
     <item type="id" name="lb_search_bar_items">false</item>
@@ -358,6 +377,9 @@
     <item type="id" name="ends_group">false</item>
     <item type="id" name="center_group">false</item>
     <item type="id" name="deadzone">false</item>
+    <item type="id" name="action_container">false</item>
+    <item type="id" name="action_image">false</item>
+    <item type="id" name="action_text">false</item>
     <item type="id" name="notification_more_divider">false</item>
     <item type="id" name="notification_guts">false</item>
     <item type="id" name="notification_guts_header">false</item>
@@ -368,10 +390,10 @@
     <item type="id" name="silent_importance">false</item>
     <item type="id" name="block_importance">false</item>
     <item type="id" name="reset_importance">false</item>
+    <item type="id" name="cant_silence_or_block">false</item>
     <item type="id" name="importance_slider">false</item>
     <item type="id" name="summary">false</item>
-    <item type="id" name="low_importance">false</item>
-    <item type="id" name="max_importance">false</item>
+    <item type="id" name="auto_importance">false</item>
     <item type="id" name="more_settings">false</item>
     <item type="id" name="done">false</item>
     <item type="id" name="notification_icon_area_inner">false</item>
@@ -383,9 +405,16 @@
     <item type="id" name="status_bar_latest_event_content">false</item>
     <item type="id" name="media_actions">false</item>
     <item type="id" name="action_divider">false</item>
-    <item type="id" name="line1">false</item>
+    <item type="id" name="notification_main_column_container">false</item>
+    <item type="id" name="notification_main_column">false</item>
+    <item type="id" name="right_side">false</item>
     <item type="id" name="time">false</item>
     <item type="id" name="chronometer">false</item>
+    <item type="id" name="right_icon">false</item>
+    <item type="id" name="notification_background">false</item>
+    <item type="id" name="actions">false</item>
+    <item type="id" name="icon_group">false</item>
+    <item type="id" name="line1">false</item>
     <item type="id" name="text2">false</item>
     <item type="id" name="line3">false</item>
     <item type="id" name="text">false</item>
@@ -397,9 +426,9 @@
     <item type="id" name="widget_icon">false</item>
     <item type="id" name="switchWidget">false</item>
     <item type="id" name="empty_text">false</item>
+    <item type="id" name="nav_bar_background">false</item>
     <item type="id" name="qs_detail_header">false</item>
     <item type="id" name="qs_detail_header_progress">false</item>
-    <item type="id" name="min_height_spacer">false</item>
     <item type="id" name="tile_page">false</item>
     <item type="id" name="page_decor">false</item>
     <item type="id" name="quick_settings_container">false</item>
@@ -419,22 +448,22 @@
     <item type="id" name="expand_indicator">false</item>
     <item type="id" name="header_emergency_calls_only">false</item>
     <item type="id" name="date_time_alarm_group">false</item>
-    <item type="id" name="date_time_group">false</item>
-    <item type="id" name="date">false</item>
-    <item type="id" name="alarm_status_collapsed">false</item>
     <item type="id" name="quick_qs_panel">false</item>
+    <item type="id" name="date_time_group">false</item>
     <item type="id" name="header_debug_info">false</item>
     <item type="id" name="recent_apps">false</item>
     <item type="id" name="recents_view">false</item>
+    <item type="id" name="incompatible_app_overlay_stub">false</item>
+    <item type="id" name="incompatible_app_overlay">false</item>
     <item type="id" name="nav_bar_scrim">false</item>
     <item type="id" name="task_list">false</item>
     <item type="id" name="pip">false</item>
-    <item type="id" name="task_view_content">false</item>
+    <item type="id" name="dismiss_placeholder">false</item>
     <item type="id" name="task_view_thumbnail">false</item>
     <item type="id" name="lock_to_app_fab">false</item>
+    <item type="id" name="incompatible_app_toast_stub">false</item>
+    <item type="id" name="incompatible_app_toast">false</item>
     <item type="id" name="task_view_bar">false</item>
-    <item type="id" name="title_container">false</item>
-    <item type="id" name="sub_title">false</item>
     <item type="id" name="move_task">false</item>
     <item type="id" name="dismiss_task">false</item>
     <item type="id" name="focus_timer_indicator_stub">false</item>
@@ -443,13 +472,12 @@
     <item type="id" name="app_overlay">false</item>
     <item type="id" name="app_title">false</item>
     <item type="id" name="app_info">false</item>
-    <item type="id" name="recents_tv_card">false</item>
     <item type="id" name="card_info_field">false</item>
     <item type="id" name="card_extra_badge">false</item>
     <item type="id" name="card_title_text">false</item>
     <item type="id" name="card_view_thumbnail">false</item>
-    <item type="id" name="card_dismiss">false</item>
-    <item type="id" name="card_dismiss_icon">false</item>
+    <item type="id" name="card_view_banner_icon">false</item>
+    <item type="id" name="dismiss_icon">false</item>
     <item type="id" name="card_dismiss_text">false</item>
     <item type="id" name="remember">false</item>
     <item type="id" name="remote_input">false</item>
@@ -457,6 +485,7 @@
     <item type="id" name="remote_input_send">false</item>
     <item type="id" name="remote_input_progress">false</item>
     <item type="id" name="restricted_icon">false</item>
+    <item type="id" name="additional_summary">false</item>
     <item type="id" name="screen_pinning_buttons">false</item>
     <item type="id" name="screen_pinning_back_group">false</item>
     <item type="id" name="screen_pinning_back_bg_light">false</item>
@@ -470,8 +499,10 @@
     <item type="id" name="screen_pinning_cancel_button">false</item>
     <item type="id" name="drawer_layout">false</item>
     <item type="id" name="content_parent">false</item>
+    <item type="id" name="content_header_container">false</item>
     <item type="id" name="left_drawer">false</item>
     <item type="id" name="shelf_menu_anchor_anchor">false</item>
+    <item type="id" name="signal_cluster">false</item>
     <item type="id" name="vpn">false</item>
     <item type="id" name="ethernet_combo">false</item>
     <item type="id" name="ethernet">false</item>
@@ -494,15 +525,15 @@
     <item type="id" name="status_bar_contents">false</item>
     <item type="id" name="notification_icon_area">false</item>
     <item type="id" name="system_icon_area">false</item>
+    <item type="id" name="alarm_status_collapsed">false</item>
+    <item type="id" name="date">false</item>
     <item type="id" name="notification_panel">false</item>
     <item type="id" name="notification_container_parent">false</item>
-    <item type="id" name="qs_density_container">false</item>
+    <item type="id" name="qs_auto_reinflate_container">false</item>
     <item type="id" name="notification_stack_scroller">false</item>
     <item type="id" name="keyguard_user_switcher">false</item>
+    <item type="id" name="report_rejected_touch">false</item>
     <item type="id" name="qs_navbar_scrim">false</item>
-    <item type="id" name="date_group">false</item>
-    <item type="id" name="date_collapsed">false</item>
-    <item type="id" name="date_expanded">false</item>
     <item type="id" name="no_notifications">false</item>
     <item type="id" name="dismiss_text">false</item>
     <item type="id" name="backgroundNormal">false</item>
@@ -527,34 +558,27 @@
     <item type="id" name="backdrop_front">false</item>
     <item type="id" name="scrim_behind">false</item>
     <item type="id" name="heads_up_scrim">false</item>
-    <item type="id" name="brightness_mirror">false</item>
     <item type="id" name="fullscreen_user_switcher_stub">false</item>
     <item type="id" name="scrim_in_front">false</item>
     <item type="id" name="switch_bar">false</item>
     <item type="id" name="switch_text">false</item>
     <item type="id" name="system_icons">false</item>
     <item type="id" name="statusIcons">false</item>
-    <item type="id" name="signal_cluster">false</item>
     <item type="id" name="battery">false</item>
-    <item type="id" name="tile_grid">false</item>
-    <item type="id" name="all_details">false</item>
-    <item type="id" name="remove_target">false</item>
-    <item type="id" name="add_target">false</item>
     <item type="id" name="tuner_zen_mode_panel">false</item>
     <item type="id" name="zen_embedded_divider">false</item>
     <item type="id" name="tuner_zen_switch">false</item>
     <item type="id" name="tuner_zen_buttons">false</item>
+    <item type="id" name="desc">false</item>
     <item type="id" name="full_button">false</item>
-    <item type="id" name="full_desc">false</item>
     <item type="id" name="close_button">false</item>
-    <item type="id" name="close_desc">false</item>
-    <item type="id" name="play_pause">false</item>
     <item type="id" name="play_pause_button">false</item>
-    <item type="id" name="play_pause_desc">false</item>
     <item type="id" name="pip_controls">false</item>
     <item type="id" name="pip_onboarding">false</item>
-    <item type="id" name="pip_outline">false</item>
+    <item type="id" name="remote">false</item>
+    <item type="id" name="remote_button">false</item>
     <item type="id" name="guide_overlay">false</item>
+    <item type="id" name="pip_control_contents">false</item>
     <item type="id" name="recents">false</item>
     <item type="id" name="graph_label_group">false</item>
     <item type="id" name="label_group">false</item>
@@ -564,17 +588,16 @@
     <item type="id" name="space2">false</item>
     <item type="id" name="label_bottom">false</item>
     <item type="id" name="bottom_label_group">false</item>
+    <item type="id" name="bottom_label_space">false</item>
     <item type="id" name="label_start">false</item>
     <item type="id" name="label_end">false</item>
     <item type="id" name="volume_dialog">false</item>
     <item type="id" name="volume_dialog_content">false</item>
-    <item type="id" name="volume_row_container">false</item>
+    <item type="id" name="volume_dialog_rows">false</item>
     <item type="id" name="volume_expand_button">false</item>
-    <item type="id" name="volume_dialog_row">false</item>
     <item type="id" name="volume_row_header">false</item>
     <item type="id" name="volume_row_icon">false</item>
     <item type="id" name="volume_row_slider">false</item>
-    <item type="id" name="volume_settings_button">false</item>
     <item type="id" name="volume_zen_footer">false</item>
     <item type="id" name="volume_zen_icon">false</item>
     <item type="id" name="volume_zen_summary_line_1">false</item>
@@ -587,6 +610,8 @@
     <item type="id" name="zen_introduction_message">false</item>
     <item type="id" name="zen_introduction_customize">false</item>
     <item type="id" name="zen_conditions">false</item>
+    <item type="id" name="zen_radio_buttons">false</item>
+    <item type="id" name="zen_radio_buttons_content">false</item>
     <item type="id" name="zen_alarm_warning">false</item>
     <item type="id" name="background_theme">false</item>
     <item type="id" name="background_color">false</item>

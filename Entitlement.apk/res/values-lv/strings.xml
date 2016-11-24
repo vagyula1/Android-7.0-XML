@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">Vēlāk</string>
-  <string name="alert_dialog_negative_button">Atcelt</string>
-  <string name="alert_dialog_no_button">Nē</string>
-  <string name="alert_dialog_positive_button">Labi</string>
-  <string name="alert_dialog_upgrade_button">Jaunināt</string>
-  <string name="alert_dialog_yes_button">Jā</string>
-  <string name="app_name">Tiesības</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">Lai iespējotu, apmeklējiet vietni att.com/mywireless vai zvaniet uz numuru 611</string>
-  <string name="att_error_msg_other">Pakalpojuma Mobile Hotspot iespējošanu aizkavē īslaicīgas tīkla problēmas. Vēlāk mēģiniet vēlreiz</string>
-  <string name="att_error_msg_other_title">Tīkla kļūda</string>
-  <string name="att_error_msg_title">Nav iestatīts piesaistei izmantojams konts</string>
-  <string name="browser_error_msg">Nevar atvērt pārlūku.</string>
-  <string name="feature_check_msg">Notiek abonementa statusa pārbaude. Lūdzu, uzgaidiet...</string>
-  <string name="mobile_hotspot">Mobilais tīklājs</string>
-  <string name="network_connection_error_msg">Šobrīd jūsu tālruni nevar savienot ar %s serveri. Vēlāk mēģiniet vēlreiz.</string>
-  <string name="network_connection_title">Tīkla savienojuma kļūda</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Uzziniet vair&amp;#257;k un abon&amp;#275;jiet pakalpojumu Mobile Hotspot, apmekl&amp;#275;jot My Verizon.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">Lai izmantotu mobilo tīklāju, ir jāabonē pakalpojums Mobile Hotspot.</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Nevar izveidot savienojumu ar datu tīklu; iespējams, jūs neesat abonējis piesaistes vai tīklāja pakalpojumu. Sazinieties ar tālruņa ražotāju.</string>
-  <string name="sprint_error_msg_3g">Nevar izveidot savienojumu ar datu tīklu; piesaiste vai tīklājs tiek izslēgts. Iespējams, tarifu plānā nav piesaistes vai tīklāja pakalpojuma. Vai vēlaties aplūkot abonēšanas iespējas?</string>
-  <string name="sprint_error_msg_lte">Jūs neesat abonējis piesaistes vai tīklāja pakalpojumu. Vai vēlaties aplūkot abonēšanas iespējas?</string>
-  <string name="sprint_error_msg_title">Piesaistes vai tīklāja kļūda</string>
-  <string name="sprint_notification_msg">Pieskarieties, lai redzētu plašāku informāciju</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Jūsu pašreizējais tarifu plāns neietver viedtālruņu pakalpojumu Mobile Hotspot, ar kura palīdzību tālruņa datu savienojumu var koplietot ar citām ierīcēm. Vai vēlaties savam tarifu plānam pievienot viedtālruņu pakalpojumu Mobile Hotspot? Jūs to varat pievienot arī vietnes https://my.t-mobile.com sadaļā Pārvaldīt &gt; Plāni un pakalpojumi.</string>
-  <string name="tmo_error_msg_title">Nepieciešama pakalpojuma jaunināšana</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Ja vēlaties abonēt pakalpojumu Mobile Hotspot/Mobile Broadband Connect, zvaniet: 
- Fiziskās personas: (800) 256-4646, 
- Juridiskās personas: (800) 899-4249."</string>
-  <string name="vzw_error_msg_title">Jūsu pasūtījumu nevarēja apstrādāt</string>
+    <string name="app_name">Tiesības</string>
+    <string name="feature_check_msg">Pārbauda abonementa stāvokli. Uzgaidiet...</string>
+    <string name="vzw_self_provisioning_msg">"Lai izmantotu Mobile Hotspot, jums būs jāabonē Mobile Hotspot pakalpojums.
+Meklējiet vairāk informācijas un abonējiet Mobile Hotspot, dodoties uz My Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Atcelt</string>
+    <string name="vzw_self_provisioning_learn_more">Uzzināt vairāk</string>
+    <string name="vzw_error_msg_title">Jūsu pasūtījumu nevar apstrādāt</string>
+    <string name="vzw_error_msg">"Ja vēlaties abonēt Mobile Hotspot/Mobile Broadband Connect, zvaniet uz:
+ Fiziskām personām: (800) 256-4646,
+ Juridiskām personām: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Nepieciešama pakalpojuma jaunināšana</string>
+    <string name="tmo_error_msg">Jūsu pašreizējā tarifu plānā nav iekļauts viedtālruņu Mobile Hotspot pakalpojums, kas ļauj koplietot jūsu tālruņa datu savienojumu ar citām ierīcēm. Vai vēlaties pievienot viedtālruņa Mobile Hotspot pakalpojumu savam tarifu plānam? To varat izdarīt arī tiešsaistē (https://my.t-mobile.com) sadaļā Pārvaldība > Plāni un pakalpojumi. &lt;</string>
+    <string name="retv_terms_conditions_msg">Pārbauda abonementa stāvokli. Uzgaidiet...</string>
+    <string name="change_data_request_msg">Sūta nodrošinājuma pieprasījumu. Uzgaidiet...</string>
+    <string name="alert_dialog_failure_title">Jūsu pasūtījumu nevar apstrādāt</string>
+    <string name="alert_dialog_failure_msg">Lūdzu, mēģiniet vēlāk vēlreiz.</string>
+    <string name="network_connection_title">Tīkla savienojuma kļūda</string>
+    <string name="network_connection_error_msg">Jūsu tālrunis šobrīd nevar izveidot savienojumu ar %s serveri. Mēģiniet vēlāk.</string>
+    <string name="mobile_hotspot">Mob.piek.punkts</string>
+    <string name="alert_dialog_upgrade_button">Atjauninājums</string>
+    <string name="alert_dialog_later_button">Vēlāk</string>
+    <string name="current_subscription">(pašreizējais abonements)</string>
+    <string name="unavailable_subscription">(nav pieejams atmiņas līmeņa dēļ)</string>
+    <string name="request_pending_title">Tiek gaidīts nodrošinājums</string>
+    <string name="request_pending_error_msg">Verizon serveris apstrādā jūsu pieprasījumu. Mēģiniet vēlreiz pēc 5 minūtēm.</string>
+    <string name="browser_error_msg">Nevar atvērt pārlūku.</string>
+    <string name="att_error_msg">Lai iespējotu, dodieties uz att.com/mywireless vai zvaniet uz 611</string>
+    <string name="att_error_msg_title">Savienošanai nav iestatīts konts</string>
+    <string name="att_error_msg_other">Radusies īslaicīga tīkla problēma, kas liedz iespējot mobilā piekļuves punkta funkciju. Lūdzu, mēģiniet vēlāk</string>
+    <string name="att_error_msg_other_title">Tīkla kļūda</string>
+    <string name="sprint_error_msg">Nevar pieslēgties datu tīklam; Iespējams, neesat abonējuši savienošanas vai tīklāja pakalpojumu; Lūdzu kontaktējieties ar jūsu tālruņa kompāniju.</string>
+    <string name="sprint_error_msg_title">Savienojuma vai tīklāja kļūda</string>
+    <string name="sprint_notification_msg">Pieskarieties, lai apskatītu sīkāku informāciju</string>
+    <string name="term_and_conditions_title">Noteikumi un nosacījumi</string>
+    <string name="sbm_content_activity_title">Līguma nosacījumi</string>
+    <string name="consent_title">Līguma nosacījumi</string>
+    <string name="consent_message">"Lai izmantotu šo lietotni, jums jāpiekrīt un jānosūta minētā informācija. Turpiniet pēc satura pārbaudes.
+
+[Sūtīt informāciju]
+Konkrētās līgumslēdzējas puses ID
+[Izmantot lietotnes]
+Savienošanas lietotnes izmantošanas kārtība"</string>
+    <string name="consent_terms_btn">Pakalpojuma noteikumi</string>
+    <string name="concent_disagree_btn">Es nepiekrītu</string>
+    <string name="concent_agree_btn">Es piekrītu</string>
+    <string name="sbm_error_msg_title">Savienojuma vai tīklāja kļūda</string>
+    <string name="sbm_error_msg">Nevar izveidot savienojumu ar datu tīklu.</string>
+    <string name="sbm_error_msg_not_subscribed">Neizdevās pārbaudīt jūsu Savienošanas opcijas abonēšanu.</string>
+    <string name="sbm_error_msg_not_authenticated">"Autentifikācija neizdevās.
+(Kļūdas kods %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Autentifikācija neizdevās. Pamēģiniet vēlreiz vietā, kurā ir laba uztveršana.</string>
 </resources>

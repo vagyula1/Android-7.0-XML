@@ -60,6 +60,18 @@
         <item>4 MB по међумеморији евиденције</item>
         <item>16 MB по међумеморији евиденције</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Искључено</item>
+        <item>Све</item>
+        <item>Све сeм радија</item>
+        <item>само језгро</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Искључено</item>
+        <item>Све међумеморије евиденција</item>
+        <item>Све осим међумеморија евиденција за радио</item>
+        <item>само међумеморија евиденције језгра</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Анимација је искључена</item>
         <item>Размера анимације 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Природне боје налик онима које региструје око</item>
         <item>Боје оптимизоване за дигитални садржај</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Позови</item>
+        <item>Систем</item>
+        <item>Прстен</item>
+        <item>Медијуми</item>
+        <item>Аларм</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Прикажи сате, минуте и секунде</item>
         <item>Прикажи сате и минуте (подразумевано)</item>
@@ -169,4 +199,5 @@
         <item>Прикажи проценат током пуњења (подразумевано)</item>
         <item>Не приказуј ову икону</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="emailAddressTypes">
         <item>Տուն</item>
-        <item>Աշխատանքային</item>
+        <item>Աշխատանք</item>
         <item>Այլ</item>
         <item>Հատուկ</item>
     </string-array>
@@ -17,34 +17,49 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Աշխատանքային</item>
+        <item>Աշխատանք</item>
         <item>Այլ</item>
         <item>Հատուկ</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Տնային</item>
+        <item>Տուն</item>
         <item>Բջջային</item>
-        <item>Աշխատանքային</item>
-        <item>Աշխատանքային ֆաքս</item>
-        <item>Տնային ֆաքս</item>
+        <item>Աշխատանք</item>
+        <item>Աշխ․ ֆաքս</item>
+        <item>Տան ֆաքս</item>
         <item>Փեյջեր</item>
         <item>Այլ</item>
         <item>Հատուկ</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Տնային</item>
-        <item>Աշխատանքային</item>
+        <item>Տան</item>
+        <item>Աշխատանք</item>
         <item>Այլ</item>
         <item>Հատուկ</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Wi-Fi-ի միջոցով զանգեր կատարելու և հաղորդագրություններ ուղարկելու համար նախ դիմեք ձեր օպերատորին՝ ծառայությունը կարգավորելու համար: Ապա նորից միացրեք Wi-Fi զանգերը Կարգավորումներում:</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Գրանցվեք օպերատորի մոտ</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi զանգեր</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Տնային</item>
-        <item>Աշխատանքային</item>
+        <item>Տուն</item>
+        <item>Աշխատանք</item>
         <item>Այլ</item>
         <item>Հատուկ</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>բջջային տվյալներ</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

@@ -19,6 +19,7 @@
         <flag name="pre23" value="0x00000080" />
         <flag name="preinstalled" value="0x00000400" />
         <flag name="privileged" value="0x00000010" />
+        <flag name="setup" value="0x00000800" />
         <flag name="signature" value="0x00000002" />
         <flag name="signatureOrSystem" value="0x00000003" />
         <flag name="verifier" value="0x00000200" />
@@ -540,6 +541,10 @@
         <enum name="KEYCODE_SWITCH_CHARSET" value="95" />
         <enum name="KEYCODE_SYM" value="63" />
         <enum name="KEYCODE_SYSRQ" value="120" />
+        <enum name="KEYCODE_SYSTEM_NAVIGATION_DOWN" value="281" />
+        <enum name="KEYCODE_SYSTEM_NAVIGATION_LEFT" value="282" />
+        <enum name="KEYCODE_SYSTEM_NAVIGATION_RIGHT" value="283" />
+        <enum name="KEYCODE_SYSTEM_NAVIGATION_UP" value="280" />
         <enum name="KEYCODE_T" value="48" />
         <enum name="KEYCODE_TAB" value="61" />
         <enum name="KEYCODE_TV" value="170" />
@@ -2255,7 +2260,6 @@
     <attr name="subMenuArrow" format="reference" />
     <attr name="defaultWidth" format="dimension|fraction" />
     <attr name="defaultHeight" format="dimension|fraction" />
-    <attr name="minimalWidth" format="dimension" />
     <attr name="resizeableActivity" format="boolean" />
     <attr name="supportsPictureInPicture" format="boolean" />
     <attr name="titleMargin" format="dimension" />
@@ -2278,7 +2282,7 @@
     <attr name="preferenceFragmentStyle" format="reference" />
     <attr name="canControlMagnification" format="boolean" />
     <attr name="languageTag" format="string" />
-    <attr name="pointerShape">
+    <attr name="pointerIcon">
         <enum name="copy" value="1011" />
         <enum name="none" value="0" />
         <enum name="text" value="1008" />
@@ -2329,17 +2333,28 @@
     <attr name="countDown" format="boolean" />
     <attr name="canRecord" format="boolean" />
     <attr name="tunerCount" format="integer" />
-    <attr name="nfcAntennaPositionDrawable" format="reference" />
     <attr name="fillType">
         <enum name="evenOdd" value="1" />
         <enum name="nonZero" value="0" />
     </attr>
     <attr name="popupEnterTransition" format="reference" />
     <attr name="popupExitTransition" format="reference" />
-    <attr name="minimalHeight" format="dimension" />
     <attr name="forceHasOverlappingRendering" format="boolean" />
     <attr name="contentInsetStartWithNavigation" format="dimension" />
     <attr name="contentInsetEndWithActions" format="dimension" />
+    <attr name="numberPickerStyle" format="reference" />
+    <attr name="enableVrMode" format="string" />
+    <attr name="hash" format="string" />
+    <attr name="networkSecurityConfig" format="reference" />
+    <attr name="shortcutId" format="string" />
+    <attr name="shortcutShortLabel" format="reference" />
+    <attr name="shortcutLongLabel" format="reference" />
+    <attr name="shortcutDisabledMessage" format="reference" />
+    <attr name="roundIcon" format="reference" />
+    <attr name="contextUri" format="reference" />
+    <attr name="contextDescription" format="reference" />
+    <attr name="showMetadataInPreview" format="boolean" />
+    <attr name="colorSecondary" format="color" />
     <item type="attr" name="APKTOOL_DUMMY_0267">false</item>
     <item type="attr" name="APKTOOL_DUMMY_03a8">false</item>
     <item type="attr" name="APKTOOL_DUMMY_03c3">false</item>

@@ -4,6 +4,10 @@
         <item quantity="other">Du har %d forsøk igjen før SIM-kortet låses.</item>
         <item quantity="one">Du har %d forsøk igjen før SIM-kortet låses.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertifiseringsinstansene er installert</item>
+        <item quantity="one">Sertifiseringsinstansen er installert</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Tar skjermdump for feilrapporten om %d sekunder.</item>
         <item quantity="one">Tar skjermdump for feilrapporten om %d sekund.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d timer</item>
         <item quantity="one">1 time</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">om %d m</item>
+        <item quantity="one">om %d m</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">om %d t</item>
+        <item quantity="one">om %d t</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">om %d d</item>
+        <item quantity="one">om %d d</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">om %d år</item>
+        <item quantity="one">om %d år</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">for %d minutter siden</item>
+        <item quantity="one">for %d minutt siden</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">for %d timer siden</item>
+        <item quantity="one">for %d time siden</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">for %d dager siden</item>
+        <item quantity="one">for %d dag siden</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">for %d år siden</item>
+        <item quantity="one">for %d år siden</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om %d minutt</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">om %d timer</item>
+        <item quantity="one">om %d time</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">om %d dager</item>
+        <item quantity="one">om %d dag</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">om %d år</item>
+        <item quantity="one">om %d år</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi-nettverk er tilgjengelig</item>

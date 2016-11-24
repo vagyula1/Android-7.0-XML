@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Google टेक्‍स्‍ट-टू-स्‍पीच इंजिन</string>
+    <string name="general_settings">सामान्य सेटिंग्ज</string>
+    <string name="license_activity_title">मुक्त-स्त्रोत परवाने</string>
+    <string name="license_activity_loading">लोड करीत आहे...</string>
+    <string name="license_activity_unavailable">परवाने लोड करताना समस्या आली.</string>
+    <string name="tts_settings_label">Google TTS पर्याय</string>
+    <string name="voice_data_install_title">Google TTS व्हॉइस डेटा</string>
+    <string name="install_data_header">आपल्‍या डिव्‍हॉइसवरील ऑफलाइन उच्चारण विश्लेषणास समर्थन करण्‍यासाठी हा डेटा डाउनलोड करा.</string>
+    <string name="download_invite_title">%1$s उच्चारण व्‍हॉइस स्‍थापित करा</string>
+    <string name="download_invite">%1$s साठी ऑफलाइन टेक्‍स्‍ट-टू-स्‍पीच सक्षम करा</string>
+    <string name="install_voice_text_2">डाउनलोडसाठी उपलब्ध.</string>
+    <string name="download_in_progress">डाउनलोड प्रगतीपथावर</string>
+    <string name="no_installable_voices">डाउनलोड करण्‍यायोग्‍य व्‍हॉइस नाहीत</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="delete_voice_data">हटवा</string>
+    <string name="update">अद्यतनित करा</string>
+    <string name="download">डाउनलोड करा</string>
+    <string name="voice_installed">स्थापित केले.</string>
+    <string name="voice_installed_and_default">स्थापित केले आणि डीफॉल्ट म्हणून सेट केले.</string>
+    <string name="download_notification_title">%1$s साठी %2$s</string>
+    <string name="download_notification_description">टेक्‍स्‍ट-टू-स्‍पीच साठी व्‍हॉइस डेटा</string>
+    <string name="download_success_title">%1$s साठी व्‍हॉइस डेटा डाउनलोड केला</string>
+    <string name="download_success_description">सेटिंग्‍जना भेट देण्‍यासाठी आणि हा व्‍हॉइस डीफॉल्‍ट बनविण्‍यासाठी स्‍पर्श करा.</string>
+    <string name="download_failure_title">%1$s साठी व्‍हॉइस डेटा डाउनलोड करण्‍यात त्रुटी</string>
+    <string name="download_failure_description">पुन्हा प्रयत्न करण्यासाठी स्पर्श करा.</string>
+    <string name="download_failed_toast">व्‍हॉइस पॅक डाउनलोड करणे प्रारंभ करण्‍यास अयशस्‍वी झाले.</string>
+    <string name="manage_voice_data">व्हॉइस डेटा व्यवस्थापित करा</string>
+    <string name="auto_update_title">व्‍हॉइस स्‍वयं-अद्यतनित करा</string>
+    <string name="auto_update_wifi_title">केवळ वाय-फाय चा वापर करा</string>
+    <string name="auto_update_wifi_summary">केवळ वाय-फाय वापरून व्‍हॉइस डेटा डाउनलोड करा. डेटा वापर वाचवते.</string>
+    <string name="feedback_title">अभिप्राय</string>
+    <string name="feedback_failed">अभिप्राय फॉर्म उघडणे शक्य झाले नाही</string>
+    <string name="voices_type_title">आवाजांचा प्रकार</string>
+    <string name="voices_type_summary">[डॉगफूड]उच्चार संश्लेषणाचा प्रकार</string>
+    <string name="analytics_title">अनामित वापर अहवाल</string>
+    <string name="analytics_summary_on">चालू</string>
+    <string name="analytics_summary_off">बंद</string>
+    <string name="analytics_screen_explanation">"हे वैशिष्‍ट्य‍ चालू असते तेव्‍हा, आम्‍ही अनामित वापर अहवाल संकलित करतो. हे आपल्‍या डिव्‍हाइसवरील Google टेक्‍स्‍ट टू स्‍पीच चे कार्यप्रदर्शन अधिक चांगल्या प्रकारे समजून घेण्‍यात आम्‍हाला मदत करते. 
+
+आम्‍ही सकंलित करतो त्या एकत्रित मेट्रिकची उदाहरणे:
+"<li><ul>"किती वारंवार टेक्‍स्‍ट टू स्‍पीच वापरले जाते.
+"<li>टेक्‍स्‍ट टू स्‍पीच च्या कार्यप्रदर्शन विनंत्या.</li>"
+"<li>कोणत्या भाषा वापरल्या जातात.</li>"
+"<li>उच्चार आउटपुट वितरित करण्‍यात किती वारंवार टेक्‍स्‍ट टू स्‍पीच अयशस्वी झाले.</li>"
+"</ul></li></string>
+    <string name="process_text_title">मजकूर निवड मेनूमध्ये GoogleTTS प्रविष्टी जोडा</string>
+    <string name="process_text_summary">ही नवीन प्रविष्टी कोणत्याही निवडलेल्या मजकुरास संश्लेषित करेल.</string>
+    <string name="voice_pack_status_installed">स्‍थापित केले (%1$s)</string>
+    <string name="voice_pack_status_gender_female">स्त्री</string>
+    <string name="voice_pack_status_gender_male">पुरूष</string>
+    <string name="voice_entity_status_gender_female">महिला %1$d</string>
+    <string name="voice_entity_status_gender_male">पुरूष %1$d</string>
+    <string name="voice_entity_status_gender_unknown">अज्ञात लिंग %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">वयस्कर महिलेचा आवाज</string>
+    <string name="voice_pack_status_gender_male_legacy">वयस्कर पुरुषाचा आवाज</string>
+    <string name="voice_pack_status_gender_unknown">अज्ञात लिंग</string>
+    <string name="voice_pack_status_updatable">अद्यतन उपलब्ध</string>
+    <string name="voice_pack_status_downloadable">(~%1$s) डाउनलोड करा</string>
+    <string name="voice_pack_status_locale_default">वर्तमान व्‍हॉइस</string>
+    <string name="voice_pack_status_downloading">डाउनलोड करत आहे...</string>
+    <string name="voice_pack_name_high_quality">%1$s (उच्च गुणवत्ता)</string>
+    <string name="voice_pack_description">"नाव: %1$s 
+लोकॅल: %2$s 
+डेटा आकार: ~%3$s 
+वक्त्‍याचे लिंग: %4$s"</string>
+    <string name="voice_pack_action_download">(~%1$s) डाउनलोड करा</string>
+    <string name="voice_pack_action_remove">काढा</string>
+    <string name="voice_pack_action_update">(~%1$s) अद्यतनित करा</string>
+    <string name="voice_pack_action_locale_default">%1$s साठी त्यास वर्तमान व्‍हॉइस बनवा</string>
+    <string name="voice_pack_action_cancel">डाउनलोड रद्द करा</string>
+    <string name="voice_pack_install_tab_installed">स्थापित केले</string>
+    <string name="voice_pack_install_tab_all">सर्व</string>
+    <string name="voice_pack_install_tab_settings">सेटिंग्ज</string>
+    <string name="voice_entry_details">व्‍हॉइस तपशील संवाद लाँच करा</string>
+    <string name="voice_entry_edit_desc">आवाजाचा पॅक उघडा</string>
+    <string name="voice_entry_overflow_desc">अतिरिक्त व्‍हॉइस पॅक क्रिया</string>
+    <string name="voice_entry_download_desc">व्‍हॉइस पॅक डाउनलोड करा</string>
+    <string name="voice_entry_cancel_download_desc">व्‍हॉइस पॅक डाउनलोड रद्द करा</string>
+    <string name="voice_entry_delete_desc">व्‍हॉइस पॅक रद्द करा</string>
+    <string name="voice_entry_sample">व्‍हॉइस नमुना प्‍ले करा</string>
+    <string name="voice_pack_not_enough_space">अंतर्गत संचयनावर पुरेसे मोकळे स्‍थान नाही. हा व्‍हॉइस स्‍थापित करण्यासाठी आपल्‍याला काही स्‍थान मोकळे करण्‍याची आवश्‍यकता असेल.</string>
+    <string name="action_settings">पर्याय</string>
+    <string name="action_licenses">मुक्त-स्त्रोत परवाने</string>
+    <string name="action_voice_pack_update">अद्यतनित करा</string>
+    <string name="action_voice_pack_uninstall">विस्थापित करा</string>
+    <string name="voice_pack_uninstall_dialog">हा व्‍हॉइस विस्‍थापित करायचा?</string>
+    <string name="voice_pack_uninstall_keep">ठेवा</string>
+    <string name="voice_pack_uninstall_uninstall">विस्थापित करा</string>
+    <string name="voice_pack_unpack_failure">डाउनलोड केलेला व्‍हॉइस स्‍थापित करण्‍यात अयशस्‍वी झाले</string>
+    <string name="multi_voice_pack_title">%1$s व्‍हॉइस</string>
+    <string name="multi_voice_pack_entry_name">आवाज संच %1$d</string>
+    <string name="morphed_voice_set_title">आवाज संच</string>
+    <string name="select_voice_title">आवाज निवडा</string>
+    <string name="play_sample_text_button_description">%1$s साठी नमुना मजकूर प्ले करा</string>
+    <string name="voice_pack_no_download_manager">डाउनलोड व्यवस्थापक अक्षम आहे किंवा गहाळ आहे; व्हॉइस पॅक डाउनलोड करण्यात अक्षम आहे</string>
+    <string name="unpack_voice_pack_service_title">टेक्स्ट-टू-स्पीच डेटा अद्यतनित करत आहे</string>
+    <string name="unpack_voice_pack_service_text">वेगळे करत आहे…</string>
+    <string name="sample_text_synthesis_failure">या आवाजासाठी उदाहरण तयार करण्‍यात अयशस्वी झाले.</string>
+    <string name="quick_wait_for_init">लोड करीत आहे</string>
+    <string name="quick_synthesizing">संश्लेषित करीत आहे</string>
+    <string name="quick_speaking">बोलत आहे</string>
+    <string name="quick_stopped">थांबले</string>
+    <string name="quick_error">त्रुटी</string>
+</resources>

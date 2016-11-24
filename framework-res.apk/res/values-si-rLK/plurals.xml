@@ -4,6 +4,10 @@
         <item quantity="other">ඔබේ SIM කාඩ් පත අඟුළු වැටීමට පෙර තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
         <item quantity="one">ඔබේ SIM කාඩ් පත අඟුළු වැටීමට පෙර තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">සහතික අධිකාරි ස්ථාපනය කරන ලදී</item>
+        <item quantity="one">සහතික අධිකාරි ස්ථාපනය කරන ලදී</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">තත්පර %dකින් දෝෂ වාර්තාව සඳහා තිර රුවක් ලබා ගනිමින්</item>
         <item quantity="one">තත්පර %dකින් දෝෂ වාර්තාව සඳහා තිර රුවක් ලබා ගනිමින්</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">පැය %d</item>
         <item quantity="one">පැය %d</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">මි%d</item>
+        <item quantity="one">මි%d</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">පැ%d</item>
+        <item quantity="one">පැ%d</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">දි%d</item>
+        <item quantity="one">දි %d</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">ව %d</item>
+        <item quantity="one">ව %d</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">මි%dකදී</item>
+        <item quantity="one">මි%dකදී</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">පැ%dකදී</item>
+        <item quantity="one">පැ%dකදී</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">දි%dකදී</item>
+        <item quantity="one">දි%dකදී</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">ව%dකදී</item>
+        <item quantity="one">ව%dකදී</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">මිනිත්තු %dකට පෙර</item>
+        <item quantity="one">මිනිත්තු %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">පැය %dකට පෙර</item>
+        <item quantity="one">පැය %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">දින %dකට පෙර</item>
+        <item quantity="one">දින %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">වසර %dකට පෙර</item>
+        <item quantity="one">වසර %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">මිනිත්තු %dකින්</item>
+        <item quantity="one">මිනිත්තු %dකින්</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">පැය %dකින්</item>
+        <item quantity="one">පැය %dකින්</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">දින %dකින්</item>
+        <item quantity="one">දින %dකින්</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">වසර %dකින්</item>
+        <item quantity="one">වසර %dකින්</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi ජාල තිබේ</item>

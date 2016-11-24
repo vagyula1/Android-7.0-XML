@@ -37,8 +37,16 @@
         <item>Cits</item>
         <item>Pielāgots</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Lai veiktu zvanus un sūtītu īsziņas Wi-Fi tīklā, vispirms lūdziet mobilo sakaru operatoru iestatīt šo pakalpojumu. Pēc tam iestatījumos vēlreiz ieslēdziet Wi-Fi zvanus.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Reģistrēt to pie sava mobilo sakaru operatora</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi zvani</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Darbā</item>
         <item>Cits</item>
         <item>Pielāgots</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobilie dati</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

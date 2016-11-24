@@ -38,28 +38,20 @@
     </style>
     <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V11.Theme.AppCompat.Dialog" />
     <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V11.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V11.ThemeOverlay.AppCompat.Dialog" />
     <style name="Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Holo.ProgressBar" />
     <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.ProgressBar.Horizontal" />
-    <style name="BoundlessLink" parent="@style/BoundlessLinkBase">
-        <item name="android:background">?android:selectableItemBackground</item>
-    </style>
-    <style name="FlatButton" parent="@style/FlatButtonBase">
-        <item name="android:background">?android:selectableItemBackground</item>
-    </style>
     <style name="Platform.AppCompat" parent="@style/Platform.V11.AppCompat" />
     <style name="Platform.AppCompat.Light" parent="@style/Platform.V11.AppCompat.Light" />
     <style name="Platform.Widget.AppCompat.Spinner" parent="@android:style/Widget.Holo.Spinner" />
     <style name="SelectableItem">
         <item name="android:background">?android:selectableItemBackground</item>
     </style>
-    <style name="TabText" parent="@style/TabTextBase">
-        <item name="android:background">?android:selectableItemBackground</item>
-    </style>
     <style name="TychoTheme" parent="@style/TychoThemeBase">
-        <item name="android:alertDialogTheme">@style/DialogTheme</item>
+        <item name="android:alertDialogTheme">@style/DialogTheme.InApp</item>
     </style>
-    <style name="TychoThemeSuw" parent="@style/TychoSuwThemeBase">
-        <item name="android:alertDialogTheme">@style/DialogTheme</item>
+    <style name="TychoThemeGlif" parent="@style/TychoThemeGlifBase">
+        <item name="android:alertDialogTheme">@style/DialogTheme.Glif</item>
     </style>
     <style name="Base.V11.Theme.AppCompat.Dialog" parent="@style/Base.V7.Theme.AppCompat.Dialog">
         <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
@@ -67,6 +59,11 @@
         <item name="android:windowCloseOnTouchOutside">@bool/abc_config_closeDialogWhenTouchOutside</item>
     </style>
     <style name="Base.V11.Theme.AppCompat.Light.Dialog" parent="@style/Base.V7.Theme.AppCompat.Light.Dialog">
+        <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
+        <item name="android:buttonBarStyle">@style/Widget.AppCompat.ButtonBar.AlertDialog</item>
+        <item name="android:windowCloseOnTouchOutside">@bool/abc_config_closeDialogWhenTouchOutside</item>
+    </style>
+    <style name="Base.V11.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V7.ThemeOverlay.AppCompat.Dialog">
         <item name="android:borderlessButtonStyle">@style/Widget.AppCompat.Button.Borderless</item>
         <item name="android:buttonBarStyle">@style/Widget.AppCompat.ButtonBar.AlertDialog</item>
         <item name="android:windowCloseOnTouchOutside">@bool/abc_config_closeDialogWhenTouchOutside</item>
@@ -110,7 +107,6 @@
         <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
         <item name="android:textColorHighlightInverse">@color/highlighted_text_material_light</item>
         <item name="android:textColorLinkInverse">?colorAccent</item>
-        <item name="selectableItemBackground">?android:selectableItemBackground</item>
     </style>
     <style name="Platform.V11.AppCompat.Light" parent="@android:style/Theme.Holo.Light">
         <item name="android:colorForeground">@color/foreground_material_light</item>
@@ -152,6 +148,5 @@
         <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
         <item name="android:textColorHighlightInverse">@color/highlighted_text_material_dark</item>
         <item name="android:textColorLinkInverse">?colorAccent</item>
-        <item name="selectableItemBackground">?android:selectableItemBackground</item>
     </style>
 </resources>

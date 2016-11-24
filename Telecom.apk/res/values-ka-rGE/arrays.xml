@@ -60,6 +60,18 @@
         <item>4 მბაიტი / ჟურნალის ბუფერი</item>
         <item>16 მბაიტი / ჟურნალის ბუფერი</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>გამორთული</item>
+        <item>ყველა</item>
+        <item>რადიოს გარდა ყველა</item>
+        <item>მხოლოდ ბირთვი</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>გამორთული</item>
+        <item>ჟურნალების ყველა ბუფერი</item>
+        <item>რადიოჟურნალების ბუფერების გარდა ყველა</item>
+        <item>მხოლოდ ბირთვის ჟურნალის ბუფერი</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ანიმაციის გამორთვა</item>
         <item>ანიმაციის სიჩქარე .5x</item>
@@ -158,5 +170,10 @@
         <item>გაჯერებული ფერები</item>
         <item>თვალისთვის ხილული ბუნებრივი ფერები</item>
         <item>ციფრული კონტენტისთვის ოპტიმიზებული ფერები</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Дараах</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="entitlement_check_progress">Захиалгын төлөвийг шалгаж байна. Түр хүлээнэ үү.</string>
+    <string name="att_service_upgrade_msg">Идэвхжүүлэхийн тулд att.com/mywireless-д зочлох, эсвэл 611 руу залгана уу</string>
+    <string name="att_network_error">Сүлжээ боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="sprint_entitlement_error">Энэ үйлчилгээг дэмждэггүй. Үйлчилгээ үзүүлэгчтэйгээ холбоо барина уу.</string>
+    <string name="sprint_network_error">Сүлжээ боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="vzw_service_upgrade_msg">Мобайл сүлжээний цэг ашиглахын тулд хэрэглэгчийн үйлчилгээ хэсэг рүү залган захиална уу.</string>
+    <string name="vzw_network_error">Сүлжээ боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="vzw_wfc_activation_error">WiFi дуудлагыг идэвхжүүлэх боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="vzw_address_update_error">Одоогийн яаралтай тусламжийн хаягийг шинэчлэх боломжгүй байна. Дараа дахин оролдоно уу.</string>
+    <string name="generic_error">Нотолж чадсангүй. Дараа дахин оролдоно уу.</string>
+    <string name="vzw_setup_app_label">Verizon бүртгэлийн идэвхжүүлэлт</string>
+    <string name="vzw_activate_title">Утас идэвхжүүлэлт</string>
+    <string name="vzw_activate_progress">Таны утсыг бэлдэх хүртэл түр хүлээнэ үү.</string>
+    <string name="vzw_activate_exiting">Идэвхжүүлэлтээс гарч байна.</string>
+    <string name="vzw_verify_title">Бүртгэлээ баталгаажуулна уу</string>
+    <string name="vzw_verify_ssn">Эхлүүлэхийн тулд бүртгэл эзэмшигчийнхээ регистрийн дугаарын сүүлийн 4 тоог оруулна уу:</string>
+    <string name="vzw_verify_pwd">Эхлүүлэхийн тулд бүртгэлийнхээ тооцооны нууц үгээ оруулна уу:</string>
+    <string name="vzw_verify_button">Баталгаажуулах</string>
+    <string name="vzw_later_button">Дараа</string>
+    <string name="vzw_verify_switch_ssn">Оронд нь регистрийн дугаар ашиглах</string>
+    <string name="vzw_verify_switch_pwd">Оронд нь тооцооны нууц үг ашиглах</string>
+    <string name="vzw_verify_progress_title">Таны бүртгэлийг баталгаажуулж байна...</string>
+    <string name="vzw_activate_ready_title">Идэвхжүүлэхэд бэлэн үү?</string>
+    <string name="vzw_activate_ready_new">Үүнд хэдэн хором шаардлагатай</string>
+    <string name="vzw_activate_ready_upgrade">"Энэ утсыг идэвхжүүлэхээс өмнө харилцагчаа нөөцлөөд, хуучин утсаа унтраана уу.
+
+Идэвхжүүлж эхэлснээр бид таны дугаарыг энэ утсанд шилжүүлж, таны хуучин утсыг идэвхгүй болгох болно."</string>
+    <string name="vzw_activate_button">Идэвхжүүлэх</string>
+    <string name="vzw_activating_new_title">Утасны дугаар авч байна...</string>
+    <string name="vzw_activating_upgrade_title">Утасны дугаарыг шилжүүлж байна...</string>
+    <string name="vzw_activating_upgrade">Дугаараа шинэ утсандаа шилжүүлэхийн тулд таны хуучин утас унтраалттай байх шаардлагатай.</string>
+    <string name="vzw_activate_success_title">Утсыг идэвхжүүлсэн</string>
+    <string name="vzw_activate_success">Таны Verizon утас одоо идэвхтэй байна. Таны дугаар %1$s</string>
+    <string name="vzw_data_limit_title">Дата ашиглалтыг хязгаарласан</string>
+    <string name="vzw_data_limit">Таны дата ашиглалтыг өдрийн цаг, эсвэл дата хязгаарын улмаас одоогоор хязгаарласан байна. Төхөөрөмжөө үргэлжлүүлэн тохируулахын тулд та Wi-Fi ашиглах хэрэгтэй болно.</string>
+    <string name="vzw_data_restricted_title">Дата ашиглалтыг хязгаарласан</string>
+    <string name="vzw_data_restricted">Өдрийн цаг, эсвэл дата хязгаарын улмаас</string>
+    <string name="vzw_data_redirected_title">Verizon үйлчилгээ авах</string>
+    <string name="vzw_data_redirected">Танд Verizon Wi-Fi төлөвлөгөө байхгүй, эсвэл та бүх төлөвлөгөөг ашигласан байж болзошгүй тул Verizon-той холбогдоно уу</string>
+    <string name="vzw_activate_notification_title">Идэвхжүүлэхэд бэлэн</string>
+    <string name="vzw_activate_notification">Утсаа идэвхжүүлэхийн тулд товшино уу</string>
+    <string name="vzw_cold_notification">Утсаа идэвхжүүлэхийн тулд Verizon-д хандана уу.</string>
+    <string name="vzw_activate_error_title">Идэвхжүүлэх боломжгүй байна</string>
+    <string name="vzw_activate_error_network">Дохио сайн (олон зураас) байгаа эсэхийг шалгаж, дахин оролдоно уу. Хэрэв асуудал үргэлжилсээр байвал хэрэглэгчийн үйлчилгээтэй (800) 922-0204-р холбогдож, тусламж авна уу.</string>
+    <string name="vzw_activate_error_lookup">Уучлаарай, таны утсыг идэвхжүүлж чадсангүй. Хэрэглэгчийн үйлчилгээтэй (800) 922-0204 дугаараар холбогдоно уу.</string>
+    <string name="vzw_activate_error_ssn">Регистрийн дугаар таарахгүй байна. Дахин оролдоно уу.</string>
+    <string name="vzw_activate_error_pwd">Тооцооны нууц үг таарахгүй байна. Дахин оролдоно уу.</string>
+    <string name="vzw_activate_error_not_retryable">Уучлаарай, таны утсыг идэвхжүүлж чадсангүй. Хэрэглэгчийн үйлчилгээтэй (800) 922-0204 дугаараар холбогдоно уу.</string>
+    <string name="vzw_activate_error_release">Утсаа идэвхжүүлэхийн тулд өөр утаснаас (800) 922-0204 руу алгана уу.</string>
+    <string name="vzw_activate_error_restricted_title">Утсаа хэрхэн идэвхжүүлэх вэ</string>
+    <string name="vzw_activate_error_restricted">Утсаа идэвхжүүлэхийн тулд шинэ утастайгаа ирсэн зааварчилгааг дагах, эсвэл байгууллагынхаа Verizon Wireless-н администратортой холбогдоно уу.</string>
+    <string name="vzw_activate_error_lost_stolen">Уучлаарай, таны утсыг идэвхжүүлж чадсангүй. 4G LTE үйлчилгээгээ идэвхжүүлэхийн тулд өөр утаснаас (877) 807-4646 руу залгаж, дахин оролдоно уу.</string>
+    <string name="vzw_activate_continue">Үргэлжлүүлэх</string>
+    <string name="vzw_activate_retry">Дахин оролдох</string>
+    <string name="vzw_activate_skip">Алгасах</string>
+    <string name="emergency_address_app_label">Яаралтай тусламжийн хаягийн удирдлага</string>
+    <string name="progress_text">Түр хүлээнэ үү...</string>
+    <string name="vzw_tos_title">Wi-Fi Дуудлагыг идэвхжүүлэх</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="vzw_tos_text">"Wi-Fi Дуудлага нь үүрэн сүлжээгүй үед Wi-Fi ашиглан дуудлага хийх боломжийг олгодог. 
+
+Wi-Fi Дуудлагыг тохируулахын тулд та АНУ дахь хаягаа оруулах хэрэгтэй. Хэрэв та АНУ-д энэ утаснаас Wi-Fi ашиглан яаралтай дуудлага (E911) хийвэл энэ хаягийг таны байршилд яаралтай дуудлагын үйлчилгээний үед ашиглана. 
+
+Байршлын мэдээллээ зөв байлгахын тулд өөр Wi-Fi сүлжээ ашиглан дуудлага хийхдээ энэ хаягийг өөрчлөнө үү. Та Wi-Fi Дуудлагын тохиргооны цэс хэсэгт байршлаа хүссэн үедээ өөрчлөх боломжтой."</string>
+    <string name="vzw_tos_link">Ерөнхий нөхцөл</string>
+    <string name="vzw_e911_title">Яаралтай дуудлагын байршлын мэдээлэл</string>
+    <string name="vzw_e911_description"><b>ЧУХАЛ - ЯАРАЛТАЙ ДУУДЛАГЫН 911 ХАЯГ ШААРДЛАГАТАЙ</b>"
+Wi-Fi Дуудлагыг асаахын тулд 911 руу залган, яаралтай тусламж авах АНУ дахь хаягаа оруулна уу. Та хаягаа Тохиргоо хэсэгт хүссэн үедээ өөрчлөх боломжтой. Та байршлаа өөрчлөх бүртээ хаягаа шинэчлэх хэрэгтэй."</string>
+    <string name="vzw_e911_warning"><b>АНХААРУУЛГА - ЯАРАЛТАЙ ДУУДЛАГЫН 911 ХЯЗГААР</b>"
+911рүү залгахдаа оператор компанид хаана байгаагаа хэлнэ үү. Таны үүрэн сүлжээ боломжгүй үед Wi-Fi ашиглан 911 руу залгана. Систем хаяг танихгүй байх, цахилгаан тасарсан, эсвэл таны Wi-Fi холболт ажиллахгүй байх үед 911 руу залгасан Wi-Fi дуудлага ажиллахгүй байж болно. Яаралтай тусламжийн үйлчилгээ таны дээр өгсөн хаягийн дагуу очих тул байршлаа өөрчилсөн тохиолдолд шинэчилнэ үү."</string>
+    <string name="house_number">Хаягийн дугаар</string>
+    <string name="street">Гудамж</string>
+    <string name="apt_suite_number">Байр, байшин гэх мэт.</string>
+    <string name="city">Хот</string>
+    <string name="state">Муж</string>
+    <string name="zip_code">Зип код</string>
+    <string name="save">Хадгалах</string>
+    <string name="vzw_address_confirm_text">"Гудамжны хаяг олдоогүй эсвэл хот, улс, зип код буруу байсан тул бид таны оруулсан хаягийг олж чадсангүй.
+
+Хэрэв таны хот, улс, зип код буруу бол %1$s-г товшино уу. Бусад тохиолдолд %2$s-г товшино уу."</string>
+    <string name="vzw_address_confirm_text_part1">Гудамжны хаяг олдоогүй эсвэл хот, улс, зип код буруу байснаас бид таны оруулсан хаягийг олсонгүй.</string>
+    <string name="vzw_address_confirm_text_part2">"Таны хот, улс, зип буруу байвал %1$s-г,  үгүй бол %2$s-г товшино уу."</string>
+    <string name="save_anyway">Ямар ч үед хадгалах</string>
+    <string name="edit_address">Хаяг засах</string>
+    <string name="ok">ЗА</string>
+    <string name="vzw_address_select_text">Бид таны оруулсан хаягийг олж чадсангүй:</string>
+    <string name="vzw_address_alternate_text">Та ингэж хэлэхийг хүссэн үү:</string>
+    <string name="vzw_partial_confirm_head">Оруулсан хаягийг Яаралтай дуудлагын Үйлчилгээ үзүүлэгч баталгаажуулах боломжгүй байна.</string>
+    <string name="vzw_partial_confirm_text">Та яаралтай дуудлагын үед энэ хаягийг ашиглах уу?</string>
+    <string name="vzw_partial_failure_text">"Таны оруулсан  хот, улс эсвэл зип код буруу байж болзошгүй.
+
+Хаягаа шалгаад, дахин оролдоно уу."</string>
+    <string name="vzw_partial_failure_text_part1">Таны оруулсан хот, улс эсвэл зип код буруу байж болзошгүй.</string>
+    <string name="vzw_partial_failure_text_part2">Хаягаа шалгаад, дахин оролдоно уу.</string>
+</resources>

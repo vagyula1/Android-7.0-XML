@@ -5,23 +5,6 @@
     <style name="Widget.Leanback.DetailsActionButtonStyleBase" parent="@android:style/Widget.Material.Button.Borderless">
         <item name="android:background">@drawable/lb_action_bg</item>
     </style>
-    <style name="Widget.Leanback.OnboardingStartButtonStyle" parent="@style/Widget.Leanback">
-        <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">#ff014269</item>
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:layout_gravity">center_horizontal</item>
-        <item name="android:background">@drawable/lb_onboarding_start_button_background</item>
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">36.0dip</item>
-        <item name="android:layout_marginBottom">4.0dip</item>
-        <item name="android:text">@string/lb_onboarding_get_started</item>
-        <item name="android:textAllCaps">true</item>
-        <item name="android:fontFamily">sans-serif</item>
-        <item name="android:paddingStart">24.0dip</item>
-        <item name="android:paddingEnd">24.0dip</item>
-        <item name="android:elevation">1.5dip</item>
-        <item name="android:stateListAnimator">@null</item>
-    </style>
     <style name="Theme.LeanbackBase" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:windowOverscan">true</item>
         <item name="android:colorPrimary">@color/lb_default_brand_color</item>
@@ -32,117 +15,32 @@
         <item name="playbackControlsIconHighlightColor">?android:colorAccent</item>
         <item name="guidedStepTheme">@style/Theme.Leanback.GuidedStep</item>
     </style>
-    <style name="Theme.Leanback" parent="@style/Theme.LeanbackBase">
-        <item name="android:windowEnterTransition">@transition/lb_enter_transition</item>
-        <item name="android:windowSharedElementEnterTransition">@transition/lb_shared_element_enter_transition</item>
-        <item name="android:windowTransitionBackgroundFadeDuration">350</item>
-        <item name="android:windowReturnTransition">@transition/lb_return_transition</item>
-        <item name="android:windowSharedElementReturnTransition">@transition/lb_shared_element_return_transition</item>
-        <item name="browsePaddingStart">@dimen/lb_browse_padding_start</item>
-        <item name="browsePaddingEnd">@dimen/lb_browse_padding_end</item>
-        <item name="browsePaddingTop">@dimen/lb_browse_padding_top</item>
-        <item name="browsePaddingBottom">@dimen/lb_browse_padding_bottom</item>
-        <item name="browseRowsMarginStart">@dimen/lb_browse_rows_margin_start</item>
-        <item name="browseRowsMarginTop">@dimen/lb_browse_rows_margin_top</item>
-        <item name="browseRowsFadingEdgeLength">@dimen/lb_browse_rows_fading_edge</item>
-        <item name="browseTitleTextStyle">@style/Widget.Leanback.Title.Text</item>
-        <item name="browseTitleIconStyle">@style/Widget.Leanback.Title.Icon</item>
-        <item name="browseTitleViewStyle">@style/Widget.Leanback.TitleView</item>
-        <item name="headersVerticalGridStyle">@style/Widget.Leanback.Headers.VerticalGridView</item>
-        <item name="headerStyle">@style/Widget.Leanback.Header</item>
-        <item name="rowsVerticalGridStyle">@style/Widget.Leanback.Rows.VerticalGridView</item>
-        <item name="rowHorizontalGridStyle">@style/Widget.Leanback.Row.HorizontalGridView</item>
-        <item name="rowHeaderStyle">@style/Widget.Leanback.Row.Header</item>
-        <item name="rowHeaderDockStyle">@style/Widget.Leanback.Row.HeaderDock</item>
-        <item name="rowHoverCardTitleStyle">@style/Widget.Leanback.Row.HoverCardTitle</item>
-        <item name="rowHoverCardDescriptionStyle">@style/Widget.Leanback.Row.HoverCardDescription</item>
-        <item name="baseCardViewStyle">@style/Widget.Leanback.BaseCardViewStyle</item>
-        <item name="imageCardViewStyle">@style/Widget.Leanback.ImageCardViewStyle</item>
-        <item name="imageCardViewImageStyle">@style/Widget.Leanback.ImageCardView.ImageStyle</item>
-        <item name="imageCardViewTitleStyle">@style/Widget.Leanback.ImageCardView.TitleStyle</item>
-        <item name="imageCardViewContentStyle">@style/Widget.Leanback.ImageCardView.ContentStyle</item>
-        <item name="imageCardViewBadgeStyle">@style/Widget.Leanback.ImageCardView.BadgeStyle</item>
-        <item name="imageCardViewInfoAreaStyle">@style/Widget.Leanback.ImageCardView.InfoAreaStyle</item>
-        <item name="detailsDescriptionTitleStyle">@style/Widget.Leanback.DetailsDescriptionTitleStyle</item>
-        <item name="detailsDescriptionSubtitleStyle">@style/Widget.Leanback.DetailsDescriptionSubtitleStyle</item>
-        <item name="detailsDescriptionBodyStyle">@style/Widget.Leanback.DetailsDescriptionBodyStyle</item>
-        <item name="detailsActionButtonStyle">@style/Widget.Leanback.DetailsActionButtonStyle</item>
-        <item name="playbackControlsButtonStyle">@style/Widget.Leanback.PlaybackControlsButtonStyle</item>
-        <item name="playbackControlButtonLabelStyle">@style/Widget.Leanback.PlaybackControlLabelStyle</item>
-        <item name="playbackControlsTimeStyle">@style/Widget.Leanback.PlaybackControlsTimeStyle</item>
-        <item name="itemsVerticalGridStyle">@style/Widget.Leanback.GridItems.VerticalGridView</item>
-        <item name="errorMessageStyle">@style/Widget.Leanback.ErrorMessageStyle</item>
-        <item name="defaultSearchColor">@null</item>
-        <item name="defaultSearchBrightColor">@null</item>
-        <item name="searchOrbViewStyle">@style/Widget.Leanback.SearchOrbViewStyle</item>
-        <item name="defaultSearchIcon">@null</item>
-        <item name="playbackControlsActionIcons">@style/Widget.Leanback.PlaybackControlsActionIconsStyle</item>
-        <item name="overlayDimMaskColor">@color/lb_view_dim_mask_color</item>
-        <item name="overlayDimActiveLevel">@fraction/lb_view_active_level</item>
-        <item name="overlayDimDimmedLevel">@fraction/lb_view_dimmed_level</item>
+    <style name="Theme.Leanback.GuidedStepBase" parent="@style/Theme.LeanbackBase">
+        <item name="guidedActionsSelectorDrawable">@drawable/lb_selectable_item_rounded_rect</item>
     </style>
-    <style name="Theme.Leanback.Browse" parent="@style/Theme.Leanback">
-        <item name="android:windowEnterTransition">@transition/lb_browse_enter_transition</item>
-        <item name="android:windowReturnTransition">@transition/lb_browse_return_transition</item>
+    <style name="TextAppearance.AppCompat.Notification" parent="@android:style/TextAppearance.Material.Notification" />
+    <style name="TextAppearance.AppCompat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title" />
+    <style name="TextAppearance.AppCompat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info" />
+    <style name="TextAppearance.AppCompat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time" />
+    <style name="TextAppearance.AppCompat.Notification.Title.Media" parent="@style/TextAppearance.AppCompat.Notification.Title">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
     </style>
-    <style name="Theme.Leanback.VerticalGrid" parent="@style/Theme.Leanback">
-        <item name="android:windowEnterTransition">@transition/lb_vertical_grid_enter_transition</item>
-        <item name="android:windowReturnTransition">@transition/lb_vertical_grid_return_transition</item>
+    <style name="TextAppearance.AppCompat.Notification.Media" parent="@style/TextAppearance.AppCompat.Notification">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
     </style>
-    <style name="Theme.Leanback.Details" parent="@style/Theme.Leanback">
-        <item name="android:windowEnterTransition">@transition/lb_details_enter_transition</item>
-        <item name="android:windowSharedElementEnterTransition">@transition/lb_shared_element_enter_transition</item>
-        <item name="android:windowReturnTransition">@transition/lb_details_return_transition</item>
-        <item name="android:windowSharedElementReturnTransition">@transition/lb_shared_element_return_transition</item>
+    <style name="TextAppearance.AppCompat.Notification.Info.Media" parent="@style/TextAppearance.AppCompat.Notification.Info">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
     </style>
-    <style name="Theme.Leanback.Details.NoSharedElementTransition" parent="@style/Theme.Leanback.Details">
-        <item name="android:windowSharedElementEnterTransition">@null</item>
-        <item name="android:windowSharedElementReturnTransition">@null</item>
+    <style name="TextAppearance.AppCompat.Notification.Time.Media" parent="@style/TextAppearance.AppCompat.Notification.Time">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
     </style>
-    <style name="Theme.Leanback.GuidedStep" parent="@style/Theme.LeanbackBase">
-        <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:windowEnterTransition">@transition/lb_guidedstep_activity_enter</item>
-        <item name="android:windowTransitionBackgroundFadeDuration">@integer/lb_guidedstep_activity_background_fade_duration_ms</item>
-        <item name="guidedStepHeightWeight">@string/lb_guidedstep_height_weight</item>
-        <item name="guidedStepThemeFlag">true</item>
-        <item name="guidedStepBackground">?android:colorBackground</item>
-        <item name="guidedStepImeAppearingAnimation">@animator/lb_guidedstep_slide_up</item>
-        <item name="guidedStepImeDisappearingAnimation">@animator/lb_guidedstep_slide_down</item>
-        <item name="guidanceContainerStyle">@style/Widget.Leanback.GuidanceContainerStyle</item>
-        <item name="guidanceTitleStyle">@style/Widget.Leanback.GuidanceTitleStyle</item>
-        <item name="guidanceDescriptionStyle">@style/Widget.Leanback.GuidanceDescriptionStyle</item>
-        <item name="guidanceBreadcrumbStyle">@style/Widget.Leanback.GuidanceBreadcrumbStyle</item>
-        <item name="guidanceIconStyle">@style/Widget.Leanback.GuidanceIconStyle</item>
-        <item name="guidedActionsSelectorDrawable">?android:selectableItemBackground</item>
-        <item name="guidedActionsElevation">@dimen/lb_guidedactions_elevation</item>
-        <item name="guidedActionsBackground">@color/lb_guidedactions_background</item>
-        <item name="guidedActionsBackgroundDark">@color/lb_guidedactions_background_dark</item>
-        <item name="guidedActionsListStyle">@style/Widget.Leanback.GuidedActionsListStyle</item>
-        <item name="guidedSubActionsListStyle">@style/Widget.Leanback.GuidedSubActionsListStyle</item>
-        <item name="guidedButtonActionsListStyle">@style/Widget.Leanback.GuidedButtonActionsListStyle</item>
-        <item name="guidedActionItemContainerStyle">@style/Widget.Leanback.GuidedActionItemContainerStyle</item>
-        <item name="guidedActionItemCheckmarkStyle">@style/Widget.Leanback.GuidedActionItemCheckmarkStyle</item>
-        <item name="guidedActionItemIconStyle">@style/Widget.Leanback.GuidedActionItemIconStyle</item>
-        <item name="guidedActionItemContentStyle">@style/Widget.Leanback.GuidedActionItemContentStyle</item>
-        <item name="guidedActionItemTitleStyle">@style/Widget.Leanback.GuidedActionItemTitleStyle</item>
-        <item name="guidedActionItemDescriptionStyle">@style/Widget.Leanback.GuidedActionItemDescriptionStyle</item>
-        <item name="guidedActionItemChevronStyle">@style/Widget.Leanback.GuidedActionItemChevronStyle</item>
-        <item name="guidedActionPressedAnimation">@animator/lb_guidedactions_item_pressed</item>
-        <item name="guidedActionUnpressedAnimation">@animator/lb_guidedactions_item_unpressed</item>
-        <item name="guidedActionEnabledChevronAlpha">@string/lb_guidedactions_item_enabled_chevron_alpha</item>
-        <item name="guidedActionDisabledChevronAlpha">@string/lb_guidedactions_item_disabled_chevron_alpha</item>
-        <item name="guidedActionContentWidthWeight">@string/lb_guidedactions_width_weight</item>
-        <item name="guidedActionContentWidthWeightTwoPanels">@string/lb_guidedactions_width_weight_two_panels</item>
-        <item name="guidedActionTitleMinLines">@integer/lb_guidedactions_item_title_min_lines</item>
-        <item name="guidedActionTitleMaxLines">@integer/lb_guidedactions_item_title_max_lines</item>
-        <item name="guidedActionDescriptionMinLines">@integer/lb_guidedactions_item_description_min_lines</item>
-        <item name="guidedActionVerticalPadding">@dimen/lb_guidedactions_vertical_padding</item>
+    <style name="Widget.AppCompat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:textAppearanceButton</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
     </style>
-    <style name="Theme.Leanback.GuidedStep.Half" parent="@style/Theme.Leanback.GuidedStep">
-        <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowEnterTransition">@transition/lb_guidedstep_activity_enter_bottom</item>
-        <item name="guidedStepHeightWeight">@string/lb_guidedstep_height_weight_translucent</item>
+    <style name="Widget.AppCompat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
     </style>
     <style name="Base.Widget.AppCompat.ActionButton" parent="@android:style/Widget.Material.ActionButton" />
     <style name="Base.Widget.AppCompat.ActionButton.CloseMode" parent="@android:style/Widget.Material.ActionButton.CloseMode">
@@ -232,22 +130,8 @@
     <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium.Inverse" />
     <style name="Base.TextAppearance.AppCompat.Small" parent="@android:style/TextAppearance.Material.Small" />
     <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/TextAppearance.Material.Small.Inverse" />
-    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:textColorLink">?android:colorAccent</item>
-        <item name="android:windowActionBar">false</item>
-        <item name="android:buttonBarStyle">?buttonBarStyle</item>
-        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
-        <item name="android:textColorLinkInverse">?android:colorAccent</item>
-    </style>
-    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:textColorLink">?android:colorAccent</item>
-        <item name="android:windowActionBar">false</item>
-        <item name="android:buttonBarStyle">?buttonBarStyle</item>
-        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
-        <item name="android:textColorLinkInverse">?android:colorAccent</item>
-    </style>
+    <style name="Platform.AppCompat" parent="@style/Platform.V21.AppCompat" />
+    <style name="Platform.AppCompat.Light" parent="@style/Platform.V21.AppCompat.Light" />
     <style name="Base.Theme.AppCompat" parent="@style/Base.V21.Theme.AppCompat" />
     <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V21.Theme.AppCompat.Light" />
     <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V21.Theme.AppCompat.Dialog" />
@@ -264,39 +148,24 @@
     <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat" />
     <style name="Platform.ThemeOverlay.AppCompat.Light" parent="@style/Platform.ThemeOverlay.AppCompat" />
     <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V21.ThemeOverlay.AppCompat.Dialog" />
-    <style name="RecentsTheme" parent="@android:style/Theme.Material">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowAnimationStyle">@null</item>
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">@android:color/transparent</item>
-        <item name="android:ambientShadowAlpha">0.35</item>
-    </style>
-    <style name="ForcedResizableTheme" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
-        <item name="android:windowBackground">@drawable/forced_resizable_background</item>
-        <item name="android:windowAnimationStyle">@style/Animation.ForcedResizable</item>
-        <item name="android:statusBarColor">@color/transparent</item>
-    </style>
-    <style name="systemui_theme" parent="@android:style/Theme.DeviceDefault">
-        <item name="android:colorControlActivated">@color/system_accent_color</item>
-        <item name="android:colorPrimary">@color/system_primary_color</item>
-    </style>
-    <style name="systemui_theme_remote_input" parent="@android:style/Theme.DeviceDefault.Light">
-        <item name="android:colorAccent">@color/remote_input_accent</item>
-    </style>
-    <style name="Theme.SystemUI.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
-        <item name="android:colorControlActivated">@color/system_accent_color</item>
-        <item name="android:colorPrimary">@color/system_primary_color</item>
-    </style>
-    <style name="ThemeOverlay.SwitchBar" parent="@android:style/ThemeOverlay">
-        <item name="android:colorAccent">@color/switch_accent_color</item>
-    </style>
-    <style name="PasswordTheme" parent="@android:style/Theme.DeviceDefault">
-        <item name="android:colorControlNormal">#80ffffff</item>
-        <item name="android:colorControlActivated">#80ffffff</item>
-    </style>
     <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large" />
     <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small" />
+    <style name="Platform.V21.AppCompat" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:textColorHintInverse">@color/abc_hint_foreground_material_light</item>
+        <item name="android:textColorHint">@color/abc_hint_foreground_material_dark</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+    <style name="Platform.V21.AppCompat.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:textColorHintInverse">@color/abc_hint_foreground_material_dark</item>
+        <item name="android:textColorHint">@color/abc_hint_foreground_material_light</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
     <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
         <item name="android:colorControlNormal">?colorControlNormal</item>
         <item name="android:colorControlActivated">?colorControlActivated</item>

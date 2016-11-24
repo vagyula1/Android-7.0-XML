@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Photos.EmptyState.Caption" parent="@style/Theme.Photos.EmptyState.Caption.Common">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="Theme.Photos.EmptyState.Title" parent="@style/Theme.Photos.EmptyState.Title.Common">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+</resources>

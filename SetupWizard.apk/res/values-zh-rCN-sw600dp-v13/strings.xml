@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activation_failure_text">"无法激活您的移动数据服务。这可能是暂时性的问题。
+    <string name="url_load_unsuccessful_message">您的平板电脑未连接到移动数据服务。要立即查看此信息，请用网络浏览器访问 %s。</string>
+    <string name="activation_text">触摸<b>激活</b>"可立即激活您的移动服务（此过程可能需要几分钟的时间）。
 
-您现在可以跳过此步骤，但稍后请务必通过“系统设置”进行激活。在激活移动数据服务之前，您平板电脑的大部分功能无法使用。"</string>
-  <string name="activation_failure_text_gen">无法激活您的移动数据服务。这可能是暂时性的问题，您可以尝试通过重新启动平板电脑解决此问题。</string>
-  <string name="activation_skip_confirmation">"在激活移动数据服务之前，您平板电脑的大部分功能无法使用。
+您也可以触摸"<b>跳过</b>，改为使用WLAN连接设置您的平板电脑。</string>
+    <string name="activation_skip_confirmation">"在激活移动数据服务之前，您平板电脑的大部分功能无法使用。
 
 您现在可以跳过此步骤，稍后可通过“系统设置”进行激活。"</string>
-  <string name="activation_spc_failure_text">发生错误，您需要关闭并重新启动平板电脑，然后才能再次尝试激活。您的平板电脑将于 60 秒后自动关闭，您也可以触摸&lt;b&gt;&amp;#31435;&amp;#21363;&amp;#20851;&amp;#38381;&lt;/b&gt;"&amp;#12290;
+    <string name="activation_failure_text">"无法激活您的移动数据服务。这可能是暂时性的问题。
 
-&amp;#24179;&amp;#26495;&amp;#30005;&amp;#33041;&amp;#20851;&amp;#38381;&amp;#21518;&amp;#65292;&amp;#35831;&amp;#25353;&amp;#30005;&amp;#28304;&amp;#25353;&amp;#38062;&amp;#37325;&amp;#26032;&amp;#21551;&amp;#21160;&amp;#12290;"</string>
-  <string name="activation_text">触摸&lt;b&gt;&amp;#28608;&amp;#27963;&lt;/b&gt;"&amp;#21487;&amp;#31435;&amp;#21363;&amp;#28608;&amp;#27963;&amp;#24744;&amp;#30340;&amp;#31227;&amp;#21160;&amp;#26381;&amp;#21153;&amp;#65288;&amp;#27492;&amp;#36807;&amp;#31243;&amp;#21487;&amp;#33021;&amp;#38656;&amp;#35201;&amp;#20960;&amp;#20998;&amp;#38047;&amp;#30340;&amp;#26102;&amp;#38388;&amp;#65289;&amp;#12290;
+您现在可以跳过此步骤，但稍后请务必通过“系统设置”进行激活。在激活移动数据服务之前，您平板电脑的大部分功能无法使用。"</string>
+    <string name="activation_failure_text_gen">无法激活您的移动数据服务。这可能是暂时性的问题，您可以尝试通过重新启动平板电脑解决此问题。</string>
+    <string name="activation_spc_failure_text">发生错误，您需要关闭并重新启动平板电脑，然后才能再次尝试激活。您的平板电脑将于 60 秒后自动关闭，您也可以触摸<b>立即关闭</b>"。
 
-&amp;#24744;&amp;#20063;&amp;#21487;&amp;#20197;&amp;#35302;&amp;#25720;"&lt;b&gt;&amp;#36339;&amp;#36807;&lt;/b&gt;&amp;#65292;&amp;#25913;&amp;#20026;&amp;#20351;&amp;#29992;WLAN&amp;#36830;&amp;#25509;&amp;#35774;&amp;#32622;&amp;#24744;&amp;#30340;&amp;#24179;&amp;#26495;&amp;#30005;&amp;#33041;&amp;#12290;</string>
-  <string name="setup_complete_message">您的平板电脑已设置完毕，可以使用了。</string>
-  <string name="sim_missing_text">要插入SIM卡，请阅读您的平板电脑随附的说明。</string>
-  <string name="url_load_unsuccessful_message">您的平板电脑未连接到移动数据服务。要立即查看此信息，请用网络浏览器访问 %s。</string>
+平板电脑关闭后，请按电源按钮重新启动。"</string>
+    <string name="sim_missing_text">要插入SIM卡，请阅读您的平板电脑随附的说明。</string>
+    <string name="setup_complete_message">您的平板电脑已设置完毕，可以使用了。</string>
 </resources>

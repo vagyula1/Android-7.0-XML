@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activation_failure_text">"Impossible d'activer le service de données mobiles. Il peut s'agir d'un problème temporaire.
+    <string name="url_load_unsuccessful_message">"Votre tablette n'est connectée à aucun service de données mobiles. Pour afficher ces informations maintenant, accédez à la page %s dans un navigateur Web."</string>
+    <string name="activation_text">Appuyez sur <b>Activer</b>" pour activer le service mobile maintenant. Cette opération peut prendre quelques minutes.
 
-Si vous choisissez de ne pas procéder à l'activation maintenant, n'oubliez pas de le faire plus tard dans « Paramètres système ». La plupart des fonctionnalités de votre tablette ne seront pas disponibles tant que vous n'aurez pas activé ce service."</string>
-  <string name="activation_failure_text_gen">"Impossible d'activer le service de données mobiles. Il peut s'agir d'un problème temporaire pouvant être résolu en redémarrant la tablette."</string>
-  <string name="activation_skip_confirmation">"La plupart des fonctionnalités de votre tablette ne seront pas disponibles tant que vous n'aurez pas activé le service de données mobiles.
+Vous pouvez également appuyer sur "<b>Ignorer</b>" pour configurer votre tablette à l'aide d'une connexion Wi-Fi."</string>
+    <string name="activation_skip_confirmation">"La plupart des fonctionnalités de votre tablette ne seront pas disponibles tant que vous n'aurez pas activé le service de données mobiles.
 
 Si vous choisissez de ne pas procéder à l'activation maintenant, vous pourrez le faire plus tard dans « Paramètres système »."</string>
-  <string name="activation_spc_failure_text">"Une erreur s'est produite. Vous devez arrêter et redémarrer votre tablette avant toute autre tentative d'activation. Elle s'éteindra automatiquement dans 60 secondes. Vous pouvez également l'arrêter manuellement en appuyant sur "&lt;b&gt;Arr&amp;#234;ter maintenant&lt;/b&gt;".
+    <string name="activation_failure_text">"Impossible d'activer le service de données mobiles. Il peut s'agir d'un problème temporaire.
 
-Une fois votre tablette arr&amp;#234;t&amp;#233;e, appuyez sur le bouton MARCHE-ARR&amp;#202;T pour la red&amp;#233;marrer."</string>
-  <string name="activation_text">Appuyez sur &lt;b&gt;Activer&lt;/b&gt;" pour activer le service mobile maintenant. Cette op&amp;#233;ration peut prendre quelques minutes.
+Si vous choisissez de ne pas procéder à l'activation maintenant, n'oubliez pas de le faire plus tard dans « Paramètres système ». La plupart des fonctionnalités de votre tablette ne seront pas disponibles tant que vous n'aurez pas activé ce service."</string>
+    <string name="activation_failure_text_gen">"Impossible d'activer le service de données mobiles. Il peut s'agir d'un problème temporaire pouvant être résolu en redémarrant la tablette."</string>
+    <string name="activation_spc_failure_text">"Une erreur s'est produite. Vous devez arrêter et redémarrer votre tablette avant toute autre tentative d'activation. Elle s'éteindra automatiquement dans 60 secondes. Vous pouvez également l'arrêter manuellement en appuyant sur "<b>Arrêter maintenant</b>".
 
-Vous pouvez &amp;#233;galement appuyer sur "&lt;b&gt;Ignorer&lt;/b&gt;" pour configurer votre tablette &amp;#224; l'aide d'une connexion Wi-Fi."</string>
-  <string name="setup_complete_message">Votre tablette est configurée et prête à être utilisée.</string>
-  <string name="sim_missing_text">Pour insérer la carte SIM, lisez les instructions fournies avec votre tablette.</string>
-  <string name="url_load_unsuccessful_message">"Votre tablette n'est connectée à aucun service de données mobiles. Pour afficher ces informations maintenant, accédez à la page %s dans un navigateur Web."</string>
+Une fois votre tablette arrêtée, appuyez sur le bouton MARCHE-ARRÊT pour la redémarrer."</string>
+    <string name="sim_missing_text">Pour insérer la carte SIM, lisez les instructions fournies avec votre tablette.</string>
+    <string name="setup_complete_message">Votre tablette est configurée et prête à être utilisée.</string>
 </resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d fayl kopyalanır.</item>
+        <item quantity="one">%1$d fayl kopyalanır.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d fayl köçürülür.</item>
+        <item quantity="one">%1$d fayl köçürülür.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d fayl silinir.</item>
+        <item quantity="one">%1$d fayl silinir.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d fayl kopyalanmadı</item>
+        <item quantity="one">%1$d fayl kopyalanmadı</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d fayl köçürülmədi</item>
+        <item quantity="one">%1$d fayl köçürülmədi</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d fayl silinmədi</item>
+        <item quantity="one">%1$d fayl silinmədi</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d fayl buferə kopyalandı.</item>
+        <item quantity="one">%1$d fayl buferə kopyalandı.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d seçilib</item>
+        <item quantity="one">%1$d seçilib</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d element</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d fayl silinsin?</item>
+        <item quantity="one">%1$d fayl silinsin?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d qovluq və onun məzmunu silinsin?</item>
+        <item quantity="one">%1$d qovluq və onun məzmunu silinsin?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d element silinsin?</item>
+        <item quantity="one">%1$d element silinsin?</item>
+    </plurals>
+</resources>

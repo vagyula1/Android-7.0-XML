@@ -60,6 +60,18 @@
         <item>4 MB na vyrov. pamäť denníka</item>
         <item>16 MB na vyrov. pamäť denníka</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Vypnuté</item>
+        <item>Všetko</item>
+        <item>Okrem rádia</item>
+        <item>iba jadro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Vypnuté</item>
+        <item>Všetky vyrovnávacie pamäte denníka</item>
+        <item>Všetky vyrovnávacie pamäte denníka (okrem rádia)</item>
+        <item>iba vyrovnávacia pamäť denníka jadra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animácia je vypnutá</item>
         <item>Mierka animácie 0,5x</item>
@@ -158,5 +170,10 @@
         <item>Vylepšené farby</item>
         <item>Prirodzené farby, ako ich vidí ľudské oko</item>
         <item>Farby optimalizované pre digitálny obsah</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
 </resources>

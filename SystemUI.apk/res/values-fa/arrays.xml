@@ -4,7 +4,7 @@
         <item></item>
         <item>اسکن کردن...</item>
         <item>در حال اتصال…</item>
-        <item>در حال تأیید اعتبار...</item>
+        <item>در حال راستی‌آزمایی...</item>
         <item>‏در حال دریافت آدرس IP...</item>
         <item>متصل</item>
         <item>معلق</item>
@@ -18,7 +18,7 @@
         <item></item>
         <item>اسکن کردن...</item>
         <item>در حال اتصال به %1$s…</item>
-        <item>در حال تأیید اعتبار با %1$s...</item>
+        <item>در حال راستی‌آزمایی با %1$s...</item>
         <item>‏در حال دریافت آدرس IP از %1$s...</item>
         <item>متصل شد به %1$s</item>
         <item>معلق</item>
@@ -59,6 +59,18 @@
         <item>۱ میلیون در هر بافر گزارش</item>
         <item>۴ میلیون در هر بافر گزارش</item>
         <item>۱۶ میلیون در هر بافر گزارش</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>خاموش</item>
+        <item>همه</item>
+        <item>همه به‌جز رادیو</item>
+        <item>فقط هسته اصلی</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>خاموش</item>
+        <item>همه بافرهای گزارش</item>
+        <item>همه به‌جز بافرهای گزارش رادیو</item>
+        <item>فقط بافر گزارش هسته اصلی</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>پویانمایی خاموش</item>
@@ -159,6 +171,24 @@
         <item>رنگ‌های طبیعی به‌همان صورتی که با چشم دیده می‌شوند</item>
         <item>رنگ‌های بهینه‌شده برای محتوای دیجیتالی</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>٪۰</item>
+        <item>۵۰٪</item>
+        <item>۱۰۰٪</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>تماس</item>
+        <item>سیستم</item>
+        <item>تماس</item>
+        <item>رسانه</item>
+        <item>هشدار</item>
+        <item></item>
+        <item>بلوتوث</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>ساعت، دقیقه و ثانیه نشان داده شود</item>
         <item>ساعت و دقیقه نشان داده شود (پیش‌فرض)</item>
@@ -169,4 +199,5 @@
         <item>هنگام شارژ شدن درصد نشان داده شود (پیش‌فرض)</item>
         <item>این نماد نشان داده نشود</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

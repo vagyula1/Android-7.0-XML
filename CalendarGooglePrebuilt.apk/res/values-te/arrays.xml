@@ -1,78 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>నోటిఫికేషన్</item>
-        <item>ఇమెయిల్</item>
-        <item>SMS</item>
-        <item>అలారం</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>ఏదీ కాదు</item>
-        <item>0 నిమిషాలు</item>
-        <item>1 నిమిషం</item>
-        <item>5 నిమిషాలు</item>
-        <item>10 నిమిషాలు</item>
-        <item>15 నిమిషాలు</item>
-        <item>20 నిమిషాలు</item>
-        <item>25 నిమిషాలు</item>
-        <item>30 నిమిషాలు</item>
-        <item>45 నిమిషాలు</item>
-        <item>1 గంట</item>
-        <item>2 గంటలు</item>
-        <item>3 గంటలు</item>
-        <item>12 గంటలు</item>
-        <item>24 గంటలు</item>
-        <item>2 రోజులు</item>
-        <item>1 వారం</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>శనివారం</item>
-        <item>ఆదివారం</item>
-        <item>సోమవారం</item>
-    </string-array>
-    <string-array name="availability">
-        <item>బిజీగా ఉంది</item>
-        <item>అందుబాటులో ఉంది</item>
-        <item>పరీక్షార్థక స్థితిలో ఉంది</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>మొదటిది</item>
-        <item>రెండవది</item>
-        <item>మూడవది</item>
-        <item>నాలుగవది</item>
-        <item>చివరిది</item>
-    </string-array>
-    <string-array name="invitation_responses">
-        <item>ఇంకా ప్రతిస్పందించలేదు</item>
-        <item>హాజరవుతున్నారు</item>
-        <item>హాజరు కావచ్చు</item>
-        <item>హాజరవడం లేదు</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>ఈ ఈవెంట్</item>
-        <item>క్రింది అన్ని ఈవెంట్‌లు</item>
-        <item>అన్ని ఈవెంట్‌లు</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>ఇది &amp; భవిష్యత్తు ఈవెంట్‌లు</item>
-        <item>అన్ని ఈవెంట్‌లు</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>ఈ ఈవెంట్ మాత్రమే</item>
-        <item>శ్రేణిలోని అన్ని ఈవెంట్‌లు</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>రోజు</item>
-        <item>వారం</item>
-        <item>నెల</item>
-        <item>విషయ పట్టిక</item>
-        <item>Timely</item>
-    </string-array>
-    <string-array name="availability_labels">
-        <item>బిజీగా ఉన్నారు</item>
-        <item>అందుబాటులో ఉన్నారు</item>
-    </string-array>
-    <string-array name="color_names">
+    <string-array name="api_color_names">
         <item>టమోట</item>
         <item>నారింజ</item>
         <item>గుమ్మడికాయ</item>
@@ -98,11 +26,149 @@
         <item>ముదురుబూడిద</item>
         <item>లేతకాఫీ</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>రెండు నిమిషాలు ఆలస్యంగా జరుగుతోంది.</item>
-        <item>10 నిమిషాల్లో అక్కడికి చేరుకోండి.</item>
-        <item>ప్రారంభించండి మరియు నేను లేకుండానే ప్రారంభించండి.</item>
-        <item>క్షమించండి, నేను హాజరు కాలేను. మనం మళ్లీ షెడ్యూల్ చేయాలి.</item>
+    <string-array name="availability">
+        <item>బిజీగా ఉంది</item>
+        <item>అందుబాటులో ఉంది</item>
+        <item>పరీక్షార్థక స్థితిలో ఉంది</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>బిజీగా ఉన్నారు</item>
+        <item>అందుబాటులో ఉన్నారు</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>సింట్ మార్టెన్</item>
+        <item>కరీబియన్ నెదర్లాండ్స్</item>
+        <item>కురాకో</item>
+        <item>దక్షిణ సూడాన్</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ఈ ఈవెంట్ మాత్రమే</item>
+        <item>శ్రేణిలోని అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>ఈ సెషన్</item>
+        <item>కింది అన్ని సెషన్‌లు (మరియు షెడ్యూల్ చేయడాన్ని ఆపివేస్తుంది)</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ఈ ఈవెంట్</item>
+        <item>క్రింది అన్ని ఈవెంట్‌లు</item>
+        <item>అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>ఈ రిమైండర్</item>
+        <item>అన్ని క్రింది రిమైండర్‌లు</item>
+        <item>అన్ని రిమైండర్‌లు</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>పునరావృతం చేయవద్దు</item>
+        <item>ప్రతి రోజు</item>
+        <item>ప్రతి వారం</item>
+        <item>ప్రతి నెల</item>
+        <item>ప్రతి సంవత్సరం</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>ఎవరితో?</item>
+        <item>ఒకరిని జోడించండి, సంప్రదింపు సమాచారాన్ని పొందండి</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}పరిచయాలను జోడించడం వలన ఆహ్వానం పంపబడదు</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>ఎక్కడ?</item>
+        <item>స్థానాన్ని జోడించండి, దిశలను పొందండి</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} వ్యక్తులనుజోడించండి, సంప్ర. సమాచారం పొందండి</item>
+        <item>{LOCATION_ICON} స్థలాలను జోడించండి, దిశలను పొందండి</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>ఈ రోజు</item>
+        <item>కొద్ది రోజుల్లోపు</item>
+        <item>వారంలోపు</item>
+        <item>ఇంచుమించు తేదీ</item>
+        <item>నిర్దిష్ట తేదీ</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>ఈ రోజు</item>
+        <item>కొద్ది రోజుల్లోపు</item>
+        <item>వారంలోపు</item>
+        <item>ఇంచుమించు తేదీ…</item>
+        <item>నిర్దిష్ట తేదీ…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>షెడ్యూల్‌లను పొందుతోంది...</item>
+        <item>వైరుధ్యాలను విశ్లేషిస్తోంది...</item>
+        <item>సూచనలకు ర్యాంక్ ఇస్తోంది...</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>వారంలోపు</item>
+        <item>ఇంచుమించు తేదీ</item>
+        <item>నిర్దిష్ట తేదీ</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>గిటార్‌ని వాయించడం సాధన చేయండి</item>
+        <item>పియానోని వాయించడం సాధన చేయండి</item>
+        <item>డ్రమ్స్ వాయించడం సాధన చేయండి</item>
+        <item>వేణువు ఊదడం సాధన చేయండి</item>
+        <item>సమాఘాత వాయిద్యాలను వాయించడం సాధన చేయండి</item>
+        <item>హార్ప్‌ని (అనగా, త్రికోణాకారంలో ఉండే ఒక విధమైన వీణని) వాయించడం సాధన చేయండి</item>
+        <item>శాక్సోఫోన్‌ను వాయించడం సాధన చేయండి</item>
+        <item>హార్మోనికాను వాయించడం సాధన చేయండి</item>
+        <item>ఎయిర్ గిటార్‌ను వాయించడం సాధన చేయండి</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>గీయండి</item>
+        <item>చిత్రలేఖనం</item>
+        <item>స్క్రాప్‌బుక్‌ను రూపొందించండి</item>
+        <item>కళాకృతులను తయారు చేయండి</item>
+        <item>శిల్పాన్ని రూపొందించండి</item>
+        <item>కాగితం గుజ్జుతో బొమ్మలు తయారు చేయండి</item>
+        <item>తెరపై ముద్రణ</item>
+        <item>మట్టి బొమ్మలను తయారు చేయండి</item>
+        <item>కర్ర చిత్రాలను తయారు చేయండి</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>అరబిక్ భాషను నేర్చుకోండి</item>
+        <item>చైనీస్ భాషను నేర్చుకోండి</item>
+        <item>ఆంగ్ల భాషను నేర్చుకోండి</item>
+        <item>ఫ్రెంచ్ భాషను నేర్చుకోండి</item>
+        <item>హిందీ భాషను నేర్చుకోండి</item>
+        <item>జపనీస్ భాషను నేర్చుకోండి</item>
+        <item>పోర్చుగీస్ భాషను నేర్చుకోండి</item>
+        <item>రష్యన్ భాషను నేర్చుకోండి</item>
+        <item>స్పానిష్ భాషను నేర్చుకోండి</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>వ్రాయడం</item>
+        <item>కుట్టుపని</item>
+        <item>చేపలు పట్టడం</item>
+        <item>తోట</item>
+        <item>బౌలింగ్</item>
+        <item>కాగితపు బొమ్మలు చేయడం</item>
+        <item>ఒక చక్రం ఉండే సైకిల్ తొక్కడం</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>చేయాల్సిన పనుల జాబితాను రూపొందించడం</item>
+        <item>కిరాణా సరుకులు కొనడం</item>
+        <item>చదవడం</item>
+        <item>బట్టలు ఉతికి, ఇస్త్రీ చేయడం</item>
+        <item>ఆర్థిక విషయాలను చూసుకోవడం</item>
+        <item>వారాన్ని ప్లాన్ చేయడం</item>
+        <item>నెలను ప్లాన్ చేయడం</item>
+        <item>ఇమెయిల్ ఇన్‌బాక్స్‌ను క్లియర్ చేయడం</item>
+        <item>ఇల్లు శుభ్రం చేయడం</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>మీ లక్ష్యం కోసం సమయాన్ని కనుగొంటోంది…</item>
+        <item>మీ కోసం సెషన్‌లను షెడ్యూల్ చేస్తోంది...</item>
+        <item>మీరు వీటిని ఎప్పుడైనా సర్దుబాటు చేయవచ్చు...</item>
+        <item>క్యాలెండర్ మీ ప్రాధాన్యతలను తెలుసుకుంటుంది…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>పరికర స్థానాన్ని ఉపయోగిస్తుంది.</item>
+        <item></item>
+        <item>మీరు సెట్టింగ్‌ల్లో దీన్ని మార్చవచ్చు.</item>
     </string-array>
     <string-array name="oobe_headers">
         <item>Google క్యాలెండర్</item>
@@ -116,25 +182,255 @@
         <item>సహాయకాల వలన మీరు శీర్షికలు, పరిచయాలు మరియు స్థలాల కోసం టైప్ చేస్తున్నప్పుడు సూచనలు కనిపిస్తాయి.</item>
         <item>విమానాలు, రెస్టారెంట్‌లు మరియు మరిన్నింటి కోసం రిజర్వేషన్‌లు ఇమెయిల్‌ల నుండి స్వయంచాలకంగా జోడించబడతాయి.</item>
     </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>పరికర స్థానాన్ని ఉపయోగిస్తుంది.</item>
-        <item></item>
-        <item>మీరు సెట్టింగ్‌ల్లో దీన్ని మార్చవచ్చు.</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>శనివారం</item>
+        <item>ఆదివారం</item>
+        <item>సోమవారం</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON} వ్యక్తులను జోడించండి, సంప్రదింపు సమాచారాన్ని పొందండి</item>
-        <item>{LOCATION_ICON} స్థలాలను జోడించండి, దిశలను పొందండి</item>
+    <string-array name="quick_response_defaults">
+        <item>రెండు నిమిషాలు ఆలస్యంగా జరుగుతోంది.</item>
+        <item>10 నిమిషాల్లో అక్కడికి చేరుకోండి.</item>
+        <item>ప్రారంభించండి మరియు నేను లేకుండానే ప్రారంభించండి.</item>
+        <item>క్షమించండి, నేను హాజరు కాలేను. మనం మళ్లీ షెడ్యూల్ చేయాలి.</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>ఎవరితో?</item>
-        <item>ఒకరిని జోడించండి, సంప్రదింపు సమాచారాన్ని పొందండి</item>
+    <string-array name="recurrence_freq">
+        <item>ప్రతి రోజు పునరావృతం</item>
+        <item>ప్రతి వారం పునరావృతం</item>
+        <item>ప్రతి నెల పునరావృతం</item>
+        <item>ప్రతి ఏడాది పునరావృతం</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON}పరిచయాలను జోడించడం వలన ఆహ్వానం పంపబడదు</item>
+    <string-array name="reminder_methods_labels">
+        <item>నోటిఫికేషన్</item>
+        <item>ఇమెయిల్</item>
+        <item>SMS</item>
+        <item>అలారం</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>ఎక్కడ?</item>
-        <item>స్థానాన్ని జోడించండి, దిశలను పొందండి</item>
+    <string-array name="repeat_by_nth_fri">
+        <item>ప్రతి మొదటి శుక్రవారం నాడు</item>
+        <item>ప్రతి రెండవ శుక్రవారం నాడు</item>
+        <item>ప్రతి మూడవ శుక్రవారం నాడు</item>
+        <item>ప్రతి నాల్గవ శుక్రవారం నాడు</item>
+        <item>ప్రతి చివరి శుక్రవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ప్రతి మొదటి సోమవారం నాడు</item>
+        <item>ప్రతి రెండవ సోమవారం నాడు</item>
+        <item>ప్రతి మూడవ సోమవారం నాడు</item>
+        <item>ప్రతి నాల్గవ సోమవారం నాడు</item>
+        <item>ప్రతి చివరి సోమవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ప్రతి మొదటి శనివారం నాడు</item>
+        <item>ప్రతి రెండవ శనివారం నాడు</item>
+        <item>ప్రతి మూడవ శనివారం నాడు</item>
+        <item>ప్రతి నాల్గవ శనివారం నాడు</item>
+        <item>ప్రతి చివరి శనివారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ప్రతి మొదటి ఆదివారం నాడు</item>
+        <item>ప్రతి రెండవ ఆదివారం నాడు</item>
+        <item>ప్రతి మూడవ ఆదివారం నాడు</item>
+        <item>ప్రతి నాల్గవ ఆదివారం నాడు</item>
+        <item>ప్రతి చివరి ఆదివారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ప్రతి మొదటి గురువారం నాడు</item>
+        <item>ప్రతి రెండవ గురువారం నాడు</item>
+        <item>ప్రతి మూడవ గురువారం నాడు</item>
+        <item>ప్రతి నాల్గవ గురువారం నాడు</item>
+        <item>ప్రతి చివరి గురువారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ప్రతి మొదటి మంగళవారం నాడు</item>
+        <item>ప్రతి రెండవ మంగళవారం నాడు</item>
+        <item>ప్రతి మూడవ మంగళవారం నాడు</item>
+        <item>ప్రతి నాల్గవ మంగళవారం నాడు</item>
+        <item>ప్రతి చివరి మంగళవారం నాడు</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ప్రతి మొదటి బుధవారం నాడు</item>
+        <item>ప్రతి రెండవ బుధవారం నాడు</item>
+        <item>ప్రతి మూడవ బుధవారం నాడు</item>
+        <item>ప్రతి నాల్గవ బుధవారం నాడు</item>
+        <item>ప్రతి చివరి బుధవారం నాడు</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>africa/blantyre</item>
+        <item>africa/brazzaville</item>
+        <item>africa/bujumbura</item>
+        <item>africa/dar_es_salaam</item>
+        <item>africa/gaborone</item>
+        <item>africa/harare</item>
+        <item>africa/johannesburg</item>
+        <item>africa/kigali</item>
+        <item>africa/kinshasa</item>
+        <item>africa/luanda</item>
+        <item>africa/lubumbashi</item>
+        <item>africa/lusaka</item>
+        <item>africa/maputo</item>
+        <item>africa/maseru</item>
+        <item>africa/mbabane</item>
+        <item>africa/nairobi</item>
+        <item>africa/windhoek</item>
+        <item>america/araguaina</item>
+        <item>america/argentina/buenos_aires</item>
+        <item>america/argentina/catamarca</item>
+        <item>america/argentina/comodrivadavia</item>
+        <item>america/argentina/cordoba</item>
+        <item>america/argentina/jujuy</item>
+        <item>america/argentina/la_rioja</item>
+        <item>america/argentina/mendoza</item>
+        <item>america/argentina/rio_gallegos</item>
+        <item>america/argentina/salta</item>
+        <item>america/argentina/san_juan</item>
+        <item>america/argentina/san_luis</item>
+        <item>america/argentina/tucuman</item>
+        <item>america/argentina/ushuaia</item>
+        <item>america/asuncion</item>
+        <item>america/bahia</item>
+        <item>america/belem</item>
+        <item>america/buenos_aires</item>
+        <item>america/campo_grande</item>
+        <item>america/catamarca</item>
+        <item>america/cordoba</item>
+        <item>america/cuiaba</item>
+        <item>america/eirunepe</item>
+        <item>america/fortaleza</item>
+        <item>america/guayaquil</item>
+        <item>america/jujuy</item>
+        <item>america/la_paz</item>
+        <item>america/lima</item>
+        <item>america/maceio</item>
+        <item>america/manaus</item>
+        <item>america/mendoza</item>
+        <item>america/montevideo</item>
+        <item>america/noronha</item>
+        <item>america/porto_acre</item>
+        <item>america/porto_velho</item>
+        <item>america/recife</item>
+        <item>america/rio_branco</item>
+        <item>america/rosario</item>
+        <item>america/santarem</item>
+        <item>america/santiago</item>
+        <item>america/sao_paulo</item>
+        <item>antarctica/casey</item>
+        <item>antarctica/davis</item>
+        <item>antarctica/dumontdurville</item>
+        <item>antarctica/macquarie</item>
+        <item>antarctica/mawson</item>
+        <item>antarctica/mcmurdo</item>
+        <item>antarctica/palmer</item>
+        <item>antarctica/rothera</item>
+        <item>antarctica/south_pole</item>
+        <item>antarctica/syowa</item>
+        <item>antarctica/vostok</item>
+        <item>asia/dili</item>
+        <item>asia/jakarta</item>
+        <item>asia/jayapura</item>
+        <item>asia/makassar</item>
+        <item>asia/pontianak</item>
+        <item>asia/ujung_pandang</item>
+        <item>atlantic/south_georgia</item>
+        <item>atlantic/st_helena</item>
+        <item>atlantic/stanley</item>
+        <item>australia/act</item>
+        <item>australia/adelaide</item>
+        <item>australia/brisbane</item>
+        <item>australia/broken_hill</item>
+        <item>australia/canberra</item>
+        <item>australia/currie</item>
+        <item>australia/darwin</item>
+        <item>australia/eucla</item>
+        <item>australia/hobart</item>
+        <item>australia/lhi</item>
+        <item>australia/lindeman</item>
+        <item>australia/lord_howe</item>
+        <item>australia/melbourne</item>
+        <item>australia/nsw</item>
+        <item>australia/north</item>
+        <item>australia/perth</item>
+        <item>australia/queensland</item>
+        <item>australia/south</item>
+        <item>ఆస్ట్రేలియా - సిడ్నీ</item>
+        <item>australia/tasmania</item>
+        <item>australia/victoria</item>
+        <item>australia/west</item>
+        <item>australia/yancowinna</item>
+        <item>bet</item>
+        <item>brazil/acre</item>
+        <item>brazil/denoronha</item>
+        <item>brazil/east</item>
+        <item>brazil/west</item>
+        <item>cat</item>
+        <item>chile/continental</item>
+        <item>chile/easterisland</item>
+        <item>indian/antananarivo</item>
+        <item>indian/chagos</item>
+        <item>indian/christmas</item>
+        <item>indian/cocos</item>
+        <item>indian/comoro</item>
+        <item>indian/kerguelen</item>
+        <item>indian/mahe</item>
+        <item>indian/mauritius</item>
+        <item>indian/mayotte</item>
+        <item>indian/reunion</item>
+        <item>mit</item>
+        <item>NZ$</item>
+        <item>nz-chat</item>
+        <item>pacific/apia</item>
+        <item>pacific/auckland</item>
+        <item>pacific/chatham</item>
+        <item>pacific/easter</item>
+        <item>pacific/efate</item>
+        <item>pacific/enderbury</item>
+        <item>pacific/fakaofo</item>
+        <item>pacific/fiji</item>
+        <item>pacific/funafuti</item>
+        <item>pacific/galapagos</item>
+        <item>pacific/gambier</item>
+        <item>pacific/guadalcanal</item>
+        <item>pacific/marquesas</item>
+        <item>pacific/nauru</item>
+        <item>pacific/niue</item>
+        <item>pacific/norfolk</item>
+        <item>pacific/noumea</item>
+        <item>pacific/pago_pago</item>
+        <item>pacific/pitcairn</item>
+        <item>pacific/port_moresby</item>
+        <item>pacific/rarotonga</item>
+        <item>pacific/samoa</item>
+        <item>pacific/tahiti</item>
+        <item>pacific/tongatapu</item>
+        <item>pacific/wallis</item>
+        <item>us/samoa</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - NT</item>
+        <item>ఆస్ట్రేలియన్ సెంట్రల్ - SA</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - QLD</item>
+        <item>ఆస్ట్రేలియన్ ఈస్ట్రన్ - NSW</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - డాసన్ క్రీక్</item>
+        <item>సెంట్రల్ స్టాండర్డ్ - సస్కాచ్‌వెన్</item>
+        <item>ఈస్ట్రన్ స్టాండర్డ్ - అటికొకన్</item>
+        <item>అట్లాంటిక్ స్టాండర్డ్ - క్యుబెక్</item>
+        <item>హవాయి-అలుషియన్ - హవాయి</item>
+        <item>హవాయి-అలుషియన్ - అలాస్కా</item>
+        <item>పసిఫిక్ స్టాండర్డ్ - మెట్లకట్ల</item>
+        <item>మౌంటెయిన్ స్టాండర్డ్ - అరిజోనా</item>
+        <item>పసిఫిక్ - బాజా కాలిఫోర్నియా</item>
+        <item>మౌంటెయిన్ - చువావా</item>
+        <item>సెంట్రల్ - తమాలిపస్</item>
+        <item>మౌంటెయిన్ - సొనొర</item>
+        <item>తూర్పు ఆఫ్రికా సమయం</item>
+        <item>అట్లాంటిక్ ప్రామాణిక సమయం</item>
+        <item>అట్లాంటిక్ ప్రామాణిక సమయం</item>
+        <item>తూర్పు యూరోపియన్ సమయం</item>
+        <item>కలినిన్‌గ్రాడ్ సమయం</item>
+        <item>అమెజాన్ - రాండోనియా</item>
+        <item>బ్రెసిలియా - పారా</item>
     </string-array>
 </resources>

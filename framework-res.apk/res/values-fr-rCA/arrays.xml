@@ -25,8 +25,8 @@
         <item>Domicile</item>
         <item>Mobile</item>
         <item>Travail</item>
-        <item>Télécopieur professionnel</item>
-        <item>Télécopieur personnel</item>
+        <item>Téléc. bureau</item>
+        <item>Téléc. domicile</item>
         <item>Téléavertisseur</item>
         <item>Autre</item>
         <item>Personnaliser</item>
@@ -44,8 +44,16 @@
     <integer-array name="maps_starting_zoom">
         <item>3</item>
     </integer-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>"Pour effectuer des appels et envoyer des messages par Wi-Fi, demandez tout d'abord à votre fournisseur de services de configurer ce service. Réactivez ensuite les appels Wi-Fi dans les paramètres."</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Inscrivez-vous auprès de votre fournisseur de services</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Appels Wi-Fi %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -53,5 +61,12 @@
         <item>Travail</item>
         <item>Autre</item>
         <item>Personnaliser</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>données cellulaires</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>RPV</item>
     </string-array>
 </resources>

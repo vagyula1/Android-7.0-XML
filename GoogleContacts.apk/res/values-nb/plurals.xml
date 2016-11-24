@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d er funnet</item>
+        <item quantity="one">1 er funnet</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d uleste elementer.</item>
+        <item quantity="one">%1$s. %2$d ulest element.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakter er slettet</item>
+        <item quantity="one">Kontakten er slettet</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontakter med telefonnumre</item>
+        <item quantity="one">1 kontakt med telefonnummer</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d er funnet</item>
+        <item quantity="one">1 er funnet</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupper</item>
+        <item quantity="one">1 gruppe</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d personer fra %2$s</item>
+        <item quantity="one">%1$d person fra %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personer</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Sammenknyttede kontakter (%d)</item>
+        <item quantity="one">Sammenknyttet kontakt</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d mulige duplikater</item>
+        <item quantity="one">1 mulig duplikat</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d sammenknyttede kontakter</item>
+        <item quantity="one">1 sammenknyttet kontakt</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

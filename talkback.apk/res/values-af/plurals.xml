@@ -6,7 +6,6 @@
     </plurals>
     <plurals name="label_import_succeeded">
         <item quantity="other">%d etikette is opgedateer</item>
-        <item quantity="zero">Geen nuwe etikette nie</item>
         <item quantity="one">1 etiket is opgedateer</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
@@ -16,5 +15,25 @@
     <plurals name="template_containers">
         <item quantity="other">%1$s wys tans %2$d items.</item>
         <item quantity="one">%1$s wys tans %2$d item.</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">%1$d gebeurtenisse is gekies</item>
+        <item quantity="one">1 gebeurtenis is gekies</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d kolomme</item>
+        <item quantity="one">%1$d kolom</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d rye</item>
+        <item quantity="one">%1$d ry</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d karakters</item>
+        <item quantity="one">%1$d karakter</item>
     </plurals>
 </resources>

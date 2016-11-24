@@ -60,6 +60,18 @@
         <item>4 000 000 / logipuhver</item>
         <item>16 000 000 / logipuhver</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Väljas</item>
+        <item>Kõik</item>
+        <item>Kõik, v.a raadio</item>
+        <item>ainult tuum</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Väljas</item>
+        <item>Kõik logi puhvrid</item>
+        <item>Kõik, v.a raadiologi puhvrid</item>
+        <item>ainult tuuma logi puhver</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatsioon väljas</item>
         <item>Animatsiooni skaala 0,5 korda</item>
@@ -158,5 +170,10 @@
         <item>Täiustatud värvid</item>
         <item>Silmadele loomulikuna tunduvad värvid</item>
         <item>Digitaalse sisu jaoks optimeeritud värvid</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

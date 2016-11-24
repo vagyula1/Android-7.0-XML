@@ -4,6 +4,10 @@
         <item quantity="other">Anda ada %d cubaan lagi sebelum SIM dikunci.</item>
         <item quantity="one">Anda ada %d cubaan lagi sebelum SIM dikunci.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sijil kuasa dipasang</item>
+        <item quantity="one">Sijil kuasa dipasang</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Mengambil tangkapan skrin untuk laporan pepijat dalam masa %d saat.</item>
         <item quantity="one">Mengambil tangkapan skrin untuk laporan pepijat dalam masa %d saat.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d jam</item>
         <item quantity="one">1 jam</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dj</item>
+        <item quantity="one">%dj</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dt</item>
+        <item quantity="one">%dt</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">dalam %dm</item>
+        <item quantity="one">dalam %dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">dalam %dj</item>
+        <item quantity="one">dalam %dj</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">dalam %dh</item>
+        <item quantity="one">dalam %dh</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">dalam %dt</item>
+        <item quantity="one">dalam %dt</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minit yang lalu</item>
+        <item quantity="one">%d minit yang lalu</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d jam yang lalu</item>
+        <item quantity="one">%d jam yang lalu</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d hari yang lalu</item>
+        <item quantity="one">%d hari yang lalu</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d tahun yang lalu</item>
+        <item quantity="one">%d tahun yang lalu</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">dalam %d minit</item>
+        <item quantity="one">dalam %d minit</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">dalam %d jam</item>
+        <item quantity="one">dalam %d jam</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">dalam %d hari</item>
+        <item quantity="one">dalam %d hari</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">dalam %d tahun</item>
+        <item quantity="one">dalam %d tahun</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Rangkaian Wi-Fi tersedia</item>

@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="BoundlessLink" parent="@style/BoundlessLinkBase">
-        <item name="android:background">?android:selectableItemBackground</item>
-    </style>
-    <style name="BigInputText" parent="@style/InputTextBase">
+    <style name="BaseCardDetailsText" parent="@style/BaseCardDetailsTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="BaseCardHeaderText" parent="@style/BaseCardHeaderTextBase">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="BigHeaderText" parent="@style/BigHeaderTextBase">
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="BigSubheaderText" parent="@style/BigSubheaderTextBase">
+        <item name="android:fontFamily">sans-serif-thin</item>
     </style>
     <style name="BillingTotalText" parent="@style/BillingTotalTextBase">
-        <item name="android:fontFamily">sans-serif-light</item>
-    </style>
-    <style name="CardDetailsText" parent="@style/CardDetailsTextBase">
-        <item name="android:fontFamily">sans-serif-light</item>
-    </style>
-    <style name="CardHeaderText" parent="@style/CardHeaderTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
     <style name="DescriptionText" parent="@style/DescriptionTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
-    <style name="DeviceDataGbText" parent="@style/DeviceDataGbTextBase">
-        <item name="android:fontFamily">sans-serif-light</item>
-    </style>
     <style name="HugeHeaderText" parent="@style/HugeHeaderTextBase">
         <item name="android:fontFamily">sans-serif-thin</item>
     </style>
-    <style name="HugeInputText" parent="@style/InputTextBase">
-        <item name="android:fontFamily">sans-serif-thin</item>
-    </style>
     <style name="HugeNumberText" parent="@style/HugeNumberTextBase">
-        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:fontFamily">sans-serif-light</item>
     </style>
     <style name="HugeSubheaderText" parent="@style/HugeSubheaderTextBase">
         <item name="android:fontFamily">sans-serif-thin</item>
@@ -39,18 +33,11 @@
     <style name="LabelText" parent="@style/LabelTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
-    <style name="PlayCondensedText">
-        <item name="android:fontFamily">sans-serif-condensed</item>
-    </style>
-    <style name="PlayGridBoldText">
-        <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily">sans-serif</item>
-    </style>
-    <style name="PlayLightText">
+    <style name="LargeCircleChartText" parent="@style/LargeCircleChartTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
-    <style name="PlayPlainText">
-        <item name="android:fontFamily">sans-serif</item>
+    <style name="LargeWidgetText" parent="@style/LargeWidgetTextBase">
+        <item name="android:fontFamily">sans-serif-light</item>
     </style>
     <style name="PrimaryText" parent="@style/PrimaryTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
@@ -58,11 +45,10 @@
     <style name="SecondaryText" parent="@style/SecondaryTextBase">
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
-    <style name="PlayDrawerDownloadToggle">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">fill_parent</item>
-        <item name="android:textOn">" "</item>
-        <item name="android:textOff">" "</item>
-        <item name="android:switchMinWidth">56.0dip</item>
+    <style name="BigInputText" parent="@style/InputTextBase">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="HugeInputText" parent="@style/InputTextBase">
+        <item name="android:fontFamily">sans-serif-thin</item>
     </style>
 </resources>

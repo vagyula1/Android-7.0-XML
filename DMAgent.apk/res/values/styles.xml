@@ -47,7 +47,7 @@
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" />
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" />
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Header" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Header" />
-    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="@style/TextAppearance.AppCompat.SearchResult.Title" />
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="@style/Base.TextAppearance.AppCompat.SearchResult.Title" />
     <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="@style/Base.TextAppearance.AppCompat.SearchResult.Subtitle" />
     <style name="Widget.AppCompat.AutoCompleteTextView" parent="@style/Base.Widget.AppCompat.AutoCompleteTextView" />
     <style name="Widget.AppCompat.ActivityChooserView" parent="@style/Base.Widget.AppCompat.ActivityChooserView" />
@@ -145,6 +145,7 @@
         <item name="backgroundSplit">@null</item>
         <item name="contentInsetStart">@dimen/abc_action_bar_content_inset_material</item>
         <item name="contentInsetEnd">@dimen/abc_action_bar_content_inset_material</item>
+        <item name="contentInsetStartWithNavigation">@dimen/abc_action_bar_content_inset_with_nav</item>
         <item name="elevation">8.0dip</item>
         <item name="popupTheme">?actionBarPopupTheme</item>
     </style>
@@ -346,6 +347,7 @@
         <item name="android:paddingRight">@dimen/abc_action_bar_default_padding_end_material</item>
         <item name="android:minHeight">?actionBarSize</item>
         <item name="contentInsetStart">16.0dip</item>
+        <item name="contentInsetStartWithNavigation">@dimen/abc_action_bar_content_inset_with_nav</item>
         <item name="titleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Title</item>
         <item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item>
         <item name="titleMargin">4.0dip</item>
@@ -365,8 +367,8 @@
         <item name="layout">@layout/abc_search_view</item>
         <item name="closeIcon">@drawable/abc_ic_clear_material</item>
         <item name="goIcon">@drawable/abc_ic_go_search_api_material</item>
-        <item name="searchIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
-        <item name="searchHintIcon">@drawable/abc_ic_search_api_mtrl_alpha</item>
+        <item name="searchIcon">@drawable/abc_ic_search_api_material</item>
+        <item name="searchHintIcon">@drawable/abc_ic_search_api_material</item>
         <item name="voiceIcon">@drawable/abc_ic_voice_search_api_material</item>
         <item name="commitIcon">@drawable/abc_ic_commit_search_api_mtrl_alpha</item>
         <item name="suggestionRowLayout">@layout/abc_search_dropdown_item_icons_2line</item>
@@ -417,8 +419,8 @@
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="@style/TextAppearance.AppCompat.Button" />
     <style name="Base.Widget.AppCompat.RatingBar" parent="@android:style/Widget.RatingBar">
-        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_full_material</item>
-        <item name="android:progressDrawable">@drawable/abc_ratingbar_full_material</item>
+        <item name="android:indeterminateDrawable">@drawable/abc_ratingbar_material</item>
+        <item name="android:progressDrawable">@drawable/abc_ratingbar_material</item>
     </style>
     <style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="@android:style/Widget.RatingBar">
         <item name="android:maxHeight">36.0dip</item>
@@ -682,6 +684,8 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="@style/Base.ThemeOverlay.AppCompat.Dark" />
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.ActionBar" />
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="ThemeOverlay.AppCompat.Dialog" parent="@style/Base.ThemeOverlay.AppCompat.Dialog" />
+    <style name="ThemeOverlay.AppCompat.Dialog.Alert" parent="@style/Base.ThemeOverlay.AppCompat.Dialog.Alert" />
     <style name="Platform.AppCompat" parent="@android:style/Theme">
         <item name="android:colorForeground">@color/foreground_material_dark</item>
         <item name="android:colorBackground">@color/background_material_dark</item>
@@ -780,15 +784,15 @@
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?colorPrimaryDark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_material</item>
-        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_material</item>
-        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_material</item>
-        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_material</item>
-        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_material</item>
-        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_material</item>
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
         <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
         <item name="textAppearancePopupMenuHeader">@style/TextAppearance.AppCompat.Widget.PopupMenu.Header</item>
-        <item name="dialogTheme">@style/Theme.AppCompat.Dialog</item>
+        <item name="dialogTheme">@style/ThemeOverlay.AppCompat.Dialog</item>
         <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
         <item name="listDividerAlertDialog">@null</item>
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
@@ -836,9 +840,10 @@
         <item name="colorButtonNormal">@color/button_material_dark</item>
         <item name="colorSwitchThumbNormal">@color/switch_thumb_material_dark</item>
         <item name="controlBackground">?selectableItemBackgroundBorderless</item>
+        <item name="colorBackgroundFloating">@color/background_floating_material_dark</item>
         <item name="alertDialogStyle">@style/AlertDialog.AppCompat</item>
         <item name="alertDialogCenterButtons">false</item>
-        <item name="alertDialogTheme">@style/Theme.AppCompat.Dialog.Alert</item>
+        <item name="alertDialogTheme">@style/ThemeOverlay.AppCompat.Dialog.Alert</item>
         <item name="textColorAlertDialogListItem">@color/abc_primary_text_material_dark</item>
         <item name="buttonBarPositiveButtonStyle">?buttonBarButtonStyle</item>
         <item name="buttonBarNegativeButtonStyle">?buttonBarButtonStyle</item>
@@ -893,15 +898,15 @@
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
         <item name="actionModeSplitBackground">?colorPrimaryDark</item>
         <item name="actionModeCloseDrawable">@drawable/abc_ic_ab_back_material</item>
-        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_material</item>
-        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_material</item>
-        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_material</item>
-        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_material</item>
-        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_material</item>
+        <item name="actionModeCutDrawable">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="actionModeCopyDrawable">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="actionModePasteDrawable">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="actionModeSelectAllDrawable">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_mtrl_alpha</item>
         <item name="textAppearanceLargePopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
         <item name="textAppearanceSmallPopupMenu">@style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
         <item name="textAppearancePopupMenuHeader">@style/TextAppearance.AppCompat.Widget.PopupMenu.Header</item>
-        <item name="dialogTheme">@style/Theme.AppCompat.Light.Dialog</item>
+        <item name="dialogTheme">@style/ThemeOverlay.AppCompat.Dialog</item>
         <item name="dialogPreferredPadding">@dimen/abc_dialog_padding_material</item>
         <item name="listDividerAlertDialog">@null</item>
         <item name="actionDropDownStyle">@style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
@@ -949,6 +954,7 @@
         <item name="colorButtonNormal">@color/button_material_light</item>
         <item name="colorSwitchThumbNormal">@color/switch_thumb_material_light</item>
         <item name="controlBackground">?selectableItemBackgroundBorderless</item>
+        <item name="colorBackgroundFloating">@color/background_floating_material_light</item>
         <item name="alertDialogStyle">@style/AlertDialog.AppCompat.Light</item>
         <item name="alertDialogCenterButtons">false</item>
         <item name="alertDialogTheme">@style/Theme.AppCompat.Light.Dialog.Alert</item>
@@ -987,8 +993,8 @@
         <item name="android:itemTextAppearance">?android:textAppearanceMedium</item>
     </style>
     <style name="Base.V7.Theme.AppCompat.Dialog" parent="@style/Base.Theme.AppCompat">
-        <item name="android:colorBackground">@color/background_floating_material_dark</item>
-        <item name="android:windowBackground">@drawable/abc_dialog_material_background_dark</item>
+        <item name="android:colorBackground">?colorBackgroundFloating</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
@@ -1005,8 +1011,8 @@
         <item name="listPreferredItemPaddingRight">24.0dip</item>
     </style>
     <style name="Base.V7.Theme.AppCompat.Light.Dialog" parent="@style/Base.Theme.AppCompat.Light">
-        <item name="android:colorBackground">@color/background_floating_material_light</item>
-        <item name="android:windowBackground">@drawable/abc_dialog_material_background_light</item>
+        <item name="android:colorBackground">?colorBackgroundFloating</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowContentOverlay">@null</item>
@@ -1122,6 +1128,29 @@
     <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark">
         <item name="searchViewStyle">@style/Widget.AppCompat.SearchView.ActionBar</item>
         <item name="colorControlNormal">?android:textColorPrimary</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V7.ThemeOverlay.AppCompat.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Dialog.Alert" parent="@style/Base.ThemeOverlay.AppCompat.Dialog">
+        <item name="windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
+        <item name="windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
+    </style>
+    <style name="Base.V7.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.ThemeOverlay.AppCompat">
+        <item name="android:colorBackground">?colorBackgroundFloating</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/RtlOverlay.DialogWindowTitle.AppCompat</item>
+        <item name="android:windowTitleBackgroundStyle">@style/Base.DialogWindowTitleBackground.AppCompat</item>
+        <item name="android:windowAnimationStyle">@style/Animation.AppCompat.Dialog</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="listPreferredItemPaddingLeft">24.0dip</item>
+        <item name="listPreferredItemPaddingRight">24.0dip</item>
     </style>
     <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat.Light" />
     <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar" />
@@ -1254,6 +1283,34 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">8.0dip</item>
         <item name="android:indeterminate">true</item>
+    </style>
+    <style name="SharedDeviceDetailsLabelTextDefaultInVisible">
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SharedDeviceDetailsValueTextDefaultInVisible">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SharedDeviceDetailsLabelText">
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SharedDeviceDetailsValueText">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="DMAgentTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionBar">false</item>

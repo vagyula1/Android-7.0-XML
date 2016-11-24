@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d pantallas en Visión general</item>
-        <item quantity="one">1 pantalla en Visión general</item>
+        <item quantity="other">%d pantallas en Aplicaciones recientes</item>
+        <item quantity="one">1 pantalla en Aplicaciones recientes</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">%s notificaciones más dentro.</item>
+        <item quantity="one">%s notificación más dentro.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Código PIN de la tarjeta SIM incorrecto. Te quedan %d intentos.</item>

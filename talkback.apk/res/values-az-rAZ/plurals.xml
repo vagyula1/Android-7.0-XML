@@ -6,7 +6,6 @@
     </plurals>
     <plurals name="label_import_succeeded">
         <item quantity="other">%d etiket yeniləndi</item>
-        <item quantity="zero">Yeni etiket yoxdur</item>
         <item quantity="one">1 etiket yeniləndi</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
@@ -15,6 +14,26 @@
     </plurals>
     <plurals name="template_containers">
         <item quantity="other">%1$s %2$d element göstərir.</item>
-        <item quantity="one">%1$s showing %2$d item.</item>
+        <item quantity="one">%1$s %2$d element göstərir.</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">%1$d tədbir seçildi</item>
+        <item quantity="one">1 tədbir seçildi</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d sütun</item>
+        <item quantity="one">%1$d sütun</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d cərgə</item>
+        <item quantity="one">%1$d cərgə</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d element</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d simvol</item>
+        <item quantity="one">%1$d simvol</item>
     </plurals>
 </resources>

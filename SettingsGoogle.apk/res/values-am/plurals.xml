@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀርዎታል።</item>
+        <item quantity="one">አሁን ገንቢ ለመሆን %1$d ደረጃዎች ይቀርዎታል።</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">የተመረጡት ቋንቋዎች ይወገዱ?</item>
+        <item quantity="one">የተመረጡት ቋንቋዎች ይወገዱ?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">የ%1$d ጣት አሻራዎች ማዋቀር</item>
+        <item quantity="one">የ%1$d ጣት አሻራዎች ማዋቀር</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ቢያንስ %d ፊደሎችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ፊደሎችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ቢያንስ %d ንዑስ ሆሄዎችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ንዑስ ሆሄዎችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ቢያንስ %d ዓቢይ ሆሄዎችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ዓቢይ ሆሄዎችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ቢያንስ %d ቁጥራዊ አሃዞችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ቁጥራዊ አሃዞችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ቢያንስ %d ልዩ ምልክቶችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ልዩ ምልክቶችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ቢያንስ %d ፊደል ያልሆኑ ቁምፊዎችን መያዝ አለበት</item>
+        <item quantity="one">ቢያንስ %d ፊደል ያልሆኑ ቁምፊዎችን መያዝ አለበት</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀርዎታል።</item>
+        <item quantity="one">ልክ ያልሆነ የሲም ፒን ኮድ፣ %d ሙከራዎች ይቀርዎታል።</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d ንጥሎች</item>
+        <item quantity="one">%d ንጥሎች</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">እጅግ በጣም አጭር መዘግየት (%1$d ሚሴ)</item>
+        <item quantity="one">እጅግ በጣም አጭር መዘግየት (%1$d ሚሴ)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">በጣም አጭር መዘግየት (%1$d ሚሴ)</item>
+        <item quantity="one">በጣም አጭር መዘግየት (%1$d ሚሴ)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">አጭር መዘግየት (%1$d ሚሴ)</item>
+        <item quantity="one">አጭር መዘግየት (%1$d ሚሴ)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">ረጅም መዘግየት (%1$d ሚሴ)</item>
+        <item quantity="one">ረጅም መዘግየት (%1$d ሚሴ)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">በጣም ረጅም መዘግየት (%1$d ሚሴ)</item>
+        <item quantity="one">በጣም ረጅም መዘግየት (%1$d ሚሴ)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d የህትመት ስራዎች</item>
+        <item quantity="one">%d የህትመት ስራዎች</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">የእውቅና ማረጋገጫዎችን ይመኑ ወይም ያስወግዱ</item>
+        <item quantity="one">የእውቅና ማረጋገጫዎችን ይመኑ ወይም ያስወግዱ</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s በመሣሪያዎ ላይ የእውቅና ማረጋገጫ ባለስልጣናትን ጭነዋል፣ ይህም ኢሜይሎች፣ መተግበሪያዎች እና ደህንነታቸው የተጠበቁ ድር ጣቢያዎችም ጨምሮ የሥራ አውታረ መረብ እንቅስቃሴዎን እንዲከታተሉ ሊያስችላቸው ይችላል።
+
+ ስለእነዚህ የእውቅና ማረጋገጫዎች ተጨማሪ መረጃ ለማግኘት አስተዳዳሪዎን ያነጋግሩ።"</item>
+        <item quantity="one">"%s በመሣሪያዎ ላይ የእውቅና ማረጋገጫ ባለስልጣናትን ጭነዋል፣ ይህም ኢሜይሎች፣ መተግበሪያዎች እና ደህንነታቸው የተጠበቁ ድር ጣቢያዎችም ጨምሮ የሥራ አውታረ መረብ እንቅስቃሴዎን እንዲከታተሉ ሊያስችላቸው ይችላል።
+
+ ስለእነዚህ የእውቅና ማረጋገጫዎች ተጨማሪ መረጃ ለማግኘት አስተዳዳሪዎን ያነጋግሩ።"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%sለስራ መገለጫዎ የእውቅና ማረጋገጫ ባለስልጣናትን ጭነዋል፣ ይህም ኢሜይሎች፣ መተግበሪያዎች እና ደህንነታቸው የተጠበቁ ድር ጣቢያዎችም ጨምሮ የስራ አውታረ መረብ እንቅስቃሴን እንዲከታተሉ ሊያስችላቸው ይችላል።
+
+ስለእነዚህ የእውቅና ማረጋገጫዎች ተጨማሪ መረጃ ለማግኘት አስተዳዳሪዎን ያነጋግሩ።"</item>
+        <item quantity="one">"%sለስራ መገለጫዎ የእውቅና ማረጋገጫ ባለስልጣናትን ጭነዋል፣ ይህም ኢሜይሎች፣ መተግበሪያዎች እና ደህንነታቸው የተጠበቁ ድር ጣቢያዎችም ጨምሮ የስራ አውታረ መረብ እንቅስቃሴን እንዲከታተሉ ሊያስችላቸው ይችላል።
+
+ስለእነዚህ የእውቅና ማረጋገጫዎች ተጨማሪ መረጃ ለማግኘት አስተዳዳሪዎን ያነጋግሩ።"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">የእውቅና ማረጋገጫዎችን ይፈትሹ</item>
+        <item quantity="one">የእውቅና ማረጋገጫዎችን ይፈትሹ</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">%d የተደበቁ ንጥሎችን አሳይ</item>
+        <item quantity="one">%d የተደበቁ ንጥሎችን አሳይ</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">የ%d መተግበሪያዎች ማሳወቂያዎችን ማንበብ ይችላሉ</item>
+        <item quantity="one">የ%d መተግበሪያዎች ማሳወቂያዎችን ማንበብ ይችላሉ</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">ወደ ማንቂያዎች ለ%1$d ደቂቃዎች ብቻ ለውጥ (እስከ %2$s)</item>
+        <item quantity="one">ወደ ማንቂያዎች ለ%1$d ደቂቃዎች ብቻ ለውጥ (እስከ %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">ወደ ማንቂያዎች ለ%1$d ሰዓቶች ብቻ እስከ %2$s ድረስ ለውጥ</item>
+        <item quantity="one">ወደ ማንቂያዎች ለ%1$d ሰዓቶች ብቻ እስከ %2$s ድረስ ለውጥ</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d ፈቃዶች ተሰጥተዋል</item>
+        <item quantity="one">%d ፈቃዶች ተሰጥተዋል</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d ከ%2$d ፈቃዶች ተሰጥተዋል</item>
+        <item quantity="one">%1$d ከ%2$d ፈቃዶች ተሰጥቷል</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ተጨማሪ ፈቃዶች</item>
+        <item quantity="one">%d ተጨማሪ ፈቃዶች</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d መተግበሪያዎች የሚደገፉ አገናኞቻቸውን መክፈት ይችላሉ</item>
+        <item quantity="one">%d መተግበሪያዎች የሚደገፉ አገናኞቻቸውን መክፈት ይችላሉ</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d መተግበሪያዎች ባትሪን ማትባት ችላ እንዲባል ፈቅደዋል</item>
+        <item quantity="one">%d መተግበሪያዎች ባትሪን ማትባት ችላ እንዲባል ፈቅደዋል</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d መተግበሪያዎች ባለፈው %2$s ጊዜ ውስጥ ማህደረ ትውስታን ተጠቅመዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ባለፈው %2$s ጊዜ ውስጥ ማህደረ ትውስታን ተጠቅመዋል</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d መተግበሪያዎች እንዳይልኩ ታግደዋል</item>
+        <item quantity="one">%d መተግበሪያዎች እንዳይልኩ ታግደዋል</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d መተግበሪያዎች ውሂብ ቆጣቢ በሚበራበት ጊዜ ያልተገደበ ውሂብን እንዲጠቀሙ ተፈቅዶላቸዋል</item>
+        <item quantity="one">%1$d መተግበሪያዎች ውሂብ ቆጣቢ በሚበራበት ጊዜ ያልተገደበ ውሂብን እንዲጠቀሙ ተፈቅዶላቸዋል</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s ሰዓቶች</item>
+        <item quantity="one">%s ሰዓቶች</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s ደቂቃዎች</item>
+        <item quantity="one">%s ደቂቃዎች</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s ሰከንዶች</item>
+        <item quantity="one">%s ሰከንዶች</item>
+    </plurals>
+</resources>

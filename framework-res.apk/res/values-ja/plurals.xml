@@ -4,6 +4,10 @@
         <item quantity="other">入力できるのはあと%d回です。この回数を超えるとSIMがロックされます。</item>
         <item quantity="one">入力できるのはあと%d回です。この回数を超えるとSIMがロックされます。</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">認証局がインストールされました</item>
+        <item quantity="one">認証局がインストールされました</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">%d 秒後にバグレポートのスクリーンショットが作成されます。</item>
         <item quantity="one">%d 秒後にバグレポートのスクリーンショットが作成されます。</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d時間</item>
         <item quantity="one">1時間</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d年</item>
+        <item quantity="one">%d年</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%d年</item>
+        <item quantity="one">%d年</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d 分前</item>
+        <item quantity="one">%d 分前</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d 時間前</item>
+        <item quantity="one">%d 時間前</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d 日前</item>
+        <item quantity="one">%d 日前</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d 年前</item>
+        <item quantity="one">%d 年前</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d 分後</item>
+        <item quantity="one">%d 分後</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d 時間後</item>
+        <item quantity="one">%d 時間後</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d 日後</item>
+        <item quantity="one">%d 日後</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d 年後</item>
+        <item quantity="one">%d 年後</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">複数のWi-Fiネットワークが利用できます</item>

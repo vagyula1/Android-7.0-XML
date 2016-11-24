@@ -4,6 +4,10 @@
         <item quantity="other">Þú átt %d tilraunir eftir áður en SIM-kortinu verður læst.</item>
         <item quantity="one">Þú átt %d tilraun eftir áður en SIM-kortinu verður læst.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">CA-vottorð hafa verið sett upp</item>
+        <item quantity="one">CA-vottorð hafa verið sett upp</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Tekur skjámynd fyrir villutilkynningu eftir %d sekúndur.</item>
         <item quantity="one">Tekur skjámynd fyrir villutilkynningu eftir %d sekúndu.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d klukkustundir</item>
         <item quantity="one">%d klukkustund</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d m.</item>
+        <item quantity="one">%d m.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d k.</item>
+        <item quantity="one">%d k.</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d á.</item>
+        <item quantity="one">%d á.</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">eftir %d m.</item>
+        <item quantity="one">eftir %d m.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">eftir %d k.</item>
+        <item quantity="one">eftir %d k.</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">eftir %d d.</item>
+        <item quantity="one">eftir %d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">eftir %d ár</item>
+        <item quantity="one">eftir %d ár</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">fyrir %d mínútum</item>
+        <item quantity="one">fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">fyrir %d klukkustundum</item>
+        <item quantity="one">fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">fyrir %d dögum</item>
+        <item quantity="one">fyrir %d degi</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">fyrir %d árum</item>
+        <item quantity="one">fyrir %d ári</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">eftir %d mínútur</item>
+        <item quantity="one">eftir %d mínútu</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">eftir %d klukkustundir</item>
+        <item quantity="one">eftir %d klukkustund</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">eftir %d daga</item>
+        <item quantity="one">eftir %d dag</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">eftir %d ár</item>
+        <item quantity="one">eftir %d ár</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi net í boði</item>

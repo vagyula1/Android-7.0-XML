@@ -6,7 +6,6 @@
     </plurals>
     <plurals name="label_import_succeeded">
         <item quantity="other">%d etiquetas atualizadas</item>
-        <item quantity="zero">Sem novas etiquetas</item>
         <item quantity="one">1 etiqueta atualizada</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
@@ -16,5 +15,25 @@
     <plurals name="template_containers">
         <item quantity="other">%1$s a mostrar %2$d itens.</item>
         <item quantity="one">%1$s a mostrar %2$d item.</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">%1$d eventos selecionados</item>
+        <item quantity="one">1 evento selecionado</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d colunas</item>
+        <item quantity="one">%1$d coluna</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d linhas</item>
+        <item quantity="one">%1$d linha</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d carateres</item>
+        <item quantity="one">%1$d caráter</item>
     </plurals>
 </resources>

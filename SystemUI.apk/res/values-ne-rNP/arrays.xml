@@ -60,6 +60,18 @@
         <item>४एम प्रति लग बफर</item>
         <item>१६एम प्रति लग बफर</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>निष्क्रिय</item>
+        <item>सबै</item>
+        <item>रेडियो बाहेक सबै</item>
+        <item>कर्नेल मात्र</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>निष्क्रिय</item>
+        <item>सबै लग सम्बन्धी बफरहरू</item>
+        <item>रेडियो सम्बन्धी लगका बफरहरू बाहेक सबै</item>
+        <item>कर्नेलको लग सम्बन्धी बफर मात्र</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>सजीविकरण बन्द</item>
         <item>सजीविकरण मापन .5x</item>
@@ -159,6 +171,24 @@
         <item>आँखाले देख्ने प्राकृतिक रङ्गहरू</item>
         <item>डिजिटल सामग्रीको लागि अनुकूलित रङ्गहरु</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>०%</item>
+        <item>५०%</item>
+        <item>१००%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>कल</item>
+        <item>प्रणाली</item>
+        <item>रिङटोन</item>
+        <item>मिडिया</item>
+        <item>अलार्म</item>
+        <item></item>
+        <item>ब्लुटुथ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>घण्टा, मिनेट, र सेकेन्ड देखाउनुहोस्</item>
         <item>घण्टा र मिनेट (पूर्वनिर्धारित) देखाउनुहोस्</item>
@@ -169,4 +199,5 @@
         <item>चार्ज गर्दा प्रतिशत देखाउनुहोस् (पूर्वनिर्धारित)</item>
         <item>यो आइकन नदेखाउनुहोस्</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

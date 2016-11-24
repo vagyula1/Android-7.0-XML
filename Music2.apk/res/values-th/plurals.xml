@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="NalbumsWordCase">
-        <item quantity="other">%1$d อัลบั้ม</item>
-        <item quantity="one">1 อัลบั้ม</item>
+        <item quantity="other">%d อัลบั้ม</item>
+        <item quantity="one">%d อัลบั้ม</item>
     </plurals>
     <plurals name="NsongsWordCase">
         <item quantity="other">%1$d เพลง</item>
@@ -10,46 +10,66 @@
     </plurals>
     <plurals name="NNNtrackstolibrary">
         <item quantity="other">เพิ่ม %d เพลงลงในห้องสมุดแล้ว</item>
-        <item quantity="one">เพิ่ม 1 เพลงลงในห้องสมุดแล้ว</item>
+        <item quantity="one">เพิ่ม %d เพลงลงในห้องสมุดแล้ว</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">เพิ่ม %1$d เพลงลงใน %2$s แล้ว</item>
-        <item quantity="one">เพิ่ม 1 เพลงลงใน %2$s แล้ว</item>
+        <item quantity="one">เพิ่ม %1$d เพลงลงใน %2$s แล้ว</item>
     </plurals>
     <plurals name="NNsong_added">
         <item quantity="other">เพิ่มแล้ว %1$d เพลงเท่านั้น มีเพลงในคิวได้สูงสุด %2$d เพลง</item>
-        <item quantity="one">เพิ่มแล้ว 1 เพลงเท่านั้น มีเพลงในคิวได้สูงสุด %2$d เพลง</item>
+        <item quantity="one">เพิ่มแล้ว %1$d เพลงเท่านั้น มีเพลงในคิวได้สูงสุด %2$d เพลง</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">เพลงบางเพลงอยู่ในเพลย์ลิสต์นี้แล้ว</item>
+        <item quantity="one">เพลงนี้อยู่ในเพลย์ลิสต์นี้แล้ว</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">เพิ่มเพลงที่ซ้ำกันไหม</item>
+        <item quantity="one">เพิ่มเพลงที่ซ้ำกันไหม</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%1$d อัลบั้ม</item>
-        <item quantity="one">1 อัลบั้ม</item>
+        <item quantity="other">%d อัลบั้ม</item>
+        <item quantity="one">%d อัลบั้ม</item>
     </plurals>
     <plurals name="NartistsSelected">
-        <item quantity="other">เลือกศิลปิน %1$d ราย</item>
-        <item quantity="one">เลือกศิลปิน 1 ราย</item>
+        <item quantity="other">เลือกศิลปิน %d ราย</item>
+        <item quantity="one">เลือกศิลปิน %d ราย</item>
     </plurals>
     <plurals name="NgenresSelected">
-        <item quantity="other">เลือก %1$d แนวเพลง</item>
-        <item quantity="one">เลือก 1 แนวเพลง</item>
+        <item quantity="other">เลือก %d แนวเพลง</item>
+        <item quantity="one">เลือก %d แนวเพลง</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">ตอนใหม่ %d ตอน</item>
+        <item quantity="one">ตอนใหม่</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d ตอน</item>
+        <item quantity="one">1 ตอน</item>
     </plurals>
     <plurals name="Nscrubber_description_hours">
         <item quantity="other">%d ชั่วโมง</item>
-        <item quantity="one">1 ชั่วโมง</item>
+        <item quantity="one">%d ชั่วโมง</item>
     </plurals>
     <plurals name="Nscrubber_description_minutes">
         <item quantity="other">%d นาที</item>
-        <item quantity="one">1 นาที</item>
+        <item quantity="one">%d นาที</item>
     </plurals>
     <plurals name="Nscrubber_description_seconds">
         <item quantity="other">%d วินาที</item>
-        <item quantity="one">1 วินาที</item>
+        <item quantity="one">%d วินาที</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%1$d เพลง</item>
-        <item quantity="one">1 เพลง</item>
+        <item quantity="other">%d เพลง</item>
+        <item quantity="one">%d เพลง</item>
     </plurals>
     <plurals name="Nsongs_removed">
         <item quantity="other">นำ %d เพลงออกแล้ว</item>
         <item quantity="one">นำเพลงออกแล้ว</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">มีสมาชิกได้สูงสุด %d คน</item>
+        <item quantity="one">มีสมาชิกได้สูงสุด %d คน</item>
     </plurals>
 </resources>

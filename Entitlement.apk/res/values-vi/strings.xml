@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">Sau</string>
-  <string name="alert_dialog_negative_button">Hủy</string>
-  <string name="alert_dialog_no_button">Không</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">Nâng cấp</string>
-  <string name="alert_dialog_yes_button">Có</string>
-  <string name="app_name">Quyền</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">Để bật, hãy truy cập att.com/mywireless hoặc gọi số 611</string>
-  <string name="att_error_msg_other">Có một sự cố mạng tạm thời đã ngăn việc kích hoạt chức năng Điểm phát sóng di động. Vui lòng thử lại sau</string>
-  <string name="att_error_msg_other_title">Lỗi mạng</string>
-  <string name="att_error_msg_title">Tài khoản chưa được thiết lập để chia sẻ kết nối internet</string>
-  <string name="browser_error_msg">Không thể mở trình duyệt.</string>
-  <string name="feature_check_msg">Đang kiểm tra trạng thái thuê bao. Vui lòng chờ...</string>
-  <string name="mobile_hotspot">Điểm phát sóng di động</string>
-  <string name="network_connection_error_msg">Điện thoại của bạn hiện không thể kết nối với máy chủ của %s. Vui lòng thử lại sau.</string>
-  <string name="network_connection_title">Lỗi kết nối mạng</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;T&amp;#236;m hi&amp;#7875;u th&amp;#234;m v&amp;#224; &amp;#273;&amp;#259;ng k&amp;#253; &amp;#272;i&amp;#7875;m ph&amp;#225;t s&amp;#243;ng di &amp;#273;&amp;#7897;ng b&amp;#7857;ng c&amp;#225;ch truy c&amp;#7853;p My Verizon.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">Để sử dụng Điểm phát sóng di động, bạn cần đăng ký dịch vụ Điểm phát sóng di động</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Không thể kết nối mạng dữ liệu; Bạn có thể chưa đăng ký dịch vụ Chia sẻ kết nối internet hoặc Điểm phát sóng; vui lòng liên hệ công ty điện thoại của bạn.</string>
-  <string name="sprint_error_msg_3g">Không thể kết nối mạng dữ liệu, hãy tắt Chia sẻ internet hoặc Điểm phát sóng. Gói cước của bạn có thể không có dịch vụ Chia sẻ internet và Điểm phát sóng. Bạn có muốn xem các tùy chọn đăng ký không?</string>
-  <string name="sprint_error_msg_lte">Bạn chưa đăng ký dịch vụ Chia sẻ internet và Điểm phát sóng, bạn có muốn xem các tùy chọn đăng ký không?</string>
-  <string name="sprint_error_msg_title">Lỗi Chia sẻ kết nối internet hoặc Điểm phát sóng</string>
-  <string name="sprint_notification_msg">Chạm để xem thêm chi tiết</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Gói cước hiện tại của bạn không bao gồm dịch vụ Điểm phát sóng di động trên điện thoại thông minh, dịch vụ này cho phép bạn chia sẻ kết nối dữ liệu của điện thoại với các thiết bị khác. Bạn có muốn thêm dịch vụ Điểm phát sóng di động trên điện thoại thông minh vào gói cước của bạn không? Bạn cũng có thể thêm dịch vụ trực tuyến tại https://my.t-mobile.com ở mục Quản lý &gt; Gói cước và dịch vụ.</string>
-  <string name="tmo_error_msg_title">Cần nâng cấp dịch vụ</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Nếu bạn muốn đăng ký Điểm phát sóng di động/Kết nối băng thông rộng di động, hãy gọi: 
+    <string name="app_name">Quyền được phục vụ</string>
+    <string name="feature_check_msg">Đang kiểm tra tình trạng đăng ký thuê bao. Vui lòng đợi...</string>
+    <string name="vzw_self_provisioning_msg">"Để sử dụng Điểm phát di động, bạn cần đăng ký dịch vụ Điểm phát di động.
+Tìm hiểu thêm và đăng ký với Mobile Hotspot bằng cách ghé thăm My Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Hủy bỏ</string>
+    <string name="vzw_self_provisioning_learn_more">Tìm hiểu thêm</string>
+    <string name="vzw_error_msg_title">Không xử lý được đơn đặt hàng của bạn</string>
+    <string name="vzw_error_msg">"Nếu bạn muốn đăng ký thuê bao dịch vụ Mobile Hotspot/Mobile Broadband Connect, hãy gọi: 
  Người tiêu dùng: (800) 256-4646, 
  Doanh nghiệp: (800) 899-4249."</string>
-  <string name="vzw_error_msg_title">Không thể xử lý yêu cầu của bạn</string>
+    <string name="tmo_error_msg_title">Việc nâng cấp dịch vụ được yêu cầu</string>
+    <string name="tmo_error_msg">Kế hoạch chi tiêu của bạn không bao gồm dịch vụ Smartphone Mobile Hotspot, là dịch vụ giúp có thể chia sẻ kết nối dữ liệu điện thoại của bạn với các thiết bị khác. Bạn có muốn thêm dịch vụ Smartphone Mobile Hotspot vào kế hoạch chi tiêu của bạn không? Bạn cũng có thể thêm dịch vụ này qua mạng tại địa chỉ https://my.t-mobile.com được Quản lý > các Kế hoạch và các Dịch vụ. &lt;</string>
+    <string name="retv_terms_conditions_msg">Đang kiểm tra tình trạng đăng ký thuê bao. Vui lòng đợi...</string>
+    <string name="change_data_request_msg">Đang gửi yêu cầu dự liệu. Vui lòng đợi...</string>
+    <string name="alert_dialog_failure_title">Không xử lý được đơn đặt hàng của bạn</string>
+    <string name="alert_dialog_failure_msg">Vui lòng thử lại.</string>
+    <string name="network_connection_title">Lỗi kết nối mạng</string>
+    <string name="network_connection_error_msg">Điện thoại của bạn hiện không thể kết nối với máy chủ của %s. Vui lòng thử lại sau.</string>
+    <string name="mobile_hotspot">Điểm phát di động</string>
+    <string name="alert_dialog_upgrade_button">Nâng cấp</string>
+    <string name="alert_dialog_later_button">Sau</string>
+    <string name="current_subscription">(đăng ký thuê bao hiện tại)</string>
+    <string name="unavailable_subscription">(không sẵn có dựa trên mức độ lưu trữ)</string>
+    <string name="request_pending_title">Yêu cầu dự liệu đang được xem xét</string>
+    <string name="request_pending_error_msg">Máy chủ của Verizon đang xử lý yêu cầu của bạn. Vui lòng thử lại trong 5 phút nữa.</string>
+    <string name="browser_error_msg">Không thể mở trình duyệt.</string>
+    <string name="att_error_msg">Để kích hoạt, hãy đi đến att.com/mywireless hoặc quay số 611</string>
+    <string name="att_error_msg_title">Tài khoản không được cài đặt cho kết nối tethering</string>
+    <string name="att_error_msg_other">Có một vấn đề tạm thời về mạng gây cản trở khả năng của các chức năng Hotspot di động. Hãy thử lại sau</string>
+    <string name="att_error_msg_other_title">Lỗi mạng</string>
+    <string name="sprint_error_msg">Không thể thực hiện kết nối tới mạng dữ liệu; Bạn có thể không được đăng ký thuê bao đối với dịch vụ Tethering hoặc Hotspot; Xin vui lòng liên lạc với công ty điện thoại của bạn.</string>
+    <string name="sprint_error_msg_title">Lỗi Tethering hoặc Hotspot</string>
+    <string name="sprint_notification_msg">Chạm để xem thêm chi tiết</string>
+    <string name="term_and_conditions_title">Các Điều Khoản và Điều Kiện</string>
+    <string name="sbm_content_activity_title">Các điều khoản thỏa thuận</string>
+    <string name="consent_title">Các điều khoản thỏa thuận</string>
+    <string name="consent_message">"Để sử dụng ứng dụng này, bạn cần đồng ý và gửi thông tin dưới đây. Trên các nội dung cần kiểm tra, vui lòng thực hiện như sau. 
+ 
+[Gửi thông tin] 
+Mã nhận dạng dành riêng cho bên ký kết hợp đồng
+[Sử dụng các ứng dụng] 
+Đặt hàng để sử dụng ứng dụng tethering"</string>
+    <string name="consent_terms_btn">Điều khoản dịch vụ</string>
+    <string name="concent_disagree_btn">Phản đối</string>
+    <string name="concent_agree_btn">Đồng ý</string>
+    <string name="sbm_error_msg_title">Lỗi Tethering hoặc Hotspot</string>
+    <string name="sbm_error_msg">Không thể kết nối với mạng dữ liệu.</string>
+    <string name="sbm_error_msg_not_subscribed">Không xác minh được tình trạng đăng ký thuê bao của bạn đối với Tùy chọn Tethering.</string>
+    <string name="sbm_error_msg_not_authenticated">"Xác thực không thành công.
+(Mã lỗi %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Xác thực không thành công. Vui lòng thử lại ở một vị trí có thể nhận được tốt.</string>
 </resources>

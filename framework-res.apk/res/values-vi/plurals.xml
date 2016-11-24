@@ -4,6 +4,10 @@
         <item quantity="other">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
         <item quantity="one">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Đã cài đặt các tổ chức phát hành chứng chỉ</item>
+        <item quantity="one">Đã cài đặt tổ chức phát hành chứng chỉ</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Sẽ chụp ảnh màn hình để báo cáo lỗi sau %d giây.</item>
         <item quantity="one">Sẽ chụp ảnh màn hình để báo cáo lỗi sau %d giây.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d giờ</item>
         <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dph</item>
+        <item quantity="one">%dph</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dng</item>
+        <item quantity="one">%dng</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dn</item>
+        <item quantity="one">%dn</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">sau %dph</item>
+        <item quantity="one">sau %dph</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">sau %dh</item>
+        <item quantity="one">sau %dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">sau %dng</item>
+        <item quantity="one">sau %dng</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">sau %dn</item>
+        <item quantity="one">sau %dn</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">%d giờ trước</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d năm trước</item>
+        <item quantity="one">%d năm trước</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">sau %d phút</item>
+        <item quantity="one">sau %d phút</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">sau %d giờ</item>
+        <item quantity="one">sau %d giờ</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">sau %d ngày</item>
+        <item quantity="one">sau %d ngày</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">sau %d năm</item>
+        <item quantity="one">sau %d năm</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Các mạng Wi-Fi khả dụng</item>

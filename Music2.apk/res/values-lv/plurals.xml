@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="NalbumsWordCase">
-        <item quantity="other">%1$d albumi</item>
-        <item quantity="zero">%1$d albumi</item>
-        <item quantity="one">%1$d albums</item>
+        <item quantity="other">%d albumi</item>
+        <item quantity="zero">%d albumu</item>
+        <item quantity="one">%d albums</item>
     </plurals>
     <plurals name="NsongsWordCase">
         <item quantity="other">%1$d dziesmas</item>
-        <item quantity="zero">%1$d dziesmas</item>
+        <item quantity="zero">%1$d dziesmu</item>
         <item quantity="one">%1$d dziesma</item>
     </plurals>
     <plurals name="NNNtrackstolibrary">
@@ -16,29 +16,49 @@
         <item quantity="one">Bibliotēkai pievienota %d dziesma.</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">Atskaņošanas sarakstam %2$s pievienotas %1$d dziesmas.</item>
-        <item quantity="zero">Atskaņošanas sarakstam %2$s pievienotas %1$d dziesmas.</item>
-        <item quantity="one">Atskaņošanas sarakstam %2$s pievienota %1$d dziesma.</item>
+        <item quantity="other">Atskaņošanas sarakstam %2$s pievienotas %1$d dziesmas.</item>
+        <item quantity="zero">Atskaņošanas sarakstam %2$s pievienotas %1$d dziesmas.</item>
+        <item quantity="one">Atskaņošanas sarakstam %2$s pievienota %1$d dziesma.</item>
     </plurals>
     <plurals name="NNsong_added">
-        <item quantity="other">Pievienotas %1$d dziesmas. Maksimālā rinda: %2$d dziesmas.</item>
-        <item quantity="zero">Pievienotas %1$d dziesmas. Maksimālā rinda: %2$d dziesmas.</item>
-        <item quantity="one">Pievienota %1$d dziesma. Maksimālā rinda: %2$d dziesmas.</item>
+        <item quantity="other">Pievienotas %1$d dziesmas. Maks. skaits rindā: %2$d.</item>
+        <item quantity="zero">Pievienotas %1$d dziesmas. Maks. skaits rindā: %2$d.</item>
+        <item quantity="one">Pievienota %1$d dziesma. Maks. skaits rindā: %2$d.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.</item>
+        <item quantity="zero">Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.</item>
+        <item quantity="one">Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">Vai pievienot dublētas dziesmas?</item>
+        <item quantity="zero">Vai pievienot dublētas dziesmas?</item>
+        <item quantity="one">Vai pievienot dublētas dziesmas?</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%1$d ALBUMI</item>
-        <item quantity="zero">%1$d ALBUMI</item>
-        <item quantity="one">%1$d ALBUMS</item>
+        <item quantity="other">%d ALBUMI</item>
+        <item quantity="zero">%d ALBUMU</item>
+        <item quantity="one">%d ALBUMS</item>
     </plurals>
     <plurals name="NartistsSelected">
-        <item quantity="other">Atlasīti %1$d izpildītāji</item>
-        <item quantity="zero">Atlasīti %1$d izpildītāji</item>
-        <item quantity="one">Atlasīts %1$d izpildītājs</item>
+        <item quantity="other">Atlasīti %d izpildītāji</item>
+        <item quantity="zero">Atlasīts %d izpildītāju</item>
+        <item quantity="one">Atlasīts %d izpildītājs</item>
     </plurals>
     <plurals name="NgenresSelected">
-        <item quantity="other">Atlasīti %1$d žanri</item>
-        <item quantity="zero">Atlasīti %1$d žanri</item>
-        <item quantity="one">Atlasīts %1$d žanrs</item>
+        <item quantity="other">Atlasīti %d žanri</item>
+        <item quantity="zero">Atlasīti %d žanri</item>
+        <item quantity="one">Atlasīts %d žanrs</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">%d jaunas sērijas</item>
+        <item quantity="zero">%d jaunu sēriju</item>
+        <item quantity="one">%d jauna sērija</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d sērijas</item>
+        <item quantity="zero">%1$d sēriju</item>
+        <item quantity="one">%1$d sērija</item>
     </plurals>
     <plurals name="Nscrubber_description_hours">
         <item quantity="other">%d stundas</item>
@@ -47,22 +67,27 @@
     </plurals>
     <plurals name="Nscrubber_description_minutes">
         <item quantity="other">%d minūtes</item>
-        <item quantity="zero">%d minūtes</item>
+        <item quantity="zero">%d minūšu</item>
         <item quantity="one">%d minūte</item>
     </plurals>
     <plurals name="Nscrubber_description_seconds">
         <item quantity="other">%d sekundes</item>
-        <item quantity="zero">%d sekundes</item>
+        <item quantity="zero">%d sekunžu</item>
         <item quantity="one">%d sekunde</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%1$d dziesmas</item>
-        <item quantity="zero">%1$d dziesmas</item>
-        <item quantity="one">%1$d dziesma</item>
+        <item quantity="other">%d dziesmas</item>
+        <item quantity="zero">%d dziesmu</item>
+        <item quantity="one">%d dziesma</item>
     </plurals>
     <plurals name="Nsongs_removed">
         <item quantity="other">%d dziesmas ir noņemtas.</item>
         <item quantity="zero">%d dziesmas ir noņemtas.</item>
         <item quantity="one">%d dziesma ir noņemta.</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">%d dalībnieki</item>
+        <item quantity="zero">%d dalībnieku</item>
+        <item quantity="one">%d dalībnieks</item>
     </plurals>
 </resources>

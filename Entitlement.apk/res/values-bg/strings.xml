@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">По-късно</string>
-  <string name="alert_dialog_negative_button">Отказ</string>
-  <string name="alert_dialog_no_button">Не</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">Надстройка</string>
-  <string name="alert_dialog_yes_button">Да</string>
-  <string name="app_name">Право</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">За разрешаване отидете на att.com/mywireless или наберете 611</string>
-  <string name="att_error_msg_other">Има временен проблем с мрежата, който предотвратява активирането на функцията Mobile Hotspot. Моля, опитайте отново по-късно.</string>
-  <string name="att_error_msg_other_title">Мрежова грешка</string>
-  <string name="att_error_msg_title">Профилът не е конфигуриран за тетъринг</string>
-  <string name="browser_error_msg">Браузърът не може да се отвори.</string>
-  <string name="feature_check_msg">Проверка на състоянието на абонамент. Моля, изчакайте...</string>
-  <string name="mobile_hotspot">Mobile Hotspot</string>
-  <string name="network_connection_error_msg">Вашият телефон не може да се свърже към сървъра на %s. Моля, опитайте отново по-късно.</string>
-  <string name="network_connection_title">Грешка във връзката на мрежата</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#1053;&amp;#1072;&amp;#1091;&amp;#1095;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1095;&amp;#1077; &amp;#1080; &amp;#1089;&amp;#1077; &amp;#1072;&amp;#1073;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1081;&amp;#1090;&amp;#1077; &amp;#1079;&amp;#1072; &amp;#1084;&amp;#1086;&amp;#1073;&amp;#1080;&amp;#1083;&amp;#1085;&amp;#1072; &amp;#1090;&amp;#1086;&amp;#1095;&amp;#1082;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1098;&amp;#1087;, &amp;#1082;&amp;#1072;&amp;#1090;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1089;&amp;#1077;&amp;#1090;&amp;#1080;&amp;#1090;&amp;#1077; My Verizon.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">За да използвате мобилна точка за достъп, трябва да се абонирате за услугата за мобилна точка за достъп.</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Свързването към мрежата за данни е неуспешно; Може да не успеете да се абонирате за услугите за тетъринг и хотспот; моля, свържете се с вашата телефонна компания.</string>
-  <string name="sprint_error_msg_3g">Неуспешно свързване към мрежата за данни, изключване на тетъринг и хотспот. Вашият план може да не разполага с услугата за тетъринг и хотспот. Искате ли да видите опциите за абонамент?</string>
-  <string name="sprint_error_msg_lte">Не сте абонирани за услугата за тетъринг и хотспот. Искате ли да видите опциите за абонамент?</string>
-  <string name="sprint_error_msg_title">Грешка на тетъринг или хотспот</string>
-  <string name="sprint_notification_msg">Докоснете, за да видите повече подробности</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Текущият ви план за данни не включва услугата Smartphone Mobile HotSpot, която ви позволява споделяне на връзката за данни на телефона ви с други устройства. Искате ли да добавите услугата Smartphone Mobile HotSpot към вашия план за данни? Можете да я добавите и онлайн на https://my.t-mobile.com от Управление &gt; Планове и услуги.</string>
-  <string name="tmo_error_msg_title">Необходима е надстройка на услугата</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Ако искате да се абонирате за Mobile Hotspot/Mobile Broadband Connect, обадете се на: 
- За потребители: (800) 256-4646, 
+    <string name="app_name">Права</string>
+    <string name="feature_check_msg">Проверка на статуса на абонамента. Моля, изчакайте...</string>
+    <string name="vzw_self_provisioning_msg">"За да използвате Mobile Hotspot, трябва да се абонирате за услугата Mobile Hotspot.
+Научете повече и се абонирайте за Mobile Hotspot, като посетите My Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Отмяна</string>
+    <string name="vzw_self_provisioning_learn_more">Научете още</string>
+    <string name="vzw_error_msg_title">Вашата поръчка не може да бъде обработена</string>
+    <string name="vzw_error_msg">"Ако искате да се абонирате за Mobile Hotspot/мобилно широколентово свързване, обадете се на:
+ Потребител: (800) 256-4646,
  Бизнес: (800) 899-4249."</string>
-  <string name="vzw_error_msg_title">Вашата поръчка не може да бъде обработена</string>
+    <string name="tmo_error_msg_title">Изисква се актуализиране на услуга</string>
+    <string name="tmo_error_msg">Текущият ви план не включва услугата Smartphone Mobile Hotspot, която позволява споделяне на връзка за данни от телефона ви с други устройства. Искате ли да добавите услугата Smartphone Mobile Hotspot към плана си? Можете също така да я добавите онлайн на https://my.t-mobile.com, “Управление”> “Планове и услуги”. &lt;</string>
+    <string name="retv_terms_conditions_msg">Проверка на статуса на абонамента. Моля, изчакайте...</string>
+    <string name="change_data_request_msg">Изпращане на запитване на обезпечаване Моля, изчакайте...</string>
+    <string name="alert_dialog_failure_title">Вашата поръчка не може да бъде обработена</string>
+    <string name="alert_dialog_failure_msg">Опитайте отново по-късно.</string>
+    <string name="network_connection_title">Грешка при свързване с мрежата</string>
+    <string name="network_connection_error_msg">Вашият телефон в момента не може да се свърже със сървъра %s. Моля, опитайте отново по-късно.</string>
+    <string name="mobile_hotspot">Мобилен хотспот</string>
+    <string name="alert_dialog_upgrade_button">Обновяване</string>
+    <string name="alert_dialog_later_button">По-късно</string>
+    <string name="current_subscription">(текущ абонамент)</string>
+    <string name="unavailable_subscription">(не се предлага въз основа на нивото на натрупване)</string>
+    <string name="request_pending_title">Предстоящо обезпечаване</string>
+    <string name="request_pending_error_msg">Сървърите на Verizon обработват вашето запитване. Моля, опитайте отново след 5 минути.</string>
+    <string name="browser_error_msg">Браузърът не може да се отвори.</string>
+    <string name="att_error_msg">За да разрешите, отидете на att.com/mywireless или наберете 611</string>
+    <string name="att_error_msg_title">Акаунтът не е настроен за свързване</string>
+    <string name="att_error_msg_other">Има временен проблем в мрежата, който не позволява активирането на функцията мобилен хотспот. Моля опитайте по-късно</string>
+    <string name="att_error_msg_other_title">Мрежова грешка</string>
+    <string name="sprint_error_msg">Не може да се свърже с мрежата за данни; Вие не можете да се абонирате за услугата “Свързване” или Hotspot; Моля свържете се с Вашата телефонна компания.</string>
+    <string name="sprint_error_msg_title">Грешки при “Свързване” или Hotspot</string>
+    <string name="sprint_notification_msg">Докоснете, за да видите повече информация</string>
+    <string name="term_and_conditions_title">Основни условия</string>
+    <string name="sbm_content_activity_title">Условия на споразумението</string>
+    <string name="consent_title">Условия на споразумението</string>
+    <string name="consent_message">"За да използвате това приложение, трябва да се съгласите и да изпратите следната информация. Моля, след това продължете към съдържанието за проверка.
+
+[Изпратете информация]
+Изпълнител- специфичен идентификатор
+[Използвайте приложенията]
+Поръчайте за използване приложението за свързване"</string>
+    <string name="consent_terms_btn">Условия на услугата</string>
+    <string name="concent_disagree_btn">Несъгласие</string>
+    <string name="concent_agree_btn">Съгласен</string>
+    <string name="sbm_error_msg_title">Грешки при “Свързване” или Hotspot</string>
+    <string name="sbm_error_msg">Не може да бъде осъществена връзка с мрежата за данни.</string>
+    <string name="sbm_error_msg_not_subscribed">Неуспешно удостоверяване на вашия абонамент за опцията за свързване.</string>
+    <string name="sbm_error_msg_not_authenticated">"Неуспешно удостоверяване.
+(Код на грешка %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Неуспешно удостоверяване. Моля, опитайте отново на място, на което има добро покритие.</string>
 </resources>

@@ -64,6 +64,14 @@
         <item quantity="few">تم تحديد %1$d</item>
         <item quantity="many">تم تحديد %1$d</item>
     </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">عنصر واحد (%1$d)</item>
+        <item quantity="two">عنصران (%1$d)</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصرًا</item>
+    </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">هل تريد حذف %1$d ملف؟</item>
         <item quantity="zero">هل تريد حذف %1$d ملف؟</item>

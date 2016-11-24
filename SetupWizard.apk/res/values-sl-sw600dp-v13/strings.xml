@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activation_failure_text">"Mobilnega podatkovnega prenosa ni bilo mogoče aktivirati. To je lahko začasna težava.
+    <string name="url_load_unsuccessful_message">Tablični računalnik ni povezan z mobilnim podatkovnim prenosom. Če želite te informacije videti zdaj, v brskalniku odprite %s.</string>
+    <string name="activation_text">Če želite vklopiti mobilni podatkovni prenos, se dotaknite <b>Aktiviraj</b>". (To lahko traja nekaj minut.)
 
-Aktivirate ga lahko pozneje v sistemskih nastavitvah. Dokler ga ne aktivirate, večina funkcij tabličnega računalnika ne bo delovala."</string>
-  <string name="activation_failure_text_gen">Mobilnega podatkovnega prenosa ni bilo mogoče vklopiti. Morda gre za začasno težavo, ki jo lahko odpravite z vnovičnim zagonom tabličnega računalnika.</string>
-  <string name="activation_skip_confirmation">"Večina funkcij tabličnega računalnika ne bo delovala, dokler ne vklopite mobilnega podatkovnega prenosa.
+Če želite tablični računalnik nastaviti s povezavo Wi-Fi, se dotaknite "<b>Preskoči</b>.</string>
+    <string name="activation_skip_confirmation">"Večina funkcij tabličnega računalnika ne bo delovala, dokler ne vklopite mobilnega podatkovnega prenosa.
 
 Aktivirate ga lahko pozneje v sistemskih nastavitvah."</string>
-  <string name="activation_spc_failure_text">Prišlo je do napake, zaradi katere morate tablični računalnik zaustaviti in znova zagnati, preden ga spet aktivirate. Tablični računalnik se bo samodejno zaustavil čez 60 sekund, lahko pa se dotaknete možnosti &lt;b&gt;Zaustavi zdaj&lt;/b&gt;".
+    <string name="activation_failure_text">"Mobilnega podatkovnega prenosa ni bilo mogoče aktivirati. To je lahko začasna težava.
 
-Ko je tabli&amp;#269;ni ra&amp;#269;unalnik zaustavljen, pritisnite gumb za vklop, da ga znova za&amp;#382;enete."</string>
-  <string name="activation_text">Če želite vklopiti mobilni podatkovni prenos, se dotaknite &lt;b&gt;Aktiviraj&lt;/b&gt;". (To lahko traja nekaj minut.)
+Aktivirate ga lahko pozneje v sistemskih nastavitvah. Dokler ga ne aktivirate, večina funkcij tabličnega računalnika ne bo delovala."</string>
+    <string name="activation_failure_text_gen">Mobilnega podatkovnega prenosa ni bilo mogoče vklopiti. Morda gre za začasno težavo, ki jo lahko odpravite z vnovičnim zagonom tabličnega računalnika.</string>
+    <string name="activation_spc_failure_text">Prišlo je do napake, zaradi katere morate tablični računalnik zaustaviti in znova zagnati, preden ga spet aktivirate. Tablični računalnik se bo samodejno zaustavil čez 60 sekund, lahko pa se dotaknete možnosti <b>Zaustavi zdaj</b>".
 
-&amp;#268;e &amp;#382;elite tabli&amp;#269;ni ra&amp;#269;unalnik nastaviti s povezavo Wi-Fi, se dotaknite "&lt;b&gt;Presko&amp;#269;i&lt;/b&gt;.</string>
-  <string name="setup_complete_message">Tablični računalnik je nastavljen in pripravljen za uporabo.</string>
-  <string name="sim_missing_text">Če želite vstaviti kartico SIM, preberite navodila, ki ste jih dobili s tabličnim računalnikom.</string>
-  <string name="url_load_unsuccessful_message">Tablični računalnik ni povezan z mobilnim podatkovnim prenosom. Če želite te informacije videti zdaj, v brskalniku odprite %s.</string>
+Ko je tablični računalnik zaustavljen, pritisnite gumb za vklop, da ga znova zaženete."</string>
+    <string name="sim_missing_text">Če želite vstaviti kartico SIM, preberite navodila, ki ste jih dobili s tabličnim računalnikom.</string>
+    <string name="setup_complete_message">Tablični računalnik je nastavljen in pripravljen za uporabo.</string>
 </resources>

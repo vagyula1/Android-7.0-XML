@@ -60,6 +60,18 @@
         <item>4 M/medpomnilnik dnevnika</item>
         <item>16 M/medpomnilnik dnevnika</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Izklopljeno</item>
+        <item>Vse</item>
+        <item>Vse (brez rad.)</item>
+        <item>samo jedro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Izklopljeno</item>
+        <item>Vsi medpomnilniki dnevnika</item>
+        <item>Vsi medpomnilniki dnevnika, razen za radio</item>
+        <item>samo medpomnilnik dnevnika jedra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija je izključena</item>
         <item>Merilo animacije: 0,5 x</item>
@@ -158,6 +170,11 @@
         <item>Izboljšane barve</item>
         <item>Naravne barve, kot jih vidimo s prostim očesom</item>
         <item>Barve, optimizirane za digitalno vsebino</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globalno</item>

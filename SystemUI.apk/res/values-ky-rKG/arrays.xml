@@ -9,7 +9,7 @@
         <item>Туташып турат</item>
         <item>Убактылуу токтотулду</item>
         <item>Ажыратылууда…</item>
-        <item>Ажыратылды</item>
+        <item>Ажыратылган</item>
         <item>Ийгиликсиз</item>
         <item>Бөгөттөлгөн</item>
         <item>Начар байланыштан убактылуу баш тартууда</item>
@@ -23,7 +23,7 @@
         <item>%1$s тармагына туташты</item>
         <item>Убактылуу токтотулду</item>
         <item>%1$s тармагынан ажыратылууда…</item>
-        <item>Ажыратылды</item>
+        <item>Ажыратылган</item>
         <item>Ийгиликсиз</item>
         <item>Бөгөттөлгөн</item>
         <item>Начар байланыштан убактылуу баш тартууда</item>
@@ -59,6 +59,18 @@
         <item>Буфер: 1М ашпашы керек</item>
         <item>Буфер: 4М ашпашы керек</item>
         <item>Буфер: 16М ашпашы керек</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Өчүк</item>
+        <item>Бардыгы</item>
+        <item>Радиодон башка</item>
+        <item>өзөк гана</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Өчүк</item>
+        <item>Бардык таржымал буферлери</item>
+        <item>Радио таржымал буферлеринен башкаларынын баары</item>
+        <item>өзөктүк журнал буфери гана</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Анимацияны өчүрүү</item>
@@ -159,6 +171,24 @@
         <item>Көзгө көрүнгөн табигый түстөр</item>
         <item>Санарип мазмун үчүн оптималдаштырылган түстөр</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Чалуу</item>
+        <item>Тутум</item>
+        <item>Шыңгыратуу</item>
+        <item>Мультимедия</item>
+        <item>Ойготкуч</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Сааттар, мүнөттөр жана секунддар көрсөтүлсүн</item>
         <item>Сааттар жана мүнөттөр көрсөтүлсүн (демейки)</item>
@@ -169,4 +199,5 @@
         <item>Кубаттоо учурунда пайызы көрсөтүлсүн (демейки)</item>
         <item>Бул сөлөкөт көрсөтүлбөсүн</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

@@ -4,6 +4,10 @@
         <item quantity="other">ሲምዎ ከመቆለፉ በፊት %d ሙከራዎች ይቀሩዎታል።</item>
         <item quantity="one">ሲምዎ ከመቆለፉ በፊት %d ሙከራዎች ይቀሩዎታል።</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">የእውቅና ማረጋገጫ ባለስልጣናት ተጭነዋል</item>
+        <item quantity="one">የእውቅና ማረጋገጫ ባለስልጣናት ተጭነዋል</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">በ%d ሰከንዶች ውስጥ ለሳንካ ሪፖርት ቅጽበታዊ ገጽ ዕይታን በማንሳት ላይ።</item>
         <item quantity="one">በ%d ሰከንዶች ውስጥ ለሳንካ ሪፖርት ቅጽበታዊ ገጽ ዕይታን በማንሳት ላይ።</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ሰዓቶች</item>
         <item quantity="one">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">በ%d ደ ውስጥ</item>
+        <item quantity="one">በ%d ደ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">በ%d ሰ ውስጥ</item>
+        <item quantity="one">በ%d ሰ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">በ%d ቀ ውስጥ</item>
+        <item quantity="one">በ%d ቀ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">በ%d ዓ ውስጥ</item>
+        <item quantity="one">በ%d ዓ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">በ %d ደቂቃዎች ውስጥ</item>
+        <item quantity="one">በ%d ደቂቃ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">በ%d ሰ ውስጥ</item>
+        <item quantity="one">በ%d ሰ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">በ%d ቀ ውስጥ</item>
+        <item quantity="one">በ%d ቀ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">በ%d ዓ ውስጥ</item>
+        <item quantity="one">በ%d ዓ ውስጥ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">ከ%d ደቂቃዎች በፊት</item>
+        <item quantity="one">ከ%d ደቂቃዎች በፊት</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">ከ%d ሰዓቶች በፊት</item>
+        <item quantity="one">ከ%d ሰዓቶች በፊት</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">ከ%d ቀኖች በፊት</item>
+        <item quantity="one">ከ%d ቀኖች በፊት</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">ከ%d ዓመቶች በፊት</item>
+        <item quantity="one">ከ%d ዓመቶች በፊት</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">በ%d ደቂቃዎች ውስጥ</item>
+        <item quantity="one">በ%d ደቂቃዎች ውስጥ</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">በ%d ሰዓቶች ውስጥ</item>
+        <item quantity="one">በ%d ሰዓቶች ውስጥ</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">በ%d ቀኖች ውስጥ</item>
+        <item quantity="one">በ%d ቀኖች ውስጥ</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">በ%d ዓመቶች ውስጥ</item>
+        <item quantity="one">በ%d ዓመቶች ውስጥ</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">የWi-Fi አውታረ መረቦች አሉ</item>

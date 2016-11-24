@@ -8,6 +8,10 @@
         <item name="android:layout_width">10.0dip</item>
         <item name="android:layout_height">fill_parent</item>
     </style>
+    <style name="DockedDividerMinimizedShadow">
+        <item name="android:layout_width">8.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
     <style name="DockedDividerHandle">
         <item name="android:layout_gravity">center_vertical</item>
         <item name="android:layout_width">48.0dip</item>

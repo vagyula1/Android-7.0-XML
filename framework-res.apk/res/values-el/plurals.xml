@@ -4,6 +4,10 @@
         <item quantity="other">Απομένουν άλλες %d προσπάθειες προτού κλειδωθεί η κάρτα SIM.</item>
         <item quantity="one">Απομένει άλλη %d προσπάθεια προτού κλειδωθεί η κάρτα SIM.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Οι αρχές έκδοσης πιστοποιητικών εγκαταστάθηκαν</item>
+        <item quantity="one">Η αρχή έκδοσης πιστοποιητικών εγκαταστάθηκε</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Λήψη στιγμιότυπου οθόνης για αναφορά σφαλμάτων σε %d δευτερόλεπτα.</item>
         <item quantity="one">Λήψη στιγμιότυπου οθόνης για αναφορά σφαλμάτων σε %d δευτερόλεπτο.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ώρες</item>
         <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d λ</item>
+        <item quantity="one">%d λ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d ω</item>
+        <item quantity="one">%d ω</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d ημ</item>
+        <item quantity="one">%d ημ</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d ε</item>
+        <item quantity="one">%d ε</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">σε %d λ</item>
+        <item quantity="one">σε %d λ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">σε %d ω</item>
+        <item quantity="one">σε %d ω</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">σε %d ημ</item>
+        <item quantity="one">σε %d ημ</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">σε %d ε</item>
+        <item quantity="one">σε %d ε</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">πριν από %d λεπτά</item>
+        <item quantity="one">πριν από %d λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">πριν από %d ώρες</item>
+        <item quantity="one">πριν από %d ώρα</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">πριν από %d ημέρες</item>
+        <item quantity="one">πριν από %d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">πριν από %d έτη</item>
+        <item quantity="one">πριν από %d έτος</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε %d λεπτό</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">σε %d ώρες</item>
+        <item quantity="one">σε %d ώρα</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">σε %d ημέρες</item>
+        <item quantity="one">σε %d ημέρα</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">σε %d έτη</item>
+        <item quantity="one">σε %d έτος</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Υπάρχουν διαθέσιμα δίκτυα Wi-Fi</item>

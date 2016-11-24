@@ -1,108 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>अधिसूचना</item>
-        <item>इमेल</item>
-        <item>SMS</item>
-        <item>अलार्म</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>कुनै पनि होइन</item>
-        <item>० मिनेट</item>
-        <item>१ मिनेट</item>
-        <item>५ मिनेट</item>
-        <item>१० मिनेट</item>
-        <item>१५ मिनेट</item>
-        <item>२० मिनेट</item>
-        <item>२५ मिनेट</item>
-        <item>३० मिनेट</item>
-        <item>४५ मिनेट</item>
-        <item>१ घन्टा</item>
-        <item>२ घन्टा</item>
-        <item>३ घन्टा</item>
-        <item>१२ घन्टा</item>
-        <item>२४ घन्टा</item>
-        <item>२ दिन</item>
-        <item>१ हप्ता</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>शनिबार</item>
-        <item>आइतबार</item>
-        <item>सोमबार</item>
+    <string-array name="api_color_names">
+        <item>गोलभेँडा</item>
+        <item>सुन्तला</item>
+        <item>फर्सी</item>
+        <item>आँप</item>
+        <item>केरा</item>
+        <item>ज्यामिर</item>
+        <item>गाढा हरियो वा बैजनी</item>
+        <item>पिस्टाचियो</item>
+        <item>तुलसी</item>
+        <item>इयुकालिप्टस</item>
+        <item>हल्का खैरो हरियो</item>
+        <item>मयुर</item>
+        <item>कोबाल्ट</item>
+        <item>ब्लुबेरी</item>
+        <item>हल्का बैजनी</item>
+        <item>विस्टेरिया</item>
+        <item>अमेथिस्ट</item>
+        <item>अङ्गुर</item>
+        <item>राडिच्चियो</item>
+        <item>चेरी ब्लसम</item>
+        <item>हल्का रातो सुन्तला</item>
+        <item>कोको</item>
+        <item>ग्राफाइट</item>
+        <item>बर्च</item>
     </string-array>
     <string-array name="availability">
         <item>व्यस्त</item>
         <item>उपलब्ध</item>
         <item>अनुमानित</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>पहिलो</item>
-        <item>दोस्रो</item>
-        <item>तेस्रो</item>
-        <item>चौंथो</item>
-        <item>अन्तिम</item>
+    <string-array name="availability_labels">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
     </string-array>
-    <string-array name="invitation_responses">
-        <item>अहिलेसम्म जवाफ दिइएको छैन</item>
-        <item>जाँदै</item>
-        <item>हुनसक्छ</item>
-        <item>जाँदै छैन</item>
+    <string-array name="backup_country_names">
+        <item>सिन्ट मार्टिन</item>
+        <item>क्यारेबियन नेदरल्यान्ड</item>
+        <item>कुराकाओ</item>
+        <item>दक्षिण सुडान</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>यो घटना मात्र</item>
+        <item>पङ्तिमा रहेका सबै घटनाहरू</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>यो सत्र</item>
+        <item>आगामी सबै सत्रहरू (र कार्यतालिका निर्धारण गर्न रोक्नुहोस्)</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>यो कार्यक्रम</item>
         <item>सबै आगामी कार्यक्रमहरू</item>
         <item>सम्पूर्ण घटनाहरू</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>यो र भविष्यका घटनाहरू</item>
-        <item>सम्पूर्ण घटनाहरू</item>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>यो रिमाइन्डर</item>
+        <item>सबै निम्न रिमाइन्डरहरू</item>
+        <item>सबै रिमाइन्डरहरू</item>
     </string-array>
-    <string-array name="change_response_labels">
-        <item>यो घटना मात्र</item>
-        <item>पङ्तिमा रहेका सबै घटनाहरू</item>
+    <string-array name="edit_recurrence">
+        <item>दोहोरिँदैन</item>
+        <item>प्रत्येक दिन</item>
+        <item>प्रत्येक हप्ता</item>
+        <item>प्रत्येक महिना</item>
+        <item>प्रत्येक वर्ष</item>
     </string-array>
-    <string-array name="buttons_list">
-        <item>दिन</item>
-        <item>हप्ता</item>
-        <item>महिना</item>
-        <item>एजेन्डा</item>
-        <item>Timely</item>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>कोसँग?</item>
+        <item>कसैलाई थप्नुहोस्, सम्पर्क जानकारी प्राप्त गर्नुहोस्</item>
     </string-array>
-    <string-array name="availability_labels">
-        <item>व्यस्त</item>
-        <item>उपलब्ध</item>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON} सम्पर्क थप्दा निमन्त्रणा पठाउँदैन</item>
     </string-array>
-    <string-array name="color_names">
-        <item>गोलभेंडा</item>
-        <item>ट्याङ्जेरिन</item>
-        <item>फर्सी</item>
-        <item>आँप</item>
-        <item>केरा</item>
-        <item>सिट्रन</item>
-        <item>अभोकाडो</item>
-        <item>पिस्ताचियो</item>
-        <item>तुलसी</item>
-        <item>इयुकलिप्टस</item>
-        <item>सेज</item>
-        <item>मयुर</item>
-        <item>कोबाल्ट</item>
-        <item>ब्लुबेरी</item>
-        <item>लाभेन्डर</item>
-        <item>विस्टेरिया</item>
-        <item>अमेथिस्ट</item>
-        <item>अङ्गुर</item>
-        <item>राडिच्चियो</item>
-        <item>चेरी ब्लसम</item>
-        <item>फ्लेमिङ्गो</item>
-        <item>कोका</item>
-        <item>ग्राफाइट</item>
-        <item>बर्च</item>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>कहाँ?</item>
+        <item>एक स्थान थप्नुहोस, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>केही मिनेट मात्र ढिलो सञ्चालन गर्दै</item>
-        <item>करिब १० मिनेटमा त्यहाँ पुग्नुहोस्।</item>
-        <item>अगाडि बढ्नुहोस् र म बिना नै सुरु गर्नुहोस्।</item>
-        <item>माफ गर्नुहोस्, मैले यो नभ्याउने परे। हामीले यसलाई पुनःसमय तालिका मिलाउनु पर्छ।</item>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} मानिसहरू थप्नुहोस, सम्पर्क सूचना पाउनुहोस्</item>
+        <item>{LOCATION_ICON} स्थान थप्नुहोस्, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>आज</item>
+        <item>केही दिन भित्र</item>
+        <item>एक हप्ता भित्र</item>
+        <item>कुनै मिति वरिपरि</item>
+        <item>कुनै मितिमा</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>आज</item>
+        <item>केही दिन भित्र</item>
+        <item>एक हप्ता भित्र</item>
+        <item>कुनै मिति वरिपरि…</item>
+        <item>कुनै मितिमा…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>समय सहितका कार्यतालिकाहरू प्राप्त गर्दै...</item>
+        <item>एकै समयका कार्यक्रमहरूको विश्लेषण गर्दै...</item>
+        <item>सुझावहरूको वर्गीकरण गर्दै...</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>एक हप्ता भित्र</item>
+        <item>कुनै मिति वरिपरि</item>
+        <item>कुनै मितिमा</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>गितार बजाउने अभ्यास गर्नुहोस्</item>
+        <item>पियानो बजाउने अभ्यास गर्नुहोस्</item>
+        <item>ड्रम बजाउने अभ्यास गर्नुहोस्</item>
+        <item>बाँसुरी बजाउने अभ्यास गर्नुहोस्</item>
+        <item>तबला बजाउने अभ्यास गर्नुहोस्</item>
+        <item>वीणा बजाउने अभ्यास गर्नुहोस्</item>
+        <item>सेक्सोफोन बजाउने अभ्यास गर्नुहोस्</item>
+        <item>हार्मोनिका बजाउने अभ्यास गर्नुहोस्</item>
+        <item>एयर गितार बजाउने अभ्यास गर्नुहोस्</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>चित्र बनाउनुहोस्</item>
+        <item>रङ्ग लगाउनुहोस्</item>
+        <item>स्क्र्यापबुक सिर्जना गर्नुहोस्</item>
+        <item>हस्तकलाका वस्तुहरू बनाउनुहोस्</item>
+        <item>मूर्ति निर्माण गर्नुहोस्</item>
+        <item>papier-mâché बनाउनुहोस्</item>
+        <item>स्क्रिन छाप्नुहोस्</item>
+        <item>माटोको प्रयोग गरी आकारहरू बनाउनुहोस्</item>
+        <item>लौरोको आकृतिहरू कोर्नुहोस्</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>अरबी भाषा सिक्नुहोस्</item>
+        <item>चिनियाँ भाषा सिक्नुहोस्</item>
+        <item>अङ्ग्रेजी भाषा सिक्नुहोस्</item>
+        <item>फ्रान्सेली भाषा सिक्नुहोस्</item>
+        <item>हिन्दी भाषा सिक्नुहोस्</item>
+        <item>जापानी भाषा सिक्नुहोस्</item>
+        <item>पोर्तुगाली भाषा सिक्नुहोस्</item>
+        <item>रूसी भाषा सिक्नुहोस्</item>
+        <item>स्पेनी भाषा सिक्नुहोस्</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>लेख्नुहोस्</item>
+        <item>सिलाउनुहोस्</item>
+        <item>माछा मार्न जानुहोस्</item>
+        <item>बगैंचा</item>
+        <item>"बलिङ  गर्न जानुहोस्"</item>
+        <item>ओरिगामी बनाउनुहोस्</item>
+        <item>एक पाङ्ग्रे साइकल</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>गर्नु-पर्ने कार्यहरूको सूची बनाउनुहोस्</item>
+        <item>खाद्यान्न खरिद गर्नुहोस्</item>
+        <item>अध्ययन गर्नुहोस्</item>
+        <item>लुगा धुनुहोस्</item>
+        <item>आर्थिक व्यवस्था मिलाउनुहोस्</item>
+        <item>हप्तामा गर्ने कार्यहरूको योजना बनाउनुहोस्</item>
+        <item>महिनामा गर्ने कार्यहरूको योजना बनाउनुहोस्</item>
+        <item>इमेल इनबक्स खाली गर्नुहोस्</item>
+        <item>घर सफा गर्नुहोस्</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>तपाईँको लक्ष्यका लागि समय मिलाउँदै...</item>
+        <item>तपाईँका लागि सत्रहरू निर्धारण गर्दै...</item>
+        <item>तपाईँ जुन सुकै बेला यी सत्रहरूलाई समायोजन गर्न सक्नुहुन्छ...</item>
+        <item>पात्रोले समय सम्बन्धी तपाईँको प्राथमिकता थाहा पाउनेछ…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>उपकरण स्थान प्रयोग गर्दछ</item>
+        <item></item>
+        <item>तपाईँ यसलाई सेटिङमा परिवर्तन गर्न सक्नुहुन्छ।</item>
     </string-array>
     <string-array name="oobe_headers">
         <item>Google पात्रो</item>
@@ -116,25 +182,255 @@
         <item>सहयोगहरूको साथमा, तपाईंले टाइप गर्दा शीर्षकहरू, सम्पर्क ठेगानाहरू र स्थानहरूको लागि सुझावहरू प्रकट हुन्छन।</item>
         <item>उडान, रेस्टुरेन्ट र अन्यका लागि अग्रिम बुकिङ जानकारी इमेलबाट स्वचालित रूपमा थपिन्छ।</item>
     </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>उपकरण स्थान प्रयोग गर्दछ</item>
-        <item></item>
-        <item>तपाईं यसलाई सेटिङमा परिवर्तन गर्न सक्नुहुन्छ।</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>शनिबार</item>
+        <item>आइतबार</item>
+        <item>सोमबार</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON} व्यक्ति थप्नुहोस्, सम्पर्क जानकारी प्राप्त गर्नुहोस्</item>
-        <item>{LOCATION_ICON} स्थान थप्नुहोस्, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
+    <string-array name="quick_response_defaults">
+        <item>केही मिनेट मात्र ढिलो सञ्चालन गर्दै</item>
+        <item>करिब १० मिनेटमा त्यहाँ पुग्नुहोस्।</item>
+        <item>अगाडि बढ्नुहोस् र म बिना नै सुरु गर्नुहोस्।</item>
+        <item>माफ गर्नुहोस्, मैले यो नभ्याउने परे। हामीले यसलाई पुनःसमय तालिका मिलाउनु पर्छ।</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>कोसँग?</item>
-        <item>कसैलाई थप्नुहोस्, सम्पर्क जानकारी प्राप्त गर्नुहोस्</item>
+    <string-array name="recurrence_freq">
+        <item>दैनिक रूपमा दोहोर्‍याउने</item>
+        <item>साप्ताहिक रूपमा दोहोर्‍याउने</item>
+        <item>मासिक रूपमा दोहोर्‍याउने</item>
+        <item>वार्षिक रूपमा दोहोर्‍याउने</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON} सम्पर्क थप्दा निमन्त्रणा पठाउँदैन</item>
+    <string-array name="reminder_methods_labels">
+        <item>अधिसूचना</item>
+        <item>इमेल</item>
+        <item>SMS</item>
+        <item>अलार्म</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>कहाँ?</item>
-        <item>एक स्थान थप्नुहोस, दिशा निर्देशन प्राप्त गर्नुहोस्</item>
+    <string-array name="repeat_by_nth_fri">
+        <item>प्रत्येक पहिलो शुक्रबार</item>
+        <item>प्रत्येक दोस्रो शुक्रबार</item>
+        <item>प्रत्येक तेस्रो शुक्रबार</item>
+        <item>प्रत्येक चौथो शुक्रबार</item>
+        <item>प्रत्येक अन्तिम शुक्रबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>प्रत्येक पहिलो सोमबार</item>
+        <item>प्रत्येक दोस्रो सोमबार</item>
+        <item>प्रत्येक तेस्रो सोमबार</item>
+        <item>प्रत्येक चौथो सोमबार</item>
+        <item>प्रत्येक अन्तिम सोमबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>प्रत्येक पहिलो सोमबार</item>
+        <item>प्रत्येक दोस्रो शनिबार</item>
+        <item>प्रत्येक तेस्रो शनिबार</item>
+        <item>प्रत्येक चौथो शनिबार</item>
+        <item>प्रत्येक अन्तिम शनिबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>प्रत्येक पहिलो आइतबार</item>
+        <item>प्रत्येक दोस्रो आइतबार</item>
+        <item>प्रत्येक तेस्रो आइतबार</item>
+        <item>प्रत्येक चौथो आइतबार</item>
+        <item>प्रत्येक अन्तिम आइतबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>प्रत्येक पहिलो बिहिबार</item>
+        <item>प्रत्येक दोस्रो बिहिबार</item>
+        <item>प्रत्येक तेस्रो बिहिबार</item>
+        <item>प्रत्येक चौथो बिहिबार</item>
+        <item>प्रत्येक अन्तिम बिहिबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>प्रत्येक पहिलो मङ्गलबार</item>
+        <item>प्रत्येक दोस्रो मङ्गलबार</item>
+        <item>प्रत्येक तेस्रो मङ्गलबार</item>
+        <item>प्रत्येक चौथो मङ्गलबार</item>
+        <item>प्रत्येक अन्तिम मङ्गलबार</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>प्रत्येक पहिलो बुधबार</item>
+        <item>प्रत्येक दोस्रो बुधबार</item>
+        <item>प्रत्येक तेस्रो बुधबार</item>
+        <item>प्रत्येक चौथो बुधबार</item>
+        <item>प्रत्येक अन्तिम बुधबार</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>africa/blantyre</item>
+        <item>africa/brazzaville</item>
+        <item>africa/bujumbura</item>
+        <item>africa/dar_es_salaam</item>
+        <item>africa/gaborone</item>
+        <item>africa/harare</item>
+        <item>africa/johannesburg</item>
+        <item>africa/kigali</item>
+        <item>africa/kinshasa</item>
+        <item>africa/luanda</item>
+        <item>africa/lubumbashi</item>
+        <item>africa/lusaka</item>
+        <item>africa/maputo</item>
+        <item>africa/maseru</item>
+        <item>africa/mbabane</item>
+        <item>africa/nairobi</item>
+        <item>africa/windhoek</item>
+        <item>america/araguaina</item>
+        <item>america/argentina/buenos_aires</item>
+        <item>america/argentina/catamarca</item>
+        <item>america/argentina/comodrivadavia</item>
+        <item>america/argentina/cordoba</item>
+        <item>america/argentina/jujuy</item>
+        <item>america/argentina/la_rioja</item>
+        <item>america/argentina/mendoza</item>
+        <item>america/argentina/rio_gallegos</item>
+        <item>america/argentina/salta</item>
+        <item>america/argentina/san_juan</item>
+        <item>america/argentina/san_luis</item>
+        <item>america/argentina/tucuman</item>
+        <item>america/argentina/ushuaia</item>
+        <item>america/asuncion</item>
+        <item>america/bahia</item>
+        <item>america/belem</item>
+        <item>america/buenos_aires</item>
+        <item>america/campo_grande</item>
+        <item>america/catamarca</item>
+        <item>america/cordoba</item>
+        <item>america/cuiaba</item>
+        <item>america/eirunepe</item>
+        <item>america/fortaleza</item>
+        <item>america/guayaquil</item>
+        <item>america/jujuy</item>
+        <item>america/la_paz</item>
+        <item>america/lima</item>
+        <item>america/maceio</item>
+        <item>america/manaus</item>
+        <item>america/mendoza</item>
+        <item>america/montevideo</item>
+        <item>america/noronha</item>
+        <item>america/porto_acre</item>
+        <item>america/porto_velho</item>
+        <item>america/recife</item>
+        <item>america/rio_branco</item>
+        <item>america/rosario</item>
+        <item>america/santarem</item>
+        <item>america/santiago</item>
+        <item>america/sao_paulo</item>
+        <item>antarctica/casey</item>
+        <item>antarctica/davis</item>
+        <item>antarctica/dumontdurville</item>
+        <item>antarctica/macquarie</item>
+        <item>antarctica/mawson</item>
+        <item>antarctica/mcmurdo</item>
+        <item>antarctica/palmer</item>
+        <item>antarctica/rothera</item>
+        <item>antarctica/south_pole</item>
+        <item>antarctica/syowa</item>
+        <item>antarctica/vostok</item>
+        <item>asia/dili</item>
+        <item>asia/jakarta</item>
+        <item>asia/jayapura</item>
+        <item>asia/makassar</item>
+        <item>asia/pontianak</item>
+        <item>asia/ujung_pandang</item>
+        <item>atlantic/south_georgia</item>
+        <item>atlantic/st_helena</item>
+        <item>atlantic/stanley</item>
+        <item>australia/act</item>
+        <item>australia/adelaide</item>
+        <item>australia/brisbane</item>
+        <item>australia/broken_hill</item>
+        <item>australia/canberra</item>
+        <item>australia/currie</item>
+        <item>australia/darwin</item>
+        <item>australia/eucla</item>
+        <item>australia/hobart</item>
+        <item>australia/lhi</item>
+        <item>australia/lindeman</item>
+        <item>australia/lord_howe</item>
+        <item>australia/melbourne</item>
+        <item>australia/nsw</item>
+        <item>australia/north</item>
+        <item>australia/perth</item>
+        <item>australia/queensland</item>
+        <item>australia/south</item>
+        <item>australia/sydney</item>
+        <item>australia/tasmania</item>
+        <item>australia/victoria</item>
+        <item>australia/west</item>
+        <item>australia/yancowinna</item>
+        <item>bet</item>
+        <item>brazil/acre</item>
+        <item>brazil/denoronha</item>
+        <item>brazil/east</item>
+        <item>brazil/west</item>
+        <item>cat</item>
+        <item>chile/continental</item>
+        <item>chile/easterisland</item>
+        <item>indian/antananarivo</item>
+        <item>indian/chagos</item>
+        <item>indian/christmas</item>
+        <item>indian/cocos</item>
+        <item>indian/comoro</item>
+        <item>indian/kerguelen</item>
+        <item>indian/mahe</item>
+        <item>indian/mauritius</item>
+        <item>indian/mayotte</item>
+        <item>indian/reunion</item>
+        <item>mit</item>
+        <item>nz</item>
+        <item>nz-chat</item>
+        <item>pacific/apia</item>
+        <item>pacific/auckland</item>
+        <item>pacific/chatham</item>
+        <item>pacific/easter</item>
+        <item>pacific/efate</item>
+        <item>pacific/enderbury</item>
+        <item>pacific/fakaofo</item>
+        <item>pacific/fiji</item>
+        <item>pacific/funafuti</item>
+        <item>pacific/galapagos</item>
+        <item>pacific/gambier</item>
+        <item>pacific/guadalcanal</item>
+        <item>pacific/marquesas</item>
+        <item>pacific/nauru</item>
+        <item>pacific/niue</item>
+        <item>pacific/norfolk</item>
+        <item>pacific/noumea</item>
+        <item>pacific/pago_pago</item>
+        <item>pacific/pitcairn</item>
+        <item>pacific/port_moresby</item>
+        <item>pacific/rarotonga</item>
+        <item>pacific/samoa</item>
+        <item>pacific/tahiti</item>
+        <item>pacific/tongatapu</item>
+        <item>pacific/wallis</item>
+        <item>us/samoa</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>अस्ट्रेलियन केन्द्रीय - NT</item>
+        <item>अस्ट्रेलियन केन्द्रीय - SA</item>
+        <item>अस्ट्रेलियन पूर्वी - QLD</item>
+        <item>अस्ट्रेलियन पूर्वी - NSW</item>
+        <item>पर्वतीय मानक - डासन क्रिक</item>
+        <item>केन्द्रीय मानक - सस्कत्चेवान</item>
+        <item>पूर्वी मानक - अतिकोकान</item>
+        <item>अटलान्टिक मानक - क्युबेक</item>
+        <item>हवाई-एलेउटियन - हवाई</item>
+        <item>हवाई-एलेउटियन - अलास्का</item>
+        <item>प्रशान्त मानक - मेट्लाकाट्ला</item>
+        <item>पर्वतीय मानक - एरिजोना</item>
+        <item>प्रशान्त - बाजा क्यालिफोर्निया</item>
+        <item>पर्वतीय - चिहुआहुआ</item>
+        <item>केन्द्रीय - टमौलिपास</item>
+        <item>पर्वतीय - सोनोरा</item>
+        <item>पूर्वी अफ्रिकाको समय</item>
+        <item>अटलान्टिक मानक समय</item>
+        <item>अटलान्टिक मानक समय</item>
+        <item>पूर्वी युरोपीय समय</item>
+        <item>कलिनिन्ग्रादको समय</item>
+        <item>अमेजन - रोन्डोनिया</item>
+        <item>ब्रासिलिया - पैरा</item>
     </string-array>
 </resources>

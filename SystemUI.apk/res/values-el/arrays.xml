@@ -60,6 +60,18 @@
         <item>4 M ανά προσ. μν. αρχ. καταγρ.</item>
         <item>16 M ανά πρ. μν. αρχ. καταγρ.</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Ανενεργό</item>
+        <item>Όλα</item>
+        <item>Όλοι εκτός από του αποστολέα</item>
+        <item>μόνο πυρήνας</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Ανενεργό</item>
+        <item>Όλα τα αρχεία καταγραφής προσωρινής μνήμης</item>
+        <item>Όλα εκτός από τα αρχεία κατ.προσ.μνήμης αποστολέα</item>
+        <item>μόνο προσωρινή μνήμη αρχείου καταγραφής πυρήνα</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Κινούμ.εικόνες απενεργοποιημένες</item>
         <item>Κλίμ. κινούμ. εικ. 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>
         <item>Βελτιστοποιημένα χρώματα για ψηφιακό περιεχόμενο</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Κλήση</item>
+        <item>Σύστημα</item>
+        <item>Ήχος κλήσης</item>
+        <item>Μέσα</item>
+        <item>Ξυπνητήρι</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Να εμφανίζονται ώρες, λεπτά και δευτερόλεπτα</item>
         <item>Να εμφανίζονται ώρες και λεπτά (προεπιλογή)</item>
@@ -169,4 +199,5 @@
         <item>Να εμφανίζεται ποσοστό κατά τη φόρτιση (προεπιλογή)</item>
         <item>Να μην εμφανίζεται αυτό το εικονίδιο</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

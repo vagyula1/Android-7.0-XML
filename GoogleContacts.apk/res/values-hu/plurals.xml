@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d találat</item>
+        <item quantity="one">1 találat</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d olvasatlan elem.</item>
+        <item quantity="one">%1$s. %2$d olvasatlan elem.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Névjegyek törölve.</item>
+        <item quantity="one">Névjegy törölve.</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d névjegy telefonszámmal</item>
+        <item quantity="one">1 névjegy telefonszámmal</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d találat</item>
+        <item quantity="one">1 találat</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d csoport</item>
+        <item quantity="one">1 csoport</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d személy a(z) %2$s csoportból</item>
+        <item quantity="one">%1$d személy a(z) %2$s csoportból</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d személy</item>
+        <item quantity="one">%1$d személy</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Társított névjegyek (%d)</item>
+        <item quantity="one">Társított névjegy</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d lehetséges ismétlődő névjegy</item>
+        <item quantity="one">1 lehetséges ismétlődő névjegy</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d társított névjegy</item>
+        <item quantity="one">1 társított névjegy</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

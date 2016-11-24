@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Další</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="entitlement_check_progress">Kontrola stavu odběru. Čekejte prosím.</string>
+    <string name="att_service_upgrade_msg">Chcete-li funkci aktivovat, přejděte na adresu att.com/mywireless nebo vytočte 611</string>
+    <string name="att_network_error">Síť je nedostupná. Zkuste to znovu později.</string>
+    <string name="sprint_entitlement_error">Služba není podporována. Kontaktujte poskytovatele služeb.</string>
+    <string name="sprint_network_error">Síť je nedostupná. Zkuste to znovu později.</string>
+    <string name="vzw_service_upgrade_msg">Chcete-li použít mobilní hotspot, zavolejte na služby zákazníkům nebo se přihlaste k odběru.</string>
+    <string name="vzw_network_error">Síť je nedostupná. Zkuste to znovu později.</string>
+    <string name="vzw_wfc_activation_error">Volání přes Wi-Fi nelze aktivovat. Zkuste to znovu později.</string>
+    <string name="vzw_address_update_error">Nouzovou adresu nyní nelze aktualizovat. Zkuste to znovu později.</string>
+    <string name="generic_error">Ověření se nezdařilo. Zkuste to znovu později.</string>
+    <string name="vzw_setup_app_label">Aktivace účtu Verizon</string>
+    <string name="vzw_activate_title">Aktivace telefonu</string>
+    <string name="vzw_activate_progress">Připravujeme telefon, čekejte prosím.</string>
+    <string name="vzw_activate_exiting">Ukončování aktivace</string>
+    <string name="vzw_verify_title">Ověření vašeho účtu</string>
+    <string name="vzw_verify_ssn">Nejprve zadejte poslední čtyři číslice z čísla sociálního pojištění vlastníka účtu:</string>
+    <string name="vzw_verify_pwd">Nejprve zadejte heslo svého účtu pro fakturaci:</string>
+    <string name="vzw_verify_button">Ověřit</string>
+    <string name="vzw_later_button">Později</string>
+    <string name="vzw_verify_switch_ssn">Namísto toho použít rodné číslo</string>
+    <string name="vzw_verify_switch_pwd">Namísto toho použít heslo pro fakturaci</string>
+    <string name="vzw_verify_progress_title">Ověřování vašeho účtu…</string>
+    <string name="vzw_activate_ready_title">Jste připraveni?</string>
+    <string name="vzw_activate_ready_new">Může to trvat několik minut</string>
+    <string name="vzw_activate_ready_upgrade">"Než tento telefon aktivujete, zálohujte kontakty z původního telefonu a vypněte jej.
+
+Po zahájení aktivace přeneseme čísla na tento telefon a deaktivujeme původní telefon."</string>
+    <string name="vzw_activate_button">Aktivovat</string>
+    <string name="vzw_activating_new_title">Stahování telefonního čísla…</string>
+    <string name="vzw_activating_upgrade_title">Přenášení telefonního čísla…</string>
+    <string name="vzw_activating_upgrade">Chcete-li číslo přenést do nového telefonu, je třeba původní telefon vypnout.</string>
+    <string name="vzw_activate_success_title">Telefon byl aktivován</string>
+    <string name="vzw_activate_success">Váš telefon Verizon je nyní aktivní. Vaše číslo je %1$s.</string>
+    <string name="vzw_data_limit_title">Využití dat je omezeno</string>
+    <string name="vzw_data_limit">Využití dat je nyní omezeno vzhledem k denní době nebo limitu dat. Chcete-li pokračovat v nastavování zařízení, připojte se k Wi-Fi.</string>
+    <string name="vzw_data_restricted_title">Využití dat je omezeno</string>
+    <string name="vzw_data_restricted">Kvůli denní době nebo limitu dat</string>
+    <string name="vzw_data_redirected_title">Pořiďte si službu Verizon</string>
+    <string name="vzw_data_redirected">Buď nemáte tarif Verizon Wireless, nebo jste data vyhrazená v rámci tarifu již vyčerpali. Kontaktujte prosím společnost Verizon.</string>
+    <string name="vzw_activate_notification_title">Připraven(a) na aktivaci</string>
+    <string name="vzw_activate_notification">Klepnutím aktivujte telefon</string>
+    <string name="vzw_cold_notification">Chcete-li telefon aktivovat, obraťte se na společnost Verizon.</string>
+    <string name="vzw_activate_error_title">Aktivace se nezdařila</string>
+    <string name="vzw_activate_error_network">Zkontrolujte, zda máte dobrý signál (několik čárek), a zkuste to znovu. Pokud problém přetrvává, požádejte o pomoc služby zákazníkům na čísle (800) 922-0204.</string>
+    <string name="vzw_activate_error_lookup">Při aktivování telefonu došlo k potížím. Kontaktujte služby zákazníkům na čísle (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Rodné číslo se neshoduje. Zkuste to znovu.</string>
+    <string name="vzw_activate_error_pwd">Heslo pro fakturaci se neshoduje. Zkuste to znovu.</string>
+    <string name="vzw_activate_error_not_retryable">Při aktivování telefonu došlo k potížím. Kontaktujte služby zákazníkům na čísle (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Chcete-li telefon aktivovat, z jiného telefonu zavolejte na číslo (800) 922-0204.</string>
+    <string name="vzw_activate_error_restricted_title">Postup aktivování telefonu</string>
+    <string name="vzw_activate_error_restricted">Chcete-li telefon aktivovat, postupujte podle přiložených pokynů nebo se obraťte na administrátora služeb Verizon Wireless ve vaší organizaci.</string>
+    <string name="vzw_activate_error_lost_stolen">Při aktivování telefonu došlo k potížím. Zavoláním na číslo (877) 807-4646 z jiného telefonu aktivujte službu 4G LTE a poté to zkuste znovu.</string>
+    <string name="vzw_activate_continue">Pokračovat</string>
+    <string name="vzw_activate_retry">Zkusit znovu</string>
+    <string name="vzw_activate_skip">Přeskočit</string>
+    <string name="emergency_address_app_label">Správa nouzové adresy</string>
+    <string name="progress_text">Čekejte prosím…</string>
+    <string name="vzw_tos_title">Aktivace volání přes Wi-Fi</string>
+    <string name="cancel">Zrušit</string>
+    <string name="vzw_tos_text">"Volání přes Wi-Fi vám umožňuje volat prostřednictvím sítí Wi-Fi, když mobilní síť není k dispozici.
+
+Chcete-li nastavit volání přes Wi-Fi, je třeba zadat adresu v USA. Tuto adresu použijí záchranné služby ve vaší oblasti, pokud z tohoto telefonu uskutečníte tísňové volání (E911) přes Wi-Fi na území USA.
+
+Pokud budete volat přes jinou síť Wi-Fi, doporučujeme tuto adresu změnit, aby byla vždy přesná. Svou polohu můžete kdykoli změnit v nabídce nastavení volání přes Wi-Fi."</string>
+    <string name="vzw_tos_link">Smluvní podmínky</string>
+    <string name="vzw_e911_title">Nouzová poloha</string>
+    <string name="vzw_e911_description"><b>DŮLEŽITÉ – JE VYŽADOVÁNA NOUZOVÁ ADRESA (911)</b>"
+Chcete-li aktivovat volání přes Wi-Fi, zadejte adresu v USA, která má být odeslána záchranným službám, pokud zavoláte na číslo 911. Tuto adresu můžete kdykoli změnit v Nastavení. Je důležité tuto adresu aktualizovat, kdykoli se přestěhujete."</string>
+    <string name="vzw_e911_warning"><b>UPOZORNĚNÍ – OMEZENÍ HOVORU S 911</b>"
+Když zavoláte na číslo 911, vždy operátorovi sdělte, kde se nacházíte. Volání na číslo 911 se uskuteční přes Wi-Fi pouze v případě, že není k dispozici mobilní síť. Pokud systém 911 nerozpozná adresu, je vypnutá elektřina nebo připojení Wi-Fi nefunguje, při volání na číslo 911 může docházet k prodlevám nebo nemusí být úspěšné. Záchranná služba bude odeslána adresu uvedenou výše, v případě stěhování proto tuto adresu nezapomeňte aktualizovat."</string>
+    <string name="house_number">Číslo v adrese</string>
+    <string name="street">Ulice</string>
+    <string name="apt_suite_number">Apartmá apod.</string>
+    <string name="city">Město</string>
+    <string name="state">Stát</string>
+    <string name="zip_code">PSČ</string>
+    <string name="save">Uložit</string>
+    <string name="vzw_address_confirm_text">"Zadanou adresu jsme nedokázali najít, protože ulice, město, stát nebo PSČ zřejmě není zadáno správně.
+
+Pokud adresa obsahuje chybu, klepněte na %1$s, v opačném případě klepněte na %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Zadanou adresu jsme nedokázali najít, protože ulice, město, stát nebo PSČ zřejmě není zadáno správně.</string>
+    <string name="vzw_address_confirm_text_part2">Pokud adresa obsahuje chybu, klepněte na %1$s, v opačném případě klepněte na %2$s.</string>
+    <string name="save_anyway">Přesto uložit</string>
+    <string name="edit_address">Upravit adresu</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Zadanou adresu se nepodařilo najít:</string>
+    <string name="vzw_address_alternate_text">Měli jste na mysli:</string>
+    <string name="vzw_partial_confirm_head">Poskytovatelé záchranné služby uvedenou adresu nedokázali ověřit.</string>
+    <string name="vzw_partial_confirm_text">Opravdu chcete v případě nouze použít tuto adresu?</string>
+    <string name="vzw_partial_failure_text">"Město, stát nebo PSČ možná není zadáno správně.
+
+Zkontrolujte prosím adresu a zkuste to znovu."</string>
+    <string name="vzw_partial_failure_text_part1">Město, stát nebo PSČ možná není zadáno správně.</string>
+    <string name="vzw_partial_failure_text_part2">Zkontrolujte prosím adresu a zkuste to znovu.</string>
+</resources>

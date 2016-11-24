@@ -1,22 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.DeviceDefault" parent="@style/Theme.Micro" />
-    <style name="Theme.DeviceDefault.NoActionBar" parent="@style/Theme.Micro" />
-    <style name="Theme.DeviceDefault.Light" parent="@style/Theme.Micro.Light" />
-    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@style/Theme.Micro.Light" />
-    <style name="Theme.DeviceDefault.Dialog" parent="@style/Theme.Micro.Dialog" />
-    <style name="Theme.DeviceDefault.Light.Dialog" parent="@style/Theme.Micro.Dialog" />
-    <style name="Theme.DeviceDefault.DialogWhenLarge" parent="@style/Theme.Micro.Dialog" />
-    <style name="Theme.DeviceDefault.Light.DialogWhenLarge" parent="@style/Theme.Micro.Dialog" />
-    <style name="Theme.DeviceDefault.Wallpaper" parent="@style/Theme.Micro" />
-    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@style/Theme.Micro.Light" />
-    <style name="Theme.DeviceDefault.Settings" parent="@style/Theme.Micro" />
-    <style name="Theme.Material.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.Material.Light.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.DeviceDefault.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.Dialog.AppError" parent="@style/Theme.Micro.Dialog.AppError" />
-    <style name="Theme.Holo.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
-    <style name="Theme.Holo.Light.Dialog.Alert" parent="@style/Theme.Micro.Dialog.Alert" />
+    <style name="Theme.Material.Dialog" parent="@style/Theme.Material.BaseDialog">
+        <item name="colorBackground">@color/background_material_dark</item>
+        <item name="windowIsFloating">false</item>
+        <item name="colorBackgroundCacheHint">@color/background_cache_hint_selector_material_dark</item>
+        <item name="colorBackgroundFloating">@color/background_floating_material_dark</item>
+    </style>
+    <style name="Theme.Material.InputMethod" parent="@style/Theme.Material.Panel">
+        <item name="windowAnimationStyle">@style/Animation.InputMethod</item>
+        <item name="imeFullscreenBackground">?colorBackground</item>
+        <item name="imeExtractEnterAnimation">@anim/input_method_extract_enter</item>
+    </style>
+    <style name="Theme.Material.Light.Dialog" parent="@style/Theme.Material.Light.BaseDialog">
+        <item name="colorBackground">@color/background_material_light</item>
+        <item name="windowIsFloating">false</item>
+        <item name="colorBackgroundCacheHint">@color/background_cache_hint_selector_material_light</item>
+        <item name="colorBackgroundFloating">@color/background_floating_material_light</item>
+    </style>
+    <style name="Widget.Material.ButtonBar" parent="@style/Widget.Material.BaseButtonBar" />
+    <style name="Widget.Material.TextView" parent="@style/Widget.TextView">
+        <item name="breakStrategy">balanced</item>
+    </style>
+    <style name="ThemeOverlay.Material.Dialog" parent="@style/ThemeOverlay.Material.BaseDialog">
+        <item name="windowIsFloating">false</item>
+    </style>
+    <style name="Widget.Material.NumberPicker" parent="@style/Widget.NumberPicker">
+        <item name="descendantFocusability">blocksDescendants</item>
+        <item name="solidColor">@color/transparent</item>
+        <item name="internalLayout">@layout/number_picker_material</item>
+        <item name="selectionDivider">@drawable/numberpicker_selection_divider</item>
+        <item name="selectionDividerHeight">2.0dip</item>
+        <item name="selectionDividersDistance">48.0dip</item>
+        <item name="internalMaxHeight">180.0dip</item>
+        <item name="internalMinWidth">64.0dip</item>
+        <item name="virtualButtonPressedDrawable">?selectableItemBackground</item>
+    </style>
+    <style name="PreferenceFragment.Material" parent="@style/BasePreferenceFragment" />
+    <style name="Preference.Material.PreferenceScreen" parent="@style/Preference.Material.BasePreferenceScreen" />
+    <style name="Widget.Material.Button.ButtonBar.AlertDialog" parent="@style/Widget.Material.Button.Borderless.Small">
+        <item name="gravity">center|left</item>
+        <item name="minWidth">64.0dip</item>
+        <item name="minHeight">@dimen/alert_dialog_button_bar_height</item>
+        <item name="drawablePadding">8.0dip</item>
+        <item name="paddingStart">@dimen/list_item_padding_start_material</item>
+        <item name="paddingEnd">@dimen/list_item_padding_end_material</item>
+    </style>
+    <style name="Animation.Material.Activity" parent="@style/Animation.Activity">
+        <item name="activityOpenEnterAnimation">@anim/slide_in_enter_micro</item>
+        <item name="activityOpenExitAnimation">@anim/slide_in_exit_micro</item>
+        <item name="activityCloseEnterAnimation">@null</item>
+        <item name="activityCloseExitAnimation">@anim/slide_out_micro</item>
+        <item name="taskOpenEnterAnimation">@anim/slide_in_enter_micro</item>
+        <item name="taskOpenExitAnimation">@anim/slide_in_exit_micro</item>
+        <item name="taskCloseEnterAnimation">@null</item>
+        <item name="taskCloseExitAnimation">@anim/slide_out_micro</item>
+        <item name="taskToFrontEnterAnimation">@anim/slide_in_enter_micro</item>
+        <item name="taskToFrontExitAnimation">@anim/slide_in_exit_micro</item>
+        <item name="taskToBackEnterAnimation">@null</item>
+        <item name="taskToBackExitAnimation">@anim/slide_out_micro</item>
+        <item name="wallpaperOpenEnterAnimation">@null</item>
+        <item name="wallpaperOpenExitAnimation">@anim/slide_out_micro</item>
+        <item name="wallpaperCloseEnterAnimation">@anim/slide_in_enter_micro</item>
+        <item name="wallpaperCloseExitAnimation">@anim/slide_in_exit_micro</item>
+        <item name="wallpaperIntraOpenEnterAnimation">@null</item>
+        <item name="wallpaperIntraOpenExitAnimation">@anim/slide_out_micro</item>
+        <item name="wallpaperIntraCloseEnterAnimation">@anim/slide_in_enter_micro</item>
+        <item name="wallpaperIntraCloseExitAnimation">@anim/slide_in_exit_micro</item>
+        <item name="activityOpenRemoteViewsEnterAnimation">@anim/slide_in_enter_micro</item>
+    </style>
+    <style name="Theme.Dialog.AppError" parent="@style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="windowCloseOnTouchOutside">false</item>
+        <item name="windowContentTransitions">false</item>
+        <item name="windowActivityTransitions">false</item>
+    </style>
+    <style name="Theme.DeviceDefault.Resolver" parent="@style/Theme.Material">
+        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
+        <item name="colorControlActivated">?colorControlHighlight</item>
+    </style>
+    <style name="Theme.DeviceDefault.System" parent="@style/Theme.Material" />
 </resources>

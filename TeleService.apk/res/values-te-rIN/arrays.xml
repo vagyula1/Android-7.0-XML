@@ -60,6 +60,18 @@
         <item>లాగ్ బఫర్‌కి 4M</item>
         <item>లాగ్ బఫర్‌కి 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్నీ</item>
+        <item>అన్నీ కానీ రేడియో</item>
+        <item>కెర్నెల్ మాత్రమే</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ఆఫ్ చేయి</item>
+        <item>అన్ని లాగ్ బఫర్‌లు</item>
+        <item>అన్నీ కానీ రేడియో లాగ్ బఫర్‌లు</item>
+        <item>కెర్నెల్ లాగ్ బఫర్ మాత్రమే</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>యానిమేషన్ ఆఫ్‌లో ఉంది</item>
         <item>యానిమేషన్ ప్రమాణం .5x</item>
@@ -158,6 +170,11 @@
         <item>మెరుగైన రంగులు</item>
         <item>కంటికి కనిపించే విధంగా సహజమైన రంగులు</item>
         <item>డిజిటల్ కంటెంట్ కోసం అనుకూలీకరించిన రంగులు</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>గ్లోబల్</item>

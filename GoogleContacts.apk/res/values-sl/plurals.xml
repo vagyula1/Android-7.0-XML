@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d najdenih</item>
+        <item quantity="one">%d najden</item>
+        <item quantity="two">%d najdena</item>
+        <item quantity="few">%d najdeni</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d neprebranih elementov.</item>
+        <item quantity="one">%1$s. %2$d neprebran element.</item>
+        <item quantity="two">%1$s. %2$d neprebrana elementa.</item>
+        <item quantity="few">%1$s. %2$d neprebrani elementi.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Stiki so izbrisani</item>
+        <item quantity="one">Stik je izbrisan</item>
+        <item quantity="two">Stiki so izbrisani</item>
+        <item quantity="few">Stiki so izbrisani</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d stikov s telefonsko številko</item>
+        <item quantity="one">%d stik s telefonsko številko</item>
+        <item quantity="two">%d stika s telefonsko številko</item>
+        <item quantity="few">%d stiki s telefonsko številko</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d najdenih</item>
+        <item quantity="one">%d najden</item>
+        <item quantity="two">%d najdena</item>
+        <item quantity="few">%d najdeni</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">%0$d skupina</item>
+        <item quantity="two">%0$d skupini</item>
+        <item quantity="few">%0$d skupine</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d oseb iz skupine %2$s</item>
+        <item quantity="one">%1$d oseba iz skupine %2$s</item>
+        <item quantity="two">%1$d osebi iz skupine %2$s</item>
+        <item quantity="few">%1$d osebe iz skupine %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d oseb</item>
+        <item quantity="one">%1$d oseba</item>
+        <item quantity="two">%1$d osebi</item>
+        <item quantity="few">%1$d osebe</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Povezani stiki (%d)</item>
+        <item quantity="one">Povezani stiki (%d)</item>
+        <item quantity="two">Povezani stiki (%d)</item>
+        <item quantity="few">Povezani stiki (%d)</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d morebitnih dvojnikov</item>
+        <item quantity="one">%d morebiten dvojnik</item>
+        <item quantity="two">%d morebitna dvojnika</item>
+        <item quantity="few">%d morebitni dvojniki</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d povezanih stikov</item>
+        <item quantity="one">%d povezan stik</item>
+        <item quantity="two">%d povezana stika</item>
+        <item quantity="few">%d povezani stiki</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one">(%d)</item>
+        <item quantity="two">(%d)</item>
+        <item quantity="few">(%d)</item>
+    </plurals>
+</resources>

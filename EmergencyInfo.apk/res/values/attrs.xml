@@ -2,6 +2,8 @@
 <resources>
     <attr name="userRestriction" format="string" />
     <attr name="useAdminDisabledSummary" format="boolean" />
+    <attr name="useAdditionalSummary" format="boolean" />
+    <attr name="restrictedSwitchSummary" format="reference" />
     <attr name="state_encrypted" format="boolean" />
     <attr name="wifi_signal" format="reference" />
     <attr name="sideLabels" format="reference" />
@@ -16,6 +18,7 @@
     <attr name="pressedTranslationZ" format="dimension" />
     <attr name="borderWidth" format="dimension" />
     <attr name="useCompatPadding" format="boolean" />
+    <attr name="behavior_autoHide" format="boolean" />
     <attr name="insetForeground" format="reference|color" />
     <attr name="menu" format="reference" />
     <attr name="itemIconTint" format="color" />
@@ -67,6 +70,25 @@
         <flag name="start" value="0x00800003" />
         <flag name="top" value="0x00000030" />
     </attr>
+    <attr name="layout_insetEdge">
+        <enum name="bottom" value="80" />
+        <enum name="end" value="8388613" />
+        <enum name="left" value="3" />
+        <enum name="right" value="3" />
+        <enum name="start" value="8388611" />
+        <enum name="top" value="48" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="layout_dodgeInsetEdges">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="end" value="0x00800005" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000003" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+        <flag name="none" value="0x00000000" />
+        <flag name="all" value="0x00000077" />
+    </attr>
     <attr name="hintTextAppearance" format="reference" />
     <attr name="hintEnabled" format="boolean" />
     <attr name="errorEnabled" format="boolean" />
@@ -76,8 +98,21 @@
     <attr name="counterTextAppearance" format="reference" />
     <attr name="counterOverflowTextAppearance" format="reference" />
     <attr name="hintAnimationEnabled" format="boolean" />
+    <attr name="passwordToggleEnabled" format="boolean" />
+    <attr name="passwordToggleDrawable" format="reference" />
+    <attr name="passwordToggleContentDescription" format="string" />
+    <attr name="passwordToggleTint" format="color" />
+    <attr name="passwordToggleTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
     <attr name="maxActionInlineWidth" format="dimension" />
     <attr name="expanded" format="boolean" />
+    <attr name="state_collapsed" format="boolean" />
+    <attr name="state_collapsible" format="boolean" />
     <attr name="layout_scrollFlags">
         <flag name="enterAlways" value="0x00000004" />
         <flag name="enterAlwaysCollapsed" value="0x00000008" />
@@ -97,6 +132,8 @@
     <attr name="contentScrim" format="color" />
     <attr name="statusBarScrim" format="color" />
     <attr name="toolbarId" format="reference" />
+    <attr name="scrimVisibleHeightTrigger" format="dimension" />
+    <attr name="scrimAnimationDuration" format="integer" />
     <attr name="collapsedTitleGravity">
         <flag name="center" value="0x00000011" />
         <flag name="bottom" value="0x00000050" />
@@ -128,8 +165,11 @@
         <enum name="pin" value="1" />
     </attr>
     <attr name="layout_collapseParallaxMultiplier" format="float" />
-    <attr name="behavior_peekHeight" format="dimension" />
+    <attr name="behavior_peekHeight" format="dimension">
+        <enum name="auto" value="-1" />
+    </attr>
     <attr name="behavior_hideable" format="boolean" />
+    <attr name="behavior_skipCollapsed" format="boolean" />
     <attr name="bottomSheetDialogTheme" format="reference" />
     <attr name="bottomSheetStyle" format="reference" />
     <attr name="textColorError" format="color" />
@@ -430,7 +470,25 @@
         <enum name="src_in" value="5" />
         <enum name="src_over" value="3" />
     </attr>
+    <attr name="thumbTint" format="color" />
+    <attr name="thumbTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="track" format="reference" />
+    <attr name="trackTint" format="color" />
+    <attr name="trackTintMode">
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+        <enum name="add" value="16" />
+    </attr>
     <attr name="thumbTextPadding" format="dimension" />
     <attr name="switchTextAppearance" format="reference" />
     <attr name="switchMinWidth" format="dimension" />
@@ -455,4 +513,5 @@
         <enum name="src_over" value="3" />
         <enum name="add" value="16" />
     </attr>
+    <attr name="entryContentDescriptions" format="reference" />
 </resources>

@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="account_picker_request_code" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="actionbar_overflow" />
+    <item type="id" name="analytics_visual_element_view_tag" />
+    <item type="id" name="butterfly_view_state" />
+    <item type="id" name="caption_placeholder" />
+    <item type="id" name="card_back_button" />
+    <item type="id" name="card_cancel_button" />
+    <item type="id" name="card_content_area" />
+    <item type="id" name="card_header_text" />
+    <item type="id" name="card_undo_button" />
+    <item type="id" name="cards_area">cards_area</item>
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="cloud_settings_loader_id" />
+    <item type="id" name="core_media_loader_id" />
+    <item type="id" name="cpe_adjustments_group_position" />
+    <item type="id" name="cpe_adjustments_type" />
+    <item type="id" name="cpe_nav_bar_space" />
+    <item type="id" name="cpe_original_label" />
+    <item type="id" name="cpe_save_copy" />
+    <item type="id" name="cpe_status_bar_space" />
+    <item type="id" name="cpe_undo_edits" />
+    <item type="id" name="data_stats_loader_id" />
+    <item type="id" name="debug_info_dialog_fragment_load_task_id" />
+    <item type="id" name="default_settings_activity_layout" />
+    <item type="id" name="device_mgmt_status_type" />
+    <item type="id" name="download_bytes_mixin_core_task_id" />
+    <item type="id" name="edit" />
+    <item type="id" name="external_media_loader_id" />
+    <item type="id" name="featurehighlight_help_text_body_view" />
+    <item type="id" name="featurehighlight_help_text_header_view" />
+    <item type="id" name="featurehighlight_view" />
+    <item type="id" name="featurehighlight_view_tag_fragment" />
+    <item type="id" name="google_account_added_result" />
+    <item type="id" name="home" />
+    <item type="id" name="info_screen_activity_request_code" />
+    <item type="id" name="ingest_notification_importing" />
+    <item type="id" name="ingest_notification_scanning" />
+    <item type="id" name="intro_butterfly_loader" />
+    <item type="id" name="intro_request_code" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="launch_assistant_request_code" />
+    <item type="id" name="loader_id_photo_fragment_media_loader" />
+    <item type="id" name="loader_id_trash_core_loader" />
+    <item type="id" name="loading_indicator">loading_indicator</item>
+    <item type="id" name="local_album_loader_id" />
+    <item type="id" name="main_settings_fragment" />
+    <item type="id" name="media_loader_id" />
+    <item type="id" name="mm_accessibility_custom_action_drop" />
+    <item type="id" name="mm_accessibility_custom_action_drop_first" />
+    <item type="id" name="mm_accessibility_custom_action_move" />
+    <item type="id" name="mm_custom_fragment_animation_enter" />
+    <item type="id" name="mm_custom_fragment_animation_exit" />
+    <item type="id" name="mm_item_interactions_enabled" />
+    <item type="id" name="mm_notification_background_analysis" />
+    <item type="id" name="mm_request_add_asset" />
+    <item type="id" name="mm_request_code_aam_edit" />
+    <item type="id" name="mm_view_tag_fade_target_alpha" />
+    <item type="id" name="mm_view_tag_genre_entry" />
+    <item type="id" name="model_media_list_task_id" />
+    <item type="id" name="more_actors" />
+    <item type="id" name="notification_logging_runnable" />
+    <item type="id" name="oob_item_0" />
+    <item type="id" name="oob_item_1" />
+    <item type="id" name="oob_item_10" />
+    <item type="id" name="oob_item_11" />
+    <item type="id" name="oob_item_12" />
+    <item type="id" name="oob_item_13" />
+    <item type="id" name="oob_item_14" />
+    <item type="id" name="oob_item_15" />
+    <item type="id" name="oob_item_16" />
+    <item type="id" name="oob_item_17" />
+    <item type="id" name="oob_item_18" />
+    <item type="id" name="oob_item_19" />
+    <item type="id" name="oob_item_2" />
+    <item type="id" name="oob_item_20" />
+    <item type="id" name="oob_item_21" />
+    <item type="id" name="oob_item_22" />
+    <item type="id" name="oob_item_23" />
+    <item type="id" name="oob_item_24" />
+    <item type="id" name="oob_item_25" />
+    <item type="id" name="oob_item_26" />
+    <item type="id" name="oob_item_27" />
+    <item type="id" name="oob_item_28" />
+    <item type="id" name="oob_item_29" />
+    <item type="id" name="oob_item_3" />
+    <item type="id" name="oob_item_30" />
+    <item type="id" name="oob_item_31" />
+    <item type="id" name="oob_item_4" />
+    <item type="id" name="oob_item_5" />
+    <item type="id" name="oob_item_6" />
+    <item type="id" name="oob_item_7" />
+    <item type="id" name="oob_item_8" />
+    <item type="id" name="oob_item_9" />
+    <item type="id" name="photo" />
+    <item type="id" name="photo_caption" />
+    <item type="id" name="photos_album_debug_feature_load_task_id" />
+    <item type="id" name="photos_album_editalbumphotos_load_before_features_task_id" />
+    <item type="id" name="photos_album_editalbumphotos_picker" />
+    <item type="id" name="photos_album_emptystate_view_type" />
+    <item type="id" name="photos_album_enrichment_ui_enrichment_editing_activity" />
+    <item type="id" name="photos_album_enrichment_ui_location_editing_index_tag" />
+    <item type="id" name="photos_album_enrichment_ui_viewtype_location_enrichment" />
+    <item type="id" name="photos_album_enrichment_ui_viewtype_location_search_item" />
+    <item type="id" name="photos_album_enrichment_ui_viewtype_map_enrichment" />
+    <item type="id" name="photos_album_enrichment_ui_viewtype_narrative_enrichment" />
+    <item type="id" name="photos_album_promos_first_joiner_action_promo_feature_id" />
+    <item type="id" name="photos_album_promos_sharing_options_action_promo_feature_id" />
+    <item type="id" name="photos_album_recentlyadded_recently_added_group_header" />
+    <item type="id" name="photos_album_recentlyadded_recently_added_view_header" />
+    <item type="id" name="photos_album_removealbum_remove_collection_task_id" />
+    <item type="id" name="photos_album_sorting_ui_collection_loader_id" />
+    <item type="id" name="photos_album_titlecard_facepile_avatar_viewtype_id" />
+    <item type="id" name="photos_album_titlecard_facepile_join_button_viewtype_id" />
+    <item type="id" name="photos_album_titlecard_facepile_plus_bubble_viewtype_id" />
+    <item type="id" name="photos_album_titlecard_viewtype_id" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_drop_after" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_drop_before" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_edit_location" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_edit_map" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_edit_text_item" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_move" />
+    <item type="id" name="photos_album_ui_accessibility_custom_action_remove" />
+    <item type="id" name="photos_album_ui_add_place_enrichments_activity_id" />
+    <item type="id" name="photos_album_ui_album_media_loader_id" />
+    <item type="id" name="photos_album_ui_collection_loader_id" />
+    <item type="id" name="photos_album_ui_comments_loader_id" />
+    <item type="id" name="photos_album_ui_request_code_add_to_envelope_picker" />
+    <item type="id" name="photos_album_ui_suggest_banner_media_count_loader_id" />
+    <item type="id" name="photos_album_ui_suggest_banner_media_loader_id" />
+    <item type="id" name="photos_allphotos_data_chapter_count_initialize_task_id" />
+    <item type="id" name="photos_allphotos_fragment_month_viewtype_blank_month" />
+    <item type="id" name="photos_allphotos_fragment_month_viewtype_month" />
+    <item type="id" name="photos_allphotos_fragment_month_viewtype_year" />
+    <item type="id" name="photos_allphotos_fragment_timemachine_details_view_id" />
+    <item type="id" name="photos_allphotos_ui_viewtype_status_bar" />
+    <item type="id" name="photos_assistant_cardui_viewtype_advanced_card" />
+    <item type="id" name="photos_assistant_cardui_viewtype_no_photo_activity_card" />
+    <item type="id" name="photos_assistant_cardui_viewtype_promo" />
+    <item type="id" name="photos_assistant_cardui_viewtype_time_machine_onboarding" />
+    <item type="id" name="photos_assistant_cardui_viewtype_toast_card" />
+    <item type="id" name="photos_assistant_create_viewtype" />
+    <item type="id" name="photos_assistant_overview_card_type" />
+    <item type="id" name="photos_assistant_remote_envelope_openenvelope_collection_feature_load_task_id" />
+    <item type="id" name="photos_assistant_remote_suggestedadd_media_count_loader_id" />
+    <item type="id" name="photos_assistant_remote_suggestedadd_media_feature_loader_id" />
+    <item type="id" name="photos_assistant_remote_suggestedadd_media_loader_id" />
+    <item type="id" name="photos_assistant_remote_suggestedadd_remote_collection_loader_id" />
+    <item type="id" name="photos_assistant_remote_suggestedrotations_activity_id" />
+    <item type="id" name="photos_assistant_remote_suggestedshare_large_selection_id" />
+    <item type="id" name="photos_assistant_remote_suggestedshare_load_feature_before_picker_task_id" />
+    <item type="id" name="photos_assistant_remote_suggestedshare_load_feature_before_send_task_id" />
+    <item type="id" name="photos_assistant_remote_suggestedshare_request_id" />
+    <item type="id" name="photos_assistant_scanner_exported_card_type" />
+    <item type="id" name="photos_assistant_ui_full_list_loader_id" />
+    <item type="id" name="photos_assistant_ui_initial_list_loader_id" />
+    <item type="id" name="photos_autobackup_backup_status_loader_id" />
+    <item type="id" name="photos_backup_apiservice_request_code_get_settings_intent" />
+    <item type="id" name="photos_backup_notifications_new_folder" />
+    <item type="id" name="photos_backup_notifications_out_of_quota" />
+    <item type="id" name="photos_backup_notifications_stalled" />
+    <item type="id" name="photos_backup_settings_local_folders_map_loader_id" />
+    <item type="id" name="photos_burst_fragment_item_type" />
+    <item type="id" name="photos_burst_fragment_loader_id" />
+    <item type="id" name="photos_camerashortcut_assistant_card_type" />
+    <item type="id" name="photos_camerashortcut_connector_impl_overlay_setting_request_code" />
+    <item type="id" name="photos_camerashortcut_connector_impl_permission_request_code" />
+    <item type="id" name="photos_carousel_common_animations_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_collages_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_device_folders_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_movies_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_people_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_places_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_shared_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_things_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_videos_viewtype_scoped_id" />
+    <item type="id" name="photos_carousel_common_viewtype" />
+    <item type="id" name="photos_carousel_highlight" />
+    <item type="id" name="photos_carousel_loader_id" />
+    <item type="id" name="photos_carousel_viewtype" />
+    <item type="id" name="photos_collectionlist_albums_loader_id" />
+    <item type="id" name="photos_collectionlist_cover_viewtype" />
+    <item type="id" name="photos_collectionlist_shared_albums_loader_id" />
+    <item type="id" name="photos_collectionlist_viewtype_empty_id" />
+    <item type="id" name="photos_comments_adapteritem_viewtype_comment" />
+    <item type="id" name="photos_comments_adapteritem_viewtype_comment_off" />
+    <item type="id" name="photos_comments_load_media_key_task_id" />
+    <item type="id" name="photos_comments_photocommentsheet_dim_overlay" />
+    <item type="id" name="photos_comments_reportabuse_load_report_abuse_features_id" />
+    <item type="id" name="photos_comments_ui_comment_list_loader_id" />
+    <item type="id" name="photos_cozylayout_prior_size" />
+    <item type="id" name="photos_create_albums_loader_id" />
+    <item type="id" name="photos_create_building_create_activity_large_selection_id" />
+    <item type="id" name="photos_create_create_menu_request_code" />
+    <item type="id" name="photos_create_is_pending_collection_task_id" />
+    <item type="id" name="photos_create_local_animation_creation_task_id" />
+    <item type="id" name="photos_create_local_mix_creation_task_id" />
+    <item type="id" name="photos_create_media_bundle_types_loader_id" />
+    <item type="id" name="photos_create_request_code_picker" />
+    <item type="id" name="photos_create_shared_albums_loader_id" />
+    <item type="id" name="photos_create_uploadhandlers_create_new_album_load_features_task_id" />
+    <item type="id" name="photos_create_viewbinder_existing_album_viewtype" />
+    <item type="id" name="photos_create_viewbinder_heading_viewtype" />
+    <item type="id" name="photos_create_viewbinder_new_creation_viewtype" />
+    <item type="id" name="photos_create_viewbinder_title_viewtype" />
+    <item type="id" name="photos_envelope_album_feature_loader_id" />
+    <item type="id" name="photos_envelope_album_media_loader_id" />
+    <item type="id" name="photos_envelope_envelope_feature_loader_id" />
+    <item type="id" name="photos_envelope_settings_collection_loader_id" />
+    <item type="id" name="photos_envelope_settings_components_toggle_view_type" />
+    <item type="id" name="photos_envelope_settings_getlink_view_type" />
+    <item type="id" name="photos_envelope_settings_people_header_view_type" />
+    <item type="id" name="photos_envelope_settings_people_member_item_view_type" />
+    <item type="id" name="photos_envelope_settings_request_code" />
+    <item type="id" name="photos_envelope_suggest_banner_load_media_task_id" />
+    <item type="id" name="photos_envelope_suggest_banner_picker_request_code" />
+    <item type="id" name="photos_externalmedia_find_id" />
+    <item type="id" name="photos_findandloadmedia_find_task_id" />
+    <item type="id" name="photos_findandloadmedia_load_task_id" />
+    <item type="id" name="photos_findmedia_find_media_task_id" />
+    <item type="id" name="photos_home_loader_id" />
+    <item type="id" name="photos_jobscheduler_api_camera_shortcut_job_id" />
+    <item type="id" name="photos_jobscheduler_api_job_backup_promo_job_id" />
+    <item type="id" name="photos_jobscheduler_api_job_device_mgmt_promo_job_id" />
+    <item type="id" name="photos_jobscheduler_api_job_queue_job_id" />
+    <item type="id" name="photos_jobscheduler_api_online_action_job_id" />
+    <item type="id" name="photos_jobscheduler_api_sign_in_prep_job_id" />
+    <item type="id" name="photos_list_pivot_expand_listener" />
+    <item type="id" name="photos_list_viewtype_header" />
+    <item type="id" name="photos_list_viewtype_loading" />
+    <item type="id" name="photos_list_viewtype_photo" />
+    <item type="id" name="photos_localmedia_ui_accountpicker_request_code" />
+    <item type="id" name="photos_localmedia_ui_collection_loader_id" />
+    <item type="id" name="photos_localmedia_ui_delete_folder_load_count_id" />
+    <item type="id" name="photos_localmedia_ui_folderpicker_all_folders_viewtype" />
+    <item type="id" name="photos_localmedia_ui_folderpicker_divider_view_type" />
+    <item type="id" name="photos_localmedia_ui_folderpicker_folder_view_type" />
+    <item type="id" name="photos_localmedia_ui_folderpicker_media_header_view_type" />
+    <item type="id" name="photos_localmedia_ui_folderpicker_new_folder_view_type" />
+    <item type="id" name="photos_localmedia_ui_local_folders_loader_id" />
+    <item type="id" name="photos_localmedia_ui_local_photos_loader_id" />
+    <item type="id" name="photos_localmedia_ui_signin_request_code" />
+    <item type="id" name="photos_localmedia_ui_tag_bucket_id" />
+    <item type="id" name="photos_localmedia_ui_viewtype_local_folder" />
+    <item type="id" name="photos_localmedia_ui_viewtype_local_photos" />
+    <item type="id" name="photos_localmedia_ui_viewtype_more" />
+    <item type="id" name="photos_location_place_loader" />
+    <item type="id" name="photos_mediadetails_feature_loader" />
+    <item type="id" name="photos_mediadetails_viewtype_exif" />
+    <item type="id" name="photos_mediadetails_viewtype_exif_location" />
+    <item type="id" name="photos_mediadetails_viewtype_exif_map" />
+    <item type="id" name="photos_mediadetails_viewtype_header" />
+    <item type="id" name="photos_mediadetails_viewtype_media_caption_editable" />
+    <item type="id" name="photos_mediadetails_viewtype_media_caption_non_editable" />
+    <item type="id" name="photos_mediamonitor_job_id" />
+    <item type="id" name="photos_metasync_remote_lifecycle_loader_id" />
+    <item type="id" name="photos_moviemaker_opener_request_code" />
+    <item type="id" name="photos_moviemaker_share_generate_aam_bytes_request_code" />
+    <item type="id" name="photos_onboarding_background_sign_in_task_id" />
+    <item type="id" name="photos_onboarding_device_mgmt_promo_task_id" />
+    <item type="id" name="photos_onboarding_grid_teaser_code" />
+    <item type="id" name="photos_onboarding_intro_butterfly_loader_1" />
+    <item type="id" name="photos_onboarding_intro_butterfly_loader_2" />
+    <item type="id" name="photos_onboarding_intro_butterfly_loader_3" />
+    <item type="id" name="photos_onboarding_intro_butterfly_loader_4" />
+    <item type="id" name="photos_onboarding_intro_butterfly_loader_5" />
+    <item type="id" name="photos_onboarding_intro_experiment_load_task_id" />
+    <item type="id" name="photos_onboarding_promo_backup_promo" />
+    <item type="id" name="photos_onboarding_promo_mgmt_notification_id" />
+    <item type="id" name="photos_pager_cast_core_feature_task_id" />
+    <item type="id" name="photos_pager_fragment_add_to_album_collection_loader_id" />
+    <item type="id" name="photos_pager_fragment_external_edit_activity_result" />
+    <item type="id" name="photos_pager_fragment_media_loader_id" />
+    <item type="id" name="photos_pager_fragment_save_mixin_collection_loader_id" />
+    <item type="id" name="photos_pager_pending_load_burst_info_id" />
+    <item type="id" name="photos_pager_use_as_album_cover_menu_item_handler_media_loader_id" />
+    <item type="id" name="photos_peoplemachine_collection_feature_loader_id" />
+    <item type="id" name="photos_peoplemachine_collection_loader_id" />
+    <item type="id" name="photos_peoplemachine_dialog_icon_and_text_viewtype" />
+    <item type="id" name="photos_peoplemachine_dialog_item_share_all" />
+    <item type="id" name="photos_peoplemachine_dialog_item_share_collage" />
+    <item type="id" name="photos_peoplemachine_header_viewtype" />
+    <item type="id" name="photos_peoplemachine_media_loader_id" />
+    <item type="id" name="photos_peoplemachine_more_photos_link_viewtype" />
+    <item type="id" name="photos_permissions_required_no_permissions_request_code" />
+    <item type="id" name="photos_permissions_required_permissions_request_code" />
+    <item type="id" name="photos_photoadapteritem_photo_view_type" />
+    <item type="id" name="photos_photoeditor_core_feature_task_id" />
+    <item type="id" name="photos_photoeditor_intentprovider_loader" />
+    <item type="id" name="photos_photoeditor_intents_load_edited_media_task_id" />
+    <item type="id" name="photos_photoeditor_intents_load_initial_media_task_id" />
+    <item type="id" name="photos_photofragment_components_edit_collection_load_task_id" />
+    <item type="id" name="photos_photofragment_components_edit_collection_loader" />
+    <item type="id" name="photos_photofragment_components_edit_media_load_task_id" />
+    <item type="id" name="photos_photofragment_components_edit_media_loader" />
+    <item type="id" name="photos_photofragment_components_edit_movie_source_id" />
+    <item type="id" name="photos_photofragment_components_edit_oem_editor_activity_result_code" />
+    <item type="id" name="photos_photofragment_components_edit_request_code_edit" />
+    <item type="id" name="photos_photofragment_components_edit_request_code_movie" />
+    <item type="id" name="photos_photofragment_components_externalviewer_external_edit_request_code" />
+    <item type="id" name="photos_photofragment_save_to_library_action_promo_feature_id" />
+    <item type="id" name="photos_photogrid_emptyphoto_viewtype" />
+    <item type="id" name="photos_photosphere_load_media_task_id" />
+    <item type="id" name="photos_picker_impl_subpicker_loader" />
+    <item type="id" name="photos_picker_impl_subpicker_request_id" />
+    <item type="id" name="photos_picker_returning_from_picker_large_selection_id" />
+    <item type="id" name="photos_printing_feature_load_task" />
+    <item type="id" name="photos_progress_viewbinder_viewtype" />
+    <item type="id" name="photos_reportabuse_collection_feature_loader" />
+    <item type="id" name="photos_reportabuse_media_feature_loader" />
+    <item type="id" name="photos_sdcard_ui_load_feature_task_id" />
+    <item type="id" name="photos_sdcard_ui_request_permission_activity" />
+    <item type="id" name="photos_search_autocomplete_prefix_suggestions_loader_id" />
+    <item type="id" name="photos_search_carousel_viewtype" />
+    <item type="id" name="photos_search_core_suggested_query_suggestion_loader_id" />
+    <item type="id" name="photos_search_hint_provider_suggestions_loader_id" />
+    <item type="id" name="photos_search_loader_id" />
+    <item type="id" name="photos_search_peoplelabeling_autocomplete_contacts_header" />
+    <item type="id" name="photos_search_peoplelabeling_autocomplete_frequent_contacts" />
+    <item type="id" name="photos_search_peoplelabeling_autocomplete_item" />
+    <item type="id" name="photos_search_peoplelabeling_contacts_loader" />
+    <item type="id" name="photos_search_peoplelabeling_header" />
+    <item type="id" name="photos_search_peoplelabeling_permission_request_code" />
+    <item type="id" name="photos_search_peoplelabeling_suggestions_loader_id" />
+    <item type="id" name="photos_search_search_query_collection_feature_load_task_id" />
+    <item type="id" name="photos_search_searchbox_voice_search_request_code" />
+    <item type="id" name="photos_search_searchresults_core_feature_task_id" />
+    <item type="id" name="photos_search_searchresults_peoplelabeling_activity" />
+    <item type="id" name="photos_search_searchsummary_suggestions_loader_id" />
+    <item type="id" name="photos_search_suggestions_autocomplete" />
+    <item type="id" name="photos_search_suggestions_explore_loader_id" />
+    <item type="id" name="photos_search_suggestions_loader_id" />
+    <item type="id" name="photos_search_suggestions_viewtype_empty_explore_footer" />
+    <item type="id" name="photos_search_suggestions_viewtype_empty_explore_tile" />
+    <item type="id" name="photos_search_suggestions_viewtype_header" />
+    <item type="id" name="photos_secure_unlock_edit_activity_request_code" />
+    <item type="id" name="photos_seek_media_load_task_id" />
+    <item type="id" name="photos_selection_selection_mixin_load_collection_check" />
+    <item type="id" name="photos_selection_selection_mixin_load_collection_deselect" />
+    <item type="id" name="photos_selection_selection_mixin_load_collection_select" />
+    <item type="id" name="photos_setas_menu_handler_load_task_id" />
+    <item type="id" name="photos_settings_auto_create_loader_id" />
+    <item type="id" name="photos_settings_storage_settings_loader_id" />
+    <item type="id" name="photos_setwallpaper_photo_picker_id" />
+    <item type="id" name="photos_share_existingalbum_new_shared_album_viewtype" />
+    <item type="id" name="photos_share_existingalbum_shared_albums_loader_id" />
+    <item type="id" name="photos_share_handler_request_code" />
+    <item type="id" name="photos_share_intentbuilder_large_selection_id" />
+    <item type="id" name="photos_share_method_item_view_type_id" />
+    <item type="id" name="photos_share_sendkit_viewbinder_view_type_id" />
+    <item type="id" name="photos_share_sharedalbums_app_view_type_id" />
+    <item type="id" name="photos_share_sharedalbums_progress_viewtype_id" />
+    <item type="id" name="photos_share_targetapp_toppadding_viewtype_id" />
+    <item type="id" name="photos_share_targetapp_viewtype_id" />
+    <item type="id" name="photos_share_uploadhandlers_feature_load_task_id" />
+    <item type="id" name="photos_sharedlinks_adapteritems_layout_change_listener_tag_id" />
+    <item type="id" name="photos_sharedlinks_adapteritems_shared_album_view_type_id" />
+    <item type="id" name="photos_sharedlinks_collections_loader_id" />
+    <item type="id" name="photos_sharedlinks_copy_link_task_id" />
+    <item type="id" name="photos_signinpromo_accountpicker_request_code" />
+    <item type="id" name="photos_signinpromo_load_experiment_task_id" />
+    <item type="id" name="photos_signinpromo_signin_request_code" />
+    <item type="id" name="photos_singlemediaitem_media_item_loader_id" />
+    <item type="id" name="photos_suggestedrotations_collection_loader_id" />
+    <item type="id" name="photos_suggestedrotations_media_loader_id" />
+    <item type="id" name="photos_suggestedrotations_more_photos_link_viewtype" />
+    <item type="id" name="photos_suggestedrotations_viewtype_subtitle" />
+    <item type="id" name="photos_tabbar_album_promo_feature_id" />
+    <item type="id" name="photos_timemachine_collection_loader_id" />
+    <item type="id" name="photos_timemachine_media_loader_id" />
+    <item type="id" name="photos_timemachine_mixins_timemachinesharemixin_load_task_id" />
+    <item type="id" name="photos_timemachine_more_photos_link_viewtype" />
+    <item type="id" name="photos_trash_actions_source_feature_task_id" />
+    <item type="id" name="photos_trash_delete_provider_feature_task_id" />
+    <item type="id" name="photos_trash_ui_header_viewtype" />
+    <item type="id" name="photos_universalreportabuse_report_abuse_code" />
+    <item type="id" name="photos_upload_media_loader_id" />
+    <item type="id" name="photos_upload_uploadhandler_handler_mixin_core_task_id" />
+    <item type="id" name="photos_videoplayer_feature_loader_id" />
+    <item type="id" name="picker_external_device_folders_loader_id" />
+    <item type="id" name="picker_external_request_code" />
+    <item type="id" name="picker_external_viewtype_divider" />
+    <item type="id" name="picker_external_viewtype_folder" />
+    <item type="id" name="picker_external_viewtype_title" />
+    <item type="id" name="pinwheel_butterfly_loader" />
+    <item type="id" name="printing_menu_id_print" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="recycler_view" />
+    <item type="id" name="refresh" />
+    <item type="id" name="remote_album_loader_id" />
+    <item type="id" name="request_code_acl_edit" />
+    <item type="id" name="request_code_edit" />
+    <item type="id" name="request_code_share_action" />
+    <item type="id" name="request_code_share_external" />
+    <item type="id" name="request_code_signup" />
+    <item type="id" name="resolved_collection_feature_loader_id" />
+    <item type="id" name="resolved_media_feature_loader_id" />
+    <item type="id" name="search_results_loader_id" />
+    <item type="id" name="sign_in_request_code" />
+    <item type="id" name="social_analytics_account_name_key" />
+    <item type="id" name="social_analytics_application_id_key" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="stories_collection_loader_id" />
+    <item type="id" name="story_layout_view_params" />
+    <item type="id" name="story_title" />
+    <item type="id" name="tag_adapter_position" />
+    <item type="id" name="tag_all_photos_id" />
+    <item type="id" name="tag_audience_data" />
+    <item type="id" name="tag_behavior_click" />
+    <item type="id" name="tag_context_caption_text" />
+    <item type="id" name="tag_context_captionable" />
+    <item type="id" name="tag_context_captioned" />
+    <item type="id" name="tag_context_coverable" />
+    <item type="id" name="tag_context_hideable" />
+    <item type="id" name="tag_current_place" />
+    <item type="id" name="tag_element_ref" />
+    <item type="id" name="tag_gaia_id" />
+    <item type="id" name="tag_intent_uri" />
+    <item type="id" name="tag_layout_element" />
+    <item type="id" name="tag_measure_spec_exact" />
+    <item type="id" name="tag_media_key" />
+    <item type="id" name="tag_media_model" />
+    <item type="id" name="tag_media_type" />
+    <item type="id" name="tag_original_aspect_ratio" />
+    <item type="id" name="tag_pending_future" />
+    <item type="id" name="tag_photo" />
+    <item type="id" name="tag_photo_id" />
+    <item type="id" name="tag_place" />
+    <item type="id" name="tag_place_add_location" />
+    <item type="id" name="tag_place_location" />
+    <item type="id" name="tag_plus_one_count" />
+    <item type="id" name="tag_plus_oned_by_viewer" />
+    <item type="id" name="tag_search_query" />
+    <item type="id" name="tag_story_element" />
+    <item type="id" name="tag_view_request_hidden" />
+    <item type="id" name="target_app_loader_id" />
+    <item type="id" name="twowayview_item_click_support" />
+    <item type="id" name="twowayview_item_selection_support" />
+    <item type="id" name="up" />
+    <item type="id" name="view_offset_helper" />
+    <item type="id" name="viewtype_1_photo_card" />
+    <item type="id" name="viewtype_2_photos_card" />
+    <item type="id" name="viewtype_3_photos_card" />
+    <item type="id" name="viewtype_4_photos_card" />
+    <item type="id" name="viewtype_5_photos_card" />
+    <item type="id" name="viewtype_6_photos_card" />
+    <item type="id" name="viewtype_auto_backup" />
+    <item type="id" name="viewtype_cold_start" />
+    <item type="id" name="viewtype_explore_tile" />
+    <item type="id" name="viewtype_loading" />
+    <item type="id" name="viewtype_more_photos_card" />
+    <item type="id" name="viewtype_no_photo_card" />
+    <item type="id" name="viewtype_overlay_card" />
+    <item type="id" name="viewtype_standard_card" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollIndicatorUp">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="scrollIndicatorDown">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="submenuarrow">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="accessible_photo_crop_buttons">false</item>
+    <item type="id" name="x_position_control_button">false</item>
+    <item type="id" name="y_position_control_button">false</item>
+    <item type="id" name="zoom_control_button">false</item>
+    <item type="id" name="account_layout">false</item>
+    <item type="id" name="selected_account_bar">false</item>
+    <item type="id" name="account_avatar">false</item>
+    <item type="id" name="display_name">false</item>
+    <item type="id" name="account_name">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="caption">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="cover_photo_container">false</item>
+    <item type="id" name="cover_photo">false</item>
+    <item type="id" name="toggle_account_list_view">false</item>
+    <item type="id" name="account_list_buttons">false</item>
+    <item type="id" name="show_account_list_image">false</item>
+    <item type="id" name="hide_account_list_image">false</item>
+    <item type="id" name="progress_indicator">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="primary_spinner">false</item>
+    <item type="id" name="action_bar_overflow_menu_group_label_divider">false</item>
+    <item type="id" name="action_bar_overflow_menu_group_label">false</item>
+    <item type="id" name="action_bar_overflow_menu_item_title">false</item>
+    <item type="id" name="action_bar_overflow_menu_item_checkbox">false</item>
+    <item type="id" name="add_place_enrichments_expander">false</item>
+    <item type="id" name="fragment_container">false</item>
+    <item type="id" name="add_location">false</item>
+    <item type="id" name="add_map">false</item>
+    <item type="id" name="add_all_suggested_locations">false</item>
+    <item type="id" name="album_comment_sheet">false</item>
+    <item type="id" name="comment_list_container">false</item>
+    <item type="id" name="comment_banner_divider">false</item>
+    <item type="id" name="accessibility_announcment_view">false</item>
+    <item type="id" name="bottom_banner_container">false</item>
+    <item type="id" name="collection_title_card">false</item>
+    <item type="id" name="collection_title_editing">false</item>
+    <item type="id" name="collection_title">false</item>
+    <item type="id" name="collection_subtitle">false</item>
+    <item type="id" name="facepile">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="is_from_drive_message">false</item>
+    <item type="id" name="is_shared_message">false</item>
+    <item type="id" name="learn_more">false</item>
+    <item type="id" name="all_photos_empty_state_layout_stub">false</item>
+    <item type="id" name="all_photos_bar">false</item>
+    <item type="id" name="status">false</item>
+    <item type="id" name="animated_progress_circle_1">false</item>
+    <item type="id" name="animated_progress_circle_2">false</item>
+    <item type="id" name="animated_progress_circle_3">false</item>
+    <item type="id" name="animated_progress_message">false</item>
+    <item type="id" name="animated_progress_sub_message">false</item>
+    <item type="id" name="obfuscate">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="dumpable_recycler_view">false</item>
+    <item type="id" name="generate_dump_button">false</item>
+    <item type="id" name="application_info_dump_activity_frame">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="button_text">false</item>
+    <item type="id" name="dismiss_card_button">false</item>
+    <item type="id" name="card_body">false</item>
+    <item type="id" name="card_image">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="assistantCardButtonBar">false</item>
+    <item type="id" name="primary_button">false</item>
+    <item type="id" name="secondary_button">false</item>
+    <item type="id" name="assistant_card_overflow_button">false</item>
+    <item type="id" name="title_text_layout">false</item>
+    <item type="id" name="cards">false</item>
+    <item type="id" name="header_image">false</item>
+    <item type="id" name="media_preview_container">false</item>
+    <item type="id" name="photo_0">false</item>
+    <item type="id" name="assistant_card_gradient">false</item>
+    <item type="id" name="collection_type_icon">false</item>
+    <item type="id" name="overlay_title">false</item>
+    <item type="id" name="overlay_subtitle">false</item>
+    <item type="id" name="photo_1">false</item>
+    <item type="id" name="photo_2">false</item>
+    <item type="id" name="photo_3">false</item>
+    <item type="id" name="photo_4">false</item>
+    <item type="id" name="open_envelope_linear_layout">false</item>
+    <item type="id" name="overflow_count">false</item>
+    <item type="id" name="icon_view">false</item>
+    <item type="id" name="no_button_bar">false</item>
+    <item type="id" name="photo_5">false</item>
+    <item type="id" name="account_header">false</item>
+    <item type="id" name="account_list_arrow">false</item>
+    <item type="id" name="scroll_container">false</item>
+    <item type="id" name="settings_page_container">false</item>
+    <item type="id" name="account_list">false</item>
+    <item type="id" name="done_button">false</item>
+    <item type="id" name="photo_face_grouping_learn_more">false</item>
+    <item type="id" name="photos_onboarding_korean_terms_of_service">false</item>
+    <item type="id" name="tile_row">false</item>
+    <item type="id" name="toastbar_container">false</item>
+    <item type="id" name="toastbar">false</item>
+    <item type="id" name="toastbar_message">false</item>
+    <item type="id" name="toastbar_button1">false</item>
+    <item type="id" name="card_item">false</item>
+    <item type="id" name="card_header_area">false</item>
+    <item type="id" name="card_content_scroll_area">false</item>
+    <item type="id" name="carousel_image_container">false</item>
+    <item type="id" name="carousel_image">false</item>
+    <item type="id" name="carousel_icon">false</item>
+    <item type="id" name="ripple_highlight">false</item>
+    <item type="id" name="carousel_title">false</item>
+    <item type="id" name="photos_cast_impl_media_message">false</item>
+    <item type="id" name="photos_cast_impl_photo">false</item>
+    <item type="id" name="photos_cast_impl_pinwheel">false</item>
+    <item type="id" name="photos_cast_impl_pinwheel_star">false</item>
+    <item type="id" name="photos_cast_impl_logo">false</item>
+    <item type="id" name="photos_cast_impl_switcher">false</item>
+    <item type="id" name="comment_banner_shadow">false</item>
+    <item type="id" name="comment_banner_layout">false</item>
+    <item type="id" name="profile_image_view">false</item>
+    <item type="id" name="comment_edit_text">false</item>
+    <item type="id" name="comment_count_container">false</item>
+    <item type="id" name="comment_count">false</item>
+    <item type="id" name="comment_list_header">false</item>
+    <item type="id" name="comment_list_header_divider">false</item>
+    <item type="id" name="comment_list">false</item>
+    <item type="id" name="component">false</item>
+    <item type="id" name="cards_area_wrapper">false</item>
+    <item type="id" name="footer_buttons_area">false</item>
+    <item type="id" name="card_done_button">false</item>
+    <item type="id" name="first_page">false</item>
+    <item type="id" name="sheet_page">false</item>
+    <item type="id" name="account_list_container">false</item>
+    <item type="id" name="account_picker_header">false</item>
+    <item type="id" name="cpe_cancel_button">false</item>
+    <item type="id" name="cpe_save_button">false</item>
+    <item type="id" name="cpe_adjustments_container">false</item>
+    <item type="id" name="cpe_adjustments_list">false</item>
+    <item type="id" name="cpe_adjustments_sticky_header_container">false</item>
+    <item type="id" name="cpe_adjustments_master_section">false</item>
+    <item type="id" name="cpe_adjustments_section_text">false</item>
+    <item type="id" name="cpe_adjustments_section_slider">false</item>
+    <item type="id" name="cpe_adjustments_section_expand_button">false</item>
+    <item type="id" name="cpe_adjustments_sub_section">false</item>
+    <item type="id" name="cpe_adjustments_toolbar_fragment">false</item>
+    <item type="id" name="cpe_adjustments_group">false</item>
+    <item type="id" name="cpe_adjustments_reset">false</item>
+    <item type="id" name="cpe_adjustments_light">false</item>
+    <item type="id" name="cpe_adjustments_color">false</item>
+    <item type="id" name="cpe_adjustments_pop">false</item>
+    <item type="id" name="cpe_adjustments_vignette">false</item>
+    <item type="id" name="cpe_aspect_ratio_scroll_view">false</item>
+    <item type="id" name="cpe_aspect_ratio_free">false</item>
+    <item type="id" name="cpe_aspect_ratio_original">false</item>
+    <item type="id" name="cpe_aspect_ratio_square">false</item>
+    <item type="id" name="cpe_aspect_ratio_16_9">false</item>
+    <item type="id" name="cpe_aspect_ratio_4_3">false</item>
+    <item type="id" name="cpe_aspect_ratio_3_2">false</item>
+    <item type="id" name="cpe_aspect_ratio_flip_separator">false</item>
+    <item type="id" name="cpe_aspect_ratio_flip">false</item>
+    <item type="id" name="cpe_crop_and_rotate_container">false</item>
+    <item type="id" name="cpe_aspect_ratio">false</item>
+    <item type="id" name="cpe_straighten_slider">false</item>
+    <item type="id" name="cpe_rotate_90">false</item>
+    <item type="id" name="cpe_crop_and_rotate_bottom_container">false</item>
+    <item type="id" name="cpe_crop_and_rotate_reset">false</item>
+    <item type="id" name="cpe_content_container">false</item>
+    <item type="id" name="cpe_image_container_overlay_frame">false</item>
+    <item type="id" name="cpe_image_container_overlay">false</item>
+    <item type="id" name="cpe_image_overlay">false</item>
+    <item type="id" name="cpe_toolbar_container">false</item>
+    <item type="id" name="cpe_content_overlay">false</item>
+    <item type="id" name="cpe_upper_toolbar">false</item>
+    <item type="id" name="cpe_lower_toolbar">false</item>
+    <item type="id" name="cpe_image_container">false</item>
+    <item type="id" name="cpe_image_fragment">false</item>
+    <item type="id" name="cpe_crop_overlay">false</item>
+    <item type="id" name="cpe_image_preview">false</item>
+    <item type="id" name="cpe_looks_toolbar_fragment">false</item>
+    <item type="id" name="cpe_looks_toolbar_old_fragment">false</item>
+    <item type="id" name="cpe_looks_list_scroll_view">false</item>
+    <item type="id" name="cpe_looks_list">false</item>
+    <item type="id" name="cpe_preset_item_image">false</item>
+    <item type="id" name="cpe_preset_item_label">false</item>
+    <item type="id" name="cpe_presets_list_scroll_view">false</item>
+    <item type="id" name="cpe_presets_list">false</item>
+    <item type="id" name="cpe_presets_seek_bar">false</item>
+    <item type="id" name="cpe_strength_cancel">false</item>
+    <item type="id" name="cpe_strength_seek_bar">false</item>
+    <item type="id" name="cpe_strength_accept">false</item>
+    <item type="id" name="cpe_toolbar_fragment">false</item>
+    <item type="id" name="cpe_looks_tool">false</item>
+    <item type="id" name="cpe_adjustments_tool">false</item>
+    <item type="id" name="cpe_crop_tool">false</item>
+    <item type="id" name="cpe_video_player_fragment">false</item>
+    <item type="id" name="cpe_play_pause_view">false</item>
+    <item type="id" name="cpe_video_toolbar_gradient">false</item>
+    <item type="id" name="cpe_player_controls">false</item>
+    <item type="id" name="cpe_video_current_time">false</item>
+    <item type="id" name="cpe_video_total_time">false</item>
+    <item type="id" name="cpe_video_player_progress">false</item>
+    <item type="id" name="cpe_video_trim">false</item>
+    <item type="id" name="cpe_video_stabilize">false</item>
+    <item type="id" name="cpe_video_rotate">false</item>
+    <item type="id" name="cpe_video_player_container">false</item>
+    <item type="id" name="cpe_video_view">false</item>
+    <item type="id" name="create_expander">false</item>
+    <item type="id" name="share_list">false</item>
+    <item type="id" name="expansion_pivot_stub">false</item>
+    <item type="id" name="expansion_pivot">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="touch_outside">false</item>
+    <item type="id" name="design_bottom_sheet">false</item>
+    <item type="id" name="snackbar_text">false</item>
+    <item type="id" name="snackbar_action">false</item>
+    <item type="id" name="navigation_header_container">false</item>
+    <item type="id" name="design_navigation_view">false</item>
+    <item type="id" name="design_menu_item_text">false</item>
+    <item type="id" name="design_menu_item_action_area_stub">false</item>
+    <item type="id" name="design_menu_item_action_area">false</item>
+    <item type="id" name="text_input_password_toggle">false</item>
+    <item type="id" name="touch_capture_view">false</item>
+    <item type="id" name="details_container">false</item>
+    <item type="id" name="details_list">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="progress_container">false</item>
+    <item type="id" name="progress_title">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="device_mgmt_complete_icon">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="device_mgmt_dialog_simple_title">false</item>
+    <item type="id" name="device_mgmt_dialog_simple_batch_description">false</item>
+    <item type="id" name="dream_flipper">false</item>
+    <item type="id" name="selected">false</item>
+    <item type="id" name="dream_settings">false</item>
+    <item type="id" name="settings_list">false</item>
+    <item type="id" name="enabled">false</item>
+    <item type="id" name="dummy_placeholder">false</item>
+    <item type="id" name="dumpable_title">false</item>
+    <item type="id" name="dumpable_description">false</item>
+    <item type="id" name="dumpable_checkbox">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="photos_edittext_edit_text_holder">false</item>
+    <item type="id" name="photos_edittext_edit_text_holder_static">false</item>
+    <item type="id" name="photos_edittext_edit_text_holder_editable">false</item>
+    <item type="id" name="photos_edittext_edit_text_holder_shadow">false</item>
+    <item type="id" name="deleteText">false</item>
+    <item type="id" name="noticeText">false</item>
+    <item type="id" name="picker_fullscreen_background">false</item>
+    <item type="id" name="picker_fullscreen_image">false</item>
+    <item type="id" name="all_photos_empty_state_layout">false</item>
+    <item type="id" name="list_empty_text">false</item>
+    <item type="id" name="list_empty_progress">false</item>
+    <item type="id" name="list_empty_progress_bar">false</item>
+    <item type="id" name="list_empty_progress_text">false</item>
+    <item type="id" name="trash_empty_state_layout">false</item>
+    <item type="id" name="photos_trash_ui_empty_state_image">false</item>
+    <item type="id" name="end_card_story_promo_parent">false</item>
+    <item type="id" name="end_card_story_promo_button">false</item>
+    <item type="id" name="enrichment_edit_mode_adornments">false</item>
+    <item type="id" name="enrichment_dragged_overlay">false</item>
+    <item type="id" name="enrichment_gradient_overlay_view">false</item>
+    <item type="id" name="enrichment_flat_overlay_view">false</item>
+    <item type="id" name="enrichment_editing_activity_root">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="enrichment_editing_fragment_container">false</item>
+    <item type="id" name="album_fragment_container">false</item>
+    <item type="id" name="photo_container">false</item>
+    <item type="id" name="envelope_settings_container">false</item>
+    <item type="id" name="envelope_card_row_avatar_2_view_stub">false</item>
+    <item type="id" name="envelope_card_row_avatar_2">false</item>
+    <item type="id" name="envelope_card_row_avatar_3_view_stub">false</item>
+    <item type="id" name="envelope_card_row_avatar_3">false</item>
+    <item type="id" name="envelope_card_row_avatar_4_view_stub">false</item>
+    <item type="id" name="envelope_card_row_avatar_4">false</item>
+    <item type="id" name="envelope_card_avatar">false</item>
+    <item type="id" name="envelope_card_row_single_avatar">false</item>
+    <item type="id" name="envelope_card_row_badge">false</item>
+    <item type="id" name="envelope_card_row_lower_left_avatar">false</item>
+    <item type="id" name="envelope_card_row_overflow_number">false</item>
+    <item type="id" name="envelope_card_row_upper_left_avatar">false</item>
+    <item type="id" name="envelope_card_row_upper_right_avatar">false</item>
+    <item type="id" name="envelope_card_row_upper_middle_avatar">false</item>
+    <item type="id" name="avatar_1">false</item>
+    <item type="id" name="avatar_2">false</item>
+    <item type="id" name="avatar_3">false</item>
+    <item type="id" name="avatar_4">false</item>
+    <item type="id" name="overflow_number">false</item>
+    <item type="id" name="envelope_card_row_image_preview">false</item>
+    <item type="id" name="envelope_card_row">false</item>
+    <item type="id" name="title_envelope_card_row">false</item>
+    <item type="id" name="photos_envelope_settings_fragment">false</item>
+    <item type="id" name="photos_envelope_settings_recycler_view">false</item>
+    <item type="id" name="text_container">false</item>
+    <item type="id" name="toggle_container">false</item>
+    <item type="id" name="subtitle">false</item>
+    <item type="id" name="toggle">false</item>
+    <item type="id" name="exif_item_layout">false</item>
+    <item type="id" name="value">false</item>
+    <item type="id" name="exif_location_item_layout">false</item>
+    <item type="id" name="content_view">false</item>
+    <item type="id" name="loading_view">false</item>
+    <item type="id" name="option_views">false</item>
+    <item type="id" name="anchor">false</item>
+    <item type="id" name="options">false</item>
+    <item type="id" name="link">false</item>
+    <item type="id" name="details_map">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="notification_dialog">false</item>
+    <item type="id" name="photos_search_peoplegroupingonboarding_body">false</item>
+    <item type="id" name="photos_search_peoplegroupingonboarding_ok">false</item>
+    <item type="id" name="expansion_pivot_icon">false</item>
+    <item type="id" name="expansion_pivot_spinner">false</item>
+    <item type="id" name="category_header">false</item>
+    <item type="id" name="photos_search_suggestions_cold_start_header">false</item>
+    <item type="id" name="photos_search_suggestions_cold_start_text">false</item>
+    <item type="id" name="explore_view_category_title">false</item>
+    <item type="id" name="explore_view_more">false</item>
+    <item type="id" name="faces">false</item>
+    <item type="id" name="owner_face">false</item>
+    <item type="id" name="collection_owner_name">false</item>
+    <item type="id" name="search_bar_layout">false</item>
+    <item type="id" name="toolbar_container">false</item>
+    <item type="id" name="notification_bar_spacer">false</item>
+    <item type="id" name="floating_searchbar_margin_cover">false</item>
+    <item type="id" name="floating_toolbar_card_view">false</item>
+    <item type="id" name="floating_toolbar">false</item>
+    <item type="id" name="copy_link_button">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="drawer_layout">false</item>
+    <item type="id" name="main_container">false</item>
+    <item type="id" name="drawer_container">false</item>
+    <item type="id" name="scrolling_toolbar_container">false</item>
+    <item type="id" name="tab_bar">false</item>
+    <item type="id" name="story_elements_list">false</item>
+    <item type="id" name="story_layout">false</item>
+    <item type="id" name="story_top_gradient">false</item>
+    <item type="id" name="story_bottom_gradient">false</item>
+    <item type="id" name="inset_frame">false</item>
+    <item type="id" name="story_edit_location_replacement_frame">false</item>
+    <item type="id" name="hosted_story_fragment_container">false</item>
+    <item type="id" name="info_screen_title">false</item>
+    <item type="id" name="info_screen_content">false</item>
+    <item type="id" name="info_screen_button_bar">false</item>
+    <item type="id" name="info_screen_cancel_button">false</item>
+    <item type="id" name="info_screen_ok_button">false</item>
+    <item type="id" name="ingest_gridview">false</item>
+    <item type="id" name="ingest_view_pager">false</item>
+    <item type="id" name="ingest_warning_view">false</item>
+    <item type="id" name="ingest_warning_view_icon">false</item>
+    <item type="id" name="ingest_warning_view_text">false</item>
+    <item type="id" name="date_tile_month">false</item>
+    <item type="id" name="date_tile_year">false</item>
+    <item type="id" name="date_tile_day">false</item>
+    <item type="id" name="ingest_fullsize_image">false</item>
+    <item type="id" name="ingest_fullsize_image_checkbox">false</item>
+    <item type="id" name="toast">false</item>
+    <item type="id" name="action">false</item>
+    <item type="id" name="secondary_action">false</item>
+    <item type="id" name="license">false</item>
+    <item type="id" name="license_activity_scrollview">false</item>
+    <item type="id" name="license_activity_textview">false</item>
+    <item type="id" name="license_list">false</item>
+    <item type="id" name="list_layout_parent">false</item>
+    <item type="id" name="progress_spinner">false</item>
+    <item type="id" name="auto_backup_folder_toggle_text">false</item>
+    <item type="id" name="autobackup_folder_toggle_icon">false</item>
+    <item type="id" name="local_folders_scrolling_toolbar_view_stub">false</item>
+    <item type="id" name="conversion_promo_container">false</item>
+    <item type="id" name="local_folders_title">false</item>
+    <item type="id" name="local_photos_error_bar">false</item>
+    <item type="id" name="local_photos_butter_bar_text">false</item>
+    <item type="id" name="autobackup_folder_switch_text">false</item>
+    <item type="id" name="autobackup_folder_switch_icon">false</item>
+    <item type="id" name="search_edit_text_parent">false</item>
+    <item type="id" name="magnifying_glass_image">false</item>
+    <item type="id" name="delete_text_button">false</item>
+    <item type="id" name="location_edit_text">false</item>
+    <item type="id" name="location_edit_list">false</item>
+    <item type="id" name="location_check_icon">false</item>
+    <item type="id" name="location_title">false</item>
+    <item type="id" name="location_subtitle">false</item>
+    <item type="id" name="photos_album_enrichment_ui_enrichment_content">false</item>
+    <item type="id" name="photos_album_enrichment_ui_location_content">false</item>
+    <item type="id" name="location_enrichment_text">false</item>
+    <item type="id" name="card_container">false</item>
+    <item type="id" name="deselect_button">false</item>
+    <item type="id" name="map_edit_suggested_locations">false</item>
+    <item type="id" name="map_editing_addresses_bar">false</item>
+    <item type="id" name="map_editing_dot_layout">false</item>
+    <item type="id" name="map_editing_small_circle">false</item>
+    <item type="id" name="map_editing_tiny_circle">false</item>
+    <item type="id" name="map_editing_from_text_parent">false</item>
+    <item type="id" name="map_editing_from_text_delete_button">false</item>
+    <item type="id" name="map_editing_from_edit_text">false</item>
+    <item type="id" name="map_editing_from_secondary_text">false</item>
+    <item type="id" name="map_editing_to_text_parent">false</item>
+    <item type="id" name="map_editing_to_text_delete_button">false</item>
+    <item type="id" name="map_editing_to_edit_text">false</item>
+    <item type="id" name="map_editing_to_secondary_text">false</item>
+    <item type="id" name="photos_album_enrichment_ui_map_content">false</item>
+    <item type="id" name="map_view">false</item>
+    <item type="id" name="map_image_view">false</item>
+    <item type="id" name="map_destination_name_primary">false</item>
+    <item type="id" name="map_destination_name_secondary">false</item>
+    <item type="id" name="map_destination_marker_image">false</item>
+    <item type="id" name="map_origin_marker_view">false</item>
+    <item type="id" name="map_origin_name_primary">false</item>
+    <item type="id" name="photos_mediadetails_media_caption">false</item>
+    <item type="id" name="old_cluster_photo">false</item>
+    <item type="id" name="new_cluster_photo">false</item>
+    <item type="id" name="mm_fragment_container">false</item>
+    <item type="id" name="mm_player_fragment_base">false</item>
+    <item type="id" name="mm_video_view">false</item>
+    <item type="id" name="mm_play_pause_view">false</item>
+    <item type="id" name="mm_video_trim">false</item>
+    <item type="id" name="mm_download_cancel_button">false</item>
+    <item type="id" name="mm_local_soundtrack_album_art_placeholder">false</item>
+    <item type="id" name="mm_local_soundtrack_album_art">false</item>
+    <item type="id" name="mm_local_soundtrack_play_button">false</item>
+    <item type="id" name="mm_local_soundtrack_pause_button">false</item>
+    <item type="id" name="mm_local_song_name">false</item>
+    <item type="id" name="mm_local_artist">false</item>
+    <item type="id" name="mm_local_separator">false</item>
+    <item type="id" name="mm_local_album">false</item>
+    <item type="id" name="mm_waveform_panel">false</item>
+    <item type="id" name="mm_waveform">false</item>
+    <item type="id" name="mm_local_search_edit_text">false</item>
+    <item type="id" name="mm_local_search_clear_button">false</item>
+    <item type="id" name="mm_local_soundtrack_list">false</item>
+    <item type="id" name="mm_original_audio">false</item>
+    <item type="id" name="mm_local_music_overlay">false</item>
+    <item type="id" name="mm_movie_container">false</item>
+    <item type="id" name="mm_output_container">false</item>
+    <item type="id" name="mm_video_surface_view">false</item>
+    <item type="id" name="mm_poster">false</item>
+    <item type="id" name="mm_scrim">false</item>
+    <item type="id" name="mm_spinner">false</item>
+    <item type="id" name="mm_playback_error">false</item>
+    <item type="id" name="mm_playback_error_message">false</item>
+    <item type="id" name="mm_play_button_holder">false</item>
+    <item type="id" name="mm_play_button">false</item>
+    <item type="id" name="mm_pause_button">false</item>
+    <item type="id" name="mm_movie_title">false</item>
+    <item type="id" name="mm_music_empty_view">false</item>
+    <item type="id" name="mm_music_controls_menu_item_image">false</item>
+    <item type="id" name="mm_music_controls_menu_item_text">false</item>
+    <item type="id" name="mm_no_storyboard_message">false</item>
+    <item type="id" name="mm_no_storyboard_message_title">false</item>
+    <item type="id" name="mm_no_storyboard_message_body">false</item>
+    <item type="id" name="mm_no_storyboard_message_ok_button">false</item>
+    <item type="id" name="mm_original_audio_description">false</item>
+    <item type="id" name="mm_original_audio_switch">false</item>
+    <item type="id" name="mm_fragment_contents">false</item>
+    <item type="id" name="mm_title_duration_panel">false</item>
+    <item type="id" name="mm_player_controls">false</item>
+    <item type="id" name="mm_scrubber_panel">false</item>
+    <item type="id" name="mm_movie_progress">false</item>
+    <item type="id" name="mm_seek_bar">false</item>
+    <item type="id" name="mm_movie_duration">false</item>
+    <item type="id" name="mm_edit_buttons">false</item>
+    <item type="id" name="mm_theme_button">false</item>
+    <item type="id" name="mm_soundtrack_button">false</item>
+    <item type="id" name="mm_storyboard_button">false</item>
+    <item type="id" name="mm_ui_block_container">false</item>
+    <item type="id" name="mm_progress_percentage">false</item>
+    <item type="id" name="mm_save_progress_text">false</item>
+    <item type="id" name="mm_save_progress_bar">false</item>
+    <item type="id" name="mm_cloud_music_play_button">false</item>
+    <item type="id" name="mm_cloud_music_pause_button">false</item>
+    <item type="id" name="mm_song_name">false</item>
+    <item type="id" name="mm_song_list">false</item>
+    <item type="id" name="mm_soundtrack_scrim">false</item>
+    <item type="id" name="mm_music_section">false</item>
+    <item type="id" name="mm_tab_layout">false</item>
+    <item type="id" name="mm_scrolling_tabs">false</item>
+    <item type="id" name="mm_soundtrack_pager">false</item>
+    <item type="id" name="mm_loading_music_library_message">false</item>
+    <item type="id" name="mm_soundtrack_list_failed">false</item>
+    <item type="id" name="mm_music_load_retry">false</item>
+    <item type="id" name="mm_tab_title">false</item>
+    <item type="id" name="mm_space_item_view">false</item>
+    <item type="id" name="mm_storyboard_editor_poster">false</item>
+    <item type="id" name="mm_video_poster_view">false</item>
+    <item type="id" name="mm_accessibility_announcement_view">false</item>
+    <item type="id" name="mm_timeline">false</item>
+    <item type="id" name="mm_timeline_cancel">false</item>
+    <item type="id" name="mm_timeline_controls">false</item>
+    <item type="id" name="mm_timeline_add_asset">false</item>
+    <item type="id" name="mm_timeline_crop">false</item>
+    <item type="id" name="mm_timeline_remove">false</item>
+    <item type="id" name="mm_timeline_save">false</item>
+    <item type="id" name="mm_storyboard_strip_view">false</item>
+    <item type="id" name="mm_theme_panel">false</item>
+    <item type="id" name="mm_theme_cancel">false</item>
+    <item type="id" name="mm_theme_save">false</item>
+    <item type="id" name="mm_theme_scroll">false</item>
+    <item type="id" name="mm_theme_scroll_container">false</item>
+    <item type="id" name="mm_button">false</item>
+    <item type="id" name="month_title">false</item>
+    <item type="id" name="month_view">false</item>
+    <item type="id" name="mr_chooser_list">false</item>
+    <item type="id" name="mr_chooser_route_icon">false</item>
+    <item type="id" name="mr_chooser_route_name">false</item>
+    <item type="id" name="mr_chooser_route_desc">false</item>
+    <item type="id" name="mr_expandable_area">false</item>
+    <item type="id" name="mr_dialog_area">false</item>
+    <item type="id" name="mr_title_bar">false</item>
+    <item type="id" name="mr_name">false</item>
+    <item type="id" name="mr_close">false</item>
+    <item type="id" name="mr_custom_control">false</item>
+    <item type="id" name="mr_default_control">false</item>
+    <item type="id" name="mr_art">false</item>
+    <item type="id" name="mr_media_main_control">false</item>
+    <item type="id" name="mr_playback_control">false</item>
+    <item type="id" name="mr_control_divider">false</item>
+    <item type="id" name="mr_volume_control">false</item>
+    <item type="id" name="mr_volume_group_list">false</item>
+    <item type="id" name="volume_item_container">false</item>
+    <item type="id" name="mr_volume_item_icon">false</item>
+    <item type="id" name="mr_volume_slider">false</item>
+    <item type="id" name="mr_control_play_pause">false</item>
+    <item type="id" name="mr_control_title_container">false</item>
+    <item type="id" name="mr_control_title">false</item>
+    <item type="id" name="mr_control_subtitle">false</item>
+    <item type="id" name="mr_group_expand_collapse">false</item>
+    <item type="id" name="photos_album_enrichment_ui_narrative_enrichment_text_view">false</item>
+    <item type="id" name="photos_album_enrichment_ui_narrative_enrichment_editor">false</item>
+    <item type="id" name="photos_album_enrichment_ui_narrative_enrichment_edit_text">false</item>
+    <item type="id" name="photos_album_enrichment_ui_narrative_enrichment_done_button">false</item>
+    <item type="id" name="action0">false</item>
+    <item type="id" name="cancel_action">false</item>
+    <item type="id" name="status_bar_latest_event_content">false</item>
+    <item type="id" name="media_actions">false</item>
+    <item type="id" name="action_divider">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="chronometer">false</item>
+    <item type="id" name="line3">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="end_padder">false</item>
+    <item type="id" name="onboarding_activity_picker_fragment">false</item>
+    <item type="id" name="back_up_your_photos_description">false</item>
+    <item type="id" name="back_up_your_photos_help">false</item>
+    <item type="id" name="onboarding_backup_settings_fragment">false</item>
+    <item type="id" name="high_quality_storage">false</item>
+    <item type="id" name="high_quality_storage_button">false</item>
+    <item type="id" name="high_quality_storage_title">false</item>
+    <item type="id" name="high_quality_storage_subtitle">false</item>
+    <item type="id" name="original_storage">false</item>
+    <item type="id" name="original_storage_button">false</item>
+    <item type="id" name="original_storage_title">false</item>
+    <item type="id" name="original_storage_subtitle">false</item>
+    <item type="id" name="free_storage_text">false</item>
+    <item type="id" name="storage_policy_learn_more">false</item>
+    <item type="id" name="use_cellular_data">false</item>
+    <item type="id" name="save_button">false</item>
+    <item type="id" name="photos_onboarding_nexus_image">false</item>
+    <item type="id" name="photos_onboarding_nexus_text">false</item>
+    <item type="id" name="photos_onboarding_freestorage_impl_nexus_checkbox">false</item>
+    <item type="id" name="intro_fragment_container">false</item>
+    <item type="id" name="butterfly_view">false</item>
+    <item type="id" name="get_started_container">false</item>
+    <item type="id" name="get_started">false</item>
+    <item type="id" name="onboarding_intro_processing">false</item>
+    <item type="id" name="center_button">false</item>
+    <item type="id" name="left_button">false</item>
+    <item type="id" name="right_button">false</item>
+    <item type="id" name="autocomplete_suggestion_icon">false</item>
+    <item type="id" name="autocomplete_suggestion_text">false</item>
+    <item type="id" name="people_labeling_autocomplete_recycler_view">false</item>
+    <item type="id" name="people_labeling_autocomplete">false</item>
+    <item type="id" name="photos_search_peoplelabeling_header_title">false</item>
+    <item type="id" name="photos_search_peoplelabeling_header_subtitle">false</item>
+    <item type="id" name="people_labeling_disable_header">false</item>
+    <item type="id" name="people_labeling_search_box">false</item>
+    <item type="id" name="clear_button">false</item>
+    <item type="id" name="people_machine_page">false</item>
+    <item type="id" name="photos_peoplemachine_share_fab">false</item>
+    <item type="id" name="avatar_container">false</item>
+    <item type="id" name="photos_peoplemachine_header_title">false</item>
+    <item type="id" name="more_photos_link_text">false</item>
+    <item type="id" name="share_stub">false</item>
+    <item type="id" name="edit_stub">false</item>
+    <item type="id" name="photos_photofragment_components_photobar_burst_stub">false</item>
+    <item type="id" name="comment_stub">false</item>
+    <item type="id" name="details_stub">false</item>
+    <item type="id" name="move_to_trash_stub">false</item>
+    <item type="id" name="delete_device_copy_stub">false</item>
+    <item type="id" name="delete_burst_stub">false</item>
+    <item type="id" name="photos_photofragment_components_photobar_burst">false</item>
+    <item type="id" name="comment">false</item>
+    <item type="id" name="comment_count_text">false</item>
+    <item type="id" name="delete_burst">false</item>
+    <item type="id" name="delete_device_copy">false</item>
+    <item type="id" name="details">false</item>
+    <item type="id" name="edit_highlight">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="trash">false</item>
+    <item type="id" name="photo_view">false</item>
+    <item type="id" name="photo_action_bar">false</item>
+    <item type="id" name="comment_banner_container">false</item>
+    <item type="id" name="image_view">false</item>
+    <item type="id" name="image_view2">false</item>
+    <item type="id" name="photo_background_fragment_container">false</item>
+    <item type="id" name="error_text">false</item>
+    <item type="id" name="video_player_fragment_container">false</item>
+    <item type="id" name="external_viewer_fragment_container">false</item>
+    <item type="id" name="burst_pager_container">false</item>
+    <item type="id" name="all_controls_container">false</item>
+    <item type="id" name="bottom_controls_container">false</item>
+    <item type="id" name="video_player_controller_fragment_container">false</item>
+    <item type="id" name="comment_fragment_container">false</item>
+    <item type="id" name="photos_photogrid_date_scrubber_view">false</item>
+    <item type="id" name="photo_pager_container">false</item>
+    <item type="id" name="simple_image_container">false</item>
+    <item type="id" name="photo_pager_content">false</item>
+    <item type="id" name="tiled_image">false</item>
+    <item type="id" name="photo_view_pager">false</item>
+    <item type="id" name="empty_text">false</item>
+    <item type="id" name="empty_progress">false</item>
+    <item type="id" name="photo_transition_container">false</item>
+    <item type="id" name="cast_video_controls_fragment_container">false</item>
+    <item type="id" name="photos_pager_top_gradient">false</item>
+    <item type="id" name="photo_bar_container">false</item>
+    <item type="id" name="photos_overflow_icon">false</item>
+    <item type="id" name="album_is_empty_state_item">false</item>
+    <item type="id" name="album_is_empty_state_title">false</item>
+    <item type="id" name="album_is_empty_state_add_photos_button">false</item>
+    <item type="id" name="album_is_empty_state_image">false</item>
+    <item type="id" name="photos_album_sorting_ui_action_sheet_content">false</item>
+    <item type="id" name="photos_album_sorting_ui_action_sheet_title">false</item>
+    <item type="id" name="oldest_first">false</item>
+    <item type="id" name="newest_first">false</item>
+    <item type="id" name="recently_added">false</item>
+    <item type="id" name="checkmark">false</item>
+    <item type="id" name="sorting_option_text">false</item>
+    <item type="id" name="join_button">false</item>
+    <item type="id" name="join_text">false</item>
+    <item type="id" name="plus_number">false</item>
+    <item type="id" name="photos_assistant_autobackup_title">false</item>
+    <item type="id" name="photos_assistant_autobackup_description">false</item>
+    <item type="id" name="photos_assistant_autobackup_status_icon">false</item>
+    <item type="id" name="photos_assistant_autobackup_current_image_view_switcher">false</item>
+    <item type="id" name="photos_assistant_autobackup_progress_bar">false</item>
+    <item type="id" name="photos_assistant_create_album">false</item>
+    <item type="id" name="photos_assistant_create_collage">false</item>
+    <item type="id" name="photos_assistant_create_animation">false</item>
+    <item type="id" name="photos_assistant_create_mm_button_container">false</item>
+    <item type="id" name="photos_assistant_create_movie">false</item>
+    <item type="id" name="photos_backup_settings_dialog_account_avatar">false</item>
+    <item type="id" name="photos_backup_settings_dialog_list_item_title_text">false</item>
+    <item type="id" name="photos_backup_settings_dialog_list_item_subtitle_text">false</item>
+    <item type="id" name="photos_backup_settings_account_avatar">false</item>
+    <item type="id" name="preference_view">false</item>
+    <item type="id" name="intent_button">false</item>
+    <item type="id" name="storage_promotion_container">false</item>
+    <item type="id" name="storage_promotion_text">false</item>
+    <item type="id" name="storage_promotion_help_link">false</item>
+    <item type="id" name="photos_badgeableicon_icon">false</item>
+    <item type="id" name="photos_badgeableicon_badge">false</item>
+    <item type="id" name="photos_burst_actionsheet_dialog_background">false</item>
+    <item type="id" name="photos_burst_actionsheet_dialog_content">false</item>
+    <item type="id" name="photos_burst_actionsheet_delete_title">false</item>
+    <item type="id" name="photos_burst_actionsheet_delete_all_row">false</item>
+    <item type="id" name="photos_burst_actionsheet_delete_all_icon">false</item>
+    <item type="id" name="photos_burst_actionsheet_delete_all_name">false</item>
+    <item type="id" name="photos_burst_actionsheet_current_only_row">false</item>
+    <item type="id" name="photos_burst_actionsheet_current_only_icon">false</item>
+    <item type="id" name="photos_burst_actionsheet_current_only_name">false</item>
+    <item type="id" name="photos_burst_actionsheet_set_main_photo_row">false</item>
+    <item type="id" name="photos_burst_actionsheet_set_main_photo_icon">false</item>
+    <item type="id" name="photos_burst_actionsheet_set_main_photo_name">false</item>
+    <item type="id" name="photos_burst_actionsheet_keep_only_row">false</item>
+    <item type="id" name="photos_burst_actionsheet_keep_only_icon">false</item>
+    <item type="id" name="photos_burst_actionsheet_keep_only_name">false</item>
+    <item type="id" name="photos_burst_actionsheet_create_animation_row">false</item>
+    <item type="id" name="photos_burst_actionsheet_create_animation_icon">false</item>
+    <item type="id" name="photos_burst_actionsheet_create_animation_name">false</item>
+    <item type="id" name="photos_burst_fragment_cover_photo_indicator">false</item>
+    <item type="id" name="photos_burst_fragment_thumbnail">false</item>
+    <item type="id" name="photos_burst_fragment_large_thumbnail_image1">false</item>
+    <item type="id" name="photos_burst_fragment_large_thumbnail_image2">false</item>
+    <item type="id" name="photos_burst_fragment_gradient">false</item>
+    <item type="id" name="photos_burst_fragment_pager_parent">false</item>
+    <item type="id" name="photos_burst_fragment_pager">false</item>
+    <item type="id" name="camera_shortcut_image">false</item>
+    <item type="id" name="carousel_items_container">false</item>
+    <item type="id" name="collection_cover_image">false</item>
+    <item type="id" name="collection_cover_gradient">false</item>
+    <item type="id" name="empty_title">false</item>
+    <item type="id" name="dropdown_text">false</item>
+    <item type="id" name="avatar_view">false</item>
+    <item type="id" name="timestamp">false</item>
+    <item type="id" name="comment_text">false</item>
+    <item type="id" name="comment_popup_locator">false</item>
+    <item type="id" name="album_subtitle_layout">false</item>
+    <item type="id" name="subtitle_divider">false</item>
+    <item type="id" name="album_shared_badge">false</item>
+    <item type="id" name="expand_icon">false</item>
+    <item type="id" name="account_switcher">false</item>
+    <item type="id" name="sign_in_button">false</item>
+    <item type="id" name="navigation_list">false</item>
+    <item type="id" name="photos_drawermenu_bandwidth_stats">false</item>
+    <item type="id" name="photos_drawermenu_bandwidth_stats_refresh_button">false</item>
+    <item type="id" name="photos_drawermenu_bandwidth_stats_description">false</item>
+    <item type="id" name="logo_lockup_container">false</item>
+    <item type="id" name="lockup_layout">false</item>
+    <item type="id" name="logo_lockup">false</item>
+    <item type="id" name="lockup_product_name_separator">false</item>
+    <item type="id" name="lockup_product_name">false</item>
+    <item type="id" name="count">false</item>
+    <item type="id" name="empty_sub_page">false</item>
+    <item type="id" name="empty_page_title_top">false</item>
+    <item type="id" name="empty_page_image">false</item>
+    <item type="id" name="empty_page_title_bottom">false</item>
+    <item type="id" name="empty_page_caption">false</item>
+    <item type="id" name="empty_page_button">false</item>
+    <item type="id" name="dismiss_button">false</item>
+    <item type="id" name="viewer_avatar">false</item>
+    <item type="id" name="inviter_avatar_background">false</item>
+    <item type="id" name="inviter_avatar">false</item>
+    <item type="id" name="share_text">false</item>
+    <item type="id" name="action_button">false</item>
+    <item type="id" name="email_text">false</item>
+    <item type="id" name="invite_method">false</item>
+    <item type="id" name="role">false</item>
+    <item type="id" name="overflow">false</item>
+    <item type="id" name="leave_album_button">false</item>
+    <item type="id" name="remove_invite_button">false</item>
+    <item type="id" name="photos_envelope_settings_share_bullet_1">false</item>
+    <item type="id" name="remove_comments_layout">false</item>
+    <item type="id" name="photos_envelope_settings_share_bullet_2">false</item>
+    <item type="id" name="photos_envelope_settings_share_bullet_3">false</item>
+    <item type="id" name="photos_envelope_suggest_picker_impl_clear_button_container">false</item>
+    <item type="id" name="photos_envelope_suggest_picker_impl_clear_button_shadow">false</item>
+    <item type="id" name="photos_envelope_suggest_picker_impl_clear_button">false</item>
+    <item type="id" name="proxy_container">false</item>
+    <item type="id" name="photos_explore_empty_footer">false</item>
+    <item type="id" name="photos_explore_empty_title">false</item>
+    <item type="id" name="photos_explore_empty_caption">false</item>
+    <item type="id" name="photos_explore_empty_settings_button">false</item>
+    <item type="id" name="explore_tile_image">false</item>
+    <item type="id" name="explore_tile_hidden">false</item>
+    <item type="id" name="explore_tile_hidden_checkbox">false</item>
+    <item type="id" name="explore_tile_icon">false</item>
+    <item type="id" name="explore_tile_text">false</item>
+    <item type="id" name="photos_gallery_fragment">false</item>
+    <item type="id" name="photos_gallery_background_illustration">false</item>
+    <item type="id" name="photos_gallery_title">false</item>
+    <item type="id" name="photos_gallery_add_photos_to_homescreen_checkbox">false</item>
+    <item type="id" name="photos_gallery_go_to_photos_button">false</item>
+    <item type="id" name="remove_button">false</item>
+    <item type="id" name="folder_name_layout">false</item>
+    <item type="id" name="folder_name">false</item>
+    <item type="id" name="photos_localmedia_ui_folderpicker_button">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="folder_path_diff">false</item>
+    <item type="id" name="more_image">false</item>
+    <item type="id" name="selected_count">false</item>
+    <item type="id" name="upload_quality_text">false</item>
+    <item type="id" name="upload_network_text">false</item>
+    <item type="id" name="change_settings">false</item>
+    <item type="id" name="free_storage_container">false</item>
+    <item type="id" name="auto_backup_switch">false</item>
+    <item type="id" name="photos_pager_toolbartag_tag_view">false</item>
+    <item type="id" name="photos_pending_save_button">false</item>
+    <item type="id" name="photos_permissions_required_setting_button">false</item>
+    <item type="id" name="photos_photofragment_components_edit_oem_dialog_background">false</item>
+    <item type="id" name="photos_photofragment_components_edit_oem_dialog_content">false</item>
+    <item type="id" name="photos_photofragment_components_edit_oem_dialog_oem_editor_row">false</item>
+    <item type="id" name="photos_photofragment_components_editor_oem_dialog_oem_editor_icon">false</item>
+    <item type="id" name="photos_photofragment_components_edit_oem_dialog_oem_editor_name">false</item>
+    <item type="id" name="photos_photofragment_components_edit_oem_dialog_photos_editor_row">false</item>
+    <item type="id" name="show_all_photos_button">false</item>
+    <item type="id" name="toolbar_shadow">false</item>
+    <item type="id" name="photos_playservices_dialog_text_content">false</item>
+    <item type="id" name="photos_playservices_dialog_never_show_again_checkbox">false</item>
+    <item type="id" name="autocomplete_container">false</item>
+    <item type="id" name="item_container">false</item>
+    <item type="id" name="search_box_text">false</item>
+    <item type="id" name="summary_container">false</item>
+    <item type="id" name="suggestion_section">false</item>
+    <item type="id" name="people_section">false</item>
+    <item type="id" name="type_section">false</item>
+    <item type="id" name="place_section">false</item>
+    <item type="id" name="section_container">false</item>
+    <item type="id" name="always_show_group">false</item>
+    <item type="id" name="expand_group">false</item>
+    <item type="id" name="expand_button">false</item>
+    <item type="id" name="people_section_container">false</item>
+    <item type="id" name="avatar_section">false</item>
+    <item type="id" name="show_more">false</item>
+    <item type="id" name="root_view">false</item>
+    <item type="id" name="share_expander">false</item>
+    <item type="id" name="people_view_container">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="application_grid">false</item>
+    <item type="id" name="shared_album_thumbnail">false</item>
+    <item type="id" name="new_shared_album_title">false</item>
+    <item type="id" name="new_shared_album_owner">false</item>
+    <item type="id" name="collaboration_switch">false</item>
+    <item type="id" name="collaboration_switch_label">false</item>
+    <item type="id" name="create_link_progress_text">false</item>
+    <item type="id" name="create_link_progress_bar">false</item>
+    <item type="id" name="create_complete_message">false</item>
+    <item type="id" name="shared_links_fragment">false</item>
+    <item type="id" name="date">false</item>
+    <item type="id" name="share_container">false</item>
+    <item type="id" name="fab">false</item>
+    <item type="id" name="promo_background">false</item>
+    <item type="id" name="account_icon">false</item>
+    <item type="id" name="promo_title">false</item>
+    <item type="id" name="promo_content">false</item>
+    <item type="id" name="promo_signin_button">false</item>
+    <item type="id" name="promo_close_button">false</item>
+    <item type="id" name="account_email">false</item>
+    <item type="id" name="media_preview">false</item>
+    <item type="id" name="media_num_items">false</item>
+    <item type="id" name="media_size">false</item>
+    <item type="id" name="account_spinner">false</item>
+    <item type="id" name="bottom_buttons">false</item>
+    <item type="id" name="upload_button">false</item>
+    <item type="id" name="photos_videoplayer_view_video_view_holder">false</item>
+    <item type="id" name="photos_videoplayer_view_video_surface_view">false</item>
+    <item type="id" name="place_autocomplete_search_button">false</item>
+    <item type="id" name="place_autocomplete_search_input">false</item>
+    <item type="id" name="place_autocomplete_clear_button">false</item>
+    <item type="id" name="place_autocomplete_separator">false</item>
+    <item type="id" name="place_autocomplete_powered_by_google">false</item>
+    <item type="id" name="place_autocomplete_progress">false</item>
+    <item type="id" name="place_autocomplete_prediction_primary_text">false</item>
+    <item type="id" name="place_autocomplete_prediction_secondary_text">false</item>
+    <item type="id" name="place_loading_progress_bar">false</item>
+    <item type="id" name="widget_frame">false</item>
+    <item type="id" name="edittext_container">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="switchWidget">false</item>
+    <item type="id" name="main_layout">false</item>
+    <item type="id" name="clickable_intent_link">false</item>
+    <item type="id" name="learn_more_link">false</item>
+    <item type="id" name="explore_empty_state_layout">false</item>
+    <item type="id" name="explore_empty_state_caption">false</item>
+    <item type="id" name="enable_sync_button">false</item>
+    <item type="id" name="check_later_sub_caption">false</item>
+    <item type="id" name="reset_button">false</item>
+    <item type="id" name="scrim_view">false</item>
+    <item type="id" name="hanging_view_container">false</item>
+    <item type="id" name="search_background">false</item>
+    <item type="id" name="search_page">false</item>
+    <item type="id" name="search_box">false</item>
+    <item type="id" name="voice_search">false</item>
+    <item type="id" name="search_items">false</item>
+    <item type="id" name="positive_button">false</item>
+    <item type="id" name="negative_button">false</item>
+    <item type="id" name="share_story_button">false</item>
+    <item type="id" name="share_story_image">false</item>
+    <item type="id" name="share_story_text">false</item>
+    <item type="id" name="shared_collection_not_found_layout">false</item>
+    <item type="id" name="shared_collection_not_found_title">false</item>
+    <item type="id" name="shared_collection_not_found_image">false</item>
+    <item type="id" name="shared_collection_not_found_caption">false</item>
+    <item type="id" name="shared_collection_offline_layout">false</item>
+    <item type="id" name="photos_emptystate_offline_refresh_button">false</item>
+    <item type="id" name="sign_in_fragment_container">false</item>
+    <item type="id" name="dont_sign_in_button">false</item>
+    <item type="id" name="onboarding_sign_in_processing">false</item>
+    <item type="id" name="bitmap_view">false</item>
+    <item type="id" name="data_stats_fragment">false</item>
+    <item type="id" name="stats_list_view">false</item>
+    <item type="id" name="stats_text">false</item>
+    <item type="id" name="counts_progress_spinner">false</item>
+    <item type="id" name="story_activity_fragment_container">false</item>
+    <item type="id" name="story_edit_location_outside_target">false</item>
+    <item type="id" name="story_edit_location_view">false</item>
+    <item type="id" name="edit_location_list_view">false</item>
+    <item type="id" name="edit_location_bottom_bar">false</item>
+    <item type="id" name="edit_location_item_place_image">false</item>
+    <item type="id" name="edit_location_item_tag">false</item>
+    <item type="id" name="edit_location_item_address">false</item>
+    <item type="id" name="edit_text">false</item>
+    <item type="id" name="story_picker_fragment_container">false</item>
+    <item type="id" name="element_picker_place_icon_name">false</item>
+    <item type="id" name="element_picker_place_image">false</item>
+    <item type="id" name="element_picker_place_name">false</item>
+    <item type="id" name="story_element_image">false</item>
+    <item type="id" name="whitebox_source_view_mask">false</item>
+    <item type="id" name="whitebox_background">false</item>
+    <item type="id" name="whitebox_image">false</item>
+    <item type="id" name="whitebox_play_button">false</item>
+    <item type="id" name="whitebox_photosphere_button">false</item>
+    <item type="id" name="whitebox_narrative">false</item>
+    <item type="id" name="whitebox_controls">false</item>
+    <item type="id" name="whitebox_overflow">false</item>
+    <item type="id" name="whitebox_overflow_backing">false</item>
+    <item type="id" name="whitebox_overflow_popup">false</item>
+    <item type="id" name="whitebox_remove">false</item>
+    <item type="id" name="whitebox_set_cover_photo">false</item>
+    <item type="id" name="suggested_rotations_fragment">false</item>
+    <item type="id" name="conceal_view">false</item>
+    <item type="id" name="suggested_sharing_toolbar_spacer">false</item>
+    <item type="id" name="suggested_sharing_menu_item_pointer">false</item>
+    <item type="id" name="suggested_sharing_main_view">false</item>
+    <item type="id" name="suggested_sharing_card_title_text">false</item>
+    <item type="id" name="suggested_sharing_card_dismiss_button">false</item>
+    <item type="id" name="suggested_sharing_card_photo_1">false</item>
+    <item type="id" name="suggested_sharing_card_photo_2">false</item>
+    <item type="id" name="suggested_sharing_card_photo_3">false</item>
+    <item type="id" name="suggested_sharing_card_photo_4">false</item>
+    <item type="id" name="suggested_sharing_card_photo_5">false</item>
+    <item type="id" name="suggested_sharing_last_photo_overlay">false</item>
+    <item type="id" name="suggested_sharing_last_photo_overlay_text">false</item>
+    <item type="id" name="suggested_sharing_card_shadow">false</item>
+    <item type="id" name="tab_layout">false</item>
+    <item type="id" name="tab_assistant">false</item>
+    <item type="id" name="tab_photos">false</item>
+    <item type="id" name="tab_albums">false</item>
+    <item type="id" name="black_fill_under_navigation_bar">false</item>
+    <item type="id" name="time_machine_fragment">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="controls">false</item>
+    <item type="id" name="page_dots">false</item>
+    <item type="id" name="photos_videoplayer_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_center_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_play_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_play_button">false</item>
+    <item type="id" name="photos_videoplayer_pause_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_pause_button">false</item>
+    <item type="id" name="photos_videoplayer_accessible_fast_rewind_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_accessible_fast_rewind_button">false</item>
+    <item type="id" name="photos_videoplayer_accessible_fast_forward_button_holder">false</item>
+    <item type="id" name="photos_videoplayer_accessible_fast_forward_button">false</item>
+    <item type="id" name="photos_videoplayer_video_control_bars">false</item>
+    <item type="id" name="photos_videoplayer_video_slomo_control_gradient">false</item>
+    <item type="id" name="video_progress_group">false</item>
+    <item type="id" name="video_current_time">false</item>
+    <item type="id" name="slomo_range_bar">false</item>
+    <item type="id" name="video_player_progress">false</item>
+    <item type="id" name="video_total_time">false</item>
+    <item type="id" name="photos_videoplayer_videolayout">false</item>
+    <item type="id" name="photos_videoplayer_video_still">false</item>
+    <item type="id" name="photos_videoplayer_list_empty_text">false</item>
+    <item type="id" name="photos_videoplayer_videoplayer_processing">false</item>
+    <item type="id" name="photos_videoplayer_loading_spinner">false</item>
+    <item type="id" name="video_surface">false</item>
+    <item type="id" name="preview_image">false</item>
+    <item type="id" name="preview_image_error">false</item>
+    <item type="id" name="preview_image_error_image">false</item>
+    <item type="id" name="year_header">false</item>
+    <item type="id" name="year_title">false</item>
+    <item type="id" name="cpe_background">false</item>
+    <item type="id" name="cpe_secondary_progress">false</item>
+    <item type="id" name="cpe_progress">false</item>
+    <item type="id" name="drop_cursor_shape">false</item>
+    <item type="id" name="launchscreens_product_logo">false</item>
+    <item type="id" name="launchscreens_logo_text">false</item>
+    <item type="id" name="menu_progress">false</item>
+    <item type="id" name="menu_save">false</item>
+    <item type="id" name="menu_is_shared">false</item>
+    <item type="id" name="menu_edit">false</item>
+    <item type="id" name="menu_share">false</item>
+    <item type="id" name="menu_remove">false</item>
+    <item type="id" name="menu_delete_link">false</item>
+    <item type="id" name="menu_report">false</item>
+    <item type="id" name="photos_album_albumeditmode_choose_photos_menu_item">false</item>
+    <item type="id" name="add_text_to_album">false</item>
+    <item type="id" name="add_places_to_album">false</item>
+    <item type="id" name="sorting_mode">false</item>
+    <item type="id" name="share_album_button">false</item>
+    <item type="id" name="album_shared_badge_menu_item">false</item>
+    <item type="id" name="action_bar_cast">false</item>
+    <item type="id" name="save_album_to_library">false</item>
+    <item type="id" name="save_items_to_library">false</item>
+    <item type="id" name="share_button">false</item>
+    <item type="id" name="photos_album_ui_choose_photos_menu_item">false</item>
+    <item type="id" name="add_recipients">false</item>
+    <item type="id" name="select">false</item>
+    <item type="id" name="enter_album_edit_mode_menu_item">false</item>
+    <item type="id" name="photos_album_ui_recently_added_view_menu_item">false</item>
+    <item type="id" name="photos_album_ui_sharing_options_menu_item">false</item>
+    <item type="id" name="add_title">false</item>
+    <item type="id" name="pin_album">false</item>
+    <item type="id" name="delete_album">false</item>
+    <item type="id" name="leave_album">false</item>
+    <item type="id" name="debug_info">false</item>
+    <item type="id" name="report_abuse">false</item>
+    <item type="id" name="feedback">false</item>
+    <item type="id" name="menu_hide_moment">false</item>
+    <item type="id" name="create_button">false</item>
+    <item type="id" name="move_to_trash">false</item>
+    <item type="id" name="restore_photo">false</item>
+    <item type="id" name="delete_local_copy">false</item>
+    <item type="id" name="delete_signed_out_local_copy">false</item>
+    <item type="id" name="delete_from_trash_photo">false</item>
+    <item type="id" name="remove_photo">false</item>
+    <item type="id" name="remove_from_search_results">false</item>
+    <item type="id" name="photos_selection_cabmode_menu_back_up">false</item>
+    <item type="id" name="photos_selection_cabmode_menu_move_to_folder">false</item>
+    <item type="id" name="photos_selection_cabmode_menu_copy_to_folder">false</item>
+    <item type="id" name="cpe_help_and_feedback">false</item>
+    <item type="id" name="menu_done">false</item>
+    <item type="id" name="enrichment_editing_activity_done">false</item>
+    <item type="id" name="action_bar_create">false</item>
+    <item type="id" name="action_bar_search">false</item>
+    <item type="id" name="action_bar_select">false</item>
+    <item type="id" name="action_bar_layout_submenu">false</item>
+    <item type="id" name="action_bar_cozy">false</item>
+    <item type="id" name="action_bar_day">false</item>
+    <item type="id" name="action_bar_month">false</item>
+    <item type="id" name="action_bar_year">false</item>
+    <item type="id" name="action_bar_create_group">false</item>
+    <item type="id" name="action_bar_create_album">false</item>
+    <item type="id" name="action_bar_create_shared_album">false</item>
+    <item type="id" name="action_bar_create_movie">false</item>
+    <item type="id" name="action_bar_create_animation">false</item>
+    <item type="id" name="action_bar_create_collage">false</item>
+    <item type="id" name="action_bar_refresh">false</item>
+    <item type="id" name="action_bar_feedback">false</item>
+    <item type="id" name="inferred_location_additional_info">false</item>
+    <item type="id" name="inferred_location_remove">false</item>
+    <item type="id" name="ingest_switch_view">false</item>
+    <item type="id" name="ingest_import_items">false</item>
+    <item type="id" name="action_bar_rename">false</item>
+    <item type="id" name="action_bar_delete">false</item>
+    <item type="id" name="action_bar_help">false</item>
+    <item type="id" name="mm_menu_save_to_collection">false</item>
+    <item type="id" name="mm_menu_save">false</item>
+    <item type="id" name="mm_menu_share">false</item>
+    <item type="id" name="mm_menu_export">false</item>
+    <item type="id" name="mm_menu_delete">false</item>
+    <item type="id" name="action_bar_overflow">false</item>
+    <item type="id" name="save_as_album">false</item>
+    <item type="id" name="saved_as_album">false</item>
+    <item type="id" name="move_photos_to_trash">false</item>
+    <item type="id" name="edit_photo">false</item>
+    <item type="id" name="show_photo_details">false</item>
+    <item type="id" name="copy_text">false</item>
+    <item type="id" name="delete_comment">false</item>
+    <item type="id" name="hide_name">false</item>
+    <item type="id" name="block_person">false</item>
+    <item type="id" name="pager_menu_cast">false</item>
+    <item type="id" name="pager_menu_all_photos">false</item>
+    <item type="id" name="pager_menu_slideshow">false</item>
+    <item type="id" name="pager_menu_loop_video">false</item>
+    <item type="id" name="photos_pager_menu_move_to_folder">false</item>
+    <item type="id" name="photos_pager_menu_copy_to_folder">false</item>
+    <item type="id" name="pager_menu_download">false</item>
+    <item type="id" name="pager_menu_add_to_album">false</item>
+    <item type="id" name="pager_menu_use_as_album_cover">false</item>
+    <item type="id" name="pager_menu_set_as">false</item>
+    <item type="id" name="pager_menu_print">false</item>
+    <item type="id" name="pager_menu_edit_in">false</item>
+    <item type="id" name="pager_menu_view_in">false</item>
+    <item type="id" name="pager_menu_delete_from_device">false</item>
+    <item type="id" name="photos_pager_menu_back_up">false</item>
+    <item type="id" name="pager_menu_remove_from_album">false</item>
+    <item type="id" name="pager_menu_restore_from_trash">false</item>
+    <item type="id" name="pager_menu_delete_from_trash">false</item>
+    <item type="id" name="pager_menu_detail">false</item>
+    <item type="id" name="pager_menu_report_abuse">false</item>
+    <item type="id" name="pager_menu_debug_media">false</item>
+    <item type="id" name="photos_pager_menu_envelope_save">false</item>
+    <item type="id" name="copy_link">false</item>
+    <item type="id" name="delete_link">false</item>
+    <item type="id" name="picker_external_switch_accounts">false</item>
+    <item type="id" name="search_action_bar_select">false</item>
+    <item type="id" name="search_action_bar_remove_result">false</item>
+    <item type="id" name="search_action_bar_rename_cluster">false</item>
+    <item type="id" name="search_action_bar_remove_cluster">false</item>
+    <item type="id" name="search_action_bar_hide">false</item>
+    <item type="id" name="search_action_bar_feedback">false</item>
+    <item type="id" name="save_all">false</item>
+    <item type="id" name="empty_trash">false</item>
+</resources>

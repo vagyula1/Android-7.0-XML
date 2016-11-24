@@ -60,6 +60,18 @@
         <item>ບັບ​ເຟີ 4M ​ຕໍ່​ບັນທຶກ</item>
         <item>ບັບ​ເຟີ 16M ​ຕໍ່​ບັນທຶກ</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ປິດ</item>
+        <item>ທັງໝົດ</item>
+        <item>ທັງໝົດຍົກເວັ້ນວິທະຍຸ</item>
+        <item>ເຄີນເນວເທົ່ານັ້ນ</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ປິດ</item>
+        <item>ບັບເຟີບັນທຶກທັງໝົດ</item>
+        <item>ທັງໝົດຍົກເວັ້ນບັບເຟີບັນທຶກວິທະຍຸ</item>
+        <item>ບັບເຟີບັນທຶກເຄີນເນວເທົ່ານັ້ນ</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ປິດອະນິເມຊັນ</item>
         <item>ຂະໜາດອະນິເມຊັນ .5x</item>
@@ -158,6 +170,11 @@
         <item>ສີ​ທີ່​ປັບ​ປຸງ​ແລ້ວ</item>
         <item>ສີ​ທຳ​ມະ​ຊາດ​ຕາມ​ທີ່​ເຫັນ​ດ້ວຍ​ຕາ</item>
         <item>ສີ​ທີ່​ປັບ​ໃຫ້​ເໝາະ​ສົມ​ສຳ​ລັບ​ເນື້ອ​ໃນ​ດິ​ຈີ​ຕອ​ລ</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>ທົ່ວໂລກ</item>

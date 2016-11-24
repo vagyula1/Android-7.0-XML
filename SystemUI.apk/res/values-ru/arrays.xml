@@ -60,6 +60,18 @@
         <item>Буфер: макс. 4 МБ</item>
         <item>Буфер: макс. 16 МБ</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Отключено</item>
+        <item>Все</item>
+        <item>Все, кроме системных</item>
+        <item>только ядро</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Отключено</item>
+        <item>Все буферы журналов</item>
+        <item>Все, кроме буферов системного журнала</item>
+        <item>только буфер журнала ядра</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
         <item>Анимация 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Натуральные цвета, привычные глазу</item>
         <item>Цвета, оптимизированные для цифрового контента</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Вызов</item>
+        <item>Система</item>
+        <item>Рингтон</item>
+        <item>Мультимедиа</item>
+        <item>Будильник</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Часы, минуты и секунды</item>
         <item>Часы и минуты (по умолчанию)</item>
@@ -169,4 +199,5 @@
         <item>Показывать процент во время зарядки (по умолчанию)</item>
         <item>Не показывать этот значок</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

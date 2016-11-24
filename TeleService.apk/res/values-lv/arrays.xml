@@ -60,6 +60,18 @@
         <item>4 MB vienam žurnāla buferim</item>
         <item>16 MB vienam žurnāla buferim</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Izslēgts</item>
+        <item>Visi</item>
+        <item>Visi, izņemot radio</item>
+        <item>tikai kodolā</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Izslēgts</item>
+        <item>Visi reģistra buferi</item>
+        <item>Visi, izņemot radio reģistra buferus</item>
+        <item>tikai kodola žurnāla buferī</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animācija ir izslēgta</item>
         <item>Animācijas mērogs: 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Uzlabotas krāsas</item>
         <item>Dabiskas krāsas</item>
         <item>Digitālajam saturam optimizētas krāsas</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globāls</item>

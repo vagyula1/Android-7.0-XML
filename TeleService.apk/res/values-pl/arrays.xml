@@ -60,6 +60,18 @@
         <item>4 MB/bufor dziennika</item>
         <item>16 MB/bufor dziennika</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Wyłączone</item>
+        <item>Wszystkie</item>
+        <item>Bez radiowych</item>
+        <item>tylko jądro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Wyłączone</item>
+        <item>Wszystkie bufory dziennika</item>
+        <item>Wszystkie oprócz buforów dzienników radiowych</item>
+        <item>tylko bufor dziennika jądra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacja wyłączona</item>
         <item>Skala animacji 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Bogatsze kolory</item>
         <item>Naturalne kolory widziane przez ludzkie oko</item>
         <item>Kolory dostosowane do wyświetlania treści cyfrowych</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globalna</item>

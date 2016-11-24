@@ -60,6 +60,18 @@
         <item>4 Mo/tampon journal</item>
         <item>16 Mo/tampon journal</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Désactivé</item>
+        <item>Tous</item>
+        <item>Tous sauf radio</item>
+        <item>noyau uniquement</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Désactivé</item>
+        <item>Tous les tampons de journal</item>
+        <item>Tous les tampons de journal sauf celui de la radio</item>
+        <item>tampon journal du noyau uniquement</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation désactivée</item>
         <item>"Échelle d'animation 0,5x"</item>
@@ -159,6 +171,11 @@
         <item>"Couleurs naturelles, comme l'œil les voit"</item>
         <item>Couleurs optimisées pour le contenu numérique</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>International</item>
         <item>LTE/CDMA</item>
@@ -220,10 +237,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>Mode TTY désactivé</item>
+        <item>TTY désactivé</item>
         <item>TTY complet</item>
         <item>TTY HCO</item>
-        <item>Mode TTY VCO</item>
+        <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Normale</item>

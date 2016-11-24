@@ -1,36 +1,53 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">ภายหลัง</string>
-  <string name="alert_dialog_negative_button">ยกเลิก</string>
-  <string name="alert_dialog_no_button">ไม่</string>
-  <string name="alert_dialog_positive_button">ตกลง</string>
-  <string name="alert_dialog_upgrade_button">อัปเกรด</string>
-  <string name="alert_dialog_yes_button">ใช่</string>
-  <string name="app_name">การให้สิทธิ</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">ในการเปิดใช้งาน ให้ไปที่ att.com/mywireless หรือโทร 611</string>
-  <string name="att_error_msg_other">เกิดปัญหาเครือข่ายชั่วคราวซึ่งทำให้เปิดใช้งานฟังก์ชันฮอตสปอตเคลื่อนที่ไม่ได้ โปรดลองอีกครั้งในภายหลัง</string>
-  <string name="att_error_msg_other_title">ข้อผิดพลาดของเครือข่าย</string>
-  <string name="att_error_msg_title">ไม่ได้ตั้งค่าบัญชีสำหรับการปล่อยสัญญาณ</string>
-  <string name="browser_error_msg">เปิดเบราว์เซอร์ไม่ได้</string>
-  <string name="feature_check_msg">กำลังตรวจสอบสถานะการสมัครรับข้อมูล โปรดรอ...</string>
-  <string name="mobile_hotspot">ฮอตสปอตเคลื่อนที่</string>
-  <string name="network_connection_error_msg">โทรศัพท์ของคุณไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ %s ได้ในขณะนี้ โปรดลองอีกครั้งในภายหลัง</string>
-  <string name="network_connection_title">ข้อผิดพลาดการเชื่อมต่อเครือข่าย</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#3648;&amp;#3619;&amp;#3637;&amp;#3618;&amp;#3609;&amp;#3619;&amp;#3641;&amp;#3657;&amp;#3648;&amp;#3614;&amp;#3636;&amp;#3656;&amp;#3617;&amp;#3648;&amp;#3605;&amp;#3636;&amp;#3617;&amp;#3649;&amp;#3621;&amp;#3632;&amp;#3626;&amp;#3617;&amp;#3633;&amp;#3588;&amp;#3619;&amp;#3630;&amp;#3629;&amp;#3605;&amp;#3626;&amp;#3611;&amp;#3629;&amp;#3605;&amp;#3648;&amp;#3588;&amp;#3621;&amp;#3639;&amp;#3656;&amp;#3629;&amp;#3609;&amp;#3607;&amp;#3637;&amp;#3656;&amp;#3650;&amp;#3604;&amp;#3618;&amp;#3652;&amp;#3611;&amp;#3607;&amp;#3637;&amp;#3656; My Verizon&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">ในการใช้ฮอตสปอตเคลื่อนที่ คุณจะต้องสมัครบริการฮอตสปอตเคลื่อนที่</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูลได้ คุณไม่ได้สมัครรับข้อมูลบริการการปล่อยสัญญาณหรือฮอตสปอต โปรดติดต่อบริษัทโทรศัพท์ของคุณ</string>
-  <string name="sprint_error_msg_3g">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูลได้ กำลังปิดการปล่อยสัญญาณหรือฮอตสปอต แผนของคุณอาจไม่มีบริการการปล่อยสัญญาณและฮอตสปอต คุณต้องการดูตัวเลือกการสมัครรับข้อมูลหรือไม่?</string>
-  <string name="sprint_error_msg_lte">คุณไม่ได้สมัครรับข้อมูลบริการการปล่อยสัญญาณและฮอตสปอต คุณต้องการดูตัวเลือกการสมัครรับข้อมูลหรือไม่?</string>
-  <string name="sprint_error_msg_title">ข้อผิดพลาดการปล่อยสัญญาณหรือฮอตสปอต</string>
-  <string name="sprint_notification_msg">แตะเพื่อดูรายละเอียดเพิ่มเติม</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">แผนอัตราปัจจุบันของคุณไม่รวมบริการฮอตสปอตเคลื่อนที่สมาร์ทโฟน ซึ่งเปิดใช้งานการแบ่งปันการเชื่อมต่อข้อมูลของโทรศัพท์ของคุณกับอุปกรณ์อื่น คุณต้องการเพิ่มบริการฮอตสปอตเคลื่อนที่สมาร์ทโฟนในแผนอัตราของคุณ? คุณยังสามารถเพิ่มแบบออนไลน์ได้ที่ https://my.t-mobile.com ภายใต้ จัดการ &gt; แผนและบริการ</string>
-  <string name="tmo_error_msg_title">ต้องอัปเกรดบริการ</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"หากคุณต้องการสมัครรับข้อมูลฮอตสปอตเคลื่อนที่/Mobile Broadband Connect โทร: 
- ผู้บริโภค: (800) 256-4646, 
- ธุรกิจ: (800) 899-4249"</string>
-  <string name="vzw_error_msg_title">ไม่สามารถประมวลผลการสั่งของคุณได้</string>
+    <string name="feature_check_msg">กำลังตรวจสอบสถานะสมาชิก โปรดรอสักครู่...</string>
+    <string name="vzw_self_provisioning_msg">"ถ้าต้องการใช้ Mobile Hotspot คุณจำเป็นต้องสมัครบริการ Mobile Hotspot
+เรียนรู้เพิ่มเติมหรือสมัคร Mobile Hotspot โดยเข้าไปที่ My Verizon"</string>
+    <string name="vzw_self_provisioning_cancel">ยกเลิก</string>
+    <string name="vzw_self_provisioning_learn_more">ดูข้อมูลเพิ่มเติม</string>
+    <string name="vzw_error_msg_title">ไม่สามารถประมวลผลคำสั่งซื้อของคุณ</string>
+    <string name="vzw_error_msg">"ถ้าคุณต้องการสมัคร Mobile Hotspot/Mobile Broadband Connect โทร:
+ สายผู้บริโภค: (800) 256-4646,
+ สายธุรกิจ: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">จำเป็นต้องอัพเกรดบริการ</string>
+    <string name="tmo_error_msg">แพกเก็จอัตราค่าบริการปัจจุบันของคุณไม่ได้รวมบริการ Smartphone Mobile Hotspot ที่ช่วยให้สามารถแบ่งปันการเชื่อมต่อดาต้าของโทรศัพท์กับอุปกรณ์อื่นๆได้ คุณต้องการเพิ่มบริการ Smartphone Mobile Hotspot ลงไปในแพกเก็จอัตราค่าบริการของคุณหรือไม่ คุณสามารถเพิ่มบริการนี้ผ่านระบบออนไลน์ได้ที่ https://my.t-mobile.com ภายใต้จัดการ > แพกเก็จและบริการ &lt;</string>
+    <string name="retv_terms_conditions_msg">กำลังตรวจสอบสถานะสมาชิก โปรดรอสักครู่...</string>
+    <string name="change_data_request_msg">กำลังส่งคำขอเพื่อจัดสรร โปรดรอ...</string>
+    <string name="alert_dialog_failure_title">ไม่สามารถประมวลผลคำสั่งซื้อของคุณ</string>
+    <string name="alert_dialog_failure_msg">โปรดลองใหม่ภายหลัง</string>
+    <string name="network_connection_title">การเชื่อมต่อเครือข่ายทั้งหมด</string>
+    <string name="network_connection_error_msg">ตอนนี้โทรศัพท์ของคุณไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์ของ %sได้ โปรดรอสักครู่แล้วลองใหม่</string>
+    <string name="alert_dialog_positive_button">ตกลง</string>
+    <string name="alert_dialog_upgrade_button">อัปเกรด</string>
+    <string name="alert_dialog_later_button">ภายหลัง</string>
+    <string name="current_subscription">(สมาชิกปัจจุบัน)</string>
+    <string name="unavailable_subscription">(ไม่สามารถใช้งานได้ขึ้นอยู่กับระดับระบบจัดเก็บข้อมูล)</string>
+    <string name="request_pending_title">ระงับการจัดสรร</string>
+    <string name="request_pending_error_msg">เซิร์ฟเวอร์ของ Verizon กำลังประมวลผลคำขอของคุณอยู่ โปรดลองอีกครั้งใน 5 นาที</string>
+    <string name="browser_error_msg">ไม่สามารถเปิดบราวเซอร์</string>
+    <string name="att_error_msg">ถ้าต้องการเปิดใช้ ไปที่ att.com/mywireless หรือโทร 611</string>
+    <string name="att_error_msg_title">ไม่ได้ตั้งค่าบัญชีเพื่อเชื่อมโยง</string>
+    <string name="att_error_msg_other">ปัญหาชั่วคราวของเครือข่ายที่ทำให้ใช้ฟังก์ชัน Mobile Hotspot ไม่ได้ โปรดลองใหม่ภายหลั</string>
+    <string name="att_error_msg_other_title">เครือข่ายขัดข้อง</string>
+    <string name="sprint_error_msg">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูลได้ คุณอาจไม่สามารถสมัครบริการเชื่อมโยงหรือ Hotspot ได้ โปรดติดต่อบริษัทโทรศัพท์ของคุณ</string>
+    <string name="sprint_error_msg_title">การเชื่อมโยงหรือ Hotspot ผิดพลาด</string>
+    <string name="sprint_notification_msg">แตะเพื่อดูรายละเอียดเพิ่มเติม</string>
+    <string name="term_and_conditions_title">ข้อกำหนดและเงื่อนไข</string>
+    <string name="sbm_content_activity_title">เงื่อนไขของข้อตกลง</string>
+    <string name="consent_title">เงื่อนไขของข้อตกลง</string>
+    <string name="consent_message">"การที่จะใช้แอปพลิเคชั่นนี้ได้ คุณต้องยอมรับและส่งข้อมูลต่อไปนี้ ในคอนเทนท์ที่กาเลือก โปรดดำเนินการต่อ
+
+[ส่งข้อมูล]
+ID เฉพาะผู้รับเหมา
+[ใช้แอปพลิเคชั่น]
+สั่งซื้อเพื่อใช้แอปพลิเคชั่นเชื่อมโยง"</string>
+    <string name="consent_terms_btn">ระยะเวลาบริการ</string>
+    <string name="concent_disagree_btn">ไม่เห็นด้วย</string>
+    <string name="concent_agree_btn">ยอมรับ</string>
+    <string name="sbm_error_msg_title">การเชื่อมโยงหรือ Hotspot ผิดพลาด</string>
+    <string name="sbm_error_msg">ไม่สามารถเชื่อมต่อกับเครือข่ายข้อมูล</string>
+    <string name="sbm_error_msg_not_subscribed">ไม่สมารถยืนยันสมาชิกภาพของคุณกับตัวเลือกการเชื่อมโยง</string>
+    <string name="sbm_error_msg_not_authenticated">"ตรวจสอบสิทธิ์ไม่ได้.
+(รหัสผิดพลาด %1$s)"</string>
+    <string name="sbm_error_msg_no_response">ตรวจสอบสิทธิ์ไม่ได้. โปรดลองใหม่อีกครั้งในตำแหน่งที่มีสัญญาณดี</string>
 </resources>

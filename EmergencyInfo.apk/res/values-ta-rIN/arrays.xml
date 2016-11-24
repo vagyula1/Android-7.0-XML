@@ -60,6 +60,18 @@
         <item>4M / லாக் பஃபர்</item>
         <item>16M / லாக் பஃபர்</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>முடக்கத்தில்</item>
+        <item>எல்லாம்</item>
+        <item>எல்லாம் (ரேடியோ தவிர்த்து)</item>
+        <item>கெர்னல் மட்டும்</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>முடக்கத்தில்</item>
+        <item>தற்காலிகமாகச் சேமித்த எல்லா பதிவுகளும்</item>
+        <item>எல்லாம் (தற்காலிகமாகச் சேமித்த ரேடியோ பதிவுகள் தவிர்த்து)</item>
+        <item>கெர்னல் லாக் பஃபர் மட்டும்</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>அனிமேஷனை முடக்கு</item>
         <item>அனிமேஷன் அளவு .5x</item>
@@ -158,5 +170,10 @@
         <item>மேம்படுத்தப்பட்ட வண்ணங்கள்</item>
         <item>கண்களால் பார்ப்பதைப் போலவே இயற்கையான வண்ணங்கள்</item>
         <item>டிஜிட்டல் உள்ளடக்கத்திற்கு ஏற்ப மேம்படுத்தப்பட்ட வண்ணங்கள்</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

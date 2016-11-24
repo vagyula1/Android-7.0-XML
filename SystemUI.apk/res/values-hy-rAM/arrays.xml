@@ -60,6 +60,18 @@
         <item>Պահնակ՝ առավ. 4ՄԲ</item>
         <item>Պահնակ՝ առավ. 16ՄԲ</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Անջատված է</item>
+        <item>Բոլորը</item>
+        <item>Բոլորը, ռադիոյից բացի</item>
+        <item>միայն միջուկը</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Անջատված է</item>
+        <item>Մատյանի բոլոր բուֆերները</item>
+        <item>Մատյանի բոլոր բուֆերները, ռադիո բուֆերներից բացի</item>
+        <item>միայն միջուկի մատյանի պահնակը</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Անջատել շարժապատկերը</item>
         <item>Շարժապատկերի սանդղակը` .5x</item>
@@ -105,7 +117,7 @@
         <item>Ոչ մեկը</item>
         <item>Logcat</item>
         <item>Համակարգային հետագիծ (գծապատկերներ)</item>
-        <item>Կանչել glGetError-ի կույտը</item>
+        <item>glGetError կանչերի ցուցակ</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Անջատված</item>
@@ -159,6 +171,24 @@
         <item>Բնական գույներ</item>
         <item>Թվային բովանդակության համար հարմարեցված գույներ</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Զանգել</item>
+        <item>Համակարգ</item>
+        <item>Զանգ</item>
+        <item>Մեդիա</item>
+        <item>Զարթուցիչ</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Ցույց տալ ժամերը, րոպեները և վայրկյանները</item>
         <item>Ցույց տալ ժամերը և րոպեները (կանխադրված է)</item>
@@ -169,4 +199,5 @@
         <item>Ցույց տալ տոկոսը լիցքավորելու ժամանակ (կանխադրված է)</item>
         <item>Ցույց չտալ այս պատկերակը</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

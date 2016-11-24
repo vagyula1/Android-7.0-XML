@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">et %d autres personnes</item>
+        <item quantity="one">et %d autre personne</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">Si vous placez ces éléments dans la corbeille, ils seront également supprimés de</item>
+        <item quantity="one">Si vous placez cet élément dans la corbeille, il sera également supprimé de</item>
+    </plurals>
+    <plurals name="delete_on_device_title">
+        <item quantity="other">"Supprimer les copies stockées sur l'appareil ?"</item>
+        <item quantity="one">"Supprimer la copie stockée sur l'appareil ?"</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="zero">0 minute</item>
+        <item quantity="one">1 minute</item>
+        <item quantity="two">2 minutes</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="many">%1$d minutes</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d secondes</item>
+        <item quantity="zero">0 seconde</item>
+        <item quantity="one">1 seconde</item>
+        <item quantity="two">2 secondes</item>
+        <item quantity="few">%1$d secondes</item>
+        <item quantity="many">%1$d secondes</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">"Ces éléments sont trop volumineux pour pouvoir être ajoutés à la corbeille de l'appareil. Si vous les supprimez, ils seront effacés définitivement de votre appareil et de votre compte."</item>
+        <item quantity="one">"Cet élément est trop volumineux pour pouvoir être ajouté à la corbeille de l'appareil. Si vous le supprimez, il sera effacé définitivement de votre appareil et de votre compte."</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d éléments analysés</item>
+        <item quantity="one">%1$d élément analysé</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="one">%1$d élément sélectionné</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">"Impossible d'analyser %1$d des vidéos."</item>
+        <item quantity="zero">"Impossible d'analyser %1$d des vidéos."</item>
+        <item quantity="one">"Impossible d'analyser %1$d des vidéos."</item>
+        <item quantity="two">"Impossible d'analyser %1$d des vidéos."</item>
+        <item quantity="few">"Impossible d'analyser %1$d des vidéos."</item>
+        <item quantity="many">"Impossible d'analyser %1$d des vidéos."</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="zero">%1$d minute</item>
+        <item quantity="one">%1$d minute</item>
+        <item quantity="two">%1$d minutes</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="many">%1$d minutes</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="zero">%1$d élément sélectionné</item>
+        <item quantity="one">%1$d élément sélectionné</item>
+        <item quantity="two">%1$d éléments sélectionnés</item>
+        <item quantity="few">%1$d éléments sélectionnés</item>
+        <item quantity="many">%1$d éléments sélectionnés</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d secondes</item>
+        <item quantity="zero">%1$d seconde</item>
+        <item quantity="one">%1$d seconde</item>
+        <item quantity="two">%1$d secondes</item>
+        <item quantity="few">%1$d secondes</item>
+        <item quantity="many">%1$d secondes</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">"Impossible d'utiliser ces vidéos. Elles sont trop courtes ou leur format n'est pas accepté."</item>
+        <item quantity="zero">"Impossible d'utiliser ces vidéos. Elles sont trop courtes ou leur format n'est pas accepté."</item>
+        <item quantity="one">"Impossible d'utiliser cette vidéo. Elle est trop courte ou son format n'est pas accepté."</item>
+        <item quantity="two">"Impossible d'utiliser ces vidéos. Elles sont trop courtes ou leur format n'est pas accepté."</item>
+        <item quantity="few">"Impossible d'utiliser ces vidéos. Elles sont trop courtes ou leur format n'est pas accepté."</item>
+        <item quantity="many">"Impossible d'utiliser ces vidéos. Elles sont trop courtes ou leur format n'est pas accepté."</item>
+    </plurals>
+    <plurals name="moved_to_trash_undo_text">
+        <item quantity="other">%d éléments placés dans la corbeille.</item>
+        <item quantity="one">%d élément placé dans la corbeille.</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d commentaires</item>
+        <item quantity="one">%d commentaire</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">"Suppression de %d éléments de l'album…"</item>
+        <item quantity="one">"Suppression de %d élément de l'album…"</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d lieux ajoutés</item>
+        <item quantity="one">%d lieu ajouté</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d lieux</item>
+        <item quantity="one">%d lieu</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d cartes</item>
+        <item quantity="one">%d carte</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d cartes ajoutées</item>
+        <item quantity="one">%d carte ajoutée</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Suppression des éléments de cet album…</item>
+        <item quantity="one">"Suppression de l'élément de cet album…"</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">"%d éléments ont été supprimés de l'album."</item>
+        <item quantity="one">"%d élément a été supprimé de l'album."</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Suppression des photos de cet album…</item>
+        <item quantity="one">Suppression de la photo de cet album…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Suppression des vidéos de cet album…</item>
+        <item quantity="one">Suppression de la vidéo de cet album…</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">"Supprimer les copies stockées sur l'appareil ?"</item>
+        <item quantity="one">"Supprimer la copie stockée sur l'appareil ?"</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">Ces éléments ne sont pas sauvegardés dans votre photothèque Photos. Si vous les supprimez maintenant, ils seront supprimés définitivement de Photos.</item>
+        <item quantity="one">"Cet élément n'est pas sauvegardé dans votre photothèque Photos. Si vous le supprimez maintenant, il sera supprimé définitivement de Photos."</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_items_left">
+        <item quantity="other">%d éléments restants</item>
+        <item quantity="one">%d élément restant</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_photos_to_back_up">
+        <item quantity="other">%d éléments à sauvegarder</item>
+        <item quantity="one">%d élément à sauvegarder</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">"%1$d photos n'ont pas été sauvegardées"</item>
+        <item quantity="one">"%1$d photo n'a pas été sauvegardée"</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Les %d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="photos_collectionlist_album_items_count">
+        <item quantity="other">%1$d éléments</item>
+        <item quantity="one">%1$d élément</item>
+    </plurals>
+    <plurals name="photos_collectionlist_story_moments_count">
+        <item quantity="other">%1$d moments</item>
+        <item quantity="one">%1$d moment</item>
+    </plurals>
+    <plurals name="photos_comments_ui_album_comment_badge_content_desc">
+        <item quantity="other">%d commentaires ajoutés à cet album</item>
+        <item quantity="one">%d commentaire ajouté à cet album</item>
+    </plurals>
+    <plurals name="photos_create_album_subtitle_items">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">"L'album ne peut pas contenir plus de %d éléments."</item>
+        <item quantity="one">"L'album ne peut pas contenir plus de %d élément."</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Sélectionnez %d éléments maximum.</item>
+        <item quantity="one">Sélectionnez %d élément maximum.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Sélectionnez au moins %d éléments.</item>
+        <item quantity="one">Sélectionnez au moins %d élément.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Veuillez sélectionner des photos compris dans une plage de %d jours.</item>
+        <item quantity="one">Veuillez sélectionner des éléments compris dans une plage de %d jour.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">"Ajout de %d éléments à l'album…"</item>
+        <item quantity="one">"Ajout de %d élément à l'album…"</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">"%d éléments ont été ajoutés à l'album."</item>
+        <item quantity="one">"%d élément a été ajouté à l'album."</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d sem.</item>
+        <item quantity="one">%d sem.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d j</item>
+        <item quantity="one">%d j</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Suppr. %1$d éléments ?</item>
+        <item quantity="one">Supprimer %1$d élément ?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Suppression de %1$d photos ou vidéos originales…</item>
+        <item quantity="one">Suppression de %1$d photo ou vidéo originale…</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d nouvelles fiches</item>
+        <item quantity="one">%d nouvelle fiche</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Enregistrement des éléments dans la bibliothèque…</item>
+        <item quantity="one">"Enregistrement de l'élément dans la bibliothèque…"</item>
+    </plurals>
+    <plurals name="photos_envelope_suggest_banner_related_photos_found">
+        <item quantity="other">%d photos associées trouvées. Les ajouter ?</item>
+        <item quantity="one">"%d photo associée trouvée. Voulez-vous l'ajouter ?"</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">"Supprimer le dossier et les %d éléments qu'il contient"</item>
+        <item quantity="one">"Supprimer le dossier et %d élément qu'il contient"</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Problème lors de la copie de %d éléments.</item>
+        <item quantity="one">Problème lors de la copie de %d élément.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d éléments copiés</item>
+        <item quantity="one">%d élément copié</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Problème lors du déplacement de %d éléments.</item>
+        <item quantity="one">Problème lors du déplacement de %d élément.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d éléments déplacés</item>
+        <item quantity="one">%d élément déplacé</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d éléments sélectionnés</item>
+        <item quantity="one">%1$d élément sélectionné</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d sélectionnées</item>
+        <item quantity="one">%d sélectionnée</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">Impossible de supprimer %1$d photos et vidéos</item>
+        <item quantity="one">Impossible de supprimer %1$d photo ou vidéo</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">Suppression de %1$d photos et vidéos…</item>
+        <item quantity="one">Suppression de %1$d photo ou vidéo…</item>
+    </plurals>
+    <plurals name="photos_share_add_recipients_progress">
+        <item quantity="other">Envoi des photos…</item>
+        <item quantity="one">Envoi de la photo…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">"%d éléments ajoutés à l'album"</item>
+        <item quantity="one">"%d élément ajouté à l'album"</item>
+    </plurals>
+    <plurals name="photos_share_handler_photos_shared">
+        <item quantity="other">Photos partagées</item>
+        <item quantity="one">Photo partagée</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s et %2$d autres</item>
+        <item quantity="one">%1$s et %2$d autres</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_title">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Impossible de supprimer les éléments</item>
+        <item quantity="one">"Impossible de supprimer l'élément"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">"Impossible de supprimer les copies de l'appareil"</item>
+        <item quantity="one">"Impossible de supprimer la copie de l'appareil"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">"Copies supprimées de l'appareil"</item>
+        <item quantity="one">"Copie supprimée de l'appareil"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Impossible de supprimer %d éléments.</item>
+        <item quantity="one">Impossible de supprimer %d élément.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Impossible de supprimer définitivement %d éléments.</item>
+        <item quantity="one">Impossible de supprimer définitivement %d élément.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Suppression définitive des éléments…</item>
+        <item quantity="one">"Suppression définitive de l'élément…"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d éléments supprimés définitivement</item>
+        <item quantity="one">%d élément supprimé définitivement</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Restauration des éléments…</item>
+        <item quantity="one">"Restauration de l'élément…"</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Impossible de restaurer %d éléments.</item>
+        <item quantity="one">Impossible de restaurer %d élément.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d éléments restaurés à partir de la corbeille</item>
+        <item quantity="one">%d élément restauré à partir de la corbeille</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Supprimer les éléments définitivement ?</item>
+        <item quantity="one">"Supprimer l'élément définitivement ?"</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">Une fois supprimés de la corbeille, les fichiers seront définitivement effacés.</item>
+        <item quantity="one">Une fois supprimé de la corbeille, le fichier sera définitivement effacé.</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Supprimer les éléments ?</item>
+        <item quantity="one">"Supprimer l'élément ?"</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Supprimer définitivement %d éléments</item>
+        <item quantity="one">Supprimer définitivement %d élément</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">"Plus que %d jours avant l'expiration de cette version. Pour continuer à utiliser Google Photos, mettez l'application à jour dès maintenant."</item>
+        <item quantity="one">"Plus que %d jour avant l'expiration de cette version. Pour continuer à utiliser Google Photos, mettez l'application à jour dès maintenant."</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Si vous sauvegardez ces éléments maintenant, vous consommerez environ %s de données. Pour ne pas utiliser le service de données mobiles, connectez votre appareil à un réseau Wi-Fi.</item>
+        <item quantity="one">Si vous sauvegardez cet élément maintenant, vous consommerez environ %s de données. Pour ne pas utiliser le service de données mobiles, connectez votre appareil à un réseau Wi-Fi.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">"La sauvegarde de ces éléments nécessite la consommation d'une certaine quantité de données. Pour ne pas utiliser le service de données mobiles, connectez votre appareil à un réseau Wi-Fi."</item>
+        <item quantity="one">"La sauvegarde de cet élément nécessite la consommation d'une certaine quantité de données. Pour ne pas utiliser le service de données mobiles, connectez votre appareil à un réseau Wi-Fi."</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d fichiers</item>
+        <item quantity="one">%d fichier</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s photos</item>
+        <item quantity="one">%s photo</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s éléments</item>
+        <item quantity="one">%s élément</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s vidéos</item>
+        <item quantity="one">%s vidéo</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Sélectionner des photos</item>
+        <item quantity="one">Sélectionner une photo</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Sélectionner des éléments</item>
+        <item quantity="one">Sélectionner un élément</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Sélectionner des vidéos</item>
+        <item quantity="one">Sélectionner une vidéo</item>
+    </plurals>
+    <plurals name="story_element_picker_tooltip">
+        <item quantity="other">Sélectionner des moments (%d)</item>
+        <item quantity="one">Sélectionner un moment (%d)</item>
+    </plurals>
+    <plurals name="story_warning_hit_min_photos">
+        <item quantity="other">Les histoires doivent contenir au moins %1$d photos.</item>
+        <item quantity="one">Les histoires doivent contenir au moins %1$d photo.</item>
+    </plurals>
+    <plurals name="story_warning_too_few_photos">
+        <item quantity="other">"Veuillez sélectionner au moins %1$d photos à ajouter à l'histoire."</item>
+        <item quantity="one">"Veuillez sélectionner au moins %1$d photo à ajouter à l'histoire."</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">La corbeille de votre appareil est pleine. Si vous supprimez ces éléments, ils seront effacés définitivement de votre appareil et de votre compte.</item>
+        <item quantity="one">La corbeille de votre appareil est pleine. Si vous supprimez cet élément, il sera effacé définitivement de votre appareil et de votre compte.</item>
+    </plurals>
+</resources>

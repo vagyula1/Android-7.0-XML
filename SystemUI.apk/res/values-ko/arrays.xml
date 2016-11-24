@@ -60,6 +60,18 @@
         <item>로그 버퍼당 4M</item>
         <item>로그 버퍼당 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>사용 안함</item>
+        <item>전체</item>
+        <item>라디오 외 모두</item>
+        <item>커널만</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>사용 안함</item>
+        <item>모든 로그 버퍼</item>
+        <item>라디오 로그 버퍼를 제외한 모든 버퍼</item>
+        <item>커널 로그 버퍼만</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>애니메이션 사용 안함</item>
         <item>애니메이션 배율 .5x</item>
@@ -159,6 +171,24 @@
         <item>눈으로 보는 듯한 내츄럴 색상</item>
         <item>디지털 콘텐츠에 최적화된 색상</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>통화</item>
+        <item>시스템</item>
+        <item>벨 울리기</item>
+        <item>미디어</item>
+        <item>알람</item>
+        <item></item>
+        <item>블루투스</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>시간, 분, 초 표시</item>
         <item>시간, 분 표시(기본값)</item>
@@ -169,4 +199,5 @@
         <item>충전할 때 퍼센트 표시(기본값)</item>
         <item>이 아이콘 표시 안함</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

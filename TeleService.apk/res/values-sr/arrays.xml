@@ -60,6 +60,18 @@
         <item>4 MB по међумеморији евиденције</item>
         <item>16 MB по међумеморији евиденције</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Искључено</item>
+        <item>Све</item>
+        <item>Све сeм радија</item>
+        <item>само језгро</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Искључено</item>
+        <item>Све међумеморије евиденција</item>
+        <item>Све осим међумеморија евиденција за радио</item>
+        <item>само међумеморија евиденције језгра</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Анимација је искључена</item>
         <item>Размера анимације 0,5x</item>
@@ -159,6 +171,11 @@
         <item>Природне боје налик онима које региструје око</item>
         <item>Боје оптимизоване за дигитални садржај</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Глобално</item>
         <item>LTE/CDMA</item>
@@ -220,7 +237,7 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY искључено</item>
+        <item>TTY је искључен</item>
         <item>TTY је пун</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>

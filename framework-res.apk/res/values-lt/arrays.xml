@@ -37,8 +37,16 @@
         <item>Kita</item>
         <item>Tinkintas</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Jei norite skambinti ir siųsti pranešimus „Wi-Fi“ ryšiu, pirmiausia paprašykite operatoriaus nustatyti šią paslaugą. Tada vėl įjunkite skambinimą „Wi-Fi“ ryšiu „Nustatymų“ skiltyje.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Užregistruokite pas operatorių</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>„%s“ „Wi-Fi“ skambinimas</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Darbo</item>
         <item>Kita</item>
         <item>Tinkintas</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobiliojo ryšio duomenys</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Eternetas</item>
+        <item>VPN</item>
     </string-array>
 </resources>

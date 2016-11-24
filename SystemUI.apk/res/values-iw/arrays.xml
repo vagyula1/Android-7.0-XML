@@ -60,6 +60,18 @@
         <item>‏4M לכל מאגר יומן</item>
         <item>‏16M לכל מאגר יומן</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>כבוי</item>
+        <item>הכול</item>
+        <item>הכול מלבד רדיו</item>
+        <item>ליבה בלבד</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>כבוי</item>
+        <item>כל מאגרי הנתונים הזמניים של היומן</item>
+        <item>הכול מלבד מאגרי הנתונים הזמניים של יומן הרדיו</item>
+        <item>מאגר נתונים זמני של היומן השמור בליבה בלבד</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>אנימציה כבויה</item>
         <item>‏קנה מידה לאנימציה 5x.</item>
@@ -159,6 +171,24 @@
         <item>צבעים טבעיים כפי שהם נראים לעין</item>
         <item>צבעים מותאמים באופן אופטימלי לתוכן דיגיטלי</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>שיחה</item>
+        <item>מערכת</item>
+        <item>השמע צלצול</item>
+        <item>מדיה</item>
+        <item>התראה</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>הצג שעות, דקות ושניות</item>
         <item>הצג שעות ודקות (ברירת מחדל)</item>
@@ -169,4 +199,5 @@
         <item>הצג באחוזים בזמן טעינה (ברירת מחדל)</item>
         <item>אל תציג את הסמל הזה</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

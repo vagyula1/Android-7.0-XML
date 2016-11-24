@@ -60,6 +60,18 @@
         <item>4 Mt / lokipuskuri</item>
         <item>16 Mt / lokipuskuri</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Ei käytössä</item>
+        <item>Kaikki</item>
+        <item>Kaikki paitsi radio</item>
+        <item>vain kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Ei käytössä</item>
+        <item>Kaikki lokipuskurit</item>
+        <item>Kaikki paitsi radiolokipuskurit</item>
+        <item>vain kernel-lokipuskuri</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animaatio pois käytöstä</item>
         <item>Animaatioasteikko 0,5-kertainen</item>
@@ -158,5 +170,10 @@
         <item>Tehostetut värit</item>
         <item>Ihmissilmän näkemät luonnolliset värit</item>
         <item>Digitaaliselle sisällölle parhaiten sopivat värit</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
 </resources>

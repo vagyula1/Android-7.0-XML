@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">Senere</string>
-  <string name="alert_dialog_negative_button">Annuller</string>
-  <string name="alert_dialog_no_button">Nej</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">Opgrader</string>
-  <string name="alert_dialog_yes_button">Ja</string>
-  <string name="app_name">Berettigelse</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">For at aktivere, gå til att.com/mywireless eller indtast nummer 611</string>
-  <string name="att_error_msg_other">Der er et midlertidigt netværksproblem, der gør, at Mobilt Hotspot-funktionen ikke kan aktiveres. Prøv igen senere</string>
-  <string name="att_error_msg_other_title">Netværksfejl</string>
-  <string name="att_error_msg_title">Konto ej konfigureret til tethering</string>
-  <string name="browser_error_msg">Browseren kan ikke åbnes.</string>
-  <string name="feature_check_msg">Kontrollerer status for abonnement. Vent et øjeblik...</string>
-  <string name="mobile_hotspot">Mobilt hotspot</string>
-  <string name="network_connection_error_msg">"Din telefon kan i øjeblikket ikke oprette forbindelse til %s's server. Prøv igen senere."</string>
-  <string name="network_connection_title">Netværksforbindelsesfejl</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;L&amp;#230;s mere og abonn&amp;#233;r p&amp;#229; Mobilt Hotspoved at g&amp;#229; til My Verizon.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">Hvis du vil bruge Mobilt Hotspot, skal du abonnere på Mobil hotspot-tjenesten</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Kunne ikke forbinde til datanetværk. Du har muligvis ikke abonnement på Tethering- eller Hotspot-tjenesten; kontakt dit telekommunikationsselskab.</string>
-  <string name="sprint_error_msg_3g">Kunne ikke forbinde til datanetværk, slukker for tethering eller hotspot. Din dataplan indeholder muligvis ikke tethering og hotspot-tjenesten. Vil du se abonnementsindstillingerne?</string>
-  <string name="sprint_error_msg_lte">Du abonnerer ikke på tethering- og hotspot-tjenesten. Vil du se abonnementsindstillingerne?</string>
-  <string name="sprint_error_msg_title">Tethering- eller Hotspot-fejl</string>
-  <string name="sprint_notification_msg">Tryk for at se flere detaljer</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Din aktuelle prisoversigt omfatter ikke Smartphone Mobil Hotspot-tjenesten, som muliggør deling af telefonens dataforbindelse med andre enheder. Vil du tilføje Smartphone Mobil Hotspot-tjenesten til din prisoversigt? Den kan også tilføjes online på https://my.t-mobile.com under Administrer &gt; Planer og tjenester.</string>
-  <string name="tmo_error_msg_title">Tjeneste skal opgraderes</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Hvis du vil abonnere på Mobilt Hotspot/Mobile Broadband Connect, skal du ringe på: 
- Privat forbruger: (800) 256-4646, 
- Virksomhed: (800) 899-4249."</string>
-  <string name="vzw_error_msg_title">Din ordre kunne ikke behandles</string>
+    <string name="app_name">Rettighed</string>
+    <string name="feature_check_msg">Kontrollerer abonnementsstatus. Vent venligst...</string>
+    <string name="vzw_self_provisioning_msg">"Hvis du vil bruge Mobile Hotspot, skal du tilmelde dig Mobile Hotspot-tjenesten.
+Få mere at vide, og tilmeld dig Mobile Hotspot ved at besøge Min Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Annuller</string>
+    <string name="vzw_self_provisioning_learn_more">Flere oplysninger</string>
+    <string name="vzw_error_msg_title">Din ordre kunne ikke behandles</string>
+    <string name="vzw_error_msg">"Hvis du gerne vil abonnere på Mobile Hotspot/Mobile Broadband Connect, skal du ringe til:
+ Kunde: (800) 256-4646,
+ Erhverv: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Tjenesteopgradering påkrævet</string>
+    <string name="tmo_error_msg">Din nuværende prisplan omfatter ikke Smartphone Mobile Hotspot-tjenesten, som gør det muligt for dig at dele telefonens dataforbindelse med andre enheder. Vil du føje Smartphone Mobile Hotspot-tjenesten til din prisplan? Du kan også tilføje den på https://my.t-mobile.com under Administrer > Planer og tjenester. &lt;</string>
+    <string name="retv_terms_conditions_msg">Kontrollerer abonnementsstatus. Vent venligst...</string>
+    <string name="change_data_request_msg">Anmodning om klargøring sendes. Vent venligst...</string>
+    <string name="alert_dialog_failure_title">Din ordre kunne ikke behandles</string>
+    <string name="alert_dialog_failure_msg">Prøv igen senere.</string>
+    <string name="network_connection_title">Netværksforbindelsesfejl</string>
+    <string name="network_connection_error_msg">Telefonen kan i øjeblikket ikke oprette forbindelse til %ss server. Prøv igen senere.</string>
+    <string name="mobile_hotspot">Mobil Hotspot</string>
+    <string name="alert_dialog_upgrade_button">Opgrader</string>
+    <string name="alert_dialog_later_button">Senere</string>
+    <string name="current_subscription">(nuværende abonnement)</string>
+    <string name="unavailable_subscription">(utilgængelig på grund af lagerniveau)</string>
+    <string name="request_pending_title">Autorisation afventer</string>
+    <string name="request_pending_error_msg">Verizons server behandler din anmodning. Prøv igen om 5 minutter.</string>
+    <string name="browser_error_msg">Det er ikke muligt at åbne browser.</string>
+    <string name="att_error_msg">Hvis du vil aktivere, skal du gå til att.com/mywireless eller ringe til 611</string>
+    <string name="att_error_msg_title">Konto er ikke konfigureret til internetdeling</string>
+    <string name="att_error_msg_other">Et midlertidigt netværksproblem står i vejen for Mobile Hotspot-funktionen. Prøv igen senere</string>
+    <string name="att_error_msg_other_title">Netværksfejl</string>
+    <string name="sprint_error_msg">Kan ikke oprette forbindelse til datanetværk; Du bliver måske ikke tilmeldt internetdelings- eller hotspottjeneste; Kontakt dit teleselskab.</string>
+    <string name="sprint_error_msg_title">Internetdelings- eller hotspotfejl</string>
+    <string name="sprint_notification_msg">Tryk for at se flere oplysninger</string>
+    <string name="term_and_conditions_title">Vilkår og betingelser</string>
+    <string name="sbm_content_activity_title">Aftalens vilkår</string>
+    <string name="consent_title">Aftalens vilkår</string>
+    <string name="consent_message">"Hvis du vil bruge denne applikation, skal du acceptere og sende følgende oplysninger. Kontrollér indholdet, og fortsæt derefter.
+
+[Send oplysninger]
+Kontraktansattes specifikke id
+[Brug applikationer]
+Ordre til at bruge applikationen til internetdeling"</string>
+    <string name="consent_terms_btn">Betingelser for tjeneste</string>
+    <string name="concent_disagree_btn">Accepter ikke</string>
+    <string name="concent_agree_btn">Accepter</string>
+    <string name="sbm_error_msg_title">Internetdelings- eller hotspotfejl</string>
+    <string name="sbm_error_msg">Forbindelse til datanetværket kan ikke oprettes.</string>
+    <string name="sbm_error_msg_not_subscribed">Det var ikke muligt at bekræfte dit abonnement på valgmuligheden Internetdeling.</string>
+    <string name="sbm_error_msg_not_authenticated">"Godkendelse mislykkedes.
+(Fejlkode %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Godkendelse mislykkedes. Flyt dig til et sted med god modtagelse, og prøv igen.</string>
 </resources>

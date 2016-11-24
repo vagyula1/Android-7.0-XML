@@ -37,8 +37,16 @@
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Um über WLAN telefonieren und Nachrichten senden zu können, bitte zuerst deinen Mobilfunkanbieter, diesen Dienst einzurichten. Aktiviere die Option \"Anrufe über WLAN\" dann erneut über die Einstellungen.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registriere dich bei deinem Mobilfunkanbieter.</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Anrufe über WLAN</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Geschäftlich</item>
         <item>Andere</item>
         <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobile Datennutzung</item>
+        <item>WLAN</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

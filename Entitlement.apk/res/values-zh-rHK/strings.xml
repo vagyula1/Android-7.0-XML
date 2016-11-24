@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">授權</string>
+    <string name="feature_check_msg">正在檢查訂閱狀態。請稍候...</string>
+    <string name="vzw_self_provisioning_msg">"若要使用流動熱點，您將需要訂閱流動熱點服務。
+透過造訪 My Verizon 來瞭解更多資訊並訂閱的流動熱點。"</string>
+    <string name="vzw_self_provisioning_cancel">取消</string>
+    <string name="vzw_self_provisioning_learn_more">瞭解更多資訊</string>
+    <string name="vzw_error_msg_title">您的訂購無法處理</string>
+    <string name="vzw_error_msg">"若您想訂閱至流動熱點/流動寬頻連線，請致電：
+ 顧客：(800) 256-4646，
+ 企業：(800) 899-4249。"</string>
+    <string name="tmo_error_msg_title">所需服務更新</string>
+    <string name="tmo_error_msg">您當前的費率計劃並不包括智慧型手機流動熱點服務以與其他裝置共享你的手機數據連接。是否要將智慧型手機流動熱點 服務添加至您的費率計劃？您亦可透過在管理 > 計劃和服務下的 https://my.t-mobile.com 上進行線上新增。 &lt;</string>
+    <string name="retv_terms_conditions_msg">正在檢查訂閱狀態。請稍候...</string>
+    <string name="change_data_request_msg">正在傳送配置請求。請稍候...</string>
+    <string name="alert_dialog_failure_title">您的訂購無法處理</string>
+    <string name="alert_dialog_failure_msg">請稍後再試</string>
+    <string name="network_connection_title">網路連接錯誤</string>
+    <string name="network_connection_error_msg">您的行動電話當前無法連接至 %s 的伺服器。請稍候再試一次。</string>
+    <string name="mobile_hotspot">流動熱點</string>
+    <string name="alert_dialog_positive_button">確定</string>
+    <string name="alert_dialog_upgrade_button">升級</string>
+    <string name="alert_dialog_later_button">稍後</string>
+    <string name="current_subscription">（目前訂閱）</string>
+    <string name="unavailable_subscription">（依據儲存器層級不可用）</string>
+    <string name="request_pending_title">正在配置等待</string>
+    <string name="request_pending_error_msg">Verizon 的伺服器正在處理您的請求。請在 5 分鐘內重試。</string>
+    <string name="browser_error_msg">無法開啟瀏覽器。</string>
+    <string name="att_error_msg">如要啟用，請轉至 att.com/mywireless 或撥打 611</string>
+    <string name="att_error_msg_title">未為數據連線設定帳戶</string>
+    <string name="att_error_msg_other">暫時性網絡問題妨礙了手機熱點功能的啓用。請稍後再試</string>
+    <string name="att_error_msg_other_title">網路錯誤</string>
+    <string name="sprint_error_msg">無法連接到數據網絡；您或許不會訂閱網絡共用或熱點服務；請聯絡您的手機生產商</string>
+    <string name="sprint_error_msg_title">網絡共享或熱點錯誤</string>
+    <string name="sprint_notification_msg">觸摸以查看更多詳細資訊</string>
+    <string name="term_and_conditions_title">條款及細則</string>
+    <string name="sbm_content_activity_title">協議條款</string>
+    <string name="consent_title">協議條款</string>
+    <string name="consent_message">"如要使用該應用程式，您需要同意並傳送以下資訊。關於檢查的內容，請繼續進行。
+
+[傳送資訊]
+訂約人-具體的 ID
+[使用應用程式]
+訂購以使用網路共用應用程式"</string>
+    <string name="consent_terms_btn">服務條款</string>
+    <string name="concent_disagree_btn">不同意</string>
+    <string name="concent_agree_btn">同意</string>
+    <string name="sbm_error_msg_title">網絡共享或熱點錯誤</string>
+    <string name="sbm_error_msg">無法連接至數據網路。</string>
+    <string name="sbm_error_msg_not_subscribed">無法驗證您對「數據連線選項」的訂閱。</string>
+    <string name="sbm_error_msg_not_authenticated">"驗證失敗。
+(錯誤碼 %1$s)"</string>
+    <string name="sbm_error_msg_no_response">驗證失敗。 請在接收訊號好的位置處重試。</string>
+</resources>

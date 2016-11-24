@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="activation_failure_text">"A mobil adatszolgáltatást nem tudtuk aktiválni. Lehet, hogy csak átmeneti problémáról van szó.
+    <string name="url_load_unsuccessful_message">Táblagépe nem kapcsolódik mobil adatszolgáltatáshoz. Az információ megtekintéséhez keresse fel a(z) %s webhelyet egy böngészőben.</string>
+    <string name="activation_text">A mobil adatszolgáltatás aktiválásához érintse meg az <b>Aktiválás</b>" gombot. (Az aktiválás néhány percet is igénybe vehet.)
 
-Ha most kihagyja ezt a lépést, akkor később ne felejtse el aktiválni a szolgáltatást a Beállítások alatt. Ameddig nem aktiválja a szolgáltatást, a táblagép legtöbb funkciója nem működik."</string>
-  <string name="activation_failure_text_gen">A mobil adatszolgáltatást nem lehet aktiválni. Ez átmeneti probléma, amely a telefon újraindításával valószínűleg megoldható.</string>
-  <string name="activation_skip_confirmation">"Ameddig nem aktiválja a mobil adatszolgáltatást, a táblagép legtöbb funkciója nem működik.
+Ha Wi-Fi kapcsolat használatával kívánja elvégezni a beállítást, érintse meg a "<b>Kihagyás</b> gombot.</string>
+    <string name="activation_skip_confirmation">"Ameddig nem aktiválja a mobil adatszolgáltatást, a táblagép legtöbb funkciója nem működik.
 
 Ha most kihagyja ezt a lépést, akkor a szolgáltatást a Rendszerbeállítások alatt aktiválhatja majd."</string>
-  <string name="activation_spc_failure_text">Hiba történt, amely miatt le kell állítania és újra kell indítania táblagépét, mielőtt újabb aktiválási kísérletet tenne. A táblagép 60 másodpercen belül automatikusan kikapcsol, vagy megérintheti a &lt;b&gt;Le&amp;#225;ll&amp;#237;t&amp;#225;s most&lt;/b&gt;" lehet&amp;#337;s&amp;#233;get.
+    <string name="activation_failure_text">"A mobil adatszolgáltatást nem tudtuk aktiválni. Lehet, hogy csak átmeneti problémáról van szó.
 
-Miut&amp;#225;n a t&amp;#225;blag&amp;#233;p le&amp;#225;llt, az &amp;#250;jraind&amp;#237;t&amp;#225;shoz nyomja meg a bekapcsol&amp;#243; gombot."</string>
-  <string name="activation_text">A mobil adatszolgáltatás aktiválásához érintse meg az &lt;b&gt;Aktiv&amp;#225;l&amp;#225;s&lt;/b&gt;" gombot. (Az aktiv&amp;#225;l&amp;#225;s n&amp;#233;h&amp;#225;ny percet is ig&amp;#233;nybe vehet.)
+Ha most kihagyja ezt a lépést, akkor később ne felejtse el aktiválni a szolgáltatást a Beállítások alatt. Ameddig nem aktiválja a szolgáltatást, a táblagép legtöbb funkciója nem működik."</string>
+    <string name="activation_failure_text_gen">A mobil adatszolgáltatást nem lehet aktiválni. Ez átmeneti probléma, amely a telefon újraindításával valószínűleg megoldható.</string>
+    <string name="activation_spc_failure_text">Hiba történt, amely miatt le kell állítania és újra kell indítania táblagépét, mielőtt újabb aktiválási kísérletet tenne. A táblagép 60 másodpercen belül automatikusan kikapcsol, vagy megérintheti a <b>Leállítás most</b>" lehetőséget.
 
-Ha Wi-Fi kapcsolat haszn&amp;#225;lat&amp;#225;val k&amp;#237;v&amp;#225;nja elv&amp;#233;gezni a be&amp;#225;ll&amp;#237;t&amp;#225;st, &amp;#233;rintse meg a "&lt;b&gt;Kihagy&amp;#225;s&lt;/b&gt; gombot.</string>
-  <string name="setup_complete_message">Sikerült a táblagép beállítása, így most már használatra kész.</string>
-  <string name="sim_missing_text">A SIM kártya behelyezéséhez olvassa el a táblagéphez kapott instrukciókat.</string>
-  <string name="url_load_unsuccessful_message">Táblagépe nem kapcsolódik mobil adatszolgáltatáshoz. Az információ megtekintéséhez keresse fel a(z) %s webhelyet egy böngészőben.</string>
+Miután a táblagép leállt, az újraindításhoz nyomja meg a bekapcsoló gombot."</string>
+    <string name="sim_missing_text">A SIM kártya behelyezéséhez olvassa el a táblagéphez kapott instrukciókat.</string>
+    <string name="setup_complete_message">Sikerült a táblagép beállítása, így most már használatra kész.</string>
 </resources>

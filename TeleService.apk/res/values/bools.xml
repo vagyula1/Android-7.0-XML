@@ -2,6 +2,7 @@
 <resources>
     <bool name="config_support_tdscdma">false</bool>
     <bool name="enable_pbap_pce_profile">false</bool>
+    <bool name="config_sendPackageName">false</bool>
     <bool name="ignore_sim_network_locked_events">false</bool>
     <bool name="sim_network_unlock_allow_dismiss">true</bool>
     <bool name="world_phone">false</bool>
@@ -31,6 +32,7 @@
     <bool name="voicemail_notification_persistent">false</bool>
     <bool name="config_checkSimStateBeforeOutgoingCall">false</bool>
     <bool name="allow_visual_voicemail">true</bool>
+    <bool name="vvm3_enabled">true</bool>
     <bool name="config_pstn_phone_accounts_enabled">true</bool>
     <bool name="config_emergency_account_emergency_calls_only">false</bool>
     <bool name="config_pstnCanPlaceEmergencyCalls">true</bool>

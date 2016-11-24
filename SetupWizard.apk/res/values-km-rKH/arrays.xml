@@ -60,6 +60,18 @@
         <item>4M per log buffer</item>
         <item>16M per log buffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>បិទ</item>
+        <item>ទាំង​អស់</item>
+        <item>ទាំងអស់ក្រៅពីវិទ្យុ</item>
+        <item>kernel តែប៉ុណ្ណោះ</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>បិទ</item>
+        <item>អង្គចងចាំកំណត់ហេតុបណ្តោះអាសន្នទាំងអស់</item>
+        <item>ទាំងអស់ក្រៅពីអង្គចងចាំកំណត់ហេតុវិទ្យុបណ្តោះអាសន្ន</item>
+        <item>អង្គចងចាំបណ្ដោះអាសន្នកំណត់ហេតុ kernel តែប៉ុណ្ណោះ</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>បិទ​ចលនា</item>
         <item>មាត្រដ្ឋាន​ចលនា .5x</item>
@@ -158,5 +170,10 @@
         <item>ពណ៌ដែលធ្វើឲ្យប្រសើរជាងមុន</item>
         <item>ពណ៌ធម្មជាតិដូចដែលបានឃើញដោយភ្នែក</item>
         <item>ពណ៌ដែលបានសម្រួលសម្រាប់មាតិកាឌីជីថល</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

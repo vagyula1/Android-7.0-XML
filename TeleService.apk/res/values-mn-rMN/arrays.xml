@@ -30,7 +30,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Хэзээ ч шалгахгүй</item>
-        <item>Зөвхөн DRM контентыг шалгах</item>
+        <item>Зөвхөн DRM агуулгыг шалгах</item>
         <item>Байнга шалгах</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -59,6 +59,18 @@
         <item>лог буфер бүрт 1M</item>
         <item>лог буфер бүрт 4M</item>
         <item>лог буфер бүрт 16M</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Идэвхгүй</item>
+        <item>Бүгд</item>
+        <item>Радиогоос бусад бүх</item>
+        <item>зөвхөн төвд</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Идэвхгүй</item>
+        <item>Бүх логийн хамгаалалт</item>
+        <item>Радиогоос бусад бүх логийн хамгаалалт</item>
+        <item>зөвхөн үйлдлийн системийн төв логийн хамгаалалтад</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Дүрс амилуулалт идэвхгүй</item>
@@ -159,6 +171,11 @@
         <item>Нүдээр харж болох байгалийн өнгө</item>
         <item>Дижитал агуулгад зориулан тааруулсан өнгө</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Глобал</item>
         <item>LTE / CDMA</item>
@@ -220,7 +237,7 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Үгүй</item>
+        <item>TTY Унтраасан</item>
         <item>TTY Дүүрэн</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>

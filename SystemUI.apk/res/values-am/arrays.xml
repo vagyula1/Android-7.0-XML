@@ -60,6 +60,18 @@
         <item>4 ሜ በምዝግብ ማስታወሻ ቋጥ</item>
         <item>16 ሜ በምዝግብ ማስታወሻ ቋጥ</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ጠፍቷል</item>
+        <item>ሁሉም</item>
+        <item>ከሬዲዮ በስተቀር ሁሉም</item>
+        <item>አውራ ከዋኝ ብቻ</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ጠፍቷል</item>
+        <item>የሁሉም ምዝግብ ማስታወሻ ቋቶች</item>
+        <item>ከሬዲዮ ምዝግብ ማስታወሻ ቋቶች በስተቀር ሁሉም</item>
+        <item>የአውራ ከዋኝ ምዝግብ ማስታወሻ ቋት ብቻ</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>እነማ ጠፍቷል</item>
         <item>የእነማ ልኬት ለውጥ.5x</item>
@@ -159,6 +171,24 @@
         <item>ልክ በዓይን እንደሚታዩት የተፈጥሮ ቀለማት</item>
         <item>ለዲጂታል ይዘት የላቁ ቀለማት</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>ደውል</item>
+        <item>ሥርዓት</item>
+        <item>ጥሪ</item>
+        <item>ማህደረመረጃ</item>
+        <item>ማንቂያ</item>
+        <item></item>
+        <item>ብሉቱዝ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>ሰዓቶችን፣ ደቂቃዎችን፣ ሴኮንዶችን አሳይ</item>
         <item>ሰዓቶችን እና ደቂቃዎችን አሳይ (ነባሪ)</item>
@@ -169,4 +199,5 @@
         <item>የባትሪ ኃይል በሚሞላበት ጊዜ መቶኛ አሳይ (ነባሪ)</item>
         <item>ይህን አዶ አታሳይ</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

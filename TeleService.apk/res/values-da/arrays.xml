@@ -60,6 +60,18 @@
         <item>4 MB pr. logbuffer</item>
         <item>16 MB pr. logbuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Slået fra</item>
+        <item>Alle</item>
+        <item>Radio undtaget</item>
+        <item>kun kerne</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Slået fra</item>
+        <item>Alle logbuffere</item>
+        <item>Alle undtagen radiologbuffere</item>
+        <item>kun logbuffer for kerne</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation fra</item>
         <item>Animationsskala 0,5x</item>
@@ -159,6 +171,11 @@
         <item>Naturlige farver, som øjet opfatter dem</item>
         <item>Farver, der er optimeret til digitalt indhold</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globalt</item>
         <item>LTE/CDMA</item>
@@ -221,7 +238,7 @@
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY fra</item>
-        <item>TTY er fuld</item>
+        <item>Fuld TTY-tilstand</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>

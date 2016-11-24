@@ -60,6 +60,18 @@
         <item>Günlük arabelleği başına 4 MB</item>
         <item>Günlük arabelleği başına 16 MB</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç tümü</item>
+        <item>yaln. çekirdek</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Kapalı</item>
+        <item>Günlük arabelleklerin tümü</item>
+        <item>Radyo günlük arabellekleri hariç tümü</item>
+        <item>yalnızca çekirdek günlük arabelleği</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasyon kapalı</item>
         <item>Animasyon ölçeği 0,5x</item>
@@ -158,5 +170,10 @@
         <item>Geliştirilmiş renkler</item>
         <item>Göze göründüğü şekilde doğal renkler</item>
         <item>Dijital içerik için optimize edilmiş renkler</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>%0</item>
+        <item>%50</item>
+        <item>%100</item>
     </string-array>
 </resources>

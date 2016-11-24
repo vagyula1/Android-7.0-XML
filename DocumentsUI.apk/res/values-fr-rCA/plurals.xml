@@ -29,8 +29,12 @@
         <item quantity="one">%1$d fichier a été copié dans le presse-papiers.</item>
     </plurals>
     <plurals name="elements_selected">
-        <item quantity="other">%1$d éléments sélectionnés</item>
-        <item quantity="one">%1$d élément sélectionné</item>
+        <item quantity="other">%1$d sélectionnés</item>
+        <item quantity="one">%1$d sélectionné</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d articles</item>
+        <item quantity="one">%1$d article</item>
     </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">Supprimer %1$d fichiers?</item>

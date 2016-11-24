@@ -60,6 +60,18 @@
         <item>4 MB/zonă-tampon de înregistrări în jurnal</item>
         <item>16 MB/zonă-tampon de înregistrări în jurnal</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Dezactivată</item>
+        <item>Toate</item>
+        <item>Toate, fără radio</item>
+        <item>numai nucleul</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Dezactivată</item>
+        <item>Toate zonele-tampon pentru jurnale</item>
+        <item>Toate zonele-tampon pentru jurnale fără cele radio</item>
+        <item>numai zona-tampon pentru jurnalul nucleului</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animație dezactivată</item>
         <item>Animație la scara 0,5x</item>
@@ -159,6 +171,11 @@
         <item>Culori naturale, așa cum le percepe ochiul</item>
         <item>Culori optimizate pentru conținutul digital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>
         <item>LTE/CDMA</item>
@@ -220,8 +237,8 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>Mod TTY dezactivat</item>
-        <item>TTY plin</item>
+        <item>TTY dezactivat</item>
+        <item>TTY integral</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>

@@ -60,6 +60,18 @@
         <item>4 Mio. pro Puffer</item>
         <item>16 Mio. pro Puffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Aus</item>
+        <item>Alle</item>
+        <item>Alle außer Funkschnittstelle</item>
+        <item>Nur Kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Aus</item>
+        <item>Alle Protokollzwischenspeicher</item>
+        <item>Alle Protokollzwischenspeicher außer Funkschnittstelle</item>
+        <item>Nur Kernelprotokoll-Zwischenspeicher</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
         <item>Animationsmaßstab: 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Verstärkte Farben</item>
         <item>Natürliche Farben wie vom Auge wahrgenommen</item>
         <item>Für digitale Inhalte optimierte Farben</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>

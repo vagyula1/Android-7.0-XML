@@ -73,6 +73,8 @@
     <item type="id" name="add_account_text">false</item>
     <item type="id" name="no_accounts">false</item>
     <item type="id" name="add_account_button">false</item>
+    <item type="id" name="android_device_owner_mandatory_text">false</item>
+    <item type="id" name="mandatory_next_button">false</item>
     <item type="id" name="device_owner_confirm_text">false</item>
     <item type="id" name="device_owner_confirmation_checkbox">false</item>
     <item type="id" name="device_owner_confirmation_note">false</item>
@@ -80,7 +82,6 @@
     <item type="id" name="device_owner_confirm">false</item>
     <item type="id" name="android_work_profile_mandatory_text">false</item>
     <item type="id" name="not_now_button">false</item>
-    <item type="id" name="mandatory_next_button">false</item>
     <item type="id" name="application_list_heading">false</item>
     <item type="id" name="application_list">false</item>
     <item type="id" name="auto_install_app_id">false</item>
@@ -95,8 +96,6 @@
     <item type="id" name="avatar_recents_two">false</item>
     <item type="id" name="avatar_recents_two_image">false</item>
     <item type="id" name="policy_description">false</item>
-    <item type="id" name="device_wide_proxy_setting_heading">false</item>
-    <item type="id" name="device_wide_proxy_setting">false</item>
     <item type="id" name="disable_system_apps_list_heading">false</item>
     <item type="id" name="disable_system_apps_list">false</item>
     <item type="id" name="dm_agent_tab_activity_layout">false</item>
@@ -187,6 +186,7 @@
     <item type="id" name="kernel_version">false</item>
     <item type="id" name="baseband_version_row">false</item>
     <item type="id" name="baseband_version">false</item>
+    <item type="id" name="last_sync_label">false</item>
     <item type="id" name="last_sync">false</item>
     <item type="id" name="mac_address_label">false</item>
     <item type="id" name="mac_address">false</item>
@@ -200,6 +200,22 @@
     <item type="id" name="developer_options_enabled">false</item>
     <item type="id" name="supports_work_profile_label">false</item>
     <item type="id" name="supports_work_profile">false</item>
+    <item type="id" name="manufacturer_label">false</item>
+    <item type="id" name="manufacturer">false</item>
+    <item type="id" name="security_patch_time_label">false</item>
+    <item type="id" name="security_patch_time">false</item>
+    <item type="id" name="release_version_label">false</item>
+    <item type="id" name="release_version">false</item>
+    <item type="id" name="brand_label">false</item>
+    <item type="id" name="brand">false</item>
+    <item type="id" name="hardware_label">false</item>
+    <item type="id" name="hardware">false</item>
+    <item type="id" name="bootloader_label">false</item>
+    <item type="id" name="bootloader">false</item>
+    <item type="id" name="device_secured_with_pin_password_label">false</item>
+    <item type="id" name="device_secured_with_pin_password">false</item>
+    <item type="id" name="encryption_status_label">false</item>
+    <item type="id" name="encryption_status">false</item>
     <item type="id" name="shared_application_info">false</item>
     <item type="id" name="sign_in">false</item>
     <item type="id" name="device_icon">false</item>

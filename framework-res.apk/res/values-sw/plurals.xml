@@ -4,6 +4,10 @@
         <item quantity="other">Umebakisha majaribio %d kabla SIM haijafungwa.</item>
         <item quantity="one">Umebakisha majaribio %d kabla SIM haijafungwa.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Imesakinisha mamlaka ya cheti</item>
+        <item quantity="one">Imesakinisha mamlaka ya cheti</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Inapiga picha ya skrini ili iripoti hitilafu baada ya sekunde %d.</item>
         <item quantity="one">Inapiga picha ya skrini ili iripoti hitilafu baada ya sekunde %d.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">Saa %d</item>
         <item quantity="one">Saa 1</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dy</item>
+        <item quantity="one">%dy</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">dak %d</item>
+        <item quantity="one">dak %d</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">saa %d</item>
+        <item quantity="one">saa %d</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">siku %d</item>
+        <item quantity="one">siku %d</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">miaka %d</item>
+        <item quantity="one">mwaka %d</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">Dakika %d zilizopita</item>
+        <item quantity="one">Dakika %d iliyopita</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">Saa %d zilizopita</item>
+        <item quantity="one">Saa %d iliyopita</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">Siku %d zilizopita</item>
+        <item quantity="one">Siku %d iliyopita</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">Miaka %d iliyopita</item>
+        <item quantity="one">Mwaka %d uliopita</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">baada ya dakika %d</item>
+        <item quantity="one">baada ya dakika %d</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">baada ya saa %d</item>
+        <item quantity="one">baada ya saa %d</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">baada ya siku %d</item>
+        <item quantity="one">baada ya siku %d</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">baada ya miaka %d</item>
+        <item quantity="one">baada ya mwaka %d</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Mitandao ya Wi-Fi inapatikana</item>

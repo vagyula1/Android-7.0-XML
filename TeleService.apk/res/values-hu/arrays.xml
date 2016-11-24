@@ -60,6 +60,18 @@
         <item>4 MB/naplópuffer</item>
         <item>16 MB/naplópuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Kikapcsolva</item>
+        <item>Összes</item>
+        <item>Rádiót kivéve</item>
+        <item>csak kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Kikapcsolva</item>
+        <item>Minden naplópuffer</item>
+        <item>A rádiónapló-pufferen kívül mindegyik</item>
+        <item>csak kernelnaplópuffer</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animáció ki</item>
         <item>Animáció tempója: 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Erős színek</item>
         <item>Természetes színek, ahogyan azt az emberi szem is látja</item>
         <item>Digitális tartalomhoz optimalizált színek</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globális</item>

@@ -60,6 +60,18 @@
         <item>লগ বাফার প্রতি ৪M</item>
         <item>লগ বাফার প্রতি ১৬M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>বন্ধ আছে</item>
+        <item>সমস্ত</item>
+        <item>সমস্ত কিন্তু রেডিও</item>
+        <item>শুধুমাত্র কার্নেল</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>বন্ধ আছে</item>
+        <item>সমস্ত লগ বাফার</item>
+        <item>সমস্ত কিন্তু রেডিও লগ বাফারগুলি</item>
+        <item>শুধুমাত্র কার্নেল লগ বাফার</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>অ্যানিমেশন বন্ধ করুন</item>
         <item>অ্যানিমেশন স্কেল .৫x</item>
@@ -158,5 +170,10 @@
         <item>উন্নত রঙ</item>
         <item>স্বাভাবিক ভাবে আমরা চোখে যেমনটি দেখি সেইরূপ প্রাকৃতিক রঙ</item>
         <item>ডিজিট্যাল সামগ্রীর জন্য অপ্টিমাইজ করা রঙগুলি</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>০%</item>
+        <item>৫০%</item>
+        <item>১০০%</item>
     </string-array>
 </resources>

@@ -60,6 +60,18 @@
         <item>प्रति लॉग बफर 4M</item>
         <item>प्रति लॉग बफर 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>बंद</item>
+        <item>सर्व</item>
+        <item>सर्व परंतु रेडिओ</item>
+        <item>फक्त कर्नेल</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>बंद</item>
+        <item>सर्व लॉग बफर</item>
+        <item>सर्व परंतु रेडिओ लॉग बफर</item>
+        <item>फक्त कर्नेल लॉग बफर</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>अॅनिमेशन बंद</item>
         <item>अॅनिमेशन स्केल .5x</item>
@@ -159,6 +171,24 @@
         <item>डोळ्यांनी पाहिले तसे नैसर्गिक रंग</item>
         <item>डिजिटल सामग्रीसाठी ऑप्टिमाइझ केलेले रंग</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>कॉल करा</item>
+        <item>सिस्टीम</item>
+        <item>रिंग करा</item>
+        <item>मीडिया</item>
+        <item>अलार्म</item>
+        <item></item>
+        <item>ब्लूटुथ</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>तास, मिनिटे आणि सेकंद दर्शवा</item>
         <item>तास आणि मिनिटे दर्शवा (डीफॉल्ट)</item>
@@ -169,4 +199,5 @@
         <item>चार्ज करताना टक्केवारी दर्शवा (डीफॉल्ट)</item>
         <item>हे चिन्ह दर्शवू नका</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

@@ -4,6 +4,10 @@
         <item quantity="other">Teil on enne SIM-kaardi lukustumist jäänud veel %d katset.</item>
         <item quantity="one">Teil on enne SIM-kaardi lukustumist jäänud veel %d katse.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertifikaadi volitused on installitud</item>
+        <item quantity="one">Sertifikaadi volitus on installitud</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Veaaruande jaoks ekraanipildi jäädvustamine %d sekundi pärast.</item>
         <item quantity="one">Veaaruande jaoks ekraanipildi jäädvustamine %d sekundi pärast.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d tundi</item>
         <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dp</item>
+        <item quantity="one">%dp</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%da</item>
+        <item quantity="one">%da</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%dm pärast</item>
+        <item quantity="one">%dm pärast</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%dh pärast</item>
+        <item quantity="one">%dh pärast</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%dp pärast</item>
+        <item quantity="one">%dp pärast</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%da pärast</item>
+        <item quantity="one">%da pärast</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minutit tagasi</item>
+        <item quantity="one">%d minut tagasi</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d tundi tagasi</item>
+        <item quantity="one">%d tund tagasi</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d päeva tagasi</item>
+        <item quantity="one">%d päev tagasi</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d aastat tagasi</item>
+        <item quantity="one">%d aasta tagasi</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d minuti pärast</item>
+        <item quantity="one">%d minuti pärast</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d tunni pärast</item>
+        <item quantity="one">%d tunni pärast</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d päeva pärast</item>
+        <item quantity="one">%d päeva pärast</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d aasta pärast</item>
+        <item quantity="one">%d aasta pärast</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">WiFi-võrgud on saadaval</item>

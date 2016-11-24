@@ -37,8 +37,16 @@
         <item>Otra</item>
         <item>Personalizar</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Para hacer llamadas y enviar mensajes por Wi-Fi, debes pedir antes a tu operador que configure este servicio. Una vez hecho esto, vuelva a activar las llamadas Wi-Fi en Ajustes.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Regístrate con tu operador</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Llamada Wi-Fi de %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Trabajo</item>
         <item>Otro</item>
         <item>Personalizar</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>datos móviles</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

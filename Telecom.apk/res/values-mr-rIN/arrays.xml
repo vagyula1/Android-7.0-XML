@@ -60,6 +60,18 @@
         <item>प्रति लॉग बफर 4M</item>
         <item>प्रति लॉग बफर 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>बंद</item>
+        <item>सर्व</item>
+        <item>सर्व परंतु रेडिओ</item>
+        <item>फक्त कर्नेल</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>बंद</item>
+        <item>सर्व लॉग बफर</item>
+        <item>सर्व परंतु रेडिओ लॉग बफर</item>
+        <item>फक्त कर्नेल लॉग बफर</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>अॅनिमेशन बंद</item>
         <item>अॅनिमेशन स्केल .5x</item>
@@ -158,5 +170,10 @@
         <item>वर्धित रंग</item>
         <item>डोळ्यांनी पाहिले तसे नैसर्गिक रंग</item>
         <item>डिजिटल सामग्रीसाठी ऑप्टिमाइझ केलेले रंग</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

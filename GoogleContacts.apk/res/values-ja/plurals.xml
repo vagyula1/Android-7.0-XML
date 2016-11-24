@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d件見つかりました</item>
+        <item quantity="one">1件見つかりました</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s。%2$d件の未読項目。</item>
+        <item quantity="one">%1$s。%2$d件の未読項目。</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">連絡先を削除しました</item>
+        <item quantity="one">連絡先を削除しました</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">電話番号のある連絡先%d件</item>
+        <item quantity="one">電話番号のある連絡先1件</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d件見つかりました</item>
+        <item quantity="one">1件見つかりました</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$dグループ</item>
+        <item quantity="one">1グループ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$sから%1$d人</item>
+        <item quantity="one">%2$sから%1$d人</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d人</item>
+        <item quantity="one">%1$d人</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">リンクされた連絡先（%d件）</item>
+        <item quantity="one">リンクされた連絡先</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">重複の可能性のある連絡先（%d件）</item>
+        <item quantity="one">重複の可能性のある連絡先（1件）</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d件のリンクされた連絡先</item>
+        <item quantity="one">1件のリンクされた連絡先</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">（%d）</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

@@ -37,8 +37,16 @@
         <item>अन्य</item>
         <item>सानुकूल</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>वाय-फायवरून कॉल करण्यासाठी आणि संदेश पाठविण्यासाठी, प्रथम आपल्या वाहकास ही सेवा सेट करण्यास सांगा. नंतर सेटिंग्जमधून पुन्हा वाय-फाय कॉलिंग चालू करा.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>आपल्या वाहकासह नोंदणी करा</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s वाय-फाय कॉलिंग</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>कार्य</item>
         <item>अन्य</item>
         <item>सानुकूल</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>मोबाइल डेटा</item>
+        <item>वाय-फाय</item>
+        <item>ब्लूटुथ</item>
+        <item>इथरनेट</item>
+        <item>VPN</item>
     </string-array>
 </resources>

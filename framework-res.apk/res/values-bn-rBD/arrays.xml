@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>হোম</item>
+        <item>বাড়ি</item>
         <item>কর্মক্ষেত্র</item>
         <item>অন্যান্য</item>
         <item>কাস্টম</item>
@@ -22,7 +22,7 @@
         <item>কাস্টম</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>হোম</item>
+        <item>বাড়ি</item>
         <item>মোবাইল</item>
         <item>কর্মক্ষেত্র</item>
         <item>কর্মক্ষেত্রের ফ্যাক্স</item>
@@ -32,19 +32,34 @@
         <item>কাস্টম</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>হোম</item>
+        <item>বাড়ি</item>
         <item>কর্মক্ষেত্র</item>
         <item>অন্যান্য</item>
         <item>কাস্টম</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>ওয়াই-ফাই এর মাধ্যমে কল করতে ও বার্তা পাঠাতে, প্রথমে আপনার পরিষেবা প্রদানকারীকে এই পরিষেবার সেট আপ করার বিষয়ে জিজ্ঞাসা করুন। তারপরে আবার সেটিংস থেকে ওয়াই-ফাই কলিং চালু করুন।</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>আপনার পরিষেবা প্রদানকারীকে নথিভুক্ত করুন</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s ওয়াই-ফাই কলিং</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>হোম</item>
+        <item>বাড়ি</item>
         <item>কর্মক্ষেত্র</item>
         <item>অন্যান্য</item>
         <item>কাস্টম</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>সেলুলার ডেটা</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>ইথারনেট</item>
+        <item>VPN</item>
     </string-array>
 </resources>

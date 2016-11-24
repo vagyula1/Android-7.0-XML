@@ -12,25 +12,26 @@
     <public type="attr" name="suwHeader" id="0x7f010009" />
     <public type="attr" name="suwHeaderText" id="0x7f01000a" />
     <public type="attr" name="suwDividerInset" id="0x7f01000b" />
-    <public type="attr" name="suwAspectRatio" id="0x7f01000c" />
-    <public type="attr" name="suwHeaderColor" id="0x7f01000d" />
-    <public type="attr" name="suwStatusBarBackground" id="0x7f01000e" />
-    <public type="attr" name="suwBackground" id="0x7f01000f" />
-    <public type="attr" name="suwBackgroundTile" id="0x7f010010" />
-    <public type="attr" name="suwDecorPaddingTop" id="0x7f010011" />
-    <public type="attr" name="suwIllustration" id="0x7f010012" />
-    <public type="attr" name="suwIllustrationAspectRatio" id="0x7f010013" />
-    <public type="attr" name="suwIllustrationHorizontalTile" id="0x7f010014" />
-    <public type="attr" name="suwIllustrationImage" id="0x7f010015" />
-    <public type="attr" name="suwContainer" id="0x7f010016" />
+    <public type="attr" name="suwItemDescriptionStyle" id="0x7f01000c" />
+    <public type="attr" name="suwAspectRatio" id="0x7f01000d" />
+    <public type="attr" name="suwHeaderColor" id="0x7f01000e" />
+    <public type="attr" name="suwStatusBarBackground" id="0x7f01000f" />
+    <public type="attr" name="suwBackground" id="0x7f010010" />
+    <public type="attr" name="suwBackgroundTile" id="0x7f010011" />
+    <public type="attr" name="suwDecorPaddingTop" id="0x7f010012" />
+    <public type="attr" name="suwIllustration" id="0x7f010013" />
+    <public type="attr" name="suwIllustrationAspectRatio" id="0x7f010014" />
+    <public type="attr" name="suwIllustrationHorizontalTile" id="0x7f010015" />
+    <public type="attr" name="suwIllustrationImage" id="0x7f010016" />
+    <public type="attr" name="suwContainer" id="0x7f010017" />
     <public type="drawable" name="suw_navbar_ic_back" id="0x7f020005" />
     <public type="drawable" name="suw_navbar_ic_more" id="0x7f020006" />
     <public type="drawable" name="suw_navbar_ic_next" id="0x7f020007" />
     <public type="drawable" name="suw_layout_background" id="0x7f020003" />
     <public type="drawable" name="suw_card_bg" id="0x7f020002" />
     <public type="drawable" name="suw_navbar_btn_bg" id="0x7f020004" />
+    <public type="drawable" name="ic_corp_icon" id="0x7f020000" />
     <public type="drawable" name="quantum_ic_https_white_24" id="0x7f020001" />
-    <public type="drawable" name="briefcase_icon" id="0x7f020000" />
     <public type="layout" name="delete_managed_profile_dialog" id="0x7f030000" />
     <public type="layout" name="device_manager_icon_label" id="0x7f030001" />
     <public type="layout" name="encrypt_device" id="0x7f030002" />
@@ -87,49 +88,52 @@
     <public type="style" name="Animation.SuwWindowAnimation" id="0x7f060004" />
     <public type="style" name="SuwContentFrame" id="0x7f060005" />
     <public type="style" name="SuwDescription" id="0x7f060006" />
-    <public type="style" name="TextAppearance.SuwDescription.Light" id="0x7f060007" />
-    <public type="style" name="TextAppearance.SuwDescription.Secondary" id="0x7f060008" />
-    <public type="style" name="SuwRadioButton" id="0x7f060009" />
-    <public type="style" name="SuwCheckBox" id="0x7f06000a" />
-    <public type="style" name="SuwCheckBox.Multiline" id="0x7f06000b" />
-    <public type="style" name="SuwBaseCardTitle" id="0x7f06000c" />
-    <public type="style" name="SuwCardTitle" id="0x7f06000d" />
-    <public type="style" name="SuwGlifCardContainer" id="0x7f06000e" />
-    <public type="style" name="SuwBaseHeaderTitle" id="0x7f06000f" />
-    <public type="style" name="SuwHeaderTitle" id="0x7f060010" />
-    <public type="style" name="SuwItemContainer.Verbose" id="0x7f060011" />
-    <public type="style" name="SuwItemTitle.Verbose" id="0x7f060012" />
-    <public type="style" name="TextAppearance.SuwItemSummary" id="0x7f060013" />
-    <public type="style" name="SuwGlifHeaderTitle" id="0x7f060014" />
-    <public type="style" name="SuwGlifIcon" id="0x7f060015" />
-    <public type="style" name="TextAppearance.SuwGlifBody" id="0x7f060016" />
-    <public type="style" name="TextAppearance.SuwGlifItemTitle" id="0x7f060017" />
-    <public type="style" name="TextAppearance.SuwGlifItemSummary" id="0x7f060018" />
-    <public type="style" name="SuwNavBarTheme" id="0x7f060019" />
-    <public type="style" name="SetupWorkSpaceTheme" id="0x7f060025" />
-    <public type="style" name="TextOrCheckBox" id="0x7f060026" />
-    <public type="style" name="MainText" id="0x7f060027" />
-    <public type="style" name="CheckBox" id="0x7f060028" />
-    <public type="style" name="TransparentButton" id="0x7f060029" />
-    <public type="style" name="MainTextContainer" id="0x7f06002a" />
-    <public type="style" name="DialogFragmentTextContainer" id="0x7f06002b" />
-    <public type="style" name="DialogFragmentScrollView" id="0x7f06002c" />
-    <public type="style" name="ManagedProvisioningDialogTheme" id="0x7f06002d" />
+    <public type="style" name="SuwDescription.Glif" id="0x7f060007" />
+    <public type="style" name="TextAppearance.SuwDescription.Light" id="0x7f060008" />
+    <public type="style" name="TextAppearance.SuwDescription.Secondary" id="0x7f060009" />
+    <public type="style" name="SuwRadioButton" id="0x7f06000a" />
+    <public type="style" name="SuwCheckBox" id="0x7f06000b" />
+    <public type="style" name="SuwCheckBox.Multiline" id="0x7f06000c" />
+    <public type="style" name="SuwBaseCardTitle" id="0x7f06000d" />
+    <public type="style" name="SuwCardTitle" id="0x7f06000e" />
+    <public type="style" name="SuwGlifCardContainer" id="0x7f06000f" />
+    <public type="style" name="SuwBaseHeaderTitle" id="0x7f060010" />
+    <public type="style" name="SuwHeaderTitle" id="0x7f060011" />
+    <public type="style" name="SuwItemContainer.Description" id="0x7f060012" />
+    <public type="style" name="SuwItemContainer.Description.Glif" id="0x7f060013" />
+    <public type="style" name="SuwItemContainer.Verbose" id="0x7f060014" />
+    <public type="style" name="SuwItemTitle.Verbose" id="0x7f060015" />
+    <public type="style" name="TextAppearance.SuwItemSummary" id="0x7f060016" />
+    <public type="style" name="SuwGlifHeaderTitle" id="0x7f060017" />
+    <public type="style" name="SuwGlifIcon" id="0x7f060018" />
+    <public type="style" name="TextAppearance.SuwGlifBody" id="0x7f060019" />
+    <public type="style" name="TextAppearance.SuwGlifItemTitle" id="0x7f06001a" />
+    <public type="style" name="TextAppearance.SuwGlifItemSummary" id="0x7f06001b" />
+    <public type="style" name="SuwNavBarTheme" id="0x7f06001c" />
+    <public type="style" name="SetupWorkSpaceTheme" id="0x7f060028" />
+    <public type="style" name="TextOrCheckBox" id="0x7f060029" />
+    <public type="style" name="MainText" id="0x7f06002a" />
+    <public type="style" name="CheckBox" id="0x7f06002b" />
+    <public type="style" name="TransparentButton" id="0x7f06002c" />
+    <public type="style" name="MainTextContainer" id="0x7f06002d" />
+    <public type="style" name="DialogFragmentTextContainer" id="0x7f06002e" />
+    <public type="style" name="DialogFragmentScrollView" id="0x7f06002f" />
+    <public type="style" name="ManagedProvisioningDialogTheme" id="0x7f060030" />
     <public type="style" name="SuwThemeMaterial" id="0x7f060000" />
     <public type="style" name="SuwThemeMaterial.Light" id="0x7f060001" />
     <public type="style" name="SuwThemeGlif" id="0x7f060002" />
     <public type="style" name="SuwThemeGlif.Light" id="0x7f060003" />
-    <public type="style" name="TextAppearance.SuwDescription" id="0x7f06001a" />
-    <public type="style" name="TextAppearance.SuwCardTitle" id="0x7f06001b" />
-    <public type="style" name="SuwGlifCardBackground" id="0x7f06001c" />
-    <public type="style" name="SuwItemContainer" id="0x7f06001d" />
-    <public type="style" name="SuwItemTitle" id="0x7f06001e" />
-    <public type="style" name="SuwItemSummary" id="0x7f06001f" />
-    <public type="style" name="SuwButtonItem" id="0x7f060020" />
-    <public type="style" name="SuwButtonItem.Colored" id="0x7f060021" />
-    <public type="style" name="SuwNavBarButtonStyle" id="0x7f060022" />
-    <public type="style" name="SuwNavBarThemeDark" id="0x7f060023" />
-    <public type="style" name="SuwNavBarThemeLight" id="0x7f060024" />
+    <public type="style" name="TextAppearance.SuwDescription" id="0x7f06001d" />
+    <public type="style" name="TextAppearance.SuwCardTitle" id="0x7f06001e" />
+    <public type="style" name="SuwGlifCardBackground" id="0x7f06001f" />
+    <public type="style" name="SuwItemContainer" id="0x7f060020" />
+    <public type="style" name="SuwItemTitle" id="0x7f060021" />
+    <public type="style" name="SuwItemSummary" id="0x7f060022" />
+    <public type="style" name="SuwButtonItem" id="0x7f060023" />
+    <public type="style" name="SuwButtonItem.Colored" id="0x7f060024" />
+    <public type="style" name="SuwNavBarButtonStyle" id="0x7f060025" />
+    <public type="style" name="SuwNavBarThemeDark" id="0x7f060026" />
+    <public type="style" name="SuwNavBarThemeLight" id="0x7f060027" />
     <public type="color" name="suw_color_accent_dark" id="0x7f070000" />
     <public type="color" name="suw_color_accent_light" id="0x7f070001" />
     <public type="color" name="suw_link_color_dark" id="0x7f070002" />
@@ -140,17 +144,19 @@
     <public type="color" name="suw_progress_bar_color_light" id="0x7f070007" />
     <public type="color" name="suw_navbar_bg_dark" id="0x7f070008" />
     <public type="color" name="suw_navbar_bg_light" id="0x7f070009" />
-    <public type="color" name="text_black" id="0x7f07000a" />
-    <public type="color" name="black" id="0x7f07000b" />
-    <public type="color" name="gray" id="0x7f07000c" />
-    <public type="color" name="gray_50" id="0x7f07000d" />
-    <public type="color" name="white" id="0x7f07000e" />
-    <public type="color" name="teal" id="0x7f07000f" />
-    <public type="color" name="dark_teal" id="0x7f070010" />
-    <public type="color" name="dark_turquoise" id="0x7f070011" />
-    <public type="color" name="accent" id="0x7f070012" />
-    <public type="color" name="transparent" id="0x7f070013" />
-    <public type="color" name="orange" id="0x7f070014" />
+    <public type="color" name="suw_color_accent_glif_dark" id="0x7f07000a" />
+    <public type="color" name="suw_color_accent_glif_light" id="0x7f07000b" />
+    <public type="color" name="text_black" id="0x7f07000c" />
+    <public type="color" name="black" id="0x7f07000d" />
+    <public type="color" name="gray" id="0x7f07000e" />
+    <public type="color" name="gray_50" id="0x7f07000f" />
+    <public type="color" name="white" id="0x7f070010" />
+    <public type="color" name="teal" id="0x7f070011" />
+    <public type="color" name="dark_teal" id="0x7f070012" />
+    <public type="color" name="dark_turquoise" id="0x7f070013" />
+    <public type="color" name="accent" id="0x7f070014" />
+    <public type="color" name="transparent" id="0x7f070015" />
+    <public type="color" name="orange" id="0x7f070016" />
     <public type="integer" name="suwTransitionDuration" id="0x7f080000" />
     <public type="integer" name="activity_transition_duration" id="0x7f080001" />
     <public type="bool" name="suwUseTabletLayout" id="0x7f090000" />
@@ -170,73 +176,77 @@
     <public type="dimen" name="suw_description_margin_bottom_lists" id="0x7f0a000d" />
     <public type="dimen" name="suw_description_line_spacing_extra" id="0x7f0a000e" />
     <public type="dimen" name="suw_description_text_size" id="0x7f0a000f" />
-    <public type="dimen" name="suw_radio_button_margin_start" id="0x7f0a0010" />
-    <public type="dimen" name="suw_radio_button_margin_top" id="0x7f0a0011" />
-    <public type="dimen" name="suw_radio_button_margin_bottom" id="0x7f0a0012" />
-    <public type="dimen" name="suw_radio_button_padding_start" id="0x7f0a0013" />
-    <public type="dimen" name="suw_radio_button_line_spacing_extra" id="0x7f0a0014" />
-    <public type="dimen" name="suw_card_corner_radius" id="0x7f0a0015" />
-    <public type="dimen" name="suw_card_elevation" id="0x7f0a0016" />
-    <public type="dimen" name="suw_card_land_header_text_margin_top" id="0x7f0a0017" />
-    <public type="dimen" name="suw_card_port_margin_sides" id="0x7f0a0018" />
-    <public type="dimen" name="suw_card_title_padding_end" id="0x7f0a0019" />
-    <public type="dimen" name="suw_card_title_padding_start" id="0x7f0a001a" />
-    <public type="dimen" name="suw_card_title_padding_top" id="0x7f0a001b" />
-    <public type="dimen" name="suw_card_title_padding_bottom" id="0x7f0a001c" />
-    <public type="dimen" name="suw_tablet_illustration_height" id="0x7f0a001d" />
-    <public type="dimen" name="suw_decor_padding_top" id="0x7f0a001e" />
-    <public type="dimen" name="suw_glif_card_elevation" id="0x7f0a001f" />
-    <public type="dimen" name="suw_glif_card_width" id="0x7f0a0020" />
-    <public type="dimen" name="suw_glif_card_height" id="0x7f0a0021" />
-    <public type="dimen" name="suw_title_area_elevation" id="0x7f0a0022" />
-    <public type="dimen" name="suw_header_title_size" id="0x7f0a0023" />
-    <public type="dimen" name="suw_header_title_margin_bottom" id="0x7f0a0024" />
-    <public type="dimen" name="suw_header_title_padding_top" id="0x7f0a0025" />
-    <public type="dimen" name="suw_header_title_padding_bottom" id="0x7f0a0026" />
-    <public type="dimen" name="suw_header_title_line_spacing_extra" id="0x7f0a0027" />
-    <public type="dimen" name="suw_glif_header_title_margin_top" id="0x7f0a0028" />
-    <public type="dimen" name="suw_glif_header_title_margin_bottom" id="0x7f0a0029" />
-    <public type="dimen" name="suw_glif_icon_max_height" id="0x7f0a002a" />
-    <public type="dimen" name="suw_illustration_aspect_ratio" id="0x7f0a002b" />
-    <public type="dimen" name="suw_items_icon_container_width" id="0x7f0a002c" />
-    <public type="dimen" name="suw_items_padding_vertical" id="0x7f0a002d" />
-    <public type="dimen" name="suw_items_verbose_padding_vertical" id="0x7f0a002e" />
-    <public type="dimen" name="suw_items_icon_divider_inset" id="0x7f0a002f" />
-    <public type="dimen" name="suw_items_text_divider_inset" id="0x7f0a0030" />
-    <public type="dimen" name="suw_items_glif_icon_divider_inset" id="0x7f0a0031" />
-    <public type="dimen" name="suw_items_glif_text_divider_inset" id="0x7f0a0032" />
-    <public type="dimen" name="suw_items_padding_bottom_extra" id="0x7f0a0033" />
-    <public type="dimen" name="suw_items_verbose_padding_bottom_extra" id="0x7f0a0034" />
-    <public type="dimen" name="suw_items_preferred_height" id="0x7f0a0035" />
-    <public type="dimen" name="suw_navbar_button_drawable_padding" id="0x7f0a0036" />
-    <public type="dimen" name="suw_navbar_button_padding_sides" id="0x7f0a0037" />
-    <public type="dimen" name="suw_navbar_height" id="0x7f0a0038" />
-    <public type="dimen" name="suw_navbar_ic_intrinsic_size" id="0x7f0a0039" />
-    <public type="dimen" name="suw_navbar_padding_sides" id="0x7f0a003a" />
-    <public type="dimen" name="suw_navbar_text_size" id="0x7f0a003b" />
-    <public type="dimen" name="suw_progress_bar_margin_vertical" id="0x7f0a003c" />
-    <public type="dimen" name="suw_glif_progress_bar_margin_vertical" id="0x7f0a003d" />
-    <public type="dimen" name="main_text_padding_left_right" id="0x7f0a003e" />
-    <public type="dimen" name="main_text_padding_bottom" id="0x7f0a003f" />
-    <public type="dimen" name="main_text_padding_top" id="0x7f0a0040" />
-    <public type="dimen" name="main_text_padding_between_text" id="0x7f0a0041" />
-    <public type="dimen" name="main_text_size" id="0x7f0a0042" />
-    <public type="dimen" name="dialog_text_padding_left_right" id="0x7f0a0043" />
-    <public type="dimen" name="dialog_text_padding_bottom" id="0x7f0a0044" />
-    <public type="dimen" name="dialog_text_padding_top" id="0x7f0a0045" />
-    <public type="dimen" name="dialog_fragment_width" id="0x7f0a0046" />
-    <public type="dimen" name="dialog_fragment_margin_top_bottom" id="0x7f0a0047" />
-    <public type="dimen" name="button_text_size" id="0x7f0a0048" />
-    <public type="dimen" name="row_height" id="0x7f0a0049" />
-    <public type="dimen" name="row_padding_top" id="0x7f0a004a" />
-    <public type="dimen" name="checkbox_padding_left" id="0x7f0a004b" />
-    <public type="dimen" name="checkbox_margin_top" id="0x7f0a004c" />
-    <public type="dimen" name="mdm_app_name_padding_start" id="0x7f0a004d" />
-    <public type="dimen" name="icon_width_height" id="0x7f0a004e" />
-    <public type="dimen" name="logo_padding_bottom" id="0x7f0a004f" />
-    <public type="dimen" name="logo_padding_left_right" id="0x7f0a0050" />
-    <public type="dimen" name="max_logo_width" id="0x7f0a0051" />
-    <public type="dimen" name="max_logo_height" id="0x7f0a0052" />
+    <public type="dimen" name="suw_description_glif_margin_top" id="0x7f0a0010" />
+    <public type="dimen" name="suw_description_glif_margin_bottom_lists" id="0x7f0a0011" />
+    <public type="dimen" name="suw_radio_button_margin_start" id="0x7f0a0012" />
+    <public type="dimen" name="suw_radio_button_margin_top" id="0x7f0a0013" />
+    <public type="dimen" name="suw_radio_button_margin_bottom" id="0x7f0a0014" />
+    <public type="dimen" name="suw_radio_button_padding_start" id="0x7f0a0015" />
+    <public type="dimen" name="suw_radio_button_line_spacing_extra" id="0x7f0a0016" />
+    <public type="dimen" name="suw_card_corner_radius" id="0x7f0a0017" />
+    <public type="dimen" name="suw_card_elevation" id="0x7f0a0018" />
+    <public type="dimen" name="suw_card_land_header_text_margin_top" id="0x7f0a0019" />
+    <public type="dimen" name="suw_card_port_margin_sides" id="0x7f0a001a" />
+    <public type="dimen" name="suw_card_title_padding_end" id="0x7f0a001b" />
+    <public type="dimen" name="suw_card_title_padding_start" id="0x7f0a001c" />
+    <public type="dimen" name="suw_card_title_padding_top" id="0x7f0a001d" />
+    <public type="dimen" name="suw_card_title_padding_bottom" id="0x7f0a001e" />
+    <public type="dimen" name="suw_tablet_illustration_height" id="0x7f0a001f" />
+    <public type="dimen" name="suw_decor_padding_top" id="0x7f0a0020" />
+    <public type="dimen" name="suw_glif_card_elevation" id="0x7f0a0021" />
+    <public type="dimen" name="suw_glif_card_width" id="0x7f0a0022" />
+    <public type="dimen" name="suw_glif_card_height" id="0x7f0a0023" />
+    <public type="dimen" name="suw_title_area_elevation" id="0x7f0a0024" />
+    <public type="dimen" name="suw_header_elevation_hack" id="0x7f0a0025" />
+    <public type="dimen" name="suw_header_title_size" id="0x7f0a0026" />
+    <public type="dimen" name="suw_header_title_margin_bottom" id="0x7f0a0027" />
+    <public type="dimen" name="suw_header_title_padding_top" id="0x7f0a0028" />
+    <public type="dimen" name="suw_header_title_padding_bottom" id="0x7f0a0029" />
+    <public type="dimen" name="suw_header_title_line_spacing_extra" id="0x7f0a002a" />
+    <public type="dimen" name="suw_glif_header_title_margin_top" id="0x7f0a002b" />
+    <public type="dimen" name="suw_glif_header_title_margin_bottom" id="0x7f0a002c" />
+    <public type="dimen" name="suw_glif_icon_max_height" id="0x7f0a002d" />
+    <public type="dimen" name="suw_illustration_aspect_ratio" id="0x7f0a002e" />
+    <public type="dimen" name="suw_items_icon_container_width" id="0x7f0a002f" />
+    <public type="dimen" name="suw_items_padding_vertical" id="0x7f0a0030" />
+    <public type="dimen" name="suw_items_verbose_padding_vertical" id="0x7f0a0031" />
+    <public type="dimen" name="suw_items_icon_divider_inset" id="0x7f0a0032" />
+    <public type="dimen" name="suw_items_text_divider_inset" id="0x7f0a0033" />
+    <public type="dimen" name="suw_items_glif_icon_divider_inset" id="0x7f0a0034" />
+    <public type="dimen" name="suw_items_glif_text_divider_inset" id="0x7f0a0035" />
+    <public type="dimen" name="suw_items_padding_bottom_extra" id="0x7f0a0036" />
+    <public type="dimen" name="suw_items_verbose_padding_bottom_extra" id="0x7f0a0037" />
+    <public type="dimen" name="suw_items_preferred_height" id="0x7f0a0038" />
+    <public type="dimen" name="suw_navbar_button_drawable_padding" id="0x7f0a0039" />
+    <public type="dimen" name="suw_navbar_button_padding_sides" id="0x7f0a003a" />
+    <public type="dimen" name="suw_navbar_height" id="0x7f0a003b" />
+    <public type="dimen" name="suw_navbar_ic_intrinsic_size" id="0x7f0a003c" />
+    <public type="dimen" name="suw_navbar_padding_sides" id="0x7f0a003d" />
+    <public type="dimen" name="suw_navbar_text_size" id="0x7f0a003e" />
+    <public type="dimen" name="suw_progress_bar_margin_vertical" id="0x7f0a003f" />
+    <public type="dimen" name="suw_glif_progress_bar_margin_vertical" id="0x7f0a0040" />
+    <public type="dimen" name="main_text_padding_left_right" id="0x7f0a0041" />
+    <public type="dimen" name="main_text_padding_bottom" id="0x7f0a0042" />
+    <public type="dimen" name="main_text_padding_top" id="0x7f0a0043" />
+    <public type="dimen" name="main_text_padding_between_text" id="0x7f0a0044" />
+    <public type="dimen" name="main_text_size" id="0x7f0a0045" />
+    <public type="dimen" name="dialog_text_padding_left_right" id="0x7f0a0046" />
+    <public type="dimen" name="dialog_text_padding_bottom" id="0x7f0a0047" />
+    <public type="dimen" name="dialog_text_padding_top" id="0x7f0a0048" />
+    <public type="dimen" name="dialog_fragment_width" id="0x7f0a0049" />
+    <public type="dimen" name="dialog_fragment_margin_top_bottom" id="0x7f0a004a" />
+    <public type="dimen" name="button_text_size" id="0x7f0a004b" />
+    <public type="dimen" name="row_height" id="0x7f0a004c" />
+    <public type="dimen" name="row_padding_top" id="0x7f0a004d" />
+    <public type="dimen" name="button_padding_top" id="0x7f0a004e" />
+    <public type="dimen" name="checkbox_padding_left" id="0x7f0a004f" />
+    <public type="dimen" name="checkbox_margin_top" id="0x7f0a0050" />
+    <public type="dimen" name="mdm_app_name_padding_start" id="0x7f0a0051" />
+    <public type="dimen" name="icon_width_height" id="0x7f0a0052" />
+    <public type="dimen" name="logo_padding_bottom" id="0x7f0a0053" />
+    <public type="dimen" name="logo_padding_left_right" id="0x7f0a0054" />
+    <public type="dimen" name="max_logo_width" id="0x7f0a0055" />
+    <public type="dimen" name="max_logo_height" id="0x7f0a0056" />
     <public type="string" name="suw_next_button_label" id="0x7f0b0000" />
     <public type="string" name="suw_back_button_label" id="0x7f0b0001" />
     <public type="string" name="suw_more_button_label" id="0x7f0b0002" />
@@ -348,33 +358,36 @@
     <public type="id" name="device_manager_name" id="0x7f0d0008" />
     <public type="id" name="setup_wizard_layout" id="0x7f0d0009" />
     <public type="id" name="encrypt_main_text" id="0x7f0d000a" />
-    <public type="id" name="learn_more_text1" id="0x7f0d000b" />
-    <public type="id" name="learn_more_frp_warning" id="0x7f0d000c" />
-    <public type="id" name="learn_more_text2" id="0x7f0d000d" />
-    <public type="id" name="learn_more_link" id="0x7f0d000e" />
-    <public type="id" name="user_consent_checkbox" id="0x7f0d000f" />
-    <public type="id" name="positive_button" id="0x7f0d0010" />
-    <public type="id" name="negative_button" id="0x7f0d0011" />
-    <public type="id" name="prog_text" id="0x7f0d0012" />
-    <public type="id" name="suw_pattern_bg" id="0x7f0d0013" />
-    <public type="id" name="suw_layout_content" id="0x7f0d0014" />
-    <public type="id" name="suw_layout_icon" id="0x7f0d0015" />
-    <public type="id" name="suw_layout_title" id="0x7f0d0016" />
-    <public type="id" name="suw_layout_progress_stub" id="0x7f0d0017" />
-    <public type="id" name="suw_layout_progress" id="0x7f0d0018" />
-    <public type="id" name="suw_scroll_view" id="0x7f0d0019" />
-    <public type="id" name="suw_items_icon_container" id="0x7f0d001a" />
-    <public type="id" name="suw_items_icon" id="0x7f0d001b" />
-    <public type="id" name="suw_items_title" id="0x7f0d001c" />
-    <public type="id" name="suw_items_summary" id="0x7f0d001d" />
-    <public type="id" name="suw_layout_decor" id="0x7f0d001e" />
-    <public type="id" name="suw_layout_navigation_bar" id="0x7f0d001f" />
-    <public type="id" name="suw_navbar_back" id="0x7f0d0020" />
-    <public type="id" name="suw_navbar_more" id="0x7f0d0021" />
-    <public type="id" name="suw_navbar_next" id="0x7f0d0022" />
-    <public type="id" name="progress_bar" id="0x7f0d0023" />
-    <public type="id" name="suw_bottom_scroll_view" id="0x7f0d0024" />
-    <public type="id" name="suw_layout_header" id="0x7f0d0025" />
-    <public type="id" name="user_consent_message" id="0x7f0d0026" />
-    <public type="id" name="mdm_info_message" id="0x7f0d0027" />
+    <public type="id" name="encrypt_button" id="0x7f0d000b" />
+    <public type="id" name="learn_more_text1" id="0x7f0d000c" />
+    <public type="id" name="learn_more_frp_warning" id="0x7f0d000d" />
+    <public type="id" name="learn_more_text2" id="0x7f0d000e" />
+    <public type="id" name="learn_more_link" id="0x7f0d000f" />
+    <public type="id" name="user_consent_checkbox" id="0x7f0d0010" />
+    <public type="id" name="positive_button" id="0x7f0d0011" />
+    <public type="id" name="negative_button" id="0x7f0d0012" />
+    <public type="id" name="prog_text" id="0x7f0d0013" />
+    <public type="id" name="suw_pattern_bg" id="0x7f0d0014" />
+    <public type="id" name="suw_layout_content" id="0x7f0d0015" />
+    <public type="id" name="suw_layout_icon" id="0x7f0d0016" />
+    <public type="id" name="suw_layout_title" id="0x7f0d0017" />
+    <public type="id" name="suw_layout_progress_stub" id="0x7f0d0018" />
+    <public type="id" name="suw_layout_progress" id="0x7f0d0019" />
+    <public type="id" name="suw_layout_footer" id="0x7f0d001a" />
+    <public type="id" name="suw_scroll_view" id="0x7f0d001b" />
+    <public type="id" name="suw_items_icon_container" id="0x7f0d001c" />
+    <public type="id" name="suw_items_icon" id="0x7f0d001d" />
+    <public type="id" name="suw_items_title" id="0x7f0d001e" />
+    <public type="id" name="suw_items_summary" id="0x7f0d001f" />
+    <public type="id" name="suw_layout_decor" id="0x7f0d0020" />
+    <public type="id" name="suw_layout_navigation_bar" id="0x7f0d0021" />
+    <public type="id" name="suw_navbar_back" id="0x7f0d0022" />
+    <public type="id" name="suw_navbar_more" id="0x7f0d0023" />
+    <public type="id" name="suw_navbar_next" id="0x7f0d0024" />
+    <public type="id" name="progress_bar" id="0x7f0d0025" />
+    <public type="id" name="suw_bottom_scroll_view" id="0x7f0d0026" />
+    <public type="id" name="suw_layout_header" id="0x7f0d0027" />
+    <public type="id" name="user_consent_message" id="0x7f0d0028" />
+    <public type="id" name="mdm_info_message" id="0x7f0d0029" />
+    <public type="id" name="setup_button" id="0x7f0d002a" />
 </resources>

@@ -60,6 +60,18 @@
         <item>4 Mt / lokipuskuri</item>
         <item>16 Mt / lokipuskuri</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Ei käytössä</item>
+        <item>Kaikki</item>
+        <item>Kaikki paitsi radio</item>
+        <item>vain kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Ei käytössä</item>
+        <item>Kaikki lokipuskurit</item>
+        <item>Kaikki paitsi radiolokipuskurit</item>
+        <item>vain kernel-lokipuskuri</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animaatio pois käytöstä</item>
         <item>Animaatioasteikko 0,5-kertainen</item>
@@ -159,6 +171,24 @@
         <item>Ihmissilmän näkemät luonnolliset värit</item>
         <item>Digitaaliselle sisällölle parhaiten sopivat värit</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Soita</item>
+        <item>Järjestelmä</item>
+        <item>Soittoääni</item>
+        <item>Media</item>
+        <item>Herätys</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Näytä tunnit, minuutit ja sekunnit</item>
         <item>Näytä tunnit ja minuutit (oletus)</item>
@@ -169,4 +199,5 @@
         <item>Näytä prosenttiluku latauksen aikana (oletus)</item>
         <item>Älä näytä tätä kuvaketta</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

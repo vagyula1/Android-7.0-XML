@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">외 %d명</item>
+        <item quantity="one">외 1명</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">항목을 휴지통으로 이동하면 다음 위치에서도 삭제됨:</item>
+        <item quantity="one">항목을 휴지통으로 이동하면 다음 위치에서도 삭제됨:</item>
+    </plurals>
+    <plurals name="delete_on_device_title">
+        <item quantity="other">기기 사본을 삭제할까요?</item>
+        <item quantity="one">기기 사본을 삭제할까요?</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%1$d분</item>
+        <item quantity="zero">0분</item>
+        <item quantity="one">1분</item>
+        <item quantity="two">2분</item>
+        <item quantity="few">%1$d분</item>
+        <item quantity="many">%1$d분</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%1$d초</item>
+        <item quantity="zero">0초</item>
+        <item quantity="one">1초</item>
+        <item quantity="two">2초</item>
+        <item quantity="few">%1$d초</item>
+        <item quantity="many">%1$d초</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">항목이 너무 커서 기기의 휴지통에 버릴 수 없습니다. 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+        <item quantity="one">항목이 너무 커서 기기의 휴지통에 버릴 수 없습니다. 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d개 항목 스캔됨</item>
+        <item quantity="one">%1$d개 항목 스캔됨</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d개 항목 선택됨</item>
+        <item quantity="one">%1$d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="mm_analysis_warning_dialog_message">
+        <item quantity="other">동영상 %1$d개를 분석하지 못했습니다.</item>
+        <item quantity="zero">동영상 %1$d개를 분석하지 못했습니다.</item>
+        <item quantity="one">동영상 %1$d개를 분석하지 못했습니다.</item>
+        <item quantity="two">동영상 %1$d개를 분석하지 못했습니다.</item>
+        <item quantity="few">동영상 %1$d개를 분석하지 못했습니다.</item>
+        <item quantity="many">동영상 %1$d개를 분석하지 못했습니다.</item>
+    </plurals>
+    <plurals name="mm_minutes_word">
+        <item quantity="other">%1$d분</item>
+        <item quantity="zero">%1$d분</item>
+        <item quantity="one">%1$d분</item>
+        <item quantity="two">%1$d분</item>
+        <item quantity="few">%1$d분</item>
+        <item quantity="many">%1$d분</item>
+    </plurals>
+    <plurals name="mm_picker_selected">
+        <item quantity="other">%1$d개 선택됨</item>
+        <item quantity="zero">%1$d개 선택됨</item>
+        <item quantity="one">%1$d개 선택됨</item>
+        <item quantity="two">%1$d개 선택됨</item>
+        <item quantity="few">%1$d개 선택됨</item>
+        <item quantity="many">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="mm_seconds_word">
+        <item quantity="other">%1$d초</item>
+        <item quantity="zero">%1$d초</item>
+        <item quantity="one">%1$d초</item>
+        <item quantity="two">%1$d초</item>
+        <item quantity="few">%1$d초</item>
+        <item quantity="many">%1$d초</item>
+    </plurals>
+    <plurals name="mm_unsuitable_warning_dialog_message">
+        <item quantity="other">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+        <item quantity="zero">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+        <item quantity="one">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+        <item quantity="two">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+        <item quantity="few">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+        <item quantity="many">동영상을 사용할 수 없습니다. 동영상이 너무 짧거나 지원되지 않는 형식입니다.</item>
+    </plurals>
+    <plurals name="moved_to_trash_undo_text">
+        <item quantity="other">항목 %d개가 휴지통으로 이동됨</item>
+        <item quantity="one">항목 1개가 휴지통으로 이동됨</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">댓글 %d개</item>
+        <item quantity="one">댓글 %d개</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">앨범에서 %d개의 항목을 삭제하는 중...</item>
+        <item quantity="one">앨범에서 %d개의 항목을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">위치 %d개가 추가됨</item>
+        <item quantity="one">위치 %d개가 추가됨</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">위치 %d개</item>
+        <item quantity="one">위치 %d개</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">지도 %d개</item>
+        <item quantity="one">지도 %d개</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">지도 %d개가 추가됨</item>
+        <item quantity="one">지도 %d개가 추가됨</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">이 앨범에서 항목을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 항목을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">항목 %d개가 앨범에서 삭제되었습니다.</item>
+        <item quantity="one">항목 %d개가 앨범에서 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">이 앨범에서 사진을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 사진을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">이 앨범에서 동영상을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 동영상을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">기기 사본을 삭제할까요?</item>
+        <item quantity="one">기기 사본을 삭제할까요?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">이러한 항목은 포토 라이브러리에 백업되지 않으며 지금 삭제하면 포토에서 완전히 삭제됩니다.</item>
+        <item quantity="one">이 항목은 포토 라이브러리에 백업되지 않으며 지금 삭제하면 포토에서 영구적으로 삭제됩니다.</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_items_left">
+        <item quantity="other">항목 %d개 남음</item>
+        <item quantity="one">항목 %d개 남음</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_photos_to_back_up">
+        <item quantity="other">백업할 항목 %d개 남음</item>
+        <item quantity="one">백업할 항목 %d개 남음</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">사진 %1$d개가 백업되지 않음</item>
+        <item quantity="one">사진 %1$d개가 백업되지 않음</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">총 %d장의 사진</item>
+        <item quantity="one">총 %d장의 사진</item>
+    </plurals>
+    <plurals name="photos_collectionlist_album_items_count">
+        <item quantity="other">항목 %1$d개</item>
+        <item quantity="one">항목 1개</item>
+    </plurals>
+    <plurals name="photos_collectionlist_story_moments_count">
+        <item quantity="other">활동 %1$d개</item>
+        <item quantity="one">활동 1개</item>
+    </plurals>
+    <plurals name="photos_comments_ui_album_comment_badge_content_desc">
+        <item quantity="other">이 앨범의 댓글 %d개</item>
+        <item quantity="one">이 앨범의 댓글 %d개</item>
+    </plurals>
+    <plurals name="photos_create_album_subtitle_items">
+        <item quantity="other">항목 %d개</item>
+        <item quantity="one">항목 %d개</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">앨범에 최대 %d개의 항목을 추가할 수 있습니다.</item>
+        <item quantity="one">앨범에 최대 %d개의 항목을 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">항목을 %d개까지만 선택하세요.</item>
+        <item quantity="one">항목을 %d개까지만 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">항목을 %d개 이상 선택하세요.</item>
+        <item quantity="one">항목을 %d개 이상 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d일 이내의 항목을 선택하세요.</item>
+        <item quantity="one">%d일 이내의 항목을 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">앨범에 항목 %d개 추가 중…</item>
+        <item quantity="one">앨범에 항목 %d개 추가 중…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">앨범에 항목 %d개가 추가되었습니다.</item>
+        <item quantity="one">앨범에 항목 %d개가 추가되었습니다.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d주</item>
+        <item quantity="one">%d주</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$d개 항목을 삭제하시겠습니까?</item>
+        <item quantity="one">%1$d개 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d개의 원본 사진과 동영상 삭제 중</item>
+        <item quantity="one">%1$d개의 원본 사진 또는 동영상 삭제 중</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">새 카드 %d개</item>
+        <item quantity="one">새 카드 1개</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">라이브러리에 항목 저장 중...</item>
+        <item quantity="one">라이브러리에 항목 저장 중…</item>
+    </plurals>
+    <plurals name="photos_envelope_suggest_banner_related_photos_found">
+        <item quantity="other">%d장의 관련 사진이 있습니다. 추가하시겠습니까?</item>
+        <item quantity="one">%d장의 관련 사진이 있습니다. 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">폴더와 폴더에 포함된 항목 %d개 삭제</item>
+        <item quantity="one">폴더와 폴더에 포함된 항목 %d개 삭제</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">항목 %d개를 복사하는 중에 문제가 발생했습니다.</item>
+        <item quantity="one">항목 %d개를 복사하는 중에 문제가 발생했습니다.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">항목 %d개 복사됨</item>
+        <item quantity="one">항목 %d개 복사됨</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">항목 %d개를 이동하는 중에 문제가 발생했습니다.</item>
+        <item quantity="one">항목 %d개를 이동하는 중에 문제가 발생했습니다.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">항목 %d개 이동됨</item>
+        <item quantity="one">항목 %d개 이동됨</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d개 선택됨</item>
+        <item quantity="one">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">%d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">사진 및 동영상 %1$d개를 삭제할 수 없습니다.</item>
+        <item quantity="one">사진 또는 동영상 1개를 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">사진 및 동영상 %1$d개 삭제 중…</item>
+        <item quantity="one">사진 또는 동영상 1개 삭제 중…</item>
+    </plurals>
+    <plurals name="photos_share_add_recipients_progress">
+        <item quantity="other">사진 전송...</item>
+        <item quantity="one">사진 전송…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d개의 항목을 앨범에 추가했습니다.</item>
+        <item quantity="one">%d개의 항목을 앨범에 추가했습니다.</item>
+    </plurals>
+    <plurals name="photos_share_handler_photos_shared">
+        <item quantity="other">사진 공유됨</item>
+        <item quantity="one">사진 공유됨</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s 외 %2$d명</item>
+        <item quantity="one">%1$s 외 %2$d명</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_title">
+        <item quantity="other">항목 %d개</item>
+        <item quantity="one">항목 %d개</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">항목을 삭제할 수 없음</item>
+        <item quantity="one">항목을 삭제할 수 없음</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">기기 사본을 삭제할 수 없습니다.</item>
+        <item quantity="one">기기 사본을 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">기기 사본을 삭제했습니다.</item>
+        <item quantity="one">기기 사본을 삭제했습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d개 항목을 삭제할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d개 항목을 완전히 삭제할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 완전히 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">항목 완전히 삭제 중…</item>
+        <item quantity="one">항목 완전히 삭제 중…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d개 항목이 완전히 삭제되었습니다.</item>
+        <item quantity="one">%d개 항목이 완전히 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">항목 복원 중...</item>
+        <item quantity="one">항목 복원 중...</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d개 항목을 복원할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 복원할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">휴지통에서 %d개 항목이 복원되었습니다.</item>
+        <item quantity="one">휴지통에서 %d개 항목이 복원되었습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">항목을 완전히 삭제하시겠습니까?</item>
+        <item quantity="one">항목을 완전히 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">휴지통에서 항목을 삭제하면 되돌릴 수 없습니다.</item>
+        <item quantity="one">휴지통에서 항목을 삭제하면 되돌릴 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">항목을 삭제할까요?</item>
+        <item quantity="one">항목을 삭제할까요?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d개 항목 완전히 삭제</item>
+        <item quantity="one">1개 항목 완전히 삭제</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">이 버전의 만료일까지 %d일 남았습니다. Google 포토를 계속 사용하려면 지금 업데이트하세요.</item>
+        <item quantity="one">이 버전의 만료일까지 1일 남았습니다. Google 포토를 계속 사용하려면 지금 업데이트하세요.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">지금 이 항목을 백업하는 데 약 %s의 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+        <item quantity="one">지금 이 항목을 백업하는 데 약 %s의 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">이 항목을 백업하면 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+        <item quantity="one">이 항목을 백업하면 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">파일 %d개</item>
+        <item quantity="one">파일 %d개</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">사진 %s개</item>
+        <item quantity="one">사진 %s개</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s개 사진/동영상</item>
+        <item quantity="one">%s개 사진/동영상</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">동영상 %s개</item>
+        <item quantity="one">동영상 %s개</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">사진 선택</item>
+        <item quantity="one">사진 선택</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">항목 선택</item>
+        <item quantity="one">항목 선택</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">동영상 선택</item>
+        <item quantity="one">동영상 선택</item>
+    </plurals>
+    <plurals name="story_element_picker_tooltip">
+        <item quantity="other">콘텐츠 선택(%d개)</item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="story_warning_hit_min_photos">
+        <item quantity="other">스토리에는 사진이 %1$d장 이상 있어야 합니다.</item>
+        <item quantity="one">스토리에는 사진이 %1$d장 이상 있어야 합니다.</item>
+    </plurals>
+    <plurals name="story_warning_too_few_photos">
+        <item quantity="other">스토리용 사진을 %1$d장 이상 선택하세요.</item>
+        <item quantity="one">스토리용 사진을 %1$d장 이상 선택하세요.</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">기기의 휴지통이 가득 찼습니다. 이러한 항목을 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+        <item quantity="one">기기의 휴지통이 가득 찼습니다. 이 항목을 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+    </plurals>
+</resources>

@@ -60,6 +60,18 @@
         <item>४एम प्रति लग बफर</item>
         <item>१६एम प्रति लग बफर</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>निष्क्रिय</item>
+        <item>सबै</item>
+        <item>रेडियो बाहेक सबै</item>
+        <item>कर्नेल मात्र</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>निष्क्रिय</item>
+        <item>सबै लग सम्बन्धी बफरहरू</item>
+        <item>रेडियो सम्बन्धी लगका बफरहरू बाहेक सबै</item>
+        <item>कर्नेलको लग सम्बन्धी बफर मात्र</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>सजीविकरण बन्द</item>
         <item>सजीविकरण मापन .5x</item>
@@ -158,6 +170,11 @@
         <item>परिष्कृत रङ्गहरू</item>
         <item>आँखाले देख्ने प्राकृतिक रङ्गहरू</item>
         <item>डिजिटल सामग्रीको लागि अनुकूलित रङ्गहरु</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>०%</item>
+        <item>५०%</item>
+        <item>१००%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>विश्वव्यापी</item>

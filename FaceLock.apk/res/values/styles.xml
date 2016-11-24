@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Setup" parent="@android:style/Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Setup" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
     <style name="HeadlineText" parent="@android:style/TextAppearance">
         <item name="android:textSize">24.0sp</item>
         <item name="android:textColor">@color/title_text</item>
@@ -25,7 +25,7 @@
         <item name="android:singleLine">true</item>
     </style>
     <style name="PrimaryButton" parent="@style/Button">
-        <item name="android:textColor">@color/primary_scheme</item>
+        <item name="android:textColor">?android:colorAccent</item>
     </style>
     <style name="SecondaryButton" parent="@style/Button">
         <item name="android:textColor">@color/basic_text</item>

@@ -4,6 +4,10 @@
         <item quantity="other">概览中有 %d 个屏幕</item>
         <item quantity="one">概览中有 1 个屏幕</item>
     </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">此群组内还有 %s 条通知。</item>
+        <item quantity="one">此群组内还有 %s 条通知。</item>
+    </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">SIM 卡 PIN 码不正确，您还可尝试 %d 次。</item>
         <item quantity="one">SIM 卡 PIN 码不正确，您还可尝试 %d 次。如果仍不正确，则需要联系运营商帮您解锁设备。</item>

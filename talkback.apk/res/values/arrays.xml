@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="html_input_to_desc_values">
+        <item>Button</item>
+        <item>Check box</item>
+        <item>Color picker</item>
+        <item>Date time control</item>
+        <item>Date time control</item>
+        <item>Date control</item>
+        <item>Edit text for email</item>
+        <item>File selection</item>
+        <item></item>
+        <item>Button</item>
+        <item>Month control</item>
+        <item>Edit text numeric only</item>
+        <item>Password edit text</item>
+        <item>Radio button</item>
+        <item>Slider</item>
+        <item>Reset</item>
+        <item>Edit text for search</item>
+        <item>Button</item>
+        <item>Edit text for telephone number</item>
+        <item>Edit text</item>
+        <item>Edit text for URL</item>
+        <item>Week of the year control</item>
+    </string-array>
+    <string-array name="html_role_to_desc_values">
+        <item>Alert</item>
+        <item>Alert dialog</item>
+        <item>Button</item>
+        <item>Check box</item>
+        <item>Combo box</item>
+        <item>Dialog</item>
+        <item>Grid cell</item>
+        <item>Link</item>
+        <item>Log</item>
+        <item>Marquee</item>
+        <item>Menu item</item>
+        <item>Menu item check box</item>
+        <item>Menu item radio button</item>
+        <item>Option</item>
+        <item>Progress bar</item>
+        <item>Radio button</item>
+        <item>Radio button group</item>
+        <item>Scroll bar</item>
+        <item>Slider</item>
+        <item>Spin button</item>
+        <item>Status</item>
+        <item>Tab</item>
+        <item>Tab panel</item>
+        <item>Text box</item>
+        <item>Timer</item>
+        <item>Tool bar</item>
+        <item>Tool tip</item>
+        <item>Tree item</item>
+    </string-array>
+    <string-array name="html_tag_to_desc_values">
+        <item>Link</item>
+        <item>Heading one</item>
+        <item>Heading two</item>
+        <item>Heading three</item>
+        <item>Heading four</item>
+        <item>Heading five</item>
+        <item>Heading six</item>
+        <item>Button</item>
+        <item>Combo box</item>
+        <item>Table</item>
+        <item>Text area</item>
+    </string-array>
+    <string-array name="switch_access_color_entries">
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="switch_access_scanning_methods_entries">
+        <item>Row-column (keyboard only)</item>
+        <item>Row-column</item>
+        <item>Option scanning</item>
+    </string-array>
+    <string-array name="switch_access_weight_entries">
+        <item>Thin solid line</item>
+        <item>Medium solid line</item>
+        <item>Thick solid line</item>
+    </string-array>
     <string-array name="cursor_test_entries">
         <item>Giants</item>
         <item>Athletics</item>
@@ -45,30 +129,6 @@
         <item>url</item>
         <item>week</item>
     </string-array>
-    <string-array name="html_input_to_desc_values">
-        <item>Button</item>
-        <item>Check box</item>
-        <item>Color picker</item>
-        <item>Date time control</item>
-        <item>Date time control</item>
-        <item>Date control</item>
-        <item>Edit text for email</item>
-        <item>File selection</item>
-        <item></item>
-        <item>Button</item>
-        <item>Month control</item>
-        <item>Edit text numeric only</item>
-        <item>Password edit text</item>
-        <item>Radio button</item>
-        <item>Slider</item>
-        <item>Reset</item>
-        <item>Edit text for search</item>
-        <item>Button</item>
-        <item>Edit text for telephone number</item>
-        <item>Edit text</item>
-        <item>Edit text for URL</item>
-        <item>Week of the year control</item>
-    </string-array>
     <string-array name="html_role_to_desc_keys">
         <item>alert</item>
         <item>alertdialog</item>
@@ -99,36 +159,6 @@
         <item>tooltip</item>
         <item>treeitem</item>
     </string-array>
-    <string-array name="html_role_to_desc_values">
-        <item>Alert</item>
-        <item>Alert dialog</item>
-        <item>Button</item>
-        <item>Check box</item>
-        <item>Combo box</item>
-        <item>Dialog</item>
-        <item>Grid cell</item>
-        <item>Link</item>
-        <item>Log</item>
-        <item>Marquee</item>
-        <item>Menu item</item>
-        <item>Menu item check box</item>
-        <item>Menu item radio button</item>
-        <item>Option</item>
-        <item>Progress bar</item>
-        <item>Radio button</item>
-        <item>Radio button group</item>
-        <item>Scroll bar</item>
-        <item>Slider</item>
-        <item>Spin button</item>
-        <item>Status</item>
-        <item>Tab</item>
-        <item>Tab panel</item>
-        <item>Text box</item>
-        <item>Timer</item>
-        <item>Tool bar</item>
-        <item>Tool tip</item>
-        <item>Tree item</item>
-    </string-array>
     <string-array name="html_tag_to_desc_keys">
         <item>a</item>
         <item>h1</item>
@@ -142,19 +172,6 @@
         <item>table</item>
         <item>textarea</item>
     </string-array>
-    <string-array name="html_tag_to_desc_values">
-        <item>Link</item>
-        <item>Heading one</item>
-        <item>Heading two</item>
-        <item>Heading three</item>
-        <item>Heading four</item>
-        <item>Heading five</item>
-        <item>Heading six</item>
-        <item>Button</item>
-        <item>Combo box</item>
-        <item>Table</item>
-        <item>Text area</item>
-    </string-array>
     <integer-array name="notification_pattern">
         <item>0</item>
         <item>10</item>
@@ -163,6 +180,14 @@
         <item>10</item>
         <item>40</item>
     </integer-array>
+    <string-array name="pref_choose_trigger_modifier_entries">
+        <item>@string/keycombo_key_modifier_alt</item>
+        <item>@string/keycombo_key_modifier_meta</item>
+    </string-array>
+    <string-array name="pref_choose_trigger_modifier_values">
+        <item>@string/trigger_modifier_alt_entry_value</item>
+        <item>@string/trigger_modifier_meta_entry_value</item>
+    </string-array>
     <string-array name="pref_keyboard_echo_entries">
         <item>@string/value_keyboard_echo_always</item>
         <item>@string/value_keyboard_echo_softkeys</item>
@@ -201,6 +226,14 @@
         <item>@string/resume_screen_keyguard</item>
         <item>@string/resume_screen_manual</item>
     </string-array>
+    <string-array name="pref_select_keymap_entries">
+        <item>@string/value_classic_keymap</item>
+        <item>@string/value_default_keymap</item>
+    </string-array>
+    <string-array name="pref_select_keymap_values">
+        <item>@string/classic_keymap_entry_value</item>
+        <item>@string/default_keymap_entry_value</item>
+    </string-array>
     <string-array name="pref_shake_to_read_threshold_entries">
         <item>@string/value_shake_to_read_disabled</item>
         <item>@string/value_shake_to_read_threshold_very_light</item>
@@ -235,6 +268,7 @@
         <item>@string/shortcut_local_breakout</item>
         <item>@string/shortcut_read_from_top</item>
         <item>@string/shortcut_read_from_current</item>
+        <item>@string/shortcut_show_custom_actions</item>
     </string-array>
     <string-array name="pref_shortcut_values">
         <item>@string/shortcut_value_unassigned</item>
@@ -254,6 +288,7 @@
         <item>@string/shortcut_value_local_breakout</item>
         <item>@string/shortcut_value_read_from_top</item>
         <item>@string/shortcut_value_read_from_current</item>
+        <item>@string/shortcut_value_show_custom_actions</item>
     </string-array>
     <string-array name="pref_soundback_volume_entries">
         <item>@string/value_volume_100_percent</item>
@@ -291,13 +326,6 @@
         <item>@string/tap_sensitivity_value_low</item>
         <item>@string/tap_sensitivity_value_lowest</item>
     </string-array>
-    <string-array name="switch_access_color_entries">
-        <item>Green</item>
-        <item>Orange</item>
-        <item>Red</item>
-        <item>Blue</item>
-        <item>White</item>
-    </string-array>
     <string-array name="switch_access_color_values">
         <item>@string/material_green_500</item>
         <item>@string/material_orange_500</item>
@@ -326,20 +354,10 @@
         <item>@string/pref_highlight_3_weight_key</item>
         <item>@string/pref_highlight_4_weight_key</item>
     </string-array>
-    <string-array name="switch_access_scanning_methods_entries">
-        <item>Row-column scan keyboards only</item>
-        <item>Row-column scan everything</item>
-        <item>Option scanning</item>
-    </string-array>
     <string-array name="switch_access_scanning_methods_values">
         <item>@string/views_linear_ime_row_col_key</item>
         <item>@string/row_col_scanning_key</item>
         <item>@string/option_scanning_key</item>
-    </string-array>
-    <string-array name="switch_access_weight_entries">
-        <item>Thin solid line</item>
-        <item>Medium solid line</item>
-        <item>Thick solid line</item>
     </string-array>
     <string-array name="switch_access_weight_values">
         <item>@string/thickness_4_dp</item>

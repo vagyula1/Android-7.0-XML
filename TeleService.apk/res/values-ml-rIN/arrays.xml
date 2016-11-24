@@ -60,6 +60,18 @@
         <item>ഓരോ ലോഗ് ബഫറിനും 4M</item>
         <item>ഓരോ ലോഗ് ബഫറിനും 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ഓഫ്</item>
+        <item>എല്ലാം</item>
+        <item>റേഡിയോ ഒഴികെയുള്ള എല്ലാം</item>
+        <item>കേർനൽ മാത്രം</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ഓഫ്</item>
+        <item>എല്ലാ ലോഗ് ബഫറുകളും</item>
+        <item>റേഡിയോ ലോഗ് ബഫറുകൾ ഒഴികെയുള്ള എല്ലാം</item>
+        <item>കേർനൽ ലോഗ് ബഫർ മാത്രം</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ആനിമേഷൻ ഓഫുചെയ്യുക</item>
         <item>ആനിമേഷൻ സ്‌കെയിൽ .5x</item>
@@ -159,6 +171,11 @@
         <item>നമ്മൾ കാണുന്നത് പോലെയുള്ള സ്വാഭാവിക വർണ്ണങ്ങൾ</item>
         <item>ഡിജിറ്റൽ ഉള്ളടക്കത്തിനായി വർണ്ണങ്ങൾ ഒപ്റ്റിമൈസ് ചെയ്തു</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>ഗ്ലോബൽ</item>
         <item>LTE / CDMA</item>
@@ -209,7 +226,7 @@
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>സേവനദാതാവിന്റെ മാത്രം</item>
-        <item>യാന്ത്രികമായി</item>
+        <item>സ്വയമേവ</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/സിം</item>

@@ -60,6 +60,18 @@
         <item>4 MB pr. logbuffer</item>
         <item>16 MB pr. logbuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Slået fra</item>
+        <item>Alle</item>
+        <item>Radio undtaget</item>
+        <item>kun kerne</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Slået fra</item>
+        <item>Alle logbuffere</item>
+        <item>Alle undtagen radiologbuffere</item>
+        <item>kun logbuffer for kerne</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation fra</item>
         <item>Animationsskala 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Naturlige farver, som øjet opfatter dem</item>
         <item>Farver, der er optimeret til digitalt indhold</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Opkald</item>
+        <item>System</item>
+        <item>Ring</item>
+        <item>Medier</item>
+        <item>Alarm</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Vis timer, minutter og sekunder</item>
         <item>Vis timer og minutter (standard)</item>
@@ -169,4 +199,5 @@
         <item>Vis procent ved opladning (standard)</item>
         <item>Vis ikke dette ikon</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

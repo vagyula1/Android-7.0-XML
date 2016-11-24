@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="NalbumsWordCase">
-        <item quantity="other">%1$d albumia</item>
-        <item quantity="one">1 albumi</item>
+        <item quantity="other">%d albumia</item>
+        <item quantity="one">%d albumi</item>
     </plurals>
     <plurals name="NsongsWordCase">
         <item quantity="other">%1$d kappaletta</item>
@@ -10,46 +10,66 @@
     </plurals>
     <plurals name="NNNtrackstolibrary">
         <item quantity="other">%d kappaletta lisättiin kirjastoon.</item>
-        <item quantity="one">1 kappale lisättiin kirjastoon.</item>
+        <item quantity="one">%d kappale lisättiin kirjastoon.</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%1$d kappaletta lisättiin soittolistaan %2$s.</item>
-        <item quantity="one">1 kappale lisättiin soittolistaan %2$s.</item>
+        <item quantity="one">%1$d kappale lisättiin soittolistaan %2$s.</item>
     </plurals>
     <plurals name="NNsong_added">
-        <item quantity="other">Vain %1$d kappaletta lisättiin. Jonon enimmäismäärä on %2$d kappaletta.</item>
-        <item quantity="one">Vain 1 kappale lisättiin. Jonon enimmäismäärä on %2$d kappaletta.</item>
+        <item quantity="other">Vain %1$d kappaletta lisättiin. Jonon enimmäismäärä: %2$d.</item>
+        <item quantity="one">Vain %1$d kappale lisättiin. Jonon enimmäismäärä: %2$d.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">Jotkin näistä kappaleista ovat jo tällä soittolistalla.</item>
+        <item quantity="one">Tämä kappale on jo tällä soittolistalla.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">Lisätäänkö kappaleita toistamiseen?</item>
+        <item quantity="one">Lisätäänkö kappale toistamiseen?</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%1$d ALBUMIA</item>
-        <item quantity="one">1 ALBUMI</item>
+        <item quantity="other">%d ALBUMIA</item>
+        <item quantity="one">%d ALBUMI</item>
     </plurals>
     <plurals name="NartistsSelected">
-        <item quantity="other">%1$d artistia valittu</item>
-        <item quantity="one">1 artisti valittu</item>
+        <item quantity="other">%d artistia on valittuna</item>
+        <item quantity="one">%d artisti on valittuna</item>
     </plurals>
     <plurals name="NgenresSelected">
-        <item quantity="other">%1$d lajityyppiä valittu</item>
-        <item quantity="one">1 lajityyppi valittu</item>
+        <item quantity="other">%d lajityyppiä on valittuna.</item>
+        <item quantity="one">%d lajityyppi on valittuna.</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">%d uutta jaksoa</item>
+        <item quantity="one">Uusi jakso</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d jaksoa</item>
+        <item quantity="one">1 jakso</item>
     </plurals>
     <plurals name="Nscrubber_description_hours">
         <item quantity="other">%d tuntia</item>
-        <item quantity="one">1 tunti</item>
+        <item quantity="one">%d tunti</item>
     </plurals>
     <plurals name="Nscrubber_description_minutes">
         <item quantity="other">%d minuuttia</item>
-        <item quantity="one">1 minuutti</item>
+        <item quantity="one">%d minuutti</item>
     </plurals>
     <plurals name="Nscrubber_description_seconds">
         <item quantity="other">%d sekuntia</item>
-        <item quantity="one">1 sekunti</item>
+        <item quantity="one">%d sekunti</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%1$d kappaletta</item>
-        <item quantity="one">1 kappale</item>
+        <item quantity="other">%d kappaletta</item>
+        <item quantity="one">%d kappale</item>
     </plurals>
     <plurals name="Nsongs_removed">
-        <item quantity="other">%d kappaletta poistettu.</item>
-        <item quantity="one">Kappale poistettu.</item>
+        <item quantity="other">%d kappaletta poistettiin.</item>
+        <item quantity="one">Kappale poistettiin.</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">Enintään %d jäsentä</item>
+        <item quantity="one">Enintään %d jäsen</item>
     </plurals>
 </resources>

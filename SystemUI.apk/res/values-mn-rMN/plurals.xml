@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">дотор бусад %s мэдэгдэл байна.</item>
+        <item quantity="one">дотор бусад %s мэдэгдэл байна.</item>
+    </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">СИМ-ны ПИН код буруу байна. Та %d удаа оролдлого хийх боломжтой байна.</item>
         <item quantity="one">СИМ-ны ПИН код буруу байна. Танд мобайл оператортойгоо холбогдохгүйгээр төхөөрөмжийн түгжээг тайлахад %d оролдлого хийх боломж үлдсэн байна.</item>

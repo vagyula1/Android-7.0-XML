@@ -6,6 +6,12 @@
         <item quantity="few">Zostávajú vám %d pokusy, potom sa vaša SIM karta uzamkne.</item>
         <item quantity="many">Zostáva vám %d pokusu, potom sa vaša SIM karta uzamkne.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Boli nainštalované certifikačné autority</item>
+        <item quantity="one">Bola nainštalovaná certifikačná autorita</item>
+        <item quantity="few">Boli nainštalované certifikačné autority</item>
+        <item quantity="many">Boli nainštalované certifikačné autority</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Snímka obrazovky pre hlásenie chyby sa vytvorí o %d sekúnd.</item>
         <item quantity="one">Snímka obrazovky pre hlásenie chyby sa vytvorí o %d sekundu.</item>
@@ -35,6 +41,102 @@
         <item quantity="one">1 hodina</item>
         <item quantity="few">%d hodiny</item>
         <item quantity="many">%d hodiny</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
+        <item quantity="few">%dmin</item>
+        <item quantity="many">%dmin</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="few">%dh</item>
+        <item quantity="many">%dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+        <item quantity="few">%dd</item>
+        <item quantity="many">%dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dr</item>
+        <item quantity="one">%dr</item>
+        <item quantity="few">%dr</item>
+        <item quantity="many">%dr</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">o %dmin</item>
+        <item quantity="one">o %dmin</item>
+        <item quantity="few">o %dmin</item>
+        <item quantity="many">o %dmin</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">o %dh</item>
+        <item quantity="one">o %dh</item>
+        <item quantity="few">o %dh</item>
+        <item quantity="many">o %dh</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">o %dd</item>
+        <item quantity="one">o %dd</item>
+        <item quantity="few">o %dd</item>
+        <item quantity="many">o %dd</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">o %dr</item>
+        <item quantity="one">o %dr</item>
+        <item quantity="few">o %dr</item>
+        <item quantity="many">o %dr</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">pred %d minútami</item>
+        <item quantity="one">pred %d minútou</item>
+        <item quantity="few">pred %d minútami</item>
+        <item quantity="many">pred %d minútou</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred %d hodinou</item>
+        <item quantity="few">pred %d hodinami</item>
+        <item quantity="many">pred %d hodinou</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred %d dňom</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">pred %d rokmi</item>
+        <item quantity="one">pred %d rokom</item>
+        <item quantity="few">pred %d rokmi</item>
+        <item quantity="many">pred %d rokom</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">o %d minút</item>
+        <item quantity="one">o %d minútu</item>
+        <item quantity="few">o %d minúty</item>
+        <item quantity="many">o %d minúty</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">o %d hodín</item>
+        <item quantity="one">o %d hodinu</item>
+        <item quantity="few">o %d hodiny</item>
+        <item quantity="many">o %d hodiny</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">o %d dní</item>
+        <item quantity="one">o %d deň</item>
+        <item quantity="few">o %d dni</item>
+        <item quantity="many">o %d dňa</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">o %d rokov</item>
+        <item quantity="one">o %d rok</item>
+        <item quantity="few">o %d roky</item>
+        <item quantity="many">o %d roka</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">K dispozícii sú siete Wi-Fi</item>

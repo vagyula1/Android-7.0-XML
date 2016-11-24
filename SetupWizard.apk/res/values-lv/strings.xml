@@ -1,571 +1,627 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
-  <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
-  <string name="abc_action_bar_up_description">Pārvietoties augšup</string>
-  <string name="abc_action_menu_overflow_description">Vairāk opciju</string>
-  <string name="abc_action_mode_done">Gatavs</string>
-  <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
-  <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
-  <string name="abc_capital_off">IZSLĒGTS</string>
-  <string name="abc_capital_on">IESLĒGTS</string>
-  <string name="abc_search_hint">Meklējiet…</string>
-  <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
-  <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
-  <string name="abc_searchview_description_search">Meklēt</string>
-  <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
-  <string name="abc_searchview_description_voice">Meklēšana ar balsi</string>
-  <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
-  <string name="abc_shareactionprovider_share_with_application">Kopīgot ar %s</string>
-  <string name="abc_toolbar_collapse_description">Sakļaut</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Šī funkcija ir eksperimentāla un var ietekmēt veiktspēju.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Krāsu korekcija</string>
-  <string name="accessibility_no_wifi">Wi-Fi savienojums pārtraukts</string>
-  <string name="accessibility_wifi_off">Wi-Fi savienojums izslēgts</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi: viena josla</string>
-  <string name="accessibility_wifi_signal_full">Pilna piekļuve Wi-Fi signālam</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi: trīs joslas</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi: divas joslas</string>
-  <string name="account_exists_info">"Jūsu e-pasta ziņojumi, kontaktpersonas, kalendāra pasākumi un citi dati tiks sinhronizēti ar šo tālruni. Varat arī sākt lejupielādēt lietotnes, mūziku un spēles no pakalpojuma Google Play.
-
-Vēlāk varēsiet pievienot un noņemt kontus izvēlnē Iestatījumi &gt; Konti."</string>
-  <string name="account_exists_text_single">Konts &lt;annotation textAppearance="TextAppearance.SuwDescription.Medium"&gt;^1&lt;/annotation&gt; ir gatavs lieto&amp;#353;anai.</string>
-  <string name="account_exists_text_unknown_name">Jūsu konts ir gatavs.</string>
-  <string name="account_exists_title">{accounts,plural, =1{Konts ir pievienots}zero{Konti ir pievienoti}one{Konti ir pievienoti}other{Konti ir pievienoti}}</string>
-  <string name="activation_button_label">Aktivizēt</string>
-  <string name="activation_cancel_text">Notiek aktivizācijas atcelšana. Tā var ilgt 5–10 sekundes.</string>
-  <string name="activation_cancel_title">Atcelšana pieprasīta</string>
-  <string name="activation_canceled_text">"Vai vēlaties atcelt aktivizēšanu? Vispirms ir jāaktivizē mobilā tīkla pakalpojums, lai to izmantotu interneta savienojumam. 
-
-Pieskarieties vienumam "&lt;b&gt;T&amp;#257;l&amp;#257;k&lt;/b&gt;", lai pabeigtu iestat&amp;#299;&amp;#353;anu, izmantojot Wi-Fi&amp;#160;savienojumu.
-
-Varat aktiviz&amp;#275;t mobil&amp;#257; t&amp;#299;kla pakalpojumu v&amp;#275;l&amp;#257;k izv&amp;#275;ln&amp;#275; "&lt;b&gt;Sist&amp;#275;mas iestat&amp;#299;jumi&amp;#160;&amp;gt; Bezvadu savienojumi un t&amp;#299;kli&amp;#160;&amp;gt; Mobilie t&amp;#299;kli&lt;/b&gt;.</string>
-  <string name="activation_canceled_text_standalone">"Aktivizācija ir atcelta.
-
-Varat vēlāk aktivizēt datu pakalpojumu mobilajām ierīcēm sadaļā "&lt;b&gt;Sist&amp;#275;mas iestat&amp;#299;jumi&amp;#160;&amp;gt; Bezvadu savienojumi un t&amp;#299;kli&amp;#160;&amp;gt; Mobilie t&amp;#299;kli&lt;/b&gt;.</string>
-  <string name="activation_canceled_title">Aktivizācija atcelta</string>
-  <string name="activation_continue_skip_label">Turpināt</string>
-  <string name="activation_default_network_name">mob. tīkls</string>
-  <string name="activation_failed_message">"Varat:
-"&lt;li&gt;v&amp;#275;lreiz m&amp;#275;&amp;#291;in&amp;#257;t izveidot savienojumu ar mobilo datu t&amp;#299;klu;&lt;/li&gt;"
-"&lt;li&gt;iestat&amp;#299;&amp;#353;anai izmantot citu t&amp;#299;klu.&lt;/li&gt;"
-
-Ja &amp;#353;&amp;#299;s opcijas nedarbojas, varat ar&amp;#299; restart&amp;#275;t savu t&amp;#257;lruni un m&amp;#275;&amp;#291;in&amp;#257;t v&amp;#275;lreiz."</string>
-  <string name="activation_failed_title">Nav savienojuma ar mobilo datu tīklu</string>
-  <string name="activation_failure_text">"Pēc brīža mēģiniet vēlreiz. Ja problēma joprojām pastāv, restartējiet tālruni.
-
-Ja pašlaik vēlaties izlaist šo darbību, noteikti vēlāk aktivizējiet sistēmas iestatījumus. Kamēr nebūsiet tos aktivizējis, tālrunim nebūs mobilo datu savienojuma."</string>
-  <string name="activation_failure_text_gen">Jūsu datu pakalpojumu mobilajām ierīcēm nevar aktivizēt. Iespējams, šī ir īslaicīga problēma, kuru var atrisināt, restartējot tālruni.</string>
-  <string name="activation_failure_text_standalone">Nevarēja aktivizēt datu pakalpojumu mobilajām ierīcēm. Lai vēlreiz mēģinātu to aktivizēt, pieskarieties vienumam &lt;b&gt;M&amp;#275;&amp;#291;in&amp;#257;t v&amp;#275;lreiz&lt;/b&gt;".
-
-Varat aktiviz&amp;#275;t datu pakalpojumu mobilaj&amp;#257;m ier&amp;#299;c&amp;#275;m v&amp;#275;l&amp;#257;k izv&amp;#275;ln&amp;#275; "&lt;b&gt;Sist&amp;#275;mas iestat&amp;#299;jumi&amp;#160;&amp;gt; Bezvadu savienojumi un t&amp;#299;kli&amp;#160;&amp;gt; Mobilie t&amp;#299;kli&lt;/b&gt;.</string>
-  <string name="activation_failure_title">Nevarēja aktivizēt</string>
-  <string name="activation_network_bars_template">Signāla stiprums: %d stabiņi</string>
-  <string name="activation_progress">Aktivizācija var ilgt vairākas minūtes. Pieskarieties vienumam &lt;b&gt;Izlaist&lt;/b&gt;, lai pabeigtu iestat&amp;#299;&amp;#353;anu, izmantojot Wi-Fi&amp;#160;savienojumu.</string>
-  <string name="activation_progress_before_connect">Pieskarieties vienumam &lt;b&gt;Izlaist&lt;/b&gt;, lai pabeigtu iestat&amp;#299;&amp;#353;anu, izmantojot Wi-Fi&amp;#160;savienojumu.</string>
-  <string name="activation_progress_before_connect_standalone">Aktivizācija var ilgt dažas minūtes.</string>
-  <string name="activation_progress_flow">"Vai savienojuma izveide aizņem pārāk daudz laika?
-
-Savienojuma izveide ar mobilo datu tīklu notiek pārāk ilgi. Varat doties atpakaļ un mēģināt izveidot savienojumu ar citu tīklu."</string>
-  <string name="activation_progress_gen">Tas var aizņemt ne vairāk kā 5 minūtes.</string>
-  <string name="activation_progress_mobile_data">"Tālrunī tiek aktivizēts datu pakalpojums mobilajām ierīcēm.
-
-Šis process var ilgt 5 minūtes."</string>
-  <string name="activation_progress_standalone">Aktivizācija var ilgt dažas minūtes.</string>
-  <string name="activation_skip_confirmation">"Kamēr neaktivizēsiet datu pakalpojumu mobilajām ierīcēm, lielākā daļa tālruņa funkciju nedarbosies.
-
-Ja vēlaties izlaist šo darbību, noteikti vēlāk aktivizējiet pakalpojumu sadaļā Iestatījumi."</string>
-  <string name="activation_skip_text">Ja izlaidīsiet aktivizāciju, tā vēlāk būs jāveic izvēlnē “Iestatījumi”. Kamēr nebūs veikta aktivizācija, tālrunī nebūs pieejams mobilo datu savienojums.</string>
-  <string name="activation_spc_failure_text">Radās kļūda, tādēļ pirms atkārtota aktivizācijas mēģinājuma tālrunis ir jāizslēdz un jārestartē. Tālrunis tiks automātiski izslēgts pēc 60 sekundēm, taču varat arī pieskarties vienumam &lt;b&gt;Izsl&amp;#275;gt t&amp;#363;l&amp;#299;t&lt;/b&gt;".
-
-Tikl&amp;#299;dz t&amp;#257;lrunis b&amp;#363;s izsl&amp;#275;gts, nospiediet baro&amp;#353;anas pogu, lai to restart&amp;#275;tu. Aktiviz&amp;#257;cija tiks s&amp;#257;kta autom&amp;#257;tiski."</string>
-  <string name="activation_success_text">Pieskarieties vienumam &lt;b&gt;T&amp;#257;l&amp;#257;k&lt;/b&gt;, lai turpin&amp;#257;tu iestat&amp;#299;&amp;#353;anu.</string>
-  <string name="activation_success_text_gen">Lai pabeigtu aktivizāciju, ierīce ir jārestartē.</string>
-  <string name="activation_success_text_standalone">Pieskarieties vienumam &lt;b&gt;T&amp;#257;l&amp;#257;k&lt;/b&gt;", lai turpin&amp;#257;tu darbu.
-
-Aktiviz&amp;#257;cija bija veiksm&amp;#299;ga, tom&amp;#275;r var paiet da&amp;#382;as min&amp;#363;tes, l&amp;#299;dz mobilo datu t&amp;#299;kls k&amp;#316;&amp;#363;s pieejams."</string>
-  <string name="activation_success_title">Aktivizācija pabeigta</string>
-  <string name="activation_text">Pieskarieties vienumam &lt;b&gt;Aktiviz&amp;#275;t&lt;/b&gt;", lai aktiviz&amp;#275;tu mobilo datu pakalpojumu t&amp;#363;l&amp;#299;t (tas var ilgt da&amp;#382;as min&amp;#363;tes).
-
-Varat ar&amp;#299; pieskarties vienumam "&lt;b&gt;Izlaist&lt;/b&gt;, lai iestat&amp;#299;tu t&amp;#257;lruni, izmantojot Wi-Fi&amp;#160;savienojumu.</string>
-  <string name="activation_text_standalone">Pieskarieties vienumam &lt;b&gt;Aktiviz&amp;#275;t&lt;/b&gt;, lai aktiviz&amp;#275;tu mobilo datu pakalpojumu t&amp;#363;l&amp;#299;t (tas var ilgt da&amp;#382;as min&amp;#363;tes).</string>
-  <string name="activation_title">Notiek mobilā pakalpojuma aktivizēšana</string>
-  <string name="activation_title_activating">Notiek mobilā pakalpojuma aktivizēšana</string>
-  <string name="activation_title_searching">Notiek pakalpojuma meklēšana...</string>
-  <string name="adb_keys_warning_message">Vai atcelt piekļuvi USB atkļūdošanai no visiem datoriem, kuriem iepriekš piešķīrāt piekļuvi?</string>
-  <string name="adb_warning_message">USB atkļūdošana ir paredzēta tikai ar izstrādi saistītām darbībām. Izmantojiet to datu kopēšanai no datora uz ierīci un pretēji, lietotņu instalēšanai ierīcē bez paziņojumiem un žurnāla datu lasīšanai.</string>
-  <string name="adb_warning_title">Vai atļaut USB atkļūdošanu?</string>
-  <string name="allow_mock_location">Atļaut neīstas vietas</string>
-  <string name="allow_mock_location_summary">Atļaut neīstas vietas</string>
-  <string name="android_privacy_policy_title">Papildu konfidencialitātes politika</string>
-  <string name="animator_duration_scale_title">Animācijas ilguma mērogs</string>
-  <string name="apn_settings_not_available">Piekļuves punkta nosaukuma iestatījumi šim lietotājam nav pieejami.</string>
-  <string name="app_process_limit_title">Fona procesu ierobežojums</string>
-  <string name="available_via_passpoint">Pieejams, izmantojot %1$s</string>
-  <string name="battery_info_status_charging">Uzlāde</string>
-  <string name="battery_info_status_charging_ac">Maiņstrāvas uzlāde</string>
-  <string name="battery_info_status_charging_usb">USB uzlāde</string>
-  <string name="battery_info_status_charging_wireless">Bezvadu uzlāde</string>
-  <string name="battery_info_status_discharging">Nenotiek uzlāde</string>
-  <string name="battery_info_status_full">Pilns</string>
-  <string name="battery_info_status_not_charging">Nenotiek uzlāde</string>
-  <string name="battery_info_status_unknown">Nezināms</string>
-  <string name="bluetooth_a2dp_profile_summary_connected">Savienots ar multivides audio</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Izmantot multivides skaņai</string>
-  <string name="bluetooth_connected">Izveidots savienojums</string>
-  <string name="bluetooth_connected_no_a2dp">Sav. ir izveidots (nav multivides)</string>
-  <string name="bluetooth_connected_no_headset">Savienojums ir izveidots (nav tālruņa)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Sav. ir izveidots (nav tel. vai multiv.)</string>
-  <string name="bluetooth_connected_no_map">Savienots (nav piekļuves ziņojumam)</string>
-  <string name="bluetooth_connecting">Notiek savienojuma izveide…</string>
-  <string name="bluetooth_disable_absolute_volume">Atspējot absolūto skaļumu</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Atspējo Bluetooth absolūtā skaļuma funkciju skaļuma problēmu gadījumiem attālajās ierīcēs, piemēram, ja ir nepieņemami liels skaļums vai nav iespējas kontrolēt skaļumu.</string>
-  <string name="bluetooth_disconnected">Atvienots</string>
-  <string name="bluetooth_disconnecting">Notiek atvienošana...</string>
-  <string name="bluetooth_headset_profile_summary_connected">Savienots ar tālruņa audio</string>
-  <string name="bluetooth_headset_profile_summary_use_for">Izmantot tālruņa skaņai</string>
-  <string name="bluetooth_hid_profile_summary_connected">Izveidots savienojums ar ievades ierīci</string>
-  <string name="bluetooth_hid_profile_summary_use_for">Izmantot ievadei</string>
-  <string name="bluetooth_map_profile_summary_connected">Izveidots savienojums ar karti</string>
-  <string name="bluetooth_map_profile_summary_use_for">Lietot kartei</string>
-  <string name="bluetooth_opp_profile_summary_connected">Savienots ar failu pārsūtīšanas serveri</string>
-  <string name="bluetooth_opp_profile_summary_not_connected">Nav savienots ar failu pārsūtīšanas serveri</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Izmantot faila pārsūtīšanai</string>
-  <string name="bluetooth_pairing">Notiek pāra izveide...</string>
-  <string name="bluetooth_pairing_accept">Izveidot pāri</string>
-  <string name="bluetooth_pairing_accept_all_caps">SAVIENOT PĀRĪ</string>
-  <string name="bluetooth_pairing_decline">Atcelt</string>
-  <string name="bluetooth_pairing_device_down_error_message">Nevar sazināties ar ierīci %1$s.</string>
-  <string name="bluetooth_pairing_error_message">Nevarēja savienot pārī ar ierīci %1$s.</string>
-  <string name="bluetooth_pairing_pin_error_message">Nevarēja savienot pārī ar ierīci %1$s, jo tika ievadīts nepareizs PIN kods vai nepareiza ieejas atslēga.</string>
-  <string name="bluetooth_pairing_rejected_error_message">%1$s noraidīja pāra izveidi.</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Veicot savienošanu pārī, šī ierīce savienojuma laikā varēs piekļūt jūsu kontaktpersonām un zvanu vēsturei.</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Tiek kopliet. lok. intern. savien. ar ierīci</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Izmantot, lai piekļūtu internetam</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Savien. ar ier., lai nodr. int. piekļ.</string>
-  <string name="bluetooth_profile_a2dp">Multivides audio</string>
-  <string name="bluetooth_profile_headset">Tālruņa audio</string>
-  <string name="bluetooth_profile_hid">Ievades ierīce</string>
-  <string name="bluetooth_profile_map">Piekļuve ziņojumam</string>
-  <string name="bluetooth_profile_opp">Failu pārsūtīšana</string>
-  <string name="bluetooth_profile_pan">Interneta piekļuve</string>
-  <string name="bluetooth_profile_pan_nap">Interneta savienojuma koplietošana</string>
-  <string name="bluetooth_profile_pbap">Kontaktpersonas informācijas kopīgošana</string>
-  <string name="bluetooth_profile_pbap_summary">Izmantot kontaktpersonas informācijas kopīgošanai</string>
-  <string name="bluetooth_profile_sap">Piekļuve SIM kartei</string>
-  <string name="bluetooth_sap_profile_summary_connected">Savienots ar SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Izmantot, lai piekļūtu SIM kartei</string>
-  <string name="bt_hci_snoop_log">Iespējot Bluetooth HCI analizētāja žurnālu</string>
-  <string name="bt_hci_snoop_log_summary">Tvert visas Bluetooth HCI paketes failā</string>
-  <string name="bugreport_in_power">Kļūdu pārskata saīsne</string>
-  <string name="bugreport_in_power_summary">Izslēgšanas izvēlnē rādīt kļūdu pārskata veidošanas pogu</string>
-  <string name="button_convert_fbe">Dzēst un pārvērst…</string>
-  <string name="cancel_button_label">Atcelt</string>
-  <string name="canceled_a11y">Pieejamības režīms ir atcelts.</string>
-  <string name="cant_be_blank">Lauku nedrīkst atstāt neaizpildītu.</string>
-  <string name="captive_portal_connection_unsuccessful">Nevarēja izveidot savienojumu ar internetu.</string>
-  <string name="captive_portal_sign_in_dialog_title">Ir pieejams savienojums</string>
-  <string name="category_personal">Privāts</string>
-  <string name="category_work">Darba</string>
-  <string name="charge_length_format">Pirms šāda laika: %1$s</string>
-  <string name="check_qr_dependencies_again">Mēģināt vēlreiz</string>
-  <string name="choose_profile">Profila izvēlēšanās</string>
-  <string name="chrome_privacy_title">Chrome konfidencialitātes paziņojums</string>
-  <string name="chrome_tos_title">Chrome pakalpojumu sniegšanas noteikumi</string>
-  <string name="clear_adb_keys">Atsaukt piekļuvi USB atkļūdošanai</string>
-  <string name="close_button_label">Aizvērt</string>
-  <string name="common_google_play_services_api_unavailable_text">Lai lietotne %1$s darbotos, ir nepieciešams viens vai vairāki Google Play pakalpojumi, kas pašlaik nav pieejami. Lai saņemtu palīdzību, lūdzu, sazinieties ar izstrādātāju.</string>
-  <string name="common_google_play_services_enable_button">Iespējot Google Play pakalpojumus</string>
-  <string name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
-  <string name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
-  <string name="common_google_play_services_install_button">Iegūt Google Play pakalpojumus</string>
-  <string name="common_google_play_services_install_text_phone">Lai lietotne %1$s darbotos, tālrunī ir jāinstalē Google Play pakalpojumi.</string>
-  <string name="common_google_play_services_install_text_tablet">Lai lietotne %1$s darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi.</string>
-  <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
-  <string name="common_google_play_services_invalid_account_text">Norādītais konts šajā ierīcē nepastāv. Lūdzu, izvēlieties citu kontu.</string>
-  <string name="common_google_play_services_invalid_account_title">Nederīgs konts</string>
-  <string name="common_google_play_services_network_error_text">Lai izveidotu savienojumu ar Google Play pakalpojumiem, ir nepieciešams datu savienojums.</string>
-  <string name="common_google_play_services_network_error_title">Tīkla kļūda</string>
-  <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
-  <string name="common_google_play_services_restricted_profile_text">Piekļuve kontiem no ierobežota profila netiek atbalstīta.</string>
-  <string name="common_google_play_services_restricted_profile_title">Ierobežots profils</string>
-  <string name="common_google_play_services_sign_in_failed_text">Pierakstoties norādītajā kontā, radās kļūda. Lūdzu, izvēlieties citu kontu.</string>
-  <string name="common_google_play_services_sign_in_failed_title">Neizdevās pierakstīties</string>
-  <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Ja problēma joprojām pastāv, lūdzu, sazinieties ar izstrādātāju.</string>
-  <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi, taču tie jūsu ierīcē netiek atbalstīti. Sazinieties ar ražotāju, lai saņemtu palīdzību.</string>
-  <string name="common_google_play_services_unsupported_title">Google Play pakalpojumi</string>
-  <string name="common_google_play_services_update_button">Atjaunināt</string>
-  <string name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, ir jāatjaunina Google Play pakalpojumi.</string>
-  <string name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
-  <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
-  <string name="common_google_play_services_updating_title">Tiek atjaunināti Google Play pakalpojumi</string>
-  <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
-  <string name="common_open_on_phone">Atvērt tālrunī</string>
-  <string name="common_signin_button_text">Pierakstīties</string>
-  <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
-  <string name="confirm_enable_oem_unlock_text">BRĪDINĀJUMS. Kamēr šis iestatījums būs ieslēgts, ierīces aizsardzības funkcijas nedarbosies.</string>
-  <string name="confirm_enable_oem_unlock_title">Vai atļaut OEM atbloķēšanu?</string>
-  <string name="connected_via_passpoint">Savienots, izmantojot %1$s</string>
-  <string name="connected_via_wfa">Izveidots savienojums ar Wi‑Fi palīgu</string>
-  <string name="continue_for_a11y">Lai iespējotu pieejamības režīmu, turpiniet pieskarties ekrānam, līdz dzirdat skaņas signālu.</string>
-  <string name="convert_to_fbe_warning">"Pārvērtiet datu sadalījumu par failu līmeņa šifrējumu.
+    <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Ja problēma joprojām pastāv, lūdzu, sazinieties ar izstrādātāju.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
+    <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_install_text_phone">Lai lietotne %1$s darbotos, tālrunī ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_text_tablet">Lai lietotne %1$s darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_install_button">Iegūt Google Play pakalpojumus</string>
+    <string name="common_google_play_services_enable_title">Google Play pakalpojumu iespējošana</string>
+    <string name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir jāiespējo Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_enable_button">Iespējot Google Play pakalpojumus</string>
+    <string name="common_google_play_services_update_title">Google Play pakalpojumu atjaunināšana</string>
+    <string name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, ir jāatjaunina Google Play pakalpojumi.</string>
+    <string name="common_google_play_services_wear_update_text">Ir nepieciešama jauna Google Play pakalpojumu versija. Drīzumā tā tiks instalēta.</string>
+    <string name="common_google_play_services_updating_title">Tiek atjaunināti Google Play pakalpojumi</string>
+    <string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi. Pašlaik notiek to atjaunināšana.</string>
+    <string name="common_google_play_services_network_error_title">Tīkla kļūda</string>
+    <string name="common_google_play_services_network_error_text">Lai izveidotu savienojumu ar Google Play pakalpojumiem, ir nepieciešams datu savienojums.</string>
+    <string name="common_google_play_services_invalid_account_title">Nederīgs konts</string>
+    <string name="common_google_play_services_invalid_account_text">Norādītais konts šajā ierīcē nepastāv. Lūdzu, izvēlieties citu kontu.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play pakalpojumi</string>
+    <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir jāinstalē Google Play pakalpojumi, taču tie jūsu ierīcē netiek atbalstīti. Sazinieties ar ražotāju, lai saņemtu palīdzību.</string>
+    <string name="common_google_play_services_update_button">Atjaunināt</string>
+    <string name="common_open_on_phone">Atvērt tālrunī</string>
+    <string name="common_google_play_services_api_unavailable_text">Lai lietotne %1$s darbotos, ir nepieciešams viens vai vairāki Google Play pakalpojumi, kas pašlaik nav pieejami. Lai saņemtu palīdzību, lūdzu, sazinieties ar izstrādātāju.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Neizdevās pierakstīties</string>
+    <string name="common_google_play_services_sign_in_failed_text">Pierakstoties norādītajā kontā, radās kļūda. Lūdzu, izvēlieties citu kontu.</string>
+    <string name="common_google_play_services_restricted_profile_title">Ierobežots profils</string>
+    <string name="common_google_play_services_restricted_profile_text">Piekļuve kontiem no ierobežota profila netiek atbalstīta.</string>
+    <string name="common_signin_button_text">Pierakstīties</string>
+    <string name="common_signin_button_text_long">Pierakstīties ar Google kontu</string>
+    <string name="wifi_fail_to_scan">Nevar skenēt tīklus</string>
+    <string name="wifi_security_none">Nav</string>
+    <string name="wifi_remembered">Saglabāts</string>
+    <string name="wifi_disabled_generic">Atspējots</string>
+    <string name="wifi_disabled_network_failure">IP konfigurācijas kļūme</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi savienojuma kļūme</string>
+    <string name="wifi_disabled_password_failure">Autentificēšanas problēma</string>
+    <string name="wifi_not_in_range">Nav diapazona ietvaros</string>
+    <string name="wifi_no_internet_no_reconnect">Nevar noteikt interneta savienojumu. Savienojums netiks izveidots vēlreiz automātiski.</string>
+    <string name="wifi_no_internet">Nav piekļuves internetam.</string>
+    <string name="saved_network">Saglabāja: %1$s</string>
+    <string name="connected_via_wfa">Izveidots savienojums ar Wi‑Fi palīgu</string>
+    <string name="connected_via_passpoint">Savienots, izmantojot %1$s</string>
+    <string name="available_via_passpoint">Pieejams, izmantojot %1$s</string>
+    <string name="wifi_connected_no_internet">Savienots, nav piekļuves internetam</string>
+    <string name="bluetooth_disconnected">Atvienots</string>
+    <string name="bluetooth_disconnecting">Notiek atvienošana...</string>
+    <string name="bluetooth_connecting">Notiek savienojuma izveide…</string>
+    <string name="bluetooth_connected">Izveidots savienojums</string>
+    <string name="bluetooth_pairing">Notiek pāra izveide...</string>
+    <string name="bluetooth_connected_no_headset">Savienojums ir izveidots (nav tālruņa)</string>
+    <string name="bluetooth_connected_no_a2dp">Sav. ir izveidots (nav multivides)</string>
+    <string name="bluetooth_connected_no_map">Savienots (nav piekļuves ziņojumam)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Sav. ir izveidots (nav tel. vai multiv.)</string>
+    <string name="bluetooth_profile_a2dp">Multivides audio</string>
+    <string name="bluetooth_profile_headset">Tālruņa audio</string>
+    <string name="bluetooth_profile_opp">Failu pārsūtīšana</string>
+    <string name="bluetooth_profile_hid">Ievades ierīce</string>
+    <string name="bluetooth_profile_pan">Interneta piekļuve</string>
+    <string name="bluetooth_profile_pbap">Kontaktpersonas informācijas kopīgošana</string>
+    <string name="bluetooth_profile_pbap_summary">Izmantot kontaktpersonas informācijas kopīgošanai</string>
+    <string name="bluetooth_profile_pan_nap">Interneta savienojuma koplietošana</string>
+    <string name="bluetooth_profile_map">Piekļuve ziņojumam</string>
+    <string name="bluetooth_profile_sap">Piekļuve SIM kartei</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Savienots ar multivides audio</string>
+    <string name="bluetooth_headset_profile_summary_connected">Savienots ar tālruņa audio</string>
+    <string name="bluetooth_opp_profile_summary_connected">Savienots ar failu pārsūtīšanas serveri</string>
+    <string name="bluetooth_map_profile_summary_connected">Izveidots savienojums ar karti</string>
+    <string name="bluetooth_sap_profile_summary_connected">Savienots ar SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Nav savienots ar failu pārsūtīšanas serveri</string>
+    <string name="bluetooth_hid_profile_summary_connected">Izveidots savienojums ar ievades ierīci</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Savien. ar ier., lai nodr. int. piekļ.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Tiek kopliet. lok. intern. savien. ar ierīci</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Izmantot, lai piekļūtu internetam</string>
+    <string name="bluetooth_map_profile_summary_use_for">Lietot kartei</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Izmantot, lai piekļūtu SIM kartei</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Izmantot multivides skaņai</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Izmantot tālruņa skaņai</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Izmantot faila pārsūtīšanai</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Izmantot ievadei</string>
+    <string name="bluetooth_pairing_accept">Izveidot pāri</string>
+    <string name="bluetooth_pairing_accept_all_caps">SAVIENOT PĀRĪ</string>
+    <string name="bluetooth_pairing_decline">Atcelt</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Veicot savienošanu pārī, šī ierīce savienojuma laikā varēs piekļūt jūsu kontaktpersonām un zvanu vēsturei.</string>
+    <string name="bluetooth_pairing_error_message">Nevarēja savienot pārī ar ierīci %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Nevarēja savienot pārī ar ierīci %1$s, jo tika ievadīts nepareizs PIN kods vai nepareiza ieejas atslēga.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Nevar sazināties ar ierīci %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">%1$s noraidīja pāra izveidi.</string>
+    <string name="accessibility_wifi_off">Wi-Fi savienojums izslēgts</string>
+    <string name="accessibility_no_wifi">Wi-Fi savienojums pārtraukts</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi: viena josla</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi: divas joslas</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi: trīs joslas</string>
+    <string name="accessibility_wifi_signal_full">Pilna piekļuve Wi-Fi signālam</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="data_usage_uninstalled_apps">Noņemtās lietotnes</string>
+    <string name="data_usage_uninstalled_apps_users">Noņemtās lietotnes un lietotāji</string>
+    <string name="tether_settings_title_usb">USB saistīšana</string>
+    <string name="tether_settings_title_wifi">Pārnēsājams tīklājs</string>
+    <string name="tether_settings_title_bluetooth">Bluetooth saistīšana</string>
+    <string name="tether_settings_title_usb_bluetooth">Saistīšana</string>
+    <string name="tether_settings_title_all">Piesaiste un pārn. tīklājs</string>
+    <string name="managed_user_title">Visas darba grupas</string>
+    <string name="user_guest">Viesis</string>
+    <string name="unknown">Nezināms</string>
+    <string name="running_process_item_user_label">Lietotājs: %1$s</string>
+    <string name="launch_defaults_some">Iestatīti daži noklusējumi</string>
+    <string name="launch_defaults_none">Nav iestatīti noklusējumi</string>
+    <string name="tts_settings">Teksta-runas iestatījumi</string>
+    <string name="tts_settings_title">Teksta-runas izvade</string>
+    <string name="tts_default_rate_title">Runas ātrums</string>
+    <string name="tts_default_rate_summary">Teksta ierunāšanas ātrums</string>
+    <string name="tts_default_pitch_title">Tonis</string>
+    <string name="tts_default_pitch_summary">Ietekmē sintezētās runas toni</string>
+    <string name="tts_default_lang_title">Valoda</string>
+    <string name="tts_lang_use_system">Izmantot sistēmas valodu</string>
+    <string name="tts_lang_not_selected">Nav atlasīta valoda.</string>
+    <string name="tts_default_lang_summary">Runātajam tekstam iestata valodai raksturīgu balsi</string>
+    <string name="tts_play_example_title">Noklausīties piemēru</string>
+    <string name="tts_play_example_summary">Atskaņot īsu runas sintēzes demonstrāciju</string>
+    <string name="tts_install_data_title">Instalēt balss datus</string>
+    <string name="tts_install_data_summary">Instalēt runas sintēzei nepieciešamos balss datus</string>
+    <string name="tts_engine_security_warning">Lietojot šo runas sintēzes programmu, var tikt apkopots viss ierunātais teksts, tostarp tāda personīgā informācija kā paroles un kredītkaršu numuri. Tā ir no %s programmas. Vai iespējot šīs runas sintēzes programmas lietošanu?</string>
+    <string name="tts_engine_network_required">Lai izmantotu teksta pārveidošanu runā šajā valodā, ir nepieciešams aktīvs tīkla savienojums.</string>
+    <string name="tts_default_sample_string">Šis ir runas sintēzes piemērs.</string>
+    <string name="tts_status_title">Noklusējuma valodas statuss</string>
+    <string name="tts_status_ok">Lokalizācija %1$s tiek pilnībā atbalstīta</string>
+    <string name="tts_status_requires_network">Lokalizācijai %1$s nepieciešams tīkla savienojums.</string>
+    <string name="tts_status_not_supported">Lokalizācija %1$s netiek atbalstīta</string>
+    <string name="tts_status_checking">Notiek pārbaude...</string>
+    <string name="tts_engine_settings_title">Programmas %s iestatījumi</string>
+    <string name="tts_engine_settings_button">Programmas iestatījumu palaišana</string>
+    <string name="tts_engine_preference_section_title">Vēlamā programma</string>
+    <string name="tts_general_section_title">Vispārīgi</string>
+    <string name="tts_reset_speech_pitch_title">Atiestatīt runas skaņas augstumu</string>
+    <string name="tts_reset_speech_pitch_summary">Atiestatiet noklusējuma vērtību teksta izrunāšanas skaņas augstumam.</string>
+    <string name="choose_profile">Profila izvēlēšanās</string>
+    <string name="category_personal">Privāts</string>
+    <string name="category_work">Darba</string>
+    <string name="development_settings_title">Izstrādātāju opcijas</string>
+    <string name="development_settings_enable">Izstrādātājam paredzēto opciju iespējošana</string>
+    <string name="development_settings_summary">Iestatīt lietotņu izstrādes opcijas</string>
+    <string name="development_settings_not_available">Šim lietotājam nav pieejamas izstrādātāja opcijas.</string>
+    <string name="vpn_settings_not_available">VPN iestatījumi šim lietotājam nav pieejami.</string>
+    <string name="tethering_settings_not_available">Piesaistes iestatījumi šim lietotājam nav pieejami.</string>
+    <string name="apn_settings_not_available">Piekļuves punkta nosaukuma iestatījumi šim lietotājam nav pieejami.</string>
+    <string name="enable_adb">USB atkļūdošana</string>
+    <string name="enable_adb_summary">Atkļūdošanas režīms, kad ir pievienota kopne USB</string>
+    <string name="clear_adb_keys">Atsaukt piekļuvi USB atkļūdošanai</string>
+    <string name="bugreport_in_power">Kļūdu pārskata saīsne</string>
+    <string name="bugreport_in_power_summary">Izslēgšanas izvēlnē rādīt kļūdu pārskata veidošanas pogu</string>
+    <string name="keep_screen_on">Atstāt nomodā</string>
+    <string name="keep_screen_on_summary">Uzlādes laikā ekrāns nekad nepārslēgsies miega režīmā</string>
+    <string name="bt_hci_snoop_log">Iespējot Bluetooth HCI analizētāja žurnālu</string>
+    <string name="bt_hci_snoop_log_summary">Tvert visas Bluetooth HCI paketes failā</string>
+    <string name="oem_unlock_enable">OEM atbloķēšana</string>
+    <string name="oem_unlock_enable_summary">Atļaut palaišanas ielādētāja atbloķēšanu</string>
+    <string name="confirm_enable_oem_unlock_title">Vai atļaut OEM atbloķēšanu?</string>
+    <string name="confirm_enable_oem_unlock_text">BRĪDINĀJUMS. Kamēr šis iestatījums būs ieslēgts, ierīces aizsardzības funkcijas nedarbosies.</string>
+    <string name="mock_location_app">Atlasīt imitētas atrašanās vietas lietotni</string>
+    <string name="mock_location_app_not_set">Nav iestatīta imitētas atrašanās vietas lietotne</string>
+    <string name="mock_location_app_set">Imitētas atrašanās vietas lietotne: %1$s</string>
+    <string name="debug_networking_category">Tīklošana</string>
+    <string name="wifi_display_certification">Bezvadu attēlošanas sertifikācija</string>
+    <string name="wifi_verbose_logging">Iespējot Wi‑Fi detalizēto reģistrēšanu</string>
+    <string name="wifi_aggressive_handover">Agresīva pāreja no Wi‑Fi uz mobilo tīklu</string>
+    <string name="wifi_allow_scan_with_traffic">Vienmēr atļaut Wi‑Fi meklēšanu</string>
+    <string name="mobile_data_always_on">Vienmēr aktīvs mobilo datu savienojums</string>
+    <string name="bluetooth_disable_absolute_volume">Atspējot absolūto skaļumu</string>
+    <string name="wifi_display_certification_summary">Rādīt bezvadu attēlošanas sertifikācijas iespējas</string>
+    <string name="wifi_verbose_logging_summary">Palieliniet Wi‑Fi reģistrēšanas līmeni; rādīt katram SSID RSSI Wi‑Fi atlasītājā.</string>
+    <string name="wifi_aggressive_handover_summary">Ja opcija ir iespējota un Wi‑Fi signāls ir vājš, datu savienojuma pāreja no Wi-Fi uz mobilo tīklu tiks veikta agresīvāk.</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Atļaujiet/neatļaujiet Wi‑Fi meklēšanu, pamatojoties uz saskarnē saņemto datplūsmas apjomu.</string>
+    <string name="select_logd_size_title">Reģistrētāja buferu lielumi</string>
+    <string name="select_logd_size_dialog_title">Atlasīt reģistrētāja bufera liel.</string>
+    <string name="dev_logpersist_clear_warning_title">Vai notīrīt reģistrētāja pastāvīgo krātuvi?</string>
+    <string name="dev_logpersist_clear_warning_message">Kad uzraudzībai vairs neizmantojam pastāvīgo reģistrētāju, mums ir jāizdzēš reģistrētāja dati, kas tiek glabāti jūsu ierīcē.</string>
+    <string name="select_logpersist_title">Pastāvīgi glabāt ierīcē reģistrētāja datus</string>
+    <string name="select_logpersist_dialog_title">Atlasiet reģistra buferus, ko pastāvīgi glabāt ierīcē</string>
+    <string name="select_usb_configuration_title">Atlasīt USB konfigurāciju</string>
+    <string name="select_usb_configuration_dialog_title">Atlasīt USB konfigurāciju</string>
+    <string name="allow_mock_location">Atļaut neīstas vietas</string>
+    <string name="allow_mock_location_summary">Atļaut neīstas vietas</string>
+    <string name="debug_view_attributes">Iespējot atribūtu pārbaudi</string>
+    <string name="mobile_data_always_on_summary">Mobilo datu savienojums būs vienmēr aktīvs, pat ja būs aktīvs Wi-Fi savienojums (ātrai ierīces pārslēgšanai uz citu tīklu).</string>
+    <string name="adb_warning_title">Vai atļaut USB atkļūdošanu?</string>
+    <string name="adb_warning_message">USB atkļūdošana ir paredzēta tikai ar izstrādi saistītām darbībām. Izmantojiet to datu kopēšanai no datora uz ierīci un pretēji, lietotņu instalēšanai ierīcē bez paziņojumiem un žurnāla datu lasīšanai.</string>
+    <string name="adb_keys_warning_message">Vai atcelt piekļuvi USB atkļūdošanai no visiem datoriem, kuriem iepriekš piešķīrāt piekļuvi?</string>
+    <string name="dev_settings_warning_title">Vai atļaut izstrādes iestatījumus?</string>
+    <string name="dev_settings_warning_message">Šie iestatījumi ir paredzēti tikai izstrādei. To dēļ var tikt pārtraukta vai traucēta ierīces un lietojumprogrammu darbība.</string>
+    <string name="verify_apps_over_usb_title">Verificēt, ja instalētas no USB</string>
+    <string name="verify_apps_over_usb_summary">Pārbaudīt, vai lietotņu, kuru instalēšanai izmantots ADB/ADT, darbība nav kaitīga.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Atspējo Bluetooth absolūtā skaļuma funkciju skaļuma problēmu gadījumiem attālajās ierīcēs, piemēram, ja ir nepieņemami liels skaļums vai nav iespējas kontrolēt skaļumu.</string>
+    <string name="enable_terminal_title">Vietējā beigu lietotne</string>
+    <string name="enable_terminal_summary">Iespējot beigu lietotni, kurā piedāvāta vietējā čaulas piekļuve</string>
+    <string name="hdcp_checking_title">HDCP pārbaude</string>
+    <string name="hdcp_checking_dialog_title">HDCP pārb. iestatīšana</string>
+    <string name="debug_debugging_category">Atkļūdošana</string>
+    <string name="debug_app">Atlasīt atkļūdošanas lietotni</string>
+    <string name="debug_app_not_set">Nav iestatīta neviena atkļūdošanas lietotne</string>
+    <string name="debug_app_set">Atkļūdošanas lietotne: %1$s</string>
+    <string name="select_application">Lietotnes atlase</string>
+    <string name="no_application">Nekas</string>
+    <string name="wait_for_debugger">Gaidīt atkļūdotāju</string>
+    <string name="wait_for_debugger_summary">Gaida atkļūdotāju, ko pirms izp. piev. atkļ. liet.</string>
+    <string name="debug_input_category">Ievade</string>
+    <string name="debug_drawing_category">Zīmējums</string>
+    <string name="debug_hw_drawing_category">Aparatūras paātrinātā atveidošana</string>
+    <string name="media_category">Multivide</string>
+    <string name="debug_monitoring_category">Pārraudzība</string>
+    <string name="strict_mode">Precīzais rež. ir iespēj.</string>
+    <string name="strict_mode_summary">Zibsnīt ekrānu, ja liet. ilgi darbojas galv. pav.</string>
+    <string name="pointer_location">Rādītāja atrašanās vieta</string>
+    <string name="pointer_location_summary">Ekrāna pārklājums ar aktuāliem pieskāriena datiem</string>
+    <string name="show_touches">Rādīt pieskārienus</string>
+    <string name="show_touches_summary">Rādīt vizuālo reakciju pēc pieskārieniem</string>
+    <string name="show_screen_updates">Rādīt virsmas atjauninājumus WL: 294</string>
+    <string name="show_screen_updates_summary">Atjaunināt visa loga virsmas, kad tās tiek atjauninātas WL: 294</string>
+    <string name="show_hw_screen_updates">Rādīt GPU skat. atjaun.</string>
+    <string name="show_hw_screen_updates_summary">Atjaunināt logu skat., ja zīm. tiek liet. GPU.</string>
+    <string name="show_hw_layers_updates">Rādīt apar. slāņu atjaun.</string>
+    <string name="show_hw_layers_updates_summary">Atjaunin. aparatūras slāņiem ir jāmirgo zaļā krāsā</string>
+    <string name="debug_hw_overdraw">Atkļūdot graf. proc. kapac. pārsn.</string>
+    <string name="disable_overlays">Atspējot HW pārklājumus</string>
+    <string name="disable_overlays_summary">Vienmēr izmantot GPU atveidi ekrāna salikšanai</string>
+    <string name="simulate_color_space">Simulēt krāstelpu</string>
+    <string name="enable_opengl_traces_title">Iespējot OpenGL trases</string>
+    <string name="usb_audio_disable_routing">Atspējot USB audio maršr.</string>
+    <string name="usb_audio_disable_routing_summary">Atspējot auto maršr. uz USB audio ārējām ierīcēm</string>
+    <string name="debug_layout">Rādīt izkārtojuma robežas</string>
+    <string name="debug_layout_summary">Rādīt klipu robežas, malas utt.</string>
+    <string name="force_rtl_layout_all_locales">Virziens no labās uz kreiso (Obligāts) WL: 295</string>
+    <string name="force_rtl_layout_all_locales_summary">Obl. izkārt. virz. no labās uz kr. pusi visām lok.</string>
+    <string name="force_hw_ui">Piespiedu GPU render.</string>
+    <string name="force_hw_ui_summary">Izmantot GPU atveidi divdimensiju zīmējumiem</string>
+    <string name="force_msaa">4x MSAA piespiedu palaiš.</string>
+    <string name="force_msaa_summary">Iespējot 4x MSAA OpenGL ES 2.0 lietotnēs</string>
+    <string name="show_non_rect_clip">Atkļūdot darbības daļā, kas nav taisnstūris.</string>
+    <string name="track_frame_time">Profila GPU atveide</string>
+    <string name="window_animation_scale_title">Loga animācijas mērogs</string>
+    <string name="transition_animation_scale_title">Pārejas animācijas mērogs</string>
+    <string name="animator_duration_scale_title">Animācijas ilguma mērogs</string>
+    <string name="overlay_display_devices_title">Simulēt sekundāros ekr.</string>
+    <string name="debug_applications_category">Lietotnes</string>
+    <string name="immediately_destroy_activities">Nesaglabāt darbības</string>
+    <string name="immediately_destroy_activities_summary">Iznīcināt katru darbību, kad lietotājs to pārtrauc</string>
+    <string name="app_process_limit_title">Fona procesu ierobežojums</string>
+    <string name="show_all_anrs">Rādīt visus ANR</string>
+    <string name="show_all_anrs_summary">Rādīt fona lietotņu dialoglodz. Lietotne nereaģē</string>
+    <string name="force_allow_on_external">Lietotņu piespiedu atļaušana ārējā krātuvē</string>
+    <string name="force_allow_on_external_summary">Ļauj jebkuru lietotni ierakstīt ārējā krātuvē neatkarīgi no manifesta vērtības.</string>
+    <string name="force_resizable_activities">Pielāgot darbības</string>
+    <string name="force_resizable_activities_summary">Pielāgot visas darbības vairāku logu režīmam neatkarīgi no vērtībām manifestā.</string>
+    <string name="enable_freeform_support">Iespējot brīvās formas logus</string>
+    <string name="enable_freeform_support_summary">Iespējot eksperimentālo brīvās formas logu atbalstu.</string>
+    <string name="local_backup_password_title">Datora dublējuma parole</string>
+    <string name="local_backup_password_summary_none">Darbvirsmas pilnie dublējumi pašlaik nav aizsargāti.</string>
+    <string name="local_backup_password_summary_change">Pieskarieties, lai mainītu vai noņemtu paroli pilniem datora dublējumiem.</string>
+    <string name="local_backup_password_toast_success">Jaunā dublējuma parole ir iestatīta.</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Jaunā parole un apstiprinājums neatbilst.</string>
+    <string name="local_backup_password_toast_validation_failure">Iestatot dublējuma paroli, radās kļūme.</string>
+    <string name="inactive_apps_title">Neaktīvās lietotnes</string>
+    <string name="inactive_app_inactive_summary">Neaktīva. Pieskarieties, lai pārslēgtu.</string>
+    <string name="inactive_app_active_summary">Aktīva. Pieskarieties, lai pārslēgtu.</string>
+    <string name="runningservices_settings_title">Aktīvie pakalpojumi</string>
+    <string name="runningservices_settings_summary">Pašreiz darbojošos pakalpojumu skatīšana un vadība</string>
+    <string name="enable_webview_multiprocess">Vairākprocesu WebView</string>
+    <string name="enable_webview_multiprocess_desc">Palaist WebView renderētājus atsevišķi</string>
+    <string name="select_webview_provider_title">WebView ieviešana</string>
+    <string name="select_webview_provider_dialog_title">Iestatīt WebView ieviešanu</string>
+    <string name="select_webview_provider_toast_text">Šī iespēja vairs nav derīga. Mēģiniet vēlreiz.</string>
+    <string name="convert_to_file_encryption">Pārvērst par failu šifrējumu</string>
+    <string name="convert_to_file_encryption_enabled">Pārvērst…</string>
+    <string name="convert_to_file_encryption_done">Jau šifrēts failu līmenī</string>
+    <string name="title_convert_fbe">Pārvēršana par failu līmeņa šifrējumu</string>
+    <string name="convert_to_fbe_warning">"Pārvērtiet datu sadalījumu par failu līmeņa šifrējumu.
  Brīdinājums! Tiks dzēsti visi jūsu dati.
  Šī funkcija ir alfa izstrādes stadijā un var nedarboties, kā paredzēts.
  Lai turpinātu, nospiediet pogu “Dzēst un pārvērst…”"</string>
-  <string name="convert_to_file_encryption">Pārvērst par failu šifrējumu</string>
-  <string name="convert_to_file_encryption_done">Jau šifrēts failu līmenī</string>
-  <string name="convert_to_file_encryption_enabled">Pārvērst…</string>
-  <string name="daltonizer_mode_deuteranomaly">Deiteranomālija (sarkans/zaļš)</string>
-  <string name="daltonizer_mode_disabled">Atspējota</string>
-  <string name="daltonizer_mode_monochromacy">Vienkrāsains</string>
-  <string name="daltonizer_mode_protanomaly">Protanomālija (sarkans/zaļš)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomālija (zils/dzeltens)</string>
-  <string name="daltonizer_type_overridden">Jaunā preference: %1$s</string>
-  <string name="data_usage_uninstalled_apps">Noņemtās lietotnes</string>
-  <string name="data_usage_uninstalled_apps_users">Noņemtās lietotnes un lietotāji</string>
-  <string name="date_time_current_date">Datums</string>
-  <string name="date_time_current_time">Laiks</string>
-  <string name="date_time_message">Ja nepieciešams, veiciet izmaiņas.</string>
-  <string name="date_time_setup_title">Datums un laiks</string>
-  <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
-  <string name="debug_app">Atlasīt atkļūdošanas lietotni</string>
-  <string name="debug_app_not_set">Nav iestatīta neviena atkļūdošanas lietotne</string>
-  <string name="debug_app_set">Atkļūdošanas lietotne: %1$s</string>
-  <string name="debug_applications_category">Lietotnes</string>
-  <string name="debug_debugging_category">Atkļūdošana</string>
-  <string name="debug_drawing_category">Zīmējums</string>
-  <string name="debug_hw_drawing_category">Aparatūras paātrinātā atveidošana</string>
-  <string name="debug_hw_overdraw">Atkļūdot graf. proc. kapac. pārsn.</string>
-  <string name="debug_input_category">Ievade</string>
-  <string name="debug_layout">Rādīt izkārtojuma robežas</string>
-  <string name="debug_layout_summary">Rādīt klipu robežas, malas utt.</string>
-  <string name="debug_monitoring_category">Pārraudzība</string>
-  <string name="debug_networking_category">Tīklošana</string>
-  <string name="debug_view_attributes">Iespējot atribūtu pārbaudi</string>
-  <string name="dev_settings_warning_message">Šie iestatījumi ir paredzēti tikai izstrādei. To dēļ var tikt pārtraukta vai traucēta ierīces un lietojumprogrammu darbība.</string>
-  <string name="dev_settings_warning_title">Vai atļaut izstrādes iestatījumus?</string>
-  <string name="development_settings_enable">Izstrādātājam paredzēto opciju iespējošana</string>
-  <string name="development_settings_not_available">Šim lietotājam nav pieejamas izstrādātāja opcijas.</string>
-  <string name="development_settings_summary">Iestatīt lietotņu izstrādes opcijas</string>
-  <string name="development_settings_title">Izstrādātāju opcijas</string>
-  <string name="device_name">tālrunis</string>
-  <string name="device_owner_continue">Turpināt</string>
-  <string name="device_owner_reset">Atiestatīt tālruni</string>
-  <string name="device_owner_warning">Šo tālruni pārvalda “%1$s”. Tas nozīmē, ka daļa jūsu informācijas var būt redzama citām personām. Lai novērstu pārraudzību, atiestatiet tālruni.</string>
-  <string name="device_owner_warning_title">Tālruņa pārraudzības iespējamība</string>
-  <string name="dialog_back_button_label">Atpakaļ</string>
-  <string name="dialog_continue_button_label">Turpināt</string>
-  <string name="disable_overlays">Atspējot HW pārklājumus</string>
-  <string name="disable_overlays_summary">Vienmēr izmantot GPU atveidi ekrāna salikšanai</string>
-  <string name="disabled_by_admin">Atspējojis administrators</string>
-  <string name="disabled_by_admin_summary_text">Kontrolē administrators</string>
-  <string name="down_button_label">Vairāk</string>
-  <string name="download_qr_dependencies_failed_content">Nevarēja instalēt QR lasītāju.</string>
-  <string name="early_update_downloading_text">Notiek %s lejupielāde…</string>
-  <string name="early_update_installing_text">Notiek %s instalēšana…</string>
-  <string name="early_update_text">Pārbauda, vai ir pieejami atjauninājumi…</string>
-  <string name="early_update_title">Programmatūras atjaunināšana</string>
-  <string name="emergency_dial">Ārkārtas situācija</string>
-  <string name="enable_adb">USB atkļūdošana</string>
-  <string name="enable_adb_summary">Atkļūdošanas režīms, kad ir pievienota kopne USB</string>
-  <string name="enable_freeform_support">Iespējot brīvās formas logus</string>
-  <string name="enable_freeform_support_summary">Iespējot eksperimentālo brīvās formas logu atbalstu.</string>
-  <string name="enable_opengl_traces_title">Iespējot OpenGL trases</string>
-  <string name="enable_terminal_summary">Iespējot beigu lietotni, kurā piedāvāta vietējā čaulas piekļuve</string>
-  <string name="enable_terminal_title">Vietējā beigu lietotne</string>
-  <string name="enable_webview_multiprocess">Iespējot vairākprocesu WebView</string>
-  <string name="enable_webview_multiprocess_desc">Atsevišķā procesā tiek palaisti WebView renderētāji.</string>
-  <string name="enabled_a11y">Pieejamības režīms ir iespējots.</string>
-  <string name="enabled_by_admin">Iespējojis administrators</string>
-  <string name="exit_loading_launcher">Tiek ielādēta palaišanas programma…</string>
-  <string name="factory_reset_button">Dzēst un atiestatīt</string>
-  <string name="factory_reset_confirmation">Vai dzēst visus tālrunī saglabātos kontus un datus? Šo darbību nevar atsaukt.</string>
-  <string name="factory_reset_confirmation_title">Vai atiestatīt?</string>
-  <string name="factory_reset_instructions">Brīdinājums: veicot atiestatīšanu, tiks dzēsti visi šī tālruņa iekšējā atmiņā saglabātie konti un dati.</string>
-  <string name="factory_reset_title">Atiestatīt tālruni</string>
-  <string name="finish_button_label">Pabeigt</string>
-  <string name="flow_choice_new_label">Iestatīt kā jaunu</string>
-  <string name="flow_choice_restore_summary">Atjaunot dublējumu vai kopēt no ierīces</string>
-  <string name="flow_choice_title">^1 iestatīšana</string>
-  <string name="force_allow_on_external">Lietotņu piespiedu atļaušana ārējā krātuvē</string>
-  <string name="force_allow_on_external_summary">Ļauj jebkuru lietotni ierakstīt ārējā krātuvē neatkarīgi no manifesta vērtības.</string>
-  <string name="force_hw_ui">Piespiedu GPU render.</string>
-  <string name="force_hw_ui_summary">Izmantot GPU atveidi divdimensiju zīmējumiem</string>
-  <string name="force_msaa">4x MSAA piespiedu palaiš.</string>
-  <string name="force_msaa_summary">Iespējot 4x MSAA OpenGL ES 2.0 lietotnēs</string>
-  <string name="force_resizable_activities">Pielāgot darbības</string>
-  <string name="force_resizable_activities_summary">Pielāgot visas darbības vairāku logu režīmam neatkarīgi no vērtībām manifestā.</string>
-  <string name="force_rtl_layout_all_locales">Virziens no labās uz kreiso (Obligāts) WL: 295</string>
-  <string name="force_rtl_layout_all_locales_summary">Obl. izkārt. virz. no labās uz kr. pusi visām lok.</string>
-  <string name="go_back_button_label">Doties atpakaļ</string>
-  <string name="google_legal_title">Google juridiskā informācija</string>
-  <string name="google_play_tos_title">Google Play pakalp. sniegšanas noteikumi</string>
-  <string name="google_plus_privacy_policy_title">Google Plus konfidencialitātes politika</string>
-  <string name="google_privacy_policy_title">Google konfidencialitātes politika</string>
-  <string name="google_terms_of_service_title">Google pakalpojumu sniegšanas noteikumi</string>
-  <string name="got_it_button_label">Sapratu!</string>
-  <string name="hdcp_checking_dialog_title">HDCP pārb. iestatīšana</string>
-  <string name="hdcp_checking_title">HDCP pārbaude</string>
-  <string name="home">Sākums</string>
-  <string name="immediately_destroy_activities">Nesaglabāt darbības</string>
-  <string name="immediately_destroy_activities_summary">Iznīcināt katru darbību, kad lietotājs to pārtrauc</string>
-  <string name="inactive_app_active_summary">Aktīva. Pieskarieties, lai pārslēgtu.</string>
-  <string name="inactive_app_inactive_summary">Neaktīva. Pieskarieties, lai pārslēgtu.</string>
-  <string name="inactive_apps_title">Neaktīvās lietotnes</string>
-  <string name="invalid_qr_code_content">Pārbaudiet, vai ir ievadīts pareizais organizācijas QR kods, un mēģiniet vēlreiz.</string>
-  <string name="invalid_qr_code_retry">Mēģināt vēlreiz</string>
-  <string name="invalid_qr_code_title">QR kods nedarbojās</string>
-  <string name="keep_screen_on">Atstāt nomodā</string>
-  <string name="keep_screen_on_summary">Uzlādes laikā ekrāns nekad nepārslēgsies miega režīmā</string>
-  <string name="launch_defaults_none">Nav iestatīti noklusējumi</string>
-  <string name="launch_defaults_some">Iestatīti daži noklusējumi</string>
-  <string name="legacy_dhcp_client">Lietot mantoto DHCP klientu</string>
-  <string name="legacy_dhcp_client_summary">Lietot DHCP klientu no operētājsistēmas Lollipop, nevis jauno Android DHCP klientu.</string>
-  <string name="local_backup_password_summary_change">Pieskarieties, lai mainītu vai noņemtu paroli pilniem datora dublējumiem.</string>
-  <string name="local_backup_password_summary_none">Darbvirsmas pilnie dublējumi pašlaik nav aizsargāti.</string>
-  <string name="local_backup_password_title">Datora dublējuma parole</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Jaunā parole un apstiprinājums neatbilst.</string>
-  <string name="local_backup_password_toast_success">Jaunā dublējuma parole ir iestatīta.</string>
-  <string name="local_backup_password_toast_validation_failure">Iestatot dublējuma paroli, radās kļūme.</string>
-  <string name="managed_user_title">Darba profils</string>
-  <string name="media_category">Multivide</string>
-  <string name="mobile_data_always_on">Vienmēr aktīvs mobilo datu savienojums</string>
-  <string name="mobile_data_always_on_summary">Mobilo datu savienojums būs vienmēr aktīvs, pat ja būs aktīvs Wi-Fi savienojums (ātrai ierīces pārslēgšanai uz citu tīklu).</string>
-  <string name="mock_location_app">Atlasīt imitētas atrašanās vietas lietotni</string>
-  <string name="mock_location_app_not_set">Nav iestatīta imitētas atrašanās vietas lietotne</string>
-  <string name="mock_location_app_set">Imitētas atrašanās vietas lietotne: %1$s</string>
-  <string name="name_display_name_hint">piemēram, Jānis Bērziņš</string>
-  <string name="name_display_name_label">Vārds, uzvārds</string>
-  <string name="name_text">Ja pievienosiet savu vārdu, tālrunī varēsiet personalizēt dažas lietotnes.</string>
-  <string name="name_title">Vārds</string>
-  <string name="network_description_text_google_account_flow">Lai pierakstītos savā Google kontā, vispirms izveidojiet savienojumu ar internetu.</string>
-  <string name="network_description_text_new_flow">Lai turpinātu iestatīšanu, izveidojiet savienojumu ar internetu.</string>
-  <string name="network_description_text_restore_from_android_flow">Lai kopētu datus no savas Android ierīces, vispirms izveidojiet savienojumu ar internetu.</string>
-  <string name="network_see_all_wifi">Skatīt visus Wi‑Fi tīklus</string>
-  <string name="network_title">Savienojumu izveide</string>
-  <string name="network_use_cellular">Izmantot mobilo tīklu iestatīšanai</string>
-  <string name="no_application">Nekas</string>
-  <string name="notification_update_message">Pieskarieties šeit, lai atkārtoti palaistu iestatīšanas vedni.</string>
-  <string name="notification_update_title">Jāatjaunina konts</string>
-  <string name="oem_unlock_enable">OEM atbloķēšana</string>
-  <string name="oem_unlock_enable_summary">Atļaut palaišanas ielādētāja atbloķēšanu</string>
-  <string name="ok_button_label">Labi</string>
-  <string name="ota_agreement_text">Turpinot un saņemot šo programmatūras atjauninājumu, jūs piekrītat &lt;annotation link="tos"&gt;Google pakalpojumu snieg&amp;#353;anas noteikumiem&lt;/annotation&gt; un &lt;annotation link="google_privacy"&gt;konfidencialit&amp;#257;tes politikai&lt;/annotation&gt;.</string>
-  <string name="ota_info">Tālrunī ir jālejupielādē atjauninājums, un pēc tam tālrunis ir jārestartē.</string>
-  <string name="ota_size">Lielums: %s</string>
-  <string name="ota_update_title">Tālruņa atjaunināšana</string>
-  <string name="overlay_display_devices_title">Simulēt sekundāros ekr.</string>
-  <string name="picture_color_mode">Attēla krāsu režīms</string>
-  <string name="picture_color_mode_desc">Izmantot sRGB</string>
-  <string name="pointer_location">Rādītāja atrašanās vieta</string>
-  <string name="pointer_location_summary">Ekrāna pārklājums ar aktuāliem pieskāriena datiem</string>
-  <string name="power_charging">%1$s — %2$s</string>
-  <string name="power_charging_duration">%1$s — %2$s līdz pilnai uzlādei</string>
-  <string name="power_charging_duration_ac">%1$s — %2$s līdz pilnai maiņstrāvas uzlādei</string>
-  <string name="power_charging_duration_usb">%1$s — %2$s līdz pilnai USB uzlādei</string>
-  <string name="power_charging_duration_wireless">%1$s — %2$s līdz pilnai bezvadu uzlādei</string>
-  <string name="power_discharging_duration">%1$s — aptuvenais atlikušais laiks: %2$s</string>
-  <string name="power_remaining_duration_only">Atlikušais laiks: aptuveni %1$s</string>
-  <string name="process_kernel_label">Android OS</string>
-  <string name="qr_dependencies_check_timeout_text">Tas var aizņemt ne vairāk kā 2 minūtes.</string>
-  <string name="qr_dependencies_check_title">Notiek QR lasītāja instalēšana…</string>
-  <string name="qr_provision_user_consent_content_without_qr_library">"Lai iestatītu šo ierīci savai organizācijai, vispirms izveidojiet savienojumu ar tīklu un lejupielādējiet QR lasītāju.
+    <string name="button_convert_fbe">Dzēst un pārvērst…</string>
+    <string name="picture_color_mode">Attēla krāsu režīms</string>
+    <string name="picture_color_mode_desc">Izmantot sRGB</string>
+    <string name="daltonizer_mode_disabled">Atspējota</string>
+    <string name="daltonizer_mode_monochromacy">Vienkrāsains</string>
+    <string name="daltonizer_mode_deuteranomaly">Deiteranomālija (sarkans/zaļš)</string>
+    <string name="daltonizer_mode_protanomaly">Protanomālija (sarkans/zaļš)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomālija (zils/dzeltens)</string>
+    <string name="accessibility_display_daltonizer_preference_title">Krāsu korekcija</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Šī funkcija ir eksperimentāla un var ietekmēt veiktspēju.</string>
+    <string name="daltonizer_type_overridden">Jaunā preference: %1$s</string>
+    <string name="power_remaining_duration_only">Atlikušais laiks: aptuveni %1$s</string>
+    <string name="power_remaining_duration_only_short">Atlicis: %1$s</string>
+    <string name="power_discharging_duration">%1$s — aptuvenais atlikušais laiks: %2$s</string>
+    <string name="power_discharging_duration_short">%1$s — atlicis: %2$s</string>
+    <string name="power_charging">%1$s — %2$s</string>
+    <string name="power_charging_duration">%1$s — %2$s līdz pilnai uzlādei</string>
+    <string name="power_charging_duration_short">%1$s — %2$s</string>
+    <string name="power_charging_duration_ac">%1$s — %2$s līdz pilnai maiņstrāvas uzlādei</string>
+    <string name="power_charging_duration_ac_short">%1$s — %2$s</string>
+    <string name="power_charging_duration_usb">%1$s — %2$s līdz pilnai USB uzlādei</string>
+    <string name="power_charging_duration_usb_short">%1$s — %2$s</string>
+    <string name="power_charging_duration_wireless">%1$s — %2$s līdz pilnai bezvadu uzlādei</string>
+    <string name="power_charging_duration_wireless_short">%1$s — %2$s</string>
+    <string name="battery_info_status_unknown">Nezināms</string>
+    <string name="battery_info_status_charging">Uzlāde</string>
+    <string name="battery_info_status_charging_ac">Maiņstrāvas uzlāde</string>
+    <string name="battery_info_status_charging_ac_short">Notiek uzlāde</string>
+    <string name="battery_info_status_charging_usb">USB uzlāde</string>
+    <string name="battery_info_status_charging_usb_short">Notiek uzlāde</string>
+    <string name="battery_info_status_charging_wireless">Bezvadu uzlāde</string>
+    <string name="battery_info_status_charging_wireless_short">Notiek uzlāde</string>
+    <string name="battery_info_status_discharging">Nenotiek uzlāde</string>
+    <string name="battery_info_status_not_charging">Nenotiek uzlāde</string>
+    <string name="battery_info_status_full">Pilns</string>
+    <string name="disabled_by_admin_summary_text">Kontrolē administrators</string>
+    <string name="enabled_by_admin">Iespējojis administrators</string>
+    <string name="disabled_by_admin">Atspējojis administrators</string>
+    <string name="home">Iestatījumu sākumekrāns</string>
+    <string name="charge_length_format">Pirms šāda laika: %1$s</string>
+    <string name="remaining_length_format">Atlikušais laiks: %1$s</string>
+    <string name="screen_zoom_summary_small">Mazs</string>
+    <string name="screen_zoom_summary_default">Noklusējuma</string>
+    <string name="screen_zoom_summary_large">Liels</string>
+    <string name="screen_zoom_summary_very_large">Lielāks</string>
+    <string name="screen_zoom_summary_extremely_large">Vislielākais</string>
+    <string name="screen_zoom_summary_custom">Pielāgots (%d)</string>
+    <string name="help_feedback_label">Palīdzība un atsauksmes</string>
+    <string name="content_description_menu_button">Izvēlne</string>
+    <string name="suw_next_button_label">Tālāk</string>
+    <string name="suw_back_button_label">Atpakaļ</string>
+    <string name="suw_more_button_label">Vairāk</string>
+    <string name="abc_action_mode_done">Gatavs</string>
+    <string name="abc_action_bar_home_description">Pārvietoties uz sākuma ekrānu</string>
+    <string name="abc_action_bar_up_description">Pārvietoties augšup</string>
+    <string name="abc_action_menu_overflow_description">Vairāk opciju</string>
+    <string name="abc_toolbar_collapse_description">Sakļaut</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_searchview_description_search">Meklēt</string>
+    <string name="abc_search_hint">Meklējiet…</string>
+    <string name="abc_searchview_description_query">Meklēšanas vaicājums</string>
+    <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
+    <string name="abc_searchview_description_submit">Iesniegt vaicājumu</string>
+    <string name="abc_searchview_description_voice">Meklēšana ar balsi</string>
+    <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="abc_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="abc_shareactionprovider_share_with_application">Kopīgot ar %s</string>
+    <string name="abc_shareactionprovider_share_with">Kopīgot ar:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">IESLĒGTS</string>
+    <string name="abc_capital_off">IZSLĒGTS</string>
+    <string name="search_menu_title">Meklēt</string>
+    <string name="setup_wizard_title">Iestatīšanas vednis</string>
+    <string name="device_name">tālrunis</string>
+    <string name="finish_button_label">Pabeigt</string>
+    <string name="skip_button_label">Izlaist</string>
+    <string name="skip_anyway_button_label">Tik un tā izlaist</string>
+    <string name="go_back_button_label">Doties atpakaļ</string>
+    <string name="down_button_label">Vairāk</string>
+    <string name="cancel_button_label">Atcelt</string>
+    <string name="restart_button_label">Restartēt</string>
+    <string name="try_again_button_label">Mēģināt vēlreiz</string>
+    <string name="close_button_label">Aizvērt</string>
+    <string name="got_it_button_label">Sapratu!</string>
+    <string name="ok_button_label">Labi</string>
+    <string name="dialog_back_button_label">Atpakaļ</string>
+    <string name="dialog_continue_button_label">Turpināt</string>
+    <string name="google_legal_title">Google juridiskā informācija</string>
+    <string name="url_load_unsuccessful_message">Jūsu tālrunis nav savienots ar datu pakalpojumu mobilajām ierīcēm. Lai skatītu šo informāciju, tīmekļa pārlūkprogrammā apmeklējiet vietni %s.</string>
+    <string name="start">Aiziet!</string>
+    <string name="wait_msg">Vienu mirkli…</string>
+    <string name="skip_toast">Iestatīšanas vednis izlaists</string>
+    <string name="terminate_toast">"Iestatīšanas vedņa darbība ir pabeigta.
+Ierīce nav nodrošināta."</string>
+    <string name="activation_title">Notiek mobilā pakalpojuma aktivizēšana</string>
+    <string name="activation_progress_flow">"Vai savienojuma izveide aizņem pārāk daudz laika?
 
-Pēc tam izmantojiet kameru, lai skenētu savas organizācijas QR kodu."</string>
-  <string name="qr_provision_user_consent_title">QR koda iestatīšana</string>
-  <string name="reboot_button_label">Restartēt</string>
-  <string name="remaining_length_format">Atlikušais laiks: %1$s</string>
-  <string name="restart_button_label">Restartēt</string>
-  <string name="restart_setup_wizard_button_label">Iestatīt tālruni</string>
-  <string name="restart_setup_wizard_dialog_text">"Lai izmantotu šo tālruni, jums vispirms jāpierakstās īpašnieka Google kontā, kas tika lietots šajā ierīcē iepriekšējās atiestatīšanas laikā.
+Savienojuma izveide ar mobilo datu tīklu notiek pārāk ilgi. Varat doties atpakaļ un mēģināt izveidot savienojumu ar citu tīklu."</string>
+    <string name="activation_failed_title">Nav savienojuma ar mobilo datu tīklu</string>
+    <string name="activation_failed_message">"Varat:
+"<li>vēlreiz mēģināt izveidot savienojumu ar mobilo datu tīklu;</li>"
+"<li>iestatīšanai izmantot citu tīklu.</li>"
+
+Ja šīs opcijas nedarbojas, varat arī restartēt savu tālruni un mēģināt vēlreiz."</string>
+    <string name="activation_title_searching">Notiek pakalpojuma meklēšana...</string>
+    <string name="activation_title_activating">Notiek mobilā pakalpojuma aktivizēšana</string>
+    <string name="activation_default_network_name">mob. tīkls</string>
+    <string name="activation_network_bars_template">Signāla stiprums: %d stabiņi</string>
+    <string name="activation_text">Pieskarieties vienumam <b>Aktivizēt</b>", lai aktivizētu mobilo datu pakalpojumu tūlīt (tas var ilgt dažas minūtes).
+
+Varat arī pieskarties vienumam "<b>Izlaist</b>, lai iestatītu tālruni, izmantojot Wi-Fi savienojumu.</string>
+    <string name="activation_text_standalone">Pieskarieties vienumam <b>Aktivizēt</b>, lai aktivizētu mobilo datu pakalpojumu tūlīt (tas var ilgt dažas minūtes).</string>
+    <string name="activation_skip_confirmation">"Kamēr neaktivizēsiet datu pakalpojumu mobilajām ierīcēm, lielākā daļa tālruņa funkciju nedarbosies.
+
+Ja vēlaties izlaist šo darbību, noteikti vēlāk aktivizējiet pakalpojumu sadaļā Iestatījumi."</string>
+    <string name="activation_continue_skip_label">Turpināt</string>
+    <string name="activation_button_label">Aktivizēt</string>
+    <string name="activation_progress_before_connect">Pieskarieties vienumam <b>Izlaist</b>, lai pabeigtu iestatīšanu, izmantojot Wi-Fi savienojumu.</string>
+    <string name="activation_progress">Aktivizācija var ilgt vairākas minūtes. Pieskarieties vienumam <b>Izlaist</b>, lai pabeigtu iestatīšanu, izmantojot Wi-Fi savienojumu.</string>
+    <string name="activation_progress_gen">Tas var aizņemt ne vairāk kā 5 minūtes.</string>
+    <string name="activation_progress_mobile_data">"Tālrunī tiek aktivizēts datu pakalpojums mobilajām ierīcēm.
+
+Šis process var ilgt 5 minūtes."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivizācija var ilgt dažas minūtes.</string>
+    <string name="activation_progress_standalone">Aktivizācija var ilgt dažas minūtes.</string>
+    <string name="activation_success_title">Aktivizācija pabeigta</string>
+    <string name="activation_success_text">Pieskarieties vienumam <b>Tālāk</b>, lai turpinātu iestatīšanu.</string>
+    <string name="activation_success_text_gen">Lai pabeigtu aktivizāciju, ierīce ir jārestartē.</string>
+    <string name="activation_success_text_standalone">Pieskarieties vienumam <b>Tālāk</b>", lai turpinātu darbu.
+
+Aktivizācija bija veiksmīga, tomēr var paiet dažas minūtes, līdz mobilo datu tīkls kļūs pieejams."</string>
+    <string name="activation_failure_title">Nevarēja aktivizēt</string>
+    <string name="activation_failure_text">"Pēc brīža mēģiniet vēlreiz. Ja problēma joprojām pastāv, restartējiet tālruni.
+
+Ja pašlaik vēlaties izlaist šo darbību, noteikti vēlāk aktivizējiet sistēmas iestatījumus. Kamēr nebūsiet tos aktivizējis, tālrunim nebūs mobilo datu savienojuma."</string>
+    <string name="activation_failure_text_gen">Jūsu datu pakalpojumu mobilajām ierīcēm nevar aktivizēt. Iespējams, šī ir īslaicīga problēma, kuru var atrisināt, restartējot tālruni.</string>
+    <string name="activation_failure_text_standalone">Nevarēja aktivizēt datu pakalpojumu mobilajām ierīcēm. Lai vēlreiz mēģinātu to aktivizēt, pieskarieties vienumam <b>Mēģināt vēlreiz</b>".
+
+Varat aktivizēt datu pakalpojumu mobilajām ierīcēm vēlāk izvēlnē "<b>Sistēmas iestatījumi > Bezvadu savienojumi un tīkli > Mobilie tīkli</b>.</string>
+    <string name="activation_cancel_title">Atcelšana pieprasīta</string>
+    <string name="activation_cancel_text">Notiek aktivizācijas atcelšana. Tā var ilgt 5–10 sekundes.</string>
+    <string name="activation_canceled_title">Aktivizācija atcelta</string>
+    <string name="activation_canceled_text">"Vai vēlaties atcelt aktivizēšanu? Vispirms ir jāaktivizē mobilā tīkla pakalpojums, lai to izmantotu interneta savienojumam. 
+
+Pieskarieties vienumam "<b>Tālāk</b>", lai pabeigtu iestatīšanu, izmantojot Wi-Fi savienojumu.
+
+Varat aktivizēt mobilā tīkla pakalpojumu vēlāk izvēlnē "<b>Sistēmas iestatījumi > Bezvadu savienojumi un tīkli > Mobilie tīkli</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktivizācija ir atcelta.
+
+Varat vēlāk aktivizēt datu pakalpojumu mobilajām ierīcēm sadaļā "<b>Sistēmas iestatījumi > Bezvadu savienojumi un tīkli > Mobilie tīkli</b>.</string>
+    <string name="activation_spc_failure_text">Radās kļūda, tādēļ pirms atkārtota aktivizācijas mēģinājuma tālrunis ir jāizslēdz un jārestartē. Tālrunis tiks automātiski izslēgts pēc 60 sekundēm, taču varat arī pieskarties vienumam <b>Izslēgt tūlīt</b>".
+
+Tiklīdz tālrunis būs izslēgts, nospiediet barošanas pogu, lai to restartētu. Aktivizācija tiks sākta automātiski."</string>
+    <string name="shutdown_button_label">Izslēgt tūlīt</string>
+    <string name="reboot_button_label">Restartēt</string>
+    <string name="activation_skip_text">Ja izlaidīsiet aktivizāciju, tā vēlāk būs jāveic izvēlnē “Iestatījumi”. Kamēr nebūs veikta aktivizācija, tālrunī nebūs pieejams mobilo datu savienojums.</string>
+    <string name="activation_unprovisioned_sim_message">Jūsu mobilo sakaru operatoram nav konta šai SIM kartei. Sazinieties ar operatoru, lai izveidotu kontu.</string>
+    <string name="notification_update_title">Jāatjaunina konts</string>
+    <string name="notification_update_message">Pieskarieties šeit, lai atkārtoti palaistu iestatīšanas vedni.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Konts ir pievienots}zero{Konti ir pievienoti}one{Konti ir pievienoti}other{Konti ir pievienoti}}</string>
+    <string name="account_exists_text_single">Konts <annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> ir gatavs lietošanai.</string>
+    <string name="account_exists_text_unknown_name">Jūsu konts ir gatavs.</string>
+    <string name="account_exists_info">"Jūsu e-pasta ziņojumi, kontaktpersonas, kalendāra pasākumi un citi dati tiks sinhronizēti ar šo tālruni. Varat arī sākt lejupielādēt lietotnes, mūziku un spēles no pakalpojuma Google Play.
+
+Vēlāk varēsiet pievienot un noņemt kontus izvēlnē Iestatījumi > Konti."</string>
+    <string name="date_time_setup_title">Datums un laiks</string>
+    <string name="date_time_message">Ja nepieciešams, veiciet izmaiņas.</string>
+    <string name="date_time_current_date">Datums</string>
+    <string name="date_time_current_time">Laiks</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Ievietojiet SIM karti}zero{Ievietojiet SIM kartes}one{Ievietojiet SIM karti}other{Ievietojiet SIM kartes}}</string>
+    <string name="sim_missing_text">"SIM kartes paliktnis atrodas tālruņa augšējā kreisajā malā.
+
+Izmantojiet tālruņa komplektācijā iekļauto SIM kartes izņemšanas rīku, lai izņemtu paliktni un ievietotu nano SIM karti.
+
+Pēc SIM kartes ievietošanas var būt nepieciešamas dažas sekundes, lai to aktivizētu."</string>
+    <string name="sim_locked_title">SIM karte netiek atbalstīta</string>
+    <string name="sim_locked_text">"Šis tālrunis pašlaik ir piesaistīts citam mobilo sakaru operatoram. Izmantojiet derīgu SIM karti.
+
+Pēc SIM kartes ievietošanas var paiet dažas sekundes, līdz tā tiks aktivizēta."</string>
+    <string name="sim_setup_title">SIM karšu iestatīšana</string>
+    <string name="sim_setup_select_data">Atlasiet SIM karti, ko izmantot mobilajiem datiem</string>
+    <string name="sim_setup_select_voice">Atlasiet SIM karti, ko izmantot zvaniem</string>
+    <string name="sim_setup_select_text">Atlasiet SIM karti, ko izmantot īsziņām</string>
+    <string name="sim_setup_ask_every_time">Jautāt katru reizi</string>
+    <string name="wifi_title">Atlasiet Wi-Fi tīklu</string>
+    <string name="wifi_skipped_title">Iespējama maksa par datu lietojumu</string>
+    <string name="wifi_skipped_message">Iestatīšanas laikā tālrunī tiks izmantots mobilais tīkls, un par šo datu lietojumu no jums var tikt iekasēta maksa. Lai izvairītos no iespējamās maksas, izveidojiet savienojumu ar Wi-Fi tīklu.</string>
+    <string name="wifi_scanning">Notiek Wi-Fi tīklu meklēšana…</string>
+    <string name="wifi_and_mobile_skipped_message">"Izveidojot savienojumu ar tīklu, varēsiet ātri iestatīt tālruni.
+
+Ja savienojums nebūs izveidots, nevarēsiet:
+
+"<li>pierakstīties savā Google kontā;</li>"
+
+"<li>atjaunot lietotnes un datus;</li>"
+
+"<li>iegūt programmatūras atjauninājumus;</li>"
+
+"<li>automātiski iestatīt datumu un laiku.</li></string>
+    <string name="wifi_and_mobile_skipped_message_new_flow">"Izveidojot savienojumu ar tīklu, varat ērti iestatīt tālruni.
+
+Ja nebūs savienojuma, nevarēsiet:
+
+"<li>pierakstīties savā Google kontā;</li>"
+
+"<li>saņemt programmatūras atjauninājums;</li>"
+
+"<li>automātiski iestatīt datumu un laiku.</li></string>
+    <string name="wifi_add_new_network">Pievienot jaunu tīklu</string>
+    <string name="wifi_ip_address_title">IP adrese</string>
+    <string name="wifi_ip_address_not_available">Nav pieejama</string>
+    <string name="wifi_mac_address_title">MAC adrese</string>
+    <string name="wifi_mac_address_not_available">Nav pieejama</string>
+    <string name="network_title">Savienojumu izveide</string>
+    <string name="network_description_text_new_flow">Lai turpinātu iestatīšanu, izveidojiet savienojumu ar tīklu.</string>
+    <string name="network_description_text_restore_flow">Lai kopētu vai atjaunotu datus, piemēram, fotoattēlus vai mūziku, izveidojiet savienojumu ar tīklu.</string>
+    <string name="network_see_all_wifi">Skatīt visus Wi‑Fi tīklus</string>
+    <string name="network_use_cellular">Izmantot mobilo tīklu iestatīšanai</string>
+    <string name="network_dont_connect">Neizmantot nevienu tīklu iestatīšanai</string>
+    <string name="captive_portal_title">Notiek savienojuma izveide…</string>
+    <string name="captive_portal_description_text">Tas var ilgt 1–2 minūtes.</string>
+    <string name="captive_portal_sign_in_dialog_title">Ir pieejams savienojums</string>
+    <string name="captive_portal_connection_unsuccessful">Nevarēja izveidot savienojumu ar internetu.</string>
+    <string name="gms_checkin_title">Pārbauda, vai ir pieejami atjauninājumi…</string>
+    <string name="gms_checkin_description_text">Tas var ilgt 1–2 minūtes.</string>
+    <string name="gms_account_checkin_title">Notiek konta informācijas iegūšana…</string>
+    <string name="ota_update_title">Tālruņa atjaunināšana</string>
+    <string name="ota_info">Tālrunī ir jālejupielādē atjauninājums, un pēc tam tālrunis ir jārestartē.</string>
+    <string name="ota_size">Lielums: %s</string>
+    <string name="ota_agreement_text">Turpinot un saņemot šo programmatūras atjauninājumu, jūs piekrītat <annotation link="tos">Google pakalpojumu sniegšanas noteikumiem</annotation> un <annotation link="google_privacy">konfidencialitātes politikai</annotation>.</string>
+    <string name="early_update_title">Pārbauda, vai ir pieejami atjauninājumi…</string>
+    <string name="early_update_text">Tas var ilgt 1–2 minūtes.</string>
+    <string name="early_update_downloading_text">Notiek %s lejupielāde…</string>
+    <string name="early_update_installing_text">Notiek %s instalēšana…</string>
+    <string name="warm_sim_check_msg">Gaida savienojumu ar tīklu...</string>
+    <string name="android_privacy_policy_title">Papildu konfidencialitātes politika</string>
+    <string name="google_terms_of_service_title">Google pakalpojumu sniegšanas noteikumi</string>
+    <string name="google_privacy_policy_title">Google konfidencialitātes politika</string>
+    <string name="google_plus_privacy_policy_title">Google Plus konfidencialitātes politika</string>
+    <string name="google_play_tos_title">Google Play pakalp. sniegšanas noteikumi</string>
+    <string name="chrome_tos_title">Chrome pakalpojumu sniegšanas noteikumi</string>
+    <string name="chrome_privacy_title">Chrome konfidencialitātes paziņojums</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android ierīce nav savienota ar Wi-Fi tīklu. Lai skatītu šo informāciju, tīmekļa pārlūkprogrammā apmeklējiet vietni %s.</string>
+    <string name="continue_for_a11y">Lai iespējotu pieejamības režīmu, turpiniet pieskarties ekrānam, līdz dzirdat skaņas signālu.</string>
+    <string name="canceled_a11y">Pieejamības režīms ir atcelts.</string>
+    <string name="enabled_a11y">Pieejamības režīms ir iespējots.</string>
+    <string name="welcome_message">Laipni lūdzam!</string>
+    <string name="emergency_dial">Ārkārtas situācija</string>
+    <string name="welcome_accessibility_button">Redzes iestatījumi</string>
+    <string name="welcome_language_picker_dialog_title">Valodas izvēle</string>
+    <string name="welcome_language_picker_section_suggested">Ieteiktās</string>
+    <string name="welcome_language_picker_section_all">Visas valodas</string>
+    <string name="welcome_language_picker_content_description">Valoda: %s</string>
+    <string name="welcome_start_button_label">Aiziet!</string>
+    <string name="retail_mode_item_disable_label">Atspējot veikaliem domāto demonstrāciju</string>
+    <string name="retail_mode_item_label">Demonstrācijas versija veikaliem</string>
+    <string name="retail_mode_warning_dialog_title">Demonstrācijas videoklipa atskaņošana</string>
+    <string name="retail_mode_warning_dialog_message">Tiks atskaņots mazumtirdzniecības veikaliem paredzētās demonstrācijas versijas videoklips, līdz tiks atiestatīti rūpnīcas dati. Šis ir mazumtirgotājiem paredzētais režīms, ko nedrīkst izmantot personiskām vajadzībām.</string>
+    <string name="retail_demo_button_text">Iestatīt demonstrāciju</string>
+    <string name="flow_choice_title">Laipni lūdzam ierīcē ^1!</string>
+    <string name="flow_choice_restore_label">Datu kopēšana</string>
+    <string name="flow_choice_restore_summary">No iPhone® tālruņa vai Android ierīces, vai arī no mākoņa</string>
+    <string name="flow_choice_new_label">Iestatīt kā jaunu</string>
+    <string name="flow_choice_new_summary">Sāciet no jauna</string>
+    <string name="restore_choice_title">Datu atjaunošana</string>
+    <string name="restore_choice_google_account_label">Dublējums no mākoņa</string>
+    <string name="restore_choice_google_account_summary">Pierakstieties ar savu lietotājvārdu un paroli.</string>
+    <string name="restore_choice_android_device_label">Dublējums no Android tālruņa</string>
+    <string name="restore_choice_android_device_summary">Izmantojiet savu veco tālruni, lai kopētu datus, lietojot bezvadu savienojumu.</string>
+    <string name="restore_choice_ios_device_label">iPhone® tālrunis</string>
+    <string name="migrate_from_ios_description">Veiciet tālāk norādītās darbības iPhone® tālrunī.</string>
+    <string name="migrate_from_ios_instructions_1">1. Atveriet Safari.</string>
+    <string name="migrate_from_ios_instructions_2">2. Atveriet vietni <b>android.com/switch</b>.</string>
+    <string name="migrate_from_ios_instructions_3">3. Izpildiet norādījumus.</string>
+    <string name="migrate_from_ios_header">Datu kopēšana</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS un iTunes ir Apple Inc. preču zīmes, kas reģistrētas ASV un citās valstīs.</string>
+    <string name="services_activity_title">Google pakalpojumi</string>
+    <string name="services_backup_heading">Dublēšana</string>
+    <string name="services_location_heading">Atrašanās vieta</string>
+    <string name="services_security_heading">Drošība</string>
+    <string name="services_personalization_heading">Personalizēšana</string>
+    <string name="services_communication_heading">Saziņa</string>
+    <string name="security_verify_apps_summary">Ļaujiet uzņēmumam Google visās instalētajās lietotnēs pārbaudīt potenciāli kaitīgas darbības, kas var ietekmēt ierīces vai datu drošību.</string>
+    <string name="suggested_actions_title">Vai vēlaties veikt citas darbības?</string>
+    <string name="suggested_actions_description">Tālāk ir norādīti daži citi pieejamie iestatījumi. Vai arī varat pabeigt iestatīšanu vēlāk sadaļā Iestatījumi.</string>
+    <string name="suggested_actions_done_label">Viss paveikts</string>
+    <string name="restore_title">Notiek atjaunošana...</string>
+    <string name="restore_wallpaper_title">Tiek atjaunota fona tapete...</string>
+    <string name="restore_device_settings_title">Tiek atjaunoti ierīces iestatījumi...</string>
+    <string name="restore_launcher_title">Tiek atjaunota palaišanas programma...</string>
+    <string name="restore_failed_message">Nevar atjaunot dublējumu.</string>
+    <string name="restore_no_backup_title">Nevar atjaunot</string>
+    <string name="restore_no_backup_message">Otrā ierīcē nav pieejami nekādi dublēti dati.</string>
+    <string name="restore_stopped_message">Nevarēja pabeigt dublējuma atjaunošanu.</string>
+    <string name="final_hold_title">Notiek iestatīšanas pabeigšana…</string>
+    <string name="name_title">Vārds</string>
+    <string name="name_text">Ja pievienosiet savu vārdu, tālrunī varēsiet personalizēt dažas lietotnes.</string>
+    <string name="name_display_name_label">Vārds, uzvārds</string>
+    <string name="name_display_name_hint">piemēram, Jānis Bērziņš</string>
+    <string name="cant_be_blank">Lauku nedrīkst atstāt neaizpildītu.</string>
+    <string name="device_owner_warning_title">Tālruņa pārraudzības iespējamība</string>
+    <string name="device_owner_warning">Šo tālruni pārvalda “%1$s”. Tas nozīmē, ka daļa jūsu informācijas var būt redzama citām personām. Lai novērstu pārraudzību, atiestatiet tālruni.</string>
+    <string name="device_owner_continue">Turpināt</string>
+    <string name="device_owner_reset">Atiestatīt tālruni</string>
+    <string name="factory_reset_title">Atiestatīt tālruni</string>
+    <string name="factory_reset_instructions">Brīdinājums: veicot atiestatīšanu, tiks dzēsti visi šī tālruņa iekšējā atmiņā saglabātie konti un dati.</string>
+    <string name="factory_reset_confirmation_title">Vai atiestatīt?</string>
+    <string name="factory_reset_confirmation">Vai dzēst visus tālrunī saglabātos kontus un datus? Šo darbību nevar atsaukt.</string>
+    <string name="factory_reset_button">Dzēst un atiestatīt</string>
+    <string name="restart_setup_wizard_dialog_title">Nav veikta pierakstīšanās</string>
+    <string name="restart_setup_wizard_dialog_text">"Lai izmantotu šo tālruni, jums vispirms jāpierakstās īpašnieka Google kontā, kas tika lietots šajā ierīcē iepriekšējās atiestatīšanas laikā.
 
 Tā kā neesat to izdarījis, tālrunis būs atkārtoti jāiestata."</string>
-  <string name="restart_setup_wizard_dialog_title">Nav veikta pierakstīšanās</string>
-  <string name="restore_choice_android_device_label">Cita Android ierīce</string>
-  <string name="restore_choice_footer_dialog">"Ja iepriekš esat pierakstījies kādā Google produktā (piemēram, Gmail vai YouTube), jums jau ir Google konts.
+    <string name="restart_setup_wizard_button_label">Iestatīt tālruni</string>
+    <string name="user_warning_radio_continue">Turpināt</string>
+    <string name="user_warning_radio_quit">Atcelt un noņemt jauno lietotāju</string>
+    <string name="user_warning_title">Jauna lietotāja iestatīšana</string>
+    <string name="welcome_secondary_user_added_text">Jūsu konts ir pievienots šim tālrunim</string>
+    <string name="welcome_secondary_user_info_text"><b>Svarīgi!</b>"
 
-Varat izmantot to pašu informāciju, piemēram, tālruņa numuru vai lietotājvārdu un paroli, lai pierakstītos šeit."</string>
-  <string name="restore_choice_google_account_label">Jūsu Google konts</string>
-  <string name="restore_choice_title">Datu importēšana no…</string>
-  <string name="restore_device_settings_title">Tiek atjaunoti ierīces iestatījumi...</string>
-  <string name="restore_failed_message">Nevarēja atjaunot datus no dublējumkopijas.</string>
-  <string name="restore_launcher_title">Tiek atjaunota palaišanas programma...</string>
-  <string name="restore_no_backup_message">Avota ierīcei nav pieejami dublējuma dati.</string>
-  <string name="restore_stopped_message">Diemžēl ierīcē tika pārtraukta datu atjaunošana no dublējumkopijas.</string>
-  <string name="restore_title">Notiek atjaunošana...</string>
-  <string name="restore_wallpaper_title">Tiek atjaunota fona tapete...</string>
-  <string name="running_process_item_user_label">Lietotājs: %1$s</string>
-  <string name="runningservices_settings_summary">Pašreiz darbojošos pakalpojumu skatīšana un vadība</string>
-  <string name="runningservices_settings_title">Aktīvie pakalpojumi</string>
-  <string name="saved_network">Saglabāja: %1$s</string>
-  <string name="screen_zoom_summary_custom">Pielāgots (%d)</string>
-  <string name="screen_zoom_summary_default">Noklusējuma</string>
-  <string name="screen_zoom_summary_extremely_large">Vislielākais</string>
-  <string name="screen_zoom_summary_large">Liels</string>
-  <string name="screen_zoom_summary_small">Mazs</string>
-  <string name="screen_zoom_summary_very_large">Lielāks</string>
-  <string name="security_verify_apps_summary">Ļaujiet uzņēmumam Google visās instalētajās lietotnēs pārbaudīt potenciāli kaitīgas darbības, kas var ietekmēt ierīces vai datu drošību.</string>
-  <string name="select_application">Lietotnes atlase</string>
-  <string name="select_logd_size_dialog_title">Atlasīt reģistrētāja bufera liel.</string>
-  <string name="select_logd_size_title">Reģistrētāja buferu lielumi</string>
-  <string name="select_usb_configuration_dialog_title">Atlasīt USB konfigurāciju</string>
-  <string name="select_usb_configuration_title">Atlasīt USB konfigurāciju</string>
-  <string name="select_webview_provider_dialog_title">Iestatīt WebView ieviešanu</string>
-  <string name="select_webview_provider_title">WebView ieviešana</string>
-  <string name="select_webview_provider_toast_text">Šī iespēja vairs nav derīga. Mēģiniet vēlreiz.</string>
-  <string name="services_activity_title">Google pakalpojumi</string>
-  <string name="services_backup_heading">Dublēšana</string>
-  <string name="services_communication_heading">Saziņa</string>
-  <string name="services_location_heading">Atrašanās vieta</string>
-  <string name="services_personalization_heading">Personalizēšana</string>
-  <string name="services_security_heading">Drošība</string>
-  <string name="setup_wizard_title">Iestatīšanas vednis</string>
-  <string name="show_all_anrs">Rādīt visus ANR</string>
-  <string name="show_all_anrs_summary">Rādīt fona lietotņu dialoglodz. Lietotne nereaģē</string>
-  <string name="show_cpu_usage">Rādīt CPU lietojumu</string>
-  <string name="show_cpu_usage_summary">Ekrāna pārklājums ar aktuālo CPU lietojumu</string>
-  <string name="show_hw_layers_updates">Rādīt apar. slāņu atjaun.</string>
-  <string name="show_hw_layers_updates_summary">Atjaunin. aparatūras slāņiem ir jāmirgo zaļā krāsā</string>
-  <string name="show_hw_screen_updates">Rādīt GPU skat. atjaun.</string>
-  <string name="show_hw_screen_updates_summary">Atjaunināt logu skat., ja zīm. tiek liet. GPU.</string>
-  <string name="show_non_rect_clip">Atkļūdot darbības daļā, kas nav taisnstūris.</string>
-  <string name="show_screen_updates">Rādīt virsmas atjauninājumus WL: 294</string>
-  <string name="show_screen_updates_summary">Atjaunināt visa loga virsmas, kad tās tiek atjauninātas WL: 294</string>
-  <string name="show_touches">Rādīt pieskārienus</string>
-  <string name="show_touches_summary">Rādīt vizuālo reakciju pēc pieskārieniem</string>
-  <string name="shutdown_button_label">Izslēgt tūlīt</string>
-  <string name="sim_missing_text">"{sim_slots,plural, =1{Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.
+"<li><ul>"Tālruņa īpašnieks var atinstalēt lietotnes vai noņemt jūsu saturu
 
-Pēc SIM kartes ievietošanas var paiet dažas sekundes, līdz tā tiks aktivizēta.}zero{Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.
+"<li>Jebkurš cits lietotājs var apstiprināt atjauninātās lietotņu atļaujas</li>"
 
-Pēc SIM karšu ievietošanas var paiet dažas sekundes, līdz tās tiks aktivizētas.}one{Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.
+"<li>Šo tālruni ļaujiet izmantot tikai uzticamām personām</li></ul></li></string>
+    <string name="qr_dependencies_check_title">Notiek QR lasītāja instalēšana…</string>
+    <string name="qr_dependencies_check_timeout_text">Tas var aizņemt ne vairāk kā 2 minūtes.</string>
+    <string name="download_qr_dependencies_failed_content">Nevarēja instalēt QR lasītāju.</string>
+    <string name="check_qr_dependencies_again">Mēģināt vēlreiz</string>
+    <string name="qr_provision_user_consent_title">QR koda iestatīšana</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"Lai iestatītu šo ierīci savai organizācijai, vispirms ir jāizveido savienojums ar tīklu un jālejupielādē QR lasītājs.
 
-Pēc SIM karšu ievietošanas var paiet dažas sekundes, līdz tās tiks aktivizētas.}other{Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.
-
-Pēc SIM karšu ievietošanas var paiet dažas sekundes, līdz tās tiks aktivizētas.}}"</string>
-  <string name="sim_missing_title">{sim_slots,plural, =1{Ievietojiet SIM karti}zero{Ievietojiet SIM kartes}one{Ievietojiet SIM karti}other{Ievietojiet SIM kartes}}</string>
-  <string name="sim_setup_ask_every_time">Jautāt katru reizi</string>
-  <string name="sim_setup_select_data">Atlasiet SIM karti, ko izmantot mobilajiem datiem</string>
-  <string name="sim_setup_select_text">Atlasiet SIM karti, ko izmantot īsziņām</string>
-  <string name="sim_setup_select_voice">Atlasiet SIM karti, ko izmantot zvaniem</string>
-  <string name="sim_setup_title">SIM karšu iestatīšana</string>
-  <string name="simulate_color_space">Simulēt krāstelpu</string>
-  <string name="skip_anyway_button_label">Tik un tā izlaist</string>
-  <string name="skip_button_label">Izlaist</string>
-  <string name="skip_toast">Iestatīšanas vednis izlaists</string>
-  <string name="start">Sākt</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="strict_mode">Precīzais rež. ir iespēj.</string>
-  <string name="strict_mode_summary">Zibsnīt ekrānu, ja liet. ilgi darbojas galv. pav.</string>
-  <string name="suggested_actions_done_label">Iestatīt vēlāk</string>
-  <string name="suggested_actions_title">Vai vēlaties veikt citas darbības?</string>
-  <string name="suw_back_button_label">Atpakaļ</string>
-  <string name="suw_more_button_label">Vairāk</string>
-  <string name="suw_next_button_label">Tālāk</string>
-  <string name="switch_camera">Pārslēgt kameru</string>
-  <string name="terminate_toast">"Iestatīšanas vedņa darbība ir pabeigta.
-Ierīce nav nodrošināta."</string>
-  <string name="tether_settings_title_all">Piesaiste un pārn. tīklājs</string>
-  <string name="tether_settings_title_bluetooth">Bluetooth saistīšana</string>
-  <string name="tether_settings_title_usb">USB saistīšana</string>
-  <string name="tether_settings_title_usb_bluetooth">Saistīšana</string>
-  <string name="tether_settings_title_wifi">Pārnēsājams tīklājs</string>
-  <string name="tethering_settings_not_available">Piesaistes iestatījumi šim lietotājam nav pieejami.</string>
-  <string name="title_convert_fbe">Pārvēršana par failu līmeņa šifrējumu</string>
-  <string name="track_frame_time">Profila GPU atveide</string>
-  <string name="transition_animation_scale_title">Pārejas animācijas mērogs</string>
-  <string name="try_again_button_label">Mēģināt vēlreiz</string>
-  <string name="tts_default_lang_summary">Runātajam tekstam iestata valodai raksturīgu balsi</string>
-  <string name="tts_default_lang_title">Valoda</string>
-  <string name="tts_default_pitch_summary">Ietekmē sintezētās runas toni</string>
-  <string name="tts_default_pitch_title">Tonis</string>
-  <string name="tts_default_rate_summary">Teksta ierunāšanas ātrums</string>
-  <string name="tts_default_rate_title">Runas ātrums</string>
-  <string name="tts_default_sample_string">Šis ir runas sintēzes piemērs.</string>
-  <string name="tts_engine_network_required">Lai izmantotu teksta pārveidošanu runā šajā valodā, ir nepieciešams aktīvs tīkla savienojums.</string>
-  <string name="tts_engine_preference_section_title">Vēlamā programma</string>
-  <string name="tts_engine_security_warning">Lietojot šo runas sintēzes programmu, var tikt apkopots viss ierunātais teksts, tostarp tāda personīgā informācija kā paroles un kredītkaršu numuri. Tā ir no %s programmas. Vai iespējot šīs runas sintēzes programmas lietošanu?</string>
-  <string name="tts_engine_settings_button">Programmas iestatījumu palaišana</string>
-  <string name="tts_engine_settings_title">Programmas %s iestatījumi</string>
-  <string name="tts_general_section_title">Vispārīgi</string>
-  <string name="tts_install_data_summary">Instalēt runas sintēzei nepieciešamos balss datus</string>
-  <string name="tts_install_data_title">Instalēt balss datus</string>
-  <string name="tts_lang_not_selected">Nav atlasīta valoda.</string>
-  <string name="tts_lang_use_system">Izmantot sistēmas valodu</string>
-  <string name="tts_play_example_summary">Atskaņot īsu runas sintēzes demonstrāciju</string>
-  <string name="tts_play_example_title">Noklausīties piemēru</string>
-  <string name="tts_settings">Teksta-runas iestatījumi</string>
-  <string name="tts_settings_title">Teksta-runas izvade</string>
-  <string name="tts_status_checking">Notiek pārbaude...</string>
-  <string name="tts_status_not_supported">Lokalizācija %1$s netiek atbalstīta</string>
-  <string name="tts_status_ok">Lokalizācija %1$s tiek pilnībā atbalstīta</string>
-  <string name="tts_status_requires_network">Lokalizācijai %1$s nepieciešams tīkla savienojums.</string>
-  <string name="tts_status_title">Noklusējuma valodas statuss</string>
-  <string name="unknown">Nezināms</string>
-  <string name="url_load_unsuccessful_message">Jūsu tālrunis nav savienots ar datu pakalpojumu mobilajām ierīcēm. Lai skatītu šo informāciju, tīmekļa pārlūkprogrammā apmeklējiet vietni %s.</string>
-  <string name="url_load_unsuccessful_message_wifi_only">Android ierīce nav savienota ar Wi-Fi tīklu. Lai skatītu šo informāciju, tīmekļa pārlūkprogrammā apmeklējiet vietni %s.</string>
-  <string name="usb_audio_disable_routing">Atspējot USB audio maršr.</string>
-  <string name="usb_audio_disable_routing_summary">Atspējot auto maršr. uz USB audio ārējām ierīcēm</string>
-  <string name="user_guest">Viesis</string>
-  <string name="user_warning_radio_continue">Turpināt</string>
-  <string name="user_warning_radio_quit">Atcelt un noņemt jauno lietotāju</string>
-  <string name="user_warning_title">Jauna lietotāja iestatīšana</string>
-  <string name="verify_apps_over_usb_summary">Pārbaudīt, vai lietotņu, kuru instalēšanai izmantots ADB/ADT, darbība nav kaitīga.</string>
-  <string name="verify_apps_over_usb_title">Verificēt, ja instalētas no USB</string>
-  <string name="vpn_settings_not_available">VPN iestatījumi šim lietotājam nav pieejami.</string>
-  <string name="wait_for_debugger">Gaidīt atkļūdotāju</string>
-  <string name="wait_for_debugger_summary">Gaida atkļūdotāju, ko pirms izp. piev. atkļ. liet.</string>
-  <string name="wait_msg">Vienu mirkli…</string>
-  <string name="warm_sim_check_msg">Gaida savienojumu ar tīklu...</string>
-  <string name="welcome_accessibility_button">Redzes iestatījumi</string>
-  <string name="welcome_language_picker_content_description">Valoda: %s</string>
-  <string name="welcome_language_picker_dialog_title">Valodas izvēle</string>
-  <string name="welcome_language_picker_section_all">Visas valodas</string>
-  <string name="welcome_language_picker_section_suggested">Ieteiktās</string>
-  <string name="welcome_limited_user_info_text">" "&lt;b&gt;Svar&amp;#299;gi!&lt;/b&gt;"
-
- "&lt;li&gt;&lt;ul&gt;T&amp;#257;lru&amp;#326;a &amp;#299;pa&amp;#353;nieks var instal&amp;#275;t un atinstal&amp;#275;t lietotnes, iestat&amp;#299;t ierobe&amp;#382;ojumus vai piln&amp;#299;b&amp;#257; no&amp;#326;emt j&amp;#363;su saturu.&lt;/ul&gt;&lt;/li&gt;"
-
- "&lt;li&gt;&lt;ul&gt;Jebkur&amp;#353; lietot&amp;#257;js var j&amp;#363;su v&amp;#257;rd&amp;#257; apstiprin&amp;#257;t atjaunin&amp;#257;to lietot&amp;#326;u at&amp;#316;aujas.&lt;/ul&gt;&lt;/li&gt;"
-
- "&lt;li&gt;&lt;ul&gt;&amp;#352;o t&amp;#257;lruni (t&amp;#257;pat k&amp;#257; jebkuru datoru) &amp;#316;aujiet izmantot tikai uzticam&amp;#257;m person&amp;#257;m.&lt;/ul&gt;&lt;/li&gt;</string>
-  <string name="welcome_message">Laipni lūdzam!</string>
-  <string name="welcome_secondary_user_added_no_owner_name_text">Jūsu konts ir pievienots šim tālrunim.</string>
-  <string name="welcome_secondary_user_added_text">%s pievienoja jūsu kontu šim tālrunim.</string>
-  <string name="welcome_secondary_user_info_text">&lt;b&gt;Svar&amp;#299;gi!&lt;/b&gt;"
-
-"&lt;li&gt;&lt;ul&gt;T&amp;#257;lru&amp;#326;a &amp;#299;pa&amp;#353;nieks var atinstal&amp;#275;t j&amp;#363;su lietotnes vai piln&amp;#299;b&amp;#257; no&amp;#326;emt j&amp;#363;su saturu.&lt;/ul&gt;&lt;/li&gt;"
-
-"&lt;li&gt;&lt;ul&gt;Jebkur&amp;#353; cits lietot&amp;#257;js var j&amp;#363;su viet&amp;#257; pie&amp;#326;emt atjaunin&amp;#257;tas lietot&amp;#326;u at&amp;#316;aujas.&lt;/ul&gt;&lt;/li&gt;"
-
-"&lt;li&gt;&lt;ul&gt;&amp;#315;aujiet &amp;#353;o t&amp;#257;lruni&amp;#160;&amp;#8212; t&amp;#257;pat k&amp;#257; jebkuru datoru&amp;#160;&amp;#8212; izmantot tikai uzticam&amp;#257;m person&amp;#257;m.&lt;/ul&gt;&lt;/li&gt;</string>
-  <string name="welcome_start_button_label">Darba sākšana</string>
-  <string name="wifi_add_new_network">Pievienot jaunu tīklu</string>
-  <string name="wifi_aggressive_handover">Agresīva pāreja no Wi‑Fi uz mobilo tīklu</string>
-  <string name="wifi_aggressive_handover_summary">Ja opcija ir iespējota un Wi‑Fi signāls ir vājš, datu savienojuma pāreja no Wi-Fi uz mobilo tīklu tiks veikta agresīvāk.</string>
-  <string name="wifi_allow_scan_with_traffic">Vienmēr atļaut Wi‑Fi meklēšanu</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Atļaujiet/neatļaujiet Wi‑Fi meklēšanu, pamatojoties uz saskarnē saņemto datplūsmas apjomu.</string>
-  <string name="wifi_connected_no_internet">Savienots, nav piekļuves internetam</string>
-  <string name="wifi_disabled_generic">Atspējots</string>
-  <string name="wifi_disabled_network_failure">IP konfigurācijas kļūme</string>
-  <string name="wifi_disabled_password_failure">Autentificēšanas problēma</string>
-  <string name="wifi_disabled_wifi_failure">Wi-Fi savienojuma kļūme</string>
-  <string name="wifi_display_certification">Bezvadu attēlošanas sertifikācija</string>
-  <string name="wifi_display_certification_summary">Rādīt bezvadu attēlošanas sertifikācijas iespējas</string>
-  <string name="wifi_fail_to_scan">Nevar skenēt tīklus</string>
-  <string name="wifi_ip_address_not_available">Nav pieejama</string>
-  <string name="wifi_ip_address_title">IP adrese</string>
-  <string name="wifi_mac_address_not_available">Nav pieejama</string>
-  <string name="wifi_mac_address_title">MAC adrese</string>
-  <string name="wifi_no_internet">Nevar noteikt interneta savienojumu. Savienojums netiks izveidots vēlreiz automātiski.</string>
-  <string name="wifi_not_in_range">Nav diapazona ietvaros</string>
-  <string name="wifi_remembered">Saglabāts</string>
-  <string name="wifi_security_none">Nav</string>
-  <string name="wifi_skipped_message">Iestatīšanas laikā tālrunī tiks izmantots mobilais tīkls, un par šo datu lietojumu no jums var tikt iekasēta maksa. Lai izvairītos no iespējamās maksas, izveidojiet savienojumu ar Wi-Fi tīklu.</string>
-  <string name="wifi_skipped_title">Iespējama maksa par datu lietojumu</string>
-  <string name="wifi_title">Atlasiet Wi-Fi tīklu</string>
-  <string name="wifi_verbose_logging">Iespējot Wi‑Fi detalizēto reģistrēšanu</string>
-  <string name="wifi_verbose_logging_summary">Palieliniet Wi‑Fi reģistrēšanas līmeni; rādīt katram SSID RSSI Wi‑Fi atlasītājā.</string>
-  <string name="window_animation_scale_title">Loga animācijas mērogs</string>
+Kad lejupielāde ir pabeigta, nolasiet organizācijas QR kodu, izmantojot kameru."</string>
+    <string name="qr_provision_return_initialization_wizard">Neaktivitātes dēļ notiek atgriešanās iepriekšējā ekrānā</string>
+    <string name="invalid_qr_code_title">QR kods nedarbojās</string>
+    <string name="invalid_qr_code_content">Pārbaudiet, vai ir ievadīts pareizais organizācijas QR kods, un mēģiniet vēlreiz.</string>
+    <string name="invalid_qr_code_retry">Mēģināt vēlreiz</string>
+    <string name="switch_camera">Pārslēgt kameru</string>
+    <string name="qr_code_scan_title">Ātrās atbildes koda skenēšana</string>
+    <string name="switch_to_back_camera_button_content_description">Aizmugurējā kamera</string>
+    <string name="switch_to_front_camera_button_content_description">Priekšējā kamera</string>
+    <string name="switched_to_front_camera_announcement">Poga tiek izmantota aizmugurējai kamerai</string>
+    <string name="switched_to_back_camera_announcement">Poga tiek izmantota priekšējai kamerai</string>
+    <string name="exit_loading_launcher">Tiek ielādēta palaišanas programma…</string>
 </resources>

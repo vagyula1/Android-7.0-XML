@@ -10,15 +10,21 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginTop">16.0dip</item>
         <item name="android:layout_marginBottom">16.0dip</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
     </style>
     <style name="Theme.AddPrinterActivity" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
         <item name="android:listSeparatorTextViewStyle">@style/ListSeparator</item>
+        <item name="android:textAppearanceListItemSecondary">@style/ListItemSecondary</item>
     </style>
-    <style name="Theme.SelectPrinterActivity" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar" />
+    <style name="Theme.SelectPrinterActivity" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:textAppearanceListItemSecondary">@style/ListItemSecondary</item>
+    </style>
     <style name="Theme.PrintActivity" parent="@android:style/Theme.DeviceDefault">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowActionBar">false</item>
     </style>
 </resources>

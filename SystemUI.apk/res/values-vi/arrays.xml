@@ -60,6 +60,18 @@
         <item>4M/lần tải nhật ký</item>
         <item>16M/lần tải nhật ký</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Tắt</item>
+        <item>Tất cả</item>
+        <item>Tất cả trừ đài</item>
+        <item>chỉ kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Tắt</item>
+        <item>Tất cả lần tải nhật ký</item>
+        <item>Tất cả trừ lần tải nhật ký qua đài</item>
+        <item>chỉ vùng đệm nhật ký kernel</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Tắt hình động</item>
         <item>Tỷ lệ hình động 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Màu tự nhiên giống như nhìn bằng mắt</item>
         <item>Màu được tối ưu hóa cho nội dung kỹ thuật số</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Gọi</item>
+        <item>Hệ thống</item>
+        <item>Chuông</item>
+        <item>Phương tiện</item>
+        <item>Báo thức</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Hiển thị giờ, phút và giây</item>
         <item>Hiển thị giờ và phút (mặc định)</item>
@@ -169,4 +199,5 @@
         <item>Hiển thị phần trăm khi sạc (mặc định)</item>
         <item>Không hiển thị biểu tượng này</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

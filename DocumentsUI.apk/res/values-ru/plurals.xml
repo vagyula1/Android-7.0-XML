@@ -48,6 +48,12 @@
         <item quantity="few">Выбрано: %1$d</item>
         <item quantity="many">Выбрано: %1$d</item>
     </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d объекта</item>
+        <item quantity="one">%1$d объект</item>
+        <item quantity="few">%1$d объекта</item>
+        <item quantity="many">%1$d объектов</item>
+    </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">Удалить %1$d файла?</item>
         <item quantity="one">Удалить %1$d файл?</item>

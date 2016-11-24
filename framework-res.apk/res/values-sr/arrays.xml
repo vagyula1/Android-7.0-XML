@@ -37,8 +37,16 @@
         <item>Друго</item>
         <item>Прилагођено</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Да бисте упућивали позиве и слали поруке преко Wi-Fi-ја, прво затражите од мобилног оператера да вам омогући ову услугу. Затим у Подешавањима поново укључите Позивање преко Wi-Fi-ја.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Региструјте се код мобилног оператера</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Wi-Fi позивање преко оператера %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Посао</item>
         <item>Друго</item>
         <item>Прилагођено</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>мобилни подаци</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Етернет</item>
+        <item>VPN</item>
     </string-array>
 </resources>

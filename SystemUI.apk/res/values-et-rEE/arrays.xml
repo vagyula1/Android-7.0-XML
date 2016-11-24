@@ -60,6 +60,18 @@
         <item>4 000 000 / logipuhver</item>
         <item>16 000 000 / logipuhver</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Väljas</item>
+        <item>Kõik</item>
+        <item>Kõik, v.a raadio</item>
+        <item>ainult tuum</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Väljas</item>
+        <item>Kõik logi puhvrid</item>
+        <item>Kõik, v.a raadiologi puhvrid</item>
+        <item>ainult tuuma logi puhver</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatsioon väljas</item>
         <item>Animatsiooni skaala 0,5 korda</item>
@@ -159,6 +171,24 @@
         <item>Silmadele loomulikuna tunduvad värvid</item>
         <item>Digitaalse sisu jaoks optimeeritud värvid</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Helistamine</item>
+        <item>Süsteem</item>
+        <item>Helin</item>
+        <item>Meedia</item>
+        <item>Äratus</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Kuva tunnid, minutid ja sekundid</item>
         <item>Kuva tunnid ja minutid (vaikimisi)</item>
@@ -169,4 +199,5 @@
         <item>Kuva protsent laadimisel (vaikimisi)</item>
         <item>Ära kuva seda ikooni</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

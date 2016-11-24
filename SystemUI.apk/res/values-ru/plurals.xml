@@ -6,6 +6,12 @@
         <item quantity="few">Показано %d экрана</item>
         <item quantity="many">Показано %d экранов</item>
     </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Ещё %s уведомления.</item>
+        <item quantity="one">Ещё %s уведомление.</item>
+        <item quantity="few">Ещё %s уведомления.</item>
+        <item quantity="many">Ещё %s уведомлений.</item>
+    </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
         <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>

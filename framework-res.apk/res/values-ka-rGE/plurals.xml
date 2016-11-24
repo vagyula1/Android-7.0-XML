@@ -4,6 +4,10 @@
         <item quantity="other">თქვენ დაგრჩათ %d მცდელობა, სანამ SIM დაიბლოკება.</item>
         <item quantity="one">თქვენ დაგრჩათ %d მცდელობა, სანამ SIM დაიბლოკება.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">დაინსტალირებულია სერტიფიცირების ორგანოები</item>
+        <item quantity="one">დაინსტალირებულია სერტიფიცირების ორგანო</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">ხარვეზის შესახებ ანგარიშის ეკრანის ანაბეჭდის გადაღება მოხდება %d წამში.</item>
         <item quantity="one">ხარვეზის შესახებ ანგარიშის ეკრანის ანაბეჭდის გადაღება მოხდება %d წამში.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d საათი</item>
         <item quantity="one">1 საათი</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d წთ</item>
+        <item quantity="one">%d წთ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d სთ</item>
+        <item quantity="one">%d სთ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d დღე</item>
+        <item quantity="one">%d დღე</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d წ</item>
+        <item quantity="one">%d წ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">%d წუთში</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%d საათში</item>
+        <item quantity="one">%d საათში</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%d დღეში</item>
+        <item quantity="one">%d დღეში</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%d წელში</item>
+        <item quantity="one">%d წელში</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d წუთის წინ</item>
+        <item quantity="one">%d წუთის წინ</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d საათის წინ</item>
+        <item quantity="one">%d საათის წინ</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d დღის წინ</item>
+        <item quantity="one">%d დღის წინ</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d წლის წინ</item>
+        <item quantity="one">%d წლის წინ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d წუთში</item>
+        <item quantity="one">%d წუთში</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d საათში</item>
+        <item quantity="one">%d საათში</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d დღეში</item>
+        <item quantity="one">%d დღეში</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d წელში</item>
+        <item quantity="one">%d წელში</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">ხელმისაწვდომია Wi-Fi ქსელები</item>

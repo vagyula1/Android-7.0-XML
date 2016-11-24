@@ -29,8 +29,12 @@
         <item quantity="one">%1$d file copiato negli appunti.</item>
     </plurals>
     <plurals name="elements_selected">
-        <item quantity="other">%1$d elementi selezionati</item>
-        <item quantity="one">%1$d elemento selezionato</item>
+        <item quantity="other">%1$d file selezionati</item>
+        <item quantity="one">%1$d file selezionato</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="delete_files_confirmation_message">
         <item quantity="other">Eliminare %1$d file?</item>

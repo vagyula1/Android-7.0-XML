@@ -14,7 +14,27 @@
         <item quantity="one">%d key assigned</item>
     </plurals>
     <plurals name="template_containers">
-        <item quantity="other">&lt;g example="List" id="type">%1$s&lt;/g> showing &lt;g example="3" id="count">%2$d&lt;/g> items.</item>
-        <item quantity="one">&lt;g example="List" id="type">%1$s&lt;/g> showing &lt;g example="1" id="count">%2$d&lt;/g> item.</item>
+        <item quantity="other">%1$s showing %2$d items.</item>
+        <item quantity="one">%1$s showing %2$d item.</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">%1$d events selected</item>
+        <item quantity="one">1 event selected</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d columns</item>
+        <item quantity="one">%1$d column</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d rows</item>
+        <item quantity="one">%1$d row</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d characters</item>
+        <item quantity="one">%1$d character</item>
     </plurals>
 </resources>

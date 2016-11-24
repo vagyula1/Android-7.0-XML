@@ -60,6 +60,18 @@
         <item>4 MB/zonă-tampon de înregistrări în jurnal</item>
         <item>16 MB/zonă-tampon de înregistrări în jurnal</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Dezactivată</item>
+        <item>Toate</item>
+        <item>Toate, fără radio</item>
+        <item>numai nucleul</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Dezactivată</item>
+        <item>Toate zonele-tampon pentru jurnale</item>
+        <item>Toate zonele-tampon pentru jurnale fără cele radio</item>
+        <item>numai zona-tampon pentru jurnalul nucleului</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animație dezactivată</item>
         <item>Animație la scara 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Culori naturale, așa cum le percepe ochiul</item>
         <item>Culori optimizate pentru conținutul digital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Apel</item>
+        <item>Sistem</item>
+        <item>Sonerie</item>
+        <item>Conținut media</item>
+        <item>Alarmă</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Afișează orele, minutele și secundele</item>
         <item>Afișează orele și minutele (prestabilit)</item>
@@ -169,4 +199,5 @@
         <item>Afișează procentajul când se încarcă (prestabilit)</item>
         <item>Nu afișa această pictogramă</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

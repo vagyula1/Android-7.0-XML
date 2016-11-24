@@ -60,6 +60,18 @@
         <item>4 MB/loggbuffert</item>
         <item>16 MB/loggbuffert</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Av</item>
+        <item>Alla</item>
+        <item>Alla utom radio</item>
+        <item>endast kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Av</item>
+        <item>Alla loggbuffertar</item>
+        <item>Alla loggbuffertar utom för radio</item>
+        <item>endast buffert av kernellogg</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animering avstängd</item>
         <item>Animering i skala 0,5x</item>
@@ -158,5 +170,10 @@
         <item>Berikade färger</item>
         <item>Naturliga färger så som ögat ser dem</item>
         <item>Färger som har anpassats för digitalt innehåll</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
 </resources>

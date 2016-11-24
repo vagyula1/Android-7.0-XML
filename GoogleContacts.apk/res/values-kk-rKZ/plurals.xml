@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d табылды</item>
+        <item quantity="one">1 табылды</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d оқылмаған элемент.</item>
+        <item quantity="one">%1$s. %2$d оқылмаған элемент.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Контактілер жойылды</item>
+        <item quantity="one">Контакт жойылды</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Телефон нөмірі бар %d контакт</item>
+        <item quantity="one">Телефон нөмірі бар 1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d табылды</item>
+        <item quantity="one">1 табылды</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d топ</item>
+        <item quantity="one">1 топ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s ішінен %1$d адам</item>
+        <item quantity="one">%2$s ішінен %1$d адам</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d адам</item>
+        <item quantity="one">%1$d адам</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Байланыстырылған контактілер (%d)</item>
+        <item quantity="one">Байланыстырылған контакт</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d ықтимал көшірме</item>
+        <item quantity="one">1 ықтимал көшірме</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d байланыстырылған контакт</item>
+        <item quantity="one">1 байланыстырылған контакт</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d файлды көшіру.</item>
+        <item quantity="one">%1$d файлды көшіру.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d файл орын ауыстыруда.</item>
+        <item quantity="one">%1$d файл орын ауыстыруда.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d файл жойылуда.</item>
+        <item quantity="one">%1$d файл жойылуда.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d файлды көшіру мүмкін болмады</item>
+        <item quantity="one">%1$d файлды көшіру мүмкін болмады</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d файлды жылжыту мүмкін болмады</item>
+        <item quantity="one">%1$d файлды жылжыту мүмкін болмады</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d файлды жою мүмкін болмады</item>
+        <item quantity="one">%1$d файлды жою мүмкін болмады</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Аралық сақтағышқа %1$d файл көшірілді.</item>
+        <item quantity="one">Аралық сақтағышқа %1$d файл көшірілді.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d элемент</item>
+        <item quantity="one">%1$d элемент</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d файлды жою керек пе?</item>
+        <item quantity="one">%1$d файлды жою керек пе?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d қалтаны ішіндегісімен бірге жою керек пе?</item>
+        <item quantity="one">%1$d қалтаны ішіндегісімен бірге жою керек пе?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d элементті жою керек пе?</item>
+        <item quantity="one">%1$d элементті жою керек пе?</item>
+    </plurals>
+</resources>

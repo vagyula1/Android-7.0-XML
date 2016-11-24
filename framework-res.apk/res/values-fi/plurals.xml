@@ -4,6 +4,10 @@
         <item quantity="other">Sinulla on %d yritystä jäljellä, ennen kuin SIM-kortti lukitaan.</item>
         <item quantity="one">Sinulla on %d yritys jäljellä, ennen kuin SIM-kortti lukitaan.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Varmenteen myöntäjiä on asennettu.</item>
+        <item quantity="one">Varmenteen myöntäjä on asennettu.</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Virheraporttiin otetaan kuvakaappaus %d sekunnin kuluttua.</item>
         <item quantity="one">Virheraporttiin otetaan kuvakaappaus %d sekunnin kuluttua.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d tuntia</item>
         <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d pv</item>
+        <item quantity="one">%d pv</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d v</item>
+        <item quantity="one">%d v</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%d min päästä</item>
+        <item quantity="one">%d min päästä</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%d t päästä</item>
+        <item quantity="one">%d t päästä</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%d pv päästä</item>
+        <item quantity="one">%d pv päästä</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%d v päästä</item>
+        <item quantity="one">%d v päästä</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minuuttia sitten</item>
+        <item quantity="one">%d minuutti sitten</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d tuntia sitten</item>
+        <item quantity="one">%d tunti sitten</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d päivää sitten</item>
+        <item quantity="one">%d päivä sitten</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d vuotta sitten</item>
+        <item quantity="one">%d vuosi sitten</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d minuutin kuluttua</item>
+        <item quantity="one">%d minuutin kuluttua</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d tunnin kuluttua</item>
+        <item quantity="one">%d tunnin kuluttua</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d päivän kuluttua</item>
+        <item quantity="one">%d päivän kuluttua</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d vuoden kuluttua</item>
+        <item quantity="one">%d vuoden kuluttua</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi-verkkoja käytettävissä</item>

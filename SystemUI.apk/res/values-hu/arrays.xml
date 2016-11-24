@@ -60,6 +60,18 @@
         <item>4 MB/naplópuffer</item>
         <item>16 MB/naplópuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Kikapcsolva</item>
+        <item>Összes</item>
+        <item>Rádiót kivéve</item>
+        <item>csak kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Kikapcsolva</item>
+        <item>Minden naplópuffer</item>
+        <item>A rádiónapló-pufferen kívül mindegyik</item>
+        <item>csak kernelnaplópuffer</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animáció ki</item>
         <item>Animáció tempója: 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Természetes színek, ahogyan azt az emberi szem is látja</item>
         <item>Digitális tartalomhoz optimalizált színek</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Hívás</item>
+        <item>Rendszer</item>
+        <item>Csörgetés</item>
+        <item>Média</item>
+        <item>Ébresztő</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Óra, perc és másodperc megjelenítése</item>
         <item>Óra és perc megjelenítése (alapértelmezett)</item>
@@ -169,4 +199,5 @@
         <item>Százalékos érték töltés közben látható (alapértelmezett)</item>
         <item>Ne jelenjen meg ez az ikon</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

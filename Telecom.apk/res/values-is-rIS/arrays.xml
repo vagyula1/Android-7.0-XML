@@ -60,6 +60,18 @@
         <item>4 M/biðminni</item>
         <item>16 M/biðminni</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Slökkt</item>
+        <item>Allt</item>
+        <item>Allt n. útvarp</item>
+        <item>einungis kjarni</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Slökkt</item>
+        <item>Allt biðminni</item>
+        <item>Allt nema útvarpsbiðminni</item>
+        <item>einungis kjarnaannálabiðminni</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Slökkt á hreyfiáhrifum</item>
         <item>Lengd hreyfiáhrifa 5x</item>
@@ -158,5 +170,10 @@
         <item>Áhrifaríkir litir</item>
         <item>Náttúrulegir litir eins og augað nemur þá</item>
         <item>Litir sérhannaðir fyrir stafrænt efni</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

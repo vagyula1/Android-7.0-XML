@@ -1,571 +1,627 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Prejsť na plochu</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Prejsť hore</string>
-  <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
-  <string name="abc_action_mode_done">Hotovo</string>
-  <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
-  <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
-  <string name="abc_capital_off">VYP.</string>
-  <string name="abc_capital_on">ZAP.</string>
-  <string name="abc_search_hint">Vyhľadať…</string>
-  <string name="abc_searchview_description_clear">Vymazať dopyt</string>
-  <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
-  <string name="abc_searchview_description_search">Hľadať</string>
-  <string name="abc_searchview_description_submit">Odoslať dopyt</string>
-  <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
-  <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
-  <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
-  <string name="abc_toolbar_collapse_description">Zbaliť</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Úprava farieb</string>
-  <string name="accessibility_no_wifi">Sieť Wi-Fi je odpojená.</string>
-  <string name="accessibility_wifi_off">Sieť Wi-Fi je vypnutá.</string>
-  <string name="accessibility_wifi_one_bar">Jedna čiarka signálu Wi-Fi.</string>
-  <string name="accessibility_wifi_signal_full">Plný signál Wi-Fi.</string>
-  <string name="accessibility_wifi_three_bars">Tri čiarky signálu Wi-Fi.</string>
-  <string name="accessibility_wifi_two_bars">Dve čiarky signálu Wi-Fi.</string>
-  <string name="account_exists_info">"Vaše e-mailové správy, kontakty, udalosti z kalendára a ďalší obsah sa budú synchronizovať do tohto telefónu. Budete tiež môcť začať sťahovať aplikácie, hudby a hry zo služby Google Play.
-
-Účty je možné neskôr pridávať a odstraňovať v časti Nastavenia &gt; Účty."</string>
-  <string name="account_exists_text_single">Účet &lt;annotation textAppearance="TextAppearance.SuwDescription.Medium"&gt;^1&lt;/annotation&gt; je pripraven&amp;#253;.</string>
-  <string name="account_exists_text_unknown_name">Váš účet je pripravený.</string>
-  <string name="account_exists_title">{accounts,plural, =1{Účet bol pridaný}few{Účty boli pridané}many{Účty boli pridané}other{Účty boli pridané}}</string>
-  <string name="activation_button_label">Aktivovať</string>
-  <string name="activation_cancel_text">Prebieha zrušenie aktivácie... Môže to trvať 5 až 10 sekúnd.</string>
-  <string name="activation_cancel_title">Bolo vyžiadané zrušenie</string>
-  <string name="activation_canceled_text">"Chcete aktiváciu zrušiť? Na to, aby ste sa pomocou služby mobilnej siete mohli pripojiť k internetu, je potrebné ju najprv aktivovať.
-
-Klepnutím na tlačidlo "&lt;b&gt;&amp;#270;alej&lt;/b&gt;" dokon&amp;#269;ite nastavenie pomocou pripojenia Wi-Fi.
-
-Mobiln&amp;#250; d&amp;#225;tov&amp;#250; slu&amp;#382;bu m&amp;#244;&amp;#382;ete aktivova&amp;#357; nesk&amp;#244;r v&amp;#160;&amp;#269;asti "&lt;b&gt;Nastavenia syst&amp;#233;mu &amp;gt; Bezdr&amp;#244;tov&amp;#233; pripojenie a&amp;#160;siete &amp;gt; Mobiln&amp;#233; siete&lt;/b&gt;.</string>
-  <string name="activation_canceled_text_standalone">"Aktivácia bola zrušená.
-
-Mobilnú dátovú službu môžete aktivovať neskôr v časti "&lt;b&gt;Nastavenia syst&amp;#233;mu &amp;gt; Bezdr&amp;#244;tov&amp;#233; pripojenie a siete &amp;gt; Mobiln&amp;#233; siete&lt;/b&gt;.</string>
-  <string name="activation_canceled_title">Aktivácia bola zrušená</string>
-  <string name="activation_continue_skip_label">Pokračovať</string>
-  <string name="activation_default_network_name">mob. sieť</string>
-  <string name="activation_failed_message">"Môžete:
-"&lt;li&gt;sa pok&amp;#250;si&amp;#357; znova pripoji&amp;#357; k&amp;#160;mobiln&amp;#253;m d&amp;#225;tam;&lt;/li&gt;"
-"&lt;li&gt;pou&amp;#382;i&amp;#357; pre nastavenie in&amp;#250; sie&amp;#357;.&lt;/li&gt;"
-
-Ak tieto mo&amp;#382;nosti nebud&amp;#250; fungova&amp;#357;, m&amp;#244;&amp;#382;ete tie&amp;#382; re&amp;#353;tartova&amp;#357; telef&amp;#243;n a&amp;#160;sk&amp;#250;si&amp;#357; to znova."</string>
-  <string name="activation_failed_title">Nedá sa pripojiť k mobilným dátam</string>
-  <string name="activation_failure_text">"Ak sa to deje aj naďalej, skúste to za chvíľu znovu alebo telefón reštartujte.
-
-Ak chcete tento krok teraz preskočiť, nezabudnite aktiváciu vykonať neskôr v nastaveniach systému. Kým to neurobíte, telefón nebude mať pripojenie k mobilnej sieti."</string>
-  <string name="activation_failure_text_gen">Vašu mobilnú dátovú službu nebolo možné aktivovať. Môže ísť o dočasný problém, ktorý sa dá vyriešiť reštartovaním telefónu.</string>
-  <string name="activation_failure_text_standalone">Mobilnú dátovú službu sa nepodarilo aktivovať. Skúste aktiváciu spustiť znova tak, že klepnete na tlačidlo &lt;b&gt;Sk&amp;#250;si&amp;#357; znova&lt;/b&gt;".
-
-Mobiln&amp;#250; d&amp;#225;tov&amp;#250; slu&amp;#382;bu m&amp;#244;&amp;#382;ete aktivova&amp;#357; nesk&amp;#244;r v&amp;#160;&amp;#269;asti "&lt;b&gt;Nastavenia syst&amp;#233;mu &amp;gt; Bezdr&amp;#244;tov&amp;#233; pripojenie a&amp;#160;siete &amp;gt; Mobiln&amp;#233; siete&lt;/b&gt;</string>
-  <string name="activation_failure_title">Aktivácia sa nepodarila</string>
-  <string name="activation_network_bars_template">Sila signálu (čiarky): %d</string>
-  <string name="activation_progress">Aktivácia môže trvať niekoľko minút. Ak chcete nastavenie dokončiť radšej pomocou pripojenia Wi-Fi, klepnite na možnosť &lt;b&gt;Presko&amp;#269;i&amp;#357;&lt;/b&gt;.</string>
-  <string name="activation_progress_before_connect">Ak chcete dokončiť nastavenie pomocou pripojenia k sieti Wi-Fi, klepnite na možnosť &lt;b&gt;Presko&amp;#269;i&amp;#357;&lt;/b&gt;.</string>
-  <string name="activation_progress_before_connect_standalone">Aktivácia môže trvať niekoľko minút.</string>
-  <string name="activation_progress_flow">"Trvá to príliš dlho?
-
-Pripojenie k mobilným dátam chvíľu trvá. Môžete sa vrátiť späť a vyskúšať sa pripojiť k inej sieti."</string>
-  <string name="activation_progress_gen">Môže to trvať až 5 minút.</string>
-  <string name="activation_progress_mobile_data">"V telefóne prebieha aktivácia mobilnej dátovej služby.
-
-Môže to trvať až 5 minút."</string>
-  <string name="activation_progress_standalone">Aktivácia môže trvať niekoľko minút.</string>
-  <string name="activation_skip_confirmation">"Dokým neaktivujete mobilnú dátovú službu, väčšina funkcií telefónu nebude fungovať.
-
-Ak chcete tento krok teraz preskočiť, môžete ho aktivovať neskôr v časti Nastavenia systému."</string>
-  <string name="activation_skip_text">Ak aktiváciu preskočíte, dokončite ju neskôr v nastaveniach. Dokým svoj telefón neaktivujete, nebudete môcť používať mobilné dátové pripojenie.</string>
-  <string name="activation_spc_failure_text">Vyskytla sa chyba, ktorá vyžaduje, aby bol telefón pred ďalším pokusom o aktiváciu vypnutý a opäť zapnutý. Telefón sa vypne automaticky o 60 sekúnd, prípadne klepnutím na tlačidlo &lt;b&gt;Vypn&amp;#250;&amp;#357; ihne&amp;#271;&lt;/b&gt;".
-
-Po vypnut&amp;#237; m&amp;#244;&amp;#382;ete telef&amp;#243;n znova zapn&amp;#250;&amp;#357; stla&amp;#269;en&amp;#237;m vyp&amp;#237;na&amp;#269;a. Aktiv&amp;#225;cia sa spust&amp;#237; automaticky."</string>
-  <string name="activation_success_text">Ak chcete pokračovať v nastaveniach, klepnite na tlačidlo &lt;b&gt;&amp;#270;alej&lt;/b&gt;.</string>
-  <string name="activation_success_text_gen">Dokončenie aktivácie vyžaduje, aby bolo zariadenie reštartované.</string>
-  <string name="activation_success_text_standalone">Ak chcete pokračovať, klepnite na možnosť &lt;b&gt;&amp;#270;alej&lt;/b&gt;".
-
-Aktiv&amp;#225;cia prebehla &amp;#250;spe&amp;#353;ne. Mobiln&amp;#225; d&amp;#225;tov&amp;#225; sie&amp;#357; v&amp;#353;ak m&amp;#244;&amp;#382;e by&amp;#357; k&amp;#160;dispoz&amp;#237;cii a&amp;#382; o&amp;#160;nieko&amp;#318;ko min&amp;#250;t."</string>
-  <string name="activation_success_title">Aktivácia bola dokončená</string>
-  <string name="activation_text">Ak chcete aktivovať mobilnú službu, klepnite na možnosť &lt;b&gt;Aktivova&amp;#357;&lt;/b&gt;". (Aktiv&amp;#225;cia m&amp;#244;&amp;#382;e trva&amp;#357; nieko&amp;#318;ko min&amp;#250;t.)
-
-Ak chcete nastavi&amp;#357; telef&amp;#243;n prostredn&amp;#237;ctvom pripojenia Wi-Fi, klepnite na mo&amp;#382;nos&amp;#357; "&lt;b&gt;Presko&amp;#269;i&amp;#357;&lt;/b&gt;.</string>
-  <string name="activation_text_standalone">Ak chcete aktivovať mobilnú službu, klepnite na možnosť &lt;b&gt;Aktivova&amp;#357;&lt;/b&gt;. (Aktiv&amp;#225;cia m&amp;#244;&amp;#382;e trva&amp;#357; nieko&amp;#318;ko min&amp;#250;t.)</string>
-  <string name="activation_title">Aktivuje sa mobilná služba…</string>
-  <string name="activation_title_activating">Aktivuje sa mobilná služba…</string>
-  <string name="activation_title_searching">Prebieha vyhľadávanie služby...</string>
-  <string name="adb_keys_warning_message">Chcete odvolať prístup k ladeniu cez USB zo všetkých počítačov, ktoré ste predtým autorizovali?</string>
-  <string name="adb_warning_message">Ladenie prostredníctvom USB je určené iba na účely vývoja. Použite ho na kopírovanie dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie údajov denníka.</string>
-  <string name="adb_warning_title">Povoliť ladenie cez USB?</string>
-  <string name="allow_mock_location">Povoliť simulované polohy</string>
-  <string name="allow_mock_location_summary">Povoliť simulované polohy</string>
-  <string name="android_privacy_policy_title">Ďalšie pravidlá ochrany súkromia</string>
-  <string name="animator_duration_scale_title">Mierka dĺžky animácie</string>
-  <string name="apn_settings_not_available">Nastavenia názvu prístupového bodu (APN) nie sú dostupné pre tohto používateľa</string>
-  <string name="app_process_limit_title">Limit procesov na pozadí</string>
-  <string name="available_via_passpoint">K dispozícii prostredníctvom %1$s</string>
-  <string name="battery_info_status_charging">Nabíjanie</string>
-  <string name="battery_info_status_charging_ac">Nabíjanie zo zásuvky</string>
-  <string name="battery_info_status_charging_usb">Nabíjanie cez USB</string>
-  <string name="battery_info_status_charging_wireless">Bezdrôtové nabíjanie</string>
-  <string name="battery_info_status_discharging">Nenabíja sa</string>
-  <string name="battery_info_status_full">Nabitá</string>
-  <string name="battery_info_status_not_charging">Nenabíja sa</string>
-  <string name="battery_info_status_unknown">Neznáme</string>
-  <string name="bluetooth_a2dp_profile_summary_connected">Pripojené ku zvukovému médiu</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Umožňuje pripojenie zvukového média</string>
-  <string name="bluetooth_connected">Pripojené</string>
-  <string name="bluetooth_connected_no_a2dp">Pripojené (bez média)</string>
-  <string name="bluetooth_connected_no_headset">Pripojené (bez telefónu)</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Pripojené (bez telefónu alebo média)</string>
-  <string name="bluetooth_connected_no_map">Pripojené (bez prístupu ku správam)</string>
-  <string name="bluetooth_connecting">Prebieha pripájanie…</string>
-  <string name="bluetooth_disable_absolute_volume">Zakázať absolútnu hlasitosť</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Umožňuje zakázať funkciu absolútnej hlasitosti rozhrania Bluetooth v prípade problémov s hlasitosťou na vzdialených zariadeniach, ako je napríklad neprijateľne vysoká hlasitosť alebo absencia ovládacích prvkov.</string>
-  <string name="bluetooth_disconnected">Odpojený</string>
-  <string name="bluetooth_disconnecting">Prebieha odpájanie...</string>
-  <string name="bluetooth_headset_profile_summary_connected">Pripojené ku zvuku telefónu</string>
-  <string name="bluetooth_headset_profile_summary_use_for">Použiť pre zvuk telefónu</string>
-  <string name="bluetooth_hid_profile_summary_connected">Pripojené na vstupné zariadenie</string>
-  <string name="bluetooth_hid_profile_summary_use_for">Použiť pre vstup</string>
-  <string name="bluetooth_map_profile_summary_connected">Pripojené k mape</string>
-  <string name="bluetooth_map_profile_summary_use_for">Použiť pre mapu</string>
-  <string name="bluetooth_opp_profile_summary_connected">Pripojené na server pre prenos údajov</string>
-  <string name="bluetooth_opp_profile_summary_not_connected">Nepripojené k serveru pre prenos súborov</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Použiť na prenos súborov</string>
-  <string name="bluetooth_pairing">Párovanie...</string>
-  <string name="bluetooth_pairing_accept">Párovať</string>
-  <string name="bluetooth_pairing_accept_all_caps">PÁROVAŤ</string>
-  <string name="bluetooth_pairing_decline">Zrušiť</string>
-  <string name="bluetooth_pairing_device_down_error_message">So zariadením %1$s nie je možné komunikovať.</string>
-  <string name="bluetooth_pairing_error_message">Nepodarilo sa spárovať so zariadením %1$s.</string>
-  <string name="bluetooth_pairing_pin_error_message">Nepodarilo sa spárovať so zariadením %1$s, pretože ste zadali nesprávny kód PIN alebo prístupový kľúč.</string>
-  <string name="bluetooth_pairing_rejected_error_message">Párovanie odmietnuté zariadením %1$s.</string>
-  <string name="bluetooth_pairing_will_share_phonebook">Párovaním udelíte zariadeniam po pripojení prístup k svojim kontaktom a histórii hovorov.</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">Zdieľa miestne internet. pripoj. so zariad</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Použiť na prístup k Internetu</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Pripoj. k zariad. s príst. na Internet</string>
-  <string name="bluetooth_profile_a2dp">Zvuk medií</string>
-  <string name="bluetooth_profile_headset">Zvuk telefónu</string>
-  <string name="bluetooth_profile_hid">Vstupné zariadenie</string>
-  <string name="bluetooth_profile_map">Prístup ku správam</string>
-  <string name="bluetooth_profile_opp">Prenos súborov</string>
-  <string name="bluetooth_profile_pan">Prístup na Internet</string>
-  <string name="bluetooth_profile_pan_nap">Zdieľanie pripojenia na Internet</string>
-  <string name="bluetooth_profile_pbap">Zdieľanie kontaktov</string>
-  <string name="bluetooth_profile_pbap_summary">Použiť na zdieľanie kontaktov</string>
-  <string name="bluetooth_profile_sap">Prístup k SIM karte</string>
-  <string name="bluetooth_sap_profile_summary_connected">Pripojené k systému SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Použiť na pristupovanie k SIM karte</string>
-  <string name="bt_hci_snoop_log">Povoliť denník Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
-  <string name="bugreport_in_power">Skratka hlásenia chyby</string>
-  <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
-  <string name="button_convert_fbe">Vymazať a konvertovať…</string>
-  <string name="cancel_button_label">Zrušiť</string>
-  <string name="canceled_a11y">Zrušený režim dostupnosti.</string>
-  <string name="cant_be_blank">Pole nesmie byť prázdne.</string>
-  <string name="captive_portal_connection_unsuccessful">Nepodarilo sa pripojiť k internetu</string>
-  <string name="captive_portal_sign_in_dialog_title">Pripojenie je k dispozícii</string>
-  <string name="category_personal">Osobné</string>
-  <string name="category_work">Práca</string>
-  <string name="charge_length_format">pred %1$s</string>
-  <string name="check_qr_dependencies_again">Skúsiť znova</string>
-  <string name="choose_profile">Výber profilu</string>
-  <string name="chrome_privacy_title">Upozornenie o ochrane osobných údajov aplikácie Chrome</string>
-  <string name="chrome_tos_title">Zmluvné podmienky prehliadača Chrome</string>
-  <string name="clear_adb_keys">Odvolať autorizácie na ladenie cez USB</string>
-  <string name="close_button_label">Zavrieť</string>
-  <string name="common_google_play_services_api_unavailable_text">Aplikácia %1$s vyžaduje minimálne jednu službu Google Play, ktorá v súčasnosti nie je k dispozícii. Kontaktujte príslušného vývojára a požiadajte ho o pomoc.</string>
-  <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
-  <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
-  <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
-  <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
-  <string name="common_google_play_services_install_text_phone">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na telefóne nemáte.</string>
-  <string name="common_google_play_services_install_text_tablet">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na tablete nemáte.</string>
-  <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
-  <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
-  <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
-  <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play vyžaduje dátové pripojenie.</string>
-  <string name="common_google_play_services_network_error_title">Chyba siete</string>
-  <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
-  <string name="common_google_play_services_restricted_profile_text">Prístup k účtom z obmedzeného profilu nie je podporovaný.</string>
-  <string name="common_google_play_services_restricted_profile_title">Obmedzený profil</string>
-  <string name="common_google_play_services_sign_in_failed_text">Pri prihlasovaní do určeného účtu sa vyskytla chyba. Zvoľte iný účet.</string>
-  <string name="common_google_play_services_sign_in_failed_title">Prihlásenie zlyhalo</string>
-  <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Ak problém pretrváva, kontaktujte vývojára a požiadajte ho o pomoc.</string>
-  <string name="common_google_play_services_unsupported_text">Aplikácia %1$s potrebuje služby Google Play, ktoré vaše zariadenie nepodporuje. Kontaktujte príslušného výrobcu a požiadajte ho o pomoc.</string>
-  <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
-  <string name="common_google_play_services_update_button">Aktualizovať</string>
-  <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
-  <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
-  <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
-  <string name="common_google_play_services_updating_title">Služby Google Play sa aktualizujú</string>
-  <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
-  <string name="common_open_on_phone">Otvoriť v telefóne</string>
-  <string name="common_signin_button_text">Prihlásiť sa</string>
-  <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
-  <string name="confirm_enable_oem_unlock_text">UPOZORNENIE: Dokiaľ bude toto nastavenie zapnuté, funkcie ochrany zariadenia nebudú na tomto zariadení fungovať.</string>
-  <string name="confirm_enable_oem_unlock_title">Povoliť odblokovanie OEM?</string>
-  <string name="connected_via_passpoint">Pripojené prostredníctvom %1$s</string>
-  <string name="connected_via_wfa">Pripojené pomocou Asistenta Wi-Fi</string>
-  <string name="continue_for_a11y">Dotýkajte sa obrazovky, dokým nezaznie zvukový signál oznamujúci zapnutie režimu dostupnosti.</string>
-  <string name="convert_to_fbe_warning">"Chystáte sa konvertovať dátový oddiel na šifrovanie založené na súboroch.
+    <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Ak problém pretrváva, kontaktujte vývojára a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+    <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na telefóne nemáte.</string>
+    <string name="common_google_play_services_install_text_tablet">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na tablete nemáte.</string>
+    <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_enable_text">Aplikácia %1$s bude fungovať až po povolení služieb Google Play.</string>
+    <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
+    <string name="common_google_play_services_update_title">Aktualizácia služieb Google Play</string>
+    <string name="common_google_play_services_update_text">Aplikáciu %1$s bude možné spustiť až po aktualizácii služieb Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase.</string>
+    <string name="common_google_play_services_updating_title">Služby Google Play sa aktualizujú</string>
+    <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
+    <string name="common_google_play_services_network_error_title">Chyba siete</string>
+    <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play vyžaduje dátové pripojenie.</string>
+    <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+    <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+    <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Aplikácia %1$s potrebuje služby Google Play, ktoré vaše zariadenie nepodporuje. Kontaktujte príslušného výrobcu a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_update_button">Aktualizovať</string>
+    <string name="common_open_on_phone">Otvoriť v telefóne</string>
+    <string name="common_google_play_services_api_unavailable_text">Aplikácia %1$s vyžaduje minimálne jednu službu Google Play, ktorá v súčasnosti nie je k dispozícii. Kontaktujte príslušného vývojára a požiadajte ho o pomoc.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Prihlásenie zlyhalo</string>
+    <string name="common_google_play_services_sign_in_failed_text">Pri prihlasovaní do určeného účtu sa vyskytla chyba. Zvoľte iný účet.</string>
+    <string name="common_google_play_services_restricted_profile_title">Obmedzený profil</string>
+    <string name="common_google_play_services_restricted_profile_text">Prístup k účtom z obmedzeného profilu nie je podporovaný.</string>
+    <string name="common_signin_button_text">Prihlásiť sa</string>
+    <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+    <string name="wifi_fail_to_scan">Siete sa nedajú vyhľadávať</string>
+    <string name="wifi_security_none">Žiadne</string>
+    <string name="wifi_remembered">Uložené</string>
+    <string name="wifi_disabled_generic">Zakázané</string>
+    <string name="wifi_disabled_network_failure">Zlyhanie konfigurácie adresy IP</string>
+    <string name="wifi_disabled_wifi_failure">Zlyhanie pripojenia Wi-Fi</string>
+    <string name="wifi_disabled_password_failure">Problém s overením totožnosti</string>
+    <string name="wifi_not_in_range">Mimo dosah</string>
+    <string name="wifi_no_internet_no_reconnect">Nenašiel sa žiadny prístup k internetu, preto nedôjde k automatickému opätovnému pripojeniu.</string>
+    <string name="wifi_no_internet">Žiadny prístup k internetu.</string>
+    <string name="saved_network">Uložil(a) %1$s</string>
+    <string name="connected_via_wfa">Pripojené pomocou Asistenta Wi-Fi</string>
+    <string name="connected_via_passpoint">Pripojené prostredníctvom %1$s</string>
+    <string name="available_via_passpoint">K dispozícii prostredníctvom %1$s</string>
+    <string name="wifi_connected_no_internet">Pripojené, žiadny internet</string>
+    <string name="bluetooth_disconnected">Odpojený</string>
+    <string name="bluetooth_disconnecting">Prebieha odpájanie...</string>
+    <string name="bluetooth_connecting">Prebieha pripájanie…</string>
+    <string name="bluetooth_connected">Pripojené</string>
+    <string name="bluetooth_pairing">Párovanie...</string>
+    <string name="bluetooth_connected_no_headset">Pripojené (bez telefónu)</string>
+    <string name="bluetooth_connected_no_a2dp">Pripojené (bez média)</string>
+    <string name="bluetooth_connected_no_map">Pripojené (bez prístupu ku správam)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Pripojené (bez telefónu alebo média)</string>
+    <string name="bluetooth_profile_a2dp">Zvuk medií</string>
+    <string name="bluetooth_profile_headset">Zvuk telefónu</string>
+    <string name="bluetooth_profile_opp">Prenos súborov</string>
+    <string name="bluetooth_profile_hid">Vstupné zariadenie</string>
+    <string name="bluetooth_profile_pan">Prístup na Internet</string>
+    <string name="bluetooth_profile_pbap">Zdieľanie kontaktov</string>
+    <string name="bluetooth_profile_pbap_summary">Použiť na zdieľanie kontaktov</string>
+    <string name="bluetooth_profile_pan_nap">Zdieľanie pripojenia na Internet</string>
+    <string name="bluetooth_profile_map">Prístup ku správam</string>
+    <string name="bluetooth_profile_sap">Prístup k SIM karte</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Pripojené ku zvukovému médiu</string>
+    <string name="bluetooth_headset_profile_summary_connected">Pripojené ku zvuku telefónu</string>
+    <string name="bluetooth_opp_profile_summary_connected">Pripojené na server pre prenos údajov</string>
+    <string name="bluetooth_map_profile_summary_connected">Pripojené k mape</string>
+    <string name="bluetooth_sap_profile_summary_connected">Pripojené k systému SAP</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Nepripojené k serveru pre prenos súborov</string>
+    <string name="bluetooth_hid_profile_summary_connected">Pripojené na vstupné zariadenie</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Pripoj. k zariad. s príst. na Internet</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Zdieľa miestne internet. pripoj. so zariad</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Použiť na prístup k Internetu</string>
+    <string name="bluetooth_map_profile_summary_use_for">Použiť pre mapu</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Použiť na pristupovanie k SIM karte</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Umožňuje pripojenie zvukového média</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Použiť pre zvuk telefónu</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Použiť na prenos súborov</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Použiť pre vstup</string>
+    <string name="bluetooth_pairing_accept">Párovať</string>
+    <string name="bluetooth_pairing_accept_all_caps">PÁROVAŤ</string>
+    <string name="bluetooth_pairing_decline">Zrušiť</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Párovaním udelíte zariadeniam po pripojení prístup k svojim kontaktom a histórii hovorov.</string>
+    <string name="bluetooth_pairing_error_message">Nepodarilo sa spárovať so zariadením %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Nepodarilo sa spárovať so zariadením %1$s, pretože ste zadali nesprávny kód PIN alebo prístupový kľúč.</string>
+    <string name="bluetooth_pairing_device_down_error_message">So zariadením %1$s nie je možné komunikovať.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Párovanie odmietnuté zariadením %1$s.</string>
+    <string name="accessibility_wifi_off">Sieť Wi-Fi je vypnutá.</string>
+    <string name="accessibility_no_wifi">Sieť Wi-Fi je odpojená.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čiarka signálu Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dve čiarky signálu Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tri čiarky signálu Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Plný signál Wi-Fi.</string>
+    <string name="process_kernel_label">OS Android</string>
+    <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
+    <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
+    <string name="tether_settings_title_usb">Zdieľané pripojenie cez USB</string>
+    <string name="tether_settings_title_wifi">Prenosný prístupový bod</string>
+    <string name="tether_settings_title_bluetooth">Pripojenie cez Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Zdieľanie dát. pripojenia</string>
+    <string name="tether_settings_title_all">Zdieľané pripojenie a prenosný hotspot</string>
+    <string name="managed_user_title">Všetky pracovné aplikácie</string>
+    <string name="user_guest">Hosť</string>
+    <string name="unknown">Neznáme</string>
+    <string name="running_process_item_user_label">Používateľ: %1$s</string>
+    <string name="launch_defaults_some">Predvolená pre niektoré akcie</string>
+    <string name="launch_defaults_none">Nie je predvolená pre žiadne akcie</string>
+    <string name="tts_settings">Nastavenia prevodu textu na reč</string>
+    <string name="tts_settings_title">Výstup prevodu textu na reč</string>
+    <string name="tts_default_rate_title">Rýchlosť reči</string>
+    <string name="tts_default_rate_summary">Rýchlosť hovoreného textu</string>
+    <string name="tts_default_pitch_title">Výška</string>
+    <string name="tts_default_pitch_summary">Určuje zvuk syntetizovaného hlasu</string>
+    <string name="tts_default_lang_title">Jazyk</string>
+    <string name="tts_lang_use_system">Používať jazyk systému</string>
+    <string name="tts_lang_not_selected">Nebol vybratý jazyk</string>
+    <string name="tts_default_lang_summary">Nastavenia jazyka hlasu pre hovorený text</string>
+    <string name="tts_play_example_title">Vypočuť príklad</string>
+    <string name="tts_play_example_summary">Prehrať krátku ukážku syntézy reči</string>
+    <string name="tts_install_data_title">Nainštalovať hlasové dáta</string>
+    <string name="tts_install_data_summary">Nainštalovať hlasové dáta potrebné na syntézu reči</string>
+    <string name="tts_engine_security_warning">Nástroj na syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných údajov, ako sú heslá alebo čísla kreditných kariet. Je založený na nástroji %s. Chcete aktivovať nástroj na syntézu reči?</string>
+    <string name="tts_engine_network_required">V prípade tohto jazyka je na prevod textu na rečový výstup potrebné pripojenie k sieti.</string>
+    <string name="tts_default_sample_string">Toto je príklad syntézy reči</string>
+    <string name="tts_status_title">Stav predvoleného jazyka</string>
+    <string name="tts_status_ok">Jazyk %1$s je plne podporovaný</string>
+    <string name="tts_status_requires_network">Jazyk %1$s vyžaduje pripojenie k sieti</string>
+    <string name="tts_status_not_supported">Jazyk %1$s nie je podporovaný</string>
+    <string name="tts_status_checking">Kontroluje sa...</string>
+    <string name="tts_engine_settings_title">%s</string>
+    <string name="tts_engine_settings_button">Spustiť nastavenia nástroja</string>
+    <string name="tts_engine_preference_section_title">Preferovaný nástroj</string>
+    <string name="tts_general_section_title">Všeobecné</string>
+    <string name="tts_reset_speech_pitch_title">Obnoviť výšku hlasu</string>
+    <string name="tts_reset_speech_pitch_summary">Obnovte predvolenú výšku hlasu vyslovujúceho text.</string>
+    <string name="choose_profile">Výber profilu</string>
+    <string name="category_personal">Osobné</string>
+    <string name="category_work">Práca</string>
+    <string name="development_settings_title">Pre vývojárov</string>
+    <string name="development_settings_enable">Povolenie možností vývojára</string>
+    <string name="development_settings_summary">Možnosti nastavenia vývoja aplikácií</string>
+    <string name="development_settings_not_available">Tento používateľ nemá k dispozícii možnosti pre vývojárov</string>
+    <string name="vpn_settings_not_available">Nastavenia vzdialeného pripojenia VPN nie sú dostupné pre tohto používateľa</string>
+    <string name="tethering_settings_not_available">Nastavenia zdieľania dátového pripojenia nie sú dostupné pre tohto používateľa</string>
+    <string name="apn_settings_not_available">Nastavenia názvu prístupového bodu (APN) nie sú dostupné pre tohto používateľa</string>
+    <string name="enable_adb">Ladenie cez USB</string>
+    <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
+    <string name="clear_adb_keys">Odvolať autorizácie na ladenie cez USB</string>
+    <string name="bugreport_in_power">Skratka hlásenia chyby</string>
+    <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
+    <string name="keep_screen_on">Nevypínať obrazovku</string>
+    <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>
+    <string name="bt_hci_snoop_log">Povoliť denník Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
+    <string name="oem_unlock_enable">Odblokovať OEM</string>
+    <string name="oem_unlock_enable_summary">Povoliť odblokovanie ponuky bootloader</string>
+    <string name="confirm_enable_oem_unlock_title">Povoliť odblokovanie OEM?</string>
+    <string name="confirm_enable_oem_unlock_text">UPOZORNENIE: Dokiaľ bude toto nastavenie zapnuté, funkcie ochrany zariadenia nebudú na tomto zariadení fungovať.</string>
+    <string name="mock_location_app">Vybrať aplikáciu so simulovanou polohou</string>
+    <string name="mock_location_app_not_set">Nemáte žiadnu aplikáciu so simulovanou polohou</string>
+    <string name="mock_location_app_set">Aplikácia so simulovanou polohou: %1$s</string>
+    <string name="debug_networking_category">Možnosti siete</string>
+    <string name="wifi_display_certification">Certifikácia bezdrôtového zobrazenia</string>
+    <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
+    <string name="wifi_aggressive_handover">Agres. odovzdávať Wi-Fi na mobilnú sieť</string>
+    <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
+    <string name="mobile_data_always_on">Mobilné dáta vždy aktívne</string>
+    <string name="bluetooth_disable_absolute_volume">Zakázať absolútnu hlasitosť</string>
+    <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového zobrazenia</string>
+    <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
+    <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dát. pripoj. na mob. sieť vtedy, keď bude slabý signál Wi-Fi</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
+    <string name="select_logd_size_title">Vyrovnávacia pamäť nástroja denníkov</string>
+    <string name="select_logd_size_dialog_title">Veľkosť vyrovnávacej pamäte nástroja denníkov</string>
+    <string name="dev_logpersist_clear_warning_title">Vymazať trvalé úložisko zapisovača do denníka?</string>
+    <string name="dev_logpersist_clear_warning_message">Keď prestaneme monitorovať pomocou trvalého zapisovača do denníka, musíme vymazať jeho dáta, ktoré sa nachádzajú vo vašom zariadení.</string>
+    <string name="select_logpersist_title">Natrvalo ukladať dáta zapisovača do denníka na zariadení</string>
+    <string name="select_logpersist_dialog_title">Vybrať vyrovnávacie pamäte denníka na trvalé ukladanie údajov na zariadení</string>
+    <string name="select_usb_configuration_title">Výber konfigurácie USB</string>
+    <string name="select_usb_configuration_dialog_title">Výber konfigurácie USB</string>
+    <string name="allow_mock_location">Povoliť simulované polohy</string>
+    <string name="allow_mock_location_summary">Povoliť simulované polohy</string>
+    <string name="debug_view_attributes">Kontrola atribútov zobrazenia</string>
+    <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
+    <string name="adb_warning_title">Povoliť ladenie cez USB?</string>
+    <string name="adb_warning_message">Ladenie cez USB je určené iba na účely vývoja. Možno ho použiť na kopírovanie dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát denníka.</string>
+    <string name="adb_keys_warning_message">Chcete všetkým v minulosti autorizovaným počítačom odvolať prístup k ladeniu cez USB?</string>
+    <string name="dev_settings_warning_title">Povoliť nastavenia pre vývojárov?</string>
+    <string name="dev_settings_warning_message">Tieto nastavenia sú určené len pre vývojárov. Môžu spôsobiť poruchu alebo nesprávne fungovanie zariadenia a nainštalovaných aplikácií.</string>
+    <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>
+    <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Umožňuje zakázať funkciu absolútnej hlasitosti rozhrania Bluetooth v prípade problémov s hlasitosťou na vzdialených zariadeniach, ako je napríklad neprijateľne vysoká hlasitosť alebo absencia ovládacích prvkov.</string>
+    <string name="enable_terminal_title">Miestny terminál</string>
+    <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
+    <string name="hdcp_checking_title">Kontrola HDCP</string>
+    <string name="hdcp_checking_dialog_title">Nastaviť spôsob kontroly HDCP</string>
+    <string name="debug_debugging_category">Ladenie</string>
+    <string name="debug_app">Vybrať aplikáciu na ladenie</string>
+    <string name="debug_app_not_set">Nie je nastavená žiadna aplikácia na ladenie</string>
+    <string name="debug_app_set">Aplikácia na ladenie: %1$s</string>
+    <string name="select_application">Výber aplikácie</string>
+    <string name="no_application">Nič</string>
+    <string name="wait_for_debugger">Čakať na ladiaci nástroj</string>
+    <string name="wait_for_debugger_summary">Aplikácia čaká na pripojenie ladiaceho nástroja</string>
+    <string name="debug_input_category">Vstup</string>
+    <string name="debug_drawing_category">Vykreslovanie</string>
+    <string name="debug_hw_drawing_category">Hardvérom zrýchlené vykresľovanie</string>
+    <string name="media_category">Médiá</string>
+    <string name="debug_monitoring_category">Monitorovanie</string>
+    <string name="strict_mode">Povoliť prísny režim</string>
+    <string name="strict_mode_summary">Blikať pri dlhých operáciách hlavného vlákna</string>
+    <string name="pointer_location">Umiestnenie ukazovateľa</string>
+    <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
+    <string name="show_touches">Zobrazovať klepnutia</string>
+    <string name="show_touches_summary">Vizuálne znázorňovať klepnutia</string>
+    <string name="show_screen_updates">Zobraziť obnovenia obsahu</string>
+    <string name="show_screen_updates_summary">Rozblikať obsah okna pri aktualizácii</string>
+    <string name="show_hw_screen_updates">Zobraziť obnovenia s GPU</string>
+    <string name="show_hw_screen_updates_summary">Rozblikať zobrazenia v oknách vykresľované GPU</string>
+    <string name="show_hw_layers_updates">Obnovenie hardvér. vrstiev</string>
+    <string name="show_hw_layers_updates_summary">Rozblikať zelene hardvérové vrstvy pri obnovení</string>
+    <string name="debug_hw_overdraw">Ladenie prekresľovania GPU</string>
+    <string name="disable_overlays">Zakázať hardvérové prekrytia</string>
+    <string name="disable_overlays_summary">Vždy používať GPU na skladanie obrazovky</string>
+    <string name="simulate_color_space">Simulácia far. priestoru</string>
+    <string name="enable_opengl_traces_title">Trasovanie OpenGL</string>
+    <string name="usb_audio_disable_routing">Vyp. smer. zvuku do USB</string>
+    <string name="usb_audio_disable_routing_summary">Vypnúť automatické smerovanie do audio periférií USB</string>
+    <string name="debug_layout">Zobraziť ohraničenia</string>
+    <string name="debug_layout_summary">Zobraziť vo výstrižku ohraničenie, okraje a pod.</string>
+    <string name="force_rtl_layout_all_locales">Rozloženia sprava doľava</string>
+    <string name="force_rtl_layout_all_locales_summary">Vynútiť pre všetky jazyky rozloženie obrazovky sprava doľava</string>
+    <string name="force_hw_ui">Vykresľovat pomocou GPU</string>
+    <string name="force_hw_ui_summary">Používať GPU na dvojrozmerné vykresľovanie</string>
+    <string name="force_msaa">Vynútiť 4x MSAA</string>
+    <string name="force_msaa_summary">Povoliť 4x MSAA v aplikáciách OpenGL ES 2.0</string>
+    <string name="show_non_rect_clip">Ladenie operácií s neobdĺžnikovými výstrižkami</string>
+    <string name="track_frame_time">Profil vykresľovania GPU</string>
+    <string name="window_animation_scale_title">Mierka animácie okna</string>
+    <string name="transition_animation_scale_title">Mierka animácie premeny</string>
+    <string name="animator_duration_scale_title">Mierka dĺžky animácie</string>
+    <string name="overlay_display_devices_title">Simulovať sekundárne obrazovky</string>
+    <string name="debug_applications_category">Aplikácie</string>
+    <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
+    <string name="immediately_destroy_activities_summary">Zničiť každú aktivitu, hneď ako ju používateľ ukončí</string>
+    <string name="app_process_limit_title">Limit procesov na pozadí</string>
+    <string name="show_all_anrs">Zobrazovať všetky ANR</string>
+    <string name="show_all_anrs_summary">Zobrazovať dialóg „Aplikácia neodpovedá“ aj pre aplikácie na pozadí</string>
+    <string name="force_allow_on_external">Vynútiť povolenie aplikácií na externom úložisku</string>
+    <string name="force_allow_on_external_summary">Umožňuje zapísať akúkoľvek aplikáciu do externého úložiska bez ohľadu na hodnoty v manifeste</string>
+    <string name="force_resizable_activities">Vynútiť možnosť zmeny veľkosti aktivít</string>
+    <string name="force_resizable_activities_summary">Veľkosti všetkých aktivít bude možné zmeniť na niekoľko okien (bez ohľadu na hodnoty manifestu).</string>
+    <string name="enable_freeform_support">Povoliť okná s voľným tvarom</string>
+    <string name="enable_freeform_support_summary">Povolenie podpory pre experimentálne okná s voľným tvarom.</string>
+    <string name="local_backup_password_title">Heslo pre zálohy v počítači</string>
+    <string name="local_backup_password_summary_none">Úplné zálohy na počítači nie sú momentálne chránené</string>
+    <string name="local_backup_password_summary_change">Klepnutím zmeníte alebo odstránite heslo pre úplné zálohy do počítača</string>
+    <string name="local_backup_password_toast_success">Nové heslo pre zálohy je nastavené</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Nové heslo a potvrdenie sa nezhodujú</string>
+    <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohy zlyhalo</string>
+    <string name="inactive_apps_title">Neaktívne aplikácie</string>
+    <string name="inactive_app_inactive_summary">Neaktívne. Prepnite klepnutím.</string>
+    <string name="inactive_app_active_summary">Aktívne. Prepnite klepnutím.</string>
+    <string name="runningservices_settings_title">Spustené služby</string>
+    <string name="runningservices_settings_summary">Zobrazenie a ovládanie aktuálne spustených služieb</string>
+    <string name="enable_webview_multiprocess">Viacprocesový prvok WebView</string>
+    <string name="enable_webview_multiprocess_desc">Spúšťať vykresľovacie moduly WebView samostatne</string>
+    <string name="select_webview_provider_title">Implementácia komponenta WebView</string>
+    <string name="select_webview_provider_dialog_title">Nastavenie implementácie komponenta WebView</string>
+    <string name="select_webview_provider_toast_text">Táto voľba už nie je platná. Skúste to znova.</string>
+    <string name="convert_to_file_encryption">Konvertovať na šifrovanie súborov</string>
+    <string name="convert_to_file_encryption_enabled">Konvertovať…</string>
+    <string name="convert_to_file_encryption_done">Súbory sú už šifrované</string>
+    <string name="title_convert_fbe">Konvertovanie na šifrovanie založené na súboroch</string>
+    <string name="convert_to_fbe_warning">"Chystáte sa konvertovať dátový oddiel na šifrovanie založené na súboroch.
  !!Upozornenie!! Týmto procesom vymažete všetky dáta.
  Táto funkcia je v alfa verzii a nemusí fungovať správne.
  Ak chcete pokračovať, stlačte tlačidlo „Vymazať a konvertovať…“."</string>
-  <string name="convert_to_file_encryption">Konvertovať na šifrovanie súborov</string>
-  <string name="convert_to_file_encryption_done">Súbory sú už šifrované</string>
-  <string name="convert_to_file_encryption_enabled">Konvertovať…</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená a zelená)</string>
-  <string name="daltonizer_mode_disabled">Zakázané</string>
-  <string name="daltonizer_mode_monochromacy">Monochromázia (úplna farbosleposť)</string>
-  <string name="daltonizer_mode_protanomaly">Protanomália (červená a zelená)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomália (modrá a žltá)</string>
-  <string name="daltonizer_type_overridden">Prekonané predvoľbou %1$s</string>
-  <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
-  <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
-  <string name="date_time_current_date">Dátum</string>
-  <string name="date_time_current_time">Čas</string>
-  <string name="date_time_message">V prípade potreby upravte.</string>
-  <string name="date_time_setup_title">Dátum a čas</string>
-  <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
-  <string name="debug_app">Vybrať aplikáciu na ladenie</string>
-  <string name="debug_app_not_set">Nie je nastavená žiadna aplikácia na ladenie</string>
-  <string name="debug_app_set">Aplikácia na ladenie: %1$s</string>
-  <string name="debug_applications_category">Aplikácie</string>
-  <string name="debug_debugging_category">Ladenie</string>
-  <string name="debug_drawing_category">Vykreslovanie</string>
-  <string name="debug_hw_drawing_category">Hardvérom zrýchlené vykresľovanie</string>
-  <string name="debug_hw_overdraw">Ladenie prekresľovania GPU</string>
-  <string name="debug_input_category">Vstup</string>
-  <string name="debug_layout">Zobraziť ohraničenia</string>
-  <string name="debug_layout_summary">Zobraziť vo výstrižku ohraničenie, okraje a pod.</string>
-  <string name="debug_monitoring_category">Monitorovanie</string>
-  <string name="debug_networking_category">Možnosti siete</string>
-  <string name="debug_view_attributes">Kontrola atribútov zobrazenia</string>
-  <string name="dev_settings_warning_message">Tieto nastavenia sú určené len pre vývojárov. Môžu spôsobiť poruchu alebo nesprávne fungovanie zariadenia a nainštalovaných aplikácií.</string>
-  <string name="dev_settings_warning_title">Povoliť nastavenia pre vývojárov?</string>
-  <string name="development_settings_enable">Povolenie možností vývojára</string>
-  <string name="development_settings_not_available">Tento používateľ nemá k dispozícii možnosti pre vývojárov</string>
-  <string name="development_settings_summary">Možnosti nastavenia vývoja aplikácií</string>
-  <string name="development_settings_title">Pre vývojárov</string>
-  <string name="device_name">telefón</string>
-  <string name="device_owner_continue">Pokračovať</string>
-  <string name="device_owner_reset">Resetovať telefón</string>
-  <string name="device_owner_warning">Tento telefón spravuje aplikácia %1$s. Znamená to, že niektoré vaše informácie môžu vidieť iní ľudia. Ak chcete zabrániť sledovaniu, obnovte svoje zariadenie.</string>
-  <string name="device_owner_warning_title">Telefón môže byť sledovaný</string>
-  <string name="dialog_back_button_label">Späť</string>
-  <string name="dialog_continue_button_label">Pokračovať</string>
-  <string name="disable_overlays">Zakázať hardvérové prekrytia</string>
-  <string name="disable_overlays_summary">Vždy používať GPU na skladanie obrazovky</string>
-  <string name="disabled_by_admin">Zakázané správcom</string>
-  <string name="disabled_by_admin_summary_text">Ovládané správcom</string>
-  <string name="down_button_label">Viac</string>
-  <string name="download_qr_dependencies_failed_content">Čítačku kódov QR sa nepodarilo nainštalovať</string>
-  <string name="early_update_downloading_text">Sťahuje sa aplikácia %s</string>
-  <string name="early_update_installing_text">Inštaluje sa aplikácia %s</string>
-  <string name="early_update_text">Kontrolujú sa aktualizácie…</string>
-  <string name="early_update_title">Aktualizácia softvéru</string>
-  <string name="emergency_dial">Tiesňové volanie</string>
-  <string name="enable_adb">Ladenie cez USB</string>
-  <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
-  <string name="enable_freeform_support">Povoliť okná s voľným tvarom</string>
-  <string name="enable_freeform_support_summary">Povolenie podpory pre experimentálne okná s voľným tvarom.</string>
-  <string name="enable_opengl_traces_title">Trasovanie OpenGL</string>
-  <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
-  <string name="enable_terminal_title">Miestny terminál</string>
-  <string name="enable_webview_multiprocess">Povoliť viacprocesové moduly WebView</string>
-  <string name="enable_webview_multiprocess_desc">Spúšťať vykresľovacie moduly WebView v izolovanom procese.</string>
-  <string name="enabled_a11y">Režim dostupnosti je povolený.</string>
-  <string name="enabled_by_admin">Povolené správcom</string>
-  <string name="exit_loading_launcher">Načítava sa spúšťač…</string>
-  <string name="factory_reset_button">Vymazať a Obnoviť</string>
-  <string name="factory_reset_confirmation">Chcete vymazať všetky účty a údaje na tomto telefóne? Táto akcia sa nedá vrátiť späť.</string>
-  <string name="factory_reset_confirmation_title">Resetovať?</string>
-  <string name="factory_reset_instructions">Upozornenie: Obnovením vymažete všetky účty a údaje v internom úložisku tohto telefónu.</string>
-  <string name="factory_reset_title">Resetovať telefón</string>
-  <string name="finish_button_label">Dokončiť</string>
-  <string name="flow_choice_new_label">Nastaviť ako nové zariadenie</string>
-  <string name="flow_choice_restore_summary">Obnoviť zo zálohy alebo skopírovať zo zariadenia</string>
-  <string name="flow_choice_title">Nastavenie zariadenia ^1</string>
-  <string name="force_allow_on_external">Vynútiť povolenie aplikácií na externom úložisku</string>
-  <string name="force_allow_on_external_summary">Umožňuje zapísať akúkoľvek aplikáciu do externého úložiska bez ohľadu na hodnoty v manifeste</string>
-  <string name="force_hw_ui">Vykresľovat pomocou GPU</string>
-  <string name="force_hw_ui_summary">Používať GPU na dvojrozmerné vykresľovanie</string>
-  <string name="force_msaa">Vynútiť 4x MSAA</string>
-  <string name="force_msaa_summary">Povoliť 4x MSAA v aplikáciách OpenGL ES 2.0</string>
-  <string name="force_resizable_activities">Vynútiť možnosť zmeny veľkosti aktivít</string>
-  <string name="force_resizable_activities_summary">Veľkosti všetkých aktivít bude možné zmeniť na niekoľko okien (bez ohľadu na hodnoty manifestu).</string>
-  <string name="force_rtl_layout_all_locales">Rozloženia sprava doľava</string>
-  <string name="force_rtl_layout_all_locales_summary">Vynútiť pre všetky jazyky rozloženie obrazovky sprava doľava</string>
-  <string name="go_back_button_label">Späť</string>
-  <string name="google_legal_title">Právne informácie spoločnosti Google</string>
-  <string name="google_play_tos_title">Zmluvné podmienky služby Google Play</string>
-  <string name="google_plus_privacy_policy_title">Google Plus – Pavidlá ochrany osobných údajov</string>
-  <string name="google_privacy_policy_title">Pravidlá ochrany súkromia Google</string>
-  <string name="google_terms_of_service_title">Zmluvné podmienky Google</string>
-  <string name="got_it_button_label">Dobre</string>
-  <string name="hdcp_checking_dialog_title">Nastaviť spôsob kontroly HDCP</string>
-  <string name="hdcp_checking_title">Kontrola HDCP</string>
-  <string name="home">Domov</string>
-  <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
-  <string name="immediately_destroy_activities_summary">Zničiť každú aktivitu, hneď ako ju používateľ ukončí</string>
-  <string name="inactive_app_active_summary">Aktívne. Prepnite klepnutím.</string>
-  <string name="inactive_app_inactive_summary">Neaktívne. Prepnite klepnutím.</string>
-  <string name="inactive_apps_title">Neaktívne aplikácie</string>
-  <string name="invalid_qr_code_content">Uistite sa, že máte správny kód QR pre vašu organizáciu a skúste to znova.</string>
-  <string name="invalid_qr_code_retry">Skúsiť znova</string>
-  <string name="invalid_qr_code_title">Kód QR nefungoval</string>
-  <string name="keep_screen_on">Nevypínať obrazovku</string>
-  <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>
-  <string name="launch_defaults_none">Nie je predvolená pre žiadne akcie</string>
-  <string name="launch_defaults_some">Predvolená pre niektoré akcie</string>
-  <string name="legacy_dhcp_client">Použiť starý klient DHCP</string>
-  <string name="legacy_dhcp_client_summary">Použitie klienta DHCP z verzie Lollipop namiesto nového klienta Android DHCP.</string>
-  <string name="local_backup_password_summary_change">Klepnutím zmeníte alebo odstránite heslo pre úplné zálohy do počítača</string>
-  <string name="local_backup_password_summary_none">Úplné zálohy na počítači nie sú momentálne chránené</string>
-  <string name="local_backup_password_title">Heslo pre zálohy v počítači</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Nové heslo a potvrdenie sa nezhodujú</string>
-  <string name="local_backup_password_toast_success">Nové heslo pre zálohy je nastavené</string>
-  <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohy zlyhalo</string>
-  <string name="managed_user_title">Pracovný profil</string>
-  <string name="media_category">Médiá</string>
-  <string name="mobile_data_always_on">Mobilné dáta vždy aktívne</string>
-  <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
-  <string name="mock_location_app">Vybrať aplikáciu so simulovanou polohou</string>
-  <string name="mock_location_app_not_set">Nemáte žiadnu aplikáciu so simulovanou polohou</string>
-  <string name="mock_location_app_set">Aplikácia so simulovanou polohou: %1$s</string>
-  <string name="name_display_name_hint">napr. Ján Kováč</string>
-  <string name="name_display_name_label">Meno</string>
-  <string name="name_text">Ak zadáte svoje meno, niektoré aplikácie v telefóne bude možné prispôsobiť.</string>
-  <string name="name_title">Meno</string>
-  <string name="network_description_text_google_account_flow">Ak sa chcete prihlásiť do účtu Google, najprv sa pripojte k internetu.</string>
-  <string name="network_description_text_new_flow">Ak chcete pokračovať v nastavení, pripojte sa k internetu.</string>
-  <string name="network_description_text_restore_from_android_flow">Ak chcete kopírovať dáta zo zariadenia s Androidom, najprv sa pripojte k internetu.</string>
-  <string name="network_see_all_wifi">Zobraziť všetky siete Wi-Fi</string>
-  <string name="network_title">Pripojte sa</string>
-  <string name="network_use_cellular">Na nastavenie použiť mobilnú sieť</string>
-  <string name="no_application">Nič</string>
-  <string name="notification_update_message">Ak chcete Sprievodcu nastavením spustiť znova, klepnite tu.</string>
-  <string name="notification_update_title">Váš účet treba aktualizovať</string>
-  <string name="oem_unlock_enable">Odblokovať OEM</string>
-  <string name="oem_unlock_enable_summary">Povoliť odblokovanie ponuky bootloader</string>
-  <string name="ok_button_label">OK</string>
-  <string name="ota_agreement_text">Pokračovaním a prijatím tejto aktualizácie softvéru vyjadrujete súhlas so &lt;annotation link="tos"&gt;Zmluvn&amp;#253;mi podmienkami Google&lt;/annotation&gt; a &lt;annotation link="google_privacy"&gt;Pravidlami ochrany osobn&amp;#253;ch &amp;#250;dajov&lt;/annotation&gt;.</string>
-  <string name="ota_info">Telefón potrebuje stiahnuť aktualizácie a reštartovať sa.</string>
-  <string name="ota_size">Veľkosť: %s</string>
-  <string name="ota_update_title">Aktualizácia telefónu</string>
-  <string name="overlay_display_devices_title">Simulovať sekundárne obrazovky</string>
-  <string name="picture_color_mode">Farebný režim obrázka</string>
-  <string name="picture_color_mode_desc">Použije sa sRGB</string>
-  <string name="pointer_location">Umiestnenie ukazovateľa</string>
-  <string name="pointer_location_summary">Zobraziť prekryvnú vrstvu s aktuálnymi údajmi o klepnutiach</string>
-  <string name="power_charging">%1$s – %2$s</string>
-  <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
-  <string name="power_charging_duration_ac">%1$s – %2$s do úplného nabitia zo zásuvky</string>
-  <string name="power_charging_duration_usb">%1$s – %2$s do úplného nabitia cez USB</string>
-  <string name="power_charging_duration_wireless">%1$s – %2$s do úplného nabitia bezdrôtovo</string>
-  <string name="power_discharging_duration">%1$s – zostáva približne %2$s</string>
-  <string name="power_remaining_duration_only">Zostáva cca. %1$s</string>
-  <string name="process_kernel_label">OS Android</string>
-  <string name="qr_dependencies_check_timeout_text">Môže to trvať až dve minúty.</string>
-  <string name="qr_dependencies_check_title">Inštaluje sa čítačka kódov QR…</string>
-  <string name="qr_provision_user_consent_content_without_qr_library">"Ak chcete nastaviť toto zariadenie pre vašu organizáciu, najprv sa musíte pripojiť k sieti a stiahnuť čítačku kódov QR.
+    <string name="button_convert_fbe">Vymazať a konvertovať…</string>
+    <string name="picture_color_mode">Farebný režim obrázka</string>
+    <string name="picture_color_mode_desc">Použije sa sRGB</string>
+    <string name="daltonizer_mode_disabled">Zakázané</string>
+    <string name="daltonizer_mode_monochromacy">Monochromázia (úplna farbosleposť)</string>
+    <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená a zelená)</string>
+    <string name="daltonizer_mode_protanomaly">Protanomália (červená a zelená)</string>
+    <string name="daltonizer_mode_tritanomaly">Tritanomália (modrá a žltá)</string>
+    <string name="accessibility_display_daltonizer_preference_title">Úprava farieb</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
+    <string name="daltonizer_type_overridden">Prekonané predvoľbou %1$s</string>
+    <string name="power_remaining_duration_only">Zostáva cca. %1$s</string>
+    <string name="power_remaining_duration_only_short">Zostávajúci čas: %1$s</string>
+    <string name="power_discharging_duration">%1$s – zostáva približne %2$s</string>
+    <string name="power_discharging_duration_short">%1$s – zostávajúci čas: %2$s</string>
+    <string name="power_charging">%1$s – %2$s</string>
+    <string name="power_charging_duration">%1$s – %2$s do úplného nabitia</string>
+    <string name="power_charging_duration_short">%1$s – %2$s</string>
+    <string name="power_charging_duration_ac">%1$s – %2$s do úplného nabitia zo zásuvky</string>
+    <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
+    <string name="power_charging_duration_usb">%1$s – %2$s do úplného nabitia cez USB</string>
+    <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
+    <string name="power_charging_duration_wireless">%1$s – %2$s do úplného nabitia bezdrôtovo</string>
+    <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
+    <string name="battery_info_status_unknown">Neznáme</string>
+    <string name="battery_info_status_charging">Nabíjanie</string>
+    <string name="battery_info_status_charging_ac">Nabíjanie zo zásuvky</string>
+    <string name="battery_info_status_charging_ac_short">Nabíjanie</string>
+    <string name="battery_info_status_charging_usb">Nabíjanie cez USB</string>
+    <string name="battery_info_status_charging_usb_short">Nabíjanie</string>
+    <string name="battery_info_status_charging_wireless">Bezdrôtové nabíjanie</string>
+    <string name="battery_info_status_charging_wireless_short">Nabíjanie</string>
+    <string name="battery_info_status_discharging">Nenabíja sa</string>
+    <string name="battery_info_status_not_charging">Nenabíja sa</string>
+    <string name="battery_info_status_full">Nabitá</string>
+    <string name="disabled_by_admin_summary_text">Ovládané správcom</string>
+    <string name="enabled_by_admin">Povolené správcom</string>
+    <string name="disabled_by_admin">Zakázané správcom</string>
+    <string name="home">Domovská stránka nastavení</string>
+    <string name="charge_length_format">pred %1$s</string>
+    <string name="remaining_length_format">Zostáva %1$s</string>
+    <string name="screen_zoom_summary_small">Malé</string>
+    <string name="screen_zoom_summary_default">Predvolená</string>
+    <string name="screen_zoom_summary_large">Veľké</string>
+    <string name="screen_zoom_summary_very_large">Väčšie</string>
+    <string name="screen_zoom_summary_extremely_large">Najväčšie</string>
+    <string name="screen_zoom_summary_custom">Vlastné (%d)</string>
+    <string name="help_feedback_label">Pomocník a spätná väzba</string>
+    <string name="content_description_menu_button">Ponuka</string>
+    <string name="suw_next_button_label">Ďalej</string>
+    <string name="suw_back_button_label">Späť</string>
+    <string name="suw_more_button_label">Viac</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_capital_off">VYP.</string>
+    <string name="search_menu_title">Vyhľadávanie</string>
+    <string name="setup_wizard_title">Sprievodca nastavením</string>
+    <string name="device_name">telefón</string>
+    <string name="finish_button_label">Dokončiť</string>
+    <string name="skip_button_label">Preskočiť</string>
+    <string name="skip_anyway_button_label">Preskočiť</string>
+    <string name="go_back_button_label">Späť</string>
+    <string name="down_button_label">Viac</string>
+    <string name="cancel_button_label">Zrušiť</string>
+    <string name="restart_button_label">Reštartovať</string>
+    <string name="try_again_button_label">Skúsiť znova</string>
+    <string name="close_button_label">Zavrieť</string>
+    <string name="got_it_button_label">Dobre</string>
+    <string name="ok_button_label">OK</string>
+    <string name="dialog_back_button_label">Späť</string>
+    <string name="dialog_continue_button_label">Pokračovať</string>
+    <string name="google_legal_title">Právne informácie spoločnosti Google</string>
+    <string name="url_load_unsuccessful_message">Váš telefón nie je pripojený k mobilnej dátovej službe. Ak chcete zobraziť tieto informácie, prejdite vo webovom prehliadači na stránky %s.</string>
+    <string name="start">Začať</string>
+    <string name="wait_msg">Moment...</string>
+    <string name="skip_toast">Sprievodca nastavením bol preskočený.</string>
+    <string name="terminate_toast">"Sprievodca nastavením bol ukončený.
+Zariadenie nebolo inicializované."</string>
+    <string name="activation_title">Aktivuje sa mobilná služba…</string>
+    <string name="activation_progress_flow">"Trvá to príliš dlho?
 
-Potom pomocou fotoaparátu naskenujte kód QR vašej organizácie."</string>
-  <string name="qr_provision_user_consent_title">Nastavenie pomocou kódu QR</string>
-  <string name="reboot_button_label">Reštartovať</string>
-  <string name="remaining_length_format">Zostáva %1$s</string>
-  <string name="restart_button_label">Reštartovať</string>
-  <string name="restart_setup_wizard_button_label">Nastaviť telefón</string>
-  <string name="restart_setup_wizard_dialog_text">"Ak chcete tento telefón používať, musíte sa najprv prihlásiť do účtu Google vlastníka, ktorý sa na tomto zariadení používal pri jeho poslednom obnovení.
+Pripojenie k mobilným dátam chvíľu trvá. Môžete sa vrátiť späť a vyskúšať sa pripojiť k inej sieti."</string>
+    <string name="activation_failed_title">Nedá sa pripojiť k mobilným dátam</string>
+    <string name="activation_failed_message">"Môžete:
+"<li>sa pokúsiť znova pripojiť k mobilným dátam;</li>"
+"<li>použiť pre nastavenie inú sieť.</li>"
+
+Ak tieto možnosti nebudú fungovať, môžete tiež reštartovať telefón a skúsiť to znova."</string>
+    <string name="activation_title_searching">Prebieha vyhľadávanie služby...</string>
+    <string name="activation_title_activating">Aktivuje sa mobilná služba…</string>
+    <string name="activation_default_network_name">mob. sieť</string>
+    <string name="activation_network_bars_template">Sila signálu (čiarky): %d</string>
+    <string name="activation_text">Ak chcete aktivovať mobilnú službu, klepnite na možnosť <b>Aktivovať</b>". (Aktivácia môže trvať niekoľko minút.)
+
+Ak chcete nastaviť telefón prostredníctvom pripojenia Wi-Fi, klepnite na možnosť "<b>Preskočiť</b>.</string>
+    <string name="activation_text_standalone">Ak chcete aktivovať mobilnú službu, klepnite na možnosť <b>Aktivovať</b>. (Aktivácia môže trvať niekoľko minút.)</string>
+    <string name="activation_skip_confirmation">"Dokým neaktivujete mobilnú dátovú službu, väčšina funkcií telefónu nebude fungovať.
+
+Ak chcete tento krok teraz preskočiť, môžete ho aktivovať neskôr v časti Nastavenia systému."</string>
+    <string name="activation_continue_skip_label">Pokračovať</string>
+    <string name="activation_button_label">Aktivovať</string>
+    <string name="activation_progress_before_connect">Ak chcete dokončiť nastavenie pomocou pripojenia k sieti Wi-Fi, klepnite na možnosť <b>Preskočiť</b>.</string>
+    <string name="activation_progress">Aktivácia môže trvať niekoľko minút. Ak chcete nastavenie dokončiť radšej pomocou pripojenia Wi-Fi, klepnite na možnosť <b>Preskočiť</b>.</string>
+    <string name="activation_progress_gen">Môže to trvať až 5 minút.</string>
+    <string name="activation_progress_mobile_data">"V telefóne prebieha aktivácia mobilnej dátovej služby.
+
+Môže to trvať až 5 minút."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivácia môže trvať niekoľko minút.</string>
+    <string name="activation_progress_standalone">Aktivácia môže trvať niekoľko minút.</string>
+    <string name="activation_success_title">Aktivácia bola dokončená</string>
+    <string name="activation_success_text">Ak chcete pokračovať v nastaveniach, klepnite na tlačidlo <b>Ďalej</b>.</string>
+    <string name="activation_success_text_gen">Dokončenie aktivácie vyžaduje, aby bolo zariadenie reštartované.</string>
+    <string name="activation_success_text_standalone">Ak chcete pokračovať, klepnite na možnosť <b>Ďalej</b>".
+
+Aktivácia prebehla úspešne. Mobilná dátová sieť však môže byť k dispozícii až o niekoľko minút."</string>
+    <string name="activation_failure_title">Aktivácia sa nepodarila</string>
+    <string name="activation_failure_text">"Ak sa to deje aj naďalej, skúste to za chvíľu znovu alebo telefón reštartujte.
+
+Ak chcete tento krok teraz preskočiť, nezabudnite aktiváciu vykonať neskôr v nastaveniach systému. Kým to neurobíte, telefón nebude mať pripojenie k mobilnej sieti."</string>
+    <string name="activation_failure_text_gen">Vašu mobilnú dátovú službu nebolo možné aktivovať. Môže ísť o dočasný problém, ktorý sa dá vyriešiť reštartovaním telefónu.</string>
+    <string name="activation_failure_text_standalone">Mobilnú dátovú službu sa nepodarilo aktivovať. Skúste aktiváciu spustiť znova tak, že klepnete na tlačidlo <b>Skúsiť znova</b>".
+
+Mobilnú dátovú službu môžete aktivovať neskôr v časti "<b>Nastavenia systému > Bezdrôtové pripojenie a siete > Mobilné siete</b></string>
+    <string name="activation_cancel_title">Bolo vyžiadané zrušenie</string>
+    <string name="activation_cancel_text">Prebieha zrušenie aktivácie... Môže to trvať 5 až 10 sekúnd.</string>
+    <string name="activation_canceled_title">Aktivácia bola zrušená</string>
+    <string name="activation_canceled_text">"Chcete aktiváciu zrušiť? Na to, aby ste sa pomocou služby mobilnej siete mohli pripojiť k internetu, je potrebné ju najprv aktivovať.
+
+Klepnutím na tlačidlo "<b>Ďalej</b>" dokončite nastavenie pomocou pripojenia Wi-Fi.
+
+Mobilnú dátovú službu môžete aktivovať neskôr v časti "<b>Nastavenia systému > Bezdrôtové pripojenie a siete > Mobilné siete</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktivácia bola zrušená.
+
+Mobilnú dátovú službu môžete aktivovať neskôr v časti "<b>Nastavenia systému > Bezdrôtové pripojenie a siete > Mobilné siete</b>.</string>
+    <string name="activation_spc_failure_text">Vyskytla sa chyba, ktorá vyžaduje, aby bol telefón pred ďalším pokusom o aktiváciu vypnutý a opäť zapnutý. Telefón sa vypne automaticky o 60 sekúnd, prípadne klepnutím na tlačidlo <b>Vypnúť ihneď</b>".
+
+Po vypnutí môžete telefón znova zapnúť stlačením vypínača. Aktivácia sa spustí automaticky."</string>
+    <string name="shutdown_button_label">Vypnúť ihneď</string>
+    <string name="reboot_button_label">Reštartovať</string>
+    <string name="activation_skip_text">Ak aktiváciu preskočíte, dokončite ju neskôr v nastaveniach. Dokým svoj telefón neaktivujete, nebudete môcť používať mobilné dátové pripojenie.</string>
+    <string name="activation_unprovisioned_sim_message">"Váš poskytovateľ mobilných služieb nemá účet zodpovedajúci tejto SIM karte. Obráťte sa na svojho poskytovateľa  a požiadajte ho o zriadenie účtu."</string>
+    <string name="notification_update_title">Váš účet treba aktualizovať</string>
+    <string name="notification_update_message">Ak chcete Sprievodcu nastavením spustiť znova, klepnite tu.</string>
+    <string name="account_exists_title">{accounts,plural, =1{Účet bol pridaný}few{Účty boli pridané}many{Účty boli pridané}other{Účty boli pridané}}</string>
+    <string name="account_exists_text_single">Účet <annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> je pripravený.</string>
+    <string name="account_exists_text_unknown_name">Váš účet je pripravený.</string>
+    <string name="account_exists_info">"Vaše e-mailové správy, kontakty, udalosti z kalendára a ďalší obsah sa budú synchronizovať do tohto telefónu. Môžete tiež začať sťahovať aplikácie, hudby a hry zo služby Google Play.
+
+Účty je možné neskôr pridávať a odstraňovať v časti Nastavenia > Účty."</string>
+    <string name="date_time_setup_title">Dátum a čas</string>
+    <string name="date_time_message">V prípade potreby upravte.</string>
+    <string name="date_time_current_date">Dátum</string>
+    <string name="date_time_current_time">Čas</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{Vložte SIM kartu}few{Vložte SIM karty}many{Vložte SIM karty}other{Vložte SIM karty}}</string>
+    <string name="sim_missing_text">"Priehradka na SIM kartu sa nachádza na ľavom hornom okraji telefónu.
+
+Nástrojom na vysunutie SIM karty, ktorý ste dostali s telefónom, vytiahnite priehradku a vložte nano SIM kartu.
+
+Aktivácia SIM karty po vložení môže trvať niekoľko sekúnd."</string>
+    <string name="sim_locked_title">SIM karta nie je podporovaná</string>
+    <string name="sim_locked_text">"Tento telefón je momentálne blokovaný na používanie iného operátora. Budete musieť použiť platnú SIM kartu.
+
+Po vložení SIM karty môže jej aktivácia trvať niekoľko sekúnd."</string>
+    <string name="sim_setup_title">Nastavenie SIM kariet</string>
+    <string name="sim_setup_select_data">Vyberte SIM kartu pre mobilné dáta</string>
+    <string name="sim_setup_select_voice">Vyberte SIM kartu pre hovory</string>
+    <string name="sim_setup_select_text">Vyberte SIM kartu pre textové správy</string>
+    <string name="sim_setup_ask_every_time">Vždy sa opýtať</string>
+    <string name="wifi_title">Výber siete Wi-Fi</string>
+    <string name="wifi_skipped_title">Možné poplatky za dáta</string>
+    <string name="wifi_skipped_message">Telefón použije počas nastavenia mobilnú sieť a za spotrebu týchto dát vám môže byť účtovaný poplatok. Ak chcete predísť možným poplatkom, pripojte sa k sieti Wi-Fi.</string>
+    <string name="wifi_scanning">Prebieha vyhľadávanie sietí Wi-Fi...</string>
+    <string name="wifi_and_mobile_skipped_message">"Pripojenie k sieti vám pomôže rýchlo nastaviť váš telefón.
+
+Bez pripojenia nie je možné:
+
+"<li>prihlásiť sa do účtu Google;</li>"
+
+"<li>obnoviť aplikácie a dáta;</li>"
+
+"<li>získať aktualizácie softvéru;</li>"
+
+"<li>automaticky nastaviť dátum a čas.</li></string>
+    <string name="wifi_and_mobile_skipped_message_new_flow">"Pripojenie k sieti umožňuje rýchle nastavenie telefónu.
+
+Bez pripojenia nie je možné:
+
+"<li>prihlásiť sa do účtu Google;</li>"
+
+"<li>získať aktualizácie softvéru;</li>"
+
+"<li>automaticky nastaviť čas a dátum.</li></string>
+    <string name="wifi_add_new_network">Pridať novú sieť</string>
+    <string name="wifi_ip_address_title">Adresa IP</string>
+    <string name="wifi_ip_address_not_available">Nie je k dispozícii</string>
+    <string name="wifi_mac_address_title">Adresa MAC</string>
+    <string name="wifi_mac_address_not_available">Nie je k dispozícii</string>
+    <string name="network_title">Pripojte sa</string>
+    <string name="network_description_text_new_flow">Ak chcete pokračovať v nastavení, pripojte sa k sieti</string>
+    <string name="network_description_text_restore_flow">Ak chcete kopírovať alebo obnoviť údaje, napríklad fotky alebo hudbu, pripojte sa k sieti</string>
+    <string name="network_see_all_wifi">Zobraziť všetky siete Wi-Fi</string>
+    <string name="network_use_cellular">Na nastavenie použiť mobilnú sieť</string>
+    <string name="network_dont_connect">Nepoužívať sieť na nastavenie</string>
+    <string name="captive_portal_title">Prebieha pripájanie…</string>
+    <string name="captive_portal_description_text">Môže to chvíľu trvať</string>
+    <string name="captive_portal_sign_in_dialog_title">Pripojenie je k dispozícii</string>
+    <string name="captive_portal_connection_unsuccessful">Nepodarilo sa pripojiť k internetu</string>
+    <string name="gms_checkin_title">Kontrolujú sa aktualizácie…</string>
+    <string name="gms_checkin_description_text">Môže to chvíľu trvať</string>
+    <string name="gms_account_checkin_title">Načítavajú sa informácie o účte…</string>
+    <string name="ota_update_title">Aktualizácia telefónu</string>
+    <string name="ota_info">Telefón potrebuje stiahnuť aktualizácie a reštartovať sa.</string>
+    <string name="ota_size">Veľkosť: %s</string>
+    <string name="ota_agreement_text">Pokračovaním a prijatím tejto aktualizácie softvéru vyjadrujete súhlas so <annotation link="tos">Zmluvnými podmienkami Google</annotation> a <annotation link="google_privacy">Pravidlami ochrany osobných údajov</annotation>.</string>
+    <string name="early_update_title">Kontrolujú sa aktualizácie…</string>
+    <string name="early_update_text">Môže to chvíľu trvať</string>
+    <string name="early_update_downloading_text">Sťahuje sa aplikácia %s</string>
+    <string name="early_update_installing_text">Inštaluje sa aplikácia %s</string>
+    <string name="warm_sim_check_msg">Čaká sa na sieť...</string>
+    <string name="android_privacy_policy_title">Ďalšie pravidlá ochrany súkromia</string>
+    <string name="google_terms_of_service_title">Zmluvné podmienky Google</string>
+    <string name="google_privacy_policy_title">Pravidlá ochrany súkromia Google</string>
+    <string name="google_plus_privacy_policy_title">Google Plus – Pavidlá ochrany osobných údajov</string>
+    <string name="google_play_tos_title">Zmluvné podmienky Google Play</string>
+    <string name="chrome_tos_title">Zmluvné podmienky prehliadača Chrome</string>
+    <string name="chrome_privacy_title">Upozornenie o ochrane osobných údajov aplikácie Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Zaradenie s Androidom nie je pripojené k sieti Wi-Fi. Ak chcete tieto informácie zobraziť, navštívte vo webovom prehliadači adresu %s.</string>
+    <string name="continue_for_a11y">Dotýkajte sa obrazovky, dokým nezaznie zvukový signál oznamujúci zapnutie režimu dostupnosti.</string>
+    <string name="canceled_a11y">Zrušený režim dostupnosti.</string>
+    <string name="enabled_a11y">Režim dostupnosti je povolený.</string>
+    <string name="welcome_message">Vitajte!</string>
+    <string name="emergency_dial">Stav tiesne</string>
+    <string name="welcome_accessibility_button">Nastavenia viditeľnosti</string>
+    <string name="welcome_language_picker_dialog_title">Vyberte si jazyk</string>
+    <string name="welcome_language_picker_section_suggested">Navrhnuté</string>
+    <string name="welcome_language_picker_section_all">Všetky jazyky</string>
+    <string name="welcome_language_picker_content_description">Jazyk: %s</string>
+    <string name="welcome_start_button_label">Začať</string>
+    <string name="retail_mode_item_disable_label">Deaktivovať ukážku pre predajcov</string>
+    <string name="retail_mode_item_label">Ukážka funkcií</string>
+    <string name="retail_mode_warning_dialog_title">Prehranie videoukážky</string>
+    <string name="retail_mode_warning_dialog_message">V tomto režime sa bude prehrávať propagačné video s ukážkou funkcií, dokým na zariadení neobnovíte výrobné nastavenia. Režim nie je určený na osobné použitie, ale pre predajcov.</string>
+    <string name="retail_demo_button_text">Nastaviť ukážku</string>
+    <string name="flow_choice_title">Vitajte v zariadení ^1</string>
+    <string name="flow_choice_restore_label">Kopírovanie dát</string>
+    <string name="flow_choice_restore_summary">Z telefónu iPhone™, zariadenia s Androidom alebo z cloudu</string>
+    <string name="flow_choice_new_label">Nastaviť ako nové zariadenie</string>
+    <string name="flow_choice_new_summary">Začať od začiatku</string>
+    <string name="restore_choice_title">Prenos dát z…</string>
+    <string name="restore_choice_google_account_label">Záloha z cloudu</string>
+    <string name="restore_choice_google_account_summary">Prihláste sa pomocou svojho používateľského mena a hesla</string>
+    <string name="restore_choice_android_device_label">Záloha z telefónu s Androidom</string>
+    <string name="restore_choice_android_device_summary">Skopírujte dáta bezdrôtovo pomocou vášho starého telefónu</string>
+    <string name="restore_choice_ios_device_label">Zariadenie iPhone®</string>
+    <string name="migrate_from_ios_description">Postupujte na svojom zariadení iPhone® podľa týchto pokynov:</string>
+    <string name="migrate_from_ios_instructions_1">1. Otvorte prehliadač Safari.</string>
+    <string name="migrate_from_ios_instructions_2">2. Prejdite na adresu <b>android.com/switch</b>.</string>
+    <string name="migrate_from_ios_instructions_3">3. Postupujte podľa pokynov.</string>
+    <string name="migrate_from_ios_header">Kopírovanie dát</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad a iOS sú ochranné známky spoločnosti Apple Inc. registrované v USA a ďalších krajinách.</string>
+    <string name="services_activity_title">Služby Google</string>
+    <string name="services_backup_heading">Záloha</string>
+    <string name="services_location_heading">Poloha</string>
+    <string name="services_security_heading">Zabezpečenie</string>
+    <string name="services_personalization_heading">Prispôsobenie</string>
+    <string name="services_communication_heading">Komunikácia</string>
+    <string name="security_verify_apps_summary">Nechajte službu Google skontrolovať všetky nainštalované aplikácie, či nevykazujú potenciálne škodlivé správanie, ktoré by mohlo mať negatívny vplyv na zabezpečenie vášho zariadenia alebo dát.</string>
+    <string name="suggested_actions_title">Čo ďalej?</string>
+    <string name="suggested_actions_description">Tu je niekoľko ďalších vecí, ktoré môžete nastaviť. Prípadne ich môžete upraviť neskôr v Nastaveniach.</string>
+    <string name="suggested_actions_done_label">Hotovo</string>
+    <string name="restore_title">Obnovuje sa...</string>
+    <string name="restore_wallpaper_title">Obnovuje sa tapeta…</string>
+    <string name="restore_device_settings_title">Obnovujú sa nastavenia zariadenia...</string>
+    <string name="restore_launcher_title">Obnovuje sa aplikácia Launcher...</string>
+    <string name="restore_failed_message">Zálohu sa nepodarilo obnoviť</string>
+    <string name="restore_no_backup_title">Obnovenie nie je možné</string>
+    <string name="restore_no_backup_message">Na ďalšom zariadení nie sú k dispozícii žiadne zálohy</string>
+    <string name="restore_stopped_message">Obnovenie zálohy sa nepodarilo dokončiť</string>
+    <string name="final_hold_title">Pridávajú sa konečné úpravy…</string>
+    <string name="name_title">Meno</string>
+    <string name="name_text">Ak zadáte svoje meno, niektoré aplikácie v telefóne bude možné prispôsobiť.</string>
+    <string name="name_display_name_label">Meno</string>
+    <string name="name_display_name_hint">napr. Ján Kováč</string>
+    <string name="cant_be_blank">Pole nesmie byť prázdne.</string>
+    <string name="device_owner_warning_title">Telefón môže byť sledovaný</string>
+    <string name="device_owner_warning">Tento telefón spravuje aplikácia %1$s. Znamená to, že niektoré vaše informácie môžu vidieť iní ľudia. Ak chcete zabrániť sledovaniu, obnovte svoje zariadenie.</string>
+    <string name="device_owner_continue">Pokračovať</string>
+    <string name="device_owner_reset">Resetovať telefón</string>
+    <string name="factory_reset_title">Resetovať telefón</string>
+    <string name="factory_reset_instructions">Upozornenie: Obnovením vymažete všetky účty a údaje v internom úložisku tohto telefónu.</string>
+    <string name="factory_reset_confirmation_title">Resetovať?</string>
+    <string name="factory_reset_confirmation">Chcete vymazať všetky účty a údaje na tomto telefóne? Táto akcia sa nedá vrátiť späť.</string>
+    <string name="factory_reset_button">Vymazať a Obnoviť</string>
+    <string name="restart_setup_wizard_dialog_title">Nie ste prihlásený/-á</string>
+    <string name="restart_setup_wizard_dialog_text">"Ak chcete tento telefón používať, musíte sa najprv prihlásiť do účtu Google vlastníka, ktorý sa na tomto zariadení používal pri jeho poslednom obnovení.
 
 Keďže ste to nespravili, musíte telefón znova nastaviť."</string>
-  <string name="restart_setup_wizard_dialog_title">Nie ste prihlásený/-á</string>
-  <string name="restore_choice_android_device_label">Iné zariadenie s Androidom</string>
-  <string name="restore_choice_footer_dialog">"Ak ste sa v minulosti prihlásili do akejkoľvek služby Google (ako je Gmail alebo YouTube), účet Google už máte.
+    <string name="restart_setup_wizard_button_label">Nastaviť telefón</string>
+    <string name="user_warning_radio_continue">Pokračovať</string>
+    <string name="user_warning_radio_quit">Zrušiť a odstrániť nového používateľa</string>
+    <string name="user_warning_title">Nastavenie nového používateľa</string>
+    <string name="welcome_secondary_user_added_text">Do telefónu bol pridaný váš profil</string>
+    <string name="welcome_secondary_user_info_text"><b>Dôležité:</b>"
 
-Môžete sa tu prihlásiť pomocou rovnakých údajov, napríklad telefónneho čísla alebo používateľského mena a hesla."</string>
-  <string name="restore_choice_google_account_label">Váš účet Google</string>
-  <string name="restore_choice_title">Prenos dát z…</string>
-  <string name="restore_device_settings_title">Obnovujú sa nastavenia zariadenia...</string>
-  <string name="restore_failed_message">Obnovenie zo zálohy sa nepodarilo</string>
-  <string name="restore_launcher_title">Obnovuje sa aplikácia Launcher...</string>
-  <string name="restore_no_backup_message">Pre zdrojové zariadenie nie sú k dispozícii žiadne zálohy</string>
-  <string name="restore_stopped_message">Obnovovanie údajov zo zálohy bolo bohužiaľ na zariadení prerušené</string>
-  <string name="restore_title">Obnovuje sa...</string>
-  <string name="restore_wallpaper_title">Obnovuje sa tapeta…</string>
-  <string name="running_process_item_user_label">Používateľ: %1$s</string>
-  <string name="runningservices_settings_summary">Zobrazenie a ovládanie aktuálne spustených služieb</string>
-  <string name="runningservices_settings_title">Spustené služby</string>
-  <string name="saved_network">Uložil(a) %1$s</string>
-  <string name="screen_zoom_summary_custom">Vlastné (%d)</string>
-  <string name="screen_zoom_summary_default">Predvolená</string>
-  <string name="screen_zoom_summary_extremely_large">Najväčšie</string>
-  <string name="screen_zoom_summary_large">Veľké</string>
-  <string name="screen_zoom_summary_small">Malé</string>
-  <string name="screen_zoom_summary_very_large">Väčšie</string>
-  <string name="security_verify_apps_summary">Nechajte službu Google skontrolovať všetky nainštalované aplikácie, či nevykazujú potenciálne škodlivé správanie, ktoré by mohlo mať negatívny vplyv na zabezpečenie vášho zariadenia alebo dát.</string>
-  <string name="select_application">Výber aplikácie</string>
-  <string name="select_logd_size_dialog_title">Veľkosť na vyrovnávaciu pamäť nástroja denníkov</string>
-  <string name="select_logd_size_title">Veľkosti vyrovnávacej pamäte denníka</string>
-  <string name="select_usb_configuration_dialog_title">Výber konfigurácie USB</string>
-  <string name="select_usb_configuration_title">Výber konfigurácie USB</string>
-  <string name="select_webview_provider_dialog_title">Nastavenie implementácie komponenta WebView</string>
-  <string name="select_webview_provider_title">Implementácia komponenta WebView</string>
-  <string name="select_webview_provider_toast_text">Táto voľba už nie je platná. Skúste to znova.</string>
-  <string name="services_activity_title">Služby Google</string>
-  <string name="services_backup_heading">Záloha</string>
-  <string name="services_communication_heading">Komunikácia</string>
-  <string name="services_location_heading">Poloha</string>
-  <string name="services_personalization_heading">Prispôsobenie</string>
-  <string name="services_security_heading">Zabezpečenie</string>
-  <string name="setup_wizard_title">Sprievodca nastavením</string>
-  <string name="show_all_anrs">Zobrazovať všetky ANR</string>
-  <string name="show_all_anrs_summary">Zobrazovať dialóg „Aplikácia neodpovedá“ aj pre aplikácie na pozadí</string>
-  <string name="show_cpu_usage">Zobraziť využitie CPU</string>
-  <string name="show_cpu_usage_summary">Prekryvná vrstva s aktuálnym využitím procesora</string>
-  <string name="show_hw_layers_updates">Obnovenie hardvér. vrstiev</string>
-  <string name="show_hw_layers_updates_summary">Rozblikať zelene hardvérové vrstvy pri obnovení</string>
-  <string name="show_hw_screen_updates">Zobraziť obnovenia s GPU</string>
-  <string name="show_hw_screen_updates_summary">Rozblikať zobrazenia v oknách vykresľované GPU</string>
-  <string name="show_non_rect_clip">Ladenie operácií s neobdĺžnikovými výstrižkami</string>
-  <string name="show_screen_updates">Zobraziť obnovenia obsahu</string>
-  <string name="show_screen_updates_summary">Rozblikať obsah okna pri aktualizácii</string>
-  <string name="show_touches">Zobrazovať klepnutia</string>
-  <string name="show_touches_summary">Vizuálne znázorňovať klepnutia</string>
-  <string name="shutdown_button_label">Vypnúť ihneď</string>
-  <string name="sim_missing_text">"{sim_slots,plural, =1{Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.
+"<li><ul>"Vlastník telefónu môže odinštalovať vaše aplikácie a odstrániť váš priestor.
 
-Po vložení SIM karty môže jej aktivácia trvať niekoľko sekúnd.}few{Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.
+"<li>Ostatní používatelia môžu prijímať aktualizované povolenia aplikácií.</li>"
 
-Po vložení SIM kariet môže ich aktivácia trvať niekoľko sekúnd.}many{Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.
+"<li>Telefón zdieľajte iba s ľuďmi, ktorým dôverujete.</li></ul></li></string>
+    <string name="qr_dependencies_check_title">Inštaluje sa čítačka kódov QR…</string>
+    <string name="qr_dependencies_check_timeout_text">Môže to trvať až dve minúty.</string>
+    <string name="download_qr_dependencies_failed_content">Čítačku kódov QR sa nepodarilo nainštalovať</string>
+    <string name="check_qr_dependencies_again">Skúsiť znova</string>
+    <string name="qr_provision_user_consent_title">Nastavenie pomocou kódu QR</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"Ak chcete toto zariadenie nastaviť pre vašu organizáciu, najprv sa musíte pripojiť k sieti a stiahnuť si čítačku kódov QR.
 
-Po vložení SIM kariet môže ich aktivácia trvať niekoľko sekúnd.}other{Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.
-
-Po vložení SIM kariet môže ich aktivácia trvať niekoľko sekúnd.}}"</string>
-  <string name="sim_missing_title">{sim_slots,plural, =1{Vložte SIM kartu}few{Vložte SIM karty}many{Vložte SIM karty}other{Vložte SIM karty}}</string>
-  <string name="sim_setup_ask_every_time">Vždy sa opýtať</string>
-  <string name="sim_setup_select_data">Vyberte SIM kartu pre mobilné dáta</string>
-  <string name="sim_setup_select_text">Vyberte SIM kartu pre textové správy</string>
-  <string name="sim_setup_select_voice">Vyberte SIM kartu pre hovory</string>
-  <string name="sim_setup_title">Nastavenie SIM kariet</string>
-  <string name="simulate_color_space">Simulácia far. priestoru</string>
-  <string name="skip_anyway_button_label">Preskočiť</string>
-  <string name="skip_button_label">Preskočiť</string>
-  <string name="skip_toast">Sprievodca nastavením bol preskočený.</string>
-  <string name="start">Spustiť</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="strict_mode">Povoliť prísny režim</string>
-  <string name="strict_mode_summary">Blikať pri dlhých operáciách hlavného vlákna</string>
-  <string name="suggested_actions_done_label">Nastaviť neskôr</string>
-  <string name="suggested_actions_title">Chcete ešte vykonať inú akciu?</string>
-  <string name="suw_back_button_label">Späť</string>
-  <string name="suw_more_button_label">Viac</string>
-  <string name="suw_next_button_label">Ďalej</string>
-  <string name="switch_camera">Prepnúť fotoaparát</string>
-  <string name="terminate_toast">"Sprievodca nastavením bol ukončený.
-Zariadenie nebolo inicializované."</string>
-  <string name="tether_settings_title_all">Zdieľané pripojenie a prenosný hotspot</string>
-  <string name="tether_settings_title_bluetooth">Pripojenie cez Bluetooth</string>
-  <string name="tether_settings_title_usb">Zdieľané pripojenie cez USB</string>
-  <string name="tether_settings_title_usb_bluetooth">Zdieľanie dát. pripojenia</string>
-  <string name="tether_settings_title_wifi">Prenosný prístupový bod</string>
-  <string name="tethering_settings_not_available">Nastavenia zdieľania dátového pripojenia nie sú dostupné pre tohto používateľa</string>
-  <string name="title_convert_fbe">Konvertovanie na šifrovanie založené na súboroch</string>
-  <string name="track_frame_time">Profil vykresľovania GPU</string>
-  <string name="transition_animation_scale_title">Mierka animácie premeny</string>
-  <string name="try_again_button_label">Skúsiť znova</string>
-  <string name="tts_default_lang_summary">Nastavenia jazyka hlasu pre hovorený text</string>
-  <string name="tts_default_lang_title">Jazyk</string>
-  <string name="tts_default_pitch_summary">Určuje zvuk syntetizovaného hlasu</string>
-  <string name="tts_default_pitch_title">Výška</string>
-  <string name="tts_default_rate_summary">Rýchlosť hovoreného textu</string>
-  <string name="tts_default_rate_title">Rýchlosť reči</string>
-  <string name="tts_default_sample_string">Toto je príklad syntézy reči</string>
-  <string name="tts_engine_network_required">V prípade tohto jazyka je na prevod textu na rečový výstup potrebné pripojenie k sieti.</string>
-  <string name="tts_engine_preference_section_title">Preferovaný nástroj</string>
-  <string name="tts_engine_security_warning">Nástroj na syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných údajov, ako sú heslá alebo čísla kreditných kariet. Je založený na nástroji %s. Chcete aktivovať nástroj na syntézu reči?</string>
-  <string name="tts_engine_settings_button">Spustiť nastavenia nástroja</string>
-  <string name="tts_engine_settings_title">%s</string>
-  <string name="tts_general_section_title">Všeobecné</string>
-  <string name="tts_install_data_summary">Nainštalovať hlasové dáta potrebné na syntézu reči</string>
-  <string name="tts_install_data_title">Nainštalovať hlasové dáta</string>
-  <string name="tts_lang_not_selected">Nebol vybratý jazyk</string>
-  <string name="tts_lang_use_system">Používať jazyk systému</string>
-  <string name="tts_play_example_summary">Prehrať krátku ukážku syntézy reči</string>
-  <string name="tts_play_example_title">Vypočuť príklad</string>
-  <string name="tts_settings">Nastavenia prevodu textu na reč</string>
-  <string name="tts_settings_title">Výstup prevodu textu na reč</string>
-  <string name="tts_status_checking">Kontroluje sa...</string>
-  <string name="tts_status_not_supported">Jazyk %1$s nie je podporovaný</string>
-  <string name="tts_status_ok">Jazyk %1$s je plne podporovaný</string>
-  <string name="tts_status_requires_network">Jazyk %1$s vyžaduje pripojenie k sieti</string>
-  <string name="tts_status_title">Stav predvoleného jazyka</string>
-  <string name="unknown">Neznáme</string>
-  <string name="url_load_unsuccessful_message">Váš telefón nie je pripojený k mobilnej dátovej službe. Ak chcete zobraziť tieto informácie, prejdite vo webovom prehliadači na stránky %s.</string>
-  <string name="url_load_unsuccessful_message_wifi_only">Zaradenie s Androidom nie je pripojené k sieti Wi-Fi. Ak chcete tieto informácie zobraziť, navštívte vo webovom prehliadači adresu %s.</string>
-  <string name="usb_audio_disable_routing">Vyp. smer. zvuku do USB</string>
-  <string name="usb_audio_disable_routing_summary">Vypnúť automatické smerovanie do audio periférií USB</string>
-  <string name="user_guest">Hosť</string>
-  <string name="user_warning_radio_continue">Pokračovať</string>
-  <string name="user_warning_radio_quit">Zrušiť a odstrániť nového používateľa</string>
-  <string name="user_warning_title">Nastavenie nového používateľa</string>
-  <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
-  <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>
-  <string name="vpn_settings_not_available">Nastavenia vzdialeného pripojenia VPN nie sú dostupné pre tohto používateľa</string>
-  <string name="wait_for_debugger">Čakať na ladiaci nástroj</string>
-  <string name="wait_for_debugger_summary">Aplikácia čaká na pripojenie ladiaceho nástroja</string>
-  <string name="wait_msg">Moment...</string>
-  <string name="warm_sim_check_msg">Čaká sa na sieť...</string>
-  <string name="welcome_accessibility_button">Nastavenia viditeľnosti</string>
-  <string name="welcome_language_picker_content_description">Jazyk: %s</string>
-  <string name="welcome_language_picker_dialog_title">Vyberte si jazyk</string>
-  <string name="welcome_language_picker_section_all">Všetky jazyky</string>
-  <string name="welcome_language_picker_section_suggested">Navrhnuté</string>
-  <string name="welcome_limited_user_info_text">" "&lt;b&gt;D&amp;#244;le&amp;#382;it&amp;#233;:&lt;/b&gt;"
-
- "&lt;li&gt;&lt;ul&gt;Vlastn&amp;#237;k telef&amp;#243;nu m&amp;#244;&amp;#382;e in&amp;#353;talova&amp;#357; a odin&amp;#353;talova&amp;#357; aplik&amp;#225;cie, nastavi&amp;#357; obmedzenia alebo v&amp;#225;&amp;#353; priestor &amp;#250;plne odstr&amp;#225;ni&amp;#357;.&lt;/ul&gt;&lt;/li&gt;"
-
- "&lt;li&gt;&lt;ul&gt;Ak&amp;#253;ko&amp;#318;vek pou&amp;#382;&amp;#237;vate&amp;#318; m&amp;#244;&amp;#382;e prija&amp;#357; aktualizovan&amp;#233; povolenia aplik&amp;#225;cie vo va&amp;#353;om mene.&lt;/ul&gt;&lt;/li&gt;"
-
- "&lt;li&gt;&lt;ul&gt;Tento telef&amp;#243;n (tak ako ka&amp;#382;d&amp;#253; po&amp;#269;&amp;#237;ta&amp;#269;) by ste mali zdie&amp;#318;a&amp;#357; iba s &amp;#318;u&amp;#271;mi, ktor&amp;#253;m d&amp;#244;verujete. &lt;/ul&gt;&lt;/li&gt;</string>
-  <string name="welcome_message">Vitajte!</string>
-  <string name="welcome_secondary_user_added_no_owner_name_text">V tomto telefóne bol vytvorený váš používateľský účet.</string>
-  <string name="welcome_secondary_user_added_text">Používateľ %s vás pridal do tohto telefónu.</string>
-  <string name="welcome_secondary_user_info_text">&lt;b&gt;D&amp;#244;le&amp;#382;it&amp;#233;:&lt;/b&gt;"
-
-"&lt;li&gt;&lt;ul&gt;Vlastn&amp;#237;k telef&amp;#243;nu m&amp;#244;&amp;#382;e odin&amp;#353;talova&amp;#357; aplik&amp;#225;cie alebo &amp;#250;plne odstr&amp;#225;ni&amp;#357; v&amp;#225;&amp;#353; priestor.&lt;/ul&gt;&lt;/li&gt;"
-
-"&lt;li&gt;&lt;ul&gt;Ak&amp;#253;ko&amp;#318;vek pou&amp;#382;&amp;#237;vate&amp;#318; m&amp;#244;&amp;#382;e prija&amp;#357; aktualizovan&amp;#233; povolenia aplik&amp;#225;cie vo va&amp;#353;om mene.&lt;/ul&gt;&lt;/li&gt;"
-
-"&lt;li&gt;&lt;ul&gt;Toto zariadenie (tak ako ka&amp;#382;d&amp;#253; po&amp;#269;&amp;#237;ta&amp;#269;) by ste mali zdie&amp;#318;a&amp;#357; iba s &amp;#318;u&amp;#271;mi, ktor&amp;#253;m d&amp;#244;verujete.&lt;/ul&gt;&lt;/li&gt;</string>
-  <string name="welcome_start_button_label">Začíname</string>
-  <string name="wifi_add_new_network">Pridať novú sieť</string>
-  <string name="wifi_aggressive_handover">Agres. odovzdávať Wi-Fi na mobilnú sieť</string>
-  <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dát. pripoj. na mob. sieť vtedy, keď bude slabý signál Wi-Fi</string>
-  <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
-  <string name="wifi_connected_no_internet">Pripojené, žiadny internet</string>
-  <string name="wifi_disabled_generic">Zakázané</string>
-  <string name="wifi_disabled_network_failure">Zlyhanie konfigurácie adresy IP</string>
-  <string name="wifi_disabled_password_failure">Problém s overením totožnosti</string>
-  <string name="wifi_disabled_wifi_failure">Zlyhanie pripojenia Wi-Fi</string>
-  <string name="wifi_display_certification">Certifikácia bezdrôtového zobrazenia</string>
-  <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového zobrazenia</string>
-  <string name="wifi_fail_to_scan">Siete sa nedajú vyhľadávať</string>
-  <string name="wifi_ip_address_not_available">Nie je k dispozícii</string>
-  <string name="wifi_ip_address_title">Adresa IP</string>
-  <string name="wifi_mac_address_not_available">Nie je k dispozícii</string>
-  <string name="wifi_mac_address_title">Adresa MAC</string>
-  <string name="wifi_no_internet">Nenašiel sa žiadny prístup k internetu, preto nedôjde k automatickému opätovnému pripojeniu</string>
-  <string name="wifi_not_in_range">Mimo dosah</string>
-  <string name="wifi_remembered">Uložené</string>
-  <string name="wifi_security_none">Žiadne</string>
-  <string name="wifi_skipped_message">Telefón použije počas nastavenia mobilnú sieť a za spotrebu týchto dát vám môže byť účtovaný poplatok. Ak chcete predísť možným poplatkom, pripojte sa k sieti Wi-Fi.</string>
-  <string name="wifi_skipped_title">Možné poplatky za dáta</string>
-  <string name="wifi_title">Výber siete Wi-Fi</string>
-  <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
-  <string name="window_animation_scale_title">Mierka animácie okna</string>
+Po dokončení inštalácie nasnímajte kód QR vašej organizácie pomocou fotoaparátu."</string>
+    <string name="qr_provision_return_initialization_wizard">Z dôvodu neaktivity sa vrátite na predchádzajúcu obrazovku</string>
+    <string name="invalid_qr_code_title">Kód QR nefungoval</string>
+    <string name="invalid_qr_code_content">Uistite sa, že máte správny kód QR pre vašu organizáciu a skúste to znova.</string>
+    <string name="invalid_qr_code_retry">Skúsiť znova</string>
+    <string name="switch_camera">Prepnúť fotoaparát</string>
+    <string name="qr_code_scan_title">Hľadá sa kód QR</string>
+    <string name="switch_to_back_camera_button_content_description">Zadný fotoaparát</string>
+    <string name="switch_to_front_camera_button_content_description">Predný fotoaparát</string>
+    <string name="switched_to_front_camera_announcement">Tlačidlo sa nachádza v polohe Zadný fotoaparát</string>
+    <string name="switched_to_back_camera_announcement">Tlačidlo sa nachádza v polohe Predný fotoaparát</string>
+    <string name="exit_loading_launcher">Načítava sa spúšťač…</string>
 </resources>

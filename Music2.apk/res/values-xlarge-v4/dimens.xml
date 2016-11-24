@@ -2,28 +2,17 @@
 <resources>
     <dimen name="play_header_list_tab_floating_padding">36.0dip</dimen>
     <dimen name="play_header_list_tab_padding_side">24.0dip</dimen>
-    <dimen name="container_artist_art_height">400.0dip</dimen>
-    <dimen name="sub_situation_list_view_margin">118.0dip</dimen>
     <item type="dimen" name="abc_dialog_fixed_height_major">60.000004%</item>
     <item type="dimen" name="abc_dialog_fixed_height_minor">90.0%</item>
     <item type="dimen" name="abc_dialog_fixed_width_major">50.0%</item>
     <item type="dimen" name="abc_dialog_fixed_width_minor">70.00001%</item>
     <item type="dimen" name="abc_dialog_min_width_major">45.000004%</item>
     <item type="dimen" name="abc_dialog_min_width_minor">72.0%</item>
-    <dimen name="abc_search_view_text_min_width">192.0dip</dimen>
-    <dimen name="listen_now_card_title_font_size">40.0sp</dimen>
-    <dimen name="now_playing_queue_header_height">90.0dip</dimen>
-    <dimen name="nus_artist_row_padding">24.0dip</dimen>
-    <dimen name="nus_done_btn_height">64.0dip</dimen>
-    <dimen name="nus_title_font_size">39.0sp</dimen>
     <dimen name="play_cluster_header_title_size">36.0sp</dimen>
-    <dimen name="sign_up_account_list_text_size">24.0sp</dimen>
-    <dimen name="sign_up_button_height">64.0dip</dimen>
-    <dimen name="sign_up_button_width">196.0dip</dimen>
-    <dimen name="sign_up_description_text_size">24.0sp</dimen>
-    <dimen name="sound_search_card_title_font_size">40.0sp</dimen>
     <dimen name="play_collection_edge_padding">24.0dip</dimen>
     <dimen name="play_collection_edge_padding_minus_card_half_spacing">18.0dip</dimen>
+    <dimen name="play_mini_card_content_height">78.0sp</dimen>
+    <dimen name="play_mini_card_content_height_tall">100.0sp</dimen>
     <dimen name="play_cluster_header_more_size">16.0sp</dimen>
     <dimen name="play_cluster_header_subtitle_size">18.0sp</dimen>
     <dimen name="play_cluster_section_header_inner_spacing">16.0dip</dimen>
@@ -34,8 +23,10 @@
     <dimen name="play_collection_card_half_spacing">6.0dip</dimen>
     <dimen name="play_collection_card_spacing">12.0dip</dimen>
     <dimen name="play_description_callout_size">18.0sp</dimen>
+    <dimen name="play_description_callout_size_v2">18.0sp</dimen>
     <dimen name="play_description_medium_size">14.0sp</dimen>
     <dimen name="play_description_size">16.0sp</dimen>
+    <dimen name="play_description_size_v2">16.0sp</dimen>
     <dimen name="play_edu_body_size">18.0sp</dimen>
     <dimen name="play_edu_main_content_padding">24.0dip</dimen>
     <dimen name="play_edu_title_size">24.0sp</dimen>
@@ -44,6 +35,7 @@
     <dimen name="play_large_title_size">22.0sp</dimen>
     <dimen name="play_medium_size">14.0sp</dimen>
     <dimen name="play_small_card_content_min_height">96.0sp</dimen>
+    <dimen name="play_small_card_content_min_height_tall">125.0sp</dimen>
     <dimen name="play_small_title_size">16.0sp</dimen>
     <dimen name="play_snippet_large_size">18.0sp</dimen>
     <dimen name="play_star_rating_bar_featured_height">14.0dip</dimen>
@@ -51,22 +43,4 @@
     <dimen name="play_star_rating_bar_small_gap">3.0dip</dimen>
     <dimen name="play_star_rating_bar_small_height">13.0dip</dimen>
     <dimen name="play_xlarge_size">20.0sp</dimen>
-    <dimen name="tutorial_padding_bottom">96.0dip</dimen>
-    <dimen name="tutorial_padding_top">164.0dip</dimen>
-    <dimen name="artist_button_height">60.0dip</dimen>
-    <dimen name="artist_header_button_padding">16.0dip</dimen>
-    <dimen name="artist_header_container_padding">16.0dip</dimen>
-    <dimen name="artist_header_grey_bar_height">26.0dip</dimen>
-    <dimen name="artist_header_icon_padding">12.0dip</dimen>
-    <dimen name="artist_header_text_size">20.0sp</dimen>
-    <dimen name="sign_up_confirm_title_text_size">80.0sp</dimen>
-    <dimen name="tutorial_padding_left">128.0dip</dimen>
-    <dimen name="tutorial_padding_right">128.0dip</dimen>
-    <dimen name="sign_up_nautilus_confirm_text_width">480.0dip</dimen>
-    <dimen name="tabbed_now_playing_play_control_padding">12.0dip</dimen>
-    <dimen name="widget_np_small_album_art_size">42.0dip</dimen>
-    <dimen name="widget_np_small_button_size">42.0dip</dimen>
-    <dimen name="widget_np_small_min_height">72.0dip</dimen>
-    <dimen name="widget_np_small_min_width">294.0dip</dimen>
-    <dimen name="widget_np_small_text_padding_top">3.0dip</dimen>
 </resources>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.LeanbackBase" parent="@android:style/Theme.Holo.NoActionBar">
-        <item name="android:windowOverscan">true</item>
-        <item name="guidedStepTheme">@style/Theme.Leanback.GuidedStep</item>
-        <item name="defaultBrandColor">@color/lb_default_brand_color</item>
-        <item name="playbackProgressPrimaryColor">@color/lb_playback_progress_color_no_theme</item>
-        <item name="playbackControlsIconHighlightColor">@color/lb_playback_icon_highlight_no_theme</item>
+    <style name="TrackSeekBar">
+        <item name="android:paddingTop">@dimen/seek_bar_top_bottom_padding</item>
+        <item name="android:paddingBottom">@dimen/seek_bar_top_bottom_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/nowplaying_screen_progress_left_right_margin</item>
+        <item name="android:layout_marginRight">@dimen/nowplaying_screen_progress_left_right_margin</item>
+        <item name="android:layout_marginBottom">@dimen/nowplaying_screen_progress_bottom_margin</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:mirrorForRtl">false</item>
     </style>
     <style name="XdiNowPlaying" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
         <item name="android:windowOverscan">true</item>

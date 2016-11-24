@@ -37,8 +37,16 @@
         <item>Muu</item>
         <item>Kohandatud</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Üle WiFi-võrgu helistamiseks ja sõnumite saatmiseks paluge operaatoril esmalt see teenus seadistada. Seejärel lülitage WiFi-kõned menüüs Seaded uuesti sisse.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registreeruge operaatori juures</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WiFi kaudu helistamine</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Töö</item>
         <item>Muu</item>
         <item>Kohandatud</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobiilne andmeside</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

@@ -29,7 +29,6 @@
     <attr name="gestureOverlayViewStyle" format="reference" />
     <attr name="quickContactBadgeOverlay" format="reference" />
     <attr name="fragmentBreadCrumbsStyle" format="reference" />
-    <attr name="numberPickerStyle" format="reference" />
     <attr name="activityChooserViewStyle" format="reference" />
     <attr name="actionModePopupWindowStyle" format="reference" />
     <attr name="preferenceActivityStyle" format="reference" />
@@ -69,6 +68,10 @@
     <attr name="horizontalProgressLayout" format="reference" />
     <attr name="showTitle" format="boolean" />
     <attr name="needsDefaultBackgrounds" format="boolean" />
+    <attr name="controllerType">
+        <enum name="normal" value="0" />
+        <enum name="micro" value="1" />
+    </attr>
     <attr name="allowStacking" format="boolean" />
     <attr name="activityOpenRemoteViewsEnterAnimation" format="reference" />
     <attr name="foregroundInsidePadding" format="boolean" />
@@ -103,13 +106,12 @@
     <attr name="resOutColor" format="color" />
     <attr name="clickColor" format="color" />
     <attr name="tabLayout" format="reference" />
-    <attr name="__removeBeforeMRelease_leftIndents" format="reference" />
-    <attr name="__removeBeforeMRelease_rightIndents" format="reference" />
     <attr name="popupPromptView" format="reference" />
     <attr name="disableChildrenWhenDisabled" format="boolean" />
     <attr name="internalLayout" format="reference" />
     <attr name="headerTextColor" format="color" />
     <attr name="yearListItemActivatedTextAppearance" format="reference" />
+    <attr name="dialogMode" format="boolean" />
     <attr name="quickContactWindowSize">
         <enum name="modeLarge" value="3" />
         <enum name="modeMedium" value="2" />
@@ -189,6 +191,7 @@
     <attr name="mtpReserve" format="integer" />
     <attr name="allowMassStorage" format="boolean" />
     <attr name="maxFileSize" format="integer" />
+    <attr name="screenLayout" format="reference" />
     <attr name="headerLayout" format="reference" />
     <attr name="headerRemoveIconIfEmpty" format="boolean" />
     <attr name="locale" format="string" />
@@ -217,9 +220,13 @@
     <attr name="navigationButtonStyle" format="reference" />
     <attr name="maxCollapsedHeight" format="dimension" />
     <attr name="maxCollapsedHeightSmall" format="dimension" />
+    <attr name="showRelative" format="boolean" />
     <attr name="layout_alwaysShow" format="boolean" />
     <attr name="layout_ignoreOffset" format="boolean" />
+    <attr name="layout_hasNestedScrollIndicator" format="boolean" />
     <attr name="cantSaveState" format="boolean" />
     <attr name="systemUserOnly" format="boolean" />
     <attr name="alwaysFocusable" format="boolean" />
+    <attr name="minimalWidth" format="dimension" />
+    <attr name="minimalHeight" format="dimension" />
 </resources>

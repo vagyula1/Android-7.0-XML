@@ -6,6 +6,12 @@
         <item quantity="two">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
         <item quantity="many">‏נותרו לך %d ניסיונות לפני נעילת כרטיס ה-SIM.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">רשויות אישורים הותקנו</item>
+        <item quantity="one">רשות אישורים הותקנה</item>
+        <item quantity="two">רשויות אישורים הותקנו</item>
+        <item quantity="many">רשויות אישורים הותקנו</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">יוצר צילום מסך לדוח על באג בעוד %d שניות.</item>
         <item quantity="one">יוצר צילום מסך לדוח על באג בעוד שנייה %d.</item>
@@ -35,6 +41,102 @@
         <item quantity="one">שעה אחת</item>
         <item quantity="two">%d שעות</item>
         <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d שנים</item>
+        <item quantity="one">שנה %d</item>
+        <item quantity="two">%d שנים</item>
+        <item quantity="many">%d שנים</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד דקה %d</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">בעוד %d שעות</item>
+        <item quantity="one">בעוד שעה %d</item>
+        <item quantity="two">בעוד %d שעות</item>
+        <item quantity="many">בעוד %d שעות</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">בעוד %d ימים</item>
+        <item quantity="one">בעוד יום %d</item>
+        <item quantity="two">בעוד %d ימים</item>
+        <item quantity="many">בעוד %d ימים</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">בעוד %d שנים</item>
+        <item quantity="one">בעוד שנה %d</item>
+        <item quantity="two">בעוד %d שנים</item>
+        <item quantity="many">בעוד %d שנים</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני %d דקה</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני שעה %d</item>
+        <item quantity="two">לפני %d שעות</item>
+        <item quantity="many">לפני %d שעות</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני יום %d</item>
+        <item quantity="two">לפני %d ימים</item>
+        <item quantity="many">לפני %d ימים</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">לפני %d שנים</item>
+        <item quantity="one">לפני %d שנה</item>
+        <item quantity="two">לפני %d שנים</item>
+        <item quantity="many">לפני %d שנים</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">בעוד %d דקות</item>
+        <item quantity="one">בעוד %d דקה</item>
+        <item quantity="two">בעוד %d דקות</item>
+        <item quantity="many">בעוד %d דקות</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">בעוד %d שעות</item>
+        <item quantity="one">בעוד %d שעה</item>
+        <item quantity="two">בעוד %d שעות</item>
+        <item quantity="many">בעוד %d שעות</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">בעוד %d ימים</item>
+        <item quantity="one">בעוד %d יום</item>
+        <item quantity="two">בעוד %d ימים</item>
+        <item quantity="many">בעוד %d ימים</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">בעוד %d שנים</item>
+        <item quantity="one">בעוד שנה %d</item>
+        <item quantity="two">בעוד %d שנים</item>
+        <item quantity="many">בעוד %d שנים</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">‏יש רשתות Wi-Fi זמינות</item>

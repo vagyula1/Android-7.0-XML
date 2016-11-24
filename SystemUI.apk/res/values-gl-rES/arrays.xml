@@ -60,6 +60,18 @@
         <item>4 M por búfer de rexistro</item>
         <item>16 M por búfer de rexistro</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desactivado</item>
+        <item>Todo</item>
+        <item>Agás radio</item>
+        <item>só kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desactivado</item>
+        <item>Todos os búfers de rexistro</item>
+        <item>Todo agás os búfers de rexistro de radio</item>
+        <item>só búfer do rexistro do kernel</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
         <item>Escala de animación 0,5x</item>
@@ -95,10 +107,10 @@
         <item>720 p (seguro)</item>
         <item>1080 p</item>
         <item>1080 p (seguro)</item>
-        <item>4 K</item>
-        <item>4 K (seguro)</item>
-        <item>4 K (mellorado)</item>
-        <item>4 K (mellorado e seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (mellorado)</item>
+        <item>4K (mellorado e seguro)</item>
         <item>720 p, 1080 p (pantalla dual)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -119,7 +131,7 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desactivado</item>
-        <item>Mostrar áreas sobredebuxadas</item>
+        <item>Mostrar áreas superpostas</item>
         <item>Mostrar áreas de deuteranomalía</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -159,6 +171,24 @@
         <item>Cores naturais tal e o como se ven</item>
         <item>Cores optimizadas para contido dixital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Chamar</item>
+        <item>Sistema</item>
+        <item>Facer soar</item>
+        <item>Multimedia</item>
+        <item>Alarma</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (predeterminado)</item>
@@ -169,4 +199,5 @@
         <item>Mostrar porcentaxe durante a carga (predeterminado)</item>
         <item>Non mostrar esta icona</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

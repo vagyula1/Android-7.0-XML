@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Dalej</string>
+    <string name="suw_back_button_label">Wstecz</string>
+    <string name="suw_more_button_label">Więcej</string>
+    <string name="entitlement_check_progress">Sprawdzam stan subskrypcji. Zaczekaj.</string>
+    <string name="att_service_upgrade_msg">Aby włączyć, wejdź na att.com/mywireless lub zadzwoń pod 611</string>
+    <string name="att_network_error">Sieć jest niedostępna. Spróbuj ponownie później.</string>
+    <string name="sprint_entitlement_error">Usługa nie jest obsługiwana. Skontaktuj się z operatorem.</string>
+    <string name="sprint_network_error">Sieć jest niedostępna. Spróbuj ponownie później.</string>
+    <string name="vzw_service_upgrade_msg">Aby używać mobilnego hotspotu, zadzwoń do działu obsługi klienta, by zasubskrybować tę usługę.</string>
+    <string name="vzw_network_error">Sieć jest niedostępna. Spróbuj ponownie później.</string>
+    <string name="vzw_wfc_activation_error">Nie można aktywować połączeń przez Wi-Fi. Spróbuj ponownie później.</string>
+    <string name="vzw_address_update_error">Nie można teraz zaktualizować adresu alarmowego. Spróbuj ponownie później.</string>
+    <string name="generic_error">Nie udało się uwierzytelnić. Spróbuj ponownie później.</string>
+    <string name="vzw_setup_app_label">Aktywacja konta Verizon</string>
+    <string name="vzw_activate_title">Aktywacja telefonu</string>
+    <string name="vzw_activate_progress">Poczekaj, aż przygotujemy Twój telefon...</string>
+    <string name="vzw_activate_exiting">Kończę aktywację.</string>
+    <string name="vzw_verify_title">Zweryfikuj swoje konto</string>
+    <string name="vzw_verify_ssn">Aby rozpocząć, wpisz ostatnie 4 cyfry numeru ubezpieczenia społecznego właściciela konta.</string>
+    <string name="vzw_verify_pwd">Aby rozpocząć, wpisz hasło rozliczeniowe konta.</string>
+    <string name="vzw_verify_button">Zweryfikuj</string>
+    <string name="vzw_later_button">Później</string>
+    <string name="vzw_verify_switch_ssn">Zamiast tego użyj numeru ubezpieczenia społecznego</string>
+    <string name="vzw_verify_switch_pwd">Zamiast tego użyj hasła rozliczeniowego</string>
+    <string name="vzw_verify_progress_title">Weryfikuję Twoje konto…</string>
+    <string name="vzw_activate_ready_title">Wszystko gotowe do aktywacji?</string>
+    <string name="vzw_activate_ready_new">Może to potrwać kilka minut</string>
+    <string name="vzw_activate_ready_upgrade">"Zanim aktywujesz ten telefon, wykonaj kopię zapasową kontaktów i wyłącz poprzedni.
+
+Gdy rozpoczniesz aktywację, przeniesiemy Twój numer na nowy telefon i wyłączymy stary."</string>
+    <string name="vzw_activate_button">Aktywuj</string>
+    <string name="vzw_activating_new_title">Pobieram numer telefonu...</string>
+    <string name="vzw_activating_upgrade_title">Przenoszę numer telefonu...</string>
+    <string name="vzw_activating_upgrade">Aby przenieść numer na nowy telefon, musisz wyłączyć stary.</string>
+    <string name="vzw_activate_success_title">Telefon aktywny</string>
+    <string name="vzw_activate_success">Telefon Verizon jest już aktywny. Twój numer to %1$s</string>
+    <string name="vzw_data_limit_title">Ograniczona transmisja danych</string>
+    <string name="vzw_data_limit">Transmisja danych jest teraz ograniczona z powodu pory dnia lub limitu danych. Aby dalej konfigurować urządzenie, musisz użyć Wi-Fi.</string>
+    <string name="vzw_data_restricted_title">Ograniczona transmisja danych</string>
+    <string name="vzw_data_restricted">Z powodu pory dnia lub limitu danych</string>
+    <string name="vzw_data_redirected_title">Skorzystaj z usługi firmy Verizon</string>
+    <string name="vzw_data_redirected">Nie masz abonamentu Verizon Wireless lub Twój limit się wyczerpał. Skontaktuj się z firmą Verizon</string>
+    <string name="vzw_activate_notification_title">Wszystko gotowe do aktywacji</string>
+    <string name="vzw_activate_notification">Kliknij, by aktywować telefon</string>
+    <string name="vzw_cold_notification">Skontaktuj się z firmą Verizon, by aktywować telefon.</string>
+    <string name="vzw_activate_error_title">Nie można aktywować</string>
+    <string name="vzw_activate_error_network">Upewnij się, że masz dobry sygnał (wiele kresek) i spróbuj ponownie. Jeśli problem będzie się powtarzał, skontaktuj się z obsługą klienta pod numerem (800) 922-0204, by uzyskać pomoc.</string>
+    <string name="vzw_activate_error_lookup">Podczas aktywacji Twojego telefonu wystąpił problem. Skontaktuj się z obsługą klienta pod numerem (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Numer ubezpieczenia społecznego się nie zgadza. Spróbuj ponownie.</string>
+    <string name="vzw_activate_error_pwd">Hasło rozliczeniowe się nie zgadza. Spróbuj ponownie.</string>
+    <string name="vzw_activate_error_not_retryable">Podczas aktywacji Twojego telefonu wystąpił problem. Skontaktuj się z obsługą klienta pod numerem (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Aby aktywować telefon, zadzwoń na numer (800) 922-0204 z innego telefonu.</string>
+    <string name="vzw_activate_error_restricted_title">Jak aktywować telefon</string>
+    <string name="vzw_activate_error_restricted">Aby aktywować telefon, postępuj zgodnie z dołączonymi do niego instrukcjami lub skontaktuj się z administratorem Verizon Wireless w swojej organizacji.</string>
+    <string name="vzw_activate_error_lost_stolen">Wystąpił problem podczas aktywacji Twojego telefonu. Zadzwoń z innego telefonu pod numer (877) 807-4646, by aktywować usługę 4G LTE, a następnie spróbuj ponownie.</string>
+    <string name="vzw_activate_continue">Dalej</string>
+    <string name="vzw_activate_retry">Spróbuj ponownie</string>
+    <string name="vzw_activate_skip">Pomiń</string>
+    <string name="emergency_address_app_label">Zarządzanie adresem alarmowym</string>
+    <string name="progress_text">Zaczekaj…</string>
+    <string name="vzw_tos_title">Aktywacja połączeń przez Wi-Fi</string>
+    <string name="cancel">Anuluj</string>
+    <string name="vzw_tos_text">"Połączenia przez Wi-Fi umożliwiają wykonywanie połączeń przez Wi-Fi, gdy sieć komórkowa jest niedostępna.
+
+Aby skonfigurować połączenia przez Wi-Fi, musisz wpisać adres z terenu Stanów Zjednoczonych. Będzie on używany przez służby ratunkowe w Twojej lokalizacji, gdy wykonasz połączenie alarmowe (E911) przez Wi-Fi z tego telefonu na terenie Stanów Zjednoczonych.
+
+Zalecamy zmienianie tego adresu, gdy wykonujesz połączenia z różnych sieci Wi-Fi, by informacje o Twojej lokalizacji były aktualne. Informacje o lokalizacji możesz zmienić w każdej chwili w menu ustawień połączeń przez Wi-Fi."</string>
+    <string name="vzw_tos_link">Warunki korzystania z usługi</string>
+    <string name="vzw_e911_title">Informacje o lokalizacji alarmowej</string>
+    <string name="vzw_e911_description"><b>WAŻNE: WYMAGANY ADRES ALARMOWY 911</b>"
+Aby włączyć połączenia przez Wi-Fi, wpisz adres w Stanach Zjednoczonych, pod który mają udać się służby ratunkowe, gdy zadzwonisz pod 911. W dowolnej chwili możesz przejść do Ustawień i tam zmienić ten adres. Pamiętaj, by aktualizować ten adres przy każdej zmianie miejsca pobytu."</string>
+    <string name="vzw_e911_warning"><b>OSTRZEŻENIA – OGRANICZENIA DOTYCZĄCE POŁĄCZEŃ ALARMOWYCH POD 911</b>"
+Gdy dzwonisz pod 911, zawsze powiedz operatorowi, gdzie się znajdujesz. Połączenie z 911 zostanie zrealizowane przez Wi-Fi tylko wtedy, gdy sieć komórkowa będzie niedostępna. Połączenie z 911 przez Wi-Fi może być opóźnione lub nie zostać zrealizowane – np. system 911 może nie rozpoznać adresu, zabraknie zasilania lub połączenie Wi-Fi nie będzie działać. Służby ratunkowe zostaną wysłane pod podany wyżej adres, więc aktualizuj go przy zmianie swojego miejsca pobytu."</string>
+    <string name="house_number">Numer domu</string>
+    <string name="street">Ulica</string>
+    <string name="apt_suite_number">Nr domu, mieszkania itd.</string>
+    <string name="city">Miasto</string>
+    <string name="state">Stan</string>
+    <string name="zip_code">Kod pocztowy</string>
+    <string name="save">Zapisz</string>
+    <string name="vzw_address_confirm_text">"Nie znaleźliśmy podanego adresu, bo nie udało się znaleźć ulicy i numeru lub podane miasto, stan lub kod pocztowy są nieprawidłowe.
+
+Jeśli miasto, stan i kod pocztowy są nieprawidłowe, kliknij %1$s. W przeciwnym razie kliknij %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Nie znaleźliśmy podanego adresu, bo nie udało się znaleźć ulicy i numeru lub podane miasto, stan lub kod pocztowy są nieprawidłowe.</string>
+    <string name="vzw_address_confirm_text_part2">Jeśli miasto, stan i kod pocztowy są nieprawidłowe, kliknij %1$s. W przeciwnym razie kliknij %2$s.</string>
+    <string name="save_anyway">Zapisz mimo to</string>
+    <string name="edit_address">Edytuj adres</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Nie znaleźliśmy podanego adresu:</string>
+    <string name="vzw_address_alternate_text">Czy chodziło Ci o:</string>
+    <string name="vzw_partial_confirm_head">Dostawcy usług alarmowych nie mogli sprawdzić poprawności podanego adresu.</string>
+    <string name="vzw_partial_confirm_text">Czy na pewno chcesz użyć tego adresu w przypadku sytuacji alarmowej?</string>
+    <string name="vzw_partial_failure_text">"Wpisane miasto, stan lub kod pocztowy mogą być nieprawidłowe.
+
+Sprawdź adres i spróbuj ponownie."</string>
+    <string name="vzw_partial_failure_text_part1">Wpisane miasto, stan lub kod pocztowy mogą być nieprawidłowe.</string>
+    <string name="vzw_partial_failure_text_part2">Sprawdź adres i spróbuj ponownie.</string>
+</resources>

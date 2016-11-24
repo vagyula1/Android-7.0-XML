@@ -60,6 +60,18 @@
         <item>4 Mio. pro Puffer</item>
         <item>16 Mio. pro Puffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Aus</item>
+        <item>Alle</item>
+        <item>Alle außer Funkschnittstelle</item>
+        <item>Nur Kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Aus</item>
+        <item>Alle Protokollzwischenspeicher</item>
+        <item>Alle Protokollzwischenspeicher außer Funkschnittstelle</item>
+        <item>Nur Kernelprotokoll-Zwischenspeicher</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
         <item>Animationsmaßstab: 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Natürliche Farben wie vom Auge wahrgenommen</item>
         <item>Für digitale Inhalte optimierte Farben</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Anruf</item>
+        <item>System</item>
+        <item>Klingeln lassen</item>
+        <item>Medien</item>
+        <item>Wecker</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Stunden, Minuten und Sekunden anzeigen</item>
         <item>Stunden und Minuten anzeigen (Standardeinstellung)</item>
@@ -169,4 +199,5 @@
         <item>Prozentwert beim Laden anzeigen (Standardeinstellung)</item>
         <item>Dieses Symbol nicht anzeigen</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

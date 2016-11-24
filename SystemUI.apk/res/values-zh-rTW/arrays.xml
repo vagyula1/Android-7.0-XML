@@ -60,6 +60,18 @@
         <item>每個紀錄緩衝區 4M</item>
         <item>每個紀錄緩衝區 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>關閉</item>
+        <item>全部</item>
+        <item>無線電以外</item>
+        <item>僅限核心</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>關閉</item>
+        <item>所有紀錄緩衝區</item>
+        <item>無線電紀錄緩衝區以外的所有紀錄緩衝區</item>
+        <item>僅限核心紀錄緩衝區</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>關閉動畫</item>
         <item>動畫比例 0.5x</item>
@@ -159,6 +171,24 @@
         <item>眼睛所見的自然色彩</item>
         <item>針對數位內容最佳化的色彩</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>通話</item>
+        <item>系統</item>
+        <item>鈴聲</item>
+        <item>媒體</item>
+        <item>鬧鐘</item>
+        <item></item>
+        <item>藍牙</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>顯示小時、分鐘和秒</item>
         <item>顯示小時和分鐘 (預設)</item>
@@ -169,4 +199,5 @@
         <item>充電時顯示百分比 (預設)</item>
         <item>不顯示這個圖示</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

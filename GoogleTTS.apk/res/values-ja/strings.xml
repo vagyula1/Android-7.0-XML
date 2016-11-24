@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_notification_needs_update_title">アプリではGoogle Play開発者サービスを更新する必要があります</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$sにはAndroid Wearアプリの更新が必要です。</string>
+    <string name="common_google_play_services_needs_enabling_title">アプリではGoogle Play開発者サービスを有効にする必要があります</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$sによるリクエスト</string>
+    <string name="common_google_play_services_install_title">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_install_text_phone">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_button">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_enable_title">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_button">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_update_title">Play開発者サービスの更新</string>
+    <string name="common_android_wear_update_title">Android Wearの更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_android_wear_update_text">%1$sの実行にはAndroid Wearアプリの更新が必要です。</string>
+    <string name="common_google_play_services_updating_title">Google Play開発者サービスの更新中</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+    <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+    <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+    <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_unknown_issue">Google Play開発者サービスで原因不明の問題が発生しました。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+    <string name="common_google_play_services_unsupported_text">%1$sに必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleでログイン</string>
+    <string name="common_open_on_phone">端末で開く</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$sには現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。</string>
+    <string name="common_google_play_services_sign_in_failed_title">ログインできませんでした</string>
+    <string name="common_google_play_services_sign_in_failed_text">指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。</string>
+    <string name="app_name">Googleテキスト読み上げエンジン</string>
+    <string name="general_settings">全般設定</string>
+    <string name="license_activity_title">オープンソースライセンス</string>
+    <string name="license_activity_loading">読み込み中...</string>
+    <string name="license_activity_unavailable">ライセンスの読み込み中に問題が発生しました。</string>
+    <string name="tts_settings_label">Googleテキスト読み上げオプション</string>
+    <string name="voice_data_install_title">Googleテキスト読み上げの音声データ</string>
+    <string name="install_data_header">端末でオフラインでの音声合成に対応するにはこのデータをダウンロードします。</string>
+    <string name="download_invite_title">%1$sの読み上げ音声をインストールしよう</string>
+    <string name="download_invite">%1$sのオフラインでのテキスト読み上げを有効にします</string>
+    <string name="install_voice_text_2">ダウンロードできます。</string>
+    <string name="download_in_progress">ダウンロード中</string>
+    <string name="no_installable_voices">ダウンロードできる音声はありません</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete_voice_data">削除</string>
+    <string name="update">更新</string>
+    <string name="download">ダウンロード</string>
+    <string name="voice_installed">インストール済みです。</string>
+    <string name="voice_installed_and_default">インストール済みで、デフォルトに設定されています。</string>
+    <string name="download_notification_title">%2$s（%1$s）</string>
+    <string name="download_notification_description">テキスト読み上げ用の音声データ</string>
+    <string name="download_success_title">%1$sの音声データをダウンロードしました</string>
+    <string name="download_success_description">タップして設定に移動し、この音声をデフォルトに設定できます。</string>
+    <string name="download_failure_title">%1$sの音声データをダウンロード中のエラー</string>
+    <string name="download_failure_description">タップすると再試行します。</string>
+    <string name="download_failed_toast">音声パックのダウンロードを開始できませんでした。</string>
+    <string name="manage_voice_data">音声データの管理</string>
+    <string name="auto_update_title">音声を自動更新</string>
+    <string name="auto_update_wifi_title">Wi-Fi使用時のみ</string>
+    <string name="auto_update_wifi_summary">Wi-Fi使用時のみ音声データをダウンロードして、データ使用量を節約します。</string>
+    <string name="feedback_title">フィードバック</string>
+    <string name="feedback_failed">フィードバック フォームを開けませんでした</string>
+    <string name="voices_type_title">音声のタイプ</string>
+    <string name="voices_type_summary">[DOGFOOD]音声合成のタイプ</string>
+    <string name="analytics_title">匿名の使用状況レポート</string>
+    <string name="analytics_summary_on">ON</string>
+    <string name="analytics_summary_off">OFF</string>
+    <string name="analytics_screen_explanation">"この機能をONにすると匿名の使用状況レポートが収集されます。収集した情報は、この端末でのGoogleテキスト読み上げのパフォーマンスの把握に役立てさせていただきます。
+
+収集される集計指標の例:
+"<li><ul>"テキスト読み上げの使用頻度
+"<li>テキスト読み上げリクエストのパフォーマンス</li>"
+"<li>使用言語</li>"
+"<li>テキスト読み上げで音声を出力できない頻度</li>"
+"</ul></li></string>
+    <string name="process_text_title">Google テキスト読み上げエントリをテキスト選択メニューに追加</string>
+    <string name="process_text_summary">この新しいエントリが選択したテキストに合成されます。</string>
+    <string name="voice_pack_status_installed">インストール済み（%1$s）</string>
+    <string name="voice_pack_status_gender_female">女性</string>
+    <string name="voice_pack_status_gender_male">男性</string>
+    <string name="voice_entity_status_gender_female">女性%1$d</string>
+    <string name="voice_entity_status_gender_male">男性%1$d</string>
+    <string name="voice_entity_status_gender_unknown">性別不明%1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">以前の女性の音声</string>
+    <string name="voice_pack_status_gender_male_legacy">以前の男性の音声</string>
+    <string name="voice_pack_status_gender_unknown">性別が不明です</string>
+    <string name="voice_pack_status_updatable">アップデート利用可能</string>
+    <string name="voice_pack_status_downloadable">ダウンロード（～%1$s）</string>
+    <string name="voice_pack_status_locale_default">現在の音声</string>
+    <string name="voice_pack_status_downloading">ダウンロードしています…</string>
+    <string name="voice_pack_name_high_quality">%1$s（高品質）</string>
+    <string name="voice_pack_description">"名前: %1$s 
+言語/地域: %2$s 
+データサイズ: ～%3$s 
+声の性別: %4$s"</string>
+    <string name="voice_pack_action_download">ダウンロード（～%1$s）</string>
+    <string name="voice_pack_action_remove">削除</string>
+    <string name="voice_pack_action_update">アップデート（～%1$s）</string>
+    <string name="voice_pack_action_locale_default">%1$sの現在の音声にする</string>
+    <string name="voice_pack_action_cancel">ダウンロードをキャンセル</string>
+    <string name="voice_pack_install_tab_installed">インストール済み</string>
+    <string name="voice_pack_install_tab_all">すべて</string>
+    <string name="voice_pack_install_tab_settings">設定</string>
+    <string name="voice_entry_details">音声詳細ダイアログを起動</string>
+    <string name="voice_entry_edit_desc">音声パックを開く</string>
+    <string name="voice_entry_overflow_desc">追加の音声パック操作</string>
+    <string name="voice_entry_download_desc">音声パックをダウンロード</string>
+    <string name="voice_entry_cancel_download_desc">音声パックのダウンロードをキャンセル</string>
+    <string name="voice_entry_delete_desc">音声パックを削除</string>
+    <string name="voice_entry_sample">音声サンプルを再生</string>
+    <string name="voice_pack_not_enough_space">空き容量が不足しています。音声をインストールするには空き容量を増やしてください。</string>
+    <string name="action_settings">オプション</string>
+    <string name="action_licenses">オープンソースライセンス</string>
+    <string name="action_voice_pack_update">更新</string>
+    <string name="action_voice_pack_uninstall">アンインストール</string>
+    <string name="voice_pack_uninstall_dialog">アンインストールしますか？</string>
+    <string name="voice_pack_uninstall_keep">保持</string>
+    <string name="voice_pack_uninstall_uninstall">アンインストール</string>
+    <string name="voice_pack_unpack_failure">ダウンロードした音声のインストールに失敗しました</string>
+    <string name="multi_voice_pack_title">%1$sの音声</string>
+    <string name="multi_voice_pack_entry_name">音声セット%1$d</string>
+    <string name="morphed_voice_set_title">音声セット</string>
+    <string name="select_voice_title">音声の選択</string>
+    <string name="play_sample_text_button_description">「%1$s」のサンプル テキストを再生</string>
+    <string name="voice_pack_no_download_manager">ダウンロードマネージャーが無効になっているか、見つかりません。音声パックをダウンロードできません。</string>
+    <string name="unpack_voice_pack_service_title">テキスト読み上げデータの更新</string>
+    <string name="unpack_voice_pack_service_text">展開しています…</string>
+    <string name="sample_text_synthesis_failure">この音声のサンプルを合成できませんでした。</string>
+    <string name="quick_wait_for_init">読み込んでいます</string>
+    <string name="quick_synthesizing">合成しています</string>
+    <string name="quick_speaking">発声しています</string>
+    <string name="quick_stopped">停止しました</string>
+    <string name="quick_error">エラー</string>
+</resources>

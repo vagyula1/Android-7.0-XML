@@ -4,6 +4,10 @@
         <item quantity="other">Jy het %d pogings oor voordat SIM gesluit word.</item>
         <item quantity="one">Jy het %d poging oor voordat SIM gesluit word.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertifikaatoutoriteite is geïnstalleer</item>
+        <item quantity="one">Sertifikaatoutoriteit is geïnstalleer</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Neem skermkiekie vir foutverslag oor %d sekondes.</item>
         <item quantity="one">Neem skermkiekie vir foutverslag oor %d sekonde.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d uur</item>
         <item quantity="one">1 uur</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d m.</item>
+        <item quantity="one">%d m.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d u.</item>
+        <item quantity="one">%d u.</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d j.</item>
+        <item quantity="one">%d j.</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">oor %d m.</item>
+        <item quantity="one">oor %d m.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">oor %d u.</item>
+        <item quantity="one">oor %d u.</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">oor %d d.</item>
+        <item quantity="one">oor %d d.</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">oor %d j.</item>
+        <item quantity="one">oor %d j.</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minute gelede</item>
+        <item quantity="one">%d minuut gelede</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d uur gelede</item>
+        <item quantity="one">%d uur gelede</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d dae gelede</item>
+        <item quantity="one">%d dag gelede</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d jaar gelede</item>
+        <item quantity="one">%d jaar gelede</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">oor %d minute</item>
+        <item quantity="one">oor %d minuut</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">oor %d uur</item>
+        <item quantity="one">oor %d uur</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">oor %d dae</item>
+        <item quantity="one">oor %d dag</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">oor %d jaar</item>
+        <item quantity="one">oor %d jaar</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi netwerke beskikbaar</item>

@@ -5,6 +5,11 @@
         <item quantity="one">Имате још %d покушај пре него што се SIM картица закључа.</item>
         <item quantity="few">Имате још %d покушаја пре него што се SIM картица закључа.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Инсталирани су ауторитети за издавање сертификата</item>
+        <item quantity="one">Инсталирани су ауторитети за издавање сертификата</item>
+        <item quantity="few">Инсталирани су ауторитети за издавање сертификата</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Направићемо снимак екрана ради извештаја о грешци за %d секунди.</item>
         <item quantity="one">Направићемо снимак екрана ради извештаја о грешци за %d секунду.</item>
@@ -30,6 +35,86 @@
         <item quantity="one">%d сат</item>
         <item quantity="few">%d сата</item>
     </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+        <item quantity="few">%d ч</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d дан</item>
+        <item quantity="one">%d дан</item>
+        <item quantity="few">%d дан</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d год</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d год</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">за %d мин</item>
+        <item quantity="one">за %d мин</item>
+        <item quantity="few">за %d мин</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">за %d ч</item>
+        <item quantity="one">за %d ч</item>
+        <item quantity="few">за %d ч</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">за %d дан</item>
+        <item quantity="one">за %d дан</item>
+        <item quantity="few">за %d дан</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">за %d год</item>
+        <item quantity="one">за %d год</item>
+        <item quantity="few">за %d год</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">пре %d минута</item>
+        <item quantity="one">пре %d минута</item>
+        <item quantity="few">пре %d минута</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">пре %d сати</item>
+        <item quantity="one">пре %d сата</item>
+        <item quantity="few">пре %d сата</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">Пре %d дана</item>
+        <item quantity="one">Пре %d дана</item>
+        <item quantity="few">Пре %d дана</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">пре %d година</item>
+        <item quantity="one">пре %d године</item>
+        <item quantity="few">пре %d године</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">за %d минута</item>
+        <item quantity="one">за %d минут</item>
+        <item quantity="few">за %d минута</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">за %d сати</item>
+        <item quantity="one">за %d сат</item>
+        <item quantity="few">за %d сата</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">за %d дана</item>
+        <item quantity="one">за %d дан</item>
+        <item quantity="few">за %d дана</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">за %d година</item>
+        <item quantity="one">за %d годину</item>
+        <item quantity="few">за %d године</item>
+    </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi мреже су доступне</item>
         <item quantity="one">Wi-Fi мреже су доступне</item>
@@ -46,9 +131,9 @@
         <item quantity="few">%1$d од %2$d</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Покушајте поново за %d секунди</item>
-        <item quantity="one">Покушајте поново за %d секунду</item>
-        <item quantity="few">Покушајте поново за %d секунде</item>
+        <item quantity="other">Пробајте поново за %d секунди</item>
+        <item quantity="one">Пробајте поново за %d секунду</item>
+        <item quantity="few">Пробајте поново за %d секунде</item>
     </plurals>
     <plurals name="zen_mode_duration_minutes_summary">
         <item quantity="other">%1$d минута (до %2$s)</item>

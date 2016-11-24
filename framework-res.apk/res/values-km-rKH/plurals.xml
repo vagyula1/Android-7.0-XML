@@ -4,6 +4,10 @@
         <item quantity="other">អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលស៊ីមត្រូវចាក់សោ។</item>
         <item quantity="one">អ្នកនៅសល់ការព្យាយាម %d ដងទៀត មុនពេលស៊ីមត្រូវចាក់សោ។</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">បានដំឡើងអាជ្ញាធរវិញ្ញាបនបត្រ</item>
+        <item quantity="one">បានដំឡើងអាជ្ញាធរវិញ្ញាបនបត្រ</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">នឹងថតរូបអេក្រង់សម្រាប់របាយការណ៍កំហុសក្នុងរយៈពេល %d វិនាទីទៀត។</item>
         <item quantity="one">នឹងថតរូបអេក្រង់សម្រាប់របាយការណ៍កំហុសក្នុងរយៈពេល %d វិនាទីទៀត។</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ម៉ោង</item>
         <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dន</item>
+        <item quantity="one">%dន</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dម៉</item>
+        <item quantity="one">%dម៉</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dថ</item>
+        <item quantity="one">%dថ</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dឆ</item>
+        <item quantity="one">%dឆ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">ក្នុងពេល %dន</item>
+        <item quantity="one">ក្នុងពេល %dន</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">ក្នុងពេល %dម៉</item>
+        <item quantity="one">ក្នុងពេល %dម៉</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">ក្នុងពេល %dថ</item>
+        <item quantity="one">ក្នុងពេល %dថ</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">ក្នុងពេល %dឆ</item>
+        <item quantity="one">ក្នុងពេល %dឆ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d នាទីមុន</item>
+        <item quantity="one">%d នាទីមុន</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ម៉ោងមុន</item>
+        <item quantity="one">%d ម៉ោងមុន</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d ថ្ងៃមុន</item>
+        <item quantity="one">%d ថ្ងៃមុន</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d ឆ្នាំមុន</item>
+        <item quantity="one">%d ឆ្នាំមុន</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">ក្នុងរយៈពេល %d នាទីទៀត</item>
+        <item quantity="one">ក្នុងរយៈពេល %d នាទីទៀត</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">ក្នុងរយៈពេល %d ម៉ោងទៀត</item>
+        <item quantity="one">ក្នុងរយៈពេល %d ម៉ោងទៀត</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">ក្នុងរយៈពេល %d ថ្ងៃទៀត</item>
+        <item quantity="one">ក្នុងរយៈពេល %d ថ្ងៃទៀត</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">ក្នុងរយៈពេល %d ឆ្នាំទៀត</item>
+        <item quantity="one">ក្នុងរយៈពេល %d ឆ្នាំទៀត</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">មានបណ្តាញ Wi-Fi</item>

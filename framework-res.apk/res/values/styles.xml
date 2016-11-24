@@ -175,9 +175,9 @@
         <item name="quickContactBadgeStyleSmallWindowLarge">@style/Widget.QuickContactBadgeSmall.WindowLarge</item>
         <item name="expandableListViewWhiteStyle">@style/Widget.ExpandableListView.White</item>
         <item name="webTextViewStyle">@style/Widget.WebTextView</item>
-        <item name="textSelectHandleLeft">@drawable/text_select_handle_left</item>
-        <item name="textSelectHandleRight">@drawable/text_select_handle_right</item>
-        <item name="textSelectHandle">@drawable/text_select_handle_middle</item>
+        <item name="textSelectHandleLeft">@drawable/text_select_handle_left_material</item>
+        <item name="textSelectHandleRight">@drawable/text_select_handle_right_material</item>
+        <item name="textSelectHandle">@drawable/text_select_handle_middle_material</item>
         <item name="textSelectHandleWindowStyle">@style/Widget.TextSelectHandle</item>
         <item name="windowActionBar">false</item>
         <item name="actionBarStyle">@style/Widget.ActionBar</item>
@@ -300,8 +300,11 @@
         <item name="dialogPreferredPadding">@dimen/dialog_padding</item>
         <item name="colorBackgroundFloating">?colorBackground</item>
         <item name="fingerprintAuthDrawable">@drawable/ic_fingerprint</item>
+        <item name="contextPopupMenuStyle">?popupMenuStyle</item>
         <item name="windowBackgroundFallback">?colorBackground</item>
         <item name="preferenceFragmentStyle">@style/PreferenceFragment</item>
+        <item name="numberPickerStyle">@style/Widget.NumberPicker</item>
+        <item name="colorSecondary">?colorPrimary</item>
         <item name="isLightTheme">false</item>
         <item name="textColorPrimaryActivated">@color/primary_text_dark</item>
         <item name="textColorSecondaryActivated">@color/secondary_text_dark</item>
@@ -327,7 +330,6 @@
         <item name="gestureOverlayViewStyle">@style/Widget.GestureOverlayView</item>
         <item name="quickContactBadgeOverlay">@drawable/quickcontact_badge_overlay_dark</item>
         <item name="fragmentBreadCrumbsStyle">@style/Widget.FragmentBreadCrumbs</item>
-        <item name="numberPickerStyle">@style/Widget.NumberPicker</item>
         <item name="activityChooserViewStyle">@style/Widget.ActivityChooserView</item>
         <item name="actionModePopupWindowStyle">?popupWindowStyle</item>
         <item name="preferenceActivityStyle">@style/PreferenceActivity</item>
@@ -1104,9 +1106,9 @@
         <item name="quickContactBadgeStyleSmallWindowLarge">@style/Widget.Holo.QuickContactBadgeSmall.WindowLarge</item>
         <item name="expandableListViewWhiteStyle">@style/Widget.Holo.ExpandableListView.White</item>
         <item name="webTextViewStyle">@style/Widget.Holo.WebTextView</item>
-        <item name="textSelectHandleLeft">@drawable/text_select_handle_left</item>
-        <item name="textSelectHandleRight">@drawable/text_select_handle_right</item>
-        <item name="textSelectHandle">@drawable/text_select_handle_middle</item>
+        <item name="textSelectHandleLeft">@drawable/text_select_handle_left_material</item>
+        <item name="textSelectHandleRight">@drawable/text_select_handle_right_material</item>
+        <item name="textSelectHandle">@drawable/text_select_handle_middle_material</item>
         <item name="textSelectHandleWindowStyle">@style/Widget.Holo.TextSelectHandle</item>
         <item name="windowActionBar">true</item>
         <item name="actionBarStyle">@style/Widget.Holo.ActionBar</item>
@@ -1204,6 +1206,7 @@
         <item name="colorEdgeEffect">?colorPrimary</item>
         <item name="colorBackgroundFloating">@color/background_holo_dark</item>
         <item name="preferenceFragmentStyle">@style/PreferenceFragment.Holo</item>
+        <item name="numberPickerStyle">@style/Widget.Holo.NumberPicker</item>
         <item name="textColorPrimaryActivated">@color/primary_text_holo_dark</item>
         <item name="textColorSecondaryActivated">@color/secondary_text_holo_dark</item>
         <item name="textColorSearchUrl">@color/search_url_text_holo</item>
@@ -1218,7 +1221,6 @@
         <item name="panelMenuListTheme">@style/Theme.Holo.CompactMenu</item>
         <item name="gestureOverlayViewStyle">@style/Widget.Holo.GestureOverlayView</item>
         <item name="fragmentBreadCrumbsStyle">@style/Widget.Holo.FragmentBreadCrumbs</item>
-        <item name="numberPickerStyle">@style/Widget.Holo.NumberPicker</item>
         <item name="activityChooserViewStyle">@style/Widget.Holo.ActivityChooserView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.Holo.PopupWindow.ActionMode</item>
         <item name="preferenceActivityStyle">@style/PreferenceActivity</item>
@@ -1374,9 +1376,9 @@
         <item name="quickContactBadgeStyleSmallWindowLarge">@style/Widget.Holo.QuickContactBadgeSmall.WindowLarge</item>
         <item name="expandableListViewWhiteStyle">@style/Widget.Holo.Light.ExpandableListView.White</item>
         <item name="webTextViewStyle">@style/Widget.Holo.Light.WebTextView</item>
-        <item name="textSelectHandleLeft">@drawable/text_select_handle_left</item>
-        <item name="textSelectHandleRight">@drawable/text_select_handle_right</item>
-        <item name="textSelectHandle">@drawable/text_select_handle_middle</item>
+        <item name="textSelectHandleLeft">@drawable/text_select_handle_left_material</item>
+        <item name="textSelectHandleRight">@drawable/text_select_handle_right_material</item>
+        <item name="textSelectHandle">@drawable/text_select_handle_middle_material</item>
         <item name="textSelectHandleWindowStyle">@style/Widget.Holo.TextSelectHandle</item>
         <item name="windowActionBar">true</item>
         <item name="actionBarStyle">@style/Widget.Holo.Light.ActionBar.Solid</item>
@@ -1429,6 +1431,7 @@
         <item name="calendarViewStyle">@style/Widget.Holo.Light.CalendarView</item>
         <item name="textCursorDrawable">@drawable/text_cursor_holo_light</item>
         <item name="switchPreferenceStyle">@style/Preference.Holo.SwitchPreference</item>
+        <item name="textEditSuggestionItemLayout">@layout/text_edit_suggestion_item</item>
         <item name="actionModeSelectAllDrawable">@drawable/ic_menu_selectall_holo_light</item>
         <item name="listPreferredItemHeightLarge">80.0dip</item>
         <item name="listPreferredItemHeightSmall">48.0dip</item>
@@ -1470,6 +1473,7 @@
         <item name="datePickerDialogTheme">?alertDialogTheme</item>
         <item name="colorBackgroundFloating">@color/background_holo_light</item>
         <item name="preferenceFragmentStyle">@style/PreferenceFragment.Holo</item>
+        <item name="numberPickerStyle">@style/Widget.Holo.Light.NumberPicker</item>
         <item name="textColorPrimaryActivated">@color/primary_text_holo_light</item>
         <item name="textColorSecondaryActivated">@color/secondary_text_holo_light</item>
         <item name="textColorSearchUrl">@color/search_url_text_holo</item>
@@ -1484,11 +1488,12 @@
         <item name="panelMenuListTheme">@style/Theme.Holo.Light.CompactMenu</item>
         <item name="gestureOverlayViewStyle">@style/Widget.Holo.Light.GestureOverlayView</item>
         <item name="fragmentBreadCrumbsStyle">@style/Widget.Holo.Light.FragmentBreadCrumbs</item>
-        <item name="numberPickerStyle">@style/Widget.Holo.Light.NumberPicker</item>
         <item name="activityChooserViewStyle">@style/Widget.Holo.Light.ActivityChooserView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.Holo.Light.PopupWindow.ActionMode</item>
         <item name="preferenceActivityStyle">@style/PreferenceActivity</item>
         <item name="seekBarPreferenceStyle">@style/Preference.Holo.SeekBarPreference</item>
+        <item name="textEditSuggestionContainerLayout">@layout/text_edit_suggestion_container</item>
+        <item name="textEditSuggestionHighlightStyle">@style/TextAppearance.Holo.SuggestionHighlight</item>
         <item name="dialogTitleIconsDecorLayout">@layout/dialog_title_icons_holo</item>
         <item name="dialogCustomTitleDecorLayout">@layout/dialog_custom_title_holo</item>
         <item name="dialogTitleDecorLayout">@layout/dialog_title_holo</item>
@@ -2391,19 +2396,30 @@
         <item name="mediaRouteButtonStyle">@style/Widget.DeviceDefault.MediaRouteButton</item>
         <item name="presentationTheme">@style/Theme.DeviceDefault.Dialog.Presentation</item>
         <item name="checkedTextViewStyle">@style/Widget.DeviceDefault.CheckedTextView</item>
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
         <item name="stackViewStyle">@style/Widget.DeviceDefault.StackView</item>
         <item name="switchStyle">@style/Widget.DeviceDefault.CompoundButton.Switch</item>
         <item name="timePickerStyle">@style/Widget.DeviceDefault.TimePicker</item>
-        <item name="gestureOverlayViewStyle">@style/Widget.DeviceDefault.GestureOverlayView</item>
         <item name="numberPickerStyle">@style/Widget.DeviceDefault.NumberPicker</item>
+        <item name="gestureOverlayViewStyle">@style/Widget.DeviceDefault.GestureOverlayView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.DeviceDefault.PopupWindow.ActionMode</item>
         <item name="seekBarPreferenceStyle">@style/Preference.DeviceDefault.SeekBarPreference</item>
         <item name="searchDialogTheme">@style/Theme.DeviceDefault.SearchBar</item>
         <item name="preferenceFrameLayoutStyle">@style/Widget.DeviceDefault.PreferenceFrameLayout</item>
         <item name="keyboardViewStyle">@style/Widget.DeviceDefault.KeyboardView</item>
     </style>
-    <style name="Theme.DeviceDefault.NoActionBar" parent="@style/Theme.Material.NoActionBar" />
-    <style name="Theme.DeviceDefault.NoActionBar.Fullscreen" parent="@style/Theme.Material.NoActionBar.Fullscreen" />
+    <style name="Theme.DeviceDefault.NoActionBar" parent="@style/Theme.Material.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.NoActionBar.Fullscreen" parent="@style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
     <style name="Theme.DeviceDefault.Light" parent="@style/Theme.Material.Light">
         <item name="textAppearance">@style/TextAppearance.DeviceDefault</item>
         <item name="textAppearanceInverse">@style/TextAppearance.DeviceDefault.Inverse</item>
@@ -2504,17 +2520,28 @@
         <item name="mediaRouteButtonStyle">@style/Widget.DeviceDefault.Light.MediaRouteButton</item>
         <item name="presentationTheme">@style/Theme.DeviceDefault.Light.Dialog.Presentation</item>
         <item name="checkedTextViewStyle">@style/Widget.DeviceDefault.Light.CheckedTextView</item>
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
         <item name="stackViewStyle">@style/Widget.DeviceDefault.Light.StackView</item>
         <item name="timePickerStyle">@style/Widget.DeviceDefault.Light.TimePicker</item>
-        <item name="gestureOverlayViewStyle">@style/Widget.DeviceDefault.Light.GestureOverlayView</item>
         <item name="numberPickerStyle">@style/Widget.DeviceDefault.Light.NumberPicker</item>
+        <item name="gestureOverlayViewStyle">@style/Widget.DeviceDefault.Light.GestureOverlayView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.DeviceDefault.Light.PopupWindow.ActionMode</item>
         <item name="seekBarPreferenceStyle">@style/Preference.DeviceDefault.SeekBarPreference</item>
         <item name="searchDialogTheme">@style/Theme.DeviceDefault.Light.SearchBar</item>
         <item name="keyboardViewStyle">@style/Widget.DeviceDefault.KeyboardView</item>
     </style>
-    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@style/Theme.Material.Light.NoActionBar" />
-    <style name="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" parent="@style/Theme.Material.Light.NoActionBar.Fullscreen" />
+    <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@style/Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" parent="@style/Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
     <style name="Theme.DeviceDefault.Dialog" parent="@style/Theme.Material.Dialog">
         <item name="textAppearance">@style/TextAppearance.DeviceDefault</item>
         <item name="textAppearanceInverse">@style/TextAppearance.DeviceDefault.Inverse</item>
@@ -2522,10 +2549,25 @@
         <item name="windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
         <item name="borderlessButtonStyle">@style/Widget.DeviceDefault.Button.Borderless.Small</item>
         <item name="buttonBarStyle">@style/DeviceDefault.ButtonBar.AlertDialog</item>
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
     </style>
-    <style name="Theme.DeviceDefault.Dialog.MinWidth" parent="@style/Theme.Material.Dialog.MinWidth" />
-    <style name="Theme.DeviceDefault.Dialog.NoActionBar" parent="@style/Theme.Material.Dialog.NoActionBar" />
-    <style name="Theme.DeviceDefault.Dialog.NoActionBar.MinWidth" parent="@style/Theme.Material.Dialog.NoActionBar.MinWidth" />
+    <style name="Theme.DeviceDefault.Dialog.MinWidth" parent="@style/Theme.Material.Dialog.MinWidth">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog.NoActionBar" parent="@style/Theme.Material.Dialog.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog.NoActionBar.MinWidth" parent="@style/Theme.Material.Dialog.NoActionBar.MinWidth">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
     <style name="Theme.DeviceDefault.Light.Dialog" parent="@style/Theme.Material.Light.Dialog">
         <item name="textAppearance">@style/TextAppearance.DeviceDefault</item>
         <item name="textAppearanceInverse">@style/TextAppearance.DeviceDefault.Inverse</item>
@@ -2533,20 +2575,75 @@
         <item name="windowAnimationStyle">@style/Animation.DeviceDefault.Dialog</item>
         <item name="borderlessButtonStyle">@style/Widget.DeviceDefault.Light.Button.Borderless.Small</item>
         <item name="buttonBarStyle">@style/DeviceDefault.Light.ButtonBar.AlertDialog</item>
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
     </style>
-    <style name="Theme.DeviceDefault.Light.Dialog.MinWidth" parent="@style/Theme.Material.Light.Dialog.MinWidth" />
-    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar" parent="@style/Theme.Material.Light.Dialog.NoActionBar" />
-    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.MinWidth" parent="@style/Theme.Material.Light.Dialog.NoActionBar.MinWidth" />
-    <style name="Theme.DeviceDefault.DialogWhenLarge" parent="@style/Theme.Material.DialogWhenLarge" />
-    <style name="Theme.DeviceDefault.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.DialogWhenLarge.NoActionBar" />
-    <style name="Theme.DeviceDefault.Light.DialogWhenLarge" parent="@style/Theme.Material.Light.DialogWhenLarge" />
-    <style name="Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.Light.DialogWhenLarge.NoActionBar" />
-    <style name="Theme.DeviceDefault.Panel" parent="@style/Theme.Material.Panel" />
-    <style name="Theme.DeviceDefault.Light.Panel" parent="@style/Theme.Material.Light.Panel" />
-    <style name="Theme.DeviceDefault.Wallpaper" parent="@style/Theme.Material.Wallpaper" />
-    <style name="Theme.DeviceDefault.Wallpaper.NoTitleBar" parent="@style/Theme.Material.Wallpaper.NoTitleBar" />
-    <style name="Theme.DeviceDefault.InputMethod" parent="@style/Theme.Material.InputMethod" />
-    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@style/Theme.Material.Light.DarkActionBar" />
+    <style name="Theme.DeviceDefault.Light.Dialog.MinWidth" parent="@style/Theme.Material.Light.Dialog.MinWidth">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar" parent="@style/Theme.Material.Light.Dialog.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.MinWidth" parent="@style/Theme.Material.Light.Dialog.NoActionBar.MinWidth">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.DialogWhenLarge" parent="@style/Theme.Material.DialogWhenLarge">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.DialogWhenLarge.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.DialogWhenLarge" parent="@style/Theme.Material.Light.DialogWhenLarge">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.Light.DialogWhenLarge.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Panel" parent="@style/Theme.Material.Panel">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.Panel" parent="@style/Theme.Material.Light.Panel">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Wallpaper" parent="@style/Theme.Material.Wallpaper">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Wallpaper.NoTitleBar" parent="@style/Theme.Material.Wallpaper.NoTitleBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.InputMethod" parent="@style/Theme.Material.InputMethod">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@style/Theme.Material.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
     <style name="Widget.DeviceDefault" parent="@style/Widget.Material" />
     <style name="Widget.DeviceDefault.Button" parent="@style/Widget.Material.Button" />
     <style name="Widget.DeviceDefault.Button.Small" parent="@style/Widget.Material.Button.Small" />
@@ -2723,8 +2820,16 @@
         <item name="windowFullscreen">true</item>
         <item name="windowOverscan">true</item>
     </style>
-    <style name="Theme.DeviceDefault.NoActionBar.Overscan" parent="@style/Theme.Material.NoActionBar.Overscan" />
-    <style name="Theme.DeviceDefault.Light.NoActionBar.Overscan" parent="@style/Theme.Material.Light.NoActionBar.Overscan" />
+    <style name="Theme.DeviceDefault.NoActionBar.Overscan" parent="@style/Theme.Material.NoActionBar.Overscan">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.NoActionBar.Overscan" parent="@style/Theme.Material.Light.NoActionBar.Overscan">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
     <style name="Theme.Holo.NoActionBar.TranslucentDecor" parent="@style/Theme.Holo.NoActionBar">
         <item name="windowContentOverlay">@null</item>
         <item name="windowTranslucentStatus">true</item>
@@ -2735,8 +2840,16 @@
         <item name="windowTranslucentStatus">true</item>
         <item name="windowTranslucentNavigation">true</item>
     </style>
-    <style name="Theme.DeviceDefault.NoActionBar.TranslucentDecor" parent="@style/Theme.Material.NoActionBar.TranslucentDecor" />
-    <style name="Theme.DeviceDefault.Light.NoActionBar.TranslucentDecor" parent="@style/Theme.Material.Light.NoActionBar.TranslucentDecor" />
+    <style name="Theme.DeviceDefault.NoActionBar.TranslucentDecor" parent="@style/Theme.Material.NoActionBar.TranslucentDecor">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.NoActionBar.TranslucentDecor" parent="@style/Theme.Material.Light.NoActionBar.TranslucentDecor">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
     <style name="Widget.FastScroll" parent="@style/Widget">
         <item name="textSize">52.0sp</item>
         <item name="textColor">?fastScrollTextColor</item>
@@ -2784,6 +2897,7 @@
         <item name="textColorHighlight">?textColorHighlight</item>
         <item name="textColorHint">?textColorHint</item>
         <item name="textColorLink">?textColorLink</item>
+        <item name="lineSpacingMultiplier">@dimen/text_line_spacing_multiplier_material</item>
         <item name="fontFamily">@string/font_family_body_1_material</item>
     </style>
     <style name="TextAppearance.Material.Button" parent="@style/TextAppearance.Material">
@@ -2956,7 +3070,12 @@
     <style name="TextAppearance.Material.Widget.TextView.SpinnerItem" parent="@style/TextAppearance.Material.Menu" />
     <style name="TextAppearance.Material.Widget.Toolbar.Subtitle" parent="@style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
     <style name="TextAppearance.Material.Widget.Toolbar.Title" parent="@style/TextAppearance.Material.Widget.ActionBar.Title" />
-    <style name="Theme.DeviceDefault.Settings" parent="@style/Theme.Material.Settings" />
+    <style name="Theme.DeviceDefault.Settings" parent="@style/Theme.Material.Settings">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
     <style name="Theme.Material" parent="@style/Theme">
         <item name="colorForeground">@color/foreground_material_dark</item>
         <item name="colorBackground">@color/background_material_dark</item>
@@ -2992,7 +3111,7 @@
         <item name="expandableListPreferredChildIndicatorRight">?expandableListPreferredItemIndicatorRight</item>
         <item name="windowBackground">?colorBackground</item>
         <item name="windowFrame">@null</item>
-        <item name="windowNoTitle">false</item>
+        <item name="windowNoTitle">@bool/config_windowNoTitleDefault</item>
         <item name="windowIsFloating">false</item>
         <item name="windowContentOverlay">@null</item>
         <item name="windowTitleSize">@dimen/action_bar_default_height_material</item>
@@ -3088,7 +3207,7 @@
         <item name="textSelectHandleRight">@drawable/text_select_handle_right_material</item>
         <item name="textSelectHandle">@drawable/text_select_handle_middle_material</item>
         <item name="textSelectHandleWindowStyle">@style/Widget.Material.TextSelectHandle</item>
-        <item name="windowActionBar">true</item>
+        <item name="windowActionBar">@bool/config_windowActionBarSupported</item>
         <item name="actionBarStyle">@style/Widget.Material.ActionBar.Solid</item>
         <item name="dropDownSpinnerStyle">@style/Widget.Material.Spinner.DropDown</item>
         <item name="actionDropDownStyle">@style/Widget.Material.Spinner.DropDown.ActionBar</item>
@@ -3154,11 +3273,11 @@
         <item name="listPreferredItemPaddingLeft">@dimen/list_item_padding_horizontal_material</item>
         <item name="listPreferredItemPaddingRight">@dimen/list_item_padding_horizontal_material</item>
         <item name="mediaRouteButtonStyle">@style/Widget.Material.MediaRouteButton</item>
-        <item name="listPreferredItemPaddingStart">@dimen/list_item_padding_horizontal_material</item>
-        <item name="listPreferredItemPaddingEnd">@dimen/list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingStart">@dimen/list_item_padding_start_material</item>
+        <item name="listPreferredItemPaddingEnd">@dimen/list_item_padding_end_material</item>
         <item name="presentationTheme">@style/Theme.Material.Dialog.Presentation</item>
         <item name="checkedTextViewStyle">@style/Widget.Material.CheckedTextView</item>
-        <item name="windowOverscan">false</item>
+        <item name="windowOverscan">@bool/config_windowOverscanByDefault</item>
         <item name="fastScrollStyle">@style/Widget.Material.FastScroll</item>
         <item name="windowContentTransitions">false</item>
         <item name="colorControlNormal">?textColorSecondary</item>
@@ -3186,7 +3305,7 @@
         <item name="searchViewStyle">@style/Widget.Material.SearchView</item>
         <item name="actionBarPopupTheme">?popupTheme</item>
         <item name="timePickerStyle">@style/Widget.Material.TimePicker</item>
-        <item name="timePickerDialogTheme">?dialogTheme</item>
+        <item name="timePickerDialogTheme">@style/ThemeOverlay.Material.Dialog.TimePicker</item>
         <item name="popupTheme">@null</item>
         <item name="toolbarStyle">@style/Widget.Material.Toolbar</item>
         <item name="windowClipToOutline">true</item>
@@ -3199,6 +3318,7 @@
         <item name="contextPopupMenuStyle">@style/Widget.Material.ContextPopupMenu</item>
         <item name="textAppearancePopupMenuHeader">@style/TextAppearance.Material.Widget.PopupMenu.Header</item>
         <item name="preferenceFragmentStyle">@style/PreferenceFragment.Material</item>
+        <item name="numberPickerStyle">@style/Widget.Material.NumberPicker</item>
         <item name="textColorPrimaryActivated">@color/primary_text_inverse_when_activated_material</item>
         <item name="textColorSecondaryActivated">@color/secondary_text_inverse_when_activated_material</item>
         <item name="textColorSearchUrl">@color/search_url_text_material_dark</item>
@@ -3214,7 +3334,6 @@
         <item name="panelMenuListTheme">@style/Theme.Material.CompactMenu</item>
         <item name="gestureOverlayViewStyle">@style/Widget.Material.GestureOverlayView</item>
         <item name="fragmentBreadCrumbsStyle">@style/Widget.Material.FragmentBreadCrumbs</item>
-        <item name="numberPickerStyle">@style/Widget.Material.NumberPicker</item>
         <item name="activityChooserViewStyle">@style/Widget.Material.ActivityChooserView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.Material.PopupWindow.ActionMode</item>
         <item name="preferenceActivityStyle">@style/PreferenceActivity.Material</item>
@@ -3290,10 +3409,11 @@
         <item name="backgroundDimEnabled">false</item>
         <item name="colorBackgroundCacheHint">@null</item>
     </style>
-    <style name="Theme.Material.Settings" parent="@style/Theme.Material.DayNight.DarkActionBar">
+    <style name="Theme.Material.Settings" parent="@style/Theme.Material.Light.DarkActionBar">
         <item name="presentationTheme">@style/Theme.Material.Settings.Dialog.Presentation</item>
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
         <item name="panelMenuListTheme">@style/Theme.Material.Settings.CompactMenu</item>
         <item name="searchDialogTheme">@style/Theme.Material.Settings.SearchBar</item>
     </style>
@@ -3344,7 +3464,7 @@
         <item name="expandableListPreferredChildIndicatorRight">?expandableListPreferredItemIndicatorRight</item>
         <item name="windowBackground">?colorBackground</item>
         <item name="windowFrame">@null</item>
-        <item name="windowNoTitle">false</item>
+        <item name="windowNoTitle">@bool/config_windowNoTitleDefault</item>
         <item name="windowIsFloating">false</item>
         <item name="windowContentOverlay">@null</item>
         <item name="windowTitleSize">@dimen/action_bar_default_height_material</item>
@@ -3441,7 +3561,7 @@
         <item name="textSelectHandleRight">@drawable/text_select_handle_right_material</item>
         <item name="textSelectHandle">@drawable/text_select_handle_middle_material</item>
         <item name="textSelectHandleWindowStyle">@style/Widget.Material.TextSelectHandle</item>
-        <item name="windowActionBar">true</item>
+        <item name="windowActionBar">@bool/config_windowActionBarSupported</item>
         <item name="actionBarStyle">@style/Widget.Material.Light.ActionBar.Solid</item>
         <item name="dropDownSpinnerStyle">@style/Widget.Material.Light.Spinner.DropDown</item>
         <item name="actionDropDownStyle">@style/Widget.Material.Light.Spinner.DropDown.ActionBar</item>
@@ -3507,11 +3627,11 @@
         <item name="listPreferredItemPaddingLeft">@dimen/list_item_padding_horizontal_material</item>
         <item name="listPreferredItemPaddingRight">@dimen/list_item_padding_horizontal_material</item>
         <item name="mediaRouteButtonStyle">@style/Widget.Material.Light.MediaRouteButton</item>
-        <item name="listPreferredItemPaddingStart">@dimen/list_item_padding_horizontal_material</item>
-        <item name="listPreferredItemPaddingEnd">@dimen/list_item_padding_horizontal_material</item>
+        <item name="listPreferredItemPaddingStart">@dimen/list_item_padding_start_material</item>
+        <item name="listPreferredItemPaddingEnd">@dimen/list_item_padding_end_material</item>
         <item name="presentationTheme">@style/Theme.Material.Light.Dialog.Presentation</item>
         <item name="checkedTextViewStyle">@style/Widget.Material.Light.CheckedTextView</item>
-        <item name="windowOverscan">false</item>
+        <item name="windowOverscan">@bool/config_windowOverscanByDefault</item>
         <item name="fastScrollStyle">@style/Widget.Material.Light.FastScroll</item>
         <item name="windowContentTransitions">false</item>
         <item name="colorControlNormal">?textColorSecondary</item>
@@ -3539,7 +3659,7 @@
         <item name="searchViewStyle">@style/Widget.Material.Light.SearchView</item>
         <item name="actionBarPopupTheme">?popupTheme</item>
         <item name="timePickerStyle">@style/Widget.Material.Light.TimePicker</item>
-        <item name="timePickerDialogTheme">?dialogTheme</item>
+        <item name="timePickerDialogTheme">@style/ThemeOverlay.Material.Dialog.TimePicker</item>
         <item name="popupTheme">@null</item>
         <item name="toolbarStyle">@style/Widget.Material.Toolbar</item>
         <item name="windowClipToOutline">true</item>
@@ -3552,6 +3672,7 @@
         <item name="contextPopupMenuStyle">@style/Widget.Material.ContextPopupMenu</item>
         <item name="textAppearancePopupMenuHeader">@style/TextAppearance.Material.Widget.PopupMenu.Header</item>
         <item name="preferenceFragmentStyle">@style/PreferenceFragment.Material</item>
+        <item name="numberPickerStyle">@style/Widget.Material.Light.NumberPicker</item>
         <item name="textColorPrimaryActivated">@color/primary_text_inverse_when_activated_material</item>
         <item name="textColorSecondaryActivated">@color/secondary_text_inverse_when_activated_material</item>
         <item name="textColorSearchUrl">@color/search_url_text_material_light</item>
@@ -3567,7 +3688,6 @@
         <item name="panelMenuListTheme">@style/Theme.Material.Light.CompactMenu</item>
         <item name="gestureOverlayViewStyle">@style/Widget.Material.Light.GestureOverlayView</item>
         <item name="fragmentBreadCrumbsStyle">@style/Widget.Material.FragmentBreadCrumbs</item>
-        <item name="numberPickerStyle">@style/Widget.Material.Light.NumberPicker</item>
         <item name="activityChooserViewStyle">@style/Widget.Material.Light.ActivityChooserView</item>
         <item name="actionModePopupWindowStyle">@style/Widget.Material.Light.PopupWindow.ActionMode</item>
         <item name="preferenceActivityStyle">@style/PreferenceActivity.Material</item>
@@ -3809,7 +3929,7 @@
         <item name="stateListAnimator">@null</item>
     </style>
     <style name="Widget.Material.Button.Borderless.Colored" parent="@style/Widget.Material.Button.Borderless">
-        <item name="textColor">@color/btn_colored_borderless_text_material</item>
+        <item name="textAppearance">@style/TextAppearance.Material.Widget.Button.Borderless.Colored</item>
     </style>
     <style name="Widget.Material.Button.Borderless.Small" parent="@style/Widget.Material.Button.Borderless">
         <item name="minWidth">48.0dip</item>
@@ -3827,7 +3947,7 @@
         <item name="textOn">@string/capital_on</item>
         <item name="textOff">@string/capital_off</item>
     </style>
-    <style name="Widget.Material.ButtonBar" parent="@style/Widget.Material">
+    <style name="Widget.Material.ButtonBar" parent="@style/Widget.Material.BaseButtonBar">
         <item name="background">@null</item>
     </style>
     <style name="Widget.Material.ButtonBar.AlertDialog" parent="@style/Widget.Material.ButtonBar" />
@@ -3853,7 +3973,7 @@
     <style name="Widget.Material.DatePicker" parent="@style/Widget.Material">
         <item name="headerBackground">#ff555555</item>
         <item name="calendarViewShown">true</item>
-        <item name="datePickerMode">@integer/date_picker_mode</item>
+        <item name="datePickerMode">calendar</item>
         <item name="internalLayout">@layout/date_picker_material</item>
         <item name="headerTextColor">@color/primary_text_secondary_when_activated_material</item>
         <item name="legacyLayout">@layout/date_picker_legacy_holo</item>
@@ -4034,7 +4154,7 @@
         <item name="numbersBackgroundColor">#ff555555</item>
         <item name="numbersSelectorColor">?colorControlActivated</item>
         <item name="amPmTextColor">?textColorSecondary</item>
-        <item name="timePickerMode">@integer/time_picker_mode</item>
+        <item name="timePickerMode">clock</item>
         <item name="numbersInnerTextColor">?^attr-private/textColorSecondaryActivated</item>
         <item name="internalLayout">@layout/time_picker_material</item>
         <item name="headerTextColor">@color/primary_text_secondary_when_activated_material</item>
@@ -4143,13 +4263,18 @@
     </style>
     <style name="Theme.DeviceDefault.Dialog.Alert" parent="@style/Theme.Material.Dialog.Alert">
         <item name="windowTitleStyle">@style/DialogWindowTitle.DeviceDefault</item>
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
     </style>
     <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@style/Theme.Material.Light.Dialog.Alert">
         <item name="windowTitleStyle">@style/DialogWindowTitle.DeviceDefault.Light</item>
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
     </style>
     <style name="Widget.Material.Button.Colored" parent="@style/Widget.Material.Button">
-        <item name="textAppearance">@style/TextAppearance.Material.Widget.Button.Inverse</item>
-        <item name="textColor">@color/btn_colored_text_material</item>
+        <item name="textAppearance">@style/TextAppearance.Material.Widget.Button.Colored</item>
         <item name="background">@drawable/btn_colored_material</item>
     </style>
     <style name="TextAppearance.Material.Widget.Button.Inverse" parent="@style/TextAppearance.Material.Widget.Button">
@@ -4159,27 +4284,9 @@
         <item name="colorPrimaryDark">@color/primary_dark_material_light_light_status_bar</item>
         <item name="windowLightStatusBar">true</item>
     </style>
-    <style name="ThemeOverlay.Material.Dialog" parent="@style/ThemeOverlay.Material">
+    <style name="ThemeOverlay.Material.Dialog" parent="@style/ThemeOverlay.Material.BaseDialog">
         <item name="colorBackground">?colorBackgroundFloating</item>
-        <item name="windowBackground">@drawable/dialog_background_material</item>
-        <item name="windowFrame">@null</item>
-        <item name="windowIsFloating">true</item>
-        <item name="windowContentOverlay">@null</item>
-        <item name="windowTitleStyle">@style/DialogWindowTitle.Material</item>
-        <item name="windowTitleBackgroundStyle">@style/DialogWindowTitleBackground.Material</item>
-        <item name="windowAnimationStyle">@style/Animation.Material.Dialog</item>
-        <item name="listDivider">@null</item>
-        <item name="windowSoftInputMode">adjustPan</item>
         <item name="colorBackgroundCacheHint">@null</item>
-        <item name="windowActionBar">false</item>
-        <item name="windowActionModeOverlay">true</item>
-        <item name="windowCloseOnTouchOutside">@bool/config_closeDialogWhenTouchOutside</item>
-        <item name="listPreferredItemPaddingLeft">?dialogPreferredPadding</item>
-        <item name="listPreferredItemPaddingRight">?dialogPreferredPadding</item>
-        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
-        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
-        <item name="windowElevation">@dimen/floating_window_z</item>
-        <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
     </style>
     <style name="ThemeOverlay.Material.Dialog.Alert" parent="@style/ThemeOverlay.Material.Dialog">
         <item name="windowMinWidthMajor">@dimen/dialog_min_width_major</item>
@@ -4188,6 +4295,33 @@
     <style name="Theme.Material.Light.DialogWhenLarge.DarkActionBar" parent="@style/Theme.Material.Light.DarkActionBar" />
     <style name="Widget.Material.SeekBar.Discrete" parent="@style/Widget.Material.SeekBar">
         <item name="tickMark">@drawable/seekbar_tick_mark_material</item>
+    </style>
+    <style name="Widget.Material.CompoundButton.Switch" parent="@style/Widget.Material.CompoundButton">
+        <item name="background">@drawable/control_background_40dp_material</item>
+        <item name="textOn">@string/capital_on</item>
+        <item name="textOff">@string/capital_off</item>
+        <item name="thumb">@drawable/switch_thumb_material_anim</item>
+        <item name="switchTextAppearance">@style/TextAppearance.Material.Widget.Switch</item>
+        <item name="track">@drawable/switch_track_material</item>
+        <item name="showText">false</item>
+    </style>
+    <style name="Widget.Material.Light.CompoundButton.Switch" parent="@style/Widget.Material.CompoundButton.Switch" />
+    <style name="Widget.Material.NumberPicker" parent="@style/Widget.NumberPicker">
+        <item name="solidColor">@color/transparent</item>
+        <item name="internalLayout">@layout/number_picker_material</item>
+        <item name="selectionDivider">@drawable/number_picker_divider_material</item>
+        <item name="selectionDividerHeight">2.0dip</item>
+        <item name="selectionDividersDistance">48.0dip</item>
+        <item name="internalMaxHeight">180.0dip</item>
+        <item name="internalMinWidth">64.0dip</item>
+        <item name="virtualButtonPressedDrawable">?selectableItemBackground</item>
+    </style>
+    <style name="Widget.Material.Light.NumberPicker" parent="@style/Widget.Material.NumberPicker" />
+    <style name="TextAppearance.Material.Widget.Button.Colored" parent="@style/TextAppearance.Material.Widget.Button">
+        <item name="textColor">@color/btn_colored_text_material</item>
+    </style>
+    <style name="TextAppearance.Material.Widget.Button.Borderless.Colored" parent="@style/TextAppearance.Material.Widget.Button">
+        <item name="textColor">@color/btn_colored_borderless_text_material</item>
     </style>
     <style name="WindowTitleBackground">
         <item name="background">@drawable/title_bar</item>
@@ -4607,6 +4741,8 @@
         <item name="paddingEnd">@dimen/preference_screen_header_padding_side</item>
     </style>
     <style name="PreferenceFragmentList">
+        <item name="paddingTop">0.0dip</item>
+        <item name="paddingBottom">@dimen/preference_fragment_padding_bottom</item>
         <item name="paddingStart">@dimen/preference_fragment_padding_side</item>
         <item name="paddingEnd">@dimen/preference_fragment_padding_side</item>
     </style>
@@ -4709,7 +4845,7 @@
         <item name="drawablePadding">32.0dip</item>
         <item name="paddingStart">?dialogPreferredPadding</item>
         <item name="paddingEnd">?dialogPreferredPadding</item>
-        <item name="drawableTint">@color/accent_material_light</item>
+        <item name="drawableTint">?colorAccent</item>
         <item name="drawableTintMode">src_atop</item>
     </style>
     <style name="wifi_item">
@@ -5083,7 +5219,8 @@
         <item name="thumbMinHeight">0.0dip</item>
     </style>
     <style name="Widget.Holo.Light.FastScroll" parent="@style/Widget.Holo.FastScroll" />
-    <style name="Widget.Holo.SuggestionItem" parent="@style/TextAppearance.Holo.Medium">
+    <style name="Widget.Holo.SuggestionItem" parent="@style/Widget.Holo">
+        <item name="textAppearance">@style/TextAppearance.Holo.Medium</item>
         <item name="textSize">18.0sp</item>
         <item name="textColor">@color/black</item>
         <item name="gravity">start|center</item>
@@ -5153,12 +5290,16 @@
     <style name="Preference.Material" parent="@style/Preference">
         <item name="layout">@layout/preference_material</item>
     </style>
-    <style name="PreferenceFragment.Material" parent="@style/PreferenceFragment">
+    <style name="BasePreferenceFragment">
+        <item name="paddingTop">@dimen/preference_fragment_padding_vertical_material</item>
+        <item name="paddingBottom">@dimen/preference_fragment_padding_vertical_material</item>
+        <item name="clipToPadding">@bool/config_preferenceFragmentClipToPadding</item>
         <item name="layout">@layout/preference_list_fragment_material</item>
         <item name="divider">?listDivider</item>
         <item name="paddingStart">@dimen/preference_fragment_padding_side_material</item>
         <item name="paddingEnd">@dimen/preference_fragment_padding_side_material</item>
     </style>
+    <style name="PreferenceFragment.Material" parent="@style/BasePreferenceFragment" />
     <style name="PreferenceActivity.Material" parent="@style/PreferenceActivity">
         <item name="layout">@layout/preference_list_content_material</item>
         <item name="headerLayout">@layout/preference_header_item_material</item>
@@ -5185,7 +5326,11 @@
     <style name="Preference.Material.SeekBarPreference" parent="@style/Preference.Material">
         <item name="layout">@layout/preference_widget_seekbar_material</item>
     </style>
-    <style name="Preference.Material.PreferenceScreen" parent="@style/Preference.Material" />
+    <style name="Preference.Material.BasePreferenceScreen" parent="@style/Preference.Material">
+        <item name="divider">?listDivider</item>
+        <item name="screenLayout">@layout/preference_list_fragment_material</item>
+    </style>
+    <style name="Preference.Material.PreferenceScreen" parent="@style/Preference.Material.BasePreferenceScreen" />
     <style name="Preference.Material.DialogPreference" parent="@style/Preference.Material">
         <item name="positiveButtonText">@string/ok</item>
         <item name="negativeButtonText">@string/cancel</item>
@@ -5228,6 +5373,8 @@
         <item name="paddingEnd">@dimen/preference_screen_header_padding_side_material</item>
     </style>
     <style name="PreferenceFragmentList.Material" parent="@style/PreferenceFragmentList">
+        <item name="paddingTop">@dimen/preference_fragment_padding_vertical_material</item>
+        <item name="paddingBottom">@dimen/preference_fragment_padding_vertical_material</item>
         <item name="paddingStart">@dimen/preference_fragment_padding_side_material</item>
         <item name="paddingEnd">@dimen/preference_fragment_padding_side_material</item>
     </style>
@@ -5296,11 +5443,21 @@
     </style>
     <style name="TextAppearance.Material.Notification.Reply" parent="@style/TextAppearance.Material.Notification" />
     <style name="Widget.Material.Notification.ProgressBar" parent="@style/Widget.Material.Light.ProgressBar.Horizontal" />
+    <style name="Widget.Material.Notification.MessagingText" parent="@style/Widget.Material.Light.TextView">
+        <item name="textAppearance">@style/TextAppearance.Material.Notification</item>
+        <item name="ellipsize">end</item>
+        <item name="visibility">gone</item>
+        <item name="layout_width">fill_parent</item>
+        <item name="layout_height">wrap_content</item>
+    </style>
     <style name="Material" />
     <style name="Material.Light" parent="@style/Material" />
     <style name="Widget.Material.Button.ButtonBar.AlertDialog" parent="@style/Widget.Material.Button.Borderless.Colored">
         <item name="minWidth">64.0dip</item>
         <item name="minHeight">@dimen/alert_dialog_button_bar_height</item>
+    </style>
+    <style name="Widget.Material.BaseButtonBar" parent="@style/Widget.Material">
+        <item name="background">?colorBackgroundFloating</item>
     </style>
     <style name="Widget.Material.SearchView.ActionBar" parent="@style/Widget.Material.SearchView">
         <item name="defaultQueryHint">@string/search_hint</item>
@@ -5312,15 +5469,6 @@
     <style name="Widget.Material.TextSelectHandle" parent="@style/Widget.TextSelectHandle" />
     <style name="Widget.Material.AbsListView" parent="@style/Widget.AbsListView" />
     <style name="Widget.Material.CompoundButton" parent="@style/Widget.CompoundButton" />
-    <style name="Widget.Material.CompoundButton.Switch" parent="@style/Widget.Material.CompoundButton">
-        <item name="background">@drawable/control_background_40dp_material</item>
-        <item name="textOn">@string/capital_on</item>
-        <item name="textOff">@string/capital_off</item>
-        <item name="thumb">@drawable/switch_thumb_material_anim</item>
-        <item name="switchTextAppearance">@style/TextAppearance.Material.Widget.Switch</item>
-        <item name="track">@drawable/switch_track_material</item>
-        <item name="showText">false</item>
-    </style>
     <style name="Widget.Material.ExpandableListView.White" parent="@style/Widget.Material.ExpandableListView" />
     <style name="Widget.Material.FragmentBreadCrumbs" parent="@style/Widget.FragmentBreadCrumbs">
         <item name="itemLayout">@layout/fragment_bread_crumb_item_material</item>
@@ -5328,16 +5476,6 @@
     </style>
     <style name="Widget.Material.Gallery" parent="@style/Widget.Gallery" />
     <style name="Widget.Material.GestureOverlayView" parent="@style/Widget.GestureOverlayView" />
-    <style name="Widget.Material.NumberPicker" parent="@style/Widget.NumberPicker">
-        <item name="solidColor">@color/transparent</item>
-        <item name="internalLayout">@layout/number_picker_material</item>
-        <item name="selectionDivider">@drawable/number_picker_divider_material</item>
-        <item name="selectionDividerHeight">2.0dip</item>
-        <item name="selectionDividersDistance">48.0dip</item>
-        <item name="internalMaxHeight">180.0dip</item>
-        <item name="internalMinWidth">64.0dip</item>
-        <item name="virtualButtonPressedDrawable">?selectableItemBackground</item>
-    </style>
     <style name="Widget.Material.ActivityChooserView" parent="@style/Widget.ActivityChooserView">
         <item name="background">@drawable/ab_share_pack_material</item>
     </style>
@@ -5375,7 +5513,8 @@
         <item name="borderLeft">?^attr-private/preferenceFragmentPaddingSide</item>
         <item name="borderRight">?^attr-private/preferenceFragmentPaddingSide</item>
     </style>
-    <style name="Widget.Material.SuggestionItem" parent="@style/TextAppearance.Material.Body1">
+    <style name="Widget.Material.SuggestionItem" parent="@style/Widget.Material">
+        <item name="textAppearance">@style/TextAppearance.Material.Body1</item>
         <item name="textSize">14.0sp</item>
         <item name="textColor">?textColorSecondary</item>
         <item name="gravity">start|center</item>
@@ -5389,10 +5528,11 @@
         <item name="paddingStart">16.0dip</item>
         <item name="paddingEnd">16.0dip</item>
     </style>
-    <style name="TextAppearance.Material.TextSuggestionHighlight" parent="@style/Widget.Material.SuggestionItem">
+    <style name="TextAppearance.Material.TextSuggestionHighlight" parent="@style/TextAppearance.Material">
         <item name="textColor">?textColorPrimary</item>
     </style>
-    <style name="Widget.Material.SuggestionButton" parent="@style/TextAppearance.Material.Button">
+    <style name="Widget.Material.SuggestionButton" parent="@style/Widget.Material">
+        <item name="textAppearance">@style/TextAppearance.Material.Button</item>
         <item name="textSize">14.0sp</item>
         <item name="textColor">?colorAccent</item>
         <item name="gravity">start|center</item>
@@ -5413,14 +5553,12 @@
     <style name="Widget.Material.Light.TextSelectHandle" parent="@style/Widget.Material.TextSelectHandle" />
     <style name="Widget.Material.Light.AbsListView" parent="@style/Widget.Material.AbsListView" />
     <style name="Widget.Material.Light.CompoundButton" parent="@style/Widget.Material.CompoundButton" />
-    <style name="Widget.Material.Light.CompoundButton.Switch" parent="@style/Widget.Material.CompoundButton.Switch" />
     <style name="Widget.Material.Light.ExpandableListView.White" parent="@style/Widget.Material.ExpandableListView.White" />
     <style name="Widget.Material.Light.FragmentBreadCrumbs" parent="@style/Widget.Material.FragmentBreadCrumbs">
         <item name="itemColor">@color/primary_text_default_material_dark</item>
     </style>
     <style name="Widget.Material.Light.Gallery" parent="@style/Widget.Material.Gallery" />
     <style name="Widget.Material.Light.GestureOverlayView" parent="@style/Widget.Material.GestureOverlayView" />
-    <style name="Widget.Material.Light.NumberPicker" parent="@style/Widget.Material.NumberPicker" />
     <style name="Widget.Material.Light.ActivityChooserView" parent="@style/Widget.Material.ActivityChooserView" />
     <style name="Widget.Material.Light.ImageWell" parent="@style/Widget.Material.ImageWell" />
     <style name="Widget.Material.Light.ListView.White" parent="@style/Widget.Material.ListView.White" />
@@ -5452,10 +5590,14 @@
         <item name="listItemLayout">@layout/select_dialog_item_material</item>
         <item name="progressLayout">@layout/progress_dialog_material</item>
         <item name="horizontalProgressLayout">@layout/alert_dialog_progress_material</item>
+        <item name="controllerType">@integer/config_alertDialogController</item>
     </style>
     <style name="AlertDialog.Material.Light" parent="@style/AlertDialog.Material" />
     <style name="DatePickerDialog.Material" parent="@style/AlertDialog.Material">
-        <item name="showTitle">true</item>
+        <item name="showTitle">false</item>
+    </style>
+    <style name="TimePickerDialog.Material" parent="@style/AlertDialog.Material">
+        <item name="showTitle">false</item>
     </style>
     <style name="WindowTitleBackground.Material" parent="@style/WindowTitleBackground">
         <item name="background">@null</item>
@@ -5479,77 +5621,10 @@
     <style name="DialogWindowTitleBackground.Material.Light" parent="@style/DialogWindowTitleBackground.Material" />
     <style name="DialogWindowTitle.Material" parent="@style/DialogWindowTitle">
         <item name="textAppearance">@style/TextAppearance.Material.DialogWindowTitle</item>
-        <item name="maxLines">1</item>
+        <item name="maxLines">@integer/config_dialogWindowTitleMaxLines</item>
         <item name="scrollHorizontally">true</item>
     </style>
     <style name="DialogWindowTitle.Material.Light" parent="@style/DialogWindowTitle.Material" />
-    <style name="Animation.Micro" parent="@style/Animation" />
-    <style name="Animation.Micro.Activity" parent="@style/Animation.Material.Activity">
-        <item name="activityOpenEnterAnimation">@anim/slide_in_micro</item>
-        <item name="activityOpenExitAnimation">@null</item>
-        <item name="activityCloseEnterAnimation">@null</item>
-        <item name="activityCloseExitAnimation">@anim/slide_out_micro</item>
-        <item name="taskOpenEnterAnimation">@anim/slide_in_micro</item>
-        <item name="taskOpenExitAnimation">@null</item>
-        <item name="taskCloseEnterAnimation">@null</item>
-        <item name="taskCloseExitAnimation">@anim/slide_out_micro</item>
-        <item name="taskToFrontEnterAnimation">@anim/slide_in_micro</item>
-        <item name="taskToFrontExitAnimation">@null</item>
-        <item name="taskToBackEnterAnimation">@null</item>
-        <item name="taskToBackExitAnimation">@anim/slide_out_micro</item>
-        <item name="wallpaperOpenEnterAnimation">@null</item>
-        <item name="wallpaperOpenExitAnimation">@anim/slide_out_micro</item>
-        <item name="wallpaperCloseEnterAnimation">@anim/slide_in_micro</item>
-        <item name="wallpaperCloseExitAnimation">@null</item>
-        <item name="wallpaperIntraOpenEnterAnimation">@null</item>
-        <item name="wallpaperIntraOpenExitAnimation">@anim/slide_out_micro</item>
-        <item name="wallpaperIntraCloseEnterAnimation">@anim/slide_in_micro</item>
-        <item name="wallpaperIntraCloseExitAnimation">@null</item>
-        <item name="activityOpenRemoteViewsEnterAnimation">@anim/slide_in_micro</item>
-    </style>
-    <style name="AlertDialog.Micro" parent="@style/AlertDialog.Material.Light">
-        <item name="fullDark">@null</item>
-        <item name="topDark">@null</item>
-        <item name="centerDark">@null</item>
-        <item name="bottomDark">@null</item>
-        <item name="fullBright">@null</item>
-        <item name="topBright">@null</item>
-        <item name="centerBright">@null</item>
-        <item name="bottomBright">@null</item>
-        <item name="bottomMedium">@null</item>
-        <item name="centerMedium">@null</item>
-        <item name="layout">@layout/alert_dialog_micro</item>
-    </style>
-    <style name="DialogWindowTitle.Micro" parent="@style/DialogWindowTitle">
-        <item name="textAppearance">@style/TextAppearance.Micro.DialogWindowTitle</item>
-        <item name="maxLines">1</item>
-        <item name="scrollHorizontally">true</item>
-    </style>
-    <style name="TextAppearance.Micro" parent="@style/TextAppearance.Material">
-        <item name="textSize">20.0sp</item>
-        <item name="textColor">@color/micro_text_light</item>
-        <item name="fontFamily">sans-serif-condensed-light</item>
-    </style>
-    <style name="TextAppearance.Micro.DialogWindowTitle" parent="@style/TextAppearance.Material.DialogWindowTitle">
-        <item name="textSize">20.0sp</item>
-        <item name="textColor">@color/micro_text_light</item>
-        <item name="fontFamily">sans-serif-condensed-light</item>
-    </style>
-    <style name="Widget.Micro" parent="@style/Widget.Material" />
-    <style name="Widget.Micro.TextView" parent="@style/Widget.Micro">
-        <item name="fontFamily">sans-serif-condensed</item>
-    </style>
-    <style name="Widget.Micro.NumberPicker" parent="@style/Widget.Micro">
-        <item name="descendantFocusability">blocksDescendants</item>
-        <item name="solidColor">@color/transparent</item>
-        <item name="internalLayout">@layout/number_picker_with_selector_wheel_micro</item>
-        <item name="selectionDivider">@drawable/numberpicker_selection_divider</item>
-        <item name="selectionDividerHeight">0.0dip</item>
-        <item name="selectionDividersDistance">104.0dip</item>
-        <item name="internalMaxHeight">180.0dip</item>
-        <item name="internalMinWidth">64.0dip</item>
-        <item name="virtualButtonPressedDrawable">?selectableItemBackground</item>
-    </style>
     <style name="ActiveWallpaperSettings" />
     <style name="PreviewWallpaperSettings" />
     <style name="Theme.Dialog.NoFrame" parent="@style/Theme.Dialog">
@@ -5636,24 +5711,89 @@
         <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
         <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
     </style>
-    <style name="Theme.DeviceDefault.Dialog.Presentation" parent="@style/Theme.Material.Dialog.Presentation" />
-    <style name="Theme.DeviceDefault.VoiceInteractionSession" parent="@style/Theme.Material.VoiceInteractionSession" />
-    <style name="Theme.DeviceDefault.SearchBar" parent="@style/Theme.Material.SearchBar" />
-    <style name="Theme.DeviceDefault.Dialog.NoFrame" parent="@style/Theme.Material.Dialog.NoFrame" />
+    <style name="Theme.DeviceDefault.Dialog.Presentation" parent="@style/Theme.Material.Dialog.Presentation">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.VoiceInteractionSession" parent="@style/Theme.Material.VoiceInteractionSession">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.SearchBar" parent="@style/Theme.Material.SearchBar">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="Theme.DeviceDefault.Dialog.NoFrame" parent="@style/Theme.Material.Dialog.NoFrame">
+        <item name="colorPrimary">@color/primary_device_default_dark</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_dark</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
     <style name="Theme.DeviceDefault.Light.Dialog.FixedSize" parent="@style/Theme.DeviceDefault.Light.Dialog">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
         <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
         <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
         <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
         <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
     </style>
     <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.FixedSize" parent="@style/Theme.DeviceDefault.Light.Dialog.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
         <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
         <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
         <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
         <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
     </style>
-    <style name="Theme.DeviceDefault.Light.Dialog.Presentation" parent="@style/Theme.Material.Light.Dialog.Presentation" />
-    <style name="Theme.DeviceDefault.Light.SearchBar" parent="@style/Theme.Material.Light.SearchBar" />
+    <style name="Theme.DeviceDefault.Light.Dialog.Presentation" parent="@style/Theme.Material.Light.Dialog.Presentation">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.SearchBar" parent="@style/Theme.Material.Light.SearchBar">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Light.Voice" parent="@style/Theme.Material.Light.Voice">
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings.Dark" parent="@style/Theme.Material">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings.Dark.NoActionBar" parent="@style/Theme.Material.NoActionBar">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings.Dialog" parent="@style/Theme.Material.Settings.Dialog">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings.DialogWhenLarge" parent="@style/Theme.Material.Settings.DialogWhenLarge">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
+    <style name="Theme.DeviceDefault.Settings.Dialog.Alert" parent="@style/Theme.Material.Settings.Dialog.Alert">
+        <item name="colorPrimary">@color/primary_device_default_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_settings</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
+        <item name="colorSecondary">@color/secondary_device_default_settings</item>
+    </style>
     <style name="Theme.DeviceDefault.Resolver" parent="@style/Theme.Material.Light">
         <item name="windowBackground">@color/transparent</item>
         <item name="windowNoTitle">true</item>
@@ -5663,7 +5803,21 @@
         <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
         <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
         <item name="colorControlActivated">?colorControlHighlight</item>
+        <item name="colorPrimary">@color/primary_device_default_light</item>
+        <item name="colorPrimaryDark">@color/primary_dark_device_default_light</item>
+        <item name="colorAccent">@color/accent_device_default_light</item>
         <item name="statusBarColor">@color/transparent</item>
+    </style>
+    <style name="Theme.DeviceDefault.System" parent="@style/Theme.DeviceDefault.Light.DarkActionBar" />
+    <style name="ThemeOverlay.DeviceDefault" parent="@style/ThemeOverlay" />
+    <style name="ThemeOverlay.DeviceDefault.Accent" parent="@style/ThemeOverlay.DeviceDefault">
+        <item name="colorAccent">@color/accent_device_default_dark</item>
+    </style>
+    <style name="ThemeOverlay.DeviceDefault.Accent.Light" parent="@style/ThemeOverlay.DeviceDefault.Accent">
+        <item name="colorAccent">@color/accent_device_default_light</item>
+    </style>
+    <style name="ThemeOverlay.DeviceDefault.Dark.ActionBar.Accent" parent="@style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="colorAccent">@color/accent_device_default_dark</item>
     </style>
     <style name="Theme.Holo.Dialog.FixedSize" parent="@style/Theme.Holo.Dialog">
         <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
@@ -5794,6 +5948,33 @@
         <item name="windowContentTransitions">false</item>
         <item name="windowActivityTransitions">false</item>
     </style>
+    <style name="ThemeOverlay.Material.BaseDialog" parent="@style/ThemeOverlay.Material">
+        <item name="windowBackground">@drawable/dialog_background_material</item>
+        <item name="windowFrame">@null</item>
+        <item name="windowIsFloating">true</item>
+        <item name="windowContentOverlay">@null</item>
+        <item name="windowTitleStyle">@style/DialogWindowTitle.Material</item>
+        <item name="windowTitleBackgroundStyle">@style/DialogWindowTitleBackground.Material</item>
+        <item name="windowAnimationStyle">@style/Animation.Material.Dialog</item>
+        <item name="listDivider">@null</item>
+        <item name="windowSoftInputMode">adjustPan</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="windowCloseOnTouchOutside">@bool/config_closeDialogWhenTouchOutside</item>
+        <item name="listPreferredItemPaddingLeft">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingRight">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
+        <item name="windowElevation">@dimen/floating_window_z</item>
+        <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
+        <item name="windowFixedWidthMajor">@null</item>
+        <item name="windowFixedHeightMinor">@null</item>
+        <item name="windowFixedWidthMinor">@null</item>
+        <item name="windowFixedHeightMajor">@null</item>
+    </style>
+    <style name="ThemeOverlay.Material.Dialog.TimePicker" parent="@style/ThemeOverlay.Material.Dialog">
+        <item name="alertDialogStyle">@style/TimePickerDialog.Material</item>
+    </style>
     <style name="ThemeOverlay.Material.Dialog.DatePicker" parent="@style/ThemeOverlay.Material.Dialog">
         <item name="alertDialogStyle">@style/DatePickerDialog.Material</item>
     </style>
@@ -5834,10 +6015,10 @@
         <item name="windowActionBar">false</item>
         <item name="windowActionModeOverlay">true</item>
         <item name="windowCloseOnTouchOutside">@bool/config_closeDialogWhenTouchOutside</item>
-        <item name="listPreferredItemPaddingLeft">24.0dip</item>
-        <item name="listPreferredItemPaddingRight">24.0dip</item>
-        <item name="listPreferredItemPaddingStart">24.0dip</item>
-        <item name="listPreferredItemPaddingEnd">24.0dip</item>
+        <item name="listPreferredItemPaddingLeft">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingRight">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
         <item name="windowElevation">@dimen/floating_window_z</item>
         <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
     </style>
@@ -5881,10 +6062,10 @@
         <item name="windowActionBar">false</item>
         <item name="windowActionModeOverlay">true</item>
         <item name="windowCloseOnTouchOutside">@bool/config_closeDialogWhenTouchOutside</item>
-        <item name="listPreferredItemPaddingLeft">24.0dip</item>
-        <item name="listPreferredItemPaddingRight">24.0dip</item>
-        <item name="listPreferredItemPaddingStart">24.0dip</item>
-        <item name="listPreferredItemPaddingEnd">24.0dip</item>
+        <item name="listPreferredItemPaddingLeft">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingRight">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
         <item name="windowElevation">@dimen/floating_window_z</item>
         <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
     </style>
@@ -5904,115 +6085,47 @@
         <item name="windowMinWidthMajor">@dimen/dialog_min_width_major</item>
         <item name="windowMinWidthMinor">@dimen/dialog_min_width_minor</item>
     </style>
-    <style name="Theme.Material.Settings.NoActionBar" parent="@style/Theme.Material.DayNight.NoActionBar">
+    <style name="Theme.Material.Settings.NoActionBar" parent="@style/Theme.Material.Light.NoActionBar">
         <item name="presentationTheme">@style/Theme.Material.Settings.Dialog.Presentation</item>
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
         <item name="panelMenuListTheme">@style/Theme.Material.Settings.CompactMenu</item>
         <item name="searchDialogTheme">@style/Theme.Material.Settings.SearchBar</item>
     </style>
-    <style name="Theme.Material.Settings.BaseDialog" parent="@style/Theme.Material.DayNight.BaseDialog">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.BaseDialog" parent="@style/Theme.Material.Light.BaseDialog">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="@style/Theme.Material.DayNight.Dialog.BaseAlert">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="@style/Theme.Material.Light.Dialog.BaseAlert">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.DialogWhenLarge" parent="@style/Theme.Material.DayNight.DialogWhenLarge.DarkActionBar">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.DialogWhenLarge" parent="@style/Theme.Material.Light.DialogWhenLarge.DarkActionBar">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.DayNight.DialogWhenLarge.NoActionBar">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.Light.DialogWhenLarge.NoActionBar">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.Dialog.Presentation" parent="@style/Theme.Material.DayNight.Dialog.Presentation">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.Dialog.Presentation" parent="@style/Theme.Material.Light.Dialog.Presentation">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.SearchBar" parent="@style/Theme.Material.DayNight.SearchBar">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+    <style name="Theme.Material.Settings.SearchBar" parent="@style/Theme.Material.Light.SearchBar">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
-    <style name="Theme.Material.Settings.CompactMenu" parent="@style/Theme.Material.DayNight.CompactMenu">
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
-    </style>
-    <style name="Theme.Material.DayNight" parent="@style/Theme.Material.Light" />
-    <style name="Theme.Material.DayNight.DarkActionBar" parent="@style/Theme.Material.Light.DarkActionBar" />
-    <style name="Theme.Material.DayNight.NoActionBar" parent="@style/Theme.Material.Light.NoActionBar" />
-    <style name="Theme.Material.DayNight.NoActionBar.Fullscreen" parent="@style/Theme.Material.Light.NoActionBar.Fullscreen" />
-    <style name="Theme.Material.DayNight.NoActionBar.Overscan" parent="@style/Theme.Material.Light.NoActionBar.Overscan" />
-    <style name="Theme.Material.DayNight.NoActionBar.TranslucentDecor" parent="@style/Theme.Material.Light.NoActionBar.TranslucentDecor" />
-    <style name="Theme.Material.DayNight.Panel" parent="@style/Theme.Material.Light.Panel" />
-    <style name="Theme.Material.DayNight.Dialog" parent="@style/Theme.Material.DayNight.BaseDialog" />
-    <style name="Theme.Material.DayNight.BaseDialog" parent="@style/Theme.Material.Light.BaseDialog" />
-    <style name="Theme.Material.DayNight.Dialog.MinWidth" parent="@style/Theme.Material.Light.Dialog.MinWidth" />
-    <style name="Theme.Material.DayNight.Dialog.NoActionBar" parent="@style/Theme.Material.Light.Dialog.NoActionBar" />
-    <style name="Theme.Material.DayNight.Dialog.NoActionBar.MinWidth" parent="@style/Theme.Material.Light.Dialog.NoActionBar.MinWidth" />
-    <style name="Theme.Material.DayNight.Dialog.FixedSize" parent="@style/Theme.Material.Light.Dialog.FixedSize" />
-    <style name="Theme.Material.DayNight.Dialog.NoActionBar.FixedSize" parent="@style/Theme.Material.Light.Dialog.NoActionBar.FixedSize" />
-    <style name="Theme.Material.DayNight.DialogWhenLarge" parent="@style/Theme.Material.Light.DialogWhenLarge" />
-    <style name="Theme.Material.DayNight.DialogWhenLarge.DarkActionBar" parent="@style/Theme.Material.Light.DialogWhenLarge.DarkActionBar" />
-    <style name="Theme.Material.DayNight.DialogWhenLarge.NoActionBar" parent="@style/Theme.Material.Light.DialogWhenLarge.NoActionBar" />
-    <style name="Theme.Material.DayNight.Dialog.Presentation" parent="@style/Theme.Material.Light.Dialog.Presentation" />
-    <style name="Theme.Material.DayNight.Dialog.Alert" parent="@style/Theme.Material.DayNight.Dialog.BaseAlert" />
-    <style name="Theme.Material.DayNight.Dialog.BaseAlert" parent="@style/Theme.Material.Light.Dialog.BaseAlert" />
-    <style name="Theme.Material.DayNight.SearchBar" parent="@style/Theme.Material.Light.SearchBar" />
-    <style name="Theme.Material.DayNight.CompactMenu" parent="@style/Theme.Material.Light.CompactMenu" />
-    <style name="Theme.MicroBase" parent="@style/Theme.Material.NoActionBar">
-        <item name="windowBackground">@color/black</item>
-        <item name="windowIsFloating">false</item>
-        <item name="windowContentOverlay">@null</item>
-        <item name="alertDialogStyle">@style/AlertDialog.Micro</item>
-        <item name="textViewStyle">@style/Widget.Micro.TextView</item>
-        <item name="windowAnimationStyle">@style/Animation.Micro.Activity</item>
-        <item name="dialogTheme">@style/Theme.Micro.Dialog</item>
-        <item name="alertDialogTheme">@style/Theme.Micro.Dialog.Alert</item>
-        <item name="windowOverscan">true</item>
-        <item name="numberPickerStyle">@style/Widget.Micro.NumberPicker</item>
-    </style>
-    <style name="Theme.Micro" parent="@style/Theme.MicroBase" />
-    <style name="Theme.Micro.LightBase" parent="@style/Theme.Material.Light.NoActionBar">
-        <item name="windowBackground">@color/white</item>
-        <item name="windowIsFloating">false</item>
-        <item name="windowContentOverlay">@null</item>
-        <item name="alertDialogStyle">@style/AlertDialog.Micro</item>
-        <item name="textViewStyle">@style/Widget.Micro.TextView</item>
-        <item name="windowAnimationStyle">@style/Animation.Micro.Activity</item>
-        <item name="dialogTheme">@style/Theme.Micro.Dialog</item>
-        <item name="alertDialogTheme">@style/Theme.Micro.Dialog.Alert</item>
-        <item name="windowOverscan">true</item>
-        <item name="numberPickerStyle">@style/Widget.Micro.NumberPicker</item>
-    </style>
-    <style name="Theme.Micro.Light" parent="@style/Theme.Micro.LightBase" />
-    <style name="Theme.Micro.DialogBase" parent="@style/Theme.Material.Light.Dialog">
-        <item name="textAppearance">@style/TextAppearance.Micro</item>
-        <item name="textAppearanceInverse">@style/TextAppearance.Micro</item>
-        <item name="windowIsFloating">false</item>
-        <item name="windowTitleStyle">@style/DialogWindowTitle.Micro</item>
-        <item name="windowFullscreen">true</item>
-        <item name="windowOverscan">true</item>
-    </style>
-    <style name="Theme.Micro.Dialog" parent="@style/Theme.Micro.DialogBase" />
-    <style name="Theme.Micro.Dialog.Alert" parent="@style/Theme.Micro.Dialog">
-        <item name="windowBackground">@color/transparent</item>
-        <item name="windowIsFloating">false</item>
-        <item name="windowContentOverlay">@null</item>
-        <item name="windowTitleStyle">@style/DialogWindowTitle.Micro</item>
-        <item name="alertDialogStyle">@style/AlertDialog.Micro</item>
-        <item name="windowMinWidthMajor">@dimen/dialog_min_width_major</item>
-        <item name="windowMinWidthMinor">@dimen/dialog_min_width_minor</item>
-        <item name="windowOverscan">true</item>
-    </style>
-    <style name="Theme.Micro.Dialog.AppError" parent="@style/Theme.Micro.Dialog">
-        <item name="windowBackground">@null</item>
-        <item name="alertDialogStyle">@style/AlertDialog.Micro</item>
-        <item name="textSize">20.0sp</item>
-        <item name="textColor">@color/micro_text_light</item>
-        <item name="windowCloseOnTouchOutside">false</item>
-        <item name="fontFamily">sans-serif-condensed-light</item>
-        <item name="windowOverscan">true</item>
+    <style name="Theme.Material.Settings.CompactMenu" parent="@style/Theme.Material.Light.CompactMenu">
+        <item name="colorPrimary">@color/primary_material_settings</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_settings</item>
+        <item name="colorSecondary">@color/secondary_material_settings</item>
     </style>
 </resources>

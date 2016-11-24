@@ -9,7 +9,7 @@
         <item>Conexión establecida</item>
         <item>Suspendida</item>
         <item>Desconectando...</item>
-        <item>Desconectada</item>
+        <item>Desconectado</item>
         <item>Con error</item>
         <item>Bloqueada</item>
         <item>Inhabilitando conexión inestable temporalmente...</item>
@@ -59,6 +59,18 @@
         <item>1 M/búfer registro</item>
         <item>4 M/búfer registro</item>
         <item>16 M/búfer registro</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>No</item>
+        <item>Todo</item>
+        <item>Todo menos señal móvil</item>
+        <item>solo kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>No</item>
+        <item>Todos los búferes de registro</item>
+        <item>Todo excepto búferes de registro de señal móvil</item>
+        <item>solo búfer de registro del kernel</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
@@ -158,5 +170,10 @@
         <item>Colores mejorados</item>
         <item>Colores naturales como en la vida real</item>
         <item>Colores optimizados para contenido digital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

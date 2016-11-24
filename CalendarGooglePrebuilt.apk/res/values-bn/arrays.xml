@@ -1,108 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>বিজ্ঞপ্তি</item>
-        <item>ইমেল</item>
-        <item>SMS</item>
-        <item>অ্যালার্ম</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>কিছুই নয়</item>
-        <item>০ মিনিট</item>
-        <item>১ মিনিট</item>
-        <item>৫ মিনিট</item>
-        <item>১০ মিনিট</item>
-        <item>১৫ মিনিট</item>
-        <item>২০ মিনিট</item>
-        <item>২৫ মিনিট</item>
-        <item>৩০ মিনিট</item>
-        <item>৪৫ মিনিট</item>
-        <item>১ ঘন্টা</item>
-        <item>২ ঘন্টা</item>
-        <item>৩ ঘন্টা</item>
-        <item>১২ ঘন্টা</item>
-        <item>২৪ ঘন্টা</item>
-        <item>২ দিন</item>
-        <item>১ সপ্তাহ</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>শনিবার</item>
-        <item>রবিবার</item>
-        <item>সোমবার</item>
+    <string-array name="api_color_names">
+        <item>টমেটো</item>
+        <item>লালচে কমলা</item>
+        <item>লাল কুমরো</item>
+        <item>আম রঙা</item>
+        <item>গাঢ় হলুদ</item>
+        <item>লেবু হলদে</item>
+        <item>সবুজ</item>
+        <item>পিস্তা সবুজ</item>
+        <item>তুলসী</item>
+        <item>ইউক্যালিপ্টাস</item>
+        <item>ধূসর সবুজ</item>
+        <item>ময়ূরকণ্ঠী</item>
+        <item>কোবাল্ট</item>
+        <item>কালচে নীল</item>
+        <item>ল্যাভেন্ডার</item>
+        <item>হালকা বেগুনি</item>
+        <item>নীলা</item>
+        <item>আঙুর</item>
+        <item>রক্তবর্ণ</item>
+        <item>চেরি গোলাপি</item>
+        <item>হালকা গোলাপি</item>
+        <item>কোকো খয়েরি</item>
+        <item>গ্রাফাইট</item>
+        <item>ভূর্জবৃক্ষ</item>
     </string-array>
     <string-array name="availability">
         <item>ব্যস্ত</item>
         <item>উপলব্ধ</item>
         <item>সম্ভাব্য</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>প্রথম</item>
-        <item>সেকেন্ড</item>
-        <item>তৃতীয়</item>
-        <item>চতুর্থ</item>
-        <item>অন্তিম</item>
+    <string-array name="availability_labels">
+        <item>ব্যস্ত</item>
+        <item>উপলব্ধ</item>
     </string-array>
-    <string-array name="invitation_responses">
-        <item>যারা এখনো জানাননি</item>
-        <item>যারা যোগ দিচ্ছেন</item>
-        <item>হয়তো</item>
-        <item>যারা যোগ দিচ্ছেন না</item>
+    <string-array name="backup_country_names">
+        <item>সিন্ট মার্টেন</item>
+        <item>ক্যারিবিয়ান নেদারল্যান্ডস</item>
+        <item>কিউরাসো</item>
+        <item>দক্ষিণ সুদান</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>শুধুমাত্র এই ইভেন্ট</item>
+        <item>এই সিরিজের প্রতিটি ইভেন্ট</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>এই অধিবেশন</item>
+        <item>নিম্নোক্ত সমস্ত অধিবেশন (এবং সময়্সূচী বন্ধ করুন)</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>এই ইভেন্টটি</item>
         <item>সমস্ত নিম্নলিখিত ইভেন্ট</item>
         <item>সমস্ত ইভেন্ট</item>
     </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>এটি &amp; ভবিষ্যতের ইভেন্টগুলি</item>
-        <item>সমস্ত ইভেন্ট</item>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>এই অনুস্মারক</item>
+        <item>নিম্নলিখিত সবকটি অনুস্মারক</item>
+        <item>সবকটি অনুস্মারক</item>
     </string-array>
-    <string-array name="change_response_labels">
-        <item>শুধুমাত্র এই ইভেন্ট</item>
-        <item>এই সিরিজের প্রতিটি ইভেন্ট</item>
+    <string-array name="edit_recurrence">
+        <item>পুনরাবৃত্তি করবেন না</item>
+        <item>প্রতিদিন</item>
+        <item>প্রতি সপ্তাহে</item>
+        <item>প্রতি মাসে</item>
+        <item>প্রতি বছর</item>
     </string-array>
-    <string-array name="buttons_list">
-        <item>দিন</item>
-        <item>সপ্তাহ</item>
-        <item>মাস</item>
-        <item>আলোচ্যসূচি</item>
-        <item>Timely</item>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>কার সাথে?</item>
+        <item>কাউকে যোগ করুন, যোগাযোগের তথ্য পান</item>
     </string-array>
-    <string-array name="availability_labels">
-        <item>ব্যস্ত</item>
-        <item>উপলব্ধ</item>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}পরিচিতিগুলি যোগ করা হলে কোনো আমন্ত্রণ পাঠানো হবে না</item>
     </string-array>
-    <string-array name="color_names">
-        <item>টমেটো রঙ</item>
-        <item>লালচে কমলা</item>
-        <item>লাল কুমড়ো</item>
-        <item>আম রঙা</item>
-        <item>গাঢ় হলুদ</item>
-        <item>লেবু হলদে</item>
-        <item>হলদে সবুজ</item>
-        <item>পিস্তা সবুজ</item>
-        <item>তুলসী</item>
-        <item>ইউক্যালিপ্টাস</item>
-        <item>ধূসর সবুজ</item>
-        <item>ময়ূর রঙ</item>
-        <item>কোবাল্ট</item>
-        <item>কালচে নীল</item>
-        <item>নীলচে বেগুনী</item>
-        <item>হালকা বেগুনি</item>
-        <item>গোলাপী-বেগুনী</item>
-        <item>আঙুর</item>
-        <item>রক্তবর্ণ</item>
-        <item>চেরি গোলাপি</item>
-        <item>হালকা গোলাপি</item>
-        <item>কোকো খয়েরি</item>
-        <item>গাঢ় ধূসর</item>
-        <item>ভূর্জবৃক্ষ</item>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>কোথায়?</item>
+        <item>একটি অবস্থান যোগ করুন, দিকনির্দেশগুলি পান</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>মাত্র কয়েক মিনিট দেরীতে চলছে৷</item>
-        <item>১০ মিনিটের মধ্যে উপস্থিত হোন৷</item>
-        <item>চালিয়ে যান এবং আমাকে ছাড়াই শুরু করুন৷</item>
-        <item>দুঃখিত, আমি আসতে পারছি না৷ আমাদেরকে আবার সময়সূচী নির্ধারণ করতে হবে৷</item>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} ব্যক্তিদের যোগ করুন, যোগাযোগের তথ্য পান</item>
+        <item>{LOCATION_ICON} অবস্থান যোগ করুন, দিকনির্দেশগুলি পান</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>আজ</item>
+        <item>কয়েক দিনের মধ্যে</item>
+        <item>এক সপ্তাহের মধ্যে</item>
+        <item>কোনো তারিখের কাছাকাছি</item>
+        <item>কোনো তারিখে</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>আজ</item>
+        <item>কয়েক দিনের মধ্যে</item>
+        <item>এক সপ্তাহের মধ্যে</item>
+        <item>কোনো তারিখের কাছাকাছি…</item>
+        <item>কোনো তারিখে…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>সময়সূচী প্রাপ্ত করা হচ্ছে…</item>
+        <item>বিরোধগুলির বিশ্লেষণ করা হচ্ছে…</item>
+        <item>র‌্যাঙ্কিংয়ের প্রস্তাবনাগুলি…</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>এক সপ্তাহের মধ্যে</item>
+        <item>কোনো তারিখের কাছাকাছি</item>
+        <item>কোনো তারিখে</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>গিটার বাজানো অনুশীলন করুন</item>
+        <item>পিয়ানো বাজানো অনুশীলন করুন</item>
+        <item>ড্রাম বাজানো অনুশীলন করুন</item>
+        <item>বাঁশি বাজানো অনুশীলন করুন</item>
+        <item>বাদ্যযন্ত্র বাজানো অনুশীলন করুন</item>
+        <item>বীণা বাজানো অনুশীলন করুন</item>
+        <item>স্যাক্সোফোন বাজানো অনুশীলন করুন</item>
+        <item>মাউথ অর্গান বাজানো অনুশীলন করুন</item>
+        <item>এয়ার গিটার বাজানো অনুশীলন করুন</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>আঁকুন</item>
+        <item>রং করুন</item>
+        <item>একটি স্ক্র্যাপবুক তৈরি করুন</item>
+        <item>কারুশিল্প করুন</item>
+        <item>একটি ভাস্কর্য তৈরি করুন</item>
+        <item>পেপার মাশি তৈরি করুন</item>
+        <item>স্ক্রীন প্রিন্টিং</item>
+        <item>মাটির ছাঁচগুলি তৈরি করুন</item>
+        <item>স্টিক ফিগার আঁকুন</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>আরবি ভাষা শিখুন</item>
+        <item>চীনা ভাষা শিখুন</item>
+        <item>ইংরেজি ভাষা শিখুন</item>
+        <item>ফরাসি ভাষা শিখুন</item>
+        <item>হিন্দি ভাষা শিখুন</item>
+        <item>জাপানী ভাষা শিখুন</item>
+        <item>পর্তুগীজ ভাষা শিখুন</item>
+        <item>রাশিয়ান ভাষা শিখুন</item>
+        <item>স্প্যানিশ ভাষা শিখুন</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>লিখুন</item>
+        <item>সেলাই</item>
+        <item>মাছ ধরতে যান</item>
+        <item>বাগান</item>
+        <item>বোলিং খেলুন</item>
+        <item>কাগজের নকশা বানান</item>
+        <item>ইউনিসাইকেল</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>একটি কাজের তালিকা তৈরি করুন</item>
+        <item>মুদিখানার জিনিসপত্র কিনুন</item>
+        <item>পড়াশোনা করুন</item>
+        <item>জামা কাপড় ধুয়ে ফেলুন</item>
+        <item>আর্থিক বিষয় নিয়ে কাজ করুন</item>
+        <item>সপ্তাহের পরিকল্পনা করুন</item>
+        <item>মাসের পরিকল্পনা করুন</item>
+        <item>ইমেল ইনবক্স সাফ করুন</item>
+        <item>ঘর পরিষ্কার করুন</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>আপনার লক্ষ্যের জন্য সময় খোঁজা হচ্ছে…</item>
+        <item>আপনার জন্য সেশনগুলির সময়সূচী নির্ধারণ করা হচ্ছে…</item>
+        <item>আপনি যে কোনো সময়ে এগুলি সামঞ্জস্য করতে পারবেন…</item>
+        <item>ক্যালেন্ডার আপনার পছন্দগুলির সম্পর্কে শিখবে…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>ডিভাইসের অবস্থান ব্যবহার করে৷</item>
+        <item></item>
+        <item>আপনি সেটিংসে এটি পরিবর্তন করতে পারেন৷</item>
     </string-array>
     <string-array name="oobe_headers">
         <item>Google ক্যালেন্ডার</item>
@@ -116,25 +182,255 @@
         <item>সহায়তার সাথে, শীর্ষকগুলির জন্য প্রস্তাবনাগুলি, আপনার টাইপ করার সাথে সাথে পরিচিতি এবং স্থানগুলি উপস্থিত হয়৷</item>
         <item>ফ্লাইট, রেস্তোরাঁ এবং আরো অনেক কিছুর জন্য সংরক্ষণগুলি, আপনার ইমেলগুলি থেকে স্বংয়ক্রিয়ভাবে যোগ করা হয়েছে৷</item>
     </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>ডিভাইসের অবস্থান ব্যবহার করে৷</item>
-        <item></item>
-        <item>আপনি সেটিংসে এটি পরিবর্তন করতে পারেন৷</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON} ব্যক্তিদের যোগ করুন, যোগাযোগের তথ্য পান</item>
-        <item>{LOCATION_ICON} অবস্থান যোগ করুন, দিকনির্দেশগুলি পান</item>
+    <string-array name="quick_response_defaults">
+        <item>মাত্র কয়েক মিনিট দেরীতে চলছে৷</item>
+        <item>১০ মিনিটের মধ্যে উপস্থিত হোন৷</item>
+        <item>চালিয়ে যান এবং আমাকে ছাড়াই শুরু করুন৷</item>
+        <item>দুঃখিত, আমি আসতে পারছি না৷ আমাদেরকে আবার সময়সূচী নির্ধারণ করতে হবে৷</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>কার সাথে?</item>
-        <item>কাউকে যোগ করুন, যোগাযোগের তথ্য পান</item>
+    <string-array name="recurrence_freq">
+        <item>দৈনিক পুনরাবৃত্তি</item>
+        <item>সাপ্তাহিক পুনরাবৃত্তি</item>
+        <item>মাসিক পুনরাবৃত্তি</item>
+        <item>বাৎসরিক পুনরাবৃত্তি</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON}পরিচিতিগুলি যোগ করা হলে কোনো আমন্ত্রণ পাঠানো হবে না</item>
+    <string-array name="reminder_methods_labels">
+        <item>বিজ্ঞপ্তি</item>
+        <item>ইমেল</item>
+        <item>SMS</item>
+        <item>অ্যালার্ম</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>কোথায়?</item>
-        <item>একটি অবস্থান যোগ করুন, দিকনির্দেশগুলি পান</item>
+    <string-array name="repeat_by_nth_fri">
+        <item>প্রতি মাসের প্রথম শুক্রবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের তৃতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের চতুর্থ শুক্রবারে</item>
+        <item>প্রতি মাসের শেষ শুক্রবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>প্রতি মাসের প্রথম সোমবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় সোমবারে</item>
+        <item>প্রতি মাসের তৃতীয় সোমবারে</item>
+        <item>প্রতি মাসের চতুর্থ সোমবারে</item>
+        <item>প্রতি মাসের শেষ সোমবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>প্রতি মাসের প্রথম শনিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শনিবারে</item>
+        <item>প্রতি মাসের তৃতীয় শনিবারে</item>
+        <item>প্রতি মাসের চতুর্থ শনিবারে</item>
+        <item>প্রতি মাসের শেষ শনিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>প্রতি মাসের প্রথম রবিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় রবিবারে</item>
+        <item>প্রতি মাসের তৃতীয় রবিবারে</item>
+        <item>প্রতি মাসের চতুর্থ রবিবারে</item>
+        <item>প্রতি মাসের শেষ রবিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>প্রতি মাসের প্রথম বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের তৃতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের চতুর্থ বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের শেষ বৃহস্পতিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>প্রতি মাসের প্রথম মঙ্গলবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের তৃতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের চতুর্থ মঙ্গলবারে</item>
+        <item>প্রতি মাসের শেষ মঙ্গলবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>প্রতি মাসের প্রথম বুধবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বুধবারে</item>
+        <item>প্রতি মাসের তৃতীয় বুধবারে</item>
+        <item>প্রতি মাসের চতুর্থ বুধবারে</item>
+        <item>প্রতি মাসের শেষ বুধবারে</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>এসিটি</item>
+        <item>এঈটি</item>
+        <item>এজিটি</item>
+        <item>এআরটি</item>
+        <item>আফ্রিকা/ব্লানটায়ার</item>
+        <item>আফ্রিকা/ব্রাজাভিল</item>
+        <item>আফ্রিকা/বুজুমবুরা</item>
+        <item>আফ্রিকা/দার এস সালাম</item>
+        <item>আফ্রিকা/গাবোরোনে</item>
+        <item>আফ্রিকা/হারারে</item>
+        <item>আফ্রিকা/জোহানেসবার্গ</item>
+        <item>আফ্রিকা/কিগালি</item>
+        <item>আফ্রিকা/কিনসাসা</item>
+        <item>আফ্রিকা/লোয়ান্ডা</item>
+        <item>আফ্রিকা/লুবুমবাসি</item>
+        <item>আফ্রিকা/লুসাকা</item>
+        <item>আফ্রিকা/মাপুতো</item>
+        <item>আফ্রিকা/মাসরু</item>
+        <item>আফ্রিকা/বাবানে</item>
+        <item>আফ্রিকা/নাইরোবি</item>
+        <item>আফ্রিকা/ইন্ধুক</item>
+        <item>আমেরিকা/অ্যারাগুয়াইনা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/বুয়েনস আইরাস</item>
+        <item>আমেরিকা/আর্জেন্টিনা/ক্যাটামার্কা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/কোমোড্রাইভাডাভিয়া</item>
+        <item>আমেরিকা/আর্জেন্টিনা/কর্ডোবা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/হুহুই</item>
+        <item>আমেরিকা/আর্জেন্টিনা/লা রিওহা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/মেন্ডোজা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/রিও গায়েগোস</item>
+        <item>আমেরিকা/আর্জেন্টিনা/স্যালটা</item>
+        <item>আমেরিকা/আর্জেন্টিনা/সান হুয়ান</item>
+        <item>আমেরিকা/আর্জেন্টিনা/সান লুইস</item>
+        <item>আমেরিকা/আর্জেন্টিনা/টুকুমান</item>
+        <item>আমেরিকা/আর্জেন্টিনা/উশুয়াইয়া</item>
+        <item>আমেরিকা/আসুনসান</item>
+        <item>আমেরিকা/বাহিয়া</item>
+        <item>আমেরিকা/বেলেম</item>
+        <item>আমেরিকা/বুয়েনস আইরাস</item>
+        <item>আমেরিকা/কামপু গ্রান্ডে</item>
+        <item>আমেরিকা/ক্যাটামার্কা</item>
+        <item>আমেরিকা/কর্ডোবা</item>
+        <item>আমেরিকা/কুইউবা</item>
+        <item>আমেরিকা/আইরুনেপে</item>
+        <item>আমেরিকা/ফোর্তালেজা</item>
+        <item>আমেরিকা/গোয়াইয়াকিল</item>
+        <item>আমেরিকা/হুহুই</item>
+        <item>আমেরিকা/লা পাজ</item>
+        <item>আমেরিকা/লিমা</item>
+        <item>আমেরিকা/মাসেও</item>
+        <item>আমেরিকা/মানাউস</item>
+        <item>আমেরিকা/মেন্ডোজা</item>
+        <item>আমেরিকা/মন্টেভিডিও</item>
+        <item>আমেরিকা/নরোনহা</item>
+        <item>আমেরিকা/পোর্তো এক</item>
+        <item>আমেরিকা/পোর্তো ভেলহো</item>
+        <item>আমেরিকা/হেসিফি</item>
+        <item>আমেরিকা/রিও ব্র্যাঙ্কো</item>
+        <item>আমেরিকা/রোসারিও</item>
+        <item>আমেরিকা/সান্তারিম</item>
+        <item>আমেরিকা/সান্টিয়াগো</item>
+        <item>আমেরিকা/সাও পাওলো</item>
+        <item>অ্যান্টার্টিকা/ক্যাসে</item>
+        <item>অ্যান্টার্টিকা/ডেভিস</item>
+        <item>অ্যান্টার্টিকা/ডুমন্ট ডেরভিল</item>
+        <item>অ্যান্টার্টিকা/ম্যাককুরি</item>
+        <item>অ্যান্টার্টিকা/মাহুসন</item>
+        <item>অ্যান্টার্টিকা/ম্যাকমুরডো</item>
+        <item>অ্যান্টার্টিকা/পামের</item>
+        <item>অ্যান্টার্টিকা/রোথেরা</item>
+        <item>অ্যান্টার্টিকা/দক্ষিণ পোল</item>
+        <item>অ্যান্টার্টিকা/শোয়া</item>
+        <item>অ্যান্টার্টিকা/ভস্টক</item>
+        <item>এশিয়া/দিলি</item>
+        <item>এশিয়া/জাকার্তা</item>
+        <item>এশিয়া/জয়াপুরা</item>
+        <item>এশিয়া/মাকাসসর</item>
+        <item>এশিয়া/পন্টিয়ান্যাক</item>
+        <item>এশিয়া/উজুং পেনডাং</item>
+        <item>আটল্যান্টিক/দক্ষিণ জর্জিয়া</item>
+        <item>আটল্যান্টিক/সেন্ট হেলেনা</item>
+        <item>আটল্যান্টিক/স্ট্যানলি</item>
+        <item>অস্ট্রেলিয়া/এসিটি</item>
+        <item>অস্ট্রেলিয়া/অ্যাডিলেড</item>
+        <item>অস্ট্রেলিয়া/ব্রিসবেন</item>
+        <item>অস্ট্রেলিয়া/ব্রোকেন হিল</item>
+        <item>অস্ট্রেলিয়া/ক্যানবেরা</item>
+        <item>অস্ট্রেলিয়া/কিউরি</item>
+        <item>অস্ট্রেলিয়া/ডারউইন</item>
+        <item>অস্ট্রেলিয়া/ইউক্লা</item>
+        <item>অস্ট্রেলিয়া/হোবার্ট</item>
+        <item>অস্ট্রেলিয়া/ইলহি</item>
+        <item>অস্ট্রেলিয়া/লিনডেম্যান</item>
+        <item>অস্ট্রেলিয়া/লর্ড হাও</item>
+        <item>অস্ট্রেলিয়া/মেলবোর্ন</item>
+        <item>অস্ট্রেলিয়া/এনএসডব্লু</item>
+        <item>অস্ট্রেলিয়া/উত্তর</item>
+        <item>অস্ট্রেলিয়া/পার্থ</item>
+        <item>অস্ট্রেলিয়া/কুইন্সল্যান্ড</item>
+        <item>অস্ট্রেলিয়া/দক্ষিণ</item>
+        <item>অস্ট্রেলিয়া/সিডনি</item>
+        <item>অস্ট্রেলিয়া/তাসমানিয়া</item>
+        <item>অস্ট্রেলিয়া/ভিক্টোরিয়া</item>
+        <item>অস্ট্রেলিয়া/পশ্চিম</item>
+        <item>অস্ট্রেলিয়া/ইয়ানকোউইননা</item>
+        <item>বিইটি</item>
+        <item>ব্রাজিল/এসিআরই</item>
+        <item>ব্রাজিল/ডেনোরোনহা</item>
+        <item>ব্রাজিল/পূর্ব</item>
+        <item>ব্রাজিল/পশ্চিম</item>
+        <item>সিএটি</item>
+        <item>চিলে/কন্টিনেন্ট্যাল</item>
+        <item>চিলে/ইস্টার আইল্যান্ড</item>
+        <item>ইন্ডিয়ান/আন্তানানারিভো</item>
+        <item>ইন্ডিয়ান/ছাগোস</item>
+        <item>ইন্ডিয়ান/খ্রিস্টমাস</item>
+        <item>ইন্ডিয়ান/কোকোস</item>
+        <item>ইন্ডিয়ান/কোমোরো</item>
+        <item>ইন্ডিয়ান/কার্গুলেন</item>
+        <item>ইন্ডিয়ান/মাহে</item>
+        <item>ইন্ডিয়ান/মরিশাস</item>
+        <item>ইন্ডিয়ান/মায়োত</item>
+        <item>ইন্ডিয়ান/রিইউনিয়ন</item>
+        <item>এমআইটি</item>
+        <item>এনজেড</item>
+        <item>এনজেড-সিএইচএটি</item>
+        <item>প্যাসিফিক/এপিআইএ</item>
+        <item>প্যাসিফিক/অকল্যান্ড</item>
+        <item>প্যাসিফিক/চ্যাঠাম</item>
+        <item>প্যাসিফিক/ইস্টার</item>
+        <item>প্যাসিফিক/ইফাতে</item>
+        <item>প্যাসিফিক/এন্ডারবুরি</item>
+        <item>প্যাসিফিক/ফ্যাকাওফো</item>
+        <item>প্যাসিফিক/ফিজি</item>
+        <item>প্যাসিফিক/ফুনাফুটি</item>
+        <item>প্যাসিফিক/গ্যালাপাগোস</item>
+        <item>প্যাসিফিক/গ্যামবিয়ার</item>
+        <item>প্যাসিফিক/গোয়াদালক্যানাল</item>
+        <item>প্যাসিফিক/মার্কীসাস</item>
+        <item>প্যাসিফিক/নাহরু</item>
+        <item>প্যাসিফিক/নিউয়ি</item>
+        <item>প্যাসিফিক/নরফক</item>
+        <item>প্যাসিফিক/নুমিয়া</item>
+        <item>প্যাসিফিক/প্যাগো প্যাগো</item>
+        <item>প্যাসিফিক/পিটকেয়ার্ন</item>
+        <item>প্যাসিফিক/পোর্ট মৌরজবি</item>
+        <item>প্যাসিফিক/রারোতুঙ্গা</item>
+        <item>প্যাসিফিক/সামোয়া</item>
+        <item>প্যাসিফিক/তাহিতি</item>
+        <item>প্যাসিফিক/টোঙ্গাটাপু</item>
+        <item>প্যাসিফিক/ওয়ালিশ</item>
+        <item>ইউএস/সামোয়া</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>অস্ট্রেলিয়ার মধ্য - NT</item>
+        <item>অস্ট্রেলিয়ার মধ্য - SA</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - QLD</item>
+        <item>অস্ট্রেলিয়ার পূর্বাঞ্চলীয় - NSW</item>
+        <item>মাউন্টেন মানক - ডসন ক্রিক</item>
+        <item>মধ্য মানক - সাসকাচেওয়ান</item>
+        <item>পূর্বাঞ্চলীয় মানক - অ্যাটিকোকান</item>
+        <item>আটলান্টিক মানক - ক্যুবেক</item>
+        <item>হাওয়াই-আলেউত - হাওয়াই</item>
+        <item>হাওয়াই-আলেউত - আলাস্কা</item>
+        <item>প্যাসিফিক মানক - মেটলাকাটলা</item>
+        <item>মাউন্টেন মানক - আরিজোনা</item>
+        <item>প্যাসিফিক - বাজা ক্যালিফোর্নিয়া</item>
+        <item>মাউন্টেন - চিহুয়াহুয়া</item>
+        <item>মধ্য - তামাউলিপাস</item>
+        <item>মাউন্টেন - সোনোরা</item>
+        <item>পূর্ব আফ্রিকার সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>আটলান্টিক মানক সময়</item>
+        <item>পূর্ব ইউরোপীয় সময়</item>
+        <item>কালিনিনগ্রাদ সময়</item>
+        <item>আমাজন - রনডনিয়া</item>
+        <item>ব্রাসিলিয়া - পারা</item>
     </string-array>
 </resources>

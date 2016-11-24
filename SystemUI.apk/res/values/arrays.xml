@@ -73,6 +73,24 @@
         <item>4M per log buffer</item>
         <item>16M per log buffer</item>
     </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation off</item>
         <item>Animation scale .5x</item>
@@ -243,6 +261,12 @@
         <item>1</item>
         <item>3</item>
     </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -351,14 +375,15 @@
     <array name="car_facet_longpress_intent_uris" />
     <array name="car_facet_package_filters" />
     <array name="car_facet_category_filters" />
+    <array name="recents_blacklist_array" />
     <string-array name="volume_stream_titles">
-        <item>Voice calls</item>
+        <item>Call</item>
         <item>System</item>
-        <item>Notifications</item>
+        <item>Ring</item>
         <item>Media</item>
-        <item>Alarms</item>
+        <item>Alarm</item>
         <item></item>
-        <item>Bluetooth calls</item>
+        <item>Bluetooth</item>
         <item></item>
         <item></item>
         <item></item>
@@ -373,6 +398,7 @@
         <item>Show percentage when charging (default)</item>
         <item>"Don't show this icon"</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
     <string-array name="lockscreen_num_pad_klondike">
         <item>+</item>
         <item></item>

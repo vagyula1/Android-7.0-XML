@@ -4,6 +4,10 @@
         <item quantity="other">ဆင်းမ်ကဒ် သော့မချခင် သင့်တွင် %d ခါ ကြိုးစားခွင့်များကျန်ပါသေးသည်။</item>
         <item quantity="one">ဆင်းမ်ကဒ် သော့မချခင် သင့်တွင် %d ခါ ကြိုးစားခွင့် ကျန်ပါသေးသည်။</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">အသိအမှတ်ပြုခွင့်များကို ထည့်သွင်းပြီးပါပြီ</item>
+        <item quantity="one">အသိအမှတ်ပြုခွင့်ကို ထည့်သွင်းပြီးပါပြီ</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">%d စက္ကန့်အတွင်း ချွတ်ယွင်းချက် အစီရင်ခံရန်အတွက် မျက်နှာပြင်ဓာတ်ပုံ ရိုက်ပါမည်။</item>
         <item quantity="one">%d စက္ကန့်အတွင်း ချွတ်ယွင်းချက် အစီရင်ခံရန်အတွက် မျက်နှာပြင်ဓာတ်ပုံ ရိုက်ပါမည်။</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d နာရီ</item>
         <item quantity="one">1 နာရီ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dမိနစ်</item>
+        <item quantity="one">%dမိနစ်</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dနာရီ</item>
+        <item quantity="one">%dနာရီ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dရက်</item>
+        <item quantity="one">%dရက်</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dနှစ်</item>
+        <item quantity="one">%dနှစ်</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%dမိနစ်အတွင်း</item>
+        <item quantity="one">%dမိနစ်အတွင်း</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%dနာရီအတွင်း</item>
+        <item quantity="one">%dနာရီအတွင်း</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%dရက်အတွင်း</item>
+        <item quantity="one">%dရက်အတွင်း</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%dနှစ်အတွင်း</item>
+        <item quantity="one">%dနှစ်အတွင်း</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">ပြီးခဲ့သည့် %d မိနစ်က</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d မိနစ်က</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">ပြီးခဲ့သည့် %d နာရီက</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d နာရီက</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">ပြီးခဲ့သည့် %d ရက်က</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d ရက်က</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">ပြီးခဲ့သည့် %d နှစ်က</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d နှစ်က</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d မိနစ်အတွင်း</item>
+        <item quantity="one">%d မိနစ်အတွင်း</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d နာရီအတွင်း</item>
+        <item quantity="one">%d နာရီအတွင်း</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d ရက်အတွင်း</item>
+        <item quantity="one">%d ရက်အတွင်း</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d နှစ်အတွင်း</item>
+        <item quantity="one">%d နှစ်အတွင်း</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi ကွန်ယက်များရရှိနိုင်သည်</item>

@@ -60,6 +60,18 @@
         <item>ഓരോ ലോഗ് ബഫറിനും 4M</item>
         <item>ഓരോ ലോഗ് ബഫറിനും 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ഓഫ്</item>
+        <item>എല്ലാം</item>
+        <item>റേഡിയോ ഒഴികെയുള്ള എല്ലാം</item>
+        <item>കേർനൽ മാത്രം</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ഓഫ്</item>
+        <item>എല്ലാ ലോഗ് ബഫറുകളും</item>
+        <item>റേഡിയോ ലോഗ് ബഫറുകൾ ഒഴികെയുള്ള എല്ലാം</item>
+        <item>കേർനൽ ലോഗ് ബഫർ മാത്രം</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>ആനിമേഷൻ ഓഫുചെയ്യുക</item>
         <item>ആനിമേഷൻ സ്‌കെയിൽ .5x</item>
@@ -159,6 +171,24 @@
         <item>നമ്മൾ കാണുന്നത് പോലെയുള്ള സ്വാഭാവിക വർണ്ണങ്ങൾ</item>
         <item>ഡിജിറ്റൽ ഉള്ളടക്കത്തിനായി വർണ്ണങ്ങൾ ഒപ്റ്റിമൈസ് ചെയ്തു</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>വിളിക്കുക</item>
+        <item>സിസ്‌റ്റം</item>
+        <item>റിംഗുചെയ്യുക</item>
+        <item>മീഡിയ</item>
+        <item>അലാറം</item>
+        <item></item>
+        <item>ബ്ലൂടൂത്ത്</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>മണിക്കൂറും മിനിറ്റും സെക്കൻഡും കാണിക്കുക</item>
         <item>മണിക്കൂറും മിനിറ്റും കാണിക്കുക (ഡിഫോൾട്ട്)</item>
@@ -169,4 +199,5 @@
         <item>ചാർജ്ജുചെയ്യുമ്പോൾ ശതമാനം കാണിക്കുക (ഡിഫോൾട്ട്)</item>
         <item>ഈ ഐക്കൺ കാണിക്കരുത്</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d löytyi</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d lukematonta kohdetta.</item>
+        <item quantity="one">%1$s. %2$d lukematon kohde.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Yhteystiedot poistettu</item>
+        <item quantity="one">Yhteystieto poistettu</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d yhteystietoa, jossa puhelinnumero</item>
+        <item quantity="one">1 yhteystieto, jossa puhelinnumero</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d löytyi</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ryhmää</item>
+        <item quantity="one">1 ryhmä</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä tilistä %2$s</item>
+        <item quantity="one">%1$d henkilö tilistä %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä</item>
+        <item quantity="one">%1$d henkilö</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Yhdistetyt kontaktit (%d)</item>
+        <item quantity="one">Yhdistetty kontakti</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d mahdollista kaksoiskappaletta</item>
+        <item quantity="one">1 mahdollinen kaksoiskappale</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">Yhdistä %d kontaktin tiedot</item>
+        <item quantity="one">Yhdistä 1 kontaktin tiedot</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

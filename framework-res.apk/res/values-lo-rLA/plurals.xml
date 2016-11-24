@@ -4,6 +4,10 @@
         <item quantity="other">ທ່ານສາມາດລອງໄດ້ອີກ %d ເທື່ອກ່ອນທີ່ SIM ຂອງທ່ານຈະຖືກລັອກ.</item>
         <item quantity="one">ທ່ານສາມາດລອງໄດ້ອີກ %d ເທື່ອກ່ອນທີ່ SIM ຂອງທ່ານຈະຖືກລັອກ.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">ຕິດຕັ້ງໃບຮັບຮອງຜູ້ມີອຳນາດແລ້ວ</item>
+        <item quantity="one">ຕິດຕັ້ງໃບຮັບຮອງຜູ້ມີອຳນາດແລ້ວ</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">ກຳລັງຈະຖ່າຍພາບໜ້າຈໍສຳລັບການລາຍງານຂໍ້ຜິດພາດໃນ %d ວິນາທີ.</item>
         <item quantity="one">ກຳລັງຈະຖ່າຍພາບໜ້າຈໍສຳລັບການລາຍງານຂໍ້ຜິດພາດໃນ %d ວິນາທີ.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ຊົ່ວໂມງ</item>
         <item quantity="one">1 ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dນທ</item>
+        <item quantity="one">%dນທ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dຊມ</item>
+        <item quantity="one">%dຊມ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dມ</item>
+        <item quantity="one">%dມ</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dປ</item>
+        <item quantity="one">%dປ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">ໃນ %dນທ</item>
+        <item quantity="one">ໃນ %dນທ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">ໃນ %dຊມ</item>
+        <item quantity="one">ໃນ %dຊມ</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">ໃນ %dມ</item>
+        <item quantity="one">ໃນ %dມ</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">ໃນ %dປ</item>
+        <item quantity="one">ໃນ %dປ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d ນາທີກ່ອນ</item>
+        <item quantity="one">%d ນາທີກ່ອນ</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ຊົ່ວໂມງກ່ອນ</item>
+        <item quantity="one">%d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d ມື້ກ່ອນ</item>
+        <item quantity="one">%d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d ປີກ່ອນ</item>
+        <item quantity="one">%d ປີກ່ອນ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">ໃນ %d ນາທີ</item>
+        <item quantity="one">ໃນ %d ນາທີ</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">ໃນ %d ຊົ່ວໂມງ</item>
+        <item quantity="one">ໃນ %d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">ໃນ %d ມື້</item>
+        <item quantity="one">ໃນ %d ມື້</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">ໃນ %d ປີ</item>
+        <item quantity="one">ໃນ %d ປີ</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">ເຄືອຂ່າຍ Wi-Fi ທີ່ມີໃຫ້</item>

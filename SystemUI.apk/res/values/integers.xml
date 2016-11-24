@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer name="default_data_warning_level_mb">2048</integer>
     <integer name="lb_browse_headers_transition_delay">150</integer>
     <integer name="lb_browse_headers_transition_duration">250</integer>
     <integer name="lb_browse_rows_anim_duration">250</integer>
@@ -45,12 +46,10 @@
     <integer name="navigation_bar_deadzone_hold">333</integer>
     <integer name="navigation_bar_deadzone_decay">333</integer>
     <integer name="quick_settings_num_columns">3</integer>
-    <integer name="quick_settings_max_rows">4</integer>
-    <integer name="quick_settings_max_rows_keyguard">3</integer>
+    <integer name="quick_settings_num_rows">1</integer>
     <integer name="quick_settings_user_time_settings_tile_span">1</integer>
     <integer name="quick_settings_brightness_dialog_short_timeout">2000</integer>
     <integer name="quick_settings_brightness_dialog_long_timeout">4000</integer>
-    <integer name="quick_settings_detail_max_item_count">5</integer>
     <integer name="heads_up_notification_decay">5000</integer>
     <integer name="heads_up_default_snooze_length_ms">60000</integer>
     <integer name="heads_up_notification_minimum_time">2000</integer>
@@ -60,23 +59,21 @@
     <integer name="recents_task_enter_from_affiliated_app_duration">125</integer>
     <integer name="recents_task_exit_to_app_duration">125</integer>
     <integer name="recents_nav_bar_scrim_enter_duration">400</integer>
-    <integer name="recents_animate_task_view_remove_duration">175</integer>
-    <integer name="recents_animate_task_views_remove_all_duration">300</integer>
     <integer name="recents_animate_task_stack_scroll_duration">200</integer>
     <integer name="recents_auto_advance_duration">750</integer>
     <integer name="recents_subsequent_auto_advance_duration">1000</integer>
     <integer name="recents_alt_tab_key_delay">200</integer>
     <integer name="recents_svelte_level">0</integer>
+    <integer name="long_press_dock_anim_duration">250</integer>
     <item type="integer" name="recents_layout_focused_range_min">-3.0</item>
-    <item type="integer" name="recents_layout_focused_range_max">3.0</item>
+    <item type="integer" name="recents_layout_focused_range_max">2.0</item>
     <item type="integer" name="recents_layout_unfocused_range_min">-2.0</item>
     <item type="integer" name="recents_layout_unfocused_range_max">2.5</item>
     <integer name="keyguard_max_notification_count">3</integer>
-    <integer name="doze_pulse_schedule_resets">2</integer>
     <integer name="doze_pickup_vibration_threshold">2000</integer>
     <integer name="doze_pulse_duration_in">900</integer>
-    <integer name="doze_pulse_duration_in_pickup">300</integer>
-    <integer name="doze_pulse_duration_visible">3000</integer>
+    <integer name="doze_pulse_duration_in_pickup">130</integer>
+    <integer name="doze_pulse_duration_visible">6000</integer>
     <integer name="doze_pulse_duration_out">600</integer>
     <integer name="doze_small_icon_alpha">222</integer>
     <integer name="days_to_show_hotspot_tile">30</integer>
@@ -91,8 +88,13 @@
     <integer name="dismiss_short_duration">200</integer>
     <integer name="dismiss_long_duration">400</integer>
     <integer name="recents_tv_pip_focus_anim_duration">200</integer>
+    <integer name="recents_home_duration">400</integer>
+    <integer name="recents_home_delay">40</integer>
+    <integer name="tv_pip_onboarding_anim_start_delay">1000</integer>
+    <integer name="tv_pip_onboarding_anim_duration">1000</integer>
     <item type="integer" name="unselected_scale">1.0</item>
     <item type="integer" name="selected_scale">1.259</item>
+    <item type="integer" name="dismiss_unselected_alpha">0.3</item>
     <item type="integer" name="config_activityDefaultDur">@android:integer/config_activityDefaultDur</item>
     <integer name="config_chargingSlowlyThreshold">5000000</integer>
     <integer name="config_chargingFastThreshold">7500000</integer>

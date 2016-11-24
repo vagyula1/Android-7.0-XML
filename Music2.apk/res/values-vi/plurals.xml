@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="NalbumsWordCase">
-        <item quantity="other">%1$d album</item>
-        <item quantity="one">1 album</item>
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
     </plurals>
     <plurals name="NsongsWordCase">
         <item quantity="other">%1$d bài hát</item>
@@ -10,46 +10,66 @@
     </plurals>
     <plurals name="NNNtrackstolibrary">
         <item quantity="other">Đã thêm %d bài hát vào thư viện.</item>
-        <item quantity="one">Đã thêm 1 bài hát vào thư viện.</item>
+        <item quantity="one">Đã thêm %d bài hát vào thư viện.</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">Đã thêm %1$d bài hát vào %2$s.</item>
-        <item quantity="one">Đã thêm 1 bài hát vào %2$s.</item>
+        <item quantity="one">Đã thêm %1$d bài hát vào %2$s.</item>
     </plurals>
     <plurals name="NNsong_added">
-        <item quantity="other">Chỉ có %1$d bài hát được thêm. Hàng đợi được có tối đa %2$d bài hát.</item>
-        <item quantity="one">Chỉ có 1 bài hát được thêm. Hàng đợi được có tối đa %2$d bài hát.</item>
+        <item quantity="other">Chỉ thêm %1$d bài hát. Hàng đợi chứa tối đa %2$d bài hát.</item>
+        <item quantity="one">Chỉ thêm %1$d bài hát. Hàng đợi chứa tối đa %2$d bài hát.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_message">
+        <item quantity="other">Một số bài hát đã có trong danh sách phát này.</item>
+        <item quantity="one">Bài hát đã có trong danh sách phát này.</item>
+    </plurals>
+    <plurals name="Nadding_dupe_song_to_playlist_dialog_title">
+        <item quantity="other">Thêm bài hát trùng lặp?</item>
+        <item quantity="one">Thêm bài hát trùng lặp?</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%1$d ALBUM</item>
-        <item quantity="one">1 ALBUM</item>
+        <item quantity="other">%d ALBUM</item>
+        <item quantity="one">%d ALBUM</item>
     </plurals>
     <plurals name="NartistsSelected">
-        <item quantity="other">Đã chọn %1$d nghệ sĩ</item>
-        <item quantity="one">Đã chọn 1 nghệ sĩ</item>
+        <item quantity="other">Đã chọn %d nghệ sĩ</item>
+        <item quantity="one">Đã chọn %d nghệ sĩ</item>
     </plurals>
     <plurals name="NgenresSelected">
-        <item quantity="other">Đã chọn %1$d thể loại</item>
-        <item quantity="one">Đã chọn 1 thể loại</item>
+        <item quantity="other">Đã chọn %d thể loại</item>
+        <item quantity="one">Đã chọn %d thể loại</item>
+    </plurals>
+    <plurals name="Nnewpodcastepisodes">
+        <item quantity="other">%d tập mới</item>
+        <item quantity="one">Tập mới</item>
+    </plurals>
+    <plurals name="Npodcastepisodes">
+        <item quantity="other">%1$d tập</item>
+        <item quantity="one">1 tập</item>
     </plurals>
     <plurals name="Nscrubber_description_hours">
         <item quantity="other">%d giờ</item>
-        <item quantity="one">1 giờ</item>
+        <item quantity="one">%d giờ</item>
     </plurals>
     <plurals name="Nscrubber_description_minutes">
         <item quantity="other">%d phút</item>
-        <item quantity="one">1 phút</item>
+        <item quantity="one">%d phút</item>
     </plurals>
     <plurals name="Nscrubber_description_seconds">
         <item quantity="other">%d giây</item>
-        <item quantity="one">1 giây</item>
+        <item quantity="one">%d giây</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%1$d bài hát</item>
-        <item quantity="one">1 bài hát</item>
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
     </plurals>
     <plurals name="Nsongs_removed">
         <item quantity="other">Đã xóa %d bài hát.</item>
         <item quantity="one">Đã xóa bài hát.</item>
+    </plurals>
+    <plurals name="Nupgrade_to_family_plan_summary">
+        <item quantity="other">Tối đa %d thành viên</item>
+        <item quantity="one">Tối đa %d thành viên</item>
     </plurals>
 </resources>

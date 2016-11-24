@@ -1,36 +1,56 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">後で</string>
-  <string name="alert_dialog_negative_button">キャンセル</string>
-  <string name="alert_dialog_no_button">いいえ</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">アップグレード</string>
-  <string name="alert_dialog_yes_button">はい</string>
-  <string name="app_name">資格</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">有効にするには、att.com/mywirelessにアクセスするか、611にダイヤルしてください</string>
-  <string name="att_error_msg_other">ネットワークで一時的に問題が発生しているため、モバイルホットスポット機能を有効にできません。後でもう一度試してください</string>
-  <string name="att_error_msg_other_title">ネットワークエラー</string>
-  <string name="att_error_msg_title">テザリング用のアカウントが設定されていません</string>
-  <string name="browser_error_msg">ブラウザを開くことができません。</string>
-  <string name="feature_check_msg">申し込み状態をチェックしています。しばらくお待ちください...</string>
-  <string name="mobile_hotspot">モバイルホットスポット</string>
-  <string name="network_connection_error_msg">お使いの電話は現在%sのサーバーに接続できません。後でもう一度試してください。</string>
-  <string name="network_connection_title">ネットワーク接続エラー</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#12514;&amp;#12496;&amp;#12452;&amp;#12523;&amp;#12507;&amp;#12483;&amp;#12488;&amp;#12473;&amp;#12509;&amp;#12483;&amp;#12488;&amp;#12398;&amp;#35443;&amp;#32048;&amp;#12392;&amp;#30331;&amp;#37682;&amp;#26041;&amp;#27861;&amp;#12395;&amp;#12388;&amp;#12356;&amp;#12390;&amp;#12399;&amp;#12289;My Verizon&amp;#12434;&amp;#12372;&amp;#35239;&amp;#12367;&amp;#12384;&amp;#12373;&amp;#12356;&amp;#12290;&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">モバイルホットスポットを使用するには、モバイルホットスポットサービスに登録する必要があります</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">データネットワークに接続できません。テザリングまたはホットスポットサービスに登録していない可能性があります。電話会社にお問い合わせください。</string>
-  <string name="sprint_error_msg_3g">データネットワークに接続できません。テザリングまたはホットスポットはオフになっています。お客様のプランにテザリングとホットスポットサービスが含まれていない可能性があります。登録オプションを表示しますか?</string>
-  <string name="sprint_error_msg_lte">テザリングとホットスポットサービスに登録されていません。登録オプションを表示しますか?</string>
-  <string name="sprint_error_msg_title">テザリングまたはホットスポットエラー</string>
-  <string name="sprint_notification_msg">タッチして詳細を表示</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">現在の料金プランには、電話のデータ接続を他のデバイスと共有できるようにするスマートフォンモバイルホットスポットサービスが含まれていません。料金プランにスマートフォンモバイルホットスポットサービスを追加しますか? オンラインで追加することもできます(https://my.t-mobile.comにアクセスして[Manage] &gt; [Plans and Services]を選択)。</string>
-  <string name="tmo_error_msg_title">サービスのアップグレードが必要です</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"モバイルホットスポット/Mobile Broadband Connectに登録する場合は、次の番号までお電話ください。
- 一般のお客様: (800) 256-4646
- 法人のお客様: (800) 899-4249"</string>
-  <string name="vzw_error_msg_title">注文を処理できませんでした。</string>
+    <string name="app_name">エンタイトルメント</string>
+    <string name="feature_check_msg">"認証中
+しばらくお待ちください。"</string>
+    <string name="vzw_self_provisioning_msg">"モバイルアクセスポイントを使用するには、申し込みが必要です。
+詳細およびお申し込みについては、My Verizonでご確認ください。"</string>
+    <string name="vzw_self_provisioning_cancel">キャンセル</string>
+    <string name="vzw_self_provisioning_learn_more">詳細</string>
+    <string name="vzw_error_msg_title">処理失敗</string>
+    <string name="vzw_error_msg">"モバイルアクセスポイント/モバイルブロードバンド接続をお申込みの際は、以下にお電話ください。
+個人：(800) 256-4646
+法人：(800) 899-4249"</string>
+    <string name="tmo_error_msg_title">サービスの更新が必要です</string>
+    <string name="tmo_error_msg">ご利用のプランには、他のデバイスがあなたの端末のデータ接続を利用できるようになる「スマートフォンモバイルアクセスポイントサービス」が含まれていません。「スマートフォンモバイルアクセスポイントサービス」をご利用プランに追加しますか？[管理>プランとサービス]から「https://my.t-mobile.com」へアクセスしていただき、オンラインで登録することも可能です。</string>
+    <string name="retv_terms_conditions_msg">登録状況を確認しています。しばらくお待ちください...</string>
+    <string name="change_data_request_msg">リクエストを送信しています。しばらくお待ちください...</string>
+    <string name="alert_dialog_failure_title">処理失敗</string>
+    <string name="alert_dialog_failure_msg">後でもう一度試してください。</string>
+    <string name="network_connection_title">ネットワーク接続エラー</string>
+    <string name="network_connection_error_msg">現在、%sサーバーに接続できません。後ほどやり直してください。</string>
+    <string name="mobile_hotspot">モバイルホットスポット</string>
+    <string name="alert_dialog_upgrade_button">更新</string>
+    <string name="alert_dialog_later_button">後で</string>
+    <string name="current_subscription">(現在の登録状況)</string>
+    <string name="unavailable_subscription">(ストレージレベルにより使用できません)</string>
+    <string name="request_pending_title">保留</string>
+    <string name="request_pending_error_msg">Verizonサーバーがリクエストを処理しています。5分後にやり直してください。</string>
+    <string name="browser_error_msg">ブラウザを起動できません。</string>
+    <string name="att_error_msg">有効にするには、att.com/mywirelessへ移動するか、611へお電話ください。</string>
+    <string name="att_error_msg_title">アカウント未設定</string>
+    <string name="att_error_msg_other">一時的なネットワーク問題により、モバイルアクセスポイント機能を有効にできません。後ほどやり直してください。</string>
+    <string name="att_error_msg_other_title">ネットワークエラー</string>
+    <string name="sprint_error_msg">データネットワークに接続できません。テザリングまたはアクセスポイントサービスに未加入の可能性があります。ご利用の通信事業者にお問い合わせください。</string>
+    <string name="sprint_error_msg_title">テザリングまたはアクセスポイントエラー</string>
+    <string name="sprint_notification_msg">詳細を確認するにはタッチしてください</string>
+    <string name="term_and_conditions_title">利用規約</string>
+    <string name="sbm_content_activity_title">利用規約</string>
+    <string name="consent_title">利用規約</string>
+    <string name="consent_message">"このアプリを使用するには、以下の情報に対して同意と送信が必要です。項目をチェックしてから次に進んでください。
+
+[情報送信]
+ご契約ID
+[アプリ使用]
+テザリングアプリの使用"</string>
+    <string name="consent_terms_btn">ライセンス契約</string>
+    <string name="concent_disagree_btn">同意しない</string>
+    <string name="concent_agree_btn">同意する</string>
+    <string name="sbm_error_msg_title">テザリングまたはアクセスポイントエラー</string>
+    <string name="sbm_error_msg">データネットワークに接続できません。</string>
+    <string name="sbm_error_msg_not_subscribed">テザリングオプションのお申し込みが確認できませんでした。</string>
+    <string name="sbm_error_msg_not_authenticated">"テザリングオプションの認証に失敗しました。
+(エラーコード %1$s)"</string>
+    <string name="sbm_error_msg_no_response">"テザリングオプションの認証に失敗しました。
+電波状況のよい場所で再度起動してください。"</string>
 </resources>

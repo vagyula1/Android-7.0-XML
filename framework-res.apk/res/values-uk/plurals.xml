@@ -6,6 +6,12 @@
         <item quantity="few">У вас залишилося %d спроби. Після цього SIM-карту буде заблоковано.</item>
         <item quantity="many">У вас залишилося %d спроб. Після цього SIM-карту буде заблоковано.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Центри сертифікації встановлено</item>
+        <item quantity="one">Центри сертифікації встановлено</item>
+        <item quantity="few">Центри сертифікації встановлено</item>
+        <item quantity="many">Центри сертифікації встановлено</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Знімок екрана для звіту про помилки буде зроблено через %d секунди.</item>
         <item quantity="one">Знімок екрана для звіту про помилки буде зроблено через %d секунду.</item>
@@ -35,6 +41,102 @@
         <item quantity="one">%d година</item>
         <item quantity="few">%d години</item>
         <item quantity="many">%d годин</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d хв</item>
+        <item quantity="one">%d хв</item>
+        <item quantity="few">%d хв</item>
+        <item quantity="many">%d хв</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d год</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d год</item>
+        <item quantity="many">%d год</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d д</item>
+        <item quantity="one">%d д</item>
+        <item quantity="few">%d д</item>
+        <item quantity="many">%d д</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d р</item>
+        <item quantity="one">%d рік</item>
+        <item quantity="few">%d р</item>
+        <item quantity="many">%d р</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">через %d хв</item>
+        <item quantity="one">через %d хв</item>
+        <item quantity="few">через %d хв</item>
+        <item quantity="many">через %d хв</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">через %d год</item>
+        <item quantity="one">через %d год</item>
+        <item quantity="few">через %d год</item>
+        <item quantity="many">через %d год</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">через %d д</item>
+        <item quantity="one">через %d д</item>
+        <item quantity="few">через %d д</item>
+        <item quantity="many">через %d д</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">через %d р</item>
+        <item quantity="one">через %d р</item>
+        <item quantity="few">через %d р</item>
+        <item quantity="many">через %d р</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d хвилини тому</item>
+        <item quantity="one">%d хвилину тому</item>
+        <item quantity="few">%d хвилини тому</item>
+        <item quantity="many">%d хвилин тому</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d години тому</item>
+        <item quantity="one">%d годину тому</item>
+        <item quantity="few">%d години тому</item>
+        <item quantity="many">%d годин тому</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d дня тому</item>
+        <item quantity="one">%d день тому</item>
+        <item quantity="few">%d дні тому</item>
+        <item quantity="many">%d днів тому</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d року тому</item>
+        <item quantity="one">%d рік тому</item>
+        <item quantity="few">%d роки тому</item>
+        <item quantity="many">%d років тому</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">через %d хвилини</item>
+        <item quantity="one">через %d хвилину</item>
+        <item quantity="few">через %d хвилини</item>
+        <item quantity="many">через %d хвилин</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">через %d години</item>
+        <item quantity="one">через %d годину</item>
+        <item quantity="few">через %d години</item>
+        <item quantity="many">через %d годин</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">через %d дня</item>
+        <item quantity="one">через %d день</item>
+        <item quantity="few">через %d дні</item>
+        <item quantity="many">через %d днів</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">через %d року</item>
+        <item quantity="one">через %d рік</item>
+        <item quantity="few">через %d роки</item>
+        <item quantity="many">через %d років</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Мережі Wi-Fi доступні</item>

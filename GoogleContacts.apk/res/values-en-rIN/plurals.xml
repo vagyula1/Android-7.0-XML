@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d unread items.</item>
+        <item quantity="one">%1$s. %2$d unread item.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Contacts deleted</item>
+        <item quantity="one">Contact deleted</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts with phone numbers</item>
+        <item quantity="one">1 contact with phone number</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groups</item>
+        <item quantity="one">1 group</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d people from %2$s</item>
+        <item quantity="one">%1$d person from %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Linked contacts (%d)</item>
+        <item quantity="one">Linked contact</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d Possible duplicates</item>
+        <item quantity="one">1 Possible duplicate</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d linked contacts</item>
+        <item quantity="one">1 linked contact</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

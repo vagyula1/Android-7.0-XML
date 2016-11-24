@@ -60,6 +60,18 @@
         <item>4M ngebhafa yelogu ngayinye</item>
         <item>16M ngebhafa yelogu ngayinye</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Valiwe</item>
+        <item>Konke</item>
+        <item>Konke ngaphandle kwerediyo</item>
+        <item>i-kernel kuphela</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Valiwe</item>
+        <item>Onke amabhafa elogi</item>
+        <item>Konke ngaphandle kwamabhafa elogi yerediyo</item>
+        <item>ilogi ye-kernel kuphela</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Isithombe esinyakazayo sivliwe</item>
         <item>Isilinganiso sesithombe esinyakazayo ngu-05x</item>
@@ -158,5 +170,10 @@
         <item>Imibala ethuthukisiwe</item>
         <item>Imibala yemvelo njengoba ibonwa yilihlo</item>
         <item>Imibala elungiselelwe yokuqukethwe kwedijithali</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

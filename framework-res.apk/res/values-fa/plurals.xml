@@ -4,6 +4,10 @@
         <item quantity="other">%d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت قفل می‌شود.</item>
         <item quantity="one">%d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت قفل می‌شود.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">مراجع صدور گواهی نصب شدند</item>
+        <item quantity="one">مرجع صدور گواهی نصب شد</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">تا %d ثانیه دیگر عکس صفحه‌نمایش برای گزارش اشکال گرفته می‌شود.</item>
         <item quantity="one">تا %d ثانیه دیگر عکس صفحه‌نمایش برای گزارش اشکال گرفته می‌شود.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ساعت</item>
         <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dدقیقه</item>
+        <item quantity="one">%dدقیقه</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dساعت</item>
+        <item quantity="one">%dساعت</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dروز</item>
+        <item quantity="one">%dروز</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dسال</item>
+        <item quantity="one">%dسال</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">در %dدقیقه</item>
+        <item quantity="one">در %dدقیقه</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">در %dساعت</item>
+        <item quantity="one">در %dساعت</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">در %dروز</item>
+        <item quantity="one">در %dروز</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">در %dسال</item>
+        <item quantity="one">در %dسال</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d روز پیش</item>
+        <item quantity="one">%d روز پیش</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d سال پیش</item>
+        <item quantity="one">%d سال پیش</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در %d دقیقه</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">در %d ساعت</item>
+        <item quantity="one">در %d ساعت</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">در %d روز</item>
+        <item quantity="one">در %d روز</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">در %d سال</item>
+        <item quantity="one">در %d سال</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">‏شبکه‌ Wi-Fi در دسترس</item>

@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="auto_scan_time_delay_summary_format">
-        <item quantity="other">%.2f ວິ​ນາ​ທີ</item>
-        <item quantity="one">1 ວິ​ນາ​ທີ</item>
+        <item quantity="other">%.2f ວິນາທີ</item>
+        <item quantity="one">1 ວິນາທີ</item>
     </plurals>
     <plurals name="label_import_succeeded">
-        <item quantity="other">ອັບ​ເດດ %d ປ້າຍ​ກຳ​ກັບ​ແລ້ວ</item>
-        <item quantity="zero">ບໍ່​ມີ​ປ້າຍ​ກຳ​ກັບ​ໃໝ່</item>
-        <item quantity="one">ອັບ​ເດດ 1 ປ້າຍ​ກຳ​ກັບ​ແລ້ວ</item>
+        <item quantity="other">ອັບເດດ %d ປ້າຍກຳກັບແລ້ວ</item>
+        <item quantity="one">ອັບເດດ 1 ປ້າຍກຳກັບແລ້ວ</item>
     </plurals>
     <plurals name="label_num_keys_assigned_format">
-        <item quantity="other">ກຳ​ນົດປຸ່ມ ​%d ​ແລ້ວ</item>
-        <item quantity="one">ກຳ​ນົດປຸ່ມ ​%d ​ແລ້ວ</item>
+        <item quantity="other">ກຳນົດ %d ປຸ່ມແລ້ວ</item>
+        <item quantity="one">ກຳນົດ %d ປຸ່ມແລ້ວ</item>
     </plurals>
     <plurals name="template_containers">
-        <item quantity="other">%1$s ກຳ​ລັງ​ສະ​ແດງ %2$d ລາຍ​ການ.</item>
-        <item quantity="one">%1$s ​ກຳ​ລັງ​ສະ​ແດງ %2$d ລາຍ​ການ.</item>
+        <item quantity="other">%1$s ກຳລັງສະແດງ %2$d ລາຍການ.</item>
+        <item quantity="one">%1$s ກຳລັງສະແດງ %2$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="template_dump_event_count">
+        <item quantity="other">ເລືອກ %1$d ນັດໝາຍແລ້ວ</item>
+        <item quantity="one">ເລືອກ 1 ນັດໝາຍແລ້ວ</item>
+    </plurals>
+    <plurals name="template_list_column_count">
+        <item quantity="other">%1$d ຖັນ</item>
+        <item quantity="one">%1$d ຖັນ</item>
+    </plurals>
+    <plurals name="template_list_row_count">
+        <item quantity="other">%1$d ແຖວ</item>
+        <item quantity="one">%1$d ແຖວ</item>
+    </plurals>
+    <plurals name="template_list_total_count">
+        <item quantity="other">%1$d ລາຍການ</item>
+        <item quantity="one">%1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="template_password_character_count">
+        <item quantity="other">%1$d ຕົວອັກສອນ</item>
+        <item quantity="one">%1$d ຕົວອັກສອນ</item>
     </plurals>
 </resources>

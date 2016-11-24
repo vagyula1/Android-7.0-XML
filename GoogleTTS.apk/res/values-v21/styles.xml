@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="platformSettingsTheme" parent="@android:style/Theme.DeviceDefault.Settings" />
+    <style name="platformDialogWhenLargeTheme" parent="@android:style/Theme.DeviceDefault.Light.DialogWhenLarge">
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:actionBarStyle">@style/MimicSettingsActionBar</item>
+        <item name="android:actionBarTheme">@style/MimicSettingsActionBarTheme</item>
+        <item name="android:statusBarColor">@color/material_blue_grey_950</item>
+    </style>
+    <style name="analyticsScreenTitleAppearance" parent="@android:style/TextAppearance.Material.Title" />
+    <style name="MimicSettingsActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">@color/material_blue_grey_900</item>
+        <item name="android:titleTextStyle">@style/MimicSettingsTitle</item>
+    </style>
+    <style name="MimicSettingsActionBarTheme" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="android:colorControlNormal">@color/white</item>
+    </style>
+    <style name="MimicSettingsTitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

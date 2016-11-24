@@ -4,6 +4,10 @@
         <item quantity="other">Таны СИМ түгжигдэхээс өмнө танд %d оролдлого хийх боломж үлдлээ.</item>
         <item quantity="one">Таны СИМ түгжигдэхээс өмнө танд %d оролдлого хийх боломж үлдлээ.</item>
     </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Сертификатын эрхийг суулгасан</item>
+        <item quantity="one">Сертификатын эрхийг суулгасан</item>
+    </plurals>
     <plurals name="bugreport_countdown">
         <item quantity="other">Алдааны тайлангийн дэлгэцийн зургийг %d секундад авна.</item>
         <item quantity="one">Алдааны тайлангийн дэлгэцийн зургийг %d секундад авна.</item>
@@ -23,6 +27,70 @@
     <plurals name="duration_hours">
         <item quantity="other">%d цаг</item>
         <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dмин</item>
+        <item quantity="one">%dмин</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dц</item>
+        <item quantity="one">%dц</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dхоног</item>
+        <item quantity="one">%dхоног</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dжил</item>
+        <item quantity="one">%dжил</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%dмин</item>
+        <item quantity="one">%dмин</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%dцаг</item>
+        <item quantity="one">%dцаг</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%dхоногт</item>
+        <item quantity="one">%dхоног</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%dжил</item>
+        <item quantity="one">%dжилд</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d минутын өмнө</item>
+        <item quantity="one">%d минутын өмнө</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d цагийн өмнө</item>
+        <item quantity="one">%d цагийн өмнө</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d өдрийн өмнө</item>
+        <item quantity="one">%d өдрийн өмнө</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d жилийн өмнө</item>
+        <item quantity="one">%d жилийн өмнө</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d минутад</item>
+        <item quantity="one">%d минутад</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d цагт</item>
+        <item quantity="one">%d цагт</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d өдөрт</item>
+        <item quantity="one">%d өдөрт</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d жилд</item>
+        <item quantity="one">%d жилд</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Wi-Fi сүлжээ ашиглах боломжтой</item>

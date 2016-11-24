@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Seguinte</string>
+    <string name="suw_back_button_label">Anterior</string>
+    <string name="suw_more_button_label">Mais</string>
+    <string name="entitlement_check_progress">A verificar o estado da subscrição… Aguarde.</string>
+    <string name="att_service_upgrade_msg">Para ativar, aceda a att.com/mywireless ou ligue para o 611</string>
+    <string name="att_network_error">Rede indisponível. Tente novamente mais tarde.</string>
+    <string name="sprint_entitlement_error">O serviço não é suportado. Contacte o seu fornecedor de serviços.</string>
+    <string name="sprint_network_error">Rede indisponível. Tente novamente mais tarde.</string>
+    <string name="vzw_service_upgrade_msg">Para utilizar uma Zona Wi-Fi móvel, contacte o serviço de apoio ao cliente para subscrever.</string>
+    <string name="vzw_network_error">Rede indisponível. Tente novamente mais tarde.</string>
+    <string name="vzw_wfc_activation_error">Não foi possível ativar as Chamadas Wi-Fi. Tente novamente mais tarde.</string>
+    <string name="vzw_address_update_error">Não é possível atualizar o endereço de emergência atual neste momento. Tente novamente mais tarde.</string>
+    <string name="generic_error">Falha ao autenticar. Tente novamente mais tarde.</string>
+    <string name="vzw_setup_app_label">Ativação da conta Verizon</string>
+    <string name="vzw_activate_title">Ativação do telemóvel</string>
+    <string name="vzw_activate_progress">Aguarde enquanto preparamos o seu telemóvel.</string>
+    <string name="vzw_activate_exiting">A sair da ativação…</string>
+    <string name="vzw_verify_title">Validar a sua conta</string>
+    <string name="vzw_verify_ssn">Para começar, introduza os últimos 4 dígitos do número da segurança social do proprietário da sua conta:</string>
+    <string name="vzw_verify_pwd">Para começar, introduza a palavra-passe de faturação da sua conta:</string>
+    <string name="vzw_verify_button">Validar</string>
+    <string name="vzw_later_button">Mais tarde</string>
+    <string name="vzw_verify_switch_ssn">Utilizar antes o número da segurança social</string>
+    <string name="vzw_verify_switch_pwd">Utilizar antes a palavra-passe de faturação</string>
+    <string name="vzw_verify_progress_title">A validar a sua conta…</string>
+    <string name="vzw_activate_ready_title">Está pronto para ativar?</string>
+    <string name="vzw_activate_ready_new">Esta ação pode demorar alguns minutos</string>
+    <string name="vzw_activate_ready_upgrade">"Antes de ativar este telemóvel, faça uma cópia de segurança dos seus contactos e desligue o telemóvel antigo.
+
+Assim que iniciar a ativação, o seu número é transferido para este telemóvel e o telemóvel antigo é desativado."</string>
+    <string name="vzw_activate_button">Ativar</string>
+    <string name="vzw_activating_new_title">A obter o número de telefone…</string>
+    <string name="vzw_activating_upgrade_title">A transferir o número de telefone…</string>
+    <string name="vzw_activating_upgrade">Para transferir o seu número para o novo telemóvel, é necessário desligar o telemóvel antigo.</string>
+    <string name="vzw_activate_success_title">Telemóvel ativado</string>
+    <string name="vzw_activate_success">O seu telemóvel da Verizon encontra-se agora ativo. O seu número é %1$s</string>
+    <string name="vzw_data_limit_title">Utilização de dados limitada</string>
+    <string name="vzw_data_limit">A sua utilização de dados encontra-se atualmente limitada devido à hora do dia ou a um limite de dados. Tem de utilizar o Wi-Fi para continuar a configuração do dispositivo.</string>
+    <string name="vzw_data_restricted_title">Utilização de dados limitada</string>
+    <string name="vzw_data_restricted">Devido à hora do dia ou a um limite de dados</string>
+    <string name="vzw_data_redirected_title">Obter serviço da Verizon</string>
+    <string name="vzw_data_redirected">Não tem um tarifário da Verizon Wireless ou utilizou a totalidade do seu saldo. Contacte a Verizon.</string>
+    <string name="vzw_activate_notification_title">Pronto para ativar</string>
+    <string name="vzw_activate_notification">Toque para ativar o telemóvel</string>
+    <string name="vzw_cold_notification">Contacte a Verizon para ativar o seu telemóvel.</string>
+    <string name="vzw_activate_error_title">Não é possível ativar</string>
+    <string name="vzw_activate_error_network">Certifique-se de que tem um bom sinal de rede (várias barras) e tente novamente. Se o problema persistir, contacte o serviço de apoio ao cliente através do número (800) 922-0204 para obter assistência.</string>
+    <string name="vzw_activate_error_lookup">Lamentamos, mas estamos a ter problemas ao ativar o seu telemóvel. Contacte o serviço de apoio ao cliente através do número (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">O número da segurança social não coincide. Tente novamente.</string>
+    <string name="vzw_activate_error_pwd">A palavra-passe da faturação não coincide. Tente novamente.</string>
+    <string name="vzw_activate_error_not_retryable">Lamentamos, mas estamos a ter problemas ao ativar o seu telemóvel. Contacte o serviço de apoio ao cliente através do número (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Para ativar o seu telemóvel, ligue para o número (800) 922-0204 a partir de outro telemóvel.</string>
+    <string name="vzw_activate_error_restricted_title">Como ativar o telemóvel</string>
+    <string name="vzw_activate_error_restricted">Para ativar o telemóvel, siga as instruções fornecidas com o seu telemóvel novo ou contacte o administrador da Verizon Wireless da sua organização.</string>
+    <string name="vzw_activate_error_lost_stolen">Lamentamos, mas estamos a ter problemas ao ativar o seu telemóvel. Ligue para o número (877) 807-4646 a partir de outro telemóvel para ativar o seu serviço 4G LTE e, em seguida, tente novamente.</string>
+    <string name="vzw_activate_continue">Continuar</string>
+    <string name="vzw_activate_retry">Tentar novamente</string>
+    <string name="vzw_activate_skip">Ignorar</string>
+    <string name="emergency_address_app_label">Gestão de endereços de emergência</string>
+    <string name="progress_text">Aguarde…</string>
+    <string name="vzw_tos_title">Ativar Chamadas Wi-Fi</string>
+    <string name="cancel">Cancelar</string>
+    <string name="vzw_tos_text">"A funcionalidade Chamadas Wi-Fi permite-lhe fazer chamadas por Wi-Fi quando a rede móvel não está disponível.
+
+Para configurar as Chamadas Wi-Fi, tem de introduzir um endereço dos EUA. Este endereço será utilizado pelos serviços de emergência da sua zona se fizer uma chamada de emergência (E911) por Wi-Fi a partir deste telemóvel nos EUA.
+
+Recomendamos que altere este endereço quando fizer chamadas através de outra rede Wi-Fi para que as suas informações de localização estejam corretas. Pode alterar a sua localização a qualquer momento no menu de definições das Chamadas Wi-Fi."</string>
+    <string name="vzw_tos_link">Termos de Utilização</string>
+    <string name="vzw_e911_title">Informações da localização de emergência</string>
+    <string name="vzw_e911_description"><b>IMPORTANTE: ENDEREÇO DE EMERGÊNCIA 911 OBRIGATÓRIO</b>"
+Para ativar as Chamadas Wi-Fi, introduza o endereço dos EUA para onde pretende que os serviços de emergência se dirijam se ligar para o 911. Pode aceder a Definições e alterar este endereço em qualquer altura. É muito importante que atualize este endereço sempre que mudar de localização."</string>
+    <string name="vzw_e911_warning"><b>AVISOS: LIMITAÇÕES DE CHAMADAS DE EMERGÊNCIA PARA O 911</b>"
+Quando ligar para o 911, diga sempre ao operador onde se encontra. A sua chamada para o 911 apenas será feita por Wi-Fi se a rede móvel não estiver disponível. Uma chamada para o 911 através de Wi-Fi pode sofrer atrasos ou não se realizar, por exemplo, se o sistema do 911 não reconhecer o endereço, se não houver eletricidade ou se a sua ligação Wi-Fi não estiver a funcionar. Os serviços de emergência são encaminhados para o endereço que forneceu acima, pelo que o deve atualizar sempre que mudar de localização."</string>
+    <string name="house_number">Número do endereço</string>
+    <string name="street">Rua</string>
+    <string name="apt_suite_number">Apartamento, suite, etc.</string>
+    <string name="city">Cidade</string>
+    <string name="state">Estado</string>
+    <string name="zip_code">Código postal</string>
+    <string name="save">Guardar</string>
+    <string name="vzw_address_confirm_text">"Não conseguimos encontrar o endereço que introduziu porque não foi possível encontrar a rua ou porque a cidade, o estado ou o código postal estão incorretos.
+
+Se a cidade, o estado e o código postal não estiverem corretos, toque em %1$s. Caso contrário, toque em %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Não conseguimos encontrar o endereço que introduziu porque não foi possível encontrar a rua ou porque a cidade, o estado e o código postal estão incorretos.</string>
+    <string name="vzw_address_confirm_text_part2">Se a cidade, o estado e o código postal não estiverem corretos, toque em %1$s. Caso contrário, toque em %2$s.</string>
+    <string name="save_anyway">Guardar mesmo assim</string>
+    <string name="edit_address">Editar endereço</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Não foi possível encontrar o endereço que introduziu:</string>
+    <string name="vzw_address_alternate_text">Será que quis dizer:</string>
+    <string name="vzw_partial_confirm_head">Os Fornecedores de serviços de emergência não conseguiram validar o endereço introduzido.</string>
+    <string name="vzw_partial_confirm_text">Tem a certeza de que pretende utilizar este endereço em caso de emergência?</string>
+    <string name="vzw_partial_failure_text">"A cidade, o estado ou o código postal introduzidos podem não estar corretos.
+
+Verifique o endereço e tente novamente."</string>
+    <string name="vzw_partial_failure_text_part1">A cidade, o estado ou o código postal introduzidos podem não estar corretos.</string>
+    <string name="vzw_partial_failure_text_part2">Verifique o endereço e tente novamente.</string>
+</resources>

@@ -60,6 +60,18 @@
         <item>ලොග අන්තරාවකට 4M</item>
         <item>ලොග අන්තරාවකට 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>ක්‍රියාවිරහිතය</item>
+        <item>සියලු</item>
+        <item>සැම වුවද රේඩි.</item>
+        <item>කර්නල පමණි</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>ක්‍රියාවිරහිතයි</item>
+        <item>සියලු ලොග අන්තරාචය</item>
+        <item>සියලු නමුත් රේඩියෝ ලොග අන්තරාචය</item>
+        <item>කර්නල ලොග් අන්තරාචය පමණි</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>සජිවිකරණය අක්‍රිය කිරීම</item>
         <item>සජීවීකරණ පරිමාණය .5x</item>
@@ -158,6 +170,11 @@
         <item>වැඩිදියුණු කරන ලද වර්ණ</item>
         <item>ඇස දකින ස්වභාවික වර්ණ</item>
         <item>ඩිජිටල් අන්තර්ගතය සඳහා වර්ණ ප්‍රශස්ත කරන ලද</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>ගෝලීය</item>

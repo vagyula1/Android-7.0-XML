@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>அறிவிப்பு</item>
-        <item>மின்னஞ்சல்</item>
-        <item>SMS</item>
-        <item>அலாரம்</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>ஏதுமில்லை</item>
-        <item>0 நிமிடங்கள்</item>
-        <item>1 நிமிடம்</item>
-        <item>5 நிமிடங்கள்</item>
-        <item>10 நிமிடங்கள்</item>
-        <item>15 நிமிடங்கள்</item>
-        <item>20 நிமிடங்கள்</item>
-        <item>25 நிமிடங்கள்</item>
-        <item>30 நிமிடங்கள்</item>
-        <item>45 நிமிடங்கள்</item>
-        <item>1 மணிநேரம்</item>
-        <item>2 மணிநேரம்</item>
-        <item>3 மணிநேரம்</item>
-        <item>12 மணிநேரம்</item>
-        <item>24 மணி நேரம்</item>
-        <item>2 நாட்கள்</item>
-        <item>1 வாரம்</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>சனி</item>
-        <item>ஞாயிறு</item>
-        <item>திங்கள்</item>
-    </string-array>
-    <string-array name="availability">
-        <item>பணிமிகுதி</item>
-        <item>இருக்கிறார்</item>
-        <item>வருவதில் நிச்சயமில்லை</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>முதல்</item>
-        <item>இரண்டாவது</item>
-        <item>மூன்றாவது</item>
-        <item>நான்காவது</item>
-        <item>கடைசி</item>
-    </string-array>
-    <string-array name="invitation_responses">
-        <item>இதுவரைப் பதிலளிக்கவில்லை</item>
-        <item>கலந்துகொள்கிறேன்</item>
-        <item>கலந்துகொள்ளக்கூடும்</item>
-        <item>கலந்துகொள்ளவில்லை</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>இந்த நிகழ்வை</item>
-        <item>பின்வரும் எல்லா நிகழ்வுகளையும்</item>
-        <item>எல்லா நிகழ்வுகளும்</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>இந்த நிகழ்வு &amp; எதிர்கால நிகழ்வுகள்</item>
-        <item>எல்லா நிகழ்வுகளும்</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>இந்த நிகழ்விற்கு மட்டும்</item>
-        <item>தொடரில் உள்ள எல்லா நிகழ்வுகளுக்கும்</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>நாள்</item>
-        <item>வாரம்</item>
-        <item>மாதம்</item>
-        <item>நிகழ்ச்சி விவரம்</item>
-        <item>Timely</item>
-    </string-array>
-    <string-array name="availability_labels">
-        <item>பணிமிகுதி</item>
-        <item>உள்ளார்</item>
-    </string-array>
-    <string-array name="color_names">
-        <item>தக்காளிச் சிவப்பு</item>
+    <string-array name="api_color_names">
+        <item>தக்காளி நிறம்</item>
         <item>டேன்ஜெரின் நிறம்</item>
         <item>பூசணிக்காய் நிறம்</item>
         <item>மாம்பழ நிறம்</item>
@@ -84,25 +12,163 @@
         <item>பேசில்</item>
         <item>யூக்கலிப்டஸ்</item>
         <item>சேஜ் நிறம்</item>
-        <item>மயில் நீலம்</item>
-        <item>அடர் நீலம்</item>
+        <item>மயில் நிறம்</item>
+        <item>கோபால்ட்</item>
         <item>ப்ளூபெரி நிறம்</item>
         <item>கத்தரிப்பூ நிறம்</item>
         <item>விஸ்டேரியா நிறம்</item>
-        <item>பிங்கும் பர்ப்பிளும் சேர்ந்த கலவை</item>
+        <item>அமேதிஸ்ட்</item>
         <item>கிரேப் நிறம்</item>
         <item>ரேடிக்கியோ நிறம்</item>
-        <item>செர்ரி ஃப்ளாசம்</item>
+        <item>செர்ரி பிளாசம்</item>
         <item>ஃபிளமிங்கோ நிறம்</item>
         <item>கோகோ</item>
-        <item>அடர் சாம்பல் நிறம்</item>
+        <item>கிராஃபைட்</item>
         <item>பிர்ச்</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>சில நிமிடங்களில் தொடங்கும்.</item>
-        <item>10 நிமிடங்கள் காத்திருக்கவும்.</item>
-        <item>நான் இல்லாமல் தொடங்கவும்.</item>
-        <item>மன்னிக்கவும், என்னால் பங்கேற்க முடியாது. நாம் மீண்டும் திட்டமிட வேண்டும்.</item>
+    <string-array name="availability">
+        <item>பணிமிகுதி</item>
+        <item>இருக்கிறார்</item>
+        <item>வருவதில் நிச்சயமில்லை</item>
+    </string-array>
+    <string-array name="availability_labels">
+        <item>பணிமிகுதி</item>
+        <item>உள்ளார்</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>சின்ட் மார்ட்டீன்</item>
+        <item>கரீபியன் நெதர்லாந்து</item>
+        <item>க்யூராகோ</item>
+        <item>தெற்கு சூடான்</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>இந்த நிகழ்விற்கு மட்டும்</item>
+        <item>தொடரில் உள்ள எல்லா நிகழ்வுகளுக்கும்</item>
+    </string-array>
+    <string-array name="delete_groove_labels">
+        <item>இந்த அமர்வு</item>
+        <item>இனிவரும் அனைத்து அமர்வுகள் (திட்ட அட்டவணை உருவாக்குவதை நிறுத்து)</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>இந்த நிகழ்வை</item>
+        <item>பின்வரும் எல்லா நிகழ்வுகளையும்</item>
+        <item>எல்லா நிகழ்வுகளும்</item>
+    </string-array>
+    <string-array name="delete_repeating_reminder_labels">
+        <item>இந்த நினைவூட்டல்</item>
+        <item>அனைத்து பின்வரும் நினைவூட்டல்கள்</item>
+        <item>அனைத்து நினைவூட்டல்கள்</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ஒரு முறை மட்டும்</item>
+        <item>ஒவ்வொரு நாளும்</item>
+        <item>ஒவ்வொரு வாரமும்</item>
+        <item>ஒவ்வொரு மாதமும்</item>
+        <item>ஒவ்வொரு ஆண்டும்</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact">
+        <item>யாருடன்?</item>
+        <item>தொடர்புத் தகவலைப் பெற, பிறரைச் சேர்க்கவும்</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_contact_added">
+        <item>{CHECK_ICON}தொடர்புகளைச் சேர்ப்பது, அவர்களுக்கு அழைப்பை அனுப்பாது</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_hints_location">
+        <item>எங்கு?</item>
+        <item>திசைகளைப் பெற, இருப்பிடத்தைச் சேர்க்கவும்</item>
+    </string-array>
+    <string-array name="edit_title_quickcreate_oobe_initial">
+        <item>{CONTACT_ICON} நபர்களைச் சேர்த்து, தொடர்புத் தகவல் பெறலாம்</item>
+        <item>{LOCATION_ICON} திசைகளைப் பெற, இடங்களைச் சேர்க்கவும்</item>
+    </string-array>
+    <string-array name="find_a_time_duration_timeframe_filter_timeframe_values">
+        <item>இன்று</item>
+        <item>ஒரு சில நாட்களுக்குள்</item>
+        <item>ஒரு வாரத்திற்குள்</item>
+        <item>ஒரு தேதியை ஒட்டி</item>
+        <item>ஒரு தேதியில்</item>
+    </string-array>
+    <string-array name="find_time_2_timeframe_labels">
+        <item>இன்று</item>
+        <item>ஒரு சில நாட்களுக்குள்</item>
+        <item>ஒரு வாரத்திற்குள்</item>
+        <item>ஒரு தேதியை ஒட்டி…</item>
+        <item>ஒரு தேதியில்…</item>
+    </string-array>
+    <string-array name="find_time_loading_text">
+        <item>திட்ட அட்டவணைகளைப் பெறுகிறது...</item>
+        <item>முரண்பாடுகளை ஆராய்கிறது...</item>
+        <item>பரிந்துரைகளை மதிப்பிடுகிறது...</item>
+    </string-array>
+    <string-array name="find_time_timeframe_labels">
+        <item>ஒரு வாரத்திற்குள்</item>
+        <item>ஒரு தேதியை ஒட்டி</item>
+        <item>ஒரு தேதியில்</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_learn_instrument_suggestions">
+        <item>கித்தாரைப் பயிற்சி செய்தல்</item>
+        <item>பியானோவைப் பயிற்சி செய்தல்</item>
+        <item>டிரம்ஸைப் பயிற்சி செய்தல்</item>
+        <item>புல்லாங்குழலைப் பயிற்சி செய்தல்</item>
+        <item>மேளதாளங்களைப் பயிற்சி செய்தல்</item>
+        <item>ஹார்ப்பைப் பயிற்சி செய்தல்</item>
+        <item>சாக்ஸஃபோனைப் பயிற்சி செய்தல்</item>
+        <item>ஹார்மோனியத்தைப் பயிற்சி செய்தல்</item>
+        <item>ஏர் கித்தாரைப் பயிற்சி செய்தல்</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_make_art_suggestions">
+        <item>வரைதல்</item>
+        <item>பெயிண்டிங் செய்தல்</item>
+        <item>ஸ்கிராப்புக்கை உருவாக்குதல்</item>
+        <item>கைவினைப் பொருட்களைச் செய்தல்</item>
+        <item>சிற்பம் செதுக்குதல்</item>
+        <item>தாள் பசை கொண்டு கைவினைப் பொருள் உருவாக்குதல்</item>
+        <item>ஸ்கிரீன் பிரின்ட் செய்தல்</item>
+        <item>களிமண் வடிவமைப்புகளை உருவாக்குதல்</item>
+        <item>ஒட்டும் படங்களை வரைதல்</item>
+    </string-array>
+    <string-array name="groove_category_build_skill_practice_language_suggestions">
+        <item>அரபு மொழியைக் கற்றல்</item>
+        <item>சீன மொழியைக் கற்றல்</item>
+        <item>ஆங்கில மொழியைக் கற்றல்</item>
+        <item>ஃபிரெஞ்சு மொழியைக் கற்றல்</item>
+        <item>இந்தி மொழியைக் கற்றல்</item>
+        <item>ஜாப்பனீஸ் மொழியைக் கற்றல்</item>
+        <item>போர்ச்சுகீஸ் மொழியைக் கற்றல்</item>
+        <item>ரஷ்ய மொழியைக் கற்றல்</item>
+        <item>ஸ்பானிஷ் மொழியைக் கற்றல்</item>
+    </string-array>
+    <string-array name="groove_category_me_time_hobby_suggestions">
+        <item>எழுதலாம்</item>
+        <item>தைக்கலாம்</item>
+        <item>மீன் பிடிக்கச் செல்லலாம்</item>
+        <item>தோட்டம்</item>
+        <item>பவுலிங் போகலாம்</item>
+        <item>ஓரிகாமி செய்யலாம்</item>
+        <item>யூனிசைக்கிள்</item>
+    </string-array>
+    <string-array name="groove_category_organize_my_life_suggestions">
+        <item>செய்ய வேண்டியவை பட்டியலைத் தயாரிக்கலாம்</item>
+        <item>மளிகைப் பொருள் வாங்கலாம்</item>
+        <item>படிக்கலாம்</item>
+        <item>துணி துவைக்கலாம்</item>
+        <item>நிதி சம்பந்தமானவற்றைச் செய்யலாம்</item>
+        <item>வாரத்தைத் திட்டமிடலாம்</item>
+        <item>மாதத்தைத் திட்டமிடலாம்</item>
+        <item>இன்பாக்ஸை ஒழுங்கமைக்கலாம்</item>
+        <item>வீட்டைச் சுத்தம் செய்யலாம்</item>
+    </string-array>
+    <string-array name="groove_checking_schedule_array">
+        <item>உங்கள் இலக்கிற்கான நேரத்தைக் கண்டறிகிறது…</item>
+        <item>உங்களுக்கான அமர்வுகளைத் திட்டமிடுகிறது…</item>
+        <item>இந்த அமர்வுகளை எந்த நேரத்திலும் மாற்றலாம்…</item>
+        <item>கேலெண்டர் உங்கள் விருப்பத்தேர்வுகளை அறிந்துகொள்ளும்…</item>
+    </string-array>
+    <string-array name="oobe_disclaimers">
+        <item></item>
+        <item>சாதன இருப்பிடத்தைப் பயன்படுத்தும்.</item>
+        <item></item>
+        <item>இதை அமைப்பில் மாற்றலாம்.</item>
     </string-array>
     <string-array name="oobe_headers">
         <item>Google கேலெண்டர்</item>
@@ -116,25 +182,255 @@
         <item>உதவிகள் மூலம், தலைப்புகள், தொடர்புகள் மற்றும் இடங்களை உள்ளிடும்போதே அவற்றிற்கான பரிந்துரைகளையும் பெறலாம்.</item>
         <item>விமானங்கள், உணவகங்கள் மற்றும் பலவற்றுக்கான முன்பதிவுகள் தானாகவே மின்னஞ்சல்களில் இருந்து சேர்க்கப்படுகின்றன.</item>
     </string-array>
-    <string-array name="oobe_disclaimers">
-        <item></item>
-        <item>சாதன இருப்பிடத்தைப் பயன்படுத்தும்.</item>
-        <item></item>
-        <item>இதை அமைப்பில் மாற்றலாம்.</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>சனி</item>
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_oobe_initial">
-        <item>{CONTACT_ICON} தொடர்புத் தகவலைப் பெற, நபர்களைச் சேர்க்கவும்</item>
-        <item>{LOCATION_ICON} திசைகளைப் பெற, இடங்களைச் சேர்க்கவும்</item>
+    <string-array name="quick_response_defaults">
+        <item>சில நிமிடங்களில் தொடங்கும்.</item>
+        <item>10 நிமிடங்கள் காத்திருக்கவும்.</item>
+        <item>நான் இல்லாமல் தொடங்கவும்.</item>
+        <item>மன்னிக்கவும், என்னால் பங்கேற்க முடியாது. நாம் மீண்டும் திட்டமிட வேண்டும்.</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact">
-        <item>யாருடன்?</item>
-        <item>தொடர்புத் தகவலைப் பெற, பிறரைச் சேர்க்கவும்</item>
+    <string-array name="recurrence_freq">
+        <item>தினமும்</item>
+        <item>வாரந்தோறும்</item>
+        <item>மாதந்தோறும்</item>
+        <item>ஆண்டுதோறும்</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_contact_added">
-        <item>{CHECK_ICON}தொடர்புகளைச் சேர்ப்பது, அவர்களுக்கு அழைப்பை அனுப்பாது</item>
+    <string-array name="reminder_methods_labels">
+        <item>அறிவிப்பு</item>
+        <item>மின்னஞ்சல்</item>
+        <item>SMS</item>
+        <item>அலாரம்</item>
     </string-array>
-    <string-array name="edit_title_quickcreate_hints_location">
-        <item>எங்கு?</item>
-        <item>திசைகளைப் பெற, இருப்பிடத்தைச் சேர்க்கவும்</item>
+    <string-array name="repeat_by_nth_fri">
+        <item>ஒவ்வொரு முதல் வெள்ளி</item>
+        <item>ஒவ்வொரு இரண்டாவது வெள்ளி</item>
+        <item>ஒவ்வொரு மூன்றாவது வெள்ளி</item>
+        <item>ஒவ்வொரு நான்காவது வெள்ளி</item>
+        <item>ஒவ்வொரு கடைசி வெள்ளி</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ஒவ்வொரு முதல் திங்கள்</item>
+        <item>ஒவ்வொரு இரண்டாவது திங்கள்</item>
+        <item>ஒவ்வொரு மூன்றாவது திங்கள்</item>
+        <item>ஒவ்வொரு நான்காவது திங்கள்</item>
+        <item>ஒவ்வொரு கடைசி திங்கள்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ஒவ்வொரு முதல் சனி</item>
+        <item>ஒவ்வொரு இரண்டாவது சனி</item>
+        <item>ஒவ்வொரு மூன்றாவது சனி</item>
+        <item>ஒவ்வொரு நான்காவது சனி</item>
+        <item>ஒவ்வொரு கடைசி சனி</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ஒவ்வொரு முதல் ஞாயிறு</item>
+        <item>ஒவ்வொரு இரண்டாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு மூன்றாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு நான்காவது ஞாயிறு</item>
+        <item>ஒவ்வொரு கடைசி ஞாயிறு</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ஒவ்வொரு முதல் வியாழன்</item>
+        <item>ஒவ்வொரு இரண்டாவது வியாழன்</item>
+        <item>ஒவ்வொரு மூன்றாவது வியாழன்</item>
+        <item>ஒவ்வொரு நான்காவது வியாழன்</item>
+        <item>ஒவ்வொரு கடைசி வியாழன்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ஒவ்வொரு முதல் செவ்வாய்</item>
+        <item>ஒவ்வொரு இரண்டாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு மூன்றாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு நான்காவது செவ்வாய்</item>
+        <item>ஒவ்வொரு கடைசி செவ்வாய்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ஒவ்வொரு முதல் புதன்</item>
+        <item>ஒவ்வொரு இரண்டாவது புதன்</item>
+        <item>ஒவ்வொரு மூன்றாவது புதன்</item>
+        <item>ஒவ்வொரு நான்காவது புதன்</item>
+        <item>ஒவ்வொரு கடைசி புதன்</item>
+    </string-array>
+    <string-array name="southern_hemisphere_timezones">
+        <item>act</item>
+        <item>aet</item>
+        <item>agt</item>
+        <item>art</item>
+        <item>ஆப்பிரிக்கா/பிளான்டையர்</item>
+        <item>ஆப்பிரிக்கா/பிராஸாவில்லே</item>
+        <item>ஆப்பிரிக்கா/புஜும்புரா</item>
+        <item>ஆப்பிரிக்கா/தார் எஸ் சலாம்</item>
+        <item>ஆப்பிரிக்கா/கபோரோன்</item>
+        <item>ஆப்பிரிக்கா/ஹராரே</item>
+        <item>ஆப்பிரிக்கா/ஜோஹன்னஸ்பெர்க்</item>
+        <item>ஆப்பிரிக்கா/கிகலி</item>
+        <item>ஆப்பிரிக்கா/கின்ஷசா</item>
+        <item>ஆப்பிரிக்கா/லுவாண்டா</item>
+        <item>ஆப்பிரிக்கா/லுபும்பாஷி</item>
+        <item>ஆப்பிரிக்கா/லுசாகா</item>
+        <item>ஆப்பிரிக்கா/மபுடோ</item>
+        <item>ஆப்பிரிக்கா/மசேரு</item>
+        <item>ஆப்பிரிக்கா/அம்பபான்</item>
+        <item>ஆப்பிரிக்கா/நைரோபி</item>
+        <item>ஆப்பிரிக்கா/வைண்ட்ஹோக்</item>
+        <item>அமெரிக்கா/அரகுவாய்னா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/பவுனஸ் ஏர்ஸ்</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/கடமரகா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/கொமோடிரவடாவியா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/கார்டோபா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/ஜூஜுய்</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/லாரியோஜா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/மென்டோசா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/ரியோ கேலிகாஸ்</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/சால்டா</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/சான் ஜுவான்</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/சான் லூயி</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/துகுமன்</item>
+        <item>அமெரிக்கா/அர்ஜென்டீனா/உஷுவாயா</item>
+        <item>அமெரிக்கா/ஆஸுன்சியன்</item>
+        <item>அமெரிக்கா/பஹியா</item>
+        <item>அமெரிக்கா/பெலெம்</item>
+        <item>அமெரிக்கா/பவுனஸ் ஏர்ஸ்</item>
+        <item>அமெரிக்கா/கேம்போ கிரான்டே</item>
+        <item>அமெரிக்கா/கடமரகா</item>
+        <item>அமெரிக்கா/கார்டோபா</item>
+        <item>அமெரிக்கா/குயாபே</item>
+        <item>அமெரிக்கா/ஈருனெபே</item>
+        <item>அமெரிக்கா/ஃபார்டெல்சா</item>
+        <item>அமெரிக்கா/குவாயகில்</item>
+        <item>அமெரிக்கா/ஜூஜுய்</item>
+        <item>அமெரிக்கா/லா பாஸ்</item>
+        <item>அமெரிக்கா/லிமா</item>
+        <item>அமெரிக்கா/மேகியோ</item>
+        <item>அமெரிக்கா/மனாவுஸ்</item>
+        <item>அமெரிக்கா/மென்டோசா</item>
+        <item>அமெரிக்கா/மொண்டேவீடியோ</item>
+        <item>அமெரிக்கா/நோரன்ஹா</item>
+        <item>அமெரிக்கா/போர்ட்டோ ஏக்ரே</item>
+        <item>அமெரிக்கா/போர்ட்டோ வெல்ஹோ</item>
+        <item>அமெரிக்கா/ரெஸிஃபி</item>
+        <item>அமெரிக்கா/ரியோ பிரான்கோ</item>
+        <item>அமெரிக்கா/ரொசாரியோ</item>
+        <item>அமெரிக்கா/சான்டரெம்</item>
+        <item>அமெரிக்கா/சாண்டியாகோ</item>
+        <item>அமெரிக்கா/சவோ பவுலோ</item>
+        <item>அன்டார்டிகா/கேஸி</item>
+        <item>அன்டார்டிகா/டேவிஸ்</item>
+        <item>அன்டார்டிகா/ட்யூமோண்ட் டி உர்வில்லே</item>
+        <item>அன்டார்டிகா/மாக்கியூரி</item>
+        <item>அன்டார்டிகா/மவுசன்</item>
+        <item>அன்டார்டிகா/மெக்மர்டோ</item>
+        <item>அன்டார்டிகா/பால்மர்</item>
+        <item>அன்டார்டிகா/ரோதேரா</item>
+        <item>அன்டார்டிகா/சவுத் போல்</item>
+        <item>அன்டார்டிகா/ஸ்யோவா</item>
+        <item>அன்டார்டிகா/வோஸ்டோக்</item>
+        <item>ஆசியா/டிலி</item>
+        <item>ஆசியா/ஜகார்த்தா</item>
+        <item>ஆசியா/ஜெயபுரா</item>
+        <item>ஆசியா/மக்கஸர்</item>
+        <item>ஆசியா/போன்டியானாக்</item>
+        <item>ஆசியா/உஜுங் பண்டாங்</item>
+        <item>அட்லான்டிக்/தெற்கு ஜார்ஜியா</item>
+        <item>அட்லான்டிக்/செயின்ட் ஹெலினா</item>
+        <item>அட்லான்டிக்/ஸ்டேன்லி</item>
+        <item>ஆஸ்திரேலியா/act</item>
+        <item>ஆஸ்திரேலியா/அடிலெய்ட்</item>
+        <item>ஆஸ்திரேலியா/பிரிஸ்பேன்</item>
+        <item>ஆஸ்திரேலியா/புரோக்கன் ஹில்</item>
+        <item>ஆஸ்திரேலியா/கான்பெரா</item>
+        <item>ஆஸ்திரேலியா/கியூரி</item>
+        <item>ஆஸ்திரேலியா/டார்வின்</item>
+        <item>ஆஸ்திரேலியா/யூக்லா</item>
+        <item>ஆஸ்திரேலியா/ஹோபர்ட்</item>
+        <item>ஆஸ்திரேலியா/லிஹி</item>
+        <item>ஆஸ்திரேலியா/லின்டெமன்</item>
+        <item>ஆஸ்திரேலியா/லார்டு ஹோவே</item>
+        <item>ஆஸ்திரேலியா/மெல்போர்ன்</item>
+        <item>ஆஸ்திரேலியா/நியூ சௌத் வேல்ஸ்</item>
+        <item>ஆஸ்திரேலியா/வடக்கு</item>
+        <item>ஆஸ்திரேலியா/பெர்த்</item>
+        <item>ஆஸ்திரேலியா/குயின்ஸ்லாந்து</item>
+        <item>ஆஸ்திரேலியா/தெற்கு</item>
+        <item>ஆஸ்திரேலியா/சிட்னி</item>
+        <item>ஆஸ்திரேலியா/தாஸ்மானியா</item>
+        <item>ஆஸ்திரேலியா/விக்டோரியா</item>
+        <item>ஆஸ்திரேலியா/மேற்கு</item>
+        <item>ஆஸ்திரேலியா/யான்கோவின்னா</item>
+        <item>bet</item>
+        <item>பிரேசில்/ஏக்ரே</item>
+        <item>பிரேசில்/டெனோரோன்ஹா</item>
+        <item>பிரேசில்/கிழக்கு</item>
+        <item>பிரேசில்/மேற்கு</item>
+        <item>cat</item>
+        <item>சிலி/கான்டினென்டல்</item>
+        <item>சிலி/ஈஸ்டர் தீவு</item>
+        <item>இந்தியன்/ஆண்டனநரிவோ</item>
+        <item>இந்தியன்/சாகோஸ்</item>
+        <item>இந்தியன்/கிறிஸ்துமஸ்</item>
+        <item>இந்தியன்/கோகோஸ்</item>
+        <item>இந்தியன்/கொமரோ</item>
+        <item>இந்தியன்/கெர்யூலென்</item>
+        <item>இந்தியன்/மாஹி</item>
+        <item>இந்தியன்/மொரிஷியஸ்</item>
+        <item>இந்தியன்/மயோட்டே</item>
+        <item>இந்தியன்/ரீயூனியன்</item>
+        <item>mit</item>
+        <item>நியூஸி</item>
+        <item>நியூஸி-சாட்</item>
+        <item>பசிஃபிக்/அபியா</item>
+        <item>பசிஃபிக்/ஆக்லாந்து</item>
+        <item>பசிஃபிக்/சத்தாம்</item>
+        <item>பசிஃபிக்/ஈஸ்டர்</item>
+        <item>பசிஃபிக்/ஈஃபேட்</item>
+        <item>பசிஃபிக்/எண்டர்பரி</item>
+        <item>பசிஃபிக்/ஃபகாஃபோ</item>
+        <item>பசிஃபிக்/ஃபிஜி</item>
+        <item>பசிஃபிக்/ஃபுனாஃபுடி</item>
+        <item>பசிஃபிக்/கலபகோஸ்</item>
+        <item>பசிஃபிக்/கேம்பியர்</item>
+        <item>பசிஃபிக்/கவுடால்கேனல்</item>
+        <item>பசிஃபிக்/மார்குசாஸ்</item>
+        <item>பசிஃபிக்/நவ்ரூ</item>
+        <item>பசிஃபிக்/நியு</item>
+        <item>பசிஃபிக்/நார்ஃபோக்</item>
+        <item>பசிஃபிக்/நவுமியா</item>
+        <item>பசிஃபிக்/பேகோ பேகோ</item>
+        <item>பசிஃபிக்/பிட்காரின்</item>
+        <item>பசிஃபிக்/போர்ட் மோர்ஸ்பை</item>
+        <item>பசிஃபிக்/ராரோடோங்கா</item>
+        <item>பசிஃபிக்/சமோவா</item>
+        <item>பசிஃபிக்/தாஹிதி</item>
+        <item>பசிஃபிக்/டோன்கடப்பு</item>
+        <item>பசிஃபிக்/வாலிஸ்</item>
+        <item>யுஎஸ்/சமோவா</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>ஆஸ்திரேலியன் மத்திய நேரம் - NT</item>
+        <item>ஆஸ்திரேலிய மத்திய நேரம் - SA</item>
+        <item>ஆஸ்திரேலிய ஈஸ்டர்ன் நேரம் - QLD</item>
+        <item>ஆஸ்திரேலிய ஈஸ்டர்ன் நேரம் - NSW</item>
+        <item>மவுண்டன் நேரம் - டாவ்சன் கிரீக்</item>
+        <item>சென்ட்ரல் நேரம் - சாஸ்கட்சுவான்</item>
+        <item>ஈஸ்டர்ன் தர நேரம் - அட்டிகோகன்</item>
+        <item>அட்லாண்டிக் தர நேரம் - கியூபெக்</item>
+        <item>ஹவாய் அலெசுயன் நேரம் - ஹவாய்</item>
+        <item>ஹவாய் அலெசுயன் - அலாஸ்கா</item>
+        <item>பசிபிக் தர நேரம் - மெட்லகேட்லா</item>
+        <item>மவுண்டன் தர நேரம் - அரிசோனா</item>
+        <item>பசிபிக் - பஜா கலிபோர்னியா</item>
+        <item>மவுண்டன் - சிஹூவாஹுவா</item>
+        <item>சென்ட்ரல் - டமுலிபஸ்</item>
+        <item>மவுண்டன் - சோனாரா</item>
+        <item>கிழக்கு ஆஃப்ரிக்க நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>அட்லாண்டிக் தர நேரம்</item>
+        <item>ஈஸ்டர்ன் ஐரோப்பிய நேரம்</item>
+        <item>கலினின்கிராடு நேரம்</item>
+        <item>அமேசான் - ரான்டோனியா</item>
+        <item>பிரேசிலியா - பெரா</item>
     </string-array>
 </resources>

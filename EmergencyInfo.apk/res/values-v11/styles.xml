@@ -44,13 +44,6 @@
     <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V11.Theme.AppCompat.Dialog" />
     <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V11.Theme.AppCompat.Light.Dialog" />
     <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V11.ThemeOverlay.AppCompat.Dialog" />
-    <style name="AppTheme" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
-        <item name="android:preferenceCategoryStyle">@style/AppTheme.PreferenceCategoryStyle</item>
-        <item name="android:datePickerStyle">@style/AppTheme.DatePickerStyle</item>
-        <item name="colorPrimary">@color/material_blue_grey_900</item>
-        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
-        <item name="colorAccent">@color/material_teal_200</item>
-    </style>
     <style name="Platform.V11.AppCompat" parent="@android:style/Theme.Holo">
         <item name="android:colorForeground">@color/foreground_material_dark</item>
         <item name="android:colorBackground">@color/background_material_dark</item>
@@ -63,7 +56,7 @@
         <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
         <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
         <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
-        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHintInverse">@color/abc_hint_foreground_material_light</item>
         <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
         <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
         <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
@@ -73,7 +66,7 @@
         <item name="android:windowBackground">@color/background_material_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:textColorHighlight">@color/highlighted_text_material_dark</item>
-        <item name="android:textColorHint">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHint">@color/abc_hint_foreground_material_dark</item>
         <item name="android:textColorLink">?colorAccent</item>
         <item name="android:colorForegroundInverse">@color/foreground_material_light</item>
         <item name="android:textColorTertiary">@color/abc_secondary_text_material_dark</item>
@@ -81,6 +74,9 @@
         <item name="android:listChoiceIndicatorSingle">@drawable/abc_btn_radio_material</item>
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
         <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_dark</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl_dark</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl_dark</item>
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl_dark</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:textColorAlertDialogListItem">@color/abc_primary_text_material_dark</item>
         <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
@@ -103,7 +99,7 @@
         <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
         <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
         <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
-        <item name="android:textColorHintInverse">@color/hint_foreground_material_dark</item>
+        <item name="android:textColorHintInverse">@color/abc_hint_foreground_material_dark</item>
         <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large</item>
         <item name="android:textAppearanceMedium">@style/TextAppearance.AppCompat.Medium</item>
         <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small</item>
@@ -113,7 +109,7 @@
         <item name="android:windowBackground">@color/background_material_light</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:textColorHighlight">@color/highlighted_text_material_light</item>
-        <item name="android:textColorHint">@color/hint_foreground_material_light</item>
+        <item name="android:textColorHint">@color/abc_hint_foreground_material_light</item>
         <item name="android:textColorLink">?colorAccent</item>
         <item name="android:colorForegroundInverse">@color/foreground_material_dark</item>
         <item name="android:textColorTertiary">@color/abc_secondary_text_material_light</item>
@@ -122,6 +118,9 @@
         <item name="android:listChoiceIndicatorMultiple">@drawable/abc_btn_check_material</item>
         <item name="android:textColorPrimaryInverseDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
         <item name="android:colorBackgroundCacheHint">@color/abc_background_cache_hint_selector_material_light</item>
+        <item name="android:textSelectHandleLeft">@drawable/abc_text_select_handle_left_mtrl_light</item>
+        <item name="android:textSelectHandleRight">@drawable/abc_text_select_handle_right_mtrl_light</item>
+        <item name="android:textSelectHandle">@drawable/abc_text_select_handle_middle_mtrl_light</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:textColorAlertDialogListItem">@color/abc_primary_text_material_light</item>
         <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>

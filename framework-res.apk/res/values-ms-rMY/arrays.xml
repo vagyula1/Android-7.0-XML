@@ -44,8 +44,16 @@
     <integer-array name="maps_starting_zoom">
         <item>4</item>
     </integer-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Untuk membuat panggilan dan menghantar mesej melalui Wi-Fi, mula-mula minta pembawa anda untuk menyediakan perkhidmatan ini. Kemudian hidupkan panggilan Wi-Fi semula daripada Tetapan.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Daftar dengan pembawa anda</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Panggilan Wi-Fi</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -53,5 +61,12 @@
         <item>Kerja</item>
         <item>Lain-lain</item>
         <item>Peribadi</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>data selular</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

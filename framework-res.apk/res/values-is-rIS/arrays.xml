@@ -25,8 +25,8 @@
         <item>Heima</item>
         <item>Farsími</item>
         <item>Vinna</item>
-        <item>Faxnúmer í vinnu</item>
-        <item>Faxnúmer heima</item>
+        <item>Faxnr. í vinnu</item>
+        <item>Faxnr. heima</item>
         <item>Símboði</item>
         <item>Annað</item>
         <item>Sérsniðið</item>
@@ -37,8 +37,16 @@
         <item>Annað</item>
         <item>Sérsniðið</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Til að hringja og senda skilaboð yfir Wi-Fi þarftu fyrst að biðja símafyrirtækið þitt um að setja þá þjónustu upp. Kveiktu síðan á Wi-Fi símtölum í stillingunum.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Skráðu þig hjá símafyrirtækinu</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi símtöl</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Vinna</item>
         <item>Annað</item>
         <item>Sérsniðið</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>farsímagögn</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

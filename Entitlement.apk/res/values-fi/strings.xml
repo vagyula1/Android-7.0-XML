@@ -1,36 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">Myöhemmin</string>
-  <string name="alert_dialog_negative_button">Peruuta</string>
-  <string name="alert_dialog_no_button">Ei</string>
-  <string name="alert_dialog_positive_button">OK</string>
-  <string name="alert_dialog_upgrade_button">Päivitä</string>
-  <string name="alert_dialog_yes_button">Kyllä</string>
-  <string name="app_name">Oikeus</string>
-  <string name="att">AT&amp;T</string>
-  <string name="att_error_msg">Ota asetukset käyttöön osoitteessa att.com/mywireless tai soita 611</string>
-  <string name="att_error_msg_other">Verkkoyhteydessä on tilapäinen ongelma, joka estää matkapuhelinverkon yhteyspisteen käyttöönoton. Yritä myöhemmin uudelleen.</string>
-  <string name="att_error_msg_other_title">Verkkovirhe</string>
-  <string name="att_error_msg_title">Tilin asetuksia ei määritetty jakoa varten</string>
-  <string name="browser_error_msg">Selainta ei voi avata.</string>
-  <string name="feature_check_msg">Tarkistetaan tilauksen tilaa. Odota hetki...</string>
-  <string name="mobile_hotspot">Puh.verkon yht.piste</string>
-  <string name="network_connection_error_msg">Puhelimesi ei saa yhteyttä %s-palvelimeen. Yritä myöhemmin uudelleen.</string>
-  <string name="network_connection_title">Verkkoyhteysvirhe</string>
-  <string name="spg_dlg_linktext">&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;Lue lis&amp;#228;&amp;#228; ja tilaa Mobile Hotspot siirtym&amp;#228;ll&amp;#228; My Verizon -palveluun.&lt;/a&gt;</string>
-  <string name="spg_dlg_normaltext">Jos haluat käyttää matkapuhelinverkon yhteyspistettä, sinun täytyy tilata Mobile Hotspot -palvelu</string>
-  <string name="sprint">Sprint</string>
-  <string name="sprint_error_msg">Ei yhteyttä dataverkkoon. Et ehkä ole tilannut jakamis- tai yhteyspistepalvelua. Ota yhteys operaattoriin.</string>
-  <string name="sprint_error_msg_3g">Ei yhteyttä dataverkkoon, jakaminen tai yhteyspiste poistetaan käytöstä. Palvelupakettiisi ei ehkä sisälly jakamis- ja yhteyspistepalvelu. Haluatko nähdä tilausvaihtoehdot.</string>
-  <string name="sprint_error_msg_lte">Et ole jakamis- tai yhteyspistepalvelun tilaaja. Haluatko nähdä tilausvaihtoehdot?</string>
-  <string name="sprint_error_msg_title">Jakamis- tai yhteyspistevirhe</string>
-  <string name="sprint_notification_msg">Lue lisätietoja koskettamalla</string>
-  <string name="tmo">T-Mobile</string>
-  <string name="tmo_error_msg">Nykyinen siirtosopimuksesi ei sisällä Smartphone Mobile HotSpot -palvelua, jonka avulla puhelimen datayhteyden voi jakaa muiden laitteiden kanssa. Haluatko lisätä Smartphone Mobile HotSpot -palvelun siirtosopimukseesi? Voit lisätä sen myös osoitteessa https://my.t-mobile.com valitsemalla Hallinta &gt; Palvelupaketit ja palvelut.</string>
-  <string name="tmo_error_msg_title">Palvelun päivitys tarvitaan</string>
-  <string name="verizon">Verizon</string>
-  <string name="vzw_error_msg">"Jos haluat tilata matkapuhelinverkon yhteyspisteen / Mobile Broadband Connectin, soita: 
- kuluttaja: (800) 256 4646, 
- yritys: (800) 899 4249."</string>
-  <string name="vzw_error_msg_title">Tilausta ei voitu käsitellä</string>
+    <string name="app_name">Oikeutus</string>
+    <string name="feature_check_msg">Tarkistaa liittymäsopimuksen tilaa. Odota...</string>
+    <string name="vzw_self_provisioning_msg">"Käyttääksesi Mobile Hotspot, sinun tulee tilata Mobiili Hotspot -palvelu.
+Hanki lisätietoja ja tilaa Mobile Hotspot vierailemalla My Verizon -sivustolla."</string>
+    <string name="vzw_self_provisioning_cancel">Peruuta</string>
+    <string name="vzw_self_provisioning_learn_more">Lisätietoja</string>
+    <string name="vzw_error_msg_title">Tilaustasi ei voitu käsitellä</string>
+    <string name="vzw_error_msg">"Jos haluat tilata Mobile Hotspotin/Mobiililaajakaistayhteyden, soita:
+ Kuluttaja: (800) 256-4646,
+ Yritys: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Palvelun päivitys vaaditaan</string>
+    <string name="tmo_error_msg">Nykyinen liittymän tilaussopimus ei sisällä Smartphone Mobile Hotspot-palvelua, jonka avulla voit jakaa puhelimen datayhteyden muiden laitteiden kanssa. Haluatko lisätä Älypuhelimen Mobile Hotspot-palvelun liittymähinnastoosi nyt? Voit lisätä sen verkkokaupasta https://my.t-mobile.com kohdassa Hallinta > Hinnastot ja palvelut. &lt;</string>
+    <string name="retv_terms_conditions_msg">Tarkistaa liittymäsopimuksen tilaa. Odota...</string>
+    <string name="change_data_request_msg">Lähettää pyynnön käyttöönotosta. Odota...</string>
+    <string name="alert_dialog_failure_title">Tilaustasi ei voitu käsitellä</string>
+    <string name="alert_dialog_failure_msg">Yritä myöhemmin uudelleen.</string>
+    <string name="network_connection_title">Verkkoyhteyden muodostuksen virhe</string>
+    <string name="network_connection_error_msg">Puhelimesi ei voi juuri nyt muodostaa yhteyttä %s:n palvelimelle. Yritä myöhemmin uudelleen.</string>
+    <string name="mobile_hotspot">Langaton toiminta-alue</string>
+    <string name="alert_dialog_upgrade_button">Päivitä</string>
+    <string name="alert_dialog_later_button">Myöhemmin</string>
+    <string name="current_subscription">(nykyinen tilauksesi)</string>
+    <string name="unavailable_subscription">(ei saatavana tallennustilan tasosta johtuen)</string>
+    <string name="request_pending_title">Käyttöönottoa odotetaan</string>
+    <string name="request_pending_error_msg">Verizon-palvelin käsittelee pyyntöäsi. Yritä uudelleen 5 minuutin kuluttua.</string>
+    <string name="browser_error_msg">Selainta ei voi avata.</string>
+    <string name="att_error_msg">Mahdollistaaksesi, siirry osoitteeseen att.com/mywireless tai soita 611</string>
+    <string name="att_error_msg_title">Tiliä ei ole asennettu yhteyden muodostamista varten</string>
+    <string name="att_error_msg_other">Tilapäinen verkko-ongelma estää mobiilin verkkopistetoiminnon käytön. Yritä myöhemmin uudelleen</string>
+    <string name="att_error_msg_other_title">Verkkovirhe</string>
+    <string name="sprint_error_msg">Tietoverkkoon yhdistäminen epäonnistui; Et ehkä ole tilannut yhteyden muodostusta tai Hotspot-palvelua; Ota yhteyttä puhelinyhtiöösi.</string>
+    <string name="sprint_error_msg_title">Yhteyden muodostuksen tai Hotspotin virhe</string>
+    <string name="sprint_notification_msg">Koske nähdäksesi lisää yksityiskohtia</string>
+    <string name="term_and_conditions_title">Ehdot ja säännöt</string>
+    <string name="sbm_content_activity_title">Sopimusehdot</string>
+    <string name="consent_title">Sopimusehdot</string>
+    <string name="consent_message">"Jotta voisit käyttää tätä sovellusta, sinun on hyväksyttävä sisältö ja lähetettävä seuraavat tiedot. Merkittyäsi sisällön, jatka.
+
+[Lähetä tiedot]
+Sopimuskohtainen tunnus
+[Käytettävät sovellukset]
+Tilaa käyttääksesi yhteyden muodostavaa sovellusta"</string>
+    <string name="consent_terms_btn">Palveluehdot</string>
+    <string name="concent_disagree_btn">En hyväksy</string>
+    <string name="concent_agree_btn">Hyväksyn</string>
+    <string name="sbm_error_msg_title">Yhteyden muodostuksen tai Hotspotin virhe</string>
+    <string name="sbm_error_msg">Tietoverkkoon yhdistäminen ei onnistu.</string>
+    <string name="sbm_error_msg_not_subscribed">Tilaustasi Yhdistämis-asetukseen ei voitu todentaa.</string>
+    <string name="sbm_error_msg_not_authenticated">"Todennusvirhe.
+(Virhekoodi %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Todennusvirhe. Yritä uudelleen sijaintipaikassa jossa hyvä vastaanotto.</string>
 </resources>

@@ -60,6 +60,18 @@
         <item>M4 kwa kila akiba ya kumbukumbu</item>
         <item>M16 kwa kila akiba ya kumbukumbu</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Yamezimwa</item>
+        <item>Zote</item>
+        <item>Zote isipokuwa redio</item>
+        <item>keneli pekee</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Imezimwa</item>
+        <item>Akiba ya kumbukumbu zote</item>
+        <item>Zote isipokuwa akiba ya kumbukumbu za redio</item>
+        <item>akiba ya kumbukumbu ya keneli pekee</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Haiwani imezimwa</item>
         <item>Skeli .5x ya haiwani</item>
@@ -158,5 +170,10 @@
         <item>Rangi zilizoboreshwa</item>
         <item>Rangi asili kama zinavyoonekana kwa macho</item>
         <item>Rangi zilizoboreshwa kwa ajili ya maudhui dijitali</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

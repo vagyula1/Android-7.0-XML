@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance.Material" />
+    <style name="Base.TextAppearance.AppCompat.Body1" parent="@android:style/TextAppearance.Material.Body1" />
+    <style name="Base.TextAppearance.AppCompat.Body2" parent="@android:style/TextAppearance.Material.Body2" />
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@android:style/TextAppearance.Material.Button" />
+    <style name="Base.TextAppearance.AppCompat.Caption" parent="@android:style/TextAppearance.Material.Caption" />
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="@android:style/TextAppearance.Material.Display1" />
+    <style name="Base.TextAppearance.AppCompat.Display2" parent="@android:style/TextAppearance.Material.Display2" />
+    <style name="Base.TextAppearance.AppCompat.Display3" parent="@android:style/TextAppearance.Material.Display3" />
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@android:style/TextAppearance.Material.Display4" />
+    <style name="Base.TextAppearance.AppCompat.Headline" parent="@android:style/TextAppearance.Material.Headline" />
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@android:style/TextAppearance.Material.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Large" parent="@android:style/TextAppearance.Material.Large" />
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@android:style/TextAppearance.Material.Large.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Medium" parent="@android:style/TextAppearance.Material.Medium" />
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Menu" parent="@android:style/TextAppearance.Material.Menu" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle" parent="@android:style/TextAppearance.Material.SearchResult.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title" parent="@android:style/TextAppearance.Material.SearchResult.Title" />
+    <style name="Base.TextAppearance.AppCompat.Small" parent="@android:style/TextAppearance.Material.Small" />
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/TextAppearance.Material.Small.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Subhead" parent="@android:style/TextAppearance.Material.Subhead" />
+    <style name="Base.TextAppearance.AppCompat.Title" parent="@android:style/TextAppearance.Material.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title.Inverse" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@android:style/TextAppearance.Material.Widget.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Header" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/abc_text_size_menu_header_material</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:fontFamily">@string/abc_font_family_title_material</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="@android:style/TextAppearance.Material.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V21.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V21.Theme.AppCompat.Dialog" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V21.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V21.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V21.ThemeOverlay.AppCompat.Dialog" />
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.ActionButton" parent="@android:style/Widget.Material.ActionButton" />
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode" parent="@android:style/Widget.Material.ActionButton.CloseMode">
+        <item name="android:minWidth">56.0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="@android:style/Widget.Material.AutoCompleteTextView">
+        <item name="android:background">?editTextBackground</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button" parent="@android:style/Widget.Material.Button" />
+    <style name="Base.Widget.AppCompat.Button.Borderless" parent="@android:style/Widget.Material.Button.Borderless" />
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:textColor">@color/abc_btn_colored_borderless_text_material</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Small" parent="@android:style/Widget.Material.Button.Small" />
+    <style name="Base.Widget.AppCompat.ButtonBar" parent="@android:style/Widget.Material.ButtonBar" />
+    <style name="Base.Widget.AppCompat.CompoundButton.CheckBox" parent="@android:style/Widget.Material.CompoundButton.CheckBox" />
+    <style name="Base.Widget.AppCompat.CompoundButton.RadioButton" parent="@android:style/Widget.Material.CompoundButton.RadioButton" />
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="@android:style/Widget.Material.DropDownItem.Spinner" />
+    <style name="Base.Widget.AppCompat.EditText" parent="@android:style/Widget.Material.EditText">
+        <item name="android:background">?editTextBackground</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ImageButton" parent="@android:style/Widget.Material.ImageButton" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.Light.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.Light.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.Light.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.Light.PopupMenu" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.Light.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="@android:style/Widget.Material.ListPopupWindow" />
+    <style name="Base.Widget.AppCompat.ListView" parent="@android:style/Widget.Material.ListView" />
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="@android:style/Widget.Material.ListView.DropDown" />
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="@style/Base.Widget.AppCompat.ListView" />
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Material.ProgressBar" />
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Material.ProgressBar.Horizontal" />
+    <style name="Base.Widget.AppCompat.RatingBar" parent="@android:style/Widget.Material.RatingBar" />
+    <style name="Base.Widget.AppCompat.SeekBar" parent="@android:style/Widget.Material.SeekBar" />
+    <style name="Base.Widget.AppCompat.Spinner" parent="@android:style/Widget.Material.Spinner" />
+    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="@android:style/Widget.Material.TextView.SpinnerItem" />
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
+    <style name="HorizontalProgressBarDetailsBackgroundStyle">
+        <item name="android:color">@color/quantum_googblue100</item>
+    </style>
+    <style name="HorizontalProgressBarDetailsStyle">
+        <item name="android:height">6.0dip</item>
+        <item name="android:color">@color/quantum_googblue500</item>
+    </style>
+    <style name="HorizontalProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateDrawable">@drawable/horizontal_indeterminate_progress_bar_material</item>
+        <item name="android:progressDrawable">@drawable/horizontal_progress_bar_material</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat" parent="">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat" />
+    <style name="Platform.ThemeOverlay.AppCompat.Light" parent="@style/Platform.ThemeOverlay.AppCompat" />
+    <style name="Theme.Arkham.AlertDialogTheme" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/quantum_googblue</item>
+        <item name="colorAccent">@color/quantum_googblue</item>
+    </style>
+    <style name="Theme.Arkham.Nav.NoActionBar" parent="@style/Theme.Arkham">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Arkham.Overlay.Accent" parent="@style/Theme.Arkham.Overlay">
+        <item name="android:alertDialogTheme">@style/Theme.Arkham.AlertDialogTheme</item>
+        <item name="android:colorAccent">@color/quantum_googblue</item>
+        <item name="colorAccent">@color/quantum_googblue</item>
+        <item name="alertDialogTheme">@style/Theme.Arkham.AlertDialogTheme</item>
+    </style>
+    <style name="Theme.Arkham.Transparent.Accent" parent="@style/Theme.Arkham.Transparent">
+        <item name="android:alertDialogTheme">@style/Theme.Arkham.AlertDialogTheme</item>
+        <item name="android:colorAccent">@color/quantum_googblue</item>
+        <item name="colorAccent">@color/quantum_googblue</item>
+        <item name="alertDialogTheme">@style/Theme.Arkham.AlertDialogTheme</item>
+    </style>
+    <style name="Theme.Arkham.WithWhiteActionBar" parent="@style/Theme.Arkham">
+        <item name="android:windowBackground">@color/quantum_white_100</item>
+        <item name="android:actionBarStyle">@style/Theme.Arkham.White.ActionBar</item>
+        <item name="android:actionMenuTextAppearance">@style/Theme.Arkham.ActionBar.MenuButtonTextStyle</item>
+        <item name="android:actionMenuTextColor">@color/white_actionbar_done_button_color</item>
+        <item name="actionBarStyle">@style/Theme.Arkham.White.ActionBar</item>
+        <item name="actionMenuTextAppearance">@style/Theme.Arkham.ActionBar.MenuButtonTextStyle</item>
+        <item name="actionMenuTextColor">@color/white_actionbar_done_button_color</item>
+        <item name="colorPrimary">@color/quantum_white_100</item>
+        <item name="colorPrimaryDark">@color/quantum_grey</item>
+    </style>
+    <style name="Theme.Arkham.WithWhiteActionBar.Accent" parent="@style/Theme.Arkham.WithWhiteActionBar">
+        <item name="android:colorAccent">@color/quantum_googblue</item>
+        <item name="colorAccent">@color/quantum_googblue</item>
+    </style>
+    <style name="Theme.CPE" parent="@style/Theme.CPE.Base">
+        <item name="android:dialogTheme">@style/Theme.CPE.Dialog</item>
+        <item name="android:alertDialogTheme">@style/Theme.CPE.Dialog</item>
+        <item name="android:windowContentTransitions">false</item>
+        <item name="android:windowEnterTransition">@null</item>
+        <item name="android:windowExitTransition">@null</item>
+    </style>
+    <style name="Theme.CircleSelector" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:buttonBarStyle">@style/Theme.CircleSelector.ButtonBar</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:colorAccent">@color/quantum_googblue</item>
+        <item name="windowActionBar">false</item>
+        <item name="listPreferredItemPaddingLeft">16.0dip</item>
+        <item name="listPreferredItemPaddingRight">16.0dip</item>
+        <item name="colorAccent">@color/quantum_googblue</item>
+    </style>
+    <style name="Theme.Photos" parent="@style/Theme.Photos.Base">
+        <item name="android:dialogTheme">@style/Theme.Photos.Dialog</item>
+        <item name="android:alertDialogTheme">@style/Theme.Photos.Dialog</item>
+        <item name="android:colorAccent">@color/quantum_googblue500</item>
+        <item name="colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="Theme.Photos.AccountPicker" parent="@style/Theme.Photos">
+        <item name="android:colorPrimaryDark">@color/quantum_googblue700</item>
+    </style>
+    <style name="Theme.Photos.Backup.Settings.Preferences" parent="@style/Theme.Photos.Backup.Settings.Preferences.Base">
+        <item name="android:dialogTheme">@style/Theme.Photos.Backup.Settings.Dialog</item>
+        <item name="android:alertDialogTheme">@style/Theme.Photos.Backup.Settings.Dialog</item>
+        <item name="android:colorAccent">@color/quantum_googblue500</item>
+        <item name="colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="Theme.Photos.BottomDialog" parent="@style/Theme.Photos.BaseBottomDialog">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+    </style>
+    <style name="Theme.Photos.Button.Dark" parent="@android:style/Widget.Material.Button">
+        <item name="android:theme">@style/JoinBannerButtonTheme</item>
+        <item name="android:textColor">@color/quantum_white_text</item>
+        <item name="android:paddingLeft">@dimen/photos_theme_envelope_components_padding</item>
+        <item name="android:paddingRight">@dimen/photos_theme_envelope_components_padding</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Theme.Photos.Button.Light" parent="@android:style/Widget.Material.Button">
+        <item name="android:theme">@style/PhotosSettingButtonTheme</item>
+        <item name="android:textColor">@color/quantum_black_100</item>
+        <item name="android:paddingLeft">@dimen/photos_theme_envelope_components_padding</item>
+        <item name="android:paddingRight">@dimen/photos_theme_envelope_components_padding</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Theme.Photos.Expander" parent="@style/Theme.Photos">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:statusBarColor">@color/transparent_bg</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.Photos.FeatureDiscovery" parent="@style/Theme.Photos">
+        <item name="android:colorPrimary">@color/quantum_googblue</item>
+        <item name="colorPrimary">@color/quantum_googblue</item>
+    </style>
+    <style name="Theme.Story" parent="@style/Theme.Photos.TransparentActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:alertDialogTheme">@style/Theme.Photos.Dialog</item>
+        <item name="android:actionBarItemBackground">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="actionBarItemBackground">@android:color/transparent</item>
+    </style>
+    <style name="VideoPlayerSeekbar" parent="@android:style/Widget.Material.SeekBar">
+        <item name="android:thumbTint">@color/quantum_googblue600</item>
+    </style>
+    <style name="Widget.Design.AppBarLayout" parent="@style/Base.Widget.Design.AppBarLayout">
+        <item name="android:stateListAnimator">@anim/design_appbar_state_list_animator</item>
+    </style>
+    <style name="Widget.Design.BottomSheet.Modal" parent="@android:style/Widget">
+        <item name="android:background">?android:colorBackground</item>
+        <item name="android:elevation">@dimen/design_bottom_sheet_modal_elevation</item>
+        <item name="behavior_peekHeight">auto</item>
+        <item name="behavior_hideable">true</item>
+        <item name="behavior_skipCollapsed">false</item>
+    </style>
+    <style name="Widget.Photos.ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/quantum_white_100</item>
+        <item name="android:displayOptions">showHome|showTitle</item>
+        <item name="android:titleTextStyle">@style/Widget.Photos.ActionBar.Black.TextStyle</item>
+        <item name="displayOptions">showHome|showTitle</item>
+        <item name="titleTextStyle">@style/Widget.Photos.ActionBar.Black.TextStyle</item>
+        <item name="background">@color/quantum_white_100</item>
+        <item name="contentInsetStart">@dimen/photos_theme_actionbar_title_padding</item>
+        <item name="elevation">2.0dip</item>
+    </style>
+    <style name="Widget.Photos.ActionModeActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/quantum_googblue500</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:titleTextStyle">@style/Widget.Photos.ActionBar.White.TextStyle</item>
+        <item name="android:elevation">2.0dip</item>
+        <item name="displayOptions">showTitle</item>
+        <item name="titleTextStyle">@style/Widget.Photos.ActionBar.White.TextStyle</item>
+        <item name="background">@color/quantum_googblue500</item>
+        <item name="elevation">2.0dip</item>
+    </style>
+    <style name="Widget.Photos.Backup.Settings.ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/quantum_white_100</item>
+        <item name="android:displayOptions">showHome|showTitle</item>
+        <item name="android:titleTextStyle">@style/Widget.Photos.Backup.Settings.ActionBar.Black.TextStyle</item>
+        <item name="displayOptions">showHome|showTitle</item>
+        <item name="titleTextStyle">@style/Widget.Photos.Backup.Settings.ActionBar.Black.TextStyle</item>
+        <item name="background">@color/quantum_white_100</item>
+        <item name="contentInsetStart">@dimen/photos_backup_settings_title_padding</item>
+        <item name="elevation">2.0dip</item>
+    </style>
+    <style name="Widget.Photos.Grey.ActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/quantum_grey500</item>
+        <item name="android:displayOptions">showHome|showTitle</item>
+        <item name="android:titleTextStyle">@style/Widget.Photos.ActionBar.White.TextStyle</item>
+        <item name="displayOptions">showHome|showTitle</item>
+        <item name="titleTextStyle">@style/Widget.Photos.ActionBar.White.TextStyle</item>
+        <item name="background">@color/quantum_grey500</item>
+        <item name="contentInsetStart">@dimen/photos_theme_actionbar_title_padding</item>
+        <item name="elevation">2.0dip</item>
+    </style>
+    <style name="Widget.Photos.ProgressBar.Indeterminate" parent="@android:style/Widget.Material.ProgressBar">
+        <item name="android:indeterminate">true</item>
+    </style>
+    <style name="Widget.Photos.ProgressBar.IndeterminateBlue" parent="@style/Widget.Photos.ProgressBar.Indeterminate">
+        <item name="android:indeterminateTint">@color/quantum_googblue</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+    </style>
+    <style name="Widget.Photos.ProgressBar.IndeterminateWhite" parent="@style/Widget.Photos.ProgressBar.Indeterminate">
+        <item name="android:indeterminateTint">@android:color/white</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+    </style>
+    <style name="mm_SwitchColor" parent="@style/Theme.AppCompat">
+        <item name="android:colorAccent">@color/mm_accent</item>
+        <item name="colorAccent">@color/mm_accent</item>
+    </style>
+    <style name="mm_Theme" parent="@style/Theme.Photos">
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/quantum_black_100</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:logo">@android:color/transparent</item>
+        <item name="android:actionBarStyle">@style/mm_ActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:actionOverflowButtonStyle">@style/mm_OverFlow</item>
+        <item name="android:actionMenuTextColor">@color/mm_main_text</item>
+        <item name="android:colorAccent">@color/mm_accent</item>
+        <item name="android:statusBarColor">@color/quantum_black_100</item>
+        <item name="icon">@android:color/transparent</item>
+        <item name="logo">@android:color/transparent</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="actionOverflowButtonStyle">@style/mm_OverFlow</item>
+        <item name="actionBarStyle">@style/mm_ActionBar</item>
+        <item name="actionMenuTextColor">@color/mm_main_text</item>
+        <item name="colorPrimary">@color/mm_white</item>
+        <item name="colorPrimaryDark">@color/quantum_black_100</item>
+        <item name="colorAccent">@color/mm_accent</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large" />
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small" />
+    <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">@drawable/abc_action_bar_item_background_material</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:selectableItemBackgroundBorderless</item>
+        <item name="borderlessButtonStyle">?android:borderlessButtonStyle</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+        <item name="listChoiceBackgroundIndicator">?android:listChoiceBackgroundIndicator</item>
+        <item name="buttonStyle">?android:buttonStyle</item>
+        <item name="buttonStyleSmall">?android:buttonStyleSmall</item>
+        <item name="checkboxStyle">?android:checkboxStyle</item>
+        <item name="checkedTextViewStyle">?android:checkedTextViewStyle</item>
+        <item name="radioButtonStyle">?android:radioButtonStyle</item>
+        <item name="ratingBarStyle">?android:ratingBarStyle</item>
+        <item name="spinnerStyle">?android:spinnerStyle</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Dialog" parent="@style/Base.V11.Theme.AppCompat.Dialog">
+        <item name="android:windowElevation">@dimen/abc_floating_window_z</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light">
+        <item name="android:colorControlNormal">?colorControlNormal</item>
+        <item name="android:colorControlActivated">?colorControlActivated</item>
+        <item name="android:colorButtonNormal">?colorButtonNormal</item>
+        <item name="android:colorControlHighlight">?colorControlHighlight</item>
+        <item name="android:colorPrimary">?colorPrimary</item>
+        <item name="android:colorPrimaryDark">?colorPrimaryDark</item>
+        <item name="android:colorAccent">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">@drawable/abc_action_bar_item_background_material</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:selectableItemBackgroundBorderless</item>
+        <item name="borderlessButtonStyle">?android:borderlessButtonStyle</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">@drawable/abc_edit_text_material</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+        <item name="listChoiceBackgroundIndicator">?android:listChoiceBackgroundIndicator</item>
+        <item name="buttonStyle">?android:buttonStyle</item>
+        <item name="buttonStyleSmall">?android:buttonStyleSmall</item>
+        <item name="checkboxStyle">?android:checkboxStyle</item>
+        <item name="checkedTextViewStyle">?android:checkedTextViewStyle</item>
+        <item name="radioButtonStyle">?android:radioButtonStyle</item>
+        <item name="ratingBarStyle">?android:ratingBarStyle</item>
+        <item name="spinnerStyle">?android:spinnerStyle</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light.Dialog" parent="@style/Base.V11.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowElevation">@dimen/abc_floating_window_z</item>
+    </style>
+    <style name="Base.V21.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V11.ThemeOverlay.AppCompat.Dialog">
+        <item name="android:windowElevation">@dimen/abc_floating_window_z</item>
+    </style>
+    <style name="DialogTitle" parent="@android:style/TextAppearance.Material.DialogWindowTitle">
+        <item name="android:textColor">@color/quantum_grey600</item>
+    </style>
+    <style name="JoinBannerButtonTheme">
+        <item name="android:colorButtonNormal">?android:colorAccent</item>
+    </style>
+    <style name="PhotosSettingButtonTheme">
+        <item name="android:colorButtonNormal">?android:colorPrimary</item>
+    </style>
+    <style name="SkipTrashDialogNegativeBtnStyle" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:textColor">@color/quantum_black_text</item>
+    </style>
+    <style name="SkipTrashDialogPositiveBtnStyle" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+        <item name="android:textColor">@color/quantum_googred700</item>
+    </style>
+    <style name="Theme.CPE.Dialog" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorPrimary">@color/quantum_googblue500</item>
+        <item name="android:colorPrimaryDark">@color/quantum_googblue700</item>
+        <item name="android:colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="Theme.Photos.Backup.Settings.Dialog" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorPrimary">@color/quantum_googblue500</item>
+        <item name="android:colorPrimaryDark">@color/quantum_googblue700</item>
+        <item name="android:colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="Theme.Photos.Dialog" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:windowTitleStyle">@style/DialogTitle</item>
+        <item name="android:colorPrimary">@color/quantum_googblue500</item>
+        <item name="android:colorPrimaryDark">@color/quantum_googblue700</item>
+        <item name="android:colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="ThemeDialogSkipTrash" parent="@style/Theme.Photos.Dialog">
+        <item name="android:buttonBarPositiveButtonStyle">@style/SkipTrashDialogPositiveBtnStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/SkipTrashDialogNegativeBtnStyle</item>
+    </style>
+</resources>

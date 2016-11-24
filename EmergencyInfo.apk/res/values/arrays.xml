@@ -73,6 +73,24 @@
         <item>4M per log buffer</item>
         <item>16M per log buffer</item>
     </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation off</item>
         <item>Animation scale .5x</item>
@@ -243,6 +261,12 @@
         <item>1</item>
         <item>3</item>
     </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
@@ -321,15 +345,15 @@
         <item></item>
     </string-array>
     <string-array name="blood_type_content_description">
-        <item>O positive</item>
-        <item>O negative</item>
-        <item>A, positive</item>
-        <item>A, negative</item>
-        <item>B positive</item>
-        <item>B negative</item>
-        <item>A B positive</item>
-        <item>A B negative</item>
-        <item>H H</item>
+        <item>@string/o_positive</item>
+        <item>@string/o_negative</item>
+        <item>@string/a_positive</item>
+        <item>@string/a_negative</item>
+        <item>@string/b_positive</item>
+        <item>@string/b_negative</item>
+        <item>@string/ab_positive</item>
+        <item>@string/ab_negative</item>
+        <item>@string/h_h</item>
         <item>@string/unknown_blood_type</item>
     </string-array>
     <string-array name="organ_donor_entries">

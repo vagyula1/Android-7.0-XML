@@ -60,6 +60,18 @@
         <item>4 M ανά προσ. μν. αρχ. καταγρ.</item>
         <item>16 M ανά πρ. μν. αρχ. καταγρ.</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Ανενεργό</item>
+        <item>Όλα</item>
+        <item>Όλοι εκτός από του αποστολέα</item>
+        <item>μόνο πυρήνας</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Ανενεργό</item>
+        <item>Όλα τα αρχεία καταγραφής προσωρινής μνήμης</item>
+        <item>Όλα εκτός από τα αρχεία κατ.προσ.μνήμης αποστολέα</item>
+        <item>μόνο προσωρινή μνήμη αρχείου καταγραφής πυρήνα</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Κινούμ.εικόνες απενεργοποιημένες</item>
         <item>Κλίμ. κινούμ. εικ. 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Βελτιωμένα χρώματα</item>
         <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>
         <item>Βελτιστοποιημένα χρώματα για ψηφιακό περιεχόμενο</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Παγκοσμίως</item>

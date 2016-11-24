@@ -30,7 +30,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Хэзээ ч шалгахгүй</item>
-        <item>Зөвхөн DRM контентыг шалгах</item>
+        <item>Зөвхөн DRM агуулгыг шалгах</item>
         <item>Байнга шалгах</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -59,6 +59,18 @@
         <item>лог буфер бүрт 1M</item>
         <item>лог буфер бүрт 4M</item>
         <item>лог буфер бүрт 16M</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Идэвхгүй</item>
+        <item>Бүгд</item>
+        <item>Радиогоос бусад бүх</item>
+        <item>зөвхөн төвд</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Идэвхгүй</item>
+        <item>Бүх логийн хамгаалалт</item>
+        <item>Радиогоос бусад бүх логийн хамгаалалт</item>
+        <item>зөвхөн үйлдлийн системийн төв логийн хамгаалалтад</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Дүрс амилуулалт идэвхгүй</item>
@@ -159,6 +171,24 @@
         <item>Нүдээр харж болох байгалийн өнгө</item>
         <item>Дижитал агуулгад зориулан тааруулсан өнгө</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Дуудлага</item>
+        <item>Систем</item>
+        <item>Хонх дуугаргах</item>
+        <item>Медиа</item>
+        <item>Сэрүүлэг</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Цаг, минут, секундийг харуулах</item>
         <item>Цаг, минутыг харуулах (өгөгдмөл)</item>
@@ -169,4 +199,5 @@
         <item>Цэнэглэх үед хувийг тогтмол харуулах (өгөгдмөл)</item>
         <item>Энэ дүрс тэмдгийг бүү үзүүл</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

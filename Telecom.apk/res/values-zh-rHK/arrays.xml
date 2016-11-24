@@ -60,6 +60,18 @@
         <item>每個記錄緩衝區 4M</item>
         <item>每個記錄緩衝區 16M</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>關閉</item>
+        <item>全部</item>
+        <item>所有非無線電</item>
+        <item>只限核心</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>關閉</item>
+        <item>所有記錄緩衝區</item>
+        <item>所有非無線電記錄緩衝區</item>
+        <item>只限核心記錄緩衝區</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>關閉動畫</item>
         <item>動畫比例 .5x</item>
@@ -158,5 +170,10 @@
         <item>顏色已強化</item>
         <item>如眼前所見的自然顏色</item>
         <item>優化作數碼內容使用的顏色</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
 </resources>

@@ -60,6 +60,18 @@
         <item>4 MB na vyrovnávací paměť protokolů</item>
         <item>16 MB na vyrovnávací paměť protokolů</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Vypnuto</item>
+        <item>Vše</item>
+        <item>Bezdrát. ne</item>
+        <item>pouze jádro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Vypnuto</item>
+        <item>Všechny vyrovnávací paměti protokolů</item>
+        <item>Všechny kromě protokolu bezdrátových modulů</item>
+        <item>pouze protokol vyrovnávací paměti jádra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animace je vypnuta</item>
         <item>Měřítko animace 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Přirozené barvy, jak je vidí oči</item>
         <item>Barvy optimalizované pro digitální obsah</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Hovor</item>
+        <item>Systém</item>
+        <item>Prozvonit</item>
+        <item>Média</item>
+        <item>Budík</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Zobrazovat hodiny, minuty a sekundy</item>
         <item>Zobrazovat hodiny a minuty (výchozí nastavení)</item>
@@ -169,4 +199,5 @@
         <item>Zobrazovat procento při nabíjení (výchozí nastavení)</item>
         <item>Tuto ikonu nezobrazovat</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

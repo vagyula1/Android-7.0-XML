@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play服务出错</string>
+    <string name="common_google_play_services_notification_needs_update_title">更新Google Play服务后才能运行应用。</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s需要更新 Android Wear 应用才能正常运行。</string>
+    <string name="common_google_play_services_needs_enabling_title">启用Google Play服务后才能运行应用。</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s发出的请求</string>
+    <string name="common_google_play_services_install_title">获取Google Play服务</string>
+    <string name="common_google_play_services_install_text_phone">您的手机没有安装 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_install_text_tablet">您的平板电脑没有安装 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_install_button">获取Google Play服务</string>
+    <string name="common_google_play_services_enable_title">启用Google Play服务</string>
+    <string name="common_google_play_services_enable_text">您必须先启用 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_google_play_services_enable_button">启用Google Play服务</string>
+    <string name="common_google_play_services_update_title">更新Google Play服务</string>
+    <string name="common_android_wear_update_title">更新Android Wear</string>
+    <string name="common_google_play_services_update_text">您必须先更新 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_android_wear_update_text">只有更新 Android Wear 应用后，%1$s才能正常运行。</string>
+    <string name="common_google_play_services_updating_title">Google Play 服务正在更新</string>
+    <string name="common_google_play_services_updating_text">Google Play 服务当前正在更新，因此您无法运行%1$s。</string>
+    <string name="common_google_play_services_network_error_title">网络错误</string>
+    <string name="common_google_play_services_network_error_text">您必须有数据网络连接才能接入Google Play服务。</string>
+    <string name="common_google_play_services_invalid_account_title">无效帐户</string>
+    <string name="common_google_play_services_invalid_account_text">此设备上不存在指定的帐户，请选择其他帐户。</string>
+    <string name="common_google_play_services_unknown_issue">Google Play服务出现未知问题。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play服务</string>
+    <string name="common_google_play_services_unsupported_text">要运行%1$s，必须先启用 Google Play 服务，但您的设备目前不支持该服务。请与制造商联系以寻求帮助。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_signin_button_text">登录</string>
+    <string name="common_signin_button_text_long">使用Google帐户登录</string>
+    <string name="common_open_on_phone">在手机上打开</string>
+    <string name="common_google_play_services_api_unavailable_text">运行%1$s所需的一项或多项 Google Play 服务目前无法使用。请与开发者联系以寻求帮助。</string>
+    <string name="common_google_play_services_sign_in_failed_title">登录失败</string>
+    <string name="common_google_play_services_sign_in_failed_text">登录该帐户时出错。请选择其他帐户。</string>
+    <string name="app_name">Google文字转语音引擎</string>
+    <string name="general_settings">常规设置</string>
+    <string name="license_activity_title">开放源代码许可</string>
+    <string name="license_activity_loading">正在加载...</string>
+    <string name="license_activity_unavailable">加载许可时出现问题。</string>
+    <string name="tts_settings_label">Google文字转语音选项</string>
+    <string name="voice_data_install_title">Google TTS语音数据</string>
+    <string name="install_data_header">下载数据包后，您的设备即可支持离线语音合成。</string>
+    <string name="download_invite_title">安装%1$s的语音数据包</string>
+    <string name="download_invite">启用%1$s的离线文本转语音功能</string>
+    <string name="install_voice_text_2">可供下载。</string>
+    <string name="download_in_progress">正在下载</string>
+    <string name="no_installable_voices">没有可下载的语音</string>
+    <string name="cancel">取消</string>
+    <string name="delete_voice_data">删除</string>
+    <string name="update">更新</string>
+    <string name="download">下载</string>
+    <string name="voice_installed">已安装。</string>
+    <string name="voice_installed_and_default">已安装并设为默认语言。</string>
+    <string name="download_notification_title">%1$s%2$s语音</string>
+    <string name="download_notification_description">用于文字转语音的语音数据</string>
+    <string name="download_success_title">已下载%1$s的语音数据包</string>
+    <string name="download_success_description">请触摸此通知以访问设置，并将此语音设置为默认语音。</string>
+    <string name="download_failure_title">下载%1$s的语音数据包时出错</string>
+    <string name="download_failure_description">请触摸此通知进行重试。</string>
+    <string name="download_failed_toast">无法启动语音数据包下载。</string>
+    <string name="manage_voice_data">管理语音数据包</string>
+    <string name="auto_update_title">自动更新语音数据包</string>
+    <string name="auto_update_wifi_title">仅使用WLAN</string>
+    <string name="auto_update_wifi_summary">仅使用WLAN下载语音数据。节省数据流量。</string>
+    <string name="feedback_title">反馈</string>
+    <string name="feedback_failed">无法打开反馈表单</string>
+    <string name="voices_type_title">语音类型</string>
+    <string name="voices_type_summary">[DOGFOOD]语音合成器类型</string>
+    <string name="analytics_title">匿名使用情况报告</string>
+    <string name="analytics_summary_on">开启</string>
+    <string name="analytics_summary_off">关闭</string>
+    <string name="analytics_screen_explanation">"开启此功能后，我们会收集匿名使用情况报告，这有助于我们更好地了解 Google 文字转语音功能在您设备上的成效。
+
+例如，我们会收集以下汇总指标：
+"<li><ul>"文字转语音功能的使用频率。
+"<li>文字转语音请求的成效。</li>"
+"<li>文字转语音功能使用的语言。</li>"
+"<li>文字转语音功能无法提供语音输出的频率。</li>"
+"</ul></li></string>
+    <string name="process_text_title">将“Google 文字转语音”条目添加到文字选择菜单</string>
+    <string name="process_text_summary">这一新条目可用于以语音读出所选文字。</string>
+    <string name="voice_pack_status_installed">已安装(%1$s)</string>
+    <string name="voice_pack_status_gender_female">女</string>
+    <string name="voice_pack_status_gender_male">男</string>
+    <string name="voice_entity_status_gender_female">女性 %1$d</string>
+    <string name="voice_entity_status_gender_male">男性 %1$d</string>
+    <string name="voice_entity_status_gender_unknown">未知性别 %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">旧版女性语音</string>
+    <string name="voice_pack_status_gender_male_legacy">旧版男性语音</string>
+    <string name="voice_pack_status_gender_unknown">未知性别</string>
+    <string name="voice_pack_status_updatable">有新版本</string>
+    <string name="voice_pack_status_downloadable">下载（约%1$s）</string>
+    <string name="voice_pack_status_locale_default">当前语音</string>
+    <string name="voice_pack_status_downloading">正在下载…</string>
+    <string name="voice_pack_name_high_quality">%1$s（高品质）</string>
+    <string name="voice_pack_description">"名称：%1$s 
+语言区域：%2$s 
+数据包大小：约%3$s 
+说话者性别：%4$s"</string>
+    <string name="voice_pack_action_download">下载（约%1$s）</string>
+    <string name="voice_pack_action_remove">删除</string>
+    <string name="voice_pack_action_update">更新（约%1$s）</string>
+    <string name="voice_pack_action_locale_default">将其设为%1$s的当前语音</string>
+    <string name="voice_pack_action_cancel">取消下载</string>
+    <string name="voice_pack_install_tab_installed">已安装</string>
+    <string name="voice_pack_install_tab_all">全部</string>
+    <string name="voice_pack_install_tab_settings">设置</string>
+    <string name="voice_entry_details">打开语音详情对话框</string>
+    <string name="voice_entry_edit_desc">打开语音数据包</string>
+    <string name="voice_entry_overflow_desc">其他语音数据包操作</string>
+    <string name="voice_entry_download_desc">下载语音数据包</string>
+    <string name="voice_entry_cancel_download_desc">取消下载语音数据包</string>
+    <string name="voice_entry_delete_desc">删除语音数据包</string>
+    <string name="voice_entry_sample">播放语音示例</string>
+    <string name="voice_pack_not_enough_space">可用内部存储空间不足。您需要释放一些空间才能安装此语音。</string>
+    <string name="action_settings">选项</string>
+    <string name="action_licenses">开放源代码许可</string>
+    <string name="action_voice_pack_update">更新</string>
+    <string name="action_voice_pack_uninstall">卸载</string>
+    <string name="voice_pack_uninstall_dialog">要卸载此语音吗？</string>
+    <string name="voice_pack_uninstall_keep">保留</string>
+    <string name="voice_pack_uninstall_uninstall">卸载</string>
+    <string name="voice_pack_unpack_failure">无法安装已下载的语音</string>
+    <string name="multi_voice_pack_title">%1$s语音</string>
+    <string name="multi_voice_pack_entry_name">语音组合 %1$d</string>
+    <string name="morphed_voice_set_title">语音组合</string>
+    <string name="select_voice_title">选择语音</string>
+    <string name="play_sample_text_button_description">听取%1$s示例</string>
+    <string name="voice_pack_no_download_manager">已停用或未安装下载管理器，因此无法下载语音数据包</string>
+    <string name="unpack_voice_pack_service_title">正在更新文字转语音数据</string>
+    <string name="unpack_voice_pack_service_text">正在解压…</string>
+    <string name="sample_text_synthesis_failure">无法为此语音合成示例。</string>
+    <string name="quick_wait_for_init">正在加载</string>
+    <string name="quick_synthesizing">正在转为语音</string>
+    <string name="quick_speaking">正在朗读</string>
+    <string name="quick_stopped">已停止</string>
+    <string name="quick_error">发生错误</string>
+</resources>

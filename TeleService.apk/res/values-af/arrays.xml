@@ -60,6 +60,18 @@
         <item>4 M per logbuffer</item>
         <item>16 M per logbuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Af</item>
+        <item>Alles</item>
+        <item>Alles behalwe radio</item>
+        <item>net kern</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Af</item>
+        <item>Alle loglêerbuffers</item>
+        <item>Alles behalwe radiologlêerbuffers</item>
+        <item>net kernloglêerbuffer</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasie af</item>
         <item>Animasieskaal .5x</item>
@@ -158,6 +170,11 @@
         <item>Verbeterde kleure</item>
         <item>Natuurlike kleure soos dit vir die oë lyk</item>
         <item>Kleure vir digitale inhoud geoptimeer</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globaal</item>

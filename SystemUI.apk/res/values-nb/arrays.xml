@@ -60,6 +60,18 @@
         <item>4M per loggbuffer</item>
         <item>16M per loggbuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Av</item>
+        <item>Alle</item>
+        <item>Unntatt radio</item>
+        <item>bare kjerne</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Av</item>
+        <item>Alle loggbuffere</item>
+        <item>Alle unntatt radiologgbuffere</item>
+        <item>bare kjerneloggbuffer</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasjon av</item>
         <item>Animasjonsskala 0,5 x</item>
@@ -159,6 +171,24 @@
         <item>Naturlige farger – som øyet ser dem</item>
         <item>Farger som er optimalisert for digitalt innhold</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Ring</item>
+        <item>System</item>
+        <item>Varsellyd</item>
+        <item>Medier</item>
+        <item>Alarmen</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Vis timer, minutter og sekunder</item>
         <item>Vis timer og minutter (standard)</item>
@@ -169,4 +199,5 @@
         <item>Vis prosentandel under lading (standard)</item>
         <item>Ikke vis dette ikonet</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

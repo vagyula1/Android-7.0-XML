@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StoriesEditTextTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:actionOverflowButtonStyle">@style/Widget.Photos.ActionBar.Inverse.Overflow</item>
+    </style>
+    <style name="Theme.Photos.BottomDialog" parent="@style/Theme.Photos.BaseBottomDialog">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.Dark" parent="@style/Theme.Photos.Dark.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.Expander" parent="@style/Theme.Photos">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+    <style name="Theme.Photos.Fullscreen" parent="@style/Theme.Photos.Fullscreen.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.Fullscreen.OpaqueNavigation" parent="@style/Theme.Photos.Fullscreen.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="Theme.Photos.Fullscreen.WhiteTitle" parent="@style/Theme.Photos.Fullscreen.WhiteTitle.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.Search" parent="@style/Theme.Photos.Search.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.TranslucentNav" parent="@style/Theme.Photos">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.Photos.TransparentActionBar" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:actionOverflowButtonStyle">@style/Widget.Photos.ActionBar.Inverse.Overflow</item>
+        <item name="android:homeAsUpIndicator">@drawable/quantum_ic_arrow_back_white_24</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Photos.ActionBar.Inverse.Overflow</item>
+        <item name="actionBarStyle">@style/Photos.ActionBar.Transparent</item>
+        <item name="homeAsUpIndicator">@drawable/quantum_ic_arrow_back_white_24</item>
+        <item name="colorAccent">@color/quantum_white_100</item>
+    </style>
+    <style name="Theme.Story" parent="@style/Theme.Photos.TransparentActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:actionBarItemBackground">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="actionBarItemBackground">@android:color/transparent</item>
+    </style>
+    <style name="mm_ShareTheme" parent="@style/Theme.Photos">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="icon">@android:color/transparent</item>
+        <item name="logo">@android:color/transparent</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="actionBarStyle">@style/mm_ActionBar</item>
+    </style>
+</resources>

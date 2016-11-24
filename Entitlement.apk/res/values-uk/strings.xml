@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дозвіл</string>
+    <string name="feature_check_msg">Перевірка стану передплати. Зачекайте, будь ласка...</string>
+    <string name="vzw_self_provisioning_msg">"Для використання Mobile Hotspot, вам необхідно підписатися на послугу Mobile Hotspot.
+Дізнайтеся більше та підпишіться на Mobile Hotspot, відвідавши My Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Відміна</string>
+    <string name="vzw_self_provisioning_learn_more">Деталі</string>
+    <string name="vzw_error_msg_title">Ваш запит не може бути оброблений.</string>
+    <string name="vzw_error_msg">"Якщо Ви бажаєте замовити передплату на Мобільну точку доступу Mobile Hotspot/Широкосмугове мобільне підключення до мережі, дзвоніть:
+ Фізичні особи: (800) 256-4646,
+ Юридичні особи: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Потрібен апгрейд послуги</string>
+    <string name="tmo_error_msg">Ваш поточний тарифний план не включає послугу Мобільна точка доступу для смартфону Mobile Hotspot, яка дає Вам можливість ділитися передачею даних Вашого телефону з іншими приладами. Бажаєте додати послугу Мобільна точка доступу для смартфону Mobile Hotspot до вашого тарифного плану? Ви можете додати цю послугу також онлайн: https://my.t-mobile.com under Manage > Plans and Services. &lt;</string>
+    <string name="retv_terms_conditions_msg">Перевірка стану передплати. Зачекайте, будь ласка...</string>
+    <string name="change_data_request_msg">Надсилання замовлення на надання послуги. Зачекайте, будь ласка...</string>
+    <string name="alert_dialog_failure_title">Ваш запит не може бути оброблений.</string>
+    <string name="alert_dialog_failure_msg">Спробуйте пізніше.</string>
+    <string name="network_connection_title">"Помилка з'єднання мережі"</string>
+    <string name="network_connection_error_msg">"Ваш телефон наразі не може підключитися до серверу %s'. Будь ласка, спробуйте ще раз пізніше."</string>
+    <string name="alert_dialog_upgrade_button">Оновлення</string>
+    <string name="alert_dialog_later_button">Пізніше</string>
+    <string name="current_subscription">(поточна передплата)</string>
+    <string name="unavailable_subscription">(не доступна на основі рівня зберігання)</string>
+    <string name="request_pending_title">Очікування надання послуги</string>
+    <string name="request_pending_error_msg">Сервер Verizon обробляє Ваш запит. Будь ласка, спробуйте ще раз через 5 хвилин.</string>
+    <string name="browser_error_msg">Неможливо відкрити браузер.</string>
+    <string name="att_error_msg">Для підключення перейдіть до: att.com/mywireless або наберіть 611</string>
+    <string name="att_error_msg_title">Обліковий запис не налаштовано для прив’язування</string>
+    <string name="att_error_msg_other">Виявлено тимчасову проблему у мережі, яка перешкоджає активації мобільної точки доступу. Спробуйте пізніше</string>
+    <string name="att_error_msg_other_title">Помилка мережі</string>
+    <string name="sprint_error_msg">"Неможливо підключитися до мережі даних; Ви не можете бути підписаним на послугу Тетеринг або Точка доступу; Зв'яжіться зі своєю телефонною к"</string>
+    <string name="sprint_error_msg_title">Помилка створення точки доступу або точки доступу</string>
+    <string name="sprint_notification_msg">Натисніть, щоб отримати детальну інформацію.</string>
+    <string name="term_and_conditions_title">Умови і положення</string>
+    <string name="sbm_content_activity_title">Умови угоди</string>
+    <string name="consent_title">Умови угоди</string>
+    <string name="consent_message">"Для того щоб використовувати цей додаток, Ви повинні погодитися та надіслати наступну інформацію. Після перевірки її змісту, будь ласка, продовжуйте.
+
+[Надіслати інформацію]
+Специфічний ідентифікатор Підрядника 
+[Використати додатки]
+Замовлення на використання додатку для створення точки доступу"</string>
+    <string name="consent_terms_btn">Умови обслуговування</string>
+    <string name="concent_disagree_btn">Не приймаю</string>
+    <string name="concent_agree_btn">Прийняти</string>
+    <string name="sbm_error_msg_title">Помилка створення точки доступу або точки доступу</string>
+    <string name="sbm_error_msg">Неможливо підключитися до мережі передачі даних.</string>
+    <string name="sbm_error_msg_not_subscribed">Не вдалося перевірити передплату на маршрутизацію.</string>
+    <string name="sbm_error_msg_not_authenticated">"Збій аутентифiкацiї.
+(Код помилки %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Збій аутентифiкацiї. Повторіть спробу в розташуванні з гарним прийомом сигналу.</string>
+</resources>

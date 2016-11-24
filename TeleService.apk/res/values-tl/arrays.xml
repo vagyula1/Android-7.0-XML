@@ -60,6 +60,18 @@
         <item>4M kada log buffer</item>
         <item>16M kada log buffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Naka-off</item>
+        <item>Lahat</item>
+        <item>Maliban sa radyo</item>
+        <item>kernel lang</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Naka-off</item>
+        <item>Lahat ng buffer ng log</item>
+        <item>Lahat maliban sa buffer ng log ng radyo</item>
+        <item>kernel log buffer lang</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Naka-off ang animation</item>
         <item>Scale ng animation .5x</item>
@@ -159,6 +171,11 @@
         <item>Mga natural na kulay tulad ng nakikita ng mata</item>
         <item>Mga kulay na naka-optimize para sa digital na content</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Pandaigdigan</item>
         <item>LTE / CDMA</item>
@@ -190,9 +207,9 @@
         <item>Ninanais ang GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>Ingles</item>
+        <item>English</item>
         <item>French</item>
-        <item>Espanyol</item>
+        <item>Spanish</item>
         <item>Japanese</item>
         <item>Korean</item>
         <item>Chinese</item>

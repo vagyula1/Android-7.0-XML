@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_notification_needs_update_title">Google Play-tjänster måste uppdateras för en app ska fungera.</string>
+    <string name="common_android_wear_notification_needs_update_text">En uppdatering av appen Android Wear krävs för %1$s.</string>
+    <string name="common_google_play_services_needs_enabling_title">Google Play-tjänster måste aktiveras för att en app ska fungera.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Begärdes av %1$s</string>
+    <string name="common_google_play_services_install_title">Hämta Google Play Tjänster</string>
+    <string name="common_google_play_services_install_text_phone">%1$s kan inte köras utan Google Play-tjänster, och dessa saknas på mobilen.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s kan inte köras utan Google Play-tjänster, och dessa saknas på surfplattan.</string>
+    <string name="common_google_play_services_install_button">Hämta Google Play Tjänster</string>
+    <string name="common_google_play_services_enable_title">Aktivera Google Play Tjänster</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string name="common_google_play_services_enable_button">Aktivera Google Play Tjänster</string>
+    <string name="common_google_play_services_update_title">Uppdatera Google Play Tjänster</string>
+    <string name="common_android_wear_update_title">Uppdatera Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</string>
+    <string name="common_android_wear_update_text">%1$s körs inte om du inte uppdaterar appen Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjänsterna uppdateras</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_network_error_title">Nätverksfel</string>
+    <string name="common_google_play_services_network_error_text">En dataanslutning krävs för att ansluta till Google Plays tjänster.</string>
+    <string name="common_google_play_services_invalid_account_title">Ogiltigt konto</string>
+    <string name="common_google_play_services_invalid_account_text">Det angivna kontot finns inte på den här enheten. Välj ett annat konto.</string>
+    <string name="common_google_play_services_unknown_issue">Okänt problem med Google Play Tjänster</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjänster</string>
+    <string name="common_google_play_services_unsupported_text">För %1$s krävs Google Play-tjänster, och dessa stöds inte på enheten. Kontakta tillverkaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_update_button">Uppdatera</string>
+    <string name="common_signin_button_text">Logga in</string>
+    <string name="common_signin_button_text_long">Logga in med Google</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_google_play_services_api_unavailable_text">För %1$s krävs en eller flera Google Play-tjänster som inte är tillgängliga för närvarande. Kontakta utvecklaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Det gick inte att logga in</string>
+    <string name="common_google_play_services_sign_in_failed_text">Ett fel uppstod när du försökte logga in på kontot. Välj ett annat konto.</string>
+    <string name="app_name">Googles text-till-tal-motor</string>
+    <string name="general_settings">Allmänna inställningar</string>
+    <string name="license_activity_title">Licenser för öppen källkod</string>
+    <string name="license_activity_loading">Läser in ...</string>
+    <string name="license_activity_unavailable">Ett problem inträffade när licenserna lästes in.</string>
+    <string name="tts_settings_label">Alternativ i Google TTS</string>
+    <string name="voice_data_install_title">Röstdata för Google TTS</string>
+    <string name="install_data_header">Ladda ned dessa data om du vill ha stöd för talsyntes på enheten.</string>
+    <string name="download_invite_title">Installera text-till-tal-röst för %1$s</string>
+    <string name="download_invite">Aktivera text-till-tal offline för %1$s</string>
+    <string name="install_voice_text_2">Kan laddas ned.</string>
+    <string name="download_in_progress">Nedladdning pågår</string>
+    <string name="no_installable_voices">Det finns inga röster att hämta</string>
+    <string name="cancel">Avbryt</string>
+    <string name="delete_voice_data">Ta bort</string>
+    <string name="update">Uppdatera</string>
+    <string name="download">Ladda ned</string>
+    <string name="voice_installed">Installerat.</string>
+    <string name="voice_installed_and_default">Installerat och valt som standard.</string>
+    <string name="download_notification_title">%2$s för %1$s</string>
+    <string name="download_notification_description">Röstdata för text till tal</string>
+    <string name="download_success_title">Hämtade röstdata för %1$s</string>
+    <string name="download_success_description">Tryck här om du vill öppna inställningarna och ange den här rösten som standard.</string>
+    <string name="download_failure_title">Fel vid hämtning av röstdata för %1$s</string>
+    <string name="download_failure_description">Tryck om du vill försöka igen.</string>
+    <string name="download_failed_toast">Det gick inte att starta nedladdning av röstpaket.</string>
+    <string name="manage_voice_data">Hantera röstdata</string>
+    <string name="auto_update_title">Uppdatera röster automatiskt</string>
+    <string name="auto_update_wifi_title">Använd endast Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Ladda ned endast röstdata med Wi-Fi. Det innebär mindre dataanvändning.</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_failed">Det gick inte att öppna feedbackformuläret</string>
+    <string name="voices_type_title">Typ av röster</string>
+    <string name="voices_type_summary">[TESTVERSION]Typ av talsyntes</string>
+    <string name="analytics_title">Anonyma användningsrapporter</string>
+    <string name="analytics_summary_on">På</string>
+    <string name="analytics_summary_off">Av</string>
+    <string name="analytics_screen_explanation">"När funktionen är aktiverad samlar vi in anonyma användningsrapporter. Det ger oss en bättre förståelse för hur Googles text till tal presterar på din enhet.
+
+Exempel på sammanställda mätvärden som vi samlar in:
+"<li><ul>"Hur ofta text till tal används.
+"<li>Hur text till tal-begäranden presterar.</li>"
+"<li>Vilka språk som används.</li>"
+"<li>Hur ofta text till tal misslyckas med att leverera talad feedback.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Lägg till GoogleTTS i markeringsmenyn</string>
+    <string name="process_text_summary">Med det här nya menyalternativet bearbetas all markerad text av talsyntesmotorn.</string>
+    <string name="voice_pack_status_installed">Har installerats (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Kvinna</string>
+    <string name="voice_pack_status_gender_male">Man</string>
+    <string name="voice_entity_status_gender_female">Kvinna %1$d</string>
+    <string name="voice_entity_status_gender_male">Man %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Okänt kön %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Kvinnlig äldre röst</string>
+    <string name="voice_pack_status_gender_male_legacy">Manlig äldre röst</string>
+    <string name="voice_pack_status_gender_unknown">Okänt kön</string>
+    <string name="voice_pack_status_updatable">Uppdatering tillgänglig</string>
+    <string name="voice_pack_status_downloadable">Ladda ned (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Aktuell röst</string>
+    <string name="voice_pack_status_downloading">Hämtar ...</string>
+    <string name="voice_pack_name_high_quality">%1$s (hög kvalitet)</string>
+    <string name="voice_pack_description">"Namn: %1$s 
+Språkkod: %2$s 
+Datastorlek: ~%3$s 
+Talarens kön: %4$s"</string>
+    <string name="voice_pack_action_download">Ladda ned (~%1$s)</string>
+    <string name="voice_pack_action_remove">Ta bort</string>
+    <string name="voice_pack_action_update">Uppdatera (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Använd som aktuell röst för %1$s</string>
+    <string name="voice_pack_action_cancel">Avbryt nedladdning</string>
+    <string name="voice_pack_install_tab_installed">INSTALLERADE</string>
+    <string name="voice_pack_install_tab_all">ALLA</string>
+    <string name="voice_pack_install_tab_settings">INSTÄLLNINGAR</string>
+    <string name="voice_entry_details">Starta röstinformationsdialogen</string>
+    <string name="voice_entry_edit_desc">Öppna röstpaket</string>
+    <string name="voice_entry_overflow_desc">Ytterligare åtgärder för röstpaket</string>
+    <string name="voice_entry_download_desc">Ladda ned röstpaket</string>
+    <string name="voice_entry_cancel_download_desc">Avbryt nedladdning av röstpaket.</string>
+    <string name="voice_entry_delete_desc">Ta bort röstpaket</string>
+    <string name="voice_entry_sample">Spela upp röstexempel</string>
+    <string name="voice_pack_not_enough_space">För lite utrymme i internminnet. Frigör utrymme för att installera rösten.</string>
+    <string name="action_settings">Alternativ</string>
+    <string name="action_licenses">Licenser, öppen källkod</string>
+    <string name="action_voice_pack_update">Uppdatera</string>
+    <string name="action_voice_pack_uninstall">Avinstallera</string>
+    <string name="voice_pack_uninstall_dialog">Avinstallera rösten?</string>
+    <string name="voice_pack_uninstall_keep">Behåll</string>
+    <string name="voice_pack_uninstall_uninstall">Avinstallera</string>
+    <string name="voice_pack_unpack_failure">Det gick inte att installera den hämtade rösten</string>
+    <string name="multi_voice_pack_title">%1$s röster</string>
+    <string name="multi_voice_pack_entry_name">Röstuppsättning %1$d</string>
+    <string name="morphed_voice_set_title">Röstuppsättning</string>
+    <string name="select_voice_title">Välj röst</string>
+    <string name="play_sample_text_button_description">Spela upp exempeltexten för %1$s</string>
+    <string name="voice_pack_no_download_manager">Nedladdningshanteraren är inaktiverad eller saknas; det går inte att ladda ned röstpaket</string>
+    <string name="unpack_voice_pack_service_title">Uppdaterar data för text till tal</string>
+    <string name="unpack_voice_pack_service_text">Packar upp ...</string>
+    <string name="sample_text_synthesis_failure">Det gick inte att ta fram ett exempel för den här rösten.</string>
+    <string name="quick_wait_for_init">Innehållet läses in</string>
+    <string name="quick_synthesizing">Talsyntes pågår</string>
+    <string name="quick_speaking">Läser upp</string>
+    <string name="quick_stopped">Stoppad</string>
+    <string name="quick_error">Fel</string>
+</resources>

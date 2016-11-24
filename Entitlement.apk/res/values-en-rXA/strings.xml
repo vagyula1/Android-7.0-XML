@@ -1,36 +1,60 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="alert_dialog_later_button">[Ļåţéŕ one]</string>
-  <string name="alert_dialog_negative_button">[Çåñçéļ one two]</string>
-  <string name="alert_dialog_no_button">[Ñö one]</string>
-  <string name="alert_dialog_positive_button">[ÖĶ one]</string>
-  <string name="alert_dialog_upgrade_button">[Ûþĝŕåðé one two]</string>
-  <string name="alert_dialog_yes_button">[Ýéš one]</string>
-  <string name="app_name">[Éñţîţļéḿéñţ one two]</string>
-  <string name="att">[ÅŢ&amp;T</string>
-  <string name="att_error_msg">[Ţö éñåɓļé, ĝö ţö åţţ.çöḿ/ḿýŵîŕéļéšš öŕ ðîåļ 611 one two three four five six]</string>
-  <string name="att_error_msg_other">[Ţĥéŕé îš å ţéḿþöŕåŕý ñéţŵöŕķ þŕöɓļéḿ ţĥåţ þŕéVéñţš ţĥé éñåɓļéḿéñţ öƒ ţĥé Ḿöɓîļé Ĥöţšþöţ ƒûñçţîöñ. Þļéåšé ŕéţŕý ļåţéŕ one two three four five six seven eight nine ten eleven twelve]</string>
-  <string name="att_error_msg_other_title">[Ñéţŵöŕķ Éŕŕöŕ one two]</string>
-  <string name="att_error_msg_title">[Åççöûñţ ñöţ šéţ ûþ ƒöŕ ţéţĥéŕîñĝ one two three four]</string>
-  <string name="browser_error_msg">[Çåññöţ öþéñ ɓŕöŵšéŕ. one two three]</string>
-  <string name="feature_check_msg">[Çĥéçķîñĝ šûɓšçŕîþţîöñ šţåţûš. Þļéåšé Ŵåîţ... one two three four five]</string>
-  <string name="mobile_hotspot">[Ḿöɓîļé Ĥöţšþöţ one two three]</string>
-  <string name="network_connection_error_msg">"[Ýöûŕ þĥöñé çåññöţ çûŕŕéñţļý çöññéçţ ţö »%s«'š šéŕVéŕ. Þļéåšé ţŕý åĝåîñ ļåţéŕ. one two three four five six seven eight]"</string>
-  <string name="network_connection_title">[Ñéţŵöŕķ çöññéçţîöñ éŕŕöŕ one two three]</string>
-  <string name="spg_dlg_linktext">[&lt;a href="https://mobile.vzw.com/hybridClient/mvm/hotspot"&gt;&amp;#315;&amp;#233;&amp;#229;&amp;#341;&amp;#241; &amp;#7743;&amp;#246;&amp;#341;&amp;#233; &amp;#229;&amp;#241;&amp;#240; &amp;#353;&amp;#251;&amp;#595;&amp;#353;&amp;#231;&amp;#341;&amp;#238;&amp;#595;&amp;#233; &amp;#355;&amp;#246; &amp;#7742;&amp;#246;&amp;#595;&amp;#238;&amp;#316;&amp;#233; &amp;#292;&amp;#246;&amp;#355;&amp;#353;&amp;#254;&amp;#246;&amp;#355; &amp;#595;&amp;#253; V&amp;#238;&amp;#353;&amp;#238;&amp;#355;&amp;#238;&amp;#241;&amp;#285; &amp;#7742;&amp;#253; &amp;#957;&amp;#233;&amp;#341;&amp;#238;&amp;#382;&amp;#246;&amp;#241;.&lt;/a&gt; one two three four five six seven eight]</string>
-  <string name="spg_dlg_normaltext">[Ţö ûšé Ḿöɓîļé Ĥöţšþöţ, ýöû ŵîļļ ñééð ţö šûɓšçŕîɓé ţö ţĥé Ḿöɓîļé Ĥöţšþöţ šéŕVîçé one two three four five six seven eight nine]</string>
-  <string name="sprint">[Šþŕîñţ one two]</string>
-  <string name="sprint_error_msg">[Ûñåɓļé ţö çöññéçţ ţö ðåţå ñéţŵöŕķ; Ýöû ḿåý ñöţ ɓé šûɓšçŕîɓéð ţö Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ šéŕVîçé; þļéåšé çöñţåçţ ýöûŕ þĥöñé çöḿþåñý. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
-  <string name="sprint_error_msg_3g">[Ûñåɓļé ţö çöññéçţ ţö ðåţå ñéţŵöŕķ, ţûŕñîñĝ öƒƒ Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ. Ýöûŕ þļåñ ḿåý ñöţ ĥåVé ţĥé Ţéţĥéŕîñĝ åñð Ĥöţšþöţ šéŕVîçé. Ðö ýöû ŵåñţ ţö šéé šûɓšçŕîþţîöñ öþţîöñš¿ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
-  <string name="sprint_error_msg_lte">[Ýöû åŕé ñöţ šûɓšçŕîɓéð ţö Ţéţĥéŕîñĝ åñð Ĥöţšþöţ šéŕVîçé, Ðö ýöû ŵåñţ ţö šéé šûɓšçŕîþţîöñ öþţîöñš¿ one two three four five six seven eight nine ten eleven]</string>
-  <string name="sprint_error_msg_title">[Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ Éŕŕöŕ one two three four]</string>
-  <string name="sprint_notification_msg">[Ţöûçĥ ţö šéé ḿöŕé ðéţåîļš one two three]</string>
-  <string name="tmo">[Ţ-Ḿöɓîļé one two]</string>
-  <string name="tmo_error_msg">"[Ýöûŕ çûŕŕéñţ ŕåţé þļåñ ðöéš ñöţ îñçļûðé ţĥé Šḿåŕţþĥöñé Ḿöɓîļé ĤöţŠþöţ šéŕVîçé ŵĥîçĥ éñåɓļéš šĥåŕîñĝ ýöûŕ þĥöñé'š ðåţå çöññéçţîöñ ŵîţĥ öţĥéŕ ðéVîçéš. Ðö ýöû ŵåñţ ţö åðð ţĥé Šḿåŕţþĥöñé Ḿöɓîļé ĤöţŠþöţ šéŕVîçé ţö ýöûŕ ŕåţé þļåñ¿ Ýöû çåñ åļšö åðð îţ öñļîñé åţ ĥţţþš://ḿý.ţ-ḿöɓîļé.çöḿ ûñðéŕ Ḿåñåĝé &gt; Þļåñš åñð ŠéŕVîçéš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
-  <string name="tmo_error_msg_title">[ŠéŕVîçé ûþĝŕåðé ŕéQûîŕéð one two three]</string>
-  <string name="verizon">[νéŕîžöñ one two]</string>
-  <string name="vzw_error_msg">"[Îƒ ýöû ŵöûļð ļîķé ţö šûɓšçŕîɓé ţö Ḿöɓîļé Ĥöţšþöţ/Ḿöɓîļé βŕöåðɓåñð Çöññéçţ, çåļļ: 
- Çöñšûḿéŕ: (800) 256-4646, 
- βûšîñéšš: (800) 899-4249. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]"</string>
-  <string name="vzw_error_msg_title">[Ýöûŕ öŕðéŕ çöûļð ñöţ ɓé þŕöçéššéð one two three four]</string>
+    <string name="app_name">[Éñţîţļéḿéñţ one two]</string>
+    <string name="feature_check_msg">[Çĥéçķîñĝ šûɓšçŕîþţîöñ šţåţûš. Þļéåšé Ŵåîţ... one two three four five]</string>
+    <string name="vzw_self_provisioning_msg">[Ţö ûšé Ḿöɓîļé Ĥöţšþöţ, ýöû ŵîļļ ñééð ţö šûɓšçŕîɓé ţö ţĥé Ḿöɓîļé Ĥöţšþöţ šéŕVîçé. Ļéåŕ ḿöŕé åñð šûɓšçŕîɓé ţö Ḿöɓîļé Ĥöţšþöţ ɓý Vîšîţîñĝ Ḿý νéŕîžöñ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="vzw_self_provisioning_cancel">[Çåñçéļ one two]</string>
+    <string name="vzw_self_provisioning_learn_more">[Ļéåŕñ ḿöŕé one two]</string>
+    <string name="vzw_error_msg_title">[Ýöûŕ öŕðéŕ çöûļð ñöţ ɓé þŕöçéššéð one two three four]</string>
+    <string name="vzw_error_msg">"[Îƒ ýöû ŵöûļð ļîķé ţö šûɓšçŕîɓé ţö Ḿöɓîļé Ĥöţšþöţ/Ḿöɓîļé βŕöåðɓåñð Çöññéçţ, çåļļ:
+Çöñšûḿéŕ: (800) 256-4646,
+βûšîñéšš: (800) 899-4249. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two]"</string>
+    <string name="tmo_error_msg_title">[ŠéŕVîçé ûþĝŕåðé ŕéQûîŕéð one two three]</string>
+    <string name="tmo_error_msg">"[Ýöûŕ çûŕŕéñţ ŕåţé þļåñ ðöéš ñöţ îñçļûðé ţĥé Šḿåŕţþĥöñé Ḿöɓîļé ĤöţŠþöţ šéŕVîçé ŵĥîçĥ éñåɓļéš šĥåŕîñĝ ýöûŕ þĥöñé'š ðåţå çöññéçţîöñ ŵîţĥ öţĥéŕ ðéVîçéš. Ðö ýöû ŵåñţ ţö åðð ţĥé Šḿåŕţþĥöñé Ḿöɓîļé ĤöţŠþöţ šéŕVîçé ţö ýöûŕ ŕåţé þļåñ¿ Ýöû çåñ åļšö åðð îţ öñļîñé åţ ĥţţþš://ḿý.ţ-ḿöɓîļé.çöḿ ûñðéŕ Ḿåñåĝé > Þļåñš åñð ŠéŕVîçéš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="retv_terms_conditions_msg">[Çĥéçķîñĝ šûɓšçŕîþţîöñ šţåţûš. Þļéåšé Ŵåîţ... one two three four five]</string>
+    <string name="change_data_request_msg">[Šéñðîñĝ ŕéQûéšţ ƒöŕ þŕöVîšîöñîñĝ. Þļéåšé ŵåîţ... one two three four five six]</string>
+    <string name="alert_dialog_failure_title">[Ýöûŕ öŕðéŕ çöûļð ñöţ ɓé þŕöçéššéð one two three four]</string>
+    <string name="alert_dialog_failure_msg">[Þļéåšé ţŕý åĝåîñ ļåţéŕ. one two three]</string>
+    <string name="network_connection_title">[Ñéţŵöŕķ çöññéçţîöñ éŕŕöŕ one two three]</string>
+    <string name="network_connection_error_msg">"[Ýöûŕ þĥöñé çåññöţ çûŕŕéñţļý çöññéçţ ţö »%s«'š šéŕVéŕ. Þļéåšé ţŕý åĝåîñ ļåţéŕ. one two three four five six seven eight]"</string>
+    <string name="mobile_hotspot">[Ḿöɓîļé Ĥöţšþöţ one two three]</string>
+    <string name="vcast_media_manager">[βåçķûþ Åššîšţåñţ Þļûš one two three]</string>
+    <string name="alert_dialog_positive_button">[ÖĶ one]</string>
+    <string name="alert_dialog_upgrade_button">[Ûþĝŕåðé one two]</string>
+    <string name="alert_dialog_later_button">[Ļåţéŕ one]</string>
+    <string name="current_subscription">[(çûŕŕéñţ šûɓšçŕîþţîöñ) one two three]</string>
+    <string name="unavailable_subscription">[(ûñåVåîļåɓļé ɓåšéð öñ šţöŕåĝé ļéVéļ) one two three four five]</string>
+    <string name="request_pending_title">[ÞŕöVîšîöñîñĝ Þéñðîñĝ one two three]</string>
+    <string name="request_pending_error_msg">"[νéŕîžöñ'š šéŕVéŕ îš þŕöçéššîñĝ ýöûŕ ŕéQûéšţ. Þļéåšé ţŕý åĝåîñ îñ 5 ḿîñûţéš. one two three four five six seven eight]"</string>
+    <string name="browser_error_msg">[Çåññöţ öþéñ ɓŕöŵšéŕ. one two three]</string>
+    <string name="att_error_msg">[Ţö éñåɓļé, ĝö ţö åţţ.çöḿ/ḿýŵîŕéļéšš öŕ ðîåļ 611 one two three four five six]</string>
+    <string name="att_error_msg_title">[Åççöûñţ ñöţ šéţ ûþ ƒöŕ ţéţĥéŕîñĝ one two three four]</string>
+    <string name="att_error_msg_other">[Ţĥéŕé îš å ţéḿþöŕåŕý ñéţŵöŕķ þŕöɓļéḿ ţĥåţ þŕéVéñţš ţĥé éñåɓļéḿéñţ öƒ ţĥé Ḿöɓîļé Ĥöţšþöţ ƒûñçţîöñ. Þļéåšé ŕéţŕý ļåţéŕ one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="att_error_msg_other_title">[Ñéţŵöŕķ Éŕŕöŕ one two]</string>
+    <string name="sprint_error_msg">[Ûñåɓļé ţö çöññéçţ ţö ðåţå ñéţŵöŕķ; Ýöû ḿåý ñöţ ɓé šûɓšçŕîɓéð ţö Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ šéŕVîçé; þļéåšé çöñţåçţ ýöûŕ þĥöñé çöḿþåñý. one two three four five six seven eight nine ten eleven twelve thirteen]</string>
+    <string name="sprint_error_msg_title">[Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ Éŕŕöŕ one two three four]</string>
+    <string name="sprint_notification_msg">[Ţöûçĥ ţö šéé ḿöŕé ðéţåîļš one two three]</string>
+    <string name="att">[ÅŢ&amp;T</string>
+    <string name="verizon">[νéŕîžöñ one two]</string>
+    <string name="tmo">[Ţ-Ḿöɓîļé one two]</string>
+    <string name="sprint">[Šþŕîñţ one two]</string>
+    <string name="sbm">[Šöƒţβåñķ one two]</string>
+    <string name="term_and_conditions_title">[Ţéŕḿš åñð Çöñðîţîöñš one two three]</string>
+    <string name="sbm_content_activity_title">[Ţéŕḿš öƒ åĝŕééḿéñţ one two three]</string>
+    <string name="consent_title">[Ţéŕḿš öƒ åĝŕééḿéñţ one two three]</string>
+    <string name="consent_message">"[Îñ öŕðéŕ ţö ûšé ţĥîš åþþļîçåţîöñ, ýöû ñééð ţö åĝŕéé åñð šéñð ţĥé ƒöļļöŵîñĝ îñƒöŕḿåţîöñ. Öñ ţĥé çöñţéñţš öƒ ţĥé çĥéçķ, þļéåšé þŕöçééð ţĥéñ.
+
+[Šéñð îñƒöŕḿåţîöñ]
+Çöñţŕåçţöŕ-šþéçîƒîç ÎÐ
+[Ûšé åþþļîçåţîöñš]
+Öŕðéŕ ţö ûšé ţĥé ţéţĥéŕîñĝ åþþļîçåţîöñ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+    <string name="consent_terms_btn">[Ţéŕḿš öƒ šéŕVîçé one two three]</string>
+    <string name="concent_disagree_btn">[Ðîšåĝŕéé one two]</string>
+    <string name="concent_agree_btn">[Åĝŕéé one]</string>
+    <string name="sbm_error_msg_title">[Ţéţĥéŕîñĝ öŕ Ĥöţšþöţ Éŕŕöŕ one two three four]</string>
+    <string name="sbm_error_msg">[Ûñåɓļé ţö çöññéçţ ţö ðåţå ñéţŵöŕķ. one two three four]</string>
+    <string name="sbm_error_msg_not_subscribed">[Fåîļéð ţö Véŕîƒý ýöûŕ šûɓšçŕîþţîöñ ţö Ţéţĥéŕîñĝ Öþţîöñ. one two three four five six seven]</string>
+    <string name="sbm_error_msg_not_authenticated">"[Åûţĥéñţîçåţîöñ ƒåîļéð.
+(Éŕŕöŕ Çöðé »%1$s«) one two three four]"</string>
+    <string name="sbm_error_msg_no_response">[Åûţĥéñţîçåţîöñ ƒåîļéð. Þļéåšé ţŕý åĝåîñ îñ å ļöçåţîöñ ŵîţĥ ĝööð ŕéçéþţîöñ. one two three four five six seven eight]</string>
 </resources>

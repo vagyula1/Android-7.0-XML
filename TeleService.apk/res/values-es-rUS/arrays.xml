@@ -60,6 +60,18 @@
         <item>4 M/búfer registro</item>
         <item>16 M/búfer registro</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desactivado</item>
+        <item>Todo</item>
+        <item>Excepto radio</item>
+        <item>solo kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desactivado</item>
+        <item>Todos los búferes de registro</item>
+        <item>Todos los búferes de registro, excepto radio</item>
+        <item>solo búfer de registro de kernel</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animación desactivada</item>
         <item>Escala de animación 0.5x</item>
@@ -159,6 +171,11 @@
         <item>Colores naturales como los ve el ojo</item>
         <item>Colores optimizados para contenido digital</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>
         <item>LTE/CDMA</item>
@@ -221,7 +238,7 @@
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY desactivado</item>
-        <item>TTY total</item>
+        <item>TTY completo</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>

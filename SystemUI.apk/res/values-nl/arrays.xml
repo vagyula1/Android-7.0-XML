@@ -60,6 +60,18 @@
         <item>4 M per logbuffer</item>
         <item>16 M per logbuffer</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Uit</item>
+        <item>Alle</item>
+        <item>Alle beh. keuzerondje</item>
+        <item>alleen kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Uit</item>
+        <item>Alle logboekbuffers</item>
+        <item>Alle logboekbuffers behalve voor keuzerondjes</item>
+        <item>alleen kernel-logbuffer</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animatie uit</item>
         <item>Animatieschaal 0,5x</item>
@@ -159,6 +171,24 @@
         <item>Natuurlijke kleuren zoals gezien door het menselijk oog</item>
         <item>Kleuren geoptimaliseerd voor digitale content</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Bellen</item>
+        <item>Systeem</item>
+        <item>Bellen</item>
+        <item>Media</item>
+        <item>Alarm</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Uren, minuten en seconden weergeven</item>
         <item>Uren en minuten weergeven (standaard)</item>
@@ -169,4 +199,5 @@
         <item>Percentage weergeven tijdens opladen (standaard)</item>
         <item>Dit pictogram niet weergeven</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

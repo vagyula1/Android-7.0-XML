@@ -60,6 +60,18 @@
         <item>4M per penimbal log</item>
         <item>16M per penimbal log</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Mati</item>
+        <item>Semua</item>
+        <item>Sma kcli radio</item>
+        <item>inti sahaja</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Mati</item>
+        <item>Semua penimbal log</item>
+        <item>Semua kecuali penimbal log radio</item>
+        <item>penimbal log inti sahaja</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasi dimatikan</item>
         <item>Skala animasi .5x</item>
@@ -158,6 +170,11 @@
         <item>Warna dipertingkat</item>
         <item>Warna semula jadi seperti yang dilihat oleh mata</item>
         <item>Warna dioptimumkan untuk kandungan digital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Global</item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomSheetAcceptButton" parent="@style/Widget.AppCompat.Button">
+        <item name="android:layout_marginStart">@dimen/bottom_sheet_padding_bottom</item>
+    </style>
+    <style name="BottomSheetButtonsContainer">
+        <item name="android:gravity">end</item>
+    </style>
+    <style name="BottomSheetDialogContentWrapper">
+        <item name="android:paddingEnd">@dimen/bottom_sheet_dialog_margin</item>
+    </style>
+    <style name="BottomSheetDialogMessageText">
+        <item name="android:gravity">start</item>
+    </style>
+    <style name="BottomSheetDialogTitleText">
+        <item name="android:gravity">start</item>
+    </style>
+</resources>

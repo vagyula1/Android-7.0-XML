@@ -60,6 +60,18 @@
         <item>4 MB žurnalo buferis</item>
         <item>16 MB žurnalo buferis</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Išjungta</item>
+        <item>Viskas</item>
+        <item>Viskas, išsk. rad. r.</item>
+        <item>tik branduolys</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Išjungta</item>
+        <item>Visi žurnalų buferiai</item>
+        <item>Visi, išskyrus radijo ryšio žurnalų buferius</item>
+        <item>tik branduolio žurnalo buferis</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija išjungta</item>
         <item>Animacijos mastelis 0,5x</item>
@@ -118,7 +130,7 @@
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Išjungti</item>
+        <item>Išjungta</item>
         <item>Rodyti perdangos sritis</item>
         <item>Rodyti deuteranomalijos sritis</item>
     </string-array>
@@ -159,6 +171,24 @@
         <item>Natūralios spalvos</item>
         <item>Skaitmeniniam turiniui optimizuotos spalvos</item>
     </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <array name="recents_blacklist_array" />
+    <string-array name="volume_stream_titles">
+        <item>Skambinti</item>
+        <item>Sistema</item>
+        <item>Skambinti</item>
+        <item>Medija</item>
+        <item>Signalas</item>
+        <item></item>
+        <item>Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="clock_options">
         <item>Rodyti valandas, minutes ir sekundes</item>
         <item>Rodyti valandas ir minutes (numatytasis nustatymas)</item>
@@ -169,4 +199,5 @@
         <item>Rodyti procentus kraunant (numatytasis nustatymas)</item>
         <item>Nerodyti šios piktogramos</item>
     </string-array>
+    <array name="recents_tv_blacklist_array" />
 </resources>

@@ -37,8 +37,16 @@
         <item>Övrigt</item>
         <item>Anpassad</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Om du vill ringa samtal och skicka meddelanden via Wi-Fi ber du först operatören att konfigurera tjänsten. Därefter kan du aktivera Wi-Fi-samtal på nytt från Inställningar.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrera dig hos operatören</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s Wi-Fi-samtal</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -46,5 +54,12 @@
         <item>Arbete</item>
         <item>Övrigt</item>
         <item>Anpassad</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>mobildata</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
 </resources>

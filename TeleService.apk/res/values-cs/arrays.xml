@@ -60,6 +60,18 @@
         <item>4 MB na vyrovnávací paměť protokolů</item>
         <item>16 MB na vyrovnávací paměť protokolů</item>
     </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Vypnuto</item>
+        <item>Vše</item>
+        <item>Bezdrát. ne</item>
+        <item>pouze jádro</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Vypnuto</item>
+        <item>Všechny vyrovnávací paměti protokolů</item>
+        <item>Všechny kromě protokolu bezdrátových modulů</item>
+        <item>pouze protokol vyrovnávací paměti jádra</item>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animace je vypnuta</item>
         <item>Měřítko animace 0,5x</item>
@@ -158,6 +170,11 @@
         <item>Vylepšené barvy</item>
         <item>Přirozené barvy, jak je vidí oči</item>
         <item>Barvy optimalizované pro digitální obsah</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>Globální</item>
