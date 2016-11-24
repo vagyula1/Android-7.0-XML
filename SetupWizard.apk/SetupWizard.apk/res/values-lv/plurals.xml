@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Tiks izslēgts pēc %d sekundes…</item>
+        <item quantity="zero">Tiks izslēgts pēc %d sekundēm…</item>
+        <item quantity="one">Tiks izslēgts pēc %d sekundes…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Tālāk norādītie konti ir gatavi lietošanai:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="zero">"Tālāk norādītie konti ir gatavi lietošanai:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Tālāk norādītie konti ir gatavi lietošanai:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Vēl %d pieskārieni līdz QR koda iestatīšanas sākšanai</item>
+        <item quantity="zero">Vēl %d pieskārieni līdz QR koda iestatīšanas sākšanai</item>
+        <item quantity="one">Vēl %d pieskāriens līdz QR koda iestatīšanas sākšanai</item>
+    </plurals>
+</resources>

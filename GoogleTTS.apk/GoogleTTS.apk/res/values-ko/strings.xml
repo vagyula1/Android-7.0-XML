@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_notification_needs_update_title">Google Play 서비스를 업데이트해야 하는 애플리케이션입니다.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s에서 Android Wear 앱을 업데이트해야 합니다.</string>
+    <string name="common_google_play_services_needs_enabling_title">Google Play 서비스를 사용 설정해야 하는 애플리케이션입니다.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s에서 요청</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_install_text_phone">휴대전화에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_text_tablet">태블릿에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_button">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_button">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_android_wear_update_title">Android Wear 업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_android_wear_update_text">%1$s은(는) Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다.</string>
+    <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_network_error_title">네트워크 오류</string>
+    <string name="common_google_play_services_network_error_text">Google Play 서비스에 연결하려면 데이터 연결이 필요합니다.</string>
+    <string name="common_google_play_services_invalid_account_title">올바르지 않은 계정</string>
+    <string name="common_google_play_services_invalid_account_text">지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play 서비스에 알 수 없는 문제가 발생했습니다.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play 서비스</string>
+    <string name="common_google_play_services_unsupported_text">%1$s에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="common_open_on_phone">휴대전화에서 열기</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
+    <string name="common_google_play_services_sign_in_failed_title">로그인 실패</string>
+    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요.</string>
+    <string name="app_name">Google TTS 엔진</string>
+    <string name="general_settings">일반 설정</string>
+    <string name="license_activity_title">오픈소스 라이선스</string>
+    <string name="license_activity_loading">로드 중…</string>
+    <string name="license_activity_unavailable">라이선스를 로드하는 중에 문제가 발생했습니다.</string>
+    <string name="tts_settings_label">Google TTS 옵션</string>
+    <string name="voice_data_install_title">Google TTS 음성 데이터</string>
+    <string name="install_data_header">기기에서 오프라인 음성 합성을 지원하려면 데이터를 다운로드하세요.</string>
+    <string name="download_invite_title">%1$s 음성 설치</string>
+    <string name="download_invite">%1$s에 오프라인 텍스트 음성 변환 사용</string>
+    <string name="install_voice_text_2">다운로드 가능</string>
+    <string name="download_in_progress">다운로드 중</string>
+    <string name="no_installable_voices">다운로드할 수 있는 음성 없음</string>
+    <string name="cancel">취소</string>
+    <string name="delete_voice_data">삭제</string>
+    <string name="update">업데이트</string>
+    <string name="download">다운로드</string>
+    <string name="voice_installed">설치됨</string>
+    <string name="voice_installed_and_default">설치되고 기본값으로 설정됨</string>
+    <string name="download_notification_title">%1$s - %2$s</string>
+    <string name="download_notification_description">TTS(텍스트 음성 변환)의 음성 데이터</string>
+    <string name="download_success_title">%1$s 음성 데이터 다운로드 완료</string>
+    <string name="download_success_description">이 음성을 기본값으로 설정하려면 설정을 터치하여 이동하세요.</string>
+    <string name="download_failure_title">%1$s 음성 데이터 다운로드 중 오류</string>
+    <string name="download_failure_description">다시 시도하려면 터치하세요.</string>
+    <string name="download_failed_toast">음성 패키지 다운로드를 시작하지 못했습니다.</string>
+    <string name="manage_voice_data">음성 데이터 관리</string>
+    <string name="auto_update_title">음성 자동 업데이트</string>
+    <string name="auto_update_wifi_title">Wi-Fi에서만 사용</string>
+    <string name="auto_update_wifi_summary">Wi-Fi를 통해서만 음성 데이터를 다운로드합니다. 데이터 사용을 절약할 수 있습니다.</string>
+    <string name="feedback_title">의견 보내기</string>
+    <string name="feedback_failed">의견 양식을 열지 못했습니다.</string>
+    <string name="voices_type_title">음성 유형</string>
+    <string name="voices_type_summary">[Dogfood]음성 합성기 유형</string>
+    <string name="analytics_title">익명의 사용 보고서</string>
+    <string name="analytics_summary_on">사용</string>
+    <string name="analytics_summary_off">사용 안함</string>
+    <string name="analytics_screen_explanation">"이 기능이 사용 설정된 경우 Google에서 익명의 사용 보고서를 수집합니다. 이러한 정보는 Google에서 기기의 Google TTS(텍스트 음성 변환) 성능을 더 잘 이해하는 데 도움이 됩니다.
+
+Google에서 수집하는 집계 통계의 예는 다음과 같습니다. 
+"<li><ul>"TTS(텍스트 음성 변환) 사용 빈도
+"<li>TTS(텍스트 음성 변환) 요청 실적</li>"
+"<li>사용되는 언어</li>"
+"<li>TTS(텍스트 음성 변환)에서 음성 출력을 제공하지 못한 빈도</li>"
+"</ul></li></string>
+    <string name="process_text_title">GoogleTTS 항목을 텍스트 선택 메뉴에 추가</string>
+    <string name="process_text_summary">이 새 항목은 선택한 텍스트를 합성합니다.</string>
+    <string name="voice_pack_status_installed">설치됨(%1$s)</string>
+    <string name="voice_pack_status_gender_female">여성</string>
+    <string name="voice_pack_status_gender_male">남성</string>
+    <string name="voice_entity_status_gender_female">여성 %1$d</string>
+    <string name="voice_entity_status_gender_male">남성 %1$d</string>
+    <string name="voice_entity_status_gender_unknown">알 수 없는 성별 %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">기존 여성 목소리</string>
+    <string name="voice_pack_status_gender_male_legacy">기존 남성 목소리</string>
+    <string name="voice_pack_status_gender_unknown">알 수 없는 성별</string>
+    <string name="voice_pack_status_updatable">업데이트 있음</string>
+    <string name="voice_pack_status_downloadable">다운로드(~%1$s)</string>
+    <string name="voice_pack_status_locale_default">현재 음성</string>
+    <string name="voice_pack_status_downloading">다운로드 중…</string>
+    <string name="voice_pack_name_high_quality">%1$s(고품질)</string>
+    <string name="voice_pack_description">"이름: %1$s 
+언어: %2$s 
+데이터 크기: ~%3$s 
+말하는 사람 성별: %4$s"</string>
+    <string name="voice_pack_action_download">다운로드(~%1$s)</string>
+    <string name="voice_pack_action_remove">삭제</string>
+    <string name="voice_pack_action_update">업데이트(~%1$s)</string>
+    <string name="voice_pack_action_locale_default">%1$s의 현재 음성으로 설정</string>
+    <string name="voice_pack_action_cancel">다운로드 취소</string>
+    <string name="voice_pack_install_tab_installed">설치됨</string>
+    <string name="voice_pack_install_tab_all">전체</string>
+    <string name="voice_pack_install_tab_settings">설정</string>
+    <string name="voice_entry_details">음성 세부정보 대화상자 실행</string>
+    <string name="voice_entry_edit_desc">음성 패키지 열기</string>
+    <string name="voice_entry_overflow_desc">추가 음성 패키지 작업</string>
+    <string name="voice_entry_download_desc">음성 패키지 다운로드</string>
+    <string name="voice_entry_cancel_download_desc">음성 패키지 다운로드 취소</string>
+    <string name="voice_entry_delete_desc">음성 패키지 삭제</string>
+    <string name="voice_entry_sample">음성 샘플 재생</string>
+    <string name="voice_pack_not_enough_space">이 음성을 설치하는 데 필요한 내부 저장소의 여유 공간이 충분하지 않습니다.</string>
+    <string name="action_settings">옵션</string>
+    <string name="action_licenses">오픈소스 라이선스</string>
+    <string name="action_voice_pack_update">업데이트</string>
+    <string name="action_voice_pack_uninstall">제거</string>
+    <string name="voice_pack_uninstall_dialog">음성을 제거하시겠습니까?</string>
+    <string name="voice_pack_uninstall_keep">취소</string>
+    <string name="voice_pack_uninstall_uninstall">제거</string>
+    <string name="voice_pack_unpack_failure">다운로드한 음성을 설치하지 못했습니다.</string>
+    <string name="multi_voice_pack_title">%1$s 음성</string>
+    <string name="multi_voice_pack_entry_name">음성 세트 %1$d</string>
+    <string name="morphed_voice_set_title">음성 세트</string>
+    <string name="select_voice_title">음성 선택</string>
+    <string name="play_sample_text_button_description">%1$s의 샘플 텍스트 재생</string>
+    <string name="voice_pack_no_download_manager">다운로드 관리자가 사용 중지되었거나 없어서 음성 패키지를 다운로드할 수 없습니다.</string>
+    <string name="unpack_voice_pack_service_title">TTS(텍스트 음성 변환) 데이터 업데이트 중</string>
+    <string name="unpack_voice_pack_service_text">압축해제 중…</string>
+    <string name="sample_text_synthesis_failure">이 음성에 대한 예를 합성하지 못했습니다.</string>
+    <string name="quick_wait_for_init">로드 중</string>
+    <string name="quick_synthesizing">합성 중</string>
+    <string name="quick_speaking">말하는 중</string>
+    <string name="quick_stopped">중지됨</string>
+    <string name="quick_error">오류</string>
+</resources>

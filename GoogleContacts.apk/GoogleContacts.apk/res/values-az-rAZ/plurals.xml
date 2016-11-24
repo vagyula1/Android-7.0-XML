@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d tapıldı</item>
+        <item quantity="one">1 nəfər tapıldı</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d oxunmamış element.</item>
+        <item quantity="one">%1$s. %2$d oxunmamış element.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakt silindi</item>
+        <item quantity="one">Kontakt silindi</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d əlaqə</item>
+        <item quantity="one">telefon nömrəsi olan 1 əlaqə</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d tapıldı</item>
+        <item quantity="one">1 tapıldı</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d qrup</item>
+        <item quantity="one">1 qrup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$shesabından %1$d nəfər</item>
+        <item quantity="one">%2$shesabından %1$d nəfər</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d nəfər</item>
+        <item quantity="one">%1$d nəfər</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Əlaqələnmiş kontakt (%d)</item>
+        <item quantity="one">Əlaqələnmiş kontakt</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d Mümkün dublikat</item>
+        <item quantity="one">1 Mümkün dublikat</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d əlaqələnmiş kontakt</item>
+        <item quantity="one">1 əlaqələnmiş kontakt</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AudioProgressRenderer">
+        <item name="android:layout_marginStart">16.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="ClearOrVoiceButton">
+        <item name="android:layout_marginEnd">@dimen/clear_button_margin_right_of_search_plate</item>
+        <item name="android:layout_toStartOf">@id/logo_view</item>
+    </style>
+    <style name="DummyFocusView">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="LauncherSearchButton">
+        <item name="android:scaleType">fitEnd</item>
+        <item name="android:layout_toStartOf">@id/progress_or_clear_or_voice</item>
+        <item name="android:layout_toEndOf">@id/navigation_viewport</item>
+    </style>
+    <style name="ManageSpaceButton">
+        <item name="android:layout_gravity">end</item>
+    </style>
+    <style name="NavigationViewport">
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">8.0dip</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RecognizerView">
+        <item name="android:paddingStart">@dimen/recognizer_view_padding</item>
+        <item name="android:paddingEnd">@dimen/recognizer_view_padding</item>
+    </style>
+    <style name="SearchPlateHotwordHint">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:layout_marginEnd">8.0dip</item>
+        <item name="android:layout_toStartOf">@id/progress_or_clear_or_voice</item>
+    </style>
+    <style name="SoundSearchNote">
+        <item name="android:layout_marginTop">16.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="WhatsThisSong">
+        <item name="android:layout_marginStart">-16.0dip</item>
+        <item name="android:layout_marginEnd">9.0dip</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="SoundLevels">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+</resources>

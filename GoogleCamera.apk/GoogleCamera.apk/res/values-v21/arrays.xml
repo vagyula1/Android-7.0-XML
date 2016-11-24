@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="shutter_button_backgrounds">
+        <item>@drawable/shutter_button_background_camera</item>
+        <item>@drawable/shutter_button_background_video</item>
+        <item>@drawable/shutter_button_background_refocus</item>
+        <item>@drawable/shutter_button_background_photosphere</item>
+        <item>@drawable/shutter_button_background_panorama</item>
+        <item>@drawable/shutter_button_background_camera</item>
+        <item>@drawable/shutter_button_background_camera</item>
+        <item>@drawable/shutter_button_background_video</item>
+    </array>
+    <array name="shutter_button_background_burst">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </array>
+</resources>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light" />
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@android:style/Widget.Material.Button.Borderless.Colored" />
+    <style name="Base.Widget.AppCompat.Button.Colored" parent="@android:style/Widget.Material.Button.Colored" />
+    <style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="@android:style/Widget.Material.RatingBar.Indicator" />
+    <style name="Base.Widget.AppCompat.RatingBar.Small" parent="@android:style/Widget.Material.RatingBar.Small" />
+    <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="CardView" parent="@style/Base.CardView">
+        <item name="cardBackgroundColor">?android:colorBackgroundFloating</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat" parent="@style/Base.V22.Theme.AppCompat">
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat.Light" parent="@style/Base.V22.Theme.AppCompat.Light">
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="ChatUi.Bubble" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/opa_text_primary</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">@dimen/chatui_bubble_side_padding</item>
+        <item name="android:paddingTop">11.0dip</item>
+        <item name="android:paddingRight">@dimen/chatui_bubble_side_padding</item>
+        <item name="android:paddingBottom">15.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">5.0dip</item>
+        <item name="android:textAlignment">gravity</item>
+    </style>
+    <style name="ChatUi.Bubble.Google" parent="@style/ChatUi.Bubble">
+        <item name="android:background">@drawable/chatui_google_bubble_background</item>
+        <item name="android:maxWidth">332.0dip</item>
+    </style>
+    <style name="ChatUi.Bubble.User" parent="@style/ChatUi.Bubble">
+        <item name="android:textColor">@color/opa_text_primary</item>
+        <item name="android:background">@drawable/chatui_user_bubble_background</item>
+        <item name="android:maxWidth">332.0dip</item>
+    </style>
+    <style name="ChatUi.Container" parent="@style/Theme.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+    <style name="ChatUi.ContextualCardItem.NothingFound" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/opa_text_primary</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:padding">@dimen/chatui_contextual_cards_placeholder_padding</item>
+    </style>
+    <style name="ChatUi.ContextualCardsProgress" parent="@style/Theme.AppCompat.Light">
+        <item name="android:progressBackgroundTint">@color/quantum_googblue300</item>
+        <item name="colorAccent">@color/quantum_googblue500</item>
+    </style>
+    <style name="ChatUi.Hero.Bubble.Logo" parent="@android:style/Widget">
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">@dimen/chatui_hero_bubble_logo_width</item>
+        <item name="android:layout_height">@dimen/chatui_hero_bubble_logo_height</item>
+    </style>
+    <style name="ChatUi.Hero.Bubble.Text" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/opa_text_primary</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">@drawable/opa_hero_bubble</item>
+        <item name="android:paddingLeft">@dimen/chatui_bubble_side_padding</item>
+        <item name="android:paddingTop">19.0dip</item>
+        <item name="android:paddingRight">@dimen/chatui_bubble_side_padding</item>
+        <item name="android:paddingBottom">14.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/chatui_hero_bubble_text_height</item>
+        <item name="android:textAlignment">gravity</item>
+    </style>
+    <style name="ChatUi.Logo" parent="@android:style/Widget">
+        <item name="android:paddingLeft">@dimen/chatui_logo_left_padding</item>
+        <item name="android:paddingTop">@dimen/chatui_logo_top_padding</item>
+        <item name="android:paddingBottom">@dimen/chatui_logo_bottom_padding</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">@dimen/chatui_logo_width</item>
+        <item name="android:layout_height">@dimen/chatui_bubble_min_height</item>
+    </style>
+    <style name="ChatUi.SearchBox" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/opa_text_primary</item>
+        <item name="android:textColorHint">@color/opa_text_secondary</item>
+        <item name="android:background">@color/opa_background</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:paddingBottom">5.0dip</item>
+        <item name="android:layout_marginLeft">@dimen/chatui_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/chatui_horizontal_margin</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:inputType">text</item>
+        <item name="android:imeOptions">actionSearch</item>
+    </style>
+    <style name="ChatUi.Suggestion" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chatui_suggestion_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/chatui_suggestion_background</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">4.0dip</item>
+        <item name="android:textAlignment">gravity</item>
+    </style>
+    <style name="ThinkingIndicatorDot">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/indicator_dot</item>
+        <item name="android:layout_width">6.0dip</item>
+        <item name="android:layout_height">6.0dip</item>
+    </style>
+    <style name="ThinkingIndicatorDotContainer">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:clipChildren">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

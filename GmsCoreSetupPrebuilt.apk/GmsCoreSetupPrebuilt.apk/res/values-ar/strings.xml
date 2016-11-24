@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="app_picker_fetch_failure">لم يتم العثور على أي تطبيقات</string>
+    <string name="app_picker_no_apps">لم يتم تحديد أية تطبيقات</string>
+    <string name="auto_restore_summary">استعادة الإعدادات والبيانات التي تم نسخها احتياطيًا عند إعادة تثبيت أحد التطبيقات</string>
+    <string name="auto_restore_title">استعادة تلقائية</string>
+    <string name="backup_configure_account_default_summary">ليس هناك حساب يخزن حاليًا بيانات تم نسخها احتياطيًا.</string>
+    <string name="backup_configure_account_title">حساب النسْخ الاحتياطي</string>
+    <string name="backup_data_summary">‏يمكنك الاحتفاظ بنسخة احتياطية من بيانات التطبيقات وكلمات مرور Wi-Fi والإعدادات الأخرى في Google Drive.</string>
+    <string name="backup_data_summary_full">"‏بإمكانك الاحتفاظ تلقائيًا بنسخة احتياطية من بيانات الجهاز (مثل كلمات مرور Wi-Fi وسجل المكالمات) وبيانات التطبيقات (مثل الإعدادات والملفات التي تخزنها التطبيقات) عن بُعد.
+
+عند تشغيل الاحتفاظ التلقائي بنسخة احتياطية، يتم بشكل دوري حفظ بيانات الجهاز وبيانات التطبيقات عن بُعد. ويمكن أن تكون بيانات التطبيقات أي بيانات تم حفظها في التطبيقات (استنادًا إلى إعدادات مطوّر البرامج) بما في ذلك البيانات المحتمل أن تكون حساسة مثل جهات الاتصال والرسائل والصور."</string>
+    <string name="backup_data_title">‏الاحتفاظ بنسخة احتياطية في Google Drive</string>
+    <string name="backup_erase_dialog_message">‏هل تريد إيقاف الاحتفاظ بنسخة احتياطية لكل من كلمات مرور Wi-Fi والإشارات المرجعية والإعدادات الأخرى وبيانات التطبيقات ومحو جميع النُسخ على Google Drive؟</string>
+    <string name="backup_erase_dialog_message_full">‏هل تريد إيقاف الاحتفاظ بنسخة احتياطية من بيانات الجهاز (مثل كلمات مرور Wi-Fi وسجل المكالمات) وبيانات التطبيقات (مثل الإعدادات والملفات التي تخزنها التطبيقات) بالإضافة إلى محو بيانات جميع النُسخ على Google Drive؟</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">حدث خطأ أثناء فتح إعدادات الصور</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏عند تشغيل خدمة النسخ الاحتياطي التلقائي:
+
+ ● يتم حفظ بيانات الأجهزة والتطبيقات بشكل دوري في مجلد خاص على Google Drive. وقد تكون بيانات أي تطبيق عبارة عن أي بيانات حفظها هذا التطبيق (استنادًا إلى إعدادات مطوّر البرامج)، بما في ذلك البيانات التي يمكن أن تكون حساسة مثل جهات الاتصال والرسائل والصور.
+
+ ولن يتم الاحتفاظ بنسخ احتياطية من الملفات كبيرة الحجم أو الملفات التي اختار مطوّرو البرامج استبعادها من الخدمة.
+
+ ● تتم مزامنة الصور وتسجيلات الفيديو في هذا الجهاز مع مكتبتك على صور Google حتى تتمكن من البحث والتعديل والحذف والمشاركة في أي من أجهزتك.
+
+ يتم افتراضيًا تحميل الصور ومقاطع الفيديو بدقة كاملة. ولا يتم احتساب ذلك من حصتك في سعة التخزين على Drive.
+
+ ● تتم مزامنة جهات الاتصال والبيانات المقترنة بها من هذا الجهاز مع جهات اتصال Google. ويمكنك استخدام تطبيق جهات اتصال Google للبحث والتعديل والحذف والمشاركة ضمن جهات الاتصال في أي من أجهزتك.
+
+ ● تتم مزامنة إدخالات التقويم والبيانات المقترنة بها من هذا الجهاز مع تقويم Google. ويمكنك استخدام تطبيق تقويم Google للبحث والتعديل والحذف والمشاركة ضمن جهات الاتصال في أي من أجهزتك.
+
+ لن يتم احتساب بيانات النسخ الاحتياطي من حصتك في سعة التخزين على Drive."</string>
+    <string name="backup_opt_in_backup_description">يضمن النسخ الاحتياطي التلقائي إمكانية الاسترداد أو التبديل بين الهواتف متى شئت. <annotation link="backup_opt_in_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">‏تتم مزامنة التقويم وجهات الاتصال والصور ومقاطع الفيديو في حسابك على Google ويمكن استخدامها على مستوى الخدمات.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"‏سيؤدي هذا إلى إيقاف النسخ الاحتياطي لما يلي:
+
+التطبيقات وبيانات التطبيقات
+سجلّ المكالمات
+إعدادات الجهاز
+الصور ومقاطع الفيديو
+الرسائل القصيرة SMS
+
+ستستمر مزامنة التقويم وجهات الاتصال مع حسابك في Google. وعند اكتمال الإعداد، يمكنك تغيير إعدادات المزامنة من خلال الانتقال إلى "<annotation link="backup_opt_in_settings_instructions">الإعدادات > الحسابات > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">هل تريد إيقاف النسخ الاحتياطي؟</string>
+    <string name="backup_opt_in_backup_list">"‏التطبيقات وبيانات التطبيقات
+التقويم
+سجلّ المكالمات
+جهات الاتصال
+إعدادات الجهاز (بما في ذلك كلمات مرور Wi-Fi)
+الصور ومقاطع الفيديو
+الرسائل القصيرة SMS"</string>
+    <string name="backup_opt_in_backup_list_header">تحتوي النسخة الاحتياطية على ما يلي:</string>
+    <string name="backup_opt_in_backup_title">‏الاحتفاظ بنسخة احتياطية على Google Drive</string>
+    <string name="backup_opt_in_disable_backup">إيقاف النسخ الاحتياطي</string>
+    <string name="backup_photos_update">‏يُرجى تحديث صور Google</string>
+    <string name="backup_settings_activity_title">نسخ احتياطي وإعادة تعيين</string>
+    <string name="byteShort">بايت</string>
+    <string name="cancel_copy_button_text">عدم النسخ</string>
+    <string name="close_button_label">إغلاق</string>
+    <string name="cloud_restore_app_picker_button">استعادة</string>
+    <string name="cloud_restore_app_picker_description_no_apps">نسختك الاحتياطية لا تحتوي على أي تطبيقات</string>
+    <string name="cloud_restore_app_picker_title">اختيار التطبيقات المطلوب استعادتها</string>
+    <string name="common_accessibility_audience_view_editable">تعديل الجمهور</string>
+    <string name="common_add_account_label">إضافة حساب</string>
+    <string name="common_ads_settings_title">الإعلانات</string>
+    <string name="common_app_name">‏خدمات Google Play</string>
+    <string name="common_audience_edit_button_label">تعديل</string>
+    <string name="common_cancel">إلغاء</string>
+    <string name="common_cannot_start_hangouts_exception">‏يتعذّر بدء Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏يتعذر بدء Hangouts‏ (خطأ في الإذن).</string>
+    <string name="common_car_permission_desc">الدخول إلى خدمة السيارة.</string>
+    <string name="common_car_permission_label">خدمة السيارة</string>
+    <string name="common_chips_label_empty_circles">بلا دوائر</string>
+    <string name="common_chips_label_extended_circles">الدوائر الموسعة</string>
+    <string name="common_chips_label_only_you">أنت فقط</string>
+    <string name="common_chips_label_public">عام</string>
+    <string name="common_chips_label_your_circles">دوائرك</string>
+    <string name="common_choose_account_label">اختيار حساب</string>
+    <string name="common_clear_app_data_menu_item">محو بيانات التطبيق</string>
+    <string name="common_connected_apps_settings_title">التطبيقات المرتبطة</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">‏ألعاب Play</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">تمكين</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">خطأ</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. الرجاء إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_updating_title">‏يتم الآن تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏تم تثبيت خدمات Google Play باستخدام بنية خاطئة.</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏تم تثبيت خدمات Google Play باستخدام بينة (%1$s) التي تختلف عن بنية جهازك (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">بنية خاطئة</string>
+    <string name="common_google_settings">‏إعدادات Google</string>
+    <string name="common_google_settings_account">الحساب</string>
+    <string name="common_google_settings_credentials_title">‏Smart Lock لكلمات المرور</string>
+    <string name="common_google_settings_data_management_title">إدارة البيانات</string>
+    <string name="common_google_settings_drive_network_usage">‏تحديث ملفات التطبيقات التي يمكّنها Drive</string>
+    <string name="common_google_settings_services">الخدمات</string>
+    <string name="common_list_apps_menu_help">مساعدة</string>
+    <string name="common_list_apps_menu_help_and_feedback">المساعدة والتعليقات</string>
+    <string name="common_loading">جارٍ التحميل...</string>
+    <string name="common_location_settings_title">الموقع</string>
+    <string name="common_maps_settings_title">الخرائط وخط العرض</string>
+    <string name="common_mdm_feature_name">‏مدير جهاز Android</string>
+    <string name="common_missing_url_viewer">‏ليس هناك برنامج لعرض عنوان url خارجي.</string>
+    <string name="common_network_load_failed">غير متاح نظرًا لتعذر اتصال الجهاز بإحدى الشبكات</string>
+    <string name="common_networking_settings_title">الشبكات</string>
+    <string name="common_no_browser_for_restricted_url">الوصول مقيد. ولم يتم العثور على متصفح.</string>
+    <string name="common_no_network">غير متاح نظرًا لأن الجهاز في وضع عدم الاتصال</string>
+    <string name="common_off">إيقاف</string>
+    <string name="common_ok">موافق</string>
+    <string name="common_on">تشغيل</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_open_source_licenses">تراخيص البرامج المفتوحة المصدر</string>
+    <string name="common_people_settings_title">جهات الاتصال</string>
+    <string name="common_permissions_enable_in_settings">تمكين في الإعدادات</string>
+    <string name="common_permissions_missing_end">للمتابعة، افتح الإعدادات، ثم الأذونات واسمح بجميع العناصر المدرجة.</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+للتمكين، انتقل إلى
+الإعدادات >
+الأذونات >
+خدمات Google Play"</string>
+    <string name="common_permissions_missing_start">‏لن يعمل هذا التطبيق إلا إذا سمحت بطلب وصول خدمات Google Play إلى ما يلي:</string>
+    <string name="common_permissions_open_settings">فتح الإعدادات</string>
+    <string name="common_plus_settings_title">Google+‎</string>
+    <string name="common_search_and_now_settings_title">‏البحث وNow</string>
+    <string name="common_search_settings_title">البحث</string>
+    <string name="common_security_settings_title">الأمن</string>
+    <string name="common_set_up_nearby_device_settings_title">إعداد الجهاز المجاور</string>
+    <string name="common_settings_drive_network_usage_all">‏عبر Wi-Fi أو شبكة الجوّال</string>
+    <string name="common_settings_drive_network_usage_wifi">‏عبر Wi-Fi فقط</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="common_storage_settings_title">‏سعة تخزين خدمات Play</string>
+    <string name="common_switch_bar_off">إيقاف</string>
+    <string name="common_switch_bar_on">تشغيل</string>
+    <string name="common_ui_confirm_deleting_button">حذف</string>
+    <string name="common_ui_confirm_deleting_checkbox">أعي ذلك وأرغب في إجراء الحذف</string>
+    <string name="common_url_load_unsuccessful_message">‏جهاز Android غير متصل بخدمة بيانات. لعرض هذه المعلومات الآن، انتقل إلى %s باستخدام متصفح ويب.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏جهاز Android غير متصل بشبكة Wi-Fi. لعرض هذه المعلومات الآن، انتقل إلى %s باستخدام متصفح ويب.</string>
+    <string name="common_url_login_notice">تسجيل الدخول باعتبارك %1$s</string>
+    <string name="common_usage_and_diagnostics">الاستخدام وبيانات التشخيص</string>
+    <string name="confirm_copy_button_text">نسخ</string>
+    <string name="contacts_number_local_and_sim_with_google">‏%1$d SIM، %2$d محلي، جهات اتصال Google</string>
+    <string name="contacts_number_local_with_google">‏%1$d محلي، جهات اتصال Google</string>
+    <string name="contacts_number_sim_with_google">%1$d SIM، Google Contacts</string>
+    <string name="copy_confirmation_description">‏سيتم نسخ البيانات، مثل حسابك في Google والتطبيقات، إلى الهاتف الجديد</string>
+    <string name="copy_confirmation_title">هل لديك رغبة في النسخ إلى هاتفك الجديد؟</string>
+    <string name="d2d_app_picker_description_no_apps">تعذر العثور على أي تطبيقات</string>
+    <string name="d2d_app_picker_title">التطبيقات</string>
+    <string name="d2d_migration_canceled_on_source">تم إلغاء النسخ</string>
+    <string name="data_copied_fragment_description">تم نسخ البيانات إلى هاتفك الجديد، ويمكنك فصل الكابل.</string>
+    <string name="data_copied_fragment_description_cancel">لقد اخترت وقف النسخ، ولذلك تم نسخ بعض البيانات فقط في هاتفك الجديد.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">لقد اخترت إيقاف النسخ، ولذلك لم يتم نسخ أي شيء على هاتفك الجديد.</string>
+    <string name="data_copied_fragment_description_error">حدث خطأ ما، ولذلك لم نتمكن من نسخ كل شيء.</string>
+    <string name="data_copied_fragment_description_error_no_data">حدث خطأ ما، ولذلك لم نتمكن من نسخ بياناتك.</string>
+    <string name="data_copied_fragment_no_data_title">تعذَّر النسخ</string>
+    <string name="data_copied_fragment_some_data_title">تم نسخ بعض البيانات</string>
+    <string name="data_copied_fragment_title">تم نسخ البيانات</string>
+    <string name="device_backup_title">الاحتفاظ بنسخة احتياطية من بيانات الجهاز</string>
+    <string name="device_not_supported_fragment_new_device">أنت متصل بهاتف جديد، وللمتابعة، أعِد الاتصال بهاتفك السابق.</string>
+    <string name="device_not_supported_fragment_new_device_title">إعادة الاتصال بالهاتف السابق</string>
+    <string name="device_not_supported_fragment_no_data_cable">لا يمكن لهذا الكابل نقل البيانات. يُرجى إعادة الاتصال باستخدام كابل مختلف ثم المحاولة مرة أخرى.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">تجربة كابل آخر</string>
+    <string name="device_not_supported_fragment_retry_description">تأكد من إلغاء قفل هاتفك القديم، ثم افصل الكابل وأعد توصيله.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">حدث خطأ ما</string>
+    <string name="device_picker_description">‏يتم تخزين النُسخ الاحتياطية في Google Drive</string>
+    <string name="device_picker_item">نسخة احتياطية للجهاز %1$s</string>
+    <string name="device_picker_last_used">تاريخ آخر استخدام: ^1</string>
+    <string name="device_picker_skip">عدم الاسترداد</string>
+    <string name="device_picker_title">اختيار نسخة احتياطية لاستعادتها</string>
+    <string name="disabled_by_admin_summary_text">إعدادات يتحكم فيها المشرف</string>
+    <string name="download_msg_error_invalid">تمت تهيئة التنزيل بشكل خاطئ.</string>
+    <string name="download_msg_in_progress">التنزيل قيد التقدم.</string>
+    <string name="download_msg_not_allowed_space">ليست هناك مساحة كافية لإجراء التنزيل.</string>
+    <string name="download_msg_pending">التنزيل قيد الانتظار.</string>
+    <string name="download_notification_description">طلب %1$s هذه البيانات.</string>
+    <string name="download_notification_title">جلب المزيد من البيانات</string>
+    <string name="drive_backup_account">الحساب المطلوب للنسخ الاحتياطي</string>
+    <string name="drive_backup_app_includes_data">تضمين بيانات التطبيق</string>
+    <string name="drive_backup_apps_in_backup">التطبيقات في النسخة الاحتياطية</string>
+    <string name="drive_backup_apps_last_backup">آخر نسخ احتياطي</string>
+    <string name="drive_backup_apps_loading">جارٍ التحميل…</string>
+    <string name="drive_backup_apps_screen_title">التطبيقات</string>
+    <string name="drive_backup_content_apps_title">التطبيقات</string>
+    <string name="drive_backup_content_calendar_title">التقويم</string>
+    <string name="drive_backup_content_callhistory_title">سجلّ المكالمات</string>
+    <string name="drive_backup_content_contacts_title">جهات الاتصال</string>
+    <string name="drive_backup_content_devicesettings_title">إعدادات الجهاز</string>
+    <string name="drive_backup_content_header">المحتوى</string>
+    <string name="drive_backup_content_photos_dialog_message">‏هل تريد أيضًا تغيير حساب النسخ الاحتياطي للصور إلى %s؟</string>
+    <string name="drive_backup_content_photos_dialog_no">لا</string>
+    <string name="drive_backup_content_photos_dialog_title">هل تريد تغيير حساب النسخ الاحتياطي للصور؟</string>
+    <string name="drive_backup_content_photos_dialog_yes">نعم</string>
+    <string name="drive_backup_content_photos_title">الصور ومقاطع الفيديو</string>
+    <string name="drive_backup_content_sms_title">‏الرسائل القصيرة SMS</string>
+    <string name="drive_backup_content_status_dolly_action">حسنًا</string>
+    <string name="drive_backup_content_status_error">حدث خطأ أثناء الحصول على تاريخ آخر نسخ احتياطي</string>
+    <string name="drive_backup_content_status_lastsaved">‏آخر نسخ احتياطي: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">لم يتم النسخ الاحتياطي</string>
+    <string name="drive_backup_content_status_sync_adapter_action">إعدادات الحساب</string>
+    <string name="drive_backup_content_status_updating">جارٍ فحص الحالة...</string>
+    <string name="drive_backup_settings_title">النسخ الاحتياطي</string>
+    <string name="drive_backup_state">‏النسخ الاحتياطي في Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"‏سيؤدي هذا إلى إيقاف النسخ الاحتياطي بعد ذلك في %s، بما في ذلك صور Google.
+
+سيظل بإمكانك الوصول إلى الصور ومقاطع الفيديو وجهات الاتصال وأحداث التقويم التي تم الاحتفاظ بنسخة احتياطية منها عبر منتجات Google المناسبة.
+
+بينما ستتم إزالة جميع البيانات الأخرى."</string>
+    <string name="drive_backup_state_dialog_okaction">تعطيل</string>
+    <string name="drive_backup_state_dialog_title">تعطيل النسخ الاحتياطية وحذفها</string>
+    <string name="durationDayHour">%1$d يوم %2$d ساعة</string>
+    <string name="durationDayHours">%1$d يوم %2$d ساعة</string>
+    <string name="durationDays">%1$d يوم</string>
+    <string name="durationHourMinute">%1$d ساعة %2$d دقيقة</string>
+    <string name="durationHourMinutes">%1$d ساعة %2$d دقيقة</string>
+    <string name="durationHours">%1$d ساعة</string>
+    <string name="durationMinute">%1$d دقيقة</string>
+    <string name="durationMinuteSecond">%1$d دقيقة %2$d ثانية</string>
+    <string name="durationMinuteSeconds">%1$d دقيقة %2$d ثانية</string>
+    <string name="durationMinutes">%1$d دقيقة</string>
+    <string name="durationSecond">%1$d ثانية</string>
+    <string name="durationSeconds">%1$d ثانية</string>
+    <string name="encryption_warning_fragment_description">"‏يتم تمكين تشفير النسخ الاحتياطي في جهاز iPhone®‎، ولذلك لا يمكن نسخ محتوى سوى الصور ومقاطع الفيديو والموسيقى.
+
+لنسخ المزيد من البيانات، يمكنك البدء بتوصيل جهاز iPhone®‎ بجهاز الكمبيوتر. افتح iTunes®‎ على الكمبيوتر، مع إيقاف تشفير النسخ الاحتياطي، ثم جرِّب النسخ مرة أخرى.
+
+للحصول على مزيد من المساعدة، يمكنك الانتقال إلى "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"هذه أسرع طريقة لجلب أكبر قدر من البيانات.
+
+ابحث عن المحوِّل في العلبة ثم ابدأ بتوصيله في هاتفك الجديد. وصِّل الهواتف باستخدام كابل، ثم ألغ قفل هاتفك القديم."</string>
+    <string name="fragment_waiting_title">لحظة من فضلك…</string>
+    <string name="gigabyteShort">غيغابايت</string>
+    <string name="google_contacts_static_text">‏ستتم مزامنة جهات اتصال Google</string>
+    <string name="google_contacts_static_text_off">‏ستتم مزامنة جهات اتصال Google</string>
+    <string name="header_set_backup_account">تعيين الحساب الاحتياطي</string>
+    <string name="i_message_dialog_message">"‏لمتابعة تلقي رسائل قصيرة SMS من مستخدمي جهاز iPhone®، يلزمك إيقاف iMessage®‎‎.
+
+يمكنك الانتقال إلى "<b>g.co/iMessageHelp</b> للحصول على تعليمات.</string>
+    <string name="instructions_fragment_title">تابع على هاتفك الآخر</string>
+    <string name="ios_connected_fragment_description">"‏للمتابعة، سجّل الدخول بحساب Google الذي تستخدمه على جهاز iPhone®‎.
+
+لإجراء النقل بشكل أسرع، تجنّب استخدام جهاز iPhone®‎ أثناء عملية الإعداد."</string>
+    <string name="ios_message_attachment_placeholder">‏[تم حفظ المرفق في صور Google > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_message_attachments_placeholder">‏[تم حفظ المرفقات في صور Google > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_migration_default_calendar_title">التقويم</string>
+    <string name="ios_photos_dialog_message">"‏يتعذَّر نسخ الصور المخزّنة في iCloud®‎‏.
+
+لجلب هذه الصور إلى جهاز Pixel، عليك تثبيت تطبيق \"صور Google\" على جهاز iPhone®‎ وتشغيل \"النسخ الاحتياطي والمزامنة\". انتقل إلى "<b>g.co/datatransferhelp</b> للحصول على المزيد من التعليمات.</string>
+    <string name="kilobyteShort">كيلوبايت</string>
+    <string name="list_item_add_account">إضافة حساب</string>
+    <string name="lockscreen_smartdevice_action_next">التالي</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">يمكنك إلغاء القفل لمتابعة إعداد هاتفك</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">لأسباب أمنية، سيلزمك تأكيد قفل الشاشة لمتابعة الإعداد</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">تأكيد قفل الشاشة</string>
+    <string name="manage_data_label">إدارة النسخة الاحتياطية للبيانات</string>
+    <string name="master_clear_title">إعادة الضبط بحسب بيانات المصنع</string>
+    <string name="megabyteShort">ميغابايت</string>
+    <string name="notification_content_text_set_backup_account">يجب تعيين حساب النسخة الاحتياطية</string>
+    <string name="notification_content_title_set_backup_account">النسخة الاحتياطية</string>
+    <string name="notification_ticker_set_backup_account">يلزم وجود حساب احتياطي</string>
+    <string name="permgrouplab_calendar">التقويم</string>
+    <string name="permgrouplab_camera">الكاميرا</string>
+    <string name="permgrouplab_contacts">جهات الاتصال</string>
+    <string name="permgrouplab_location">الموقع</string>
+    <string name="permgrouplab_microphone">ميكروفون</string>
+    <string name="permgrouplab_phone">الهاتف</string>
+    <string name="permgrouplab_sensors">أجهزة استشعار الجسم</string>
+    <string name="permgrouplab_sms">‏الرسائل القصيرة SMS</string>
+    <string name="permgrouplab_storage">سعة التخزين</string>
+    <string name="petabyteShort">بيتابايت</string>
+    <string name="photo_backup_configure_account_default_summary">ليس هناك حساب يخزن حاليًا صورًا تم نسخها احتياطيًا.</string>
+    <string name="photos_backup_title">الاحتفاظ بنسخة احتياطية من الصور</string>
+    <string name="photos_filtering_option_all">الكل</string>
+    <string name="photos_filtering_option_none">بدون</string>
+    <string name="restore_choice_data_disclaimer">لا يمكن نسخ بعض البيانات على هاتفك الآخر إلى ^1. <annotation link="restore_choice_data_disclaimer_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏سيتم حفظ جهات الاتصال التي تم نسخها إلى حسابك في Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏سيتم حفظ جهات الاتصال والتقاويم التي تم نسخها إلى حسابك في Google.</string>
+    <string name="restore_choice_learn_more_android">"‏لا يمكن نسخ بعض البيانات من هاتفك القديم تلقائيًا:
+
+ ● التنزيلات (مثل ملفات PDF)
+
+ ● الصور ومقاطع الفيديو والموسيقى المخزنة في المجلدات المخفية
+
+ ● الصور ومقاطع الفيديو والموسيقى التي يتم تلقيها عبر رسائل نصية
+
+ ● التطبيقات من جهات بخلاف Google Play Store
+
+ ● بيانات التطبيقات (إذا لم يكن التطبيق يستخدم النسخ الاحتياطي على Android
+
+ ● إعدادات معيَّنة على الجهاز
+
+ ● الحسابات بخلاف حسابات Google (وأي بيانات مرتبطة بها)
+
+ ● جهات الاتصال والتقاويم التي تمت مزامنتها مع خدمات بخلاف Google
+
+ ● نغمات الرنين
+
+ For more details and help copying some of this data, visit g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"‏يتعذَّر نسخ بعض بيانات الهاتف القديم تلقائيًا:
+
+ ● التطبيقات وبيانات التطبيقات
+
+ ● الصور التي لم يتم تخزين النسخ الأصلية منها على هاتفك (على سبيل المثال، في حالة تشغيل إعداد \"تحسين سعة التخزين\"، يتم تخزين الصور الأصلية في iCloud®)
+
+ ● الملفات والمستندات المخزّنة في iCloud®
+
+ ● إعدادات الجهاز (مثل كلمات مرور Wi-Fi والخلفية)
+
+ ● الموسيقى المحمية من خلال نظام إدارة الحقوق الرقمية (على سبيل المثال، موسيقى iTunes®‎ التي تم شراؤها قبل نيسان (أبريل) 2009 أو الموسيقى التي تم تنزيلها للاستماع في وضع عدم الاتصال عبر تطبيق لبث الموسيقى)
+
+ ● حسابات بخلاف حسابات Google (مع أي بيانات مرتبطة)
+
+ ● جهات الاتصال والتقاويم التي تمت مزامنتها مع خدمات غير Google أو iCloud®
+
+ ● الإشارات المرجعية من Safari®
+
+ ستكون مرفقات iMessage®‎ متاحة عبر \"صور Google\" > مجلدات الجهاز > مرفقات الرسائل.
+
+ للحصول على المزيد من التفاصيل والمساعدة في نسخ بعض هذه البيانات، انتقل إلى g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">لا تتوفر مساحة كافية</string>
+    <string name="restore_choice_total_text">من إجمالي المساحة التي تبلغ %1$s / وقت النقل %2$s</string>
+    <string name="restore_item_appdata">بيانات التطبيق</string>
+    <string name="restore_item_calendar">التقويم</string>
+    <string name="restore_item_calendar_ical_description">‏تقويم iOS®‎، تقويم Google</string>
+    <string name="restore_item_calendar_ical_off_description">‏ستتم مزامنة تقويم Google</string>
+    <string name="restore_item_calendar_sync_description">‏ستتم مزامنة تقويم Google</string>
+    <string name="restore_item_call_logs">سجل المكالمات</string>
+    <string name="restore_item_contacts">جهات الاتصال</string>
+    <string name="restore_item_device_settings_description">‏كلمات مرور Wi-Fi والمزيد</string>
+    <string name="restore_item_downloads">التنزيلات</string>
+    <string name="restore_item_email">البريد الإلكتروني</string>
+    <string name="restore_item_email_description">‏ستتم مزامنة Gmail</string>
+    <string name="restore_item_message_attachments">مرفقات الرسالة</string>
+    <string name="restore_item_messages">الرسائل</string>
+    <string name="restore_item_music">الموسيقى</string>
+    <string name="restore_item_photos">الصور ومقاطع الفيديو</string>
+    <string name="restore_item_settings">إعدادات الجهاز</string>
+    <string name="restore_item_sms">‏الرسائل القصيرة SMS</string>
+    <string name="restore_item_will_be_synced_text">ستتم مزامنة هذه البيانات مع هاتفك</string>
+    <string name="small_time_duration">أقل من 1 دقيقة</string>
+    <string name="source_connected_description">جارٍ التحضير...</string>
+    <string name="source_connected_title">تم الاتصال بجهاز %1$s</string>
+    <string name="source_copying_description">يتم نسخ البيانات التي تم اختيارها إلى هاتفك الجديد</string>
+    <string name="source_copying_title">جارٍ النسخ…</string>
+    <string name="source_default_target_device_name">جهاز جديد</string>
+    <string name="source_notification_device_disconnected">أعد توصيل الكابل</string>
+    <string name="source_notification_text">نقل البيانات من هاتف إلى هاتف قيد التقدم</string>
+    <string name="source_notification_title">نقل البيانات</string>
+    <string name="source_success_description">إنهاء الإعداد على جهاز %1$s.</string>
+    <string name="source_success_screen_title">تم النسخ بنجاح.</string>
+    <string name="source_unplugged_description">إعادة التوصيل بجهاز %1$s</string>
+    <string name="source_unplugged_title">تم فصل الكابل</string>
+    <string name="source_waiting_title">متابعة الإعداد على جهاز %1$s</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="stop_copying_dialog_continue_button">تجاهل</string>
+    <string name="stop_copying_dialog_message_before_transfer">لم يتم نسخ بياناتك إلى الهاتف الجديد</string>
+    <string name="stop_copying_dialog_message_during_transfer">لم يتم نسخ بعض بياناتك إلى الهاتف الجديد</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">عدم النسخ</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">إيقاف</string>
+    <string name="stop_copying_dialog_title_before_transfer">ألا تريد النسخ؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">هل تريد إيقاف النسخ؟</string>
+    <string name="storage_management_drive_clear_failure">‏حدث خطأ أثناء محو بيانات Drive. الرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="storage_management_drive_clear_label">محو</string>
+    <string name="storage_management_drive_clear_success">‏تم محو بيانات Drive.</string>
+    <string name="storage_management_drive_clearing">جارٍ المحو…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">‏سيتم حذف كل بيانات Drive المحلية في التطبيقات التي تمكّن Drive نهائيًا. وقد يتضمن هذا التغييرات المعلّقة التي لم يتم تحميلها حتى الآن إلى خادم Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">هل تريد محو جميع البيانات؟</string>
+    <string name="storage_management_drive_descriptive_text">‏تخزن التطبيقات التي تمكّن Drive الملفات على جهازك لتحسين الأداء وتمكين الدخول إليها في وضع عدم الاتصال.</string>
+    <string name="storage_management_drive_get_storage_failure">‏حدث خطأ أثناء حساب السعة التخزينية المستخدمة في Drive. الرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="storage_management_drive_size_label">‏سعة Drive التخزينية المحلية</string>
+    <string name="storage_management_wear_descriptive_text">تستخدم التطبيقات سعة جهازك التخزينية لنسخ البيانات إلى جهاز قابل للارتداء.</string>
+    <string name="storage_management_wear_manage_size_label">إدارة سعة تخزين الجهاز القابل للارتداء</string>
+    <string name="storage_management_wear_size_label">سعة تخزين جهاز قابل للارتداء</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏إجمالي البيانات المستخدمة في خدمات Google Play، بما في ذلك محرك البحث والبيانات الأخرى.</string>
+    <string name="storage_managment_clear_all_data">محو جميع البيانات</string>
+    <string name="storage_managment_computing_size">جارٍ الحساب...</string>
+    <string name="storage_managment_icing_size_label">بيانات البحث</string>
+    <string name="storage_managment_manage_icing_button">إدارة بيانات البحث</string>
+    <string name="storage_managment_search_index_descriptive_text">نعمل على تسريع عملية البحث على هاتفك من خلال توفير محرك بحث يمكن أن تستخدمه تطبيقاتك.</string>
+    <string name="storage_managment_title">‏السعة التخزينية لخدمات Google Play</string>
+    <string name="storage_managment_total_size_label">إجمالي سعة التخزين</string>
+    <string name="suw_back_button_label">رجوع</string>
+    <string name="suw_more_button_label">المزيد</string>
+    <string name="suw_next_button_label">التالي</string>
+    <string name="target_default_source_device_model">الجهاز القديم</string>
+    <string name="target_device_not_supported_cant_continue_description">يجب اختيار طريقة أخرى لنسخ البيانات</string>
+    <string name="target_device_not_supported_cant_continue_title">الهاتف الآخر غير متوافق</string>
+    <string name="target_smart_device_timeout_add_account">إضافة حساب</string>
+    <string name="target_smart_device_timeout_description">يمكنك تجربة إضافة حسابك يدويًا إذا أردت ذلك</string>
+    <string name="target_smart_device_timeout_dismiss">رفض</string>
+    <string name="target_smart_device_timeout_title">هل تواجه أية مشكلة؟</string>
+    <string name="terabyteShort">تيرابايت</string>
+    <string name="toast_phones_connected">تم توصيل الهواتف</string>
+    <string name="toast_reconnect_cable">أعد توصيل الكابل</string>
+    <string name="transfer_finished_fragment_title">جارٍ إضافة اللمسات النهائية…</string>
+    <string name="transfer_summary_copied">تم نسخ البيانات</string>
+    <string name="transfer_summary_fragment_description">افصل الكابل إن لم يكن تم فصله</string>
+    <string name="transfer_summary_fragment_finish">إنهاء</string>
+    <string name="transfer_summary_fragment_title">هاتفك جاهز تقريبًا</string>
+    <string name="transfer_summary_icloud_photos_warning">تعذَّر نسخ بعض صورك. <annotation link="transfer_summary_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="transfer_summary_not_copied">لم يتم نسخ البيانات</string>
+    <string name="transfer_summary_partial">تم نسخ %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ستتم مزامنة البيانات بعد الإعداد</string>
+    <string name="transferring_fragment_calculating_remaining_time">جارٍ حساب الوقت المتبقي…</string>
+    <string name="transferring_fragment_header">جارٍ النسخ…</string>
+    <string name="transferring_fragment_remaining_time">يتبقى %1$s</string>
+    <string name="trust_instructions_description">‏للمتابعة، يمكنك التحقق من جهاز iPhone®‎ والتأكد من الاتصال</string>
+    <string name="trust_instructions_trademark_disclaimer">‏تمثل كل من iPhone وiPad وiOS وiMessage وiCloud وSafari وiTunes علامات تجارية تملكها شركة Apple Inc.‎ ومُسجَّلة في الولايات المتحدة وبلدان أخرى.</string>
+</resources>

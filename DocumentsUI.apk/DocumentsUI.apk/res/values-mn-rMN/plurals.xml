@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">%1$d файлуудыг хуулж байна.</item>
+        <item quantity="one">%1$d файл хуулж байна.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d файл зөөж байна.</item>
+        <item quantity="one">%1$d файл зөөж байна.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">%1$d файлыг устгаж байна.</item>
+        <item quantity="one">%1$d файлыг устгаж байна.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d файлыг хуулж чадсангүй</item>
+        <item quantity="one">%1$d файлыг хуулж чадахгүй байна</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d файлыг зөөх боломжгүй байна</item>
+        <item quantity="one">%1$d файлыг зөөх боломжгүй байна</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d файлыг устгаж чадсангүй</item>
+        <item quantity="one">%1$d файлыг устгаж чадсангүй</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d материалыг түр санах ой руу хуулсан.</item>
+        <item quantity="one">%1$d материалыг түр санах ой руу хуулсан.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d сонгосон</item>
+        <item quantity="one">%1$d сонгосон</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d зүйл</item>
+        <item quantity="one">%1$d зүйл</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">%1$d файлыг устгах уу?</item>
+        <item quantity="one">%1$d файлыг устгах уу?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">%1$d фолдер болон агуулгуудыг нь устгах уу?</item>
+        <item quantity="one">%1$d фолдер болон агуулгыг нь устгах уу?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">%1$d зүйлийг устгах уу?</item>
+        <item quantity="one">%1$d зүйлийг устгах уу?</item>
+    </plurals>
+</resources>

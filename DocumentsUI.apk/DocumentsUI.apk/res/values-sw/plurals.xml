@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Inanakili faili %1$d.</item>
+        <item quantity="one">Inanakili faili %1$d.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Inahamisha faili %1$d.</item>
+        <item quantity="one">Inahamisha faili %1$d.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Inafuta faili %1$d.</item>
+        <item quantity="one">Inafuta faili %1$d.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Haikuweza kunakili faili %1$d</item>
+        <item quantity="one">Haikuweza kunakili faili %1$d</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Haikuweza kuhamisha faili %1$d</item>
+        <item quantity="one">Haikuweza kuhamisha faili %1$d</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Haikuweza kufuta faili %1$d</item>
+        <item quantity="one">Haikuweza kufuta faili %1$d</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Alinakili faili %1$d kwenye ubao wa kunakili.</item>
+        <item quantity="one">Alinakili faili %1$d kwenye ubao wa kunakili.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d zimechaguliwa</item>
+        <item quantity="one">%1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">Vipengee %1$d</item>
+        <item quantity="one">Kipengee %1$d</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Ungependa kufuta faili %1$d?</item>
+        <item quantity="one">Ungependa kufuta faili %1$d?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Ungependa kufuta folda %1$d na maudhui yaliyomo?</item>
+        <item quantity="one">Ungependa kufuta folda %1$d na maudhui yaliyomo?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Ungependa kufuta vipengee %1$d?</item>
+        <item quantity="one">Ungependa kufuta kipengee %1$d?</item>
+    </plurals>
+</resources>

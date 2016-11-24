@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V22.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V22.Theme.AppCompat.Light" />
+    <style name="MessageBubble">
+        <item name="android:textColor">@dimen/message_bubble_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/message_bubble_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/message_bubble_height</item>
+        <item name="android:layout_margin">@dimen/message_bubble_margins</item>
+        <item name="android:minWidth">@dimen/message_bubble_min_width</item>
+        <item name="android:maxLines">6</item>
+        <item name="android:breakStrategy">balanced</item>
+    </style>
+    <style name="Base.V22.Theme.AppCompat" parent="@style/Base.V21.Theme.AppCompat">
+        <item name="actionModeShareDrawable">?android:actionModeShareDrawable</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+    </style>
+    <style name="Base.V22.Theme.AppCompat.Light" parent="@style/Base.V21.Theme.AppCompat.Light">
+        <item name="actionModeShareDrawable">?android:actionModeShareDrawable</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+    </style>
+</resources>

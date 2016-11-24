@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ChoosiesDetailsInfoPanelContent.Badges" parent="@style/ChoosiesDetailsInfoPanelContent">
+        <item name="layout_flmWidth">3.0</item>
+    </style>
+    <style name="ChoosiesDetailsInfoPanelContent.BeforeAfterBadgesDivider" parent="@style/ChoosiesDetailsInfoPanelContent">
+        <item name="layout_flmWidth">3.0</item>
+    </style>
+    <style name="ChoosiesDetailsInfoPanelContent.Review" parent="@style/ChoosiesDetailsInfoPanelContent">
+        <item name="layout_flmWidth">2.0</item>
+        <item name="layout_flmVAlign">top</item>
+    </style>
+</resources>

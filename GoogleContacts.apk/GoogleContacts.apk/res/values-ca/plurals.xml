@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d elements no llegits.</item>
+        <item quantity="one">%1$s. %2$d element no llegit.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">"S'han suprimit els contactes"</item>
+        <item quantity="one">"S'ha suprimit el contacte"</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contactes amb número de telèfon</item>
+        <item quantity="one">1 contacte amb número de telèfon</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grups</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d persones de %2$s</item>
+        <item quantity="one">%1$d persona de %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d persones</item>
+        <item quantity="one">%1$d persona</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">"S'han enllaçat els contactes (%d)"</item>
+        <item quantity="one">"S'ha enllaçat el contacte"</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d possibles duplicats</item>
+        <item quantity="one">1 possible duplicat</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">"S'han enllaçat %d contactes"</item>
+        <item quantity="one">"S'ha enllaçat 1 contacte"</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

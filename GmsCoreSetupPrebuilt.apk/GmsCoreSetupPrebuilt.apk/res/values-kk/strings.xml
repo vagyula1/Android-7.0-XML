@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">Ешқандай бағдарлама табылмады</string>
+    <string name="app_picker_no_apps">Ешбір қолданба таңдалмады</string>
+    <string name="auto_restore_summary">Қолданбаны қайта орнатқанда, параметрлер және деректердің сақтық көшірмесін қалпына келтіру</string>
+    <string name="auto_restore_title">Aвтоматты қалпына келтіру</string>
+    <string name="backup_configure_account_default_summary">Ешқандай есептік жазба қазір сақтық көшірмесі жасалған деректерді сақтап жатқан жоқ</string>
+    <string name="backup_configure_account_title">Есептік жазбаның сақтық көшірмесі</string>
+    <string name="backup_data_summary">Google Drive дискіне қолданба деректерінің, Wi‑Fi құпия сөздерінің және басқа параметрлердің сақтық көшірмесін жасау</string>
+    <string name="backup_data_summary_full">"Құрылғы деректерінің (мысалы, Wi-Fi құпия сөздері және қоңыраулар тарихы) және қолданба деректерінің (мысалы, қолданбалар сақтайтын параметрлер және файлдар) сақтық көшірмесін қашықтан автоматты түрде жасау.
+
+Сақтық көшірмені автоматты түрде жасау функциясын қоссаңыз, құрылғы және қолданба деректері қашықтан сақталып отырады. Қолданба деректеріне қолданбаға сақталған кез келген дерек (әзірлеуші параметрлеріне байланысты), соның ішінде контактілер, хабарлар және фотосуреттер сияқты құпия деректер жатады."</string>
+    <string name="backup_data_title">Google Drive қолданбасына сақтық көшірме жасау</string>
+    <string name="backup_erase_dialog_message">Wi‑Fi құпия сөздері, бетбелгілер, басқа параметрлер мен қолданба деректерінің сақтық көшірмесін жасау процесін тоқтатып, Google Drive дискінен барлық көшірмелерді өшіру керек пе?</string>
+    <string name="backup_erase_dialog_message_full">Құрылғы деректерінің (мысалы, Wi-Fi құпия сөзі және қоңыраулар журналы) және қолданба деректерінің (мысалы, қолданбалар сақтаған параметрлер мен файлдар) сақтық көшірмесін жасауды тоқтатып, Google Drive ішіндегі барлық көшірмелерді өшіру керек пе?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Суреттердің параметрлерін ашу кезінде қате пайда болды</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Автоматты сақтық көшірме жасауды қосқанда:
+
+ ● Құрылғы параметрлері және қолданба деректері Google Drive ішіндегі жеке қалтаға мерзімді түрде сақталып отырады. Қолданба деректері дегеніміз — қолданба сақтайтын кез келген мәлімет (әзірлеуші параметрлері негізінде), соның ішінде құпия болуы мүмкін контактілер, хабарлар және суреттер сияқты деректер.
+
+ Үлкен файлдардың немесе әзірлеушілер осы қызметтен шығарған файлдардың сақтық көшірмесі жасалмайды.
+
+ ● Бұл құрылғыдағы суреттер мен бейнежазбалар Google Photos кітапханасымен синхрондалады және оларды кез келген құрылғыдан іздеуге, өзгертуге, жоюға және бөлісуге болады.
+
+ Әдепкісінше суреттер мен бейнелер толық ажыратымдылықпен жүктеледі және Drive жадының квотасынан орын алмайды.
+
+ ● Контактілер мен қатысты деректер Google Contacts қолданбасымен синхрондалады. Бұл қолданбаның көмегімен құрылғыларыңыздың кез келгенінен контактілерді іздеуге, өзгертуге, жоюға және бөлісуге болады.
+
+ ● Күнтізбе жазбалары мен қатысты деректер Google Calendar қолданбасымен синхрондалады. Бұл қолданбаның көмегімен контактілерді құрылғыларыңыздың кез келгенінен іздеуге, өзгертуге, жоюға және бөлісуге болады.
+
+ Сақтық көшірмелер Drive жадының квотасынан орын алмайды."</string>
+    <string name="backup_opt_in_backup_description">Автоматты сақтық көшірме жасау арқылы деректерді оңай қалпына келтіруге немесе оларды жаңа телефонға көшіруге болады. <annotation link="backup_opt_in_learn_more">Толығырақ</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Күнтізбе, контактілер, суреттер және бейнелер Google есептік жазбаңызбен синхрондалады және оларды барлық қызметтерде пайдалануға болады.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Сақтық көшірмелері жасалмайды:
+
+Қолданбалар және қолданба деректері
+Қоңыраулар тарихы
+Құрылғы параметрлері
+Суреттер және бейнелер
+SMS
+
+Күнтізбе және контактілер Google есептік жазбасымен бұрынғыдай синхрондала береді. Реттеу аяқталғаннан кейін, синхрондау параметрлерін "<annotation link="backup_opt_in_settings_instructions">Параметрлер > Есептік жазбалар > Google</annotation> тармағынан өзгерте аласыз.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Сақтық көшірме жасау өшірілсін бе?</string>
+    <string name="backup_opt_in_backup_list">"Қолданбалар мен қолданба дерегі
+Күнтізбе
+Қоңырау тарихы
+Контактілер
+Құрылғы параметрлері (соның ішінде Wi-Fi құпия сөздері)
+Суреттер және бейнелер
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Сақтық көшірмелері жасалады:</string>
+    <string name="backup_opt_in_backup_title">Google Drive қолданбасына сақтық көшірме жасаңыз</string>
+    <string name="backup_opt_in_disable_backup">Сақтық көшірме жасауды өшіру</string>
+    <string name="backup_photos_update">Google Photos қолданбасын жаңартыңыз</string>
+    <string name="backup_settings_activity_title">Сақтық көшірме және бастапқы күйге қайтару</string>
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Көшірмеу</string>
+    <string name="close_button_label">Жабу</string>
+    <string name="cloud_restore_app_picker_button">Қалпына келтіру</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Сақтық көшірмесі жасалған қолданба жоқ</string>
+    <string name="cloud_restore_app_picker_title">Қалпына келтірілетін қолданбаларды таңдаңыз</string>
+    <string name="common_accessibility_audience_view_editable">Аудиторияны өңдеу</string>
+    <string name="common_add_account_label">Есептік жазба қосу</string>
+    <string name="common_ads_settings_title">Құлақтандырулар</string>
+    <string name="common_app_name">Google Play қызметтері</string>
+    <string name="common_audience_edit_button_label">Өңдеу</string>
+    <string name="common_cancel">Бас тарту</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts қолданбасын іске қосу мүмкін емес.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts қолданбасын іске қосу мүмкін емес (рұқсат қатесі).</string>
+    <string name="common_car_permission_desc">Көлік қызметіне қатынасу.</string>
+    <string name="common_car_permission_label">Көлік қызметі</string>
+    <string name="common_chips_label_empty_circles">Шеңберлер жоқ</string>
+    <string name="common_chips_label_extended_circles">Кеңейтілген шеңберлер</string>
+    <string name="common_chips_label_only_you">Тек сіз</string>
+    <string name="common_chips_label_public">Жалпы</string>
+    <string name="common_chips_label_your_circles">Шеңберлеріңіз</string>
+    <string name="common_choose_account_label">Есептік жазба таңдау</string>
+    <string name="common_clear_app_data_menu_item">Қолданба деректерін тазалау</string>
+    <string name="common_connected_apps_settings_title">Қосылған қолданбалар</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Қосу</string>
+    <string name="common_google_play_services_enable_text">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_error_dialog_title">Қате</string>
+    <string name="common_google_play_services_install_button">Орнату</string>
+    <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_updating_title">Google Play қызметтері жаңартылуда</string>
+    <string name="common_google_play_services_wear_update_text">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Архитектурасы сәйкес келмейтін Google Play қызметтері орнатылды.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play қызметтері құрылғы архитектурасынан (%2$s) басқаша архитектурамен (%1$s) орнатылды.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Архитектурасы дұрыс емес</string>
+    <string name="common_google_settings">Google параметрлері</string>
+    <string name="common_google_settings_account">Есептік жазба</string>
+    <string name="common_google_settings_credentials_title">Құпия сөздерге арналған Smart Lock</string>
+    <string name="common_google_settings_data_management_title">Деректерді басқару</string>
+    <string name="common_google_settings_drive_network_usage">Drive қолдайтын қолданба файлдарын жаңарту</string>
+    <string name="common_google_settings_services">Қызметтер</string>
+    <string name="common_list_apps_menu_help">Анықтама</string>
+    <string name="common_list_apps_menu_help_and_feedback">Анықтама және пікір</string>
+    <string name="common_loading">Жүктелуде…</string>
+    <string name="common_location_settings_title">Орын</string>
+    <string name="common_maps_settings_title">Карталар және ендік</string>
+    <string name="common_mdm_feature_name">Android құрылғы менеджері</string>
+    <string name="common_missing_url_viewer">Сыртқы URL мекенжайын көрсету үшін қарап шығу құралы жоқ.</string>
+    <string name="common_network_load_failed">Қол жетімді емес, өйткені құрылғы желіге қосыла алмады</string>
+    <string name="common_networking_settings_title">Желілер</string>
+    <string name="common_no_browser_for_restricted_url">Шектелген қатынас. Браузер табылмады.</string>
+    <string name="common_no_network">Қол жетімді емес, өйткені құрылғы желіден тыс</string>
+    <string name="common_off">Өшірулі</string>
+    <string name="common_ok">Жарайды</string>
+    <string name="common_on">Қосулы</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="common_open_source_licenses">Ашық бастапқы код лицензиялары</string>
+    <string name="common_people_settings_title">Контактілер</string>
+    <string name="common_permissions_enable_in_settings">Параметрлер ішінде қосу</string>
+    <string name="common_permissions_missing_end">Жалғастыру үшін \"Параметрлер\", содан кейін \"Рұқсаттар\" тармағын ашыңыз және барлық тізілген элементтерге рұқсат етіңіз.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Қосу үшін
+\"Параметрлер\" >
+\"Рұқсаттар\" >
+\"Google Play қызметтері\" тармағына өтіңіз"</string>
+    <string name="common_permissions_missing_start">Google Play қызметтерінің сұрауына келесілерге қатынасуға рұқсат етпесеңіз, бұл қолданба тиісті түрде жұмыс істемейді:</string>
+    <string name="common_permissions_open_settings">Параметрлерді ашу</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Іздеу және Now</string>
+    <string name="common_search_settings_title">Іздеу</string>
+    <string name="common_security_settings_title">Қауіпсіздік</string>
+    <string name="common_set_up_nearby_device_settings_title">Жақын маңдағы құрылғыны реттеу</string>
+    <string name="common_settings_drive_network_usage_all">Wi-Fi немесе ұялы желі арқылы</string>
+    <string name="common_settings_drive_network_usage_wifi">Тек Wi-Fi арқылы</string>
+    <string name="common_signin_button_text">Кіру</string>
+    <string name="common_signin_button_text_long">Google арқылы кіру</string>
+    <string name="common_storage_settings_title">Play қызметтерінің қоймасы</string>
+    <string name="common_switch_bar_off">Өшірулі</string>
+    <string name="common_switch_bar_on">Қосулы</string>
+    <string name="common_ui_confirm_deleting_button">Жою</string>
+    <string name="common_ui_confirm_deleting_checkbox">Түсінемін және жойғым келеді</string>
+    <string name="common_url_load_unsuccessful_message">Android құрылғыңыз деректер қызметіне қосылмаған. Бұл ақпаратты қазір көру үшін %s мекенжайына веб-браузермен кіріңіз.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android құрылғыңыз Wi-Fi желісіне қосылмаған. Бұл ақпаратты қазір көру үшін %s мекенжайына веб-браузермен кіріңіз.</string>
+    <string name="common_url_login_notice">%1$s ретінде кіру</string>
+    <string name="common_usage_and_diagnostics">Пайдалану және диагностика</string>
+    <string name="confirm_copy_button_text">Көшіру</string>
+    <string name="contacts_number_local_and_sim_with_google">SIM картасы контактілері: %1$d, құрылғыдағы контактілер: %2$d, Google Contacts</string>
+    <string name="contacts_number_local_with_google">Құрылғыдағы контактілер: %1$d, Google Contacts</string>
+    <string name="contacts_number_sim_with_google">SIM картасы контактілері: %1$d, Google Contacts</string>
+    <string name="copy_confirmation_description">Google есептік жазбасы және қолданбалар сияқты деректер жаңа телефонға көшіріледі</string>
+    <string name="copy_confirmation_title">Жаңа телефонға көшіру керек пе?</string>
+    <string name="d2d_app_picker_description_no_apps">Ешқандай қолданба табылмады</string>
+    <string name="d2d_app_picker_title">Қолданбалар</string>
+    <string name="d2d_migration_canceled_on_source">Көшіруден бас тартылды</string>
+    <string name="data_copied_fragment_description">Деректеріңіз жаңа телефонға көшірілді. Кабельді ажыратуға болады.</string>
+    <string name="data_copied_fragment_description_cancel">Көшіру тоқтатылғандықтан, деректердің бір бөлігі ғана жаңа телефонға көшірілді.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Көшіру тоқтатылғандықтан, жаңа телефонға ештеңе көшірілмеді.</string>
+    <string name="data_copied_fragment_description_error">Бірдеңеден қате кеткендіктен, толық көшірілмеді.</string>
+    <string name="data_copied_fragment_description_error_no_data">Бірдеңеден қате кеткендіктен, деректер көшірілмеді.</string>
+    <string name="data_copied_fragment_no_data_title">Көшірілмеді</string>
+    <string name="data_copied_fragment_some_data_title">Деректердің бір бөлігі ғана көшірілді</string>
+    <string name="data_copied_fragment_title">Деректер көшірілді</string>
+    <string name="device_backup_title">Құрылғының сақтық көшірмесі</string>
+    <string name="device_not_supported_fragment_new_device">Жаңа телефонға жалғадыңыз. Жалғастыру үшін алдыңғысына қайта жалғаңыз.</string>
+    <string name="device_not_supported_fragment_new_device_title">Алдыңғы телефонға қайта жалғаңыз</string>
+    <string name="device_not_supported_fragment_no_data_cable">Бұл кабель деректерді тасымалдай алмайды. Басқа кабельді қайта жалғап, әрекетті қайталаңыз.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Басқа кабельді пайдаланып көріңіз</string>
+    <string name="device_not_supported_fragment_retry_description">Ескі телефонның құлпы ашылғанына көз жеткізіп, кабельді ажыратыңыз да, қайта қосыңыз</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Бірдеңе дұрыс болмады</string>
+    <string name="device_picker_description">Сақтық көшірмелер Google Drive жадында сақталады</string>
+    <string name="device_picker_item">%1$s құрылғысы деректерінің сақтық көшірмесі</string>
+    <string name="device_picker_last_used">Соңғы пайдаланылған күні: ^1</string>
+    <string name="device_picker_skip">Қалпына келтірмеу</string>
+    <string name="device_picker_title">Деректерінің сақтық көшірмесі қалпына келтірілетін құрылғыны таңдаңыз</string>
+    <string name="disabled_by_admin_summary_text">Әкімші басқарады</string>
+    <string name="download_msg_error_invalid">Жүктеу қате конфигурацияланған.</string>
+    <string name="download_msg_in_progress">Жүктеу орындалуда.</string>
+    <string name="download_msg_not_allowed_space">Жүктеуді орындау үшін бос орын жеткіліксіз.</string>
+    <string name="download_msg_pending">Жүктеу күтілуде.</string>
+    <string name="download_notification_description">%1$s осыны сұрады.</string>
+    <string name="download_notification_title">Қосымша деректер алынуда</string>
+    <string name="drive_backup_account">Сақтық көшірме жасауға арналған есептік жазба</string>
+    <string name="drive_backup_app_includes_data">Қолданба деректерін қамтиды</string>
+    <string name="drive_backup_apps_in_backup">Сақтық көшірмесі бар қолданбалар</string>
+    <string name="drive_backup_apps_last_backup">Соңғы сақтық көшірме</string>
+    <string name="drive_backup_apps_loading">Жүктелуде…</string>
+    <string name="drive_backup_apps_screen_title">Қолданбалар</string>
+    <string name="drive_backup_content_apps_title">Қолданбалар</string>
+    <string name="drive_backup_content_calendar_title">Күнтізбе</string>
+    <string name="drive_backup_content_callhistory_title">Қоңыраулар тарихы</string>
+    <string name="drive_backup_content_contacts_title">Контактілер</string>
+    <string name="drive_backup_content_devicesettings_title">Құрылғы параметрлері</string>
+    <string name="drive_backup_content_header">Мазмұн</string>
+    <string name="drive_backup_content_photos_dialog_message">Photos қосымша есептік жазбасын %s деп өзгерту керек пе?</string>
+    <string name="drive_backup_content_photos_dialog_no">Жоқ</string>
+    <string name="drive_backup_content_photos_dialog_title">Photos қосымша есептік жазбасын өзгерту керек пе?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Иә</string>
+    <string name="drive_backup_content_photos_title">Фотосуреттер мен бейнелер</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Түсіндім</string>
+    <string name="drive_backup_content_status_error">Соңғы сақтық көшірме жасалған күнді анықтауда қате пайда болды</string>
+    <string name="drive_backup_content_status_lastsaved">Соңғы сақтық көшірме: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Сақтық көшірмесі жасалмады</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Есептік жазба параметрлері</string>
+    <string name="drive_backup_content_status_updating">Күйі тексерілуде...</string>
+    <string name="drive_backup_settings_title">Сақтық көшірме</string>
+    <string name="drive_backup_state">Google Drive қолданбасына сақтық көшірме жасау</string>
+    <string name="drive_backup_state_dialog_message">"Ол Google Photos секілді %s үшін сақтық көшірме жасау функциясын тоқтатады.
+
+Сақтық көшірмесі жасалған фотосуреттерге, бейнелерге, контактілерге және күнтізбе оқиғаларына тиісті Google өнімдері арқылы кіруге болады .
+
+Қалған барлық деректер жойылады."</string>
+    <string name="drive_backup_state_dialog_okaction">Өшіру</string>
+    <string name="drive_backup_state_dialog_title">Сақтық көшірмені өшіру және жою</string>
+    <string name="durationDayHour">%1$d күн %2$d сағ</string>
+    <string name="durationDayHours">%1$d күн %2$d сағ</string>
+    <string name="durationDays">%1$d күн</string>
+    <string name="durationHourMinute">%1$d сағ %2$d мин</string>
+    <string name="durationHourMinutes">%1$d сағ %2$d мин</string>
+    <string name="durationHours">%1$d сағат</string>
+    <string name="durationMinute">%1$d минут</string>
+    <string name="durationMinuteSecond">%1$d мин %2$d сек</string>
+    <string name="durationMinuteSeconds">%1$d мин %2$d сек</string>
+    <string name="durationMinutes">%1$d минут</string>
+    <string name="durationSecond">%1$d секунд</string>
+    <string name="durationSeconds">%1$d секунд</string>
+    <string name="encryption_warning_fragment_description">"iPhone® құрылғысы сақтық көшірмені шифрлауды қосқандықтан, тек фотосуреттер, бейнелер және музыканы көшіруге болады.
+
+Көбірек деректерді көшіру үшін алдымен iPhone® құрылғысын компьютерге жалғаңыз. iTunes® қызметін компьютерден ашып, сақтық көшірмені шифрлауды өшіріңіз де, көшіру әрекетін қайталаңыз.
+
+Қосымша анықтаманы "<b>g.co/datatransferhelp</b> бетінен қараңыз.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Бұл – көлемді деректерді тасымалдаудың ең жылдам тәсілі.
+
+Адаптерді қораптан алып, жаңа телефонға қосыңыз. Телефондарды кабельдермен өзара жалғаңыз да, ескі телефонның құлпын ашыңыз."</string>
+    <string name="fragment_waiting_title">Күте тұрыңыз…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_contacts_static_text">Google Contacts синхрондалады</string>
+    <string name="google_contacts_static_text_off">Google Contacts синхрондала береді</string>
+    <string name="header_set_backup_account">Сақтық есептік жазбасын жасақтау</string>
+    <string name="i_message_dialog_message">"iMessage® пайдаланушыларынан SMS хабарларын әрі қарай ала беру үшін  iPhone® опциясын өшіру қажет.
+
+Нұсқауларды "<b>g.co/iMessageHelp</b> бетінен алыңыз.</string>
+    <string name="instructions_fragment_title">Басқа телефонда жалғастыру</string>
+    <string name="ios_connected_fragment_description">"Жалғастыру үшін iPhone® құрылғысында пайдаланылатын Google есептік жазбасымен кіріңіз.
+
+Жылдамырақ тасымалдау үшін реттеу кезінде iPhone® құрылғысын пайдаланыңыз."</string>
+    <string name="ios_message_attachment_placeholder">[\"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде сақталған тіркеме]</string>
+    <string name="ios_message_attachments_placeholder">[\"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде сақталған тіркемелер]</string>
+    <string name="ios_migration_default_calendar_title">Күнтізбе</string>
+    <string name="ios_photos_dialog_message">"iCloud® қызметінде сақталған суреттер көшірілмейді.
+
+Оларды Pixel-ге жүктеп алу үшін Google Photos қолданбасын iPhone® құрылғысына орнатып, \"Сақтық көшірме жасау және синхрондау\" функциясын іске қосыңыз. Қосымша нұсқауларды "<b>g.co/datatransferhelp</b> сайтынан алыңыз.</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="list_item_add_account">Есептік жазба қосу</string>
+    <string name="lockscreen_smartdevice_action_next">Келесі</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Телефонды реттеуді жалғастыру үшін құлыпты ашыңыз</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Қауіпсіздік үшін экран құлпын растап, орнатуды жалғастырыңыз</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Экран құлпын растаңыз</string>
+    <string name="manage_data_label">Деректердің сақтық көшірмесін басқару</string>
+    <string name="master_clear_title">Зауыттық деректерді қалпына келтіру</string>
+    <string name="megabyteShort">MБ</string>
+    <string name="notification_content_text_set_backup_account">Сақтық көшірме есептік жазбасын орнату қажет.</string>
+    <string name="notification_content_title_set_backup_account">Сақтық көшірме</string>
+    <string name="notification_ticker_set_backup_account">Сақтық есептік жазба қажет</string>
+    <string name="permgrouplab_calendar">Күнтізбе</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контактілер</string>
+    <string name="permgrouplab_location">Орын</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Дене датчиктері</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Жад</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photo_backup_configure_account_default_summary">Ешқандай есептік жазба қазір сақтық көшірмесі жасалған фотосуреттерді сақтап жатқан жоқ</string>
+    <string name="photos_backup_title">Фотосуреттердің сақтық көшірмесі</string>
+    <string name="photos_filtering_option_all">Барлық</string>
+    <string name="photos_filtering_option_none">Ешқандай</string>
+    <string name="restore_choice_data_disclaimer">Басқа телефондағы кейбір деректер ^1 құрылғысына көшірілмейді. <annotation link="restore_choice_data_disclaimer_learn_more">Толығырақ</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Көшірілген контактілер Google есептік жазбасына сақталады.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Көшірілген контактілер мен күнтізбелер Google есептік жазбасына сақталады.</string>
+    <string name="restore_choice_learn_more_android">"Ескі телефондағы кейбір деректер автоматты түрде көшірілмейді:
+
+ ● жүктеп алынғандар (мысалы, PDF файлдары)
+
+ ● жасырын қалтадарда сақталған суреттер, бейнелер және музыка
+
+ ● мәтіндік хабар арқылы алынған суреттер, бейнелер және музыка
+
+ ● Google Play Store дүкенінен алынбаған қолданбалар
+
+ ● қолданба деректері (қолданба Android сақтық көшірмесін пайдаланбаса)
+
+ ● белгілі бір құрылғы параметрлері
+
+ ● Google есептік жазбасынан басқа есептік жазбалар (және кез келген қатысты деректер)
+
+ ● Google-дан өзге қызметтермен синхрондалған контактілер және күнтізбелер
+
+ ● рингтондар
+
+ қосымша мәліметтер алу үшін және кейбір деректерді көшіру үшін, g.co/datatransferhelp бетіне кіріңіз."</string>
+    <string name="restore_choice_learn_more_ios">"Ескі телефоныңыздағы кейбір деректерді автоматты түрде көшіру мүмкін емес:
+
+ ● қолданбалар және қолданба деректері
+
+ ● түпнұсқасы телефонда сақталмаған суреттер (мысалы, \"Жадты оңтайландыру\" параметрі қосулы болса, түпнұсқа суреттер iCloud® қызметінде сақталады)
+
+ ● файлдар мен құжаттар iCloud® қызметінде сақталады
+
+ ● құрылғы параметрлері (мысалы, Wi-Fi құпия сөздері және тұсқағаз)
+
+ ● Digital Rights Management (DRM) арқылы қорғалған музыка (мысалы, 2009 жылдың сәуіріне дейін сатып алынған iTunes(R) музыкасы немесе трансляциялау қолданбасынан офлайн тыңдау үшін жүктелген музыка)
+
+ ● Google есептік жазбасынан басқа есептік жазбалар (және кез келген қатысты деректер)
+
+ ● Google не iCloud® қызметінен өзге қызметтермен синхрондалған контактілер және күнтізбелер
+
+ ● Safari® браузеріндегі бетбелгілер
+
+ iMessage® тіркемелері \"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде қолжетімді болады.
+
+ қосымша мәліметтер алу үшін және кейбір деректерді көшіру үшін, g.co/datatransferhelp бетіне кіріңіз."</string>
+    <string name="restore_choice_not_enough_space">Бос орын жеткіліксіз</string>
+    <string name="restore_choice_total_text">қолжетімді %1$s ішінен / %2$s тасымалданады</string>
+    <string name="restore_item_appdata">Қолданба деректері</string>
+    <string name="restore_item_calendar">Күнтізбе</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar синхрондалады</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar синхрондалады</string>
+    <string name="restore_item_call_logs">Қоңыраулар тарихы</string>
+    <string name="restore_item_contacts">Контактілер</string>
+    <string name="restore_item_device_settings_description">Wi-Fi құпия сөздері және басқалар</string>
+    <string name="restore_item_downloads">Жүктеп алынғандар</string>
+    <string name="restore_item_email">Электрондық пошта</string>
+    <string name="restore_item_email_description">Gmail синхрондалады</string>
+    <string name="restore_item_message_attachments">Хабар тіркемелері</string>
+    <string name="restore_item_messages">Хабарлар</string>
+    <string name="restore_item_music">Mузыка</string>
+    <string name="restore_item_photos">Фотосуреттер мен бейнелер</string>
+    <string name="restore_item_settings">Құрылғы параметрлері</string>
+    <string name="restore_item_sms">SMS хабарлары</string>
+    <string name="restore_item_will_be_synced_text">Бұл деректер телефонмен синхрондалады</string>
+    <string name="small_time_duration">1 минутқа жетпейді</string>
+    <string name="source_connected_description">Дайындалуда…</string>
+    <string name="source_connected_title">%1$s құрылғыңызға жалғанған</string>
+    <string name="source_copying_description">Таңдалған деректер жаңа телефонға көшірілуде</string>
+    <string name="source_copying_title">Көшірілуде...</string>
+    <string name="source_default_target_device_name">жаңа құрылғы</string>
+    <string name="source_notification_device_disconnected">Кабельді қайта қосыңыз</string>
+    <string name="source_notification_text">Телефоннан телефонға тасымалдануда</string>
+    <string name="source_notification_title">Деректер тасымалы</string>
+    <string name="source_success_description">%1$s құрылғысын орнатуды аяқтаңыз.</string>
+    <string name="source_success_screen_title">Дайын!</string>
+    <string name="source_unplugged_description">%1$s құрылғысына қайта қосылыңыз</string>
+    <string name="source_unplugged_title">Кабель ажыратылды</string>
+    <string name="source_waiting_title">Орнатуды %1$s құрылғысында жалғастырыңыз</string>
+    <string name="stop_copying_dialog_continue_button">Бас тарту</string>
+    <string name="stop_copying_dialog_message_before_transfer">Деректер жаңа телефонға көшірілмеді</string>
+    <string name="stop_copying_dialog_message_during_transfer">Кейбір деректер жаңа телефонға көшірілмеді</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Көшірмеу</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Тоқтату</string>
+    <string name="stop_copying_dialog_title_before_transfer">Көшірілмесін бе?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Көшіру тоқтатылсын ба?</string>
+    <string name="storage_management_drive_clear_failure">Drive деректерін тазалау кезінде қате болды. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="storage_management_drive_clear_label">Тазалау</string>
+    <string name="storage_management_drive_clear_success">Drive деректері тазаланды.</string>
+    <string name="storage_management_drive_clearing">Тазалануда…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Drive қолдайтын қолданбалардың барлық жергілікті Drive деректері біржола жойылады. Бұл Google Drive серверіне әрі кері жүктелмеген күтудегі өзгертулерді қамтуы мүмкін.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Барлық деректерді тазалау керек пе?</string>
+    <string name="storage_management_drive_descriptive_text">Drive қолдайтын қолданбалар өнімділікті жақсарту және желіден тыс қатынасуды қосу үшін файлдарды құрылғыңызда сақтайды.</string>
+    <string name="storage_management_drive_get_storage_failure">Drive қоймасын пайдалануды есептеу кезінде қате болды. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="storage_management_drive_size_label">Жергілікті Drive қоймасы</string>
+    <string name="storage_management_wear_descriptive_text">Қолданбалар құрылғыңыздың жадын деректерді киілетін құрылғыға репликалау үшін пайдаланылады.</string>
+    <string name="storage_management_wear_manage_size_label">Киілетін құрылғы жадын басқару</string>
+    <string name="storage_management_wear_size_label">Киілетін құрылғы жады</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play қызметтері, соның ішінде іздеу жүйесі пайдаланған жалпы деректер және басқа деректер.</string>
+    <string name="storage_managment_clear_all_data">Барлық деректерді тазалау</string>
+    <string name="storage_managment_computing_size">Есептелуде…</string>
+    <string name="storage_managment_icing_size_label">Іздеу деректері</string>
+    <string name="storage_managment_manage_icing_button">Іздеу деректерін басқару</string>
+    <string name="storage_managment_search_index_descriptive_text">Біз қолданбаларыңыз пайдаланатын іздеу жүйесін қамтамасыз ету арқылы телефоныңызда іздеуді тездетеміз.</string>
+    <string name="storage_managment_title">Google Play қызметтерінің қоймасы</string>
+    <string name="storage_managment_total_size_label">Жалпы қойма</string>
+    <string name="target_default_source_device_model">ескі құрылғы</string>
+    <string name="target_device_not_supported_cant_continue_description">Деректерді көшірудің басқа жолын таңдаңыз</string>
+    <string name="target_device_not_supported_cant_continue_title">Басқа телефонға қолдау көрсетілмейді</string>
+    <string name="target_smart_device_timeout_add_account">ЕСЕПТІК ЖАЗБА ҚОСУ</string>
+    <string name="target_smart_device_timeout_description">Егер қаласаңыз, есептік жазбаны қолмен қосып көруіңізге болады</string>
+    <string name="target_smart_device_timeout_dismiss">ЖАБУ</string>
+    <string name="target_smart_device_timeout_title">Қиындық бар ма?</string>
+    <string name="terabyteShort">TБ</string>
+    <string name="toast_phones_connected">Телефондар қосылды</string>
+    <string name="toast_reconnect_cable">Кабельді қайта қосыңыз</string>
+    <string name="transfer_finished_fragment_title">Аяқталуға жақын...</string>
+    <string name="transfer_summary_copied">Деректер көшірілді</string>
+    <string name="transfer_summary_fragment_description">Кабельді ажыратыңыз</string>
+    <string name="transfer_summary_fragment_finish">АЯҚТАУ</string>
+    <string name="transfer_summary_fragment_title">Телефонға деректер толығымен дерлік жіберілді</string>
+    <string name="transfer_summary_icloud_photos_warning">Кейбір суреттер көшірілмеді. <annotation link="transfer_summary_learn_more">Толығырақ</annotation></string>
+    <string name="transfer_summary_not_copied">Деректер көшірілмеді</string>
+    <string name="transfer_summary_partial">%1$s/%2$s көшірілді</string>
+    <string name="transfer_summary_will_sync">Реттеу аяқталғаннан кейін, деректер синхрондалады</string>
+    <string name="transferring_fragment_calculating_remaining_time">Қалған уақыт есептелуде...</string>
+    <string name="transferring_fragment_header">Көшірілуде...</string>
+    <string name="transferring_fragment_remaining_time">%1$s қалды</string>
+    <string name="trust_instructions_description">Жалғастыру үшін iPhone® құрылғысын тексеріп, байланысты мақұлдаңыз</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari және iTunes – Apple Inc. компаниясының АҚШ-та және басқа елдерде тіркелген сауда белгілері.</string>
+</resources>

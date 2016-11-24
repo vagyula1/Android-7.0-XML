@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d kişi bulundu</item>
+        <item quantity="one">1 kişi bulundu</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d okunmamış öğe.</item>
+        <item quantity="one">%1$s. %2$d okunmamış öğe.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kişiler silindi</item>
+        <item quantity="one">Kişi silindi</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Telefon numarası olan %d kişi</item>
+        <item quantity="one">Telefon numarası olan 1 kişi</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d kişi bulundu</item>
+        <item quantity="one">1 kişi bulundu</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grup</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s türünde %1$d kişi</item>
+        <item quantity="one">%2$s türünde %1$d kişi</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Bağlı kişiler (%d)</item>
+        <item quantity="one">Bağlı kişi</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d Olası kopya</item>
+        <item quantity="one">1 Olası kopya</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">Bağlı %d kişi</item>
+        <item quantity="one">Bağlı 1 kişi</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

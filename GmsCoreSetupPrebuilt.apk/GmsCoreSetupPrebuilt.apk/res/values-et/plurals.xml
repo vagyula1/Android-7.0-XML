@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Kõik %1$d rakendust</item>
+        <item quantity="one">1 rakendus</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Valitud on %1$d rakendust</item>
+        <item quantity="one">Valitud on 1 rakendus</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Teie varukoopias on %1$d rakendust. Tooge mõned või kõik üle.</item>
+        <item quantity="one">Teie varukoopias on %1$d rakendus.</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">%1$d kohalikku kontakti</item>
+        <item quantity="one">1 kohalik kontakt</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">%1$d SIM-kaardil, %2$d kohalikku</item>
+        <item quantity="one">%1$d SIM-kaardil, %2$d kohalikku</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM-kaardi kontakti</item>
+        <item quantity="one">1 SIM-kaardi kontakt</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Leidsime %1$d rakendust. Tooge mõned või kõik üle.</item>
+        <item quantity="one">Leidsime %1$d rakenduse. Kas soovite selle üle tuua?</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Jäänud on %1$d üksust …</item>
+        <item quantity="one">Jäänud on %1$d üksus …</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">%1$d kontakti</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">"%1$d kontakti, Google'i kontaktid"</item>
+        <item quantity="one">"1 kontakt, Google'i kontaktid"</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Pange tähele! See sündmus ei sisalda enam järgmiseid osalejaid:</item>
+        <item quantity="one">Pange tähele! See sündmus ei sisalda enam järgmist osalejat:</item>
+    </plurals>
+</resources>

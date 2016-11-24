@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Ще се изключи след %d секунди…</item>
+        <item quantity="one">Ще се изключи след 1 секунда…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Следните профили са в готовност:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Следният профил е в готовност:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Още %d докосвания до началото на настройването с код за бърза реакция</item>
+        <item quantity="one">Още %d докосване до началото на настройването с код за бърза реакция</item>
+    </plurals>
+</resources>

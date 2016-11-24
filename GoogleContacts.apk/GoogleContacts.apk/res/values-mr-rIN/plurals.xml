@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d आढळले</item>
+        <item quantity="one">%d आढळला</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d न वाचलेले आयटम.</item>
+        <item quantity="one">%1$s. %2$d न वाचलेला आयटम.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">संपर्क हटविले</item>
+        <item quantity="one">संपर्क हटविला</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">फोन नंबरसह %d संपर्क</item>
+        <item quantity="one">फोन नंबरसह %d संपर्क</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d आढळले</item>
+        <item quantity="one">%d आढळला</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d गट</item>
+        <item quantity="one">%0$d गट</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s मधील %1$d लोक</item>
+        <item quantity="one">%2$s मधील %1$d व्यक्ती</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d लोक</item>
+        <item quantity="one">%1$d व्‍यक्‍ती</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">दुवा जोडलेले संपर्क (%d)</item>
+        <item quantity="one">दुवा जोडलेला संपर्क (%d)</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d संभाव्य डुप्लिकेट</item>
+        <item quantity="one">%d संभाव्य डुप्लिकेट</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d दुवा साधलेले संपर्क</item>
+        <item quantity="one">%d दुवा साधलेला संपर्क</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one">(%d)</item>
+    </plurals>
+</resources>

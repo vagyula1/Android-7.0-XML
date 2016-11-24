@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s necesită o actualizare a aplicației Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitată de %1$s</string>
+    <string name="common_google_play_services_install_title">Descărcaţi Servicii Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe tabletă.</string>
+    <string name="common_google_play_services_install_button">Obţineţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_title">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_button">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_update_title">Actualizaţi Servicii Google Play</string>
+    <string name="common_android_wear_update_title">Actualizați Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_android_wear_update_text">%1$s nu va rula decât dacă actualizați aplicația Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Se actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_network_error_title">Eroare de reţea</string>
+    <string name="common_google_play_services_network_error_text">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Cont nevalid</string>
+    <string name="common_google_play_services_invalid_account_text">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="common_google_play_services_unknown_issue">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Servicii Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență.</string>
+    <string name="common_google_play_services_update_button">Actualizaţi</string>
+    <string name="common_signin_button_text">Conectați</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Conectarea nu a reușit</string>
+    <string name="common_google_play_services_sign_in_failed_text">Eroare la conectarea la contul specificat. Alegeți alt cont.</string>
+    <string name="app_name">Motorul de sintetizare vocală Google</string>
+    <string name="general_settings">Setări generale</string>
+    <string name="license_activity_title">Licențe open source</string>
+    <string name="license_activity_loading">Se încarcă…</string>
+    <string name="license_activity_unavailable">A apărut o problemă la încărcarea licențelor.</string>
+    <string name="tts_settings_label">Opțiuni pt. sintetizarea vocală Google</string>
+    <string name="voice_data_install_title">Date vocale TTS Google</string>
+    <string name="install_data_header">Descărcați aceste date pentru ca sintetizarea vorbirii să fie acceptată offline pe dispozitivul dvs.</string>
+    <string name="download_invite_title">Instalați vocea %1$s pentru transformarea textului în vorbire</string>
+    <string name="download_invite">Activați transformarea offline a textului în vorbire pentru %1$s</string>
+    <string name="install_voice_text_2">Disponibil pentru descărcare.</string>
+    <string name="download_in_progress">În curs de descărcare</string>
+    <string name="no_installable_voices">Nu există voci care pot fi descărcate</string>
+    <string name="cancel">Anulați</string>
+    <string name="delete_voice_data">Ștergeți</string>
+    <string name="update">Actualizați</string>
+    <string name="download">Descărcați</string>
+    <string name="voice_installed">Instalat.</string>
+    <string name="voice_installed_and_default">Instalat și setat ca prestabilit.</string>
+    <string name="download_notification_title">%2$s pentru %1$s</string>
+    <string name="download_notification_description">Date vocale pentru transformarea textului în vorbire</string>
+    <string name="download_success_title">Date vocale descărcate pentru %1$s</string>
+    <string name="download_success_description">Atingeți pentru a accesa setările și pentru a seta această voce ca prestabilită.</string>
+    <string name="download_failure_title">Eroare la descărcarea datelor vocale pentru %1$s</string>
+    <string name="download_failure_description">Atingeți pentru a încerca din nou.</string>
+    <string name="download_failed_toast">Descărcarea pachetului de date vocale nu a putut începe.</string>
+    <string name="manage_voice_data">Gestionați datele vocale</string>
+    <string name="auto_update_title">Actualizați automat vocile</string>
+    <string name="auto_update_wifi_title">Numai prin Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Descărcați date vocale numai prin Wi-Fi. Reduce consumul de date.</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_failed">Nu se poate deschide formularul de feedback</string>
+    <string name="voices_type_title">Tip de voci</string>
+    <string name="voices_type_summary">[VERSIUNE DE TESTARE]Tip de sintetizator vocal</string>
+    <string name="analytics_title">Rapoarte anonime privind utilizarea</string>
+    <string name="analytics_summary_on">Activați</string>
+    <string name="analytics_summary_off">Dezactivați</string>
+    <string name="analytics_screen_explanation">"Atunci când această funcție este activată, culegem rapoarte anonime privind utilizarea. Astfel, înțelegem mai bine performanța de pe dispozitiv a funcției Google de transformare a textului în vorbire.
+
+Exemple de valori cumulate pe care le culegem:
+"<li><ul>"cât de des este folosită transformarea textului în vorbire;
+"<li>performanța solicitărilor de transformare a textului în vorbire;</li>"
+"<li>ce limbi sunt folosite;</li>"
+"<li>cât de des transformarea textului în vorbire nu poate oferi mesaje vocale.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Adăugați intrarea GoogleTTS în meniul de selectare a textului</string>
+    <string name="process_text_summary">Această nouă intrare va sintetiza orice text selectat.</string>
+    <string name="voice_pack_status_installed">Pachet instalat (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Feminin</string>
+    <string name="voice_pack_status_gender_male">Masculin</string>
+    <string name="voice_entity_status_gender_female">Feminină %1$d</string>
+    <string name="voice_entity_status_gender_male">Masculină %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Sex necunoscut %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Voce veche de femeie</string>
+    <string name="voice_pack_status_gender_male_legacy">Voce veche de bărbat</string>
+    <string name="voice_pack_status_gender_unknown">Sex necunoscut</string>
+    <string name="voice_pack_status_updatable">Actualizare disponibilă</string>
+    <string name="voice_pack_status_downloadable">Descărcați (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Voce actuală</string>
+    <string name="voice_pack_status_downloading">Se descarcă...</string>
+    <string name="voice_pack_name_high_quality">%1$s (calitate înaltă)</string>
+    <string name="voice_pack_description">"Nume: %1$s 
+Limbă: %2$s 
+Dimensiunea datelor: ~%3$s 
+Voce de gen: %4$s"</string>
+    <string name="voice_pack_action_download">Descărcați (~%1$s)</string>
+    <string name="voice_pack_action_remove">Eliminați</string>
+    <string name="voice_pack_action_update">Actualizați (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Utilizați această voce pentru %1$s</string>
+    <string name="voice_pack_action_cancel">Anulați descărcarea</string>
+    <string name="voice_pack_install_tab_installed">INSTALATE</string>
+    <string name="voice_pack_install_tab_all">TOATE</string>
+    <string name="voice_pack_install_tab_settings">SETĂRI</string>
+    <string name="voice_entry_details">Lansați dialogul cu detalii despre voce</string>
+    <string name="voice_entry_edit_desc">Deschideți pachetul de voci</string>
+    <string name="voice_entry_overflow_desc">Acțiuni suplimentare pentru pachetul de voce</string>
+    <string name="voice_entry_download_desc">Descărcați pachetul de voce</string>
+    <string name="voice_entry_cancel_download_desc">Anulați descărcarea pachetului de voce</string>
+    <string name="voice_entry_delete_desc">Ștergeți pachetul de voce</string>
+    <string name="voice_entry_sample">Redați un eșantion vocal</string>
+    <string name="voice_pack_not_enough_space">Spațiu insuficient în memoria internă. Eliberați spațiu pentru a instala vocea.</string>
+    <string name="action_settings">Opțiuni</string>
+    <string name="action_licenses">Licențe open source</string>
+    <string name="action_voice_pack_update">Actualizați</string>
+    <string name="action_voice_pack_uninstall">Dezinstalați</string>
+    <string name="voice_pack_uninstall_dialog">Dezinstalați vocea?</string>
+    <string name="voice_pack_uninstall_keep">Păstrați</string>
+    <string name="voice_pack_uninstall_uninstall">Dezinstalați</string>
+    <string name="voice_pack_unpack_failure">Instalarea vocii descărcate nu a reușit</string>
+    <string name="multi_voice_pack_title">Voci pentru %1$s</string>
+    <string name="multi_voice_pack_entry_name">Setul de voci %1$d</string>
+    <string name="morphed_voice_set_title">Set de voci</string>
+    <string name="select_voice_title">Selectați vocea</string>
+    <string name="play_sample_text_button_description">Redați un exemplu de text pentru %1$s</string>
+    <string name="voice_pack_no_download_manager">Manager de descărcare dezactivat sau inexistent; nu se poate descărca pachetul de voce</string>
+    <string name="unpack_voice_pack_service_title">Se actualizează datele de transformare a textului în vorbire</string>
+    <string name="unpack_voice_pack_service_text">Se dezarhivează...</string>
+    <string name="sample_text_synthesis_failure">Nu s-a sintetizat un exemplu pentru această voce.</string>
+    <string name="quick_wait_for_init">Se încarcă</string>
+    <string name="quick_synthesizing">Se sintetizează</string>
+    <string name="quick_speaking">Se rostește</string>
+    <string name="quick_stopped">S-a oprit</string>
+    <string name="quick_error">Eroare</string>
+</resources>

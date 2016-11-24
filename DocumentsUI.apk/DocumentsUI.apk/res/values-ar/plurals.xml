@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">جارٍ نسخ %1$d من الملفات.</item>
+        <item quantity="zero">جارٍ نسخ %1$d ملفات.</item>
+        <item quantity="one">جارٍ نسخ ملف واحد (%1$d).</item>
+        <item quantity="two">جارٍ نسخ ملفين (%1$d).</item>
+        <item quantity="few">جارٍ نسخ %1$d ملفات.</item>
+        <item quantity="many">جارٍ نسخ %1$d ملفًا.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">جارٍ نقل %1$d من الملفات.</item>
+        <item quantity="zero">لا ملفات %1$d يجري نقلها.</item>
+        <item quantity="one">جارٍ نقل %1$d ملف واحد.</item>
+        <item quantity="two">جارٍ نقل ملفين (%1$d).</item>
+        <item quantity="few">جارٍ نقل %1$d ملفات.</item>
+        <item quantity="many">جارٍ نقل %1$d ملفًا.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">جارٍ حذف %1$d من الملفات.</item>
+        <item quantity="zero">جارٍ حذف %1$d ملف.</item>
+        <item quantity="one">جارٍ حذف %1$d ملف.</item>
+        <item quantity="two">جارٍ حذف ملفين (%1$d).</item>
+        <item quantity="few">جارٍ حذف %1$d ملفات.</item>
+        <item quantity="many">جارٍ حذف %1$d ملفًا.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">تعذر نسخ %1$d ملف</item>
+        <item quantity="zero">Couldn’t copy %1$d files</item>
+        <item quantity="one">تعذر نسخ ملف (%1$d)</item>
+        <item quantity="two">تعذر نسخ ملفين (%1$d)</item>
+        <item quantity="few">تعذر نسخ %1$d ملفات</item>
+        <item quantity="many">تعذر نسخ %1$d ملفًا</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">تعذر نقل %1$d ملف</item>
+        <item quantity="zero">Couldn’t move %1$d files</item>
+        <item quantity="one">تعذر نقل ملف (%1$d)</item>
+        <item quantity="two">تعذر نقل ملفين (%1$d)</item>
+        <item quantity="few">تعذر نقل %1$d ملفات</item>
+        <item quantity="many">تعذر نقل %1$d ملفًا</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">تعذر حذف %1$d ملف</item>
+        <item quantity="zero">Couldn’t delete %1$d files</item>
+        <item quantity="one">تعذر حذف ملف (%1$d)</item>
+        <item quantity="two">تعذر حذف ملفين (%1$d)</item>
+        <item quantity="few">تعذر حذف %1$d ملفات</item>
+        <item quantity="many">تعذر حذف %1$d ملفًا</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">تم نسخ %1$d من الملفات إلى الحافظة.</item>
+        <item quantity="zero">لم يتم نسخ أي ملف (%1$d) إلى الحافظة.</item>
+        <item quantity="one">تم نسخ ملف واحد (%1$d) إلى الحافظة.</item>
+        <item quantity="two">تم نسخ ملفين اثنين (%1$d) إلى الحافظة.</item>
+        <item quantity="few">تم نسخ %1$d ملفات إلى الحافظة.</item>
+        <item quantity="many">تم نسخ %1$d ملفًا إلى الحافظة.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="zero">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد %1$d</item>
+        <item quantity="two">تم تحديد %1$d</item>
+        <item quantity="few">تم تحديد %1$d</item>
+        <item quantity="many">تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">عنصر واحد (%1$d)</item>
+        <item quantity="two">عنصران (%1$d)</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصرًا</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">هل تريد حذف %1$d ملف؟</item>
+        <item quantity="zero">هل تريد حذف %1$d ملف؟</item>
+        <item quantity="one">هل تريد حذف %1$d ملف؟</item>
+        <item quantity="two">هل تريد حذف ملفين (%1$d)؟</item>
+        <item quantity="few">هل تريد حذف %1$d ملفات؟</item>
+        <item quantity="many">هل تريد حذف %1$d ملفًا؟</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">هل تريد حذف %1$d مجلد ومحتويات هذه المجلدات؟</item>
+        <item quantity="zero">هل تريد حذف %1$d مجلد ومحتوياته؟</item>
+        <item quantity="one">هل تريد حذف %1$d مجلد ومحتوياته؟</item>
+        <item quantity="two">هل تريد حذف مجلدين (%1$d) ومحتوياتهما؟</item>
+        <item quantity="few">هل تريد حذف %1$d مجلدات ومحتوياتها؟</item>
+        <item quantity="many">هل تريد حذف %1$d مجلدًا ومحتويات هذه المجلدات؟</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">هل تريد حذف %1$d عنصر؟</item>
+        <item quantity="zero">هل تريد حذف %1$d عنصر؟</item>
+        <item quantity="one">هل تريد حذف %1$d عنصر؟</item>
+        <item quantity="two">هل تريد حذف عنصرين (%1$d)؟</item>
+        <item quantity="few">هل تريد حذف %1$d عناصر؟</item>
+        <item quantity="many">هل تريد حذف %1$d عنصرًا؟</item>
+    </plurals>
+</resources>

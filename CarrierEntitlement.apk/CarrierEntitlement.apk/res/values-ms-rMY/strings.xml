@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Seterusnya</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="entitlement_check_progress">Menyemak status langganan. Sila tunggu.</string>
+    <string name="att_service_upgrade_msg">Untuk mendayakan, pergi ke att.com/mywireless atau dail 611</string>
+    <string name="att_network_error">Rangkaian tidak tersedia. Sila cuba sebentar lagi.</string>
+    <string name="sprint_entitlement_error">Perkhidmatan tidak disokong. Sila hubungi penyedia perkhidmatan anda.</string>
+    <string name="sprint_network_error">Rangkaian tidak tersedia. Sila cuba sebentar lagi.</string>
+    <string name="vzw_service_upgrade_msg">Untuk menggunakan Tempat Liputan Mudah Alih, sila hubungi khidmat pelanggan untuk melanggan.</string>
+    <string name="vzw_network_error">Rangkaian tidak tersedia. Sila cuba sebentar lagi.</string>
+    <string name="vzw_wfc_activation_error">Tidak dapat mengaktifkan panggilan Wi-Fi. Sila cuba sebentar lagi.</string>
+    <string name="vzw_address_update_error">Tidak dapat mengemas kini alamat kecemasan semasa pada masa ini. Sila cuba sebentar lagi.</string>
+    <string name="generic_error">Pengesahan gagal. Sila cuba sebentar lagi.</string>
+    <string name="vzw_setup_app_label">Pengaktifan Akaun Verizon</string>
+    <string name="vzw_activate_title">Pengaktifan telefon</string>
+    <string name="vzw_activate_progress">Sila tunggu sementara kami menyediakan telefon anda.</string>
+    <string name="vzw_activate_exiting">Keluar daripada pengaktifan.</string>
+    <string name="vzw_verify_title">Sahkan akaun anda</string>
+    <string name="vzw_verify_ssn">Masukkan 4 digit terakhir nombor Keselamatan Sosial pemilik akaun anda untuk bermula:</string>
+    <string name="vzw_verify_pwd">Masukkan kata laluan pengebilan akaun anda untuk bermula:</string>
+    <string name="vzw_verify_button">Sahkan</string>
+    <string name="vzw_later_button">Kemudian</string>
+    <string name="vzw_verify_switch_ssn">Sebaliknya, gunakan Keselamatan Sosial</string>
+    <string name="vzw_verify_switch_pwd">Sebaliknya, gunakan kata laluan pengebilan</string>
+    <string name="vzw_verify_progress_title">Mengesahkan akaun anda…</string>
+    <string name="vzw_activate_ready_title">Bersedia untuk mengaktifkan telefon?</string>
+    <string name="vzw_activate_ready_new">Proses ini mungkin mengambil masa beberapa minit</string>
+    <string name="vzw_activate_ready_upgrade">"Sebelum anda mengaktifkan telefon ini, sandarkan kenalan dan matikan telefon lama anda.
+
+Setelah anda memulakan pengaktifan, kami akan memindahkan nombor anda ke telefon ini dan menyahaktifkan telefon lama anda."</string>
+    <string name="vzw_activate_button">Aktifkan</string>
+    <string name="vzw_activating_new_title">Mendapatkan nombor telefon…</string>
+    <string name="vzw_activating_upgrade_title">Memindahkan nombor telefon…</string>
+    <string name="vzw_activating_upgrade">Untuk memindahkan nombor anda ke telefon baharu, telefon lama anda perlu dimatikan.</string>
+    <string name="vzw_activate_success_title">Telefon diaktifkan</string>
+    <string name="vzw_activate_success">Telefon Verizon anda kini aktif. Nombor anda ialah %1$s</string>
+    <string name="vzw_data_limit_title">Penggunaan data terhad</string>
+    <string name="vzw_data_limit">Penggunaan data anda dihadkan pada masa ini disebabkan waktu atau had data. Anda perlu menggunakan Wi-Fi untuk meneruskan penyediaan peranti anda.</string>
+    <string name="vzw_data_restricted_title">Penggunaan data terhad</string>
+    <string name="vzw_data_restricted">Disebabkan waktu atau had data</string>
+    <string name="vzw_data_redirected_title">Dapatkan perkhidmatan Verizon</string>
+    <string name="vzw_data_redirected">Anda tiada pelan Wayarles Verizon atau anda telah menggunakan semua peruntukan pelan anda, sila hubungi Verizon</string>
+    <string name="vzw_activate_notification_title">Bersedia untuk pengaktifan</string>
+    <string name="vzw_activate_notification">Ketik untuk aktifkan telefon</string>
+    <string name="vzw_cold_notification">Hubungi Verizon untuk mengaktifkan telefon anda.</string>
+    <string name="vzw_activate_error_title">Tidak boleh diaktifkan</string>
+    <string name="vzw_activate_error_network">Pastikan isyarat bagus (beberapa bar), kemudian cuba lagi. Jika masalah ini berterusan, sila hubungi khidmat pelanggan melalui (800) 922-0204 untuk mendapatkan bantuan.</string>
+    <string name="vzw_activate_error_lookup">Harap maaf, kami menghadapi masalah mengaktifkan telefon anda. Sila hubungi khidmat pelanggan melalui (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Nombor Keselamatan Sosial tidak sepadan. Sila cuba lagi.</string>
+    <string name="vzw_activate_error_pwd">Kata laluan pengebilan tidak sepadan. Sila cuba lagi.</string>
+    <string name="vzw_activate_error_not_retryable">Harap maaf, kami menghadapi masalah mengaktifkan telefon anda. Sila hubungi khidmat pelanggan melalui (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Untuk mengaktifkan telefon anda, hubungi (800) 922-0204 daripada telefon lain.</string>
+    <string name="vzw_activate_error_restricted_title">Cara mengaktifkan telefon anda</string>
+    <string name="vzw_activate_error_restricted">Untuk mengaktifkan telefon anda, ikut arahan yang disertakan dengan telefon baharu anda atau hubungi pentadbir Verizon Wireless di organisasi anda.</string>
+    <string name="vzw_activate_error_lost_stolen">Maaf, kami menghadapi masalah mengaktifkan telefon anda. Sila hubungi (877) 807-4646 daripada telefon lain untuk mengaktifkan perkhidmatan 4G LTE anda, kemudian cuba lagi.</string>
+    <string name="vzw_activate_continue">Teruskan</string>
+    <string name="vzw_activate_retry">Cuba semula</string>
+    <string name="vzw_activate_skip">Langkau</string>
+    <string name="emergency_address_app_label">Pengurusan Alamat Kecemasan</string>
+    <string name="progress_text">Sila tunggu…</string>
+    <string name="vzw_tos_title">Aktifkan Panggilan Wi-Fi</string>
+    <string name="cancel">Batal</string>
+    <string name="vzw_tos_text">"Panggilan Wi-Fi membolehkan anda membuat panggilan menggunakan Wi-Fi apabila rangkaian mudah alih tidak tersedia.
+
+Untuk menyediakan Panggilan Wi-Fi, anda perlu memasukkan alamat A.S. Alamat ini akan digunakan oleh perkhidmatan kecemasan di lokasi anda jika anda membuat panggilan kecemasan (E911) melalui Wi-Fi daripada telefon ini di A.S.
+
+Kami syorkan anda menukar alamat ini apabila anda membuat panggilan melalui rangkaian Wi-Fi yang berbeza supaya maklumat lokasi anda tepat. Anda boleh menukar lokasi pada bila-bila masa dengan pergi ke menu tetapan Panggilan Wi-Fi."</string>
+    <string name="vzw_tos_link">Terma dan Syarat</string>
+    <string name="vzw_e911_title">Maklumat Lokasi Kecemasan</string>
+    <string name="vzw_e911_description"><b>PENTING - KECEMASAN 911 ALAMAT DIPERLUKAN</b>"
+Untuk menghidupkan Panggilan Wi-Fi, masukkan alamat A.S. yang apabila anda memanggil 911, perkhidmatan kecemasan akan dihantar ke alamat tersebut. Anda boleh pergi ke Tetapan dan menukar alamat ini pada bila-bila masa. Anda perlu mengemas kini alamat ini setiap kali anda bertukar lokasi."</string>
+    <string name="vzw_e911_warning"><b>AMARAN - KECEMASAN 911 PENGEHADAN PANGGILAN</b>"
+Beritahu lokasi anda setiap kali memanggil 911. Panggilan 911 anda akan dibuat melalui Wi-Fi hanya sekiranya rangkaian selular tidak tersedia. Panggilan 911 yang dibuat melalui Wi-Fi mungkin tertangguh atau tidak berjaya; contohnya, jika sistem 911 tidak mengenali alamat, kuasa elektrik terputus atau sambungan Wi-Fi anda tidak berfungsi. Perkhidmatan kecemasan akan dihantar ke alamat yang anda berikan di atas, jadi sila kemas kini alamat itu apabila anda bertukar lokasi."</string>
+    <string name="house_number">Nombor Alamat</string>
+    <string name="street">Jalan</string>
+    <string name="apt_suite_number">Apt, Suite, dll.</string>
+    <string name="city">Bandar</string>
+    <string name="state">Negeri</string>
+    <string name="zip_code">Kod Zip</string>
+    <string name="save">Simpan</string>
+    <string name="vzw_address_confirm_text">"Kami tidak dapat mencari alamat yang anda masukkan kerana alamat jalan tidak ditemui atau bandar, negeri dan kod zip mungkin tidak betul.
+
+Jika bandar, negeri dan kod zip tidak betul, ketik %1$s, jika tidak ketik %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Kami tidak dapat mencari alamat yang anda masukkan kerana alamat jalan tidak ditemui atau bandar, negeri dan poskod mungkin tidak betul.</string>
+    <string name="vzw_address_confirm_text_part2">Jika bandar, negeri dan poskod anda salah, ketik %1$s, jika tidak, ketik %2$s.</string>
+    <string name="save_anyway">Simpan Juga</string>
+    <string name="edit_address">Edit Alamat</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Kami tidak dapat mencari alamat yang anda masukkan:</string>
+    <string name="vzw_address_alternate_text">Adakah anda maksudkan:</string>
+    <string name="vzw_partial_confirm_head">Alamat yang dimasukkan tidak dapat disahkan oleh Penyedia Perkhidmatan Kecemasan.</string>
+    <string name="vzw_partial_confirm_text">Adakah anda pasti mahu menggunakan alamat ini dalam kes kecemasan?</string>
+    <string name="vzw_partial_failure_text">"Bandar, negeri atau kod zip yang anda masukkan mungkin tidak betul.
+
+Sila semak alamat dan cuba lagi."</string>
+    <string name="vzw_partial_failure_text_part1">Bandar, negeri atau kod zip yang anda masukkan mungkin tidak betul.</string>
+    <string name="vzw_partial_failure_text_part2">Sila semak alamat dan cuba lagi.</string>
+</resources>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">Engin forrit fundust</string>
+    <string name="app_picker_no_apps">Engin forrit valin</string>
+    <string name="auto_restore_summary">Endurheimta vistaðar stillingar og gögn þegar forrit er enduruppsett</string>
+    <string name="auto_restore_title">Sjálfvirk endurheimt</string>
+    <string name="backup_configure_account_default_summary">Sem stendur geymir enginn reikningur öryggisafrit af gögnum</string>
+    <string name="backup_configure_account_title">Afritunarreikningur</string>
+    <string name="backup_data_summary">Vista öryggisafrit af gögnum forrita, Wi-Fi aðgangsorðum og öðrum stillingum á Google Drive</string>
+    <string name="backup_data_summary_full">"Taktu sjálfkrafa afrit af gögnum tækisins (s.s. Wi-Fi aðgangsorðum og símtalaferli) og forritsgögnum (s.s. stillingum og skrám sem forrit vista) fjartengt.
+
+Þegar þú kveikir á sjálfvirkri afritun eru gögn tækisins og forrita reglulega vistuð fjartengt. Forritsgögn geta verið öll gögn sem forrit hefur vistað (fer eftir stillingum þróunaraðilans), þ.m.t. hugsanlega viðkvæm gögn á borð við tengiliði þína, skilaboð og myndir."</string>
+    <string name="backup_data_title">Taka afrit á Google Drive</string>
+    <string name="backup_erase_dialog_message">Viltu hætta að taka öryggisafrit af Wi-Fi aðgangsorðum, bókamerkjum, öðrum stillingum og gögnum forrita, og eyða öllum afritum af Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Viltu hætta að taka afrit af gögnum tækisins (s.s. Wi-Fi aðgangsorðum og símtalaferli) og forritagögnum (s.s. stillingum og skrám sem forrit vista) og eyða öllum afritum af Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Það kom upp villa við að opna myndastillingar</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Þegar þú kveikir á sjálfvirkri afritun:
+
+ ● Stillingar tækisins og forritsgögn eru reglulega vistuð í lokaða möppu á Google Drive. Forritsgögn geta verið öll gögn sem forrit hefur vistað (fer eftir stillingum þróunaraðilans), þ.m.t. hugsanlega viðkvæm gögn á borð við tengiliði þína, skilaboð og myndir.
+
+ Stórar skrár eða skrár sem þróunaraðilar hafa valið að hafa ekki með í þjónustunni eru ekki afritaðar.
+
+ ● Myndir og myndskeið tekin upp á þessu tæki eru samstillt við safnið þitt á Google myndum til að leita, breyta, eyða og deila úr öllum tækjunum þínum.
+
+ Að sjálfgefnu er myndum og myndskeiðum hlaðið upp í fullri upplausn. Slíkt efni telst ekki sem hluti af geymsluplássinu þínu á Drive.
+
+ ● Tengiliðir og tengd gögn úr þessu tæki eru samstillt við Google tengiliði. Þú getur einnig notað forritið Google tengiliðir til að leita, breyta, eyða og deila tengiliðum úr öllum tækjunum þínum.
+
+ ● Færslur í dagatali og tengd gögn úr þessu tæki eru samstillt við Google dagatalið. Þú getur notað forritið fyrir Google dagatalið til að leita, breyta, eyða og deila tengiliðum úr öllum tækjunum þínum.
+
+ Gögn öryggisafrita teljast ekki til geymsluplássins þíns á Drive."</string>
+    <string name="backup_opt_in_backup_description">Sjálfvirk öryggisafritun tryggir að þú getir auðveldlega endurheimt eða skipt um síma hvenær sem er. <annotation link="backup_opt_in_learn_more">Frekari upplýsingar</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Dagatal, tengiliðir, myndir og myndskeið eru samstillt við Google reikninginn þinn og tilbúin til notkunar í ýmsum vörum.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Þetta mun slökkva á afritun á:
+
+Forritum og forritagögnum
+Símtalaferli
+Stillingum tækis
+Myndum og myndskeiðum
+SMS-skilaboðum
+
+Dagatalið og tengiliðir munu áfram samstillast við Google reikninginn þinn. Þegar uppsetningu er lokið geturðu breytt stillingum samstillingar með því að fara í "<annotation link="backup_opt_in_settings_instructions">Stillingar > Reikningar > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Slökkva á öryggisafritun?</string>
+    <string name="backup_opt_in_backup_list">"Forrit og forritsgögn
+Dagatal
+Símtalaferill
+Tengiliðir
+Stillingar tækis (þ.m.t. Wi-Fi aðgangsorð)
+Myndir og myndskeið
+SMS-skilaboð"</string>
+    <string name="backup_opt_in_backup_list_header">Öryggisafritun inniheldur:</string>
+    <string name="backup_opt_in_backup_title">Taka afrit á Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Slökkva á öryggisafritun</string>
+    <string name="backup_photos_update">Uppfærðu Google myndir</string>
+    <string name="backup_settings_activity_title">Afritun og endurstilling</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ekki afrita</string>
+    <string name="close_button_label">Loka</string>
+    <string name="cloud_restore_app_picker_button">Endurheimta</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Það eru engin forrit í öryggisafritinu þínu</string>
+    <string name="cloud_restore_app_picker_title">Veldu forrit sem á að endurheimta</string>
+    <string name="common_accessibility_audience_view_editable">Breyta lesendahóp</string>
+    <string name="common_add_account_label">Bæta reikningi við</string>
+    <string name="common_ads_settings_title">Auglýsingar</string>
+    <string name="common_app_name">Þjónusta Google Play</string>
+    <string name="common_audience_edit_button_label">Breyta</string>
+    <string name="common_cancel">Hætta við</string>
+    <string name="common_cannot_start_hangouts_exception">Ekki er hægt að ræsa Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Ekki er hægt að ræsa Hangouts (heimildavilla).</string>
+    <string name="common_car_permission_desc">Aðgangur að bílaþjónustunni.</string>
+    <string name="common_car_permission_label">Bílaþjónusta</string>
+    <string name="common_chips_label_empty_circles">Engir hringir</string>
+    <string name="common_chips_label_extended_circles">Ytri hringir</string>
+    <string name="common_chips_label_only_you">Aðeins þú</string>
+    <string name="common_chips_label_public">Opinbert</string>
+    <string name="common_chips_label_your_circles">Hringirnir þínir</string>
+    <string name="common_choose_account_label">Veldu reikning</string>
+    <string name="common_clear_app_data_menu_item">Hreinsa forritsgögn</string>
+    <string name="common_connected_apps_settings_title">Tengd forrit</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Play leikir</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Kveikja</string>
+    <string name="common_google_play_services_enable_text">%1$s virkar ekki nema þú gerir þjónustu Google Play virka.</string>
+    <string name="common_google_play_services_enable_title">Virkja þjónustu Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Villa</string>
+    <string name="common_google_play_services_install_button">Setja upp</string>
+    <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
+    <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
+    <string name="common_google_play_services_update_button">Uppfæra</string>
+    <string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema þú uppfærir þjónustu Google Play.</string>
+    <string name="common_google_play_services_update_title">Uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s getur ekki keyrt án þjónustu Google Play, sem verið er að uppfæra.</string>
+    <string name="common_google_play_services_updating_title">Verið er að uppfæra þjónustu Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Nýja útgáfu af þjónustu Google Play vantar. Hún uppfærir sig sjálf innan skamms.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Þjónusta Google Play var sett upp fyrir ranga örgjörvategund.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Þjónusta Google Play var sett upp fyrir örgjörvategund. (%1$s) sem er önnur en örgjörvategund tækisins (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Röng örgjörvategund</string>
+    <string name="common_google_settings">Google stillingar</string>
+    <string name="common_google_settings_account">Reikningur</string>
+    <string name="common_google_settings_credentials_title">Smart Lock fyrir aðgangsorð</string>
+    <string name="common_google_settings_data_management_title">Gagnastjórnun</string>
+    <string name="common_google_settings_drive_network_usage">Uppfæra skrár forrita sem styðja Drive</string>
+    <string name="common_google_settings_services">Þjónusta</string>
+    <string name="common_list_apps_menu_help">Hjálp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hjálp og ábendingar</string>
+    <string name="common_loading">Hleður…</string>
+    <string name="common_location_settings_title">Staðsetning</string>
+    <string name="common_maps_settings_title">Kort og Latitude</string>
+    <string name="common_mdm_feature_name">Android tækjastjórnun</string>
+    <string name="common_missing_url_viewer">Skoðara vantar til að birta ytri vefslóð.</string>
+    <string name="common_network_load_failed">Ekki í boði vegna þess að tækið gat ekki tengst neti</string>
+    <string name="common_networking_settings_title">Netkerfi</string>
+    <string name="common_no_browser_for_restricted_url">Takmarkaður aðgangur. Enginn vafri fannst.</string>
+    <string name="common_no_network">Ekki í boði vegna þess að tækið er ótengt</string>
+    <string name="common_off">Slökkt</string>
+    <string name="common_ok">Í lagi</string>
+    <string name="common_on">Kveikt</string>
+    <string name="common_open_on_phone">Opna í símanum</string>
+    <string name="common_open_source_licenses">Leyfi opins kóða</string>
+    <string name="common_people_settings_title">Tengiliðir</string>
+    <string name="common_permissions_enable_in_settings">Virkja í stillingum</string>
+    <string name="common_permissions_missing_end">Til að halda áfram skaltu opna Stillingar, svo Heimildir og leyfa öll atriðin sem birtast.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Til að virkja þetta skaltu fara í
+Stillingar >
+Heimildir >
+Google Play þjónusta"</string>
+    <string name="common_permissions_missing_start">Þetta forrit virkar ekki rétt nema þú veitir þjónustu Google Play aðgang að eftirfarandi:</string>
+    <string name="common_permissions_open_settings">Opna stillingar</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Leit og Now</string>
+    <string name="common_search_settings_title">Leita</string>
+    <string name="common_security_settings_title">Öryggi</string>
+    <string name="common_set_up_nearby_device_settings_title">Setja upp nálægt tæki</string>
+    <string name="common_settings_drive_network_usage_all">Um Wi-Fi eða farsímakerfi</string>
+    <string name="common_settings_drive_network_usage_wifi">Aðeins um Wi-Fi</string>
+    <string name="common_signin_button_text">Skrá inn</string>
+    <string name="common_signin_button_text_long">Skrá inn með Google</string>
+    <string name="common_storage_settings_title">Geymsla Play þjónustu</string>
+    <string name="common_switch_bar_off">Slökkt</string>
+    <string name="common_switch_bar_on">Kveikt</string>
+    <string name="common_ui_confirm_deleting_button">Eyða</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ég skil og vil eyða</string>
+    <string name="common_url_load_unsuccessful_message">Android tækið er ekki tengt gagnaþjónustu. Til að skoða þessar upplýsingar núna skaltu opna %s í vafra.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android tækið er ekki tengt Wi-Fi neti. Til að skoða þessar upplýsingar núna skaltu opna %s í vafra.</string>
+    <string name="common_url_login_notice">Skrá inn sem %1$s</string>
+    <string name="common_usage_and_diagnostics">Notkun og greining</string>
+    <string name="confirm_copy_button_text">Afrita</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d á SIM, %2$d á tæki, Google tengiliðir</string>
+    <string name="contacts_number_local_with_google">%1$d á tæki, Google tengiliðir</string>
+    <string name="contacts_number_sim_with_google">%1$d á SIM, Google tengiliðir</string>
+    <string name="copy_confirmation_description">Þú munt afrita gögn eins og Google reikninginn og forrit yfir í nýja símann</string>
+    <string name="copy_confirmation_title">Afrita yfir í nýja símann?</string>
+    <string name="d2d_app_picker_description_no_apps">Við fundum engin forrit</string>
+    <string name="d2d_app_picker_title">Forrit</string>
+    <string name="d2d_migration_canceled_on_source">Hætt við afritun</string>
+    <string name="data_copied_fragment_description">Gögnin hafa verið afrituð á nýja símann. Þú getur tekið snúruna úr sambandi.</string>
+    <string name="data_copied_fragment_description_cancel">Þú hættir afritun þannig að einungis hluti af gögnunum hefur verið afritaður á nýja símann.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Þú hættir afritun þannig að ekkert hefur verið afritað yfir á nýja símann.</string>
+    <string name="data_copied_fragment_description_error">Eitthvað fór úrskeiðis og því var ekki hægt að afrita allt.</string>
+    <string name="data_copied_fragment_description_error_no_data">Eitthvað fór úrskeiðis og því var ekki hægt að afrita gögnin þín.</string>
+    <string name="data_copied_fragment_no_data_title">Gat ekki afritað</string>
+    <string name="data_copied_fragment_some_data_title">Einhver gögn afrituð</string>
+    <string name="data_copied_fragment_title">Gögn afrituð</string>
+    <string name="device_backup_title">Öryggisafrit tækis</string>
+    <string name="device_not_supported_fragment_new_device">Þú ert tengd(ur) við nýjan síma. Tengdu aftur við gamla símann til að halda áfram.</string>
+    <string name="device_not_supported_fragment_new_device_title">Tengdu aftur við fyrri símann</string>
+    <string name="device_not_supported_fragment_no_data_cable">Þessi snúra getur ekki flutt gögn. Notaðu aðra snúru og reyndu aftur.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prófaðu aðra snúru</string>
+    <string name="device_not_supported_fragment_retry_description">Gakktu úr skugga um að gamli síminn sé opinn, taktu síðan snúruna úr sambandi og settu hana svo aftur í samband.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Eitthvað fór úrskeiðis</string>
+    <string name="device_picker_description">Afrit eru geymd á Google Drive</string>
+    <string name="device_picker_item">Öryggisafrit fyrir %1$s</string>
+    <string name="device_picker_last_used">Seinast notað ^1</string>
+    <string name="device_picker_skip">Engin enduruppsetning</string>
+    <string name="device_picker_title">Veldu öryggisafrit til að endurheimta</string>
+    <string name="disabled_by_admin_summary_text">Stjórnað af kerfisstjóra</string>
+    <string name="download_msg_error_invalid">Niðurhalið var rangt stillt.</string>
+    <string name="download_msg_in_progress">Niðurhalið er í gangi.</string>
+    <string name="download_msg_not_allowed_space">Ekki er nægt laust pláss til að sækja.</string>
+    <string name="download_msg_pending">Niðurhalið er í bið.</string>
+    <string name="download_notification_description">%1$s bað um þetta.</string>
+    <string name="download_notification_title">Sækir fleiri gögn</string>
+    <string name="drive_backup_account">Reikningur fyrir öryggisafrit</string>
+    <string name="drive_backup_app_includes_data">Inniheldur forritsgögn</string>
+    <string name="drive_backup_apps_in_backup">Forrit í öryggisafriti</string>
+    <string name="drive_backup_apps_last_backup">Seinasta öryggisafrit</string>
+    <string name="drive_backup_apps_loading">Hleður…</string>
+    <string name="drive_backup_apps_screen_title">Forrit</string>
+    <string name="drive_backup_content_apps_title">Forrit</string>
+    <string name="drive_backup_content_calendar_title">Dagatal</string>
+    <string name="drive_backup_content_callhistory_title">Símtalaferill</string>
+    <string name="drive_backup_content_contacts_title">Tengiliðir</string>
+    <string name="drive_backup_content_devicesettings_title">Stillingar tækis</string>
+    <string name="drive_backup_content_header">Efni</string>
+    <string name="drive_backup_content_photos_dialog_message">Viltu einnig breyta reikningi fyrir öryggisafritun Mynda í %s?</string>
+    <string name="drive_backup_content_photos_dialog_no">Nei</string>
+    <string name="drive_backup_content_photos_dialog_title">Viltu breyta öryggisafritun fyrir Myndir?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Já</string>
+    <string name="drive_backup_content_photos_title">Myndir og myndskeið</string>
+    <string name="drive_backup_content_sms_title">SMS-skilaboð</string>
+    <string name="drive_backup_content_status_dolly_action">Ég skil</string>
+    <string name="drive_backup_content_status_error">Villa við að sækja dagsetningu síðustu afritunar</string>
+    <string name="drive_backup_content_status_lastsaved">Síðast vistað: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Ekki stutt</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Reikningsstillingar</string>
+    <string name="drive_backup_content_status_updating">Athugar stöðu…</string>
+    <string name="drive_backup_settings_title">Afritun</string>
+    <string name="drive_backup_state">Taka afrit á Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Þetta mun slökkva á afritun fyrir %s héðan í frá, þar með talið fyrir Google myndir.
+
+Myndir, myndskeið, tengiliðir og dagatalsviðburðir sem hafa þegar verið afritaðir verða áfram aðgengilegir í gegnum viðeigandi þjónustu Google.
+
+Öll önnur gögn verða fjarlægð."</string>
+    <string name="drive_backup_state_dialog_okaction">Slökkva</string>
+    <string name="drive_backup_state_dialog_title">Eyða og gera öryggisafrit óvirkt</string>
+    <string name="durationDayHour">%1$d d. %2$d klst.</string>
+    <string name="durationDayHours">%1$d d. %2$d klst.</string>
+    <string name="durationDays">%1$d dagar</string>
+    <string name="durationHourMinute">%1$d kl. %2$d mín.</string>
+    <string name="durationHourMinutes">%1$d kl. %2$d mín.</string>
+    <string name="durationHours">%1$d klst.</string>
+    <string name="durationMinute">%1$d mín.</string>
+    <string name="durationMinuteSecond">%1$d mín. %2$d s.</string>
+    <string name="durationMinuteSeconds">%1$d mín. %2$d s.</string>
+    <string name="durationMinutes">%1$d mín.</string>
+    <string name="durationSecond">%1$d sek.</string>
+    <string name="durationSeconds">%1$d sek.</string>
+    <string name="encryption_warning_fragment_description">"iPhone®-tækið er með kveikt á dulkóðun öryggisafrits þannig að einungis er hægt að afrita myndir, myndskeið og tónlist.
+
+Tengdu iPhone®-tækið við tölvu til að afrita fleiri gögn. Opnaðu iTunes® á tölvunni, slökktu á dulkóðun öryggisafrits og reyndu aftur að afrita.
+
+Frekari aðstoð má finna á "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Þetta er fljótlegasta leiðin til að flytja sem flest gögn.
+
+Finndu millistykki í kassanum og stingdu því í nýja símann. Tengdu símana með snúru og taktu síðan lásinn af gamla símanum."</string>
+    <string name="fragment_waiting_title">Augnablik…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google tengiliðir verða samstilltir</string>
+    <string name="google_contacts_static_text_off">Google tengiliðir verða áfram samstilltir</string>
+    <string name="header_set_backup_account">Velja afritunarreikning</string>
+    <string name="i_message_dialog_message">"Til að fá áfram SMS-skilaboð frá notendum iPhone®-tækja þarftu að slökkva á iMessage®.
+
+Leiðbeiningar er að finna á "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Haltu áfram í hinum símanum</string>
+    <string name="ios_connected_fragment_description">"Skráðu þig inn með Google reikningnum sem þú notar á iPhone®-tækinu þínu til að halda áfram.
+
+Til að flýta fyrir flutningi skaltu forðast að nota iPhone®-tækið á meðan á uppsetningu stendur."</string>
+    <string name="ios_message_attachment_placeholder">[Viðhengi vistað í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_message_attachments_placeholder">[Viðhengi vistuð í Google myndir > Möppur tækis > Viðhengi skeyta]</string>
+    <string name="ios_migration_default_calendar_title">Dagatal</string>
+    <string name="ios_photos_dialog_message">"Ekki er hægt að afrita myndir sem eru vistaðar í iCloud®.
+
+Settu upp forritið fyrir Google myndir á iPhone® tækinu þínu og slökktu á „Back up &amp; sync“ til að flytja myndirnar yfir á Pixel símann þinn. Nánari leiðbeiningar er að finna á "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Bæta reikningi við</string>
+    <string name="lockscreen_smartdevice_action_next">Áfram</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Taktu símann úr lás til að halda áfram að setja hann upp</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Í öryggisskyni þarftu að staðfesta skjálásinn til að halda uppsetningunni áfram.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Staðfestu skjálásinn</string>
+    <string name="manage_data_label">Stjórna gagnaafritun</string>
+    <string name="master_clear_title">Núllstilling</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Setja þarf upp afritunarreikning</string>
+    <string name="notification_content_title_set_backup_account">Afritun</string>
+    <string name="notification_ticker_set_backup_account">Setja þarf upp afritunarreikning</string>
+    <string name="permgrouplab_calendar">Dagatal</string>
+    <string name="permgrouplab_camera">Myndavél</string>
+    <string name="permgrouplab_contacts">Tengiliðir</string>
+    <string name="permgrouplab_location">Staðsetning</string>
+    <string name="permgrouplab_microphone">Hljóðnemi</string>
+    <string name="permgrouplab_phone">Sími</string>
+    <string name="permgrouplab_sensors">Líkamsskynjarar</string>
+    <string name="permgrouplab_sms">SMS-skilaboð</string>
+    <string name="permgrouplab_storage">Geymsla</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Sem stendur geymir enginn reikningur öryggisafrit af myndum</string>
+    <string name="photos_backup_title">Öryggisafrit mynda</string>
+    <string name="photos_filtering_option_all">Allt</string>
+    <string name="photos_filtering_option_none">Engin</string>
+    <string name="restore_choice_data_disclaimer">Ekki er hægt að afrita öll gögn úr hinum símanum í ^1. <annotation link="restore_choice_data_disclaimer_learn_more">Frekari upplýsingar</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Afritaðir tengiliðir verða vistaðir á Google reikningnum þínum.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Afritaðir tengiliðir og dagatöl verða vistuð á Google reikningnum þínum.</string>
+    <string name="restore_choice_learn_more_android">"Ekki er hægt að afrita öll gögn sjálfkrafa úr gamla símanum:
+
+ ● Niðurhal (t.d. PDF-skrár)
+
+ ● Myndir, myndskeið og tónlist í földum möppum
+
+ ● Myndir, myndskeið og tónlist úr SMS-skilaboðum
+
+ ● Forrit sem eru ekki úr Google Play Store
+
+ ● Forritagögn (ef forritið notar ekki Android-öryggisafrit)
+
+ ● Tilteknar stillingar tækis
+
+ ● Aðrir reikningar en Google reikningar (og tengd gögn)
+
+ ● Tengiliðir og dagatöl sem samstillt eru við aðra þjónustu en Google
+
+ ● Hringitónar
+
+ Frekari upplýsingar um og hjálp við afritun sumra þessara gagna er að finna á g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Ekki er hægt að afrita öll gögn sjálfkrafa úr gamla símanum:
+
+ ● Forrit og forritagögn
+
+ ● Myndir, þegar upprunalegt eintak er ekki geymt í símanum (t.d. ef kveikt er á „Optimize Storage“ eru upprunalegar myndir vistaðar í iCloud®)
+
+ ● Skrár og skjöl sem vistuð eru í iCloud®
+
+ ● Stillingar tækis (svo sem aðgangsorð Wi-Fi og veggfóður)
+
+ ● DRM-varin tónlist (t.d. tónlist úr iTunes® sem keypt var fyrir apríl 2009 eða tónlist sem sótt er fyrir spilun án nettengingar í straumspilunarforriti)
+
+ ● Aðrir reikningar en Google reikningar (og tengd gögn)
+
+ ● Tengiliðir og dagatöl sem samstillt eru við aðra þjónustu en Google eða iCloud®
+
+ ● Bókamerki úr Safari®
+
+ iMessage® viðhengi er hægt að opna í Google myndir > Tækismöppur > Viðhengi skeyta.
+
+ Frekari upplýsingar um og hjálp við afritun einhverra ofantalinna gagna er að finna á g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Ekki nægt pláss</string>
+    <string name="restore_choice_total_text">af tiltæku plássi í %1$s / %2$s flutningi</string>
+    <string name="restore_item_appdata">Forritsgögn</string>
+    <string name="restore_item_calendar">Dagatal</string>
+    <string name="restore_item_calendar_ical_description">iOS® dagatalið, Google dagatalið</string>
+    <string name="restore_item_calendar_ical_off_description">Google dagatal verður samt samstillt</string>
+    <string name="restore_item_calendar_sync_description">Google dagatal verður samstillt</string>
+    <string name="restore_item_call_logs">Símtalaferill</string>
+    <string name="restore_item_contacts">Tengiliðir</string>
+    <string name="restore_item_device_settings_description">Wi-Fi aðgangsorð og fleira</string>
+    <string name="restore_item_downloads">Niðurhal</string>
+    <string name="restore_item_email">Tölvupóstur</string>
+    <string name="restore_item_email_description">Gmail verður samstillt</string>
+    <string name="restore_item_message_attachments">Viðhengi skeyta</string>
+    <string name="restore_item_messages">Skilaboð</string>
+    <string name="restore_item_music">Tónlist</string>
+    <string name="restore_item_photos">Myndir og myndskeið</string>
+    <string name="restore_item_settings">Stillingar tækis</string>
+    <string name="restore_item_sms">SMS-skilaboð</string>
+    <string name="restore_item_will_be_synced_text">Þetta samstillist við símann</string>
+    <string name="small_time_duration">Innan við ein mínúta</string>
+    <string name="source_connected_description">Undirbýr...</string>
+    <string name="source_connected_title">Tengdist við %1$s</string>
+    <string name="source_copying_description">Verið er að afrita gögnin sem þú valdir yfir á nýja símann</string>
+    <string name="source_copying_title">Afritar...</string>
+    <string name="source_default_target_device_name">nýtt tæki</string>
+    <string name="source_notification_device_disconnected">Endurtengja snúru</string>
+    <string name="source_notification_text">Flutningur milli síma í gangi</string>
+    <string name="source_notification_title">Gagnaflutningur</string>
+    <string name="source_success_description">Ljúktu uppsetningu á %1$s.</string>
+    <string name="source_success_screen_title">Lokið!</string>
+    <string name="source_unplugged_description">Tengdu %1$s aftur</string>
+    <string name="source_unplugged_title">Snúra aftengd</string>
+    <string name="source_waiting_title">Halda áfram uppsetningu á %1$s</string>
+    <string name="stop_copying_dialog_continue_button">Hunsa</string>
+    <string name="stop_copying_dialog_message_before_transfer">Gögnin voru ekki afrituð yfir í nýja símann</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sum gögn voru ekki afrituð yfir í nýja símann</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ekki afrita</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stöðva</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ekki afrita?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Hætta afritun?</string>
+    <string name="storage_management_drive_clear_failure">Villa kom upp við hreinsun gagna á Drive. Reyndu aftur síðar.</string>
+    <string name="storage_management_drive_clear_label">Hreinsa</string>
+    <string name="storage_management_drive_clear_success">Drive gögnum hefur verið eytt.</string>
+    <string name="storage_management_drive_clearing">Hreinsar…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Öllum staðbundnum gögnum af Drive fyrir Drive forrit verður eytt varanlega. Þetta getur tekið til breytinga í bið sem enn hefur ekki verið hlaðið inn á þjón Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Hreinsa öll gögn?</string>
+    <string name="storage_management_drive_descriptive_text">Drive forrit vista skrár í tækinu þínu til að bæta virkni og gefa kost á aðgangi án nettengingar.</string>
+    <string name="storage_management_drive_get_storage_failure">Villa kom upp við að reikna út notkun Drive geymslunnar. Reyndu aftur seinna.</string>
+    <string name="storage_management_drive_size_label">Staðbundin geymsla Drive</string>
+    <string name="storage_management_wear_descriptive_text">Forrit nota geymslu tækisins til að afrita gögn yfir á smátæki.</string>
+    <string name="storage_management_wear_manage_size_label">Stjórna geymslu smátækja</string>
+    <string name="storage_management_wear_size_label">Geymsla smátækja</string>
+    <string name="storage_managment_all_storage_descriptive_text">Heildargagnanotkun þjónustu Google Play, þ. á m. leitarvél og önnur gögn.</string>
+    <string name="storage_managment_clear_all_data">Hreinsa öll gögn</string>
+    <string name="storage_managment_computing_size">Reiknar…</string>
+    <string name="storage_managment_icing_size_label">Leitargögn</string>
+    <string name="storage_managment_manage_icing_button">Stjórna leitargögnum</string>
+    <string name="storage_managment_search_index_descriptive_text">Við flýtum fyrir leit í tækinu með því að bjóða upp á leitarvél sem forritin þín geta notað.</string>
+    <string name="storage_managment_title">Geymsla þjónustu Google Play</string>
+    <string name="storage_managment_total_size_label">Heildargeymsla</string>
+    <string name="target_default_source_device_model">gamla tækið</string>
+    <string name="target_device_not_supported_cant_continue_description">Þú þarft að velja aðra leið til að afrita gögn</string>
+    <string name="target_device_not_supported_cant_continue_title">Hinn síminn er ekki studdur</string>
+    <string name="target_smart_device_timeout_add_account">BÆTA REIKNINGI VIÐ</string>
+    <string name="target_smart_device_timeout_description">Þú getur reynt að bæta reikningnum við handvirkt ef þú vilt</string>
+    <string name="target_smart_device_timeout_dismiss">HUNSA</string>
+    <string name="target_smart_device_timeout_title">Áttu í vandræðum?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Símarnir eru tengdir</string>
+    <string name="toast_reconnect_cable">Tengdu snúruna aftur</string>
+    <string name="transfer_finished_fragment_title">Gengur frá...</string>
+    <string name="transfer_summary_copied">Gögn afrituð</string>
+    <string name="transfer_summary_fragment_description">Taktu snúruna úr sambandi, ef þú hefur ekki þegar gert það</string>
+    <string name="transfer_summary_fragment_finish">LJÚKA</string>
+    <string name="transfer_summary_fragment_title">Síminn er næstum tilbúinn</string>
+    <string name="transfer_summary_icloud_photos_warning">Sumar myndirnar þínar voru ekki afritaðar. <annotation link="transfer_summary_learn_more">Frekari upplýsingar</annotation></string>
+    <string name="transfer_summary_not_copied">Gögn ekki afrituð</string>
+    <string name="transfer_summary_partial">%1$s/%2$s afrituð</string>
+    <string name="transfer_summary_will_sync">Gögn verða samstillt eftir uppsetningu</string>
+    <string name="transferring_fragment_calculating_remaining_time">Reiknar út tímann sem er eftir...</string>
+    <string name="transferring_fragment_header">Afritar...</string>
+    <string name="transferring_fragment_remaining_time">%1$s eftir</string>
+    <string name="trust_instructions_description">Athugaðu iPhone® tækið þitt og samþykktu tenginguna til að halda áfram</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari og iTunes eru vörumerki í eigu Apple Inc., skráð í Bandaríkjunum og öðrum löndum.</string>
+</resources>

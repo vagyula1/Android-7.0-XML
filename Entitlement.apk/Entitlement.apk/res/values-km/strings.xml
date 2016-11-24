@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">សិទ្ធិ</string>
+    <string name="feature_check_msg">ពិនិត្យមើលស្ថានភាពនៃការជាវ។ សូមរង់ចាំ...</string>
+    <string name="vzw_self_provisioning_msg">"ដើម្បីប្រើ Mobile Hotspot, អ្នកនឹងត្រូវជាវទៅកាន់សេវាកម្ម Mobile Hotspot ។
+សិក្សាបន្ថែម ហើយជាវទៅកាន់ Mobile Hotspot ដោយចូលទស្សនា Verizon របស់ខ្ញុំ។"</string>
+    <string name="vzw_self_provisioning_cancel">បោះបង់</string>
+    <string name="vzw_self_provisioning_learn_more">រៀនបន្ថែម</string>
+    <string name="vzw_error_msg_title">ការបញ្ជាទិញរបស់អ្នកមិនអាចត្រូវបានដំណើរការទេ</string>
+    <string name="vzw_error_msg">"ប្រសិនជាអ្នកចង់ជាវទៅកាន់ Mobile Hotspot/ការភ្ជាប់អ៊ីនធឺណិតតាមទូរស័ព្ទ, សូមហៅ៖
+ អតិថិជន៖ (800) 256-4646,
+ ពាណិជ្ជកម្ម៖ (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">ទាមទារការតំឡើងជំនាន់សេវា</string>
+    <string name="tmo_error_msg">គម្រោងតម្លៃបច្ចុប្បន្នរបស់អ្នកមិនរួមបញ្ចូលសេវាស្មាតហ្វូន Mobile Hotspot ដែលអនុញ្ញាតអោយចែករំលែកការភ្ជាប់ទិន្នន័យទូរស័ព្ទរបស់អ្នកជាមួយនឹងសេវាដទៃទៀត។ តើអ្នកចង់បន្ថែមសេវាស្មាតហ្វូន Mobile Hotspot ទៅកាន់គម្រោងតម្លៃរបស់អ្នកដែរទេ? អ្នកក៏អាចបន្ថែមវានៅលើបណ្ដាញនៅhttps://my.t-mobile.com នៅក្រោម គ្រប់គ្រង > គម្រោង និងសេវាកម្ម។ &lt;</string>
+    <string name="retv_terms_conditions_msg">ពិនិត្យមើលស្ថានភាពនៃការជាវ។ សូមរង់ចាំ...</string>
+    <string name="change_data_request_msg">ការផ្ញើសំណើសម្រាប់ការផ្ដល់អោយ។ សូមរង់ចាំ...</string>
+    <string name="alert_dialog_failure_title">ការបញ្ជាទិញរបស់អ្នកមិនអាចត្រូវបានដំណើរការទេ</string>
+    <string name="alert_dialog_failure_msg">សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="network_connection_title">កំហុសការតភ្ជាប់បណ្តាញ។</string>
+    <string name="network_connection_error_msg">ទូរស័ព្ទរបស់អ្នកថ្មីៗនេះមិនអាចភ្ជាប់ទៅកាន់ម៉ាស៊ីនមេរបស់ %s ទេ។ សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។</string>
+    <string name="alert_dialog_positive_button">យល់ព្រម</string>
+    <string name="alert_dialog_upgrade_button">ដំឡើងជំនាន់</string>
+    <string name="alert_dialog_later_button">ពេលក្រោយ</string>
+    <string name="current_subscription">(ការជាវថ្មីៗ)</string>
+    <string name="unavailable_subscription">(មិនអាចរកបានអាស្រ័យលើកម្រិតនៃការផ្ទុកទិន្នន័យ)</string>
+    <string name="request_pending_title">ការផ្ដល់អោយមិនទាន់សម្រេច</string>
+    <string name="request_pending_error_msg">ម៉ាស៊ីនមេរបស់ Verizon កំពុងដំណើរការសំណើរបស់អ្នក។ សូមព្យាយាមម្ដងទៀតក្នុងរយៈពេល 5 នាទី។</string>
+    <string name="browser_error_msg">មិនអាចបើកកម្មវិធីរុករកអ៊ីនធឺណិតទេ។</string>
+    <string name="att_error_msg">ដើម្បីបើក ចូលទៅ att.com/mywireless ឬវាយលេខ 611</string>
+    <string name="att_error_msg_title">គណនីមិនត្រូវបានកំណត់ឡើង សម្រាប់ការភ្ជាប់ទេ</string>
+    <string name="att_error_msg_other">មានបញ្ហាបណ្តាញបណ្តោះអាសន្ន​ដែលការពារ​ការបើក​មុខងារ Mobile Hotspot។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ</string>
+    <string name="att_error_msg_other_title">បញ្ហាបណ្តាញ</string>
+    <string name="sprint_error_msg">មិនអាចតភ្ជាប់ទៅបណ្តាញទិន្នន័យ។ អ្នកប្រហែលជាមិនត្រូវបានជាវដើម្បីផ្ទេរទិន្នន័យ ឬសេវា Hotspot។ សូមទំនាក់ទំណង​ក្រុមហ៊ុន​ទូរសព្ទ​របស់អ្នក។</string>
+    <string name="sprint_error_msg_title">ការផ្ទេរទិន្នន័យ ឬ កំហុស Hotspot</string>
+    <string name="sprint_notification_msg">ប៉ះដើម្បីមើលពត៌មានលំអិតបន្ថែមទៀត</string>
+    <string name="term_and_conditions_title">លក្ខខណ្ឌ</string>
+    <string name="sbm_content_activity_title">លក្ខខណ្ឌនៃកិច្ចព្រមព្រៀង</string>
+    <string name="consent_title">លក្ខខណ្ឌនៃកិច្ចព្រមព្រៀង</string>
+    <string name="consent_message">"ដើម្បីប្រើកម្មវិធីនេះ អ្នកត្រូវយល់ស្រប ហើយផ្ញើពត៌មានដូចខាងក្រោម។ នៅលើមាតិកានៃការពិនិត្យ ដូច្នោះសូមចាប់ផ្ដើមដំណើរការ។
+
+[ផ្ញើពត៌មាន]
+ID អ្នកម៉ៅការជាក់លាក់
+[ប្រើកម្មវិធី]
+ក្នុងគោលបំណងដើម្បីប្រើកម្មវិធីផ្ទេរទិន្នន័យ"</string>
+    <string name="consent_terms_btn">លក្ខខន្តិកៈសេវាកម្ម</string>
+    <string name="concent_disagree_btn">មិនយល់ព្រម</string>
+    <string name="concent_agree_btn">យល់ព្រម</string>
+    <string name="sbm_error_msg_title">ការផ្ទេរទិន្នន័យ ឬ កំហុស Hotspot</string>
+    <string name="sbm_error_msg">មិនអាច​តភ្ជាប់​បណ្តាញទិន្នន័យបានទេ។</string>
+    <string name="sbm_error_msg_not_subscribed">បានបរាជ័យដើម្បីផ្ទៀងផ្ទាត់ការជាវរបស់អ្នកទៅកាន់ជម្រើសផ្ទេរទិន្នន័យ។</string>
+    <string name="sbm_error_msg_not_authenticated">"ការបញ្ជាក់​បានបរាជ័យ។.
+(កូដកំហុស %1$s)"</string>
+    <string name="sbm_error_msg_no_response">ការ​ផ្ទៀងផ្ទាត់ភាព​ត្រឹមត្រូវ​បានបរាជ័យ។ សូមព្យាយាមម្ដងទៀតក្នុងទីតាំងដែលមានការទទួលល្អ។</string>
+</resources>

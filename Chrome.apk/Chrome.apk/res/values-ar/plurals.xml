@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_minutes_ago">
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل دقيقة واحدة (%d)</item>
+        <item quantity="two">قبل دقيقتين (%d)</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="n_hours_ago">
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل ساعة واحدة (%d)</item>
+        <item quantity="two">قبل ساعتين (%d)</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
+    </plurals>
+    <plurals name="n_days_ago">
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل يوم واحد (%d)</item>
+        <item quantity="two">قبل يومين (%d)</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يومًا</item>
+    </plurals>
+</resources>

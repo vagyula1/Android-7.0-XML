@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s inahitaji programu ya Android Wear isasishwe.</string>
+    <string name="common_google_play_services_needs_enabling_title">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Imeombwa na %1$s</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s haitafanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye simu yako.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s haitafanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta yako kibao.</string>
+    <string name="common_google_play_services_install_button">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_enable_title">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s haitafanya kazi mpaka uwashe huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_button">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_android_wear_update_title">Sasisha Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s haitafanya kazi hadi usasishe huduma za Google Play.</string>
+    <string name="common_android_wear_update_text">%1$s haitafanya kazi usiposasisha programu ya Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Huduma za Google Play zinasasishwa</string>
+    <string name="common_google_play_services_updating_text">%1$s haitafanya kazi bila huduma za Google Play, ambazo zinasasishwa kwa sasa.</string>
+    <string name="common_google_play_services_network_error_title">Hitilafu ya Mtandao</string>
+    <string name="common_google_play_services_network_error_text">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akaunti Batili</string>
+    <string name="common_google_play_services_invalid_account_text">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="common_google_play_services_unknown_issue">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Huduma za Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s hutegemea huduma za Google Play, ambazo hazitumiki kwenye kifaa chako. Wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_signin_button_text">Ingia</string>
+    <string name="common_signin_button_text_long">Ingia ukitumia Google</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s inahitaji huduma moja au zaidi za Google Play ambazo hazipatikani kwa sasa. Tafadhali wasiliana na msanidi programu kwa usaidizi.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Imeshindwa kuingia katika akaunti</string>
+    <string name="common_google_play_services_sign_in_failed_text">Hitilafu wakati wa kuingia katika akaunti iliyobainishwa. Tafadhali chagua akaunti tofauti.</string>
+    <string name="app_name">Mtambo wa Maandishi hadi Usemi wa Google</string>
+    <string name="general_settings">Mipangilio ya Kawaida</string>
+    <string name="license_activity_title">Leseni za Programu Huria</string>
+    <string name="license_activity_loading">Inapakia…</string>
+    <string name="license_activity_unavailable">Kuna shida ya kupakia leseni.</string>
+    <string name="tts_settings_label">Chaguo za Google TTS</string>
+    <string name="voice_data_install_title">Data ya sauti ya Google TTS</string>
+    <string name="install_data_header">Pakua data hii ili kusaidia usanisi wa sauti nje ya mtandao kwenye kifaa chako.</string>
+    <string name="download_invite_title">Sakinisha sauti ya usemi kwa %1$s</string>
+    <string name="download_invite">Washa ubadilishaji wa maandishi kuwa sauti nje ya mkondo kwa lugha ya %1$s</string>
+    <string name="install_voice_text_2">Inapatikana kupakuliwa.</string>
+    <string name="download_in_progress">Kupakua kunaendelea</string>
+    <string name="no_installable_voices">Hakuna sauti zinazoweza kupakuliwa</string>
+    <string name="cancel">Ghairi</string>
+    <string name="delete_voice_data">Futa</string>
+    <string name="update">Sasisha</string>
+    <string name="download">Pakua</string>
+    <string name="voice_installed">Imesakinishwa.</string>
+    <string name="voice_installed_and_default">Imesakinishwa na kuwekwa kama chaguo-msingi.</string>
+    <string name="download_notification_title">%2$s ya %1$s</string>
+    <string name="download_notification_description">Data ya sauti kwa ubadilishaji wa maandishi kwenda usemi</string>
+    <string name="download_success_title">Data ya sauti iliyopakuliwa ya%1$s</string>
+    <string name="download_success_description">Gusa ili kwenda kwa mipangilio na ufanye sauti hii chaguo-msingi.</string>
+    <string name="download_failure_title">Hitilafu katika kupakua data ya sauti ya %1$s</string>
+    <string name="download_failure_description">Gusa ili kujaribu tena.</string>
+    <string name="download_failed_toast">Imeshindwa kuanza upakuaji wa sauti.</string>
+    <string name="manage_voice_data">Dhibiti data ya sauti</string>
+    <string name="auto_update_title">Sasisha sauti kiotomatiki</string>
+    <string name="auto_update_wifi_title">Tumia Wi-Fi pekee</string>
+    <string name="auto_update_wifi_summary">Pakua data ya sauti ukitumia Wi-Fi pekee. Huokoa matumizi ya data</string>
+    <string name="feedback_title">Maoni</string>
+    <string name="feedback_failed">Haikuweza kufungua fomu ya maoni</string>
+    <string name="voices_type_title">Aina za sauti</string>
+    <string name="voices_type_summary">[JARIBIO LA KINDANI]Aina ya kisanisi hotuba</string>
+    <string name="analytics_title">Ripoti za matumizi zisizomtambulisha mtu</string>
+    <string name="analytics_summary_on">Imewashwa</string>
+    <string name="analytics_summary_off">Imezimwa</string>
+    <string name="analytics_screen_explanation">"Kipengele hiki kinapowashwa, tunakusanya ripoti za matumizi zisizomtambulisha mtu. Hii hutusaidia kuelewa vyema zaidi utendaji wa kipengele cha kugeuza maandishi kuwa usemi kwenye kifaa chako.
+
+Mifano ya takwimu ilizoyumuishwa tunayokusanya:
+"<li><ul>"Ni mara ngapi kipengele cha kugeuza maandishi kuwa usemi hutumika.
+"<li>Utendaji wa maombi ya kugeuza maandishi kuwa usemi.</li>"
+"<li>Lugha zinazotumika.</li>"
+"<li>Ni mara ngapi kipengele cha kugeuza maandishi kuwa usemi hushindwa kutoa usemi.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Ongeza ingizo la GoogleTTS kwenye menyu ya kuchagua maandishi</string>
+    <string name="process_text_summary">Ingizo hili mpya litakusanya maandishi yoyote yatakayochaguliwa.</string>
+    <string name="voice_pack_status_installed">Imesakinishwa (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Mwanamke</string>
+    <string name="voice_pack_status_gender_male">Mwanamume</string>
+    <string name="voice_entity_status_gender_female">Mwanamke %1$d</string>
+    <string name="voice_entity_status_gender_male">Mwanamume %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Jinsia isiyojulikana %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Sauti ya zamani ya mwanamke</string>
+    <string name="voice_pack_status_gender_male_legacy">Sauti ya zamani ya mwanamume</string>
+    <string name="voice_pack_status_gender_unknown">Jinsia haijulikani</string>
+    <string name="voice_pack_status_updatable">Toleo la majuzi linapatikana</string>
+    <string name="voice_pack_status_downloadable">Pakua (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Sauti ya sasa</string>
+    <string name="voice_pack_status_downloading">Inapakua…</string>
+    <string name="voice_pack_name_high_quality">%1$s (Ubora wa juu)</string>
+    <string name="voice_pack_description">"Jina: %1$s 
+Lugha: %2$s 
+Ukubwa wa data: ~%3$s 
+Jinsia ya mzungumzaji: %4$s"</string>
+    <string name="voice_pack_action_download">Pakua (~%1$s)</string>
+    <string name="voice_pack_action_remove">Ondoa</string>
+    <string name="voice_pack_action_update">Sasisha (~ %1$s )</string>
+    <string name="voice_pack_action_locale_default">Ifanye iwe sauti ya sasa ya %1$s</string>
+    <string name="voice_pack_action_cancel">Ghairi kupakua</string>
+    <string name="voice_pack_install_tab_installed">IMESAKINISHWA</string>
+    <string name="voice_pack_install_tab_all">ZOTE</string>
+    <string name="voice_pack_install_tab_settings">MIPANGILIO</string>
+    <string name="voice_entry_details">Zindua maelezo ya mazungumzo ya sauiti</string>
+    <string name="voice_entry_edit_desc">Fungua kifurushi cha sauti</string>
+    <string name="voice_entry_overflow_desc">Vitendo vingine vya furushi la sauti</string>
+    <string name="voice_entry_download_desc">Pakua furushi la sauti</string>
+    <string name="voice_entry_cancel_download_desc">Ghairi upakuaji wa furushi la sauti</string>
+    <string name="voice_entry_delete_desc">Futa kifurushi cha sauti</string>
+    <string name="voice_entry_sample">Cheza sampuli ya sauti</string>
+    <string name="voice_pack_not_enough_space">Hakuna nafasi ya kutosha kwenye hifadhi ya mfumo. Itabidi ufute baadhi ya data ili usakinishe sauti hii.</string>
+    <string name="action_settings">Chaguo</string>
+    <string name="action_licenses">Leseni za programu huria</string>
+    <string name="action_voice_pack_update">Sasisha</string>
+    <string name="action_voice_pack_uninstall">Ondoa</string>
+    <string name="voice_pack_uninstall_dialog">Ungependa kuondoa sauti hii?</string>
+    <string name="voice_pack_uninstall_keep">Usiondoe</string>
+    <string name="voice_pack_uninstall_uninstall">Ondoa</string>
+    <string name="voice_pack_unpack_failure">Imeshindwa kusakinisha sauti iliyopakiliwa</string>
+    <string name="multi_voice_pack_title">"Sauti  za %1$s"</string>
+    <string name="multi_voice_pack_entry_name">Seti ya sauti %1$d</string>
+    <string name="morphed_voice_set_title">Seti ya Sauti</string>
+    <string name="select_voice_title">Chagua sauti</string>
+    <string name="play_sample_text_button_description">Cheza sampuli ya maandishi ya %1$s</string>
+    <string name="voice_pack_no_download_manager">Programu ya Kusimamia Upakuaji imezimwa au haipo; imeshindwa kupakua furushi la sauti</string>
+    <string name="unpack_voice_pack_service_title">Inasasisha data ya ubadilishaji wa Maandishi Kwenda Usemi</string>
+    <string name="unpack_voice_pack_service_text">Inapakua...</string>
+    <string name="sample_text_synthesis_failure">Imeshindwa kutoa mfano wa sauti hii.</string>
+    <string name="quick_wait_for_init">Inapakia</string>
+    <string name="quick_synthesizing">Tunasanisi</string>
+    <string name="quick_speaking">Tunaongea</string>
+    <string name="quick_stopped">Imesimamishwa</string>
+    <string name="quick_error">Hitilafu</string>
+</resources>

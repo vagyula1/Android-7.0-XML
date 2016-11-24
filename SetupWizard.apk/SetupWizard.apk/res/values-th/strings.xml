@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play หากยังคงมีปัญหาอยู่ โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_install_title">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในแท็บเล็ตของคุณ</string>
+    <string name="common_google_play_services_install_button">ติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_wear_update_text">จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</string>
+    <string name="common_google_play_services_updating_title">กำลังอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_network_error_title">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="common_google_play_services_network_error_text">ต้องมีการเชื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play</string>
+    <string name="common_google_play_services_invalid_account_title">บัญชีไม่ถูกต้อง</string>
+    <string name="common_google_play_services_invalid_account_text">บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น</string>
+    <string name="common_google_play_services_unsupported_title">บริการ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ต้องอาศัยบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่รองรับ โปรดติดต่อผู้ผลิตเพื่อขอความช่วยเหลือ</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s ต้องใช้บริการ Google Play อย่างน้อย 1 บริการ ซึ่งไม่พร้อมใช้งานในปัจจุบัน โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ</string>
+    <string name="common_google_play_services_sign_in_failed_title">การลงชื่อเข้าใช้ล้มเหลว</string>
+    <string name="common_google_play_services_sign_in_failed_text">เกิดข้อผิดพลาดในการลงชื่อเข้าใช้บัญชีที่ระบุ โปรดเลือกบัญชีอื่น</string>
+    <string name="common_google_play_services_restricted_profile_title">โปรไฟล์ที่ถูกจำกัด</string>
+    <string name="common_google_play_services_restricted_profile_text">ไม่สนับสนุนการเข้าถึงบัญชีจากโปรไฟล์ที่ถูกจำกัด</string>
+    <string name="common_signin_button_text">ลงชื่อเข้าใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="wifi_fail_to_scan">ไม่สามารถสแกนหาเครือข่าย</string>
+    <string name="wifi_security_none">ไม่มี</string>
+    <string name="wifi_remembered">บันทึกแล้ว</string>
+    <string name="wifi_disabled_generic">ปิดอยู่</string>
+    <string name="wifi_disabled_network_failure">การกำหนดค่า IP ล้มเหลว</string>
+    <string name="wifi_disabled_wifi_failure">การเชื่อมต่อ Wi-Fi ล้มเหลว</string>
+    <string name="wifi_disabled_password_failure">ปัญหาในการตรวจสอบสิทธิ์</string>
+    <string name="wifi_not_in_range">ไม่อยู่ในพื้นที่ให้บริการ</string>
+    <string name="wifi_no_internet_no_reconnect">ไม่พบการเข้าถึงอินเทอร์เน็ต ระบบจะไม่เชื่อมต่อใหม่โดยอัตโนมัติ</string>
+    <string name="wifi_no_internet">ไม่สามารถเข้าถึงอินเทอร์เน็ต</string>
+    <string name="saved_network">บันทึกโดย %1$s แล้ว</string>
+    <string name="connected_via_wfa">เชื่อมต่อผ่านตัวช่วย Wi-Fi อยู่</string>
+    <string name="connected_via_passpoint">เชื่อมต่อผ่าน %1$s แล้ว</string>
+    <string name="available_via_passpoint">พร้อมใช้งานผ่านทาง %1$s</string>
+    <string name="wifi_connected_no_internet">เชื่อมต่อแล้ว ไม่พบอินเทอร์เน็ต</string>
+    <string name="bluetooth_disconnected">ตัดการเชื่อมต่อ</string>
+    <string name="bluetooth_disconnecting">กำลังตัดการเชื่อมต่อ...</string>
+    <string name="bluetooth_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="bluetooth_connected">เชื่อมต่อแล้ว</string>
+    <string name="bluetooth_pairing">กำลังจับคู่อุปกรณ์...</string>
+    <string name="bluetooth_connected_no_headset">เชื่อมต่อแล้ว (ยกเว้นเสียงโทรศัพท์)</string>
+    <string name="bluetooth_connected_no_a2dp">เชื่อมต่อแล้ว (ยกเว้นเสียงสื่อ)</string>
+    <string name="bluetooth_connected_no_map">เชื่อมต่อแล้ว (ไม่มีการเข้าถึงข้อความ)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">เชื่อมต่อ (ยกเว้นเสียงโทรศัพท์หรือสื่อ)</string>
+    <string name="bluetooth_profile_a2dp">เสียงสื่อ</string>
+    <string name="bluetooth_profile_headset">เสียงโทรศัพท์</string>
+    <string name="bluetooth_profile_opp">การถ่ายโอนไฟล์</string>
+    <string name="bluetooth_profile_hid">อุปกรณ์อินพุต</string>
+    <string name="bluetooth_profile_pan">การเข้าถึงอินเทอร์เน็ต</string>
+    <string name="bluetooth_profile_pbap">การแชร์รายชื่อผู้ติดต่อ</string>
+    <string name="bluetooth_profile_pbap_summary">ใช้สำหรับการแชร์รายชื่อผู้ติดต่อ</string>
+    <string name="bluetooth_profile_pan_nap">การแชร์การเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="bluetooth_profile_map">การเข้าถึงข้อความ</string>
+    <string name="bluetooth_profile_sap">การเข้าถึงซิม</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">เชื่อมต่อกับระบบเสียงของสื่อแล้ว</string>
+    <string name="bluetooth_headset_profile_summary_connected">เชื่อมต่อกับระบบเสียงของโทรศัพท์แล้ว</string>
+    <string name="bluetooth_opp_profile_summary_connected">เชื่อมต่อกับเซิร์ฟเวอร์สำหรับโอนไฟล์แล้ว</string>
+    <string name="bluetooth_map_profile_summary_connected">เชื่อมต่อกับแผนที่แล้ว</string>
+    <string name="bluetooth_sap_profile_summary_connected">เชื่อมต่อ SAP แล้ว</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">ไม่ได้เชื่อมต่อกับเซิร์ฟเวอร์สำหรับโอนไฟล์</string>
+    <string name="bluetooth_hid_profile_summary_connected">เชื่อมต่อกับอุปกรณ์อินพุตแล้ว</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">เชื่อมต่อกับอุปกรณ์สำหรับการเข้าถึงอินเทอร์เน็ต</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">กำลังแชร์อินเทอร์เน็ตกับอุปกรณ์</string>
+    <string name="bluetooth_pan_profile_summary_use_for">ใช้การเข้าถึงอินเทอร์เน็ต</string>
+    <string name="bluetooth_map_profile_summary_use_for">ใช้สำหรับแผนที่</string>
+    <string name="bluetooth_sap_profile_summary_use_for">ใช้สำหรับการเข้าถึงซิม</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">ใช้สำหรับระบบเสียงของสื่อ</string>
+    <string name="bluetooth_headset_profile_summary_use_for">ใช้สำหรับระบบเสียงของโทรศัพท์</string>
+    <string name="bluetooth_opp_profile_summary_use_for">ใช้สำหรับการโอนไฟล์</string>
+    <string name="bluetooth_hid_profile_summary_use_for">ใช้สำหรับการป้อนข้อมูล</string>
+    <string name="bluetooth_pairing_accept">จับคู่อุปกรณ์</string>
+    <string name="bluetooth_pairing_accept_all_caps">จับคู่อุปกรณ์</string>
+    <string name="bluetooth_pairing_decline">ยกเลิก</string>
+    <string name="bluetooth_pairing_will_share_phonebook">การจับคู่อุปกรณ์จะให้สิทธิ์การเข้าถึงที่อยู่ติดต่อและประวัติการโทรเมื่อเชื่อมต่อแล้ว</string>
+    <string name="bluetooth_pairing_error_message">ไม่สามารถจับคู่กับ %1$s</string>
+    <string name="bluetooth_pairing_pin_error_message">ไม่สามารถจับคู่กับ %1$s ได้เพราะ PIN หรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="bluetooth_pairing_device_down_error_message">ไม่สามารถเชื่อมต่อกับ %1$s</string>
+    <string name="bluetooth_pairing_rejected_error_message">%1$s ปฏิเสธการจับคู่อุปกรณ์</string>
+    <string name="accessibility_wifi_off">Wi-Fi ปิดอยู่</string>
+    <string name="accessibility_no_wifi">ไม่ได้เชื่อมต่อ Wi-Fi</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณ Wi-Fi 1 ขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณ Wi-Fi 2 ขีด</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณ Wi-Fi 3 ขีด</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi เต็ม</string>
+    <string name="process_kernel_label">ระบบปฏิบัติการของ Android</string>
+    <string name="data_usage_uninstalled_apps">แอปพลิเคชันที่นำออก</string>
+    <string name="data_usage_uninstalled_apps_users">แอปพลิเคชันและผู้ใช้ที่นำออก</string>
+    <string name="tether_settings_title_usb">ปล่อยสัญญาณผ่าน USB</string>
+    <string name="tether_settings_title_wifi">ฮอตสปอตแบบพกพาได้</string>
+    <string name="tether_settings_title_bluetooth">ปล่อยสัญญาณบลูทูธ</string>
+    <string name="tether_settings_title_usb_bluetooth">การปล่อยสัญญาณ</string>
+    <string name="tether_settings_title_all">การปล่อยสัญญาณและฮอตสปอต</string>
+    <string name="managed_user_title">แอปการทำงานทั้งหมด</string>
+    <string name="user_guest">ผู้เข้าร่วม</string>
+    <string name="unknown">ไม่ทราบ</string>
+    <string name="running_process_item_user_label">ผู้ใช้: %1$s</string>
+    <string name="launch_defaults_some">ตั้งค่าเริ่มต้นไว้บางส่วน</string>
+    <string name="launch_defaults_none">ไม่ได้ตั้งค่าเริ่มต้น</string>
+    <string name="tts_settings">การตั้งค่าการอ่านออกเสียงข้อความ</string>
+    <string name="tts_settings_title">เอาต์พุตการอ่านออกเสียง</string>
+    <string name="tts_default_rate_title">ความเร็วของคำพูด</string>
+    <string name="tts_default_rate_summary">ความเร็วในการพูดข้อความ</string>
+    <string name="tts_default_pitch_title">ความสูง-ต่ำของเสียง</string>
+    <string name="tts_default_pitch_summary">มีผลต่อโทนเสียงของข้อความสังเคราะห์</string>
+    <string name="tts_default_lang_title">ภาษา</string>
+    <string name="tts_lang_use_system">ใช้ภาษาของระบบ</string>
+    <string name="tts_lang_not_selected">ไม่ได้เลือกภาษา</string>
+    <string name="tts_default_lang_summary">ตั้งค่าเสียงในภาษาที่ระบุสำหรับข้อความที่ได้ยิน</string>
+    <string name="tts_play_example_title">ฟังตัวอย่าง</string>
+    <string name="tts_play_example_summary">เล่นการสาธิตสั้นๆ เกี่ยวกับการสังเคราะห์เสียง</string>
+    <string name="tts_install_data_title">ติดตั้งข้อมูลเสียง</string>
+    <string name="tts_install_data_summary">ติดตั้งข้อมูลเสียงที่ต้องใช้สำหรับการสังเคราะห์เสียง</string>
+    <string name="tts_engine_security_warning">โปรแกรมสังเคราะห์เสียงนี้อาจเก็บข้อความทั้งหมดที่ได้ยิน รวมถึงข้อมูลส่วนบุคคล เช่น รหัสผ่านและหมายเลขบัตรเครดิต โปรแกรมนี้มาจากโปรแกรม %s คุณต้องการเปิดใช้งานโปรแกรมสังเคราะห์เสียงนี้หรือไม่</string>
+    <string name="tts_engine_network_required">ภาษานี้ต้องใช้การเชื่อมต่อเครือข่ายซึ่งใช้การได้สำหรับการแปลงข้อความเป็นเสียงพูด</string>
+    <string name="tts_default_sample_string">นี่เป็นตัวอย่างการสังเคราะห์เสียง</string>
+    <string name="tts_status_title">สถานะของภาษาเริ่มต้น</string>
+    <string name="tts_status_ok">สนับสนุน%1$sอย่างสมบูรณ์</string>
+    <string name="tts_status_requires_network">ต้องมีการเชื่อมต่อเครือข่ายสำหรับ%1$s</string>
+    <string name="tts_status_not_supported">ไม่สนับสนุน%1$s</string>
+    <string name="tts_status_checking">กำลังตรวจสอบ…</string>
+    <string name="tts_engine_settings_title">การตั้งค่าสำหรับ %s</string>
+    <string name="tts_engine_settings_button">เปิดการตั้งค่าเครื่องมือ</string>
+    <string name="tts_engine_preference_section_title">เครื่องมือที่ต้องการ</string>
+    <string name="tts_general_section_title">ทั่วไป</string>
+    <string name="tts_reset_speech_pitch_title">รีเซ็ตความสูง-ต่ำของเสียงพูด</string>
+    <string name="tts_reset_speech_pitch_summary">รีเซ็ตความสูง-ต่ำของเสียงในการพูดข้อความเป็นค่าเริ่มต้น</string>
+    <string name="choose_profile">เลือกโปรไฟล์</string>
+    <string name="category_personal">ส่วนตัว</string>
+    <string name="category_work">ที่ทำงาน</string>
+    <string name="development_settings_title">สำหรับนักพัฒนาซอฟต์แวร์</string>
+    <string name="development_settings_enable">เปิดใช้ตัวเลือกสำหรับนักพัฒนาซอฟต์แวร์</string>
+    <string name="development_settings_summary">ตั้งค่าตัวเลือกสำหรับการพัฒนาแอปพลิเคชัน</string>
+    <string name="development_settings_not_available">ตัวเลือกสำหรับนักพัฒนาซอฟต์แวร์ไม่สามารถใช้ได้สำหรับผู้ใช้นี้</string>
+    <string name="vpn_settings_not_available">การตั้งค่า VPN ไม่สามารถใช้ได้สำหรับผู้ใช้รายนี้</string>
+    <string name="tethering_settings_not_available">การตั้งค่าการปล่อยสัญญาณไม่สามารถใช้ได้สำหรับผู้ใช้รายนี้</string>
+    <string name="apn_settings_not_available">การตั้งค่าจุดเข้าใช้งานไม่สามารถใช้ได้สำหรับผู้ใช้รายนี้</string>
+    <string name="enable_adb">การแก้ไขข้อบกพร่อง USB</string>
+    <string name="enable_adb_summary">โหมดแก้ไขข้อบกพร่องเมื่อเชื่อมต่อ USB</string>
+    <string name="clear_adb_keys">ยกเลิกการให้สิทธิ์การแก้ปัญหา USB</string>
+    <string name="bugreport_in_power">ทางลัดรายงานข้อบกพร่อง</string>
+    <string name="bugreport_in_power_summary">แสดงปุ่มในเมนูเปิด/ปิดสำหรับการใช้รายงานข้อบกพร่อง</string>
+    <string name="keep_screen_on">เปิดหน้าจอค้าง</string>
+    <string name="keep_screen_on_summary">หน้าจอจะไม่เข้าสู่โหมดสลีปขณะชาร์จ</string>
+    <string name="bt_hci_snoop_log">เปิดใช้งานบันทึกสอดแนมบลูทูธ HCI</string>
+    <string name="bt_hci_snoop_log_summary">บันทึกแพ็คเก็ตบลูทูธ HCI ทั้งหมดในไฟล์</string>
+    <string name="oem_unlock_enable">การปลดล็อก OEM</string>
+    <string name="oem_unlock_enable_summary">อนุญาตให้ปลดล็อกตัวโหลดการเปิดเครื่อง</string>
+    <string name="confirm_enable_oem_unlock_title">อนุญาตการปลดล็อก OEM ไหม</string>
+    <string name="confirm_enable_oem_unlock_text">คำเตือน: คุณลักษณะการปกป้องอุปกรณ์จะไม่ทำงานบนอุปกรณ์นี้ขณะที่การตั้งค่านี้เปิดอยู่</string>
+    <string name="mock_location_app">เลือกแอปจำลองตำแหน่ง</string>
+    <string name="mock_location_app_not_set">ไม่ได้ตั้งค่าแอปจำลองตำแหน่ง</string>
+    <string name="mock_location_app_set">แอปจำลองตำแหน่ง: %1$s</string>
+    <string name="debug_networking_category">เครือข่าย</string>
+    <string name="wifi_display_certification">การรับรองการแสดงผลแบบไร้สาย</string>
+    <string name="wifi_verbose_logging">เปิดใช้การบันทึกรายละเอียด Wi-Fi</string>
+    <string name="wifi_aggressive_handover">สลับ Wi‑Fi เป็นมือถือเมื่อสัญญาณอ่อน</string>
+    <string name="wifi_allow_scan_with_traffic">ใช้การสแกน Wi-Fi ข้ามเครือข่ายเสมอ</string>
+    <string name="mobile_data_always_on">เปิดใช้ข้อมูลมือถือเสมอ</string>
+    <string name="bluetooth_disable_absolute_volume">ปิดใช้การควบคุมระดับเสียงของอุปกรณ์อื่น</string>
+    <string name="wifi_display_certification_summary">แสดงตัวเลือกสำหรับการรับรองการแสดงผล แบบไร้สาย</string>
+    <string name="wifi_verbose_logging_summary">เพิ่มระดับการบันทึก Wi‑Fi แสดงต่อ SSID RSSI ในตัวเลือก Wi‑Fi</string>
+    <string name="wifi_aggressive_handover_summary">เมื่อเปิดใช้แล้ว Wi-Fi จะส่งผ่านการเชื่อมต่อข้อมูลไปยังเครือข่ายมือถือในทันทีที่พบสัญญาณ Wi-Fi อ่อน</string>
+    <string name="wifi_allow_scan_with_traffic_summary">อนุญาต/ไม่อนุญาตการสแกน Wi-Fi ข้ามเครือข่าย ตามปริมาณข้อมูลการเข้าชมที่ปรากฏในอินเทอร์เฟซ</string>
+    <string name="select_logd_size_title">ขนาดบัฟเฟอร์ของ Logger</string>
+    <string name="select_logd_size_dialog_title">เลือกขนาด Logger ต่อบัฟเฟอร์ไฟล์บันทึก</string>
+    <string name="dev_logpersist_clear_warning_title">ล้างพื้นที่เก็บข้อมูลถาวรของตัวบันทึกไหม</string>
+    <string name="dev_logpersist_clear_warning_message">เมื่อเราเลิกตรวจสอบด้วยตัวบันทึกถาวร เราต้องลบ Resident ของข้อมูลตัวบันทึกบนอุปกรณ์ของคุณ</string>
+    <string name="select_logpersist_title">เก็บข้อมูลตัวบันทึกอย่างถาวรบนอุปกรณ์</string>
+    <string name="select_logpersist_dialog_title">เลือกบัฟเฟอร์บันทึกที่จะจัดเก็บอย่างถาวรบนอุปกรณ์</string>
+    <string name="select_usb_configuration_title">เลือกการกำหนดค่า USB</string>
+    <string name="select_usb_configuration_dialog_title">เลือกการกำหนดค่า USB</string>
+    <string name="allow_mock_location">อนุญาตให้จำลองตำแหน่ง</string>
+    <string name="allow_mock_location_summary">อนุญาตให้จำลองตำแหน่ง</string>
+    <string name="debug_view_attributes">เปิดใช้การตรวจสอบแอตทริบิวต์มุมมอง</string>
+    <string name="mobile_data_always_on_summary">เปิดใช้ข้อมูลมือถืออยู่เสมอ แม้ในเวลาที่ใช้งาน Wi-Fi อยู่ (สำหรับสวิตชิงเครือข่ายความเร็วสูง)</string>
+    <string name="adb_warning_title">อนุญาตให้แก้ไขข้อบกพร่อง USB หรือไม่</string>
+    <string name="adb_warning_message">การแก้ไขข้อบกพร่อง USB มีไว้เพื่อการพัฒนาเท่านั้น ให้ใช้การแก้ไขนี้เพื่อคัดลอกข้อมูลระหว่างคอมพิวเตอร์และอุปกรณ์ ติดตั้งแอปพลิเคชันบนอุปกรณ์โดยไม่มีการแจ้งเตือน และอ่านข้อมูลบันทึก</string>
+    <string name="adb_keys_warning_message">ยกเลิกการเข้าถึงเพื่อแก้ปัญหาผ่าน USB จากคอมพิวเตอร์ทุกเครื่องที่คุณได้ให้สิทธิ์ก่อนหน้านี้ไหม</string>
+    <string name="dev_settings_warning_title">อนุญาตการตั้งค่าสำหรับการพัฒนาหรือไม่</string>
+    <string name="dev_settings_warning_message">การตั้งค่านี้มีไว้เพื่อการพัฒนาเท่านั้น จึงอาจทำให้อุปกรณ์และแอปพลิเคชันที่มีอยู่เสียหายหรือทำงานผิดพลาดได้</string>
+    <string name="verify_apps_over_usb_title">ยืนยันแอปพลิเคชันผ่าน USB</string>
+    <string name="verify_apps_over_usb_summary">ตรวจสอบแอปพลิเคชันที่ติดตั้งผ่าน ADB/ADT เพื่อตรวจดูพฤติกรรมที่เป็นอันตราย</string>
+    <string name="bluetooth_disable_absolute_volume_summary">ปิดใช้คุณลักษณะการควบคุมระดับเสียงของอุปกรณ์อื่นผ่านบลูทูธในกรณีที่มีปัญหาเกี่ยวกับระดับเสียงของอุปกรณ์ระยะไกล เช่น ระดับเสียงที่ดังเกินไปหรือระดับเสียงที่ไม่มีการควบคุม</string>
+    <string name="enable_terminal_title">เทอร์มินัลในตัวเครื่อง</string>
+    <string name="enable_terminal_summary">เปิดใช้งานแอปเทอร์มินัลที่ให้การเข้าถึงเชลล์ในตัวเครื่อง</string>
+    <string name="hdcp_checking_title">การตรวจสอบ HDCP</string>
+    <string name="hdcp_checking_dialog_title">ตั้งค่าการตรวจสอบ HDCP</string>
+    <string name="debug_debugging_category">การแก้ไขข้อบกพร่อง</string>
+    <string name="debug_app">เลือกแอปพลิเคชันที่จะแก้ไขข้อบกพร่อง</string>
+    <string name="debug_app_not_set">ไม่มีชุดแอปพลิเคชันแก้ไขข้อบกพร่อง</string>
+    <string name="debug_app_set">แอปพลิเคชันแก้ไขข้อบกพร่อง: %1$s</string>
+    <string name="select_application">เลือกแอปพลิเคชัน</string>
+    <string name="no_application">ไม่มี</string>
+    <string name="wait_for_debugger">รอโปรแกรมแก้ไขข้อบกพร่อง</string>
+    <string name="wait_for_debugger_summary">แอปพลิเคชันที่มีการแก้ปัญหาจะรอให้โปรแกรมแก้ไขข้อบกพร่องแนบข้อมูลก่อนปฏิบัติการ</string>
+    <string name="debug_input_category">อินพุต</string>
+    <string name="debug_drawing_category">การวาดภาพ</string>
+    <string name="debug_hw_drawing_category">การแสดงผลที่มีการเร่งด้วยฮาร์ดแวร์</string>
+    <string name="media_category">สื่อ</string>
+    <string name="debug_monitoring_category">กำลังตรวจสอบ</string>
+    <string name="strict_mode">เปิดใช้งานโหมดเข้มงวด</string>
+    <string name="strict_mode_summary">แสดงหน้าจอเมื่อแอปพลิเคชันทำงาน ในชุดข้อความหลักนาน</string>
+    <string name="pointer_location">ตำแหน่งของตัวชี้</string>
+    <string name="pointer_location_summary">การวางซ้อนหน้าจอที่แสดงข้อมูลการแตะ ในปัจจุบัน</string>
+    <string name="show_touches">แสดงการแตะ</string>
+    <string name="show_touches_summary">แสดงความคิดเห็นด้วยภาพสำหรับการแตะ</string>
+    <string name="show_screen_updates">แสดงการอัปเดตพื้นผิว</string>
+    <string name="show_screen_updates_summary">แฟลชพื้นผิวหน้าต่างทั้งหมดเมื่อมีการอัปเดต</string>
+    <string name="show_hw_screen_updates">แสดงการอัปเดตมุมมอง GPU</string>
+    <string name="show_hw_screen_updates_summary">แฟลชมุมมองภายในหน้าต่างเมื่อวาดด้วย GPU</string>
+    <string name="show_hw_layers_updates">แสดงอัปเดตเลเยอร์ฮาร์ดแวร์</string>
+    <string name="show_hw_layers_updates_summary">เลเยอร์ฮาร์ดแวร์กะพริบเป็นสีเขียว เมื่อมีการอัปเดต</string>
+    <string name="debug_hw_overdraw">แก้ปัญหาการวาดทับด้วย GPU</string>
+    <string name="disable_overlays">ปิดใช้งานการวางซ้อน HW</string>
+    <string name="disable_overlays_summary">ใช้ GPU ในการจัดวางองค์ประกอบหน้าจอเสมอ</string>
+    <string name="simulate_color_space">จำลองระบบสี</string>
+    <string name="enable_opengl_traces_title">เปิดใช้การติดตามใน OpenGL</string>
+    <string name="usb_audio_disable_routing">ปิดการกำหนดเส้นทางเสียงทาง USB</string>
+    <string name="usb_audio_disable_routing_summary">ปิดการกำหนดเส้นทางโดยอัตโนมัติไปยังอุปกรณ์ต่อพ่วงเสียงทาง USB</string>
+    <string name="debug_layout">แสดงขอบของการจัดวาง</string>
+    <string name="debug_layout_summary">แสดงหน้าปกคลิป ขอบ ฯลฯ</string>
+    <string name="force_rtl_layout_all_locales">บังคับทิศทางการจัดวาง RTL</string>
+    <string name="force_rtl_layout_all_locales_summary">บังคับทิศทางการจัดวางหน้าจอเป็น RTL สำหรับทุกภาษา</string>
+    <string name="force_hw_ui">เร่งการแสดงผลของ GPU</string>
+    <string name="force_hw_ui_summary">ต้องใช้ GPU สำหรับการวาดภาพ 2 มิติ</string>
+    <string name="force_msaa">บังคับใช้ 4x MSAA</string>
+    <string name="force_msaa_summary">เปิดใช้งาน 4x MSAA ในแอปพลิเคชัน OpenGL ES 2.0</string>
+    <string name="show_non_rect_clip">แก้ไขการทำงานของคลิปที่ไม่ใช่สี่เหลี่ยม</string>
+    <string name="track_frame_time">การแสดงผล GPU ตามโปรไฟล์</string>
+    <string name="window_animation_scale_title">ขนาดหน้าต่างภาพเคลื่อนไหว</string>
+    <string name="transition_animation_scale_title">อัตราการสลับภาพเคลื่อนไหว</string>
+    <string name="animator_duration_scale_title">ความเร็วตามผู้สร้างกำหนด</string>
+    <string name="overlay_display_devices_title">จำลองจอแสดงผลที่สอง</string>
+    <string name="debug_applications_category">แอปพลิเคชัน</string>
+    <string name="immediately_destroy_activities">ไม่เก็บกิจกรรม</string>
+    <string name="immediately_destroy_activities_summary">ล้างทุกกิจกรรมทันทีที่ผู้ใช้ออกไป</string>
+    <string name="app_process_limit_title">ขีดจำกัดกระบวนการพื้นหลัง</string>
+    <string name="show_all_anrs">แสดง ANR ทั้งหมด</string>
+    <string name="show_all_anrs_summary">แสดงหน้าต่างแอปไม่ตอบสนอง สำหรับแอปพื้นหลัง</string>
+    <string name="force_allow_on_external">บังคับให้แอปสามารถใช้ที่เก็บภายนอก</string>
+    <string name="force_allow_on_external_summary">ทำให้สามารถเขียนแอปใดๆ ก็ตามไปยังพื้นที่เก็บข้อมูลภายนอกได้ โดยไม่คำนึงถึงค่าในไฟล์ Manifest</string>
+    <string name="force_resizable_activities">บังคับให้กิจกรรมปรับขนาดได้</string>
+    <string name="force_resizable_activities_summary">ทำให้กิจกรรมทั้งหมดปรับขนาดได้สำหรับหน้าต่างหลายบาน โดยไม่คำนึงถึงค่าในไฟล์ Manifest</string>
+    <string name="enable_freeform_support">เปิดใช้หน้าต่างรูปแบบอิสระ</string>
+    <string name="enable_freeform_support_summary">เปิดการสนับสนุนหน้าต่างรูปแบบอิสระแบบทดลอง</string>
+    <string name="local_backup_password_title">รหัสผ่านการสำรองข้อมูลในเดสก์ท็อป</string>
+    <string name="local_backup_password_summary_none">การสำรองข้อมูลเต็มรูปแบบในเดสก์ท็อป ไม่ได้รับการป้องกันในขณะนี้</string>
+    <string name="local_backup_password_summary_change">แตะเพื่อเปลี่ยนแปลงหรือลบรหัสผ่านสำหรับการสำรองข้อมูลเต็มรูปแบบในเดสก์ท็อป</string>
+    <string name="local_backup_password_toast_success">ตั้งรหัสผ่านสำหรับการสำรองข้อมูลใหม่แล้ว</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">รหัสผ่านใหม่และการพิมพ์ยืนยันไม่ตรงกัน</string>
+    <string name="local_backup_password_toast_validation_failure">ไม่สามารถตั้งรหัสผ่านสำหรับการสำรองข้อมูล</string>
+    <string name="inactive_apps_title">แอปที่ไม่ได้ใช้งาน</string>
+    <string name="inactive_app_inactive_summary">ไม่ได้ใช้งาน แตะเพื่อสลับ</string>
+    <string name="inactive_app_active_summary">ใช้งานอยู่ แตะเพื่อสลับ</string>
+    <string name="runningservices_settings_title">บริการที่ทำงานอยู่</string>
+    <string name="runningservices_settings_summary">ดูและควบคุมบริการที่ทำงานอยู่</string>
+    <string name="enable_webview_multiprocess">WebView แบบหลายขั้นตอน</string>
+    <string name="enable_webview_multiprocess_desc">เรียกใช้โหมดแสดงภาพ WebView แยกต่างหาก</string>
+    <string name="select_webview_provider_title">การใช้งาน WebView</string>
+    <string name="select_webview_provider_dialog_title">ตั้งค่าการใช้งาน WebView</string>
+    <string name="select_webview_provider_toast_text">ตัวเลือกนี้ใช้ไม่ได้อีกต่อไป โปรดลองอีกครั้ง</string>
+    <string name="convert_to_file_encryption">แปลงเป็นการเข้ารหัสไฟล์</string>
+    <string name="convert_to_file_encryption_enabled">แปลง…</string>
+    <string name="convert_to_file_encryption_done">เข้ารหัสไฟล์แล้ว</string>
+    <string name="title_convert_fbe">การแปลงเป็นการเข้ารหัสตามไฟล์</string>
+    <string name="convert_to_fbe_warning">"แปลงพาร์ทิชันข้อมูลเป็นการเข้ารหัสแบบไฟล์
+ !!คำเตือน!! การดำเนินการนี้จะลบข้อมูลทั้งหมดของคุณ
+ คุณลักษณะนี้เป็นแบบอัลฟา และอาจทำงานไม่เป็นปกติ
+ กด \"ลบและแปลง...\" เพื่อดำเนินการต่อ"</string>
+    <string name="button_convert_fbe">ลบและแปลง…</string>
+    <string name="picture_color_mode">โหมดสีของรูปภาพ</string>
+    <string name="picture_color_mode_desc">ใช้ sRGB</string>
+    <string name="daltonizer_mode_disabled">ปิดใช้</string>
+    <string name="daltonizer_mode_monochromacy">ตาบอดสีแบบไม่เห็นสีเลย</string>
+    <string name="daltonizer_mode_deuteranomaly">ตาบอดจางสีเขียว (สีแดง/เขียว)</string>
+    <string name="daltonizer_mode_protanomaly">ตาบอดจางสีแดง (สีแดง/เขียว)</string>
+    <string name="daltonizer_mode_tritanomaly">ตาบอดจางสีน้ำเงิน (สีน้ำเงิน/เหลือง)</string>
+    <string name="accessibility_display_daltonizer_preference_title">การแก้สี</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">คุณลักษณะนี้เป็นแบบทดลองและอาจส่งผลต่อประสิทธิภาพการทำงาน</string>
+    <string name="daltonizer_type_overridden">แทนที่โดย %1$s</string>
+    <string name="power_remaining_duration_only">เหลืออีกประมาณ %1$s</string>
+    <string name="power_remaining_duration_only_short">เหลืออีก %1$s</string>
+    <string name="power_discharging_duration">%1$s - เหลือประมาณ %2$s</string>
+    <string name="power_discharging_duration_short">%1$s - เหลืออีก %2$s</string>
+    <string name="power_charging">%1$s - %2$s</string>
+    <string name="power_charging_duration">%1$s - %2$s จนกว่าจะเต็ม</string>
+    <string name="power_charging_duration_short">%1$s - %2$s</string>
+    <string name="power_charging_duration_ac">%1$s - %2$s จนกว่าจะเต็มเมื่อชาร์จผ่าน AC</string>
+    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+    <string name="power_charging_duration_usb">%1$s - %2$s จนกว่าจะเต็มเมื่อชาร์จผ่าน USB</string>
+    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
+    <string name="power_charging_duration_wireless">%1$s - %2$s จนกว่าจะเต็มเมื่อชาร์จผ่านระบบไร้สาย</string>
+    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
+    <string name="battery_info_status_unknown">ไม่ทราบ</string>
+    <string name="battery_info_status_charging">กำลังชาร์จ</string>
+    <string name="battery_info_status_charging_ac">กำลังชาร์จไฟ AC</string>
+    <string name="battery_info_status_charging_ac_short">กำลังชาร์จ</string>
+    <string name="battery_info_status_charging_usb">กำลังชาร์จผ่าน USB</string>
+    <string name="battery_info_status_charging_usb_short">กำลังชาร์จ</string>
+    <string name="battery_info_status_charging_wireless">กำลังชาร์จแบบไร้สาย</string>
+    <string name="battery_info_status_charging_wireless_short">กำลังชาร์จ</string>
+    <string name="battery_info_status_discharging">ไม่ได้ชาร์จ</string>
+    <string name="battery_info_status_not_charging">ไม่ได้ชาร์จ</string>
+    <string name="battery_info_status_full">เต็ม</string>
+    <string name="disabled_by_admin_summary_text">ผู้ดูแลระบบเป็นผู้ควบคุม</string>
+    <string name="enabled_by_admin">เปิดใช้โดยผู้ดูแลระบบ</string>
+    <string name="disabled_by_admin">ปิดใช้โดยผู้ดูแลระบบ</string>
+    <string name="home">หน้าแรกของการตั้งค่า</string>
+    <string name="charge_length_format">%1$sที่ผ่านมา</string>
+    <string name="remaining_length_format">เหลือ %1$s</string>
+    <string name="screen_zoom_summary_small">เล็ก</string>
+    <string name="screen_zoom_summary_default">ค่าเริ่มต้น</string>
+    <string name="screen_zoom_summary_large">ใหญ่</string>
+    <string name="screen_zoom_summary_very_large">ใหญ่ขึ้น</string>
+    <string name="screen_zoom_summary_extremely_large">ใหญ่ที่สุด</string>
+    <string name="screen_zoom_summary_custom">กำหนดเอง (%d)</string>
+    <string name="help_feedback_label">ความช่วยเหลือและความคิดเห็น</string>
+    <string name="content_description_menu_button">เมนู</string>
+    <string name="suw_next_button_label">ถัดไป</string>
+    <string name="suw_back_button_label">กลับ</string>
+    <string name="suw_more_button_label">เพิ่มเติม</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="setup_wizard_title">ตัวช่วยการตั้งค่า</string>
+    <string name="device_name">โทรศัพท์</string>
+    <string name="finish_button_label">เสร็จสิ้น</string>
+    <string name="skip_button_label">ข้าม</string>
+    <string name="skip_anyway_button_label">ข้ามไปเลย</string>
+    <string name="go_back_button_label">ย้อนกลับ</string>
+    <string name="down_button_label">เพิ่มเติม</string>
+    <string name="cancel_button_label">ยกเลิก</string>
+    <string name="restart_button_label">รีสตาร์ท</string>
+    <string name="try_again_button_label">ลองใหม่อีกครั้ง</string>
+    <string name="close_button_label">ปิด</string>
+    <string name="got_it_button_label">รับทราบ</string>
+    <string name="ok_button_label">ตกลง</string>
+    <string name="dialog_back_button_label">กลับ</string>
+    <string name="dialog_continue_button_label">ต่อไป</string>
+    <string name="google_legal_title">ข้อความทางกฎหมายของ Google</string>
+    <string name="url_load_unsuccessful_message">โทรศัพท์ของคุณไม่ได้เชื่อมต่อกับบริการข้อมูลโทรศัพท์มือถือ หากต้องการดูข้อมูลนี้ในเวลานี้ โปรดไปที่ %s ในเว็บเบราว์เซอร์</string>
+    <string name="start">มาเริ่มกันเลย</string>
+    <string name="wait_msg">รอแป๊บเดียว...</string>
+    <string name="skip_toast">ตัวช่วยการตั้งค่าถูกข้าม</string>
+    <string name="terminate_toast">"ยุติการใช้งานตัวช่วยการตั้งค่าแล้ว
+ไม่มีการจัดเตรียมอุปกรณ์"</string>
+    <string name="activation_title">กำลังเปิดใช้งานบริการข้อมูลมือถือ…</string>
+    <string name="activation_progress_flow">"หากใช้เวลานานเกินไป
+
+การเชื่อมต่อข้อมูลเครือข่ายมือถือต้องใช้เวลานาน คุณสามารถย้อนกลับไปและลองเชื่อมต่อเครือข่ายอื่นแทน"</string>
+    <string name="activation_failed_title">ไม่สามารถเชื่อมต่อข้อมูลเครือข่ายมือถือ</string>
+    <string name="activation_failed_message">"คุณสามารถ:
+"<li>ลองเชื่อมต่อข้อมูลเครือข่ายมือถืออีกครั้ง</li>"
+"<li>ใช้เครือข่ายอื่นสำหรับตั้งค่า</li>"
+
+หากตัวเลือกดังกล่าวไม่ได้ผล คุณยังสามารถรีสตาร์ทโทรศัพท์และลองอีกครั้ง"</string>
+    <string name="activation_title_searching">กำลังค้นหาบริการ...</string>
+    <string name="activation_title_activating">กำลังเปิดใช้งานบริการข้อมูลมือถือ…</string>
+    <string name="activation_default_network_name">เครือข่ายมือถือ</string>
+    <string name="activation_network_bars_template">ความแรงของสัญญาณ %d ขีด</string>
+    <string name="activation_text">แตะ<b>เปิดใช้งาน</b>"เพื่อเปิดใช้งานบริการมือถือตอนนี้เลย (อาจใช้เวลา 2-3 นาที)
+
+หรือแตะ"<b>ข้าม</b>เพื่อตั้งค่าโทรศัพท์โดยใช้การเชื่อมต่อ Wi-Fi แทน</string>
+    <string name="activation_text_standalone">แตะ<b>เปิดใช้งาน</b>เพื่อเปิดใช้งานบริการมือถือตอนนี้เลย (อาจใช้เวลา 2-3 นาที)</string>
+    <string name="activation_skip_confirmation">"คุณลักษณะส่วนใหญ่ในโทรศัพท์ของคุณจะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการข้อมูลโทรศัพท์มือถือ
+
+หากคุณต้องการข้ามไปก่อน คุณสามารถเปิดใช้งานในภายหลังได้ในการตั้งค่าระบบ"</string>
+    <string name="activation_continue_skip_label">ดำเนินการต่อ</string>
+    <string name="activation_button_label">เปิดใช้งาน</string>
+    <string name="activation_progress_before_connect">แตะ<b>ข้าม</b>เพื่อตั้งค่าให้เสร็จสมบูรณ์โดยใช้การเชื่อมต่อ Wi-Fi แทน</string>
+    <string name="activation_progress">การเปิดใช้งานอาจใช้เวลาสักครู่ แตะ<b>ข้าม</b>เพื่อตั้งค่าให้เสร็จสมบูรณ์โดยใช้การเชื่อมต่อ Wi-Fi แทน</string>
+    <string name="activation_progress_gen">อาจใช้เวลานานถึง 5 นาที</string>
+    <string name="activation_progress_mobile_data">"โทรศัพท์กำลังเปิดใช้งานบริการข้อมูลโทรศัพท์มือถือ
+
+อาจใช้เวลาถึง 5 นาที"</string>
+    <string name="activation_progress_before_connect_standalone">การเปิดใช้งานจะใช้เวลาสักครู่</string>
+    <string name="activation_progress_standalone">การเปิดใช้งานจะใช้เวลาสักครู่</string>
+    <string name="activation_success_title">การเปิดใช้งานเสร็จสมบูรณ์</string>
+    <string name="activation_success_text">แตะ<b>ถัดไป</b>เพื่อตั้งค่าต่อ</string>
+    <string name="activation_success_text_gen">คุณต้องรีสตาร์ทอุปกรณ์เพื่อให้การเปิดใช้งานเสร็จสมบูรณ์</string>
+    <string name="activation_success_text_standalone">แตะ<b>ถัดไป</b>"เพื่อดำเนินการต่อ
+
+เปิดใช้งานสำเร็จแล้ว แต่อาจใช้เวลาสักครู่จึงจะใช้งานเครือข่ายข้อมูลมือถือได้"</string>
+    <string name="activation_failure_title">ไม่สามารถเปิดใช้งาน</string>
+    <string name="activation_failure_text">"โปรดลองอีกครั้งในอีกสักครู่ หรือรีสตาร์ทโทรศัพท์หากยังคงพบปัญหาอยู่
+
+หากคุณต้องการข้ามขั้นตอนนี้ไปก่อน โปรดอย่าลืมเปิดใช้งานในการตั้งค่าระบบในภายหลัง โทรศัพท์ของคุณจะไม่มีการเชื่อมต่อข้อมูลมือถือจนกว่าคุณจะเปิดใช้งาน"</string>
+    <string name="activation_failure_text_gen">ไม่สามารถเปิดใช้งานบริการข้อมูลโทรศัพท์มือถือของคุณได้ นี่อาจจะเป็นปัญหาชั่วคราวและอาจสามารถแก้ไขได้ด้วยการรีสตาร์ทโทรศัพท์</string>
+    <string name="activation_failure_text_standalone">ไม่สามารถเปิดใช้งานบริการข้อมูลเครือข่ายมือถือ หากต้องการลองเปิดใช้งานอีกครั้ง ให้แตะ<b>ลองอีกครั้ง</b>"
+
+คุณสามารถเปิดใช้งานบริการข้อมูลเครือข่ายมือถือได้ภายหลังใน"<b>การตั้งค่าระบบ > ระบบไร้สายและเครือข่าย > เครือข่ายมือถือ</b></string>
+    <string name="activation_cancel_title">ยกเลิกรายการที่ขอ</string>
+    <string name="activation_cancel_text">กำลังยกเลิกการเปิดใช้งาน... ขั้นตอนนี้อาจใช้เวลา 5-10 วินาที</string>
+    <string name="activation_canceled_title">ยกเลิกการเปิดใช้งานแล้ว</string>
+    <string name="activation_canceled_text">"หากต้องการยกเลิกการเปิดใช้งาน ก่อนอื่นคุณจะต้องเปิดใช้งานบริการเครือข่ายมือถือเพื่อใช้ในการเชื่อมต่ออินเทอร์เน็ต
+
+แตะ"<b>ถัดไป</b>"เพื่อตั้งค่าให้เสร็จสิ้นโดยใช้การเชื่อมต่อ Wi-Fi
+
+คุณสามารถเปิดใช้งานบริการเครือข่ายมือถือได้ภายหลังใน"<b>การตั้งค่าระบบ > ระบบไร้สายและเครือข่าย > เครือข่ายมือถือ</b></string>
+    <string name="activation_canceled_text_standalone">"ยกเลิกการเปิดใช้งานแล้ว
+
+คุณสามารถเปิดใช้บริการข้อมูลมือถือภายหลังได้ใน"<b>การตั้งค่าระบบ > ระบบไร้สายและเครือข่าย > เครือข่ายมือถือ</b></string>
+    <string name="activation_spc_failure_text">เกิดข้อผิดพลาดที่ทำให้ต้องปิดโทรศัพท์และรีสตาร์ทก่อนที่จะลองเปิดใช้งานอีกครั้งได้ โทรศัพท์จะปิดอัตโนมัติใน 60 วินาทีหรือคุณสามารถแตะ<b>ปิดเครื่องเลย</b>"
+
+เมื่อโทรศัพท์ปิดแล้ว ให้กดปุ่มเปิด/ปิดเพื่อรีสตาร์ท แล้วการเปิดใช้งานจะเริ่มต้นโดยอัตโนมัติ"</string>
+    <string name="shutdown_button_label">ปิดเดี๋ยวนี้</string>
+    <string name="reboot_button_label">รีสตาร์ท</string>
+    <string name="activation_skip_text">หากคุณข้ามการเปิดใช้งาน คุณต้องเปิดใช้งานภายหลังในการตั้งค่า โทรศัพท์ของคุณจะไม่สามารถเชื่อมต่อข้อมูลมือถือจนกว่าคุณจะเปิดใช้งาน</string>
+    <string name="activation_unprovisioned_sim_message">ผู้ให้บริการอุปกรณ์เคลื่อนที่ของคุณไม่มีบัญชีสำหรับซิมการ์ดนี้ โปรดตรวจสอบกับผู้ให้บริการเพื่อตั้งค่าบัญชีของคุณ</string>
+    <string name="notification_update_title">ต้องอัปเดตบัญชีของคุณ</string>
+    <string name="notification_update_message">แตะที่นี่เพื่อเรียกใช้วิซาร์ดการตั้งค่าอีกครั้ง</string>
+    <string name="account_exists_title">{accounts,plural, =1{เพิ่มบัญชีแล้ว}other{เพิ่มบัญชีแล้ว}}</string>
+    <string name="account_exists_text_single"><annotation textAppearance="TextAppearance.SuwDescription.Medium">^1</annotation> พร้อมแล้ว</string>
+    <string name="account_exists_text_unknown_name">บัญชีของคุณพร้อมแล้ว</string>
+    <string name="account_exists_info">"อีเมล รายชื่อติดต่อ กิจกรรมในปฏิทิน และอื่นๆ จะซิงค์กับโทรศัพท์เครื่องนี้ คุณยังพร้อมที่จะเริ่มดาวน์โหลดแอป เพลง และเกมจาก Google Play ด้วย
+
+คุณสามารถเพิ่มและนำบัญชีออกในภายหลังโดยไปที่การตั้งค่า > บัญชี"</string>
+    <string name="date_time_setup_title">วันที่และเวลา</string>
+    <string name="date_time_message">ปรับเปลี่ยนหากจำเป็น</string>
+    <string name="date_time_current_date">วันที่</string>
+    <string name="date_time_current_time">เวลา</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">{sim_slots,plural, =1{ใส่ซิมการ์ด}other{ใส่ซิมการ์ด}}</string>
+    <string name="sim_missing_text">"ถาดซิมการ์ดอยู่ที่ขอบด้านบนซ้ายของโทรศัพท์
+
+ใช้เครื่องมือถอดซิมที่มาพร้อมกับโทรศัพท์เพื่อดึงถาดออกมาและใส่ซิมการ์ดนาโน
+
+เมื่อคุณใส่ซิมการ์ดแล้ว อาจใช้เวลาในการเปิดใช้งานราว 2-3 วินาที"</string>
+    <string name="sim_locked_title">ซิมการ์ดไม่รองรับ</string>
+    <string name="sim_locked_text">"โทรศัพท์เครื่องนี้ล็อคอยู่กับผู้ให้บริการรายอื่น คุณต้องใช้ซิมการ์ดที่ถูกต้อง
+
+เมื่อใส่ซิมการ์ดแล้ว โปรดรอการเปิดใช้งานสักครู่"</string>
+    <string name="sim_setup_title">ตั้งค่าซิมการ์ด</string>
+    <string name="sim_setup_select_data">เลือกซิมสำหรับข้อมูลมือถือ</string>
+    <string name="sim_setup_select_voice">เลือกซิมสำหรับการโทร</string>
+    <string name="sim_setup_select_text">เลือกซิมสำหรับข้อความ</string>
+    <string name="sim_setup_ask_every_time">ถามทุกครั้ง</string>
+    <string name="wifi_title">เลือก Wi-Fi</string>
+    <string name="wifi_skipped_title">อาจมีค่าบริการอินเทอร์เน็ต</string>
+    <string name="wifi_skipped_message">โทรศัพท์ของคุณจะใช้เครือข่ายมือถือในระหว่างการตั้งค่า และอาจมีการเรียกเก็บเงินจากคุณสำหรับการใช้อินเทอร์เน็ตนี้ โปรดเชื่อมต่อ Wi-Fi เพื่อหลีกเลี่ยงค่าใช้จ่ายที่อาจเกิดขึ้น</string>
+    <string name="wifi_scanning">กำลังค้นหาเครือข่าย Wi-Fi…</string>
+    <string name="wifi_and_mobile_skipped_message">"การเชื่อมต่อกับเครือข่ายช่วยให้คุณตั้งค่าโทรศัพท์ได้อย่างรวดเร็ว
+
+หากไม่มีการเชื่อมต่อ คุณจะไม่สามารถ:
+
+"<li>ลงชื่อเข้าใช้บัญชี Google</li>"
+
+"<li>คืนค่าแอปและข้อมูล</li>"
+
+"<li>รับการอัปเดตซอฟต์แวร์</li>"
+
+"<li>ตั้งค่าเวลาและวันที่โดยอัตโนมัติ</li></string>
+    <string name="wifi_and_mobile_skipped_message_new_flow">"การเชื่อมต่อเครือข่ายช่วยให้คุณตั้งค่าโทรศัพท์ได้เร็ว
+
+หากไม่ได้เชื่อมต่อเครือข่าย คุณจะไม่สามารถ:
+
+"<li>ลงชื่อเข้าใช้บัญชี Google</li>"
+
+"<li>รับการอัปเดตซอฟต์แวร์</li>"
+
+"<li>ตั้งค่าเวลาและวันที่โดยอัตโนมัติ</li></string>
+    <string name="wifi_add_new_network">เพิ่มเครือข่ายใหม่</string>
+    <string name="wifi_ip_address_title">ที่อยู่ IP</string>
+    <string name="wifi_ip_address_not_available">ไม่มีให้บริการ</string>
+    <string name="wifi_mac_address_title">ที่อยู่ MAC</string>
+    <string name="wifi_mac_address_not_available">ไม่มีให้บริการ</string>
+    <string name="network_title">เชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="network_description_text_new_flow">หากต้องการตั้งค่าต่อไป โปรดเชื่อมต่อเครือข่าย</string>
+    <string name="network_description_text_restore_flow">หากต้องการคัดลอกหรือคืนค่าข้อมูล เช่น รูปภาพหรือเพลง โปรดเชื่อมต่อเครือข่าย</string>
+    <string name="network_see_all_wifi">ดูเครือข่าย Wi‑Fi ทั้งหมด</string>
+    <string name="network_use_cellular">ใช้เครือข่ายมือถือเพื่อทำการตั้งค่า</string>
+    <string name="network_dont_connect">ไม่ใช้เครือข่ายเพื่อตั้งค่า</string>
+    <string name="captive_portal_title">กำลังเชื่อมต่อ…</string>
+    <string name="captive_portal_description_text">อาจใช้เวลา 1-2 นาที</string>
+    <string name="captive_portal_sign_in_dialog_title">สามารถเชื่อมต่อได้</string>
+    <string name="captive_portal_connection_unsuccessful">ไม่สามารถเชื่อมต่ออินเทอร์เน็ตได้</string>
+    <string name="gms_checkin_title">กำลังตรวจหาการอัปเดต…</string>
+    <string name="gms_checkin_description_text">อาจใช้เวลา 1-2 นาที</string>
+    <string name="gms_account_checkin_title">กำลังรับข้อมูลบัญชี…</string>
+    <string name="ota_update_title">อัปเดตโทรศัพท์</string>
+    <string name="ota_info">โทรศัพท์จำเป็นต้องดาวน์โหลดการอัปเดตและรีสตาร์ท</string>
+    <string name="ota_size">ขนาด: %s</string>
+    <string name="ota_agreement_text">การดำเนินการต่อและการรับการอัปเดตซอฟต์แวร์นี้แสดงว่าคุณยอมรับ<annotation link="tos">ข้อกำหนดในการให้บริการของ Google</annotation> และ <annotation link="google_privacy">นโยบายส่วนบุคคล</annotation></string>
+    <string name="early_update_title">กำลังตรวจหาการอัปเดต…</string>
+    <string name="early_update_text">อาจใช้เวลา 1-2 นาที</string>
+    <string name="early_update_downloading_text">กำลังดาวน์โหลด %s</string>
+    <string name="early_update_installing_text">กำลังติดตั้ง %s</string>
+    <string name="warm_sim_check_msg">กำลังรอเครือข่าย…</string>
+    <string name="android_privacy_policy_title">นโยบายส่วนบุคคลเพิ่มเติม</string>
+    <string name="google_terms_of_service_title">ข้อกำหนดในการให้บริการของ Google</string>
+    <string name="google_privacy_policy_title">นโยบายส่วนบุคคลของ Google</string>
+    <string name="google_plus_privacy_policy_title">นโยบายส่วนบุคคลของ Google Plus</string>
+    <string name="google_play_tos_title">ข้อกำหนดในการให้บริการของ Google Play</string>
+    <string name="chrome_tos_title">ข้อกำหนดในการให้บริการของ Chrome</string>
+    <string name="chrome_privacy_title">ประกาศเกี่ยวกับนโยบายส่วนบุคคลของ Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">อุปกรณ์ Android ของคุณไม่ได้เชื่อมต่อกับเครือข่าย WiFi หากต้องการดูข้อมูลนี้ในขณะนี้ ให้ไปที่ %s ด้วยเว็บเบราว์เซอร์</string>
+    <string name="continue_for_a11y">แตะต่อไปบนหน้าจอจนกว่าคุณจะได้ยินเสียงบี๊ปเพื่อเปิดใช้งานโหมดการเข้าถึง</string>
+    <string name="canceled_a11y">ยกเลิกโหมดการเข้าถึงแล้ว</string>
+    <string name="enabled_a11y">เปิดใช้งานโหมดการเข้าถึงแล้ว</string>
+    <string name="welcome_message">ยินดีต้อนรับ</string>
+    <string name="emergency_dial">เหตุฉุกเฉิน</string>
+    <string name="welcome_accessibility_button">การตั้งค่าการมองเห็น</string>
+    <string name="welcome_language_picker_dialog_title">เลือกภาษาของคุณ</string>
+    <string name="welcome_language_picker_section_suggested">แนะนำ</string>
+    <string name="welcome_language_picker_section_all">ทุกภาษา</string>
+    <string name="welcome_language_picker_content_description">ภาษา: %s</string>
+    <string name="welcome_start_button_label">มาเริ่มกันเลย</string>
+    <string name="retail_mode_item_disable_label">ปิดใช้การสาธิตสำหรับร้านค้าปลีก</string>
+    <string name="retail_mode_item_label">การสาธิตสำหรับผู้ค้าปลีก</string>
+    <string name="retail_mode_warning_dialog_title">เล่นวิดีโอสาธิต</string>
+    <string name="retail_mode_warning_dialog_message">การดำเนินการนี้จะเล่นวิดีโอสาธิตไปเรื่อยๆ จนกว่าจะมีการรีเซ็ตอุปกรณ์เป็นค่าเริ่มต้น โหมดนี้มีไว้สำหรับผู้ค้าปลีกเท่านั้น ไม่ใช่สำหรับการใช้ส่วนตัว</string>
+    <string name="retail_demo_button_text">ตั้งค่าการสาธิต</string>
+    <string name="flow_choice_title">ยินดีต้อนรับสู่ ^1 ของคุณ</string>
+    <string name="flow_choice_restore_label">คัดลอกข้อมูลของคุณ</string>
+    <string name="flow_choice_restore_summary">จาก iPhone® หรืออุปกรณ์ Android หรือจากระบบคลาวด์</string>
+    <string name="flow_choice_new_label">ตั้งค่าเป็นอุปกรณ์ใหม่</string>
+    <string name="flow_choice_new_summary">เริ่มต้นใหม่</string>
+    <string name="restore_choice_title">กำลังดึงข้อมูลของคุณจาก…</string>
+    <string name="restore_choice_google_account_label">ข้อมูลสำรองจากระบบคลาวด์</string>
+    <string name="restore_choice_google_account_summary">ลงชื่อเข้าใช้ด้วยชื่อผู้ใช้และรหัสผ่านของคุณ</string>
+    <string name="restore_choice_android_device_label">ข้อมูลสำรองจากโทรศัพท์ Android</string>
+    <string name="restore_choice_android_device_summary">ใช้โทรศัพท์เครื่องเก่าคัดลอกข้อมูลแบบไร้สาย</string>
+    <string name="restore_choice_ios_device_label">อุปกรณ์ iPhone®</string>
+    <string name="migrate_from_ios_description">ทำตามขั้นตอนต่อไปนี้บนอุปกรณ์ iPhone® ของคุณ:</string>
+    <string name="migrate_from_ios_instructions_1">1. เปิด Safari</string>
+    <string name="migrate_from_ios_instructions_2">2. ไปที่ <b>android.com/switch</b></string>
+    <string name="migrate_from_ios_instructions_3">3. ทำตามคำแนะนำ</string>
+    <string name="migrate_from_ios_header">คัดลอกข้อมูลของคุณ</string>
+    <string name="ios_trademarks_disclaimer">iPhone, iPad, iOS และ iTunes เป็นเครื่องหมายการค้าของ Apple Inc. ซึ่งจดทะเบียนในสหรัฐอเมริกาและประเทศอื่นๆ</string>
+    <string name="services_activity_title">บริการของ Google</string>
+    <string name="services_backup_heading">การสำรองข้อมูล</string>
+    <string name="services_location_heading">ตำแหน่ง</string>
+    <string name="services_security_heading">ความปลอดภัย</string>
+    <string name="services_personalization_heading">การปรับเปลี่ยนในแบบของคุณ</string>
+    <string name="services_communication_heading">การสื่อสาร</string>
+    <string name="security_verify_apps_summary">ให้ Google ตรวจสอบแอปที่ติดตั้งทั้งหมดสำหรับพฤติกรรมที่อาจเป็นอันตราย ซึ่งอาจส่งผลกระทบต่อความปลอดภัยของอุปกรณ์หรือข้อมูลของคุณ</string>
+    <string name="suggested_actions_title">มีอะไรเพิ่มเติมอีกไหม</string>
+    <string name="suggested_actions_description">ต่อไปนี้เป็นการตั้งค่าเพิ่มเติมบางส่วนที่คุณทำได้ หรือคุณจะดำเนินการในภายหลังก็ได้โดยไปที่การตั้งค่า</string>
+    <string name="suggested_actions_done_label">ทุกอย่างเรียบร้อย</string>
+    <string name="restore_title">กำลังคืนค่า…</string>
+    <string name="restore_wallpaper_title">กำลังคืนค่าวอลเปเปอร์…</string>
+    <string name="restore_device_settings_title">กำลังคืนค่าการตั้งค่าอุปกรณ์…</string>
+    <string name="restore_launcher_title">กำลังคืนค่า Launcher…</string>
+    <string name="restore_failed_message">ไม่สามารถคืนค่าข้อมูลสำรอง</string>
+    <string name="restore_no_backup_title">ไม่สามารถคืนค่า</string>
+    <string name="restore_no_backup_message">ไม่มีข้อมูลสำรองใดๆ บนอุปกรณ์อีกเครื่องหนึ่งของคุณ</string>
+    <string name="restore_stopped_message">ไม่สามารถคืนค่าข้อมูลสำรองให้เสร็จสิ้น</string>
+    <string name="final_hold_title">กำลังเพิ่มการตกแต่งขั้นสุดท้าย…</string>
+    <string name="name_title">ชื่อ</string>
+    <string name="name_text">การเพิ่มชื่อของคุณจะทำให้โทรศัพท์สามารถปรับเปลี่ยนบางแอปในแบบของคุณ</string>
+    <string name="name_display_name_label">ชื่อ</string>
+    <string name="name_display_name_hint">เช่น ปัญญา พาสุข</string>
+    <string name="cant_be_blank">ต้องกรอกข้อมูลในช่อง</string>
+    <string name="device_owner_warning_title">ตรวจสอบโทรศัพท์ได้</string>
+    <string name="device_owner_warning">โทรศัพท์เครื่องนี้จัดการโดย “%1$s” ซึ่งหมายความว่าผู้อื่นอาจเห็นข้อมูลบางส่วนของคุณ หากต้องการป้องกันการตรวจสอบ ให้รีเซ็ตโทรศัพท์</string>
+    <string name="device_owner_continue">ต่อไป</string>
+    <string name="device_owner_reset">รีเซ็ตโทรศัพท์</string>
+    <string name="factory_reset_title">รีเซ็ตโทรศัพท์</string>
+    <string name="factory_reset_instructions">คำเตือน: การรีเซ็ตจะลบบัญชีและข้อมูลทั้งหมดในที่จัดเก็บข้อมูลภายในของโทรศัพท์เครื่องนี้</string>
+    <string name="factory_reset_confirmation_title">รีเซ็ตไหม</string>
+    <string name="factory_reset_confirmation">ลบบัญชีและข้อมูลทั้งหมดบนโทรศัพท์เครื่องนี้ไหม คุณจะไม่สามารถเลิกทำการทำงานนี้!</string>
+    <string name="factory_reset_button">ลบและรีเซ็ต</string>
+    <string name="restart_setup_wizard_dialog_title">ไม่ได้ลงชื่อเข้าใช้</string>
+    <string name="restart_setup_wizard_dialog_text">"หากต้องการใช้โทรศัพท์นี้ ก่อนอื่นคุณต้องลงชื่อเข้าใช้บัญชี Google ของเจ้าของที่ใช้บนโทรศัพท์เครื่องนี้เมื่อมีการรีเซ็ตครั้งล่าสุด
+
+คุณยังไม่ได้ดำเนินการดังกล่าว คุณจึงต้องตั้งค่าโทรศัพท์อีกครั้ง"</string>
+    <string name="restart_setup_wizard_button_label">ตั้งค่าโทรศัพท์</string>
+    <string name="user_warning_radio_continue">ต่อไป</string>
+    <string name="user_warning_radio_quit">ยกเลิกและนำผู้ใช้ใหม่ออก</string>
+    <string name="user_warning_title">ตั้งค่าผู้ใช้ใหม่</string>
+    <string name="welcome_secondary_user_added_text">มีการเพิ่มคุณลงในโทรศัพท์นี้แล้ว</string>
+    <string name="welcome_secondary_user_info_text"><b>สำคัญ:</b>"
+
+"<li><ul>"เจ้าของโทรศัพท์สามารถถอนการติดตั้งแอปหรือนำพื้นที่ของคุณออกไปได้
+
+"<li>ผู้ใช้คนอื่นๆ สามารถยอมรับสิทธิ์ของแอปที่อัปเดตได้</li>"
+
+"<li>แชร์โทรศัพท์นี้กับคนที่คุณเชื่อถือเท่านั้น</li></ul></li></string>
+    <string name="qr_dependencies_check_title">กำลังติดตั้งโปรแกรมอ่าน QR…</string>
+    <string name="qr_dependencies_check_timeout_text">การดำเนินการนี้อาจใช้เวลาถึง 2 นาที</string>
+    <string name="download_qr_dependencies_failed_content">ไม่สามารถติดตั้งโปรแกรมอ่าน QR</string>
+    <string name="check_qr_dependencies_again">ลองอีกครั้ง</string>
+    <string name="qr_provision_user_consent_title">การตั้งค่าโค้ด QR</string>
+    <string name="qr_provision_user_consent_content_without_qr_library">"ในการตั้งค่าอุปกรณ์นี้สำหรับองค์กร คุณจะต้องเชื่อมต่อเครือข่ายและดาวน์โหลดตัวอ่าน QR ก่อน
+
+เมื่อดาวน์โหลดเสร็จแล้ว ให้ใช้กล้องเพื่อสแกนโค้ด QR ขององค์กร"</string>
+    <string name="qr_provision_return_initialization_wizard">กลับไปที่หน้าจอก่อนหน้าเนื่องจากไม่มีการใช้งาน</string>
+    <string name="invalid_qr_code_title">โค้ด QR ไม่สามารถใช้ได้</string>
+    <string name="invalid_qr_code_content">ตรวจสอบว่าคุณมีโค้ด QR ที่ถูกต้องขององค์กร แล้วลองอีกครั้ง</string>
+    <string name="invalid_qr_code_retry">ลองอีกครั้ง</string>
+    <string name="switch_camera">เปลี่ยนกล้อง</string>
+    <string name="qr_code_scan_title">กำลังสแกนหาโค้ด QR</string>
+    <string name="switch_to_back_camera_button_content_description">กล้องหลัง</string>
+    <string name="switch_to_front_camera_button_content_description">กล้องหน้า</string>
+    <string name="switched_to_front_camera_announcement">ขณะนี้ปุ่มเป็นกล้องหลัง</string>
+    <string name="switched_to_back_camera_announcement">ขณะนี้ปุ่มเป็นกล้องหน้า</string>
+    <string name="exit_loading_launcher">กำลังโหลด Launcher…</string>
+</resources>

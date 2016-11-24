@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">пронађено је %d</item>
+        <item quantity="one">пронађен је %d</item>
+        <item quantity="few">пронађена су %d</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d непрочитаних ставки.</item>
+        <item quantity="one">%1$s. %2$d непрочитана ставка.</item>
+        <item quantity="few">%1$s. %2$d непрочитане ставке.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Контакти су избрисани</item>
+        <item quantity="one">Контакти су избрисани</item>
+        <item quantity="few">Контакти су избрисани</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контаката са бројевима телефона</item>
+        <item quantity="one">%d контакт са бројем телефона</item>
+        <item quantity="few">%d контакта са бројевима телефона</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">пронађено је %d</item>
+        <item quantity="one">пронађен је %d</item>
+        <item quantity="few">пронађена су %d</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d група</item>
+        <item quantity="one">%0$d група</item>
+        <item quantity="few">%0$d групе</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d особа са налога %2$s</item>
+        <item quantity="one">%1$d особа са налога %2$s</item>
+        <item quantity="few">%1$d особе са налога %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d особа</item>
+        <item quantity="one">%1$d особа</item>
+        <item quantity="few">%1$d особе</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Обједињени контакти (%d)</item>
+        <item quantity="one">Обједињени контакти (%d)</item>
+        <item quantity="few">Обједињени контакти (%d)</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d могућих дупликата</item>
+        <item quantity="one">%d могућ дупликат</item>
+        <item quantity="few">%d могућа дупликата</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d обједињених контаката</item>
+        <item quantity="one">%d обједињен контакт</item>
+        <item quantity="few">%d обједињена контакта</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one">(%d)</item>
+        <item quantity="few">(%d)</item>
+    </plurals>
+</resources>

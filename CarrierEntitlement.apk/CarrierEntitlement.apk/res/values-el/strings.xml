@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Επόμενο</string>
+    <string name="suw_back_button_label">Πίσω</string>
+    <string name="suw_more_button_label">Περισσότερα</string>
+    <string name="entitlement_check_progress">Έλεγχος κατάστασης συνδρομής. Περιμένετε.</string>
+    <string name="att_service_upgrade_msg">Για ενεργοποίηση, μεταβείτε στη διεύθυνση att.com/mywireless ή καλέστε στο 611</string>
+    <string name="att_network_error">Μη διαθέσιμο δίκτυο. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="sprint_entitlement_error">Η υπηρεσία δεν υποστηρίζεται. Επικοινωνήστε με τον παροχέα υπηρεσιών που χρησιμοποιείτε.</string>
+    <string name="sprint_network_error">Μη διαθέσιμο δίκτυο. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="vzw_service_upgrade_msg">Αν θέλετε να χρησιμοποιήσετε τα Σημεία πρόσβασης κινητής συσκευής, καλέστε την υπηρεσία εξυπηρέτησης πελατών για να εγγραφείτε.</string>
+    <string name="vzw_network_error">Μη διαθέσιμο δίκτυο. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="vzw_wfc_activation_error">Αδυναμία ενεργοποίησης Κλήσης Wi-Fi. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="vzw_address_update_error">Δεν είναι δυνατή η ενημέρωση της τρέχουσας διεύθυνσης έκτακτης ανάγκης αυτήν τη στιγμή. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="generic_error">Αποτυχία ελέγχου ταυτότητας. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="vzw_setup_app_label">Ενεργοποίηση λογαριασμού Verizon</string>
+    <string name="vzw_activate_title">Ενεργοποίηση τηλεφώνου</string>
+    <string name="vzw_activate_progress">Περιμένετε μέχρι να προετοιμάσουμε το τηλέφωνό σας.</string>
+    <string name="vzw_activate_exiting">Έξοδος από την ενεργοποίηση.</string>
+    <string name="vzw_verify_title">Επαλήθευση του λογαριασμού σας</string>
+    <string name="vzw_verify_ssn">Για να ξεκινήσετε, εισαγάγετε τα τελευταία 4 ψηφία του Αριθμού Μητρώου Κοινωνικής Ασφάλισης του κατόχου λογαριασμού σας:</string>
+    <string name="vzw_verify_pwd">Για να ξεκινήσετε, εισαγάγετε τον κωδικό πρόσβασης χρέωσης του λογαριασμού σας:</string>
+    <string name="vzw_verify_button">Επαλήθευση</string>
+    <string name="vzw_later_button">Αργότερα</string>
+    <string name="vzw_verify_switch_ssn">Χρήση Αριθμού Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ)</string>
+    <string name="vzw_verify_switch_pwd">Χρήση κωδικού πρόσβασης χρέωσης</string>
+    <string name="vzw_verify_progress_title">Επαλήθευση του λογαριασμού σας…</string>
+    <string name="vzw_activate_ready_title">Είστε έτοιμοι για ενεργοποίηση;</string>
+    <string name="vzw_activate_ready_new">Αυτή η διαδικασία ενδέχεται να διαρκέσει μερικά λεπτά</string>
+    <string name="vzw_activate_ready_upgrade">"Προτού ενεργοποιήσετε αυτό το τηλέφωνο, δημιουργήστε αντίγραφα ασφαλείας των επαφών σας και απενεργοποιήστε το παλιό σας τηλέφωνο.
+
+Μόλις ξεκινήσετε την ενεργοποίηση, θα μεταφέρουμε τον αριθμό σας σε αυτό το τηλέφωνο και θα απενεργοποιήσουμε το παλιό σας τηλέφωνο."</string>
+    <string name="vzw_activate_button">Ενεργοποίηση</string>
+    <string name="vzw_activating_new_title">Λήψη αριθμού τηλεφώνου…</string>
+    <string name="vzw_activating_upgrade_title">Μεταφορά αριθμού τηλεφώνου…</string>
+    <string name="vzw_activating_upgrade">Για να μεταφερθεί ο αριθμός σας στο νέο τηλέφωνο, θα πρέπει να απενεργοποιηθεί το παλιό σας τηλέφωνο.</string>
+    <string name="vzw_activate_success_title">Το τηλέφωνο ενεργοποιήθηκε</string>
+    <string name="vzw_activate_success">Το τηλέφωνο Verizon είναι πλέον ενεργό. Ο αριθμός σας είναι %1$s</string>
+    <string name="vzw_data_limit_title">Περιορισμός χρήσης δεδομένων</string>
+    <string name="vzw_data_limit">Προς το παρόν, η χρήση δεδομένων είναι περιορισμένη λόγω κάποιου περιορισμού ώρας ημέρας ή δεδομένων. Για να συνεχίσετε τη ρύθμιση της συσκευής σας, θα πρέπει να χρησιμοποιήσετε κάποιο δίκτυο Wi-Fi.</string>
+    <string name="vzw_data_restricted_title">Περιορισμός χρήσης δεδομένων</string>
+    <string name="vzw_data_restricted">Λόγω περιορισμού ώρας της ημέρας ή δεδομένων</string>
+    <string name="vzw_data_redirected_title">Λήψη υπηρεσίας Verizon</string>
+    <string name="vzw_data_redirected">Δεν διαθέτετε πρόγραμμα Verizon Wireless ή έχετε εξαντλήσει τις παροχές του προγράμματός σας. Επικοινωνήστε με τη Verizon</string>
+    <string name="vzw_activate_notification_title">Έτοιμοι για ενεργοποίηση</string>
+    <string name="vzw_activate_notification">Πατήστε για ενεργοποίηση</string>
+    <string name="vzw_cold_notification">Επικοινωνήστε με τη Verizon για να ενεργοποιήσετε το τηλέφωνό σας.</string>
+    <string name="vzw_activate_error_title">Δεν είναι δυνατή η ενεργοποίηση</string>
+    <string name="vzw_activate_error_network">Βεβαιωθείτε ότι έχετε καλό σήμα (πολλές μπάρες) και δοκιμάστε ξανά. Αν το πρόβλημα επιμείνει, καλέστε την εξυπηρέτηση πελατών στο (800) 922-0204 για να λάβετε βοήθεια</string>
+    <string name="vzw_activate_error_lookup">Δυστυχώς, αντιμετωπίζουμε πρόβλημα με την ενεργοποίηση του τηλεφώνου σας. Επικοινωνήστε με την εξυπηρέτηση πελατών στο (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Ο Αριθμός Μητρώου Κοινωνικής Ασφάλισης (ΑΜΚΑ) δεν έχει αντιστοιχία. Δοκιμάστε ξανά.</string>
+    <string name="vzw_activate_error_pwd">Ο κωδικός πρόσβασης χρέωσης δεν έχει αντιστοιχία. Δοκιμάστε ξανά.</string>
+    <string name="vzw_activate_error_not_retryable">Δυστυχώς, αντιμετωπίζουμε πρόβλημα με την ενεργοποίηση του τηλεφώνου σας. Επικοινωνήστε με την εξυπηρέτηση πελατών στο (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Για να ενεργοποιήσετε το τηλέφωνό σας, καλέστε στο (800) 922-0204 από κάποιο άλλο τηλέφωνο.</string>
+    <string name="vzw_activate_error_restricted_title">Τρόπος ενεργοποίησης του τηλεφώνου</string>
+    <string name="vzw_activate_error_restricted">Για να ενεργοποιήσετε το τηλέφωνό σας, ακολουθήστε τις οδηγίες που παρέχονται με το καινούριο σας τηλέφωνο ή επικοινωνήστε με τον διαχειριστή της Verizon Wireless στον οργανισμό σας.</string>
+    <string name="vzw_activate_error_lost_stolen">Δυστυχώς, αντιμετωπίζουμε πρόβλημα με την ενεργοποίηση του τηλεφώνου σας. Καλέστε στο (877) 807-4646 από κάποιο άλλο τηλέφωνο για να ενεργοποιήσετε την υπηρεσία 4G LTE και προσπαθήστε ξανά.</string>
+    <string name="vzw_activate_continue">Συνέχεια</string>
+    <string name="vzw_activate_retry">Επανάληψη</string>
+    <string name="vzw_activate_skip">Παράβλεψη</string>
+    <string name="emergency_address_app_label">Διαχείριση διεύθυνσης έκτακτης ανάγκης</string>
+    <string name="progress_text">Περιμένετε…</string>
+    <string name="vzw_tos_title">Ενεργοποίηση Κλήσης Wi-Fi</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="vzw_tos_text">"Η Κλήση Wi-Fi σάς επιτρέπει να πραγματοποιείτε κλήσεις χρησιμοποιώντας ένα δίκτυο Wi-Fi, όταν το δίκτυο κινητής τηλεφωνίας δεν είναι διαθέσιμο.
+
+Για να ρυθμίσετε την Κλήση Wi-Fi, θα πρέπει να εισαγάγετε μια διεύθυνση εντός ΗΠΑ. Αυτή η διεύθυνση θα χρησιμοποιείται από τις υπηρεσίες έκτακτης ανάγκης της περιοχής σας σε περίπτωση που πραγματοποιήσετε κλήση (E911) έκτακτης ανάγκης μέσω Wi-Fi από αυτό το τηλέφωνο εντός των ΗΠΑ.
+
+Σας συνιστούμε να αλλάζετε αυτήν τη διεύθυνση όταν πραγματοποιείτε κλήσεις από κάποιο άλλο δίκτυο Wi-Fi, προκειμένου να είναι ακριβείς οι πληροφορίες τοποθεσίας σας. Μπορείτε να αλλάξετε την τοποθεσία σας ανά πάσα στιγμή μεταβαίνοντας στο μενού ρυθμίσεων της Κλήσης Wi-Fi."</string>
+    <string name="vzw_tos_link">Όροι και Προϋποθέσεις</string>
+    <string name="vzw_e911_title">Πληροφορίες τοποθεσίας έκτακτης ανάγκης</string>
+    <string name="vzw_e911_description"><b>ΣΗΜΑΝΤΙΚΟ - ΕΠΕΙΓΟΝ ΠΕΡΙΣΤΑΤΙΚΟ 911 ΑΠΑΙΤΕΙΤΑΙ ΔΙΕΥΘΥΝΣΗ</b>"
+Για να ενεργοποιήσετε την Κλήση Wi-Fi, εισαγάγετε τη διεύθυνση εντός των ΗΠΑ, στην οποία θέλετε να σταλούν οι υπηρεσίες έκτακτης ανάγκης εάν καλέσετε στο 911. Μπορείτε να μεταβείτε στις \"Ρυθμίσεις\" και να αλλάξετε αυτήν τη διεύθυνση ανά πάσα στιγμή. Είναι πολύ σημαντικό να ενημερώνετε τη διεύθυνσή σας κάθε φορά που αλλάζετε τοποθεσία."</string>
+    <string name="vzw_e911_warning"><b>ΠΡΟΕΙΔΟΠΟΙΗΣΕΙΣ - ΠΕΡΙΟΡΙΣΜΟΙ ΚΛΗΣΕΩΝ ΕΚΤΑΚΤΗΣ ΑΝΑΓΚΗΣ 911</b>"
+Όταν καλείτε στο 911, φροντίστε να ενημερώσετε τον χειριστή για την τοποθεσία σας. Η κλήση σας στο 911 θα πραγματοποιηθεί μέσω Wi-Fi μόνο αν δεν είναι διαθέσιμο το δίκτυο κινητής τηλεφωνίας. Η κλήση στο 911 που πραγματοποιείται μέσω Wi-Fi ενδέχεται να καθυστερήσει ή να είναι ανεπιτυχής, για παράδειγμα, σε περίπτωση που το σύστημα 911 δεν αναγνωρίζει τη διεύθυνση, έχει γίνει διακοπή ρεύματος ή η σύνδεσή σας σε δίκτυο Wi-Fi δεν λειτουργεί. Οι υπηρεσίες έκτακτης ανάγκης θα σταλούν στη διεύθυνση που εισαγάγατε παραπάνω. Συνεπώς, φροντίστε να την ενημερώνετε όταν αλλάζετε τοποθεσία."</string>
+    <string name="house_number">Αριθμός διεύθυνσης</string>
+    <string name="street">Οδός</string>
+    <string name="apt_suite_number">Διαμ., δωμάτιο, κ.λπ.</string>
+    <string name="city">Πόλη</string>
+    <string name="state">Πολιτεία</string>
+    <string name="zip_code">Ταχυδρομικός κώδικας</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="vzw_address_confirm_text">"Δεν ήταν δυνατή η εύρεση της διεύθυνσης που εισαγάγατε λόγω αδυναμίας εντοπισμού της οδού ή μπορεί να μην είναι σωστή η πόλη, η πολιτεία και ο ταχυδρομικός κώδικας.
+
+Εάν η πόλη, η πολιτεία και ο ταχυδρομικός κώδικας δεν είναι σωστά, πατήστε %1$s, διαφορετικά πατήστε %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Δεν ήταν δυνατή η εύρεση της διεύθυνσης που εισαγάγατε λόγω αδυναμίας εντοπισμού της οδού ή μπορεί να μην είναι σωστή η πόλη, η πολιτεία και ο ταχυδρομικός κώδικας.</string>
+    <string name="vzw_address_confirm_text_part2">Εάν η πόλη, η πολιτεία και ο ταχυδρομικός κώδικας δεν είναι σωστά, πατήστε %1$s, διαφορετικά πατήστε %2$s.</string>
+    <string name="save_anyway">Αποθήκευση ούτως ή άλλως</string>
+    <string name="edit_address">Επεξεργασία διεύθυνσης</string>
+    <string name="ok">ΟΚ</string>
+    <string name="vzw_address_select_text">Δεν ήταν δυνατή η εύρεση της διεύθυνσης που εισαγάγατε:</string>
+    <string name="vzw_address_alternate_text">Μήπως εννοούσατε:</string>
+    <string name="vzw_partial_confirm_head">Δεν ήταν δυνατή η επαλήθευση της εισηγμένης διεύθυνσης από τους παροχείς υπηρεσιών έκτακτης ανάγκης.</string>
+    <string name="vzw_partial_confirm_text">Είστε βέβαιοι ότι θέλετε να χρησιμοποιείτε αυτήν τη διεύθυνση σε περίπτωση έκτακτης ανάγκης;</string>
+    <string name="vzw_partial_failure_text">"Ενδέχεται να μην είναι σωστή η πόλη, η πολιτεία ή ο ταχυδρομικός κώδικας που εισαγάγατε.
+
+Ελέγξτε τη διεύθυνση και προσπαθήστε ξανά."</string>
+    <string name="vzw_partial_failure_text_part1">Ενδέχεται να μην είναι σωστή η πόλη, η πολιτεία ή ο ταχυδρομικός κώδικας που εισαγάγατε.</string>
+    <string name="vzw_partial_failure_text_part2">Βεβαιωθείτε ότι η διεύθυνση είναι σωστή και δοκιμάστε ξανά.</string>
+</resources>

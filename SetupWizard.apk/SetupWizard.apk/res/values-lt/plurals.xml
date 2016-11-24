@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Bus išjungta po %d sekundžių…</item>
+        <item quantity="one">Bus išjungta po %d sekundės…</item>
+        <item quantity="few">Bus išjungta po %d sekundžių…</item>
+        <item quantity="many">Bus išjungta po %d sekundės…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Toliau nurodytos paskyros parengtos:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Toliau nurodytos paskyros parengtos:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Toliau nurodytos paskyros parengtos:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Toliau nurodytos paskyros parengtos:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Dar %d palietimų norint pradėti sąranką naudojant QR kodą</item>
+        <item quantity="one">Dar %d palietimas norint pradėti sąranką naudojant QR kodą</item>
+        <item quantity="few">Dar %d palietimai norint pradėti sąranką naudojant QR kodą</item>
+        <item quantity="many">Dar %d palietimo norint pradėti sąranką naudojant QR kodą</item>
+    </plurals>
+</resources>

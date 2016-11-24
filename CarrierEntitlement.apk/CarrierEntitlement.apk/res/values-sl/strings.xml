@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Naprej</string>
+    <string name="suw_back_button_label">Nazaj</string>
+    <string name="suw_more_button_label">Več</string>
+    <string name="entitlement_check_progress">Preverjanje stanja naročnine. Počakajte.</string>
+    <string name="att_service_upgrade_msg">Če želite omogočiti, pojdite na att.com/mywireless ali pokličite 611</string>
+    <string name="att_network_error">Omrežje ni na voljo. Poskusite znova pozneje.</string>
+    <string name="sprint_entitlement_error">Storitev ni podprta. Obrnite se na operaterja.</string>
+    <string name="sprint_network_error">Omrežje ni na voljo. Poskusite znova pozneje.</string>
+    <string name="vzw_service_upgrade_msg">Če želite uporabljati mobilno dostopno točko, pokličite službo za pomoč strankam, da se naročite.</string>
+    <string name="vzw_network_error">Omrežje ni na voljo. Poskusite znova pozneje.</string>
+    <string name="vzw_wfc_activation_error">Klicanja prek Wi-Fi-ja ni mogoče aktivirati. Poskusite znova pozneje.</string>
+    <string name="vzw_address_update_error">Trenutnega naslova za nujne primere za zdaj ni mogoče posodobiti. Poskusite znova pozneje.</string>
+    <string name="generic_error">Preverjanje pristnosti ni uspelo. Poskusite znova pozneje.</string>
+    <string name="vzw_setup_app_label">Aktiviranje računa za Verizon</string>
+    <string name="vzw_activate_title">Aktiviranje telefona</string>
+    <string name="vzw_activate_progress">Počakajte, da pripravimo telefon.</string>
+    <string name="vzw_activate_exiting">Zapiranje aktiviranja.</string>
+    <string name="vzw_verify_title">Preverjanje računa</string>
+    <string name="vzw_verify_ssn">Če želite začeti, vnesite zadnje 4 števke številke socialnega zavarovanja lastnika računa:</string>
+    <string name="vzw_verify_pwd">Če želite začeti, vnesite geslo za obračun za svoj račun:</string>
+    <string name="vzw_verify_button">Preveri</string>
+    <string name="vzw_later_button">Pozneje</string>
+    <string name="vzw_verify_switch_ssn">Namesto tega uporabi št. socialnega zavarovanja</string>
+    <string name="vzw_verify_switch_pwd">Namesto tega uporabi geslo za obračun</string>
+    <string name="vzw_verify_progress_title">Preverjanje računa …</string>
+    <string name="vzw_activate_ready_title">Ste pripravljeni na aktiviranje?</string>
+    <string name="vzw_activate_ready_new">To lahko traja nekaj minut</string>
+    <string name="vzw_activate_ready_upgrade">"Preden aktivirate ta telefon, naredite varnostno kopijo imenika in izklopite stari telefon.
+
+Ko sprožite postopek aktiviranja, bomo številko prenesli v ta telefon in deaktivirali starega."</string>
+    <string name="vzw_activate_button">Aktiviraj</string>
+    <string name="vzw_activating_new_title">Pridobivanje telefonske številke …</string>
+    <string name="vzw_activating_upgrade_title">Prenašanje telefonske številke …</string>
+    <string name="vzw_activating_upgrade">Za prenos številke v novi telefon mora biti stari telefon izklopljen.</string>
+    <string name="vzw_activate_success_title">Telefon je aktiviran</string>
+    <string name="vzw_activate_success">Vaš telefon Verizon je zdaj aktiven. Vaša številka je %1$s</string>
+    <string name="vzw_data_limit_title">Prenesena količina podatkov je omejena</string>
+    <string name="vzw_data_limit">Prenesena količina podatkov je trenutno omejena zaradi ure v dnevu ali omejitve prenosa podatkov. Če želite nadaljevati nastavitev naprave, morate uporabiti Wi-Fi.</string>
+    <string name="vzw_data_restricted_title">Količina prenosa podatkov je omejena</string>
+    <string name="vzw_data_restricted">Zaradi ure dneva ali omejitve prenosa podatkov</string>
+    <string name="vzw_data_redirected_title">Pokličite službo Verizon</string>
+    <string name="vzw_data_redirected">Nimate naročniškega paketa Verizon Wireless ali pa ste dosegli omejitev količine prenesenih podatkov v naročniškem paketu. Obrnite se na Verizon.</string>
+    <string name="vzw_activate_notification_title">Pripravljen na aktiviranje</string>
+    <string name="vzw_activate_notification">Dotaknite se za aktiviranje</string>
+    <string name="vzw_cold_notification">Obrnite se na Verizon glede aktiviranja telefona.</string>
+    <string name="vzw_activate_error_title">Aktiviranje ni mogoče</string>
+    <string name="vzw_activate_error_network">Poskrbite, da bo dober signal (več črtic) in poskusite znova. Če težave ne odpravite, se za pomoč obrnite na podporo za stranke na (800) 922-0204.</string>
+    <string name="vzw_activate_error_lookup">Žal je pri aktiviranju telefona prišlo do težav. Pokličite službo za pomoč strankam na telefonsko številko (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Številka socialnega zavarovanja se ne ujema. Poskusite znova.</string>
+    <string name="vzw_activate_error_pwd">Geslo za obračun se ne ujema. Poskusite znova.</string>
+    <string name="vzw_activate_error_not_retryable">Žal je pri aktiviranju telefona prišlo do težav. Pokličite službo za pomoč strankam na telefonsko številko (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Če želite aktivirati telefon, z drugega telefona pokličite na telefonsko številko (800) 922-0204.</string>
+    <string name="vzw_activate_error_restricted_title">Aktiviranje telefona</string>
+    <string name="vzw_activate_error_restricted">Če želite aktivirati telefon, upoštevajte navodila, priložena novemu telefonu, ali se v svoji organizaciji obrnite na skrbnika za Verizon Wireless.</string>
+    <string name="vzw_activate_error_lost_stolen">Žal so težave pri aktiviranju vašega telefona. Z drugim telefonom pokličite (877) 807-4646, da aktivirate storitev 4G LTE, in nato poskusite znova.</string>
+    <string name="vzw_activate_continue">Naprej</string>
+    <string name="vzw_activate_retry">Poskusi znova</string>
+    <string name="vzw_activate_skip">Preskoči</string>
+    <string name="emergency_address_app_label">Upravljanje naslova za nujne primere</string>
+    <string name="progress_text">Počakajte …</string>
+    <string name="vzw_tos_title">Aktiviranje klicanja prek Wi-Fi-ja</string>
+    <string name="cancel">Prekliči</string>
+    <string name="vzw_tos_text">"Klicanje prek Wi-Fi-ja omogoča klicanje prek povezave Wi-Fi, ko mobilno omrežje ni na voljo.
+
+Če želite nastaviti klicanje prek Wi-Fi-ja, morate vnesti naslov v Združenih državah. Ta naslov bodo uporabile intervencijske službe na vaši lokaciji, če v Združenih državah s tem telefonom opravite klic v sili prek povezave Wi-Fi.
+
+Priporočamo, da spremenite ta naslov pri klicanju prek drugega omrežja Wi-Fi, tako da so podatki o lokaciji točnejši. Lokacijo je mogoče kadar koli spremeniti v meniju z nastavitvami za klicanje prek Wi-Fi-ja."</string>
+    <string name="vzw_tos_link">Določila in pogoji</string>
+    <string name="vzw_e911_title">Podatki o lokaciji za nujne primere</string>
+    <string name="vzw_e911_description"><b>POMEMBNO – POTREBEN JE NASLOV ZA NUJNE PRIMERE</b>"
+Če želite vklopiti klicanje prek Wi-Fi-ja, vnesite naslov v Združenih državah, na katerega pridejo intervencijske službe, če uporabite klic v sili. Ta naslov je mogoče kadar koli spremeniti v nastavitvah. Zelo je pomembno, da ta naslov posodobite, ko se preselite."</string>
+    <string name="vzw_e911_warning"><b>OPOZORILA – OMEJITVE KLICA V SILI</b>"
+Pri klicu v sili telefonistu vedno povejte, kje ste. Klic v sili je opravljen prek Wi-Fi-ja samo, če mobilno omrežje ni na voljo. Klic v sili prek Wi-Fi-ja ima morda zakasnitev ali morda ni izveden, če na primer sistem klicev v sili ne prepozna naslova, če zmanjka elektrike ali če povezava Wi-Fi ne deluje. Intervencijske službe bodo prišle na naslov, naveden zgoraj, zato ga ob selitvi posodobite."</string>
+    <string name="house_number">Številka naslova</string>
+    <string name="street">Ulica</string>
+    <string name="apt_suite_number">Stanovanje, apartma ipd.</string>
+    <string name="city">Kraj</string>
+    <string name="state">Zvezna država</string>
+    <string name="zip_code">Poštna številka</string>
+    <string name="save">Shrani</string>
+    <string name="vzw_address_confirm_text">"Vnesenega naslova ni bilo mogoče najti, ker ni bilo mogoče najti uličnega naslova, ali pa morda ni pravilen kraj, zvezna država ali poštna številka.
+
+Če ni pravilen kraj, zvezna država ali poštna številka, se dotaknite %1$s, drugače se dotaknite %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Vnesenega naslova ni bilo mogoče najti, ker ni bilo mogoče najti uličnega naslova, ali pa morda ni pravilen kraj oziroma ni pravilna zvezna država ali poštna številka.</string>
+    <string name="vzw_address_confirm_text_part2">Če ni pravilen kraj oziroma ni pravilna zvezna država ali poštna številka, se dotaknite %1$s, drugače se dotaknite %2$s.</string>
+    <string name="save_anyway">Vseeno shrani</string>
+    <string name="edit_address">Uredi naslov</string>
+    <string name="ok">V redu</string>
+    <string name="vzw_address_select_text">Vnesenega naslova ni bilo mogoče najti:</string>
+    <string name="vzw_address_alternate_text">Ste morda mislili:</string>
+    <string name="vzw_partial_confirm_head">Vnesenega naslova niso mogle preveriti službe za storitve v sili.</string>
+    <string name="vzw_partial_confirm_text">Ali res želite uporabiti ta naslov za nujne primere?</string>
+    <string name="vzw_partial_failure_text">"Vneseni kraj, zvezna država ali poštna številka morda ni pravilen oziroma pravilna.
+
+Preverite naslov in poskusite znova."</string>
+    <string name="vzw_partial_failure_text_part1">Vneseni kraj, zvezna država ali poštna številka morda ni pravilen oziroma pravilna.</string>
+    <string name="vzw_partial_failure_text_part2">Preverite naslov in poskusite znova.</string>
+</resources>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">ບໍ່ພົບແອັບໃດໆ</string>
+    <string name="app_picker_no_apps">ບໍ່ໄດ້ເລືອກແອັບ</string>
+    <string name="auto_restore_summary">ເມື່ອຕິດຕັ້ງແອັບໃດນຶ່ງຄືນໃໝ່, ໃຫ້ໃຊ້ການຕັ້ງຄ່າ ແລະ ຂໍ້ມູນທີ່ເຄີຍສຳຮອງໄວ້</string>
+    <string name="auto_restore_title">ການກູ້ຂໍ້ມູນອັດຕະໂນມັດ</string>
+    <string name="backup_configure_account_default_summary">ຕອນນີ້ບໍ່ມີບັນຊີໃດທີ່ຈັດເກັບຂໍ້ມູນສຳຮອງໄວ້</string>
+    <string name="backup_configure_account_title">ບັນຊີສຳຮອງ</string>
+    <string name="backup_data_summary">ສຳຮອງຂໍ້ມູນແອັບ, ລະຫັດຜ່ານ Wi-Fi ແລະ ການຕັ້ງຄ່າອື່ນໆໄປໃສ່ Google Drive</string>
+    <string name="backup_data_summary_full">"ສຳຮອງຂໍ້ມູນອຸປະກອນໂດຍອັດຕະໂນມັດ (ເຊັ່ນ: ລະຫັດຜ່ານ Wi-Fi ແລະ ປະຫວັດການໂທ) ແລະ ຂໍ້ມູນແອັບ (ເຊັ່ນ: ການຕັ້ງຄ່າ ແລະ ໄຟລ໌ທີ່ແອັບບັນທຶກໄວ້) ຈາກໄລຍະໄກ.
+
+ເມື່ອທ່ານເປີດການສຳຮອງຂໍ້ມູນອັດຕະໂນມັດ, ຂໍ້ມູນອຸປະກອນ ແລະ ແອັບຈະຖືກບັນທຶກເປັນໄລຍະໆຈາກໄລຍະໄກ. ຂໍ້ມູນແອັບສາມາດເປັນຂໍ້ມູນໃດໜຶ່ງທີ່ແອັບບັນທຶກໄວ້ (ອີງຕາມການຕັ້ງຄ່ານັກພັດທະນາ), ຮວມທັງຂໍ້ມູນທີ່ອາດຈະລະອຽດອ່ອນເຊັ່ນ: ລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ ແລະ ຮູບພາບ."</string>
+    <string name="backup_data_title">ສຳຮອງຂໍ້ມູນໄປໃສ່ Google Drive</string>
+    <string name="backup_erase_dialog_message">ຢຸດການສຳຮອງຂໍ້ມູນລະຫັດຜ່ານ Wi-Fi, ບຸກມາກ, ການຕັ້ງຄ່າອື່ນໆ ແລະ ຂໍ້ມູນແອັບຯຂອງທ່ານ ຮວມທັງລຶບສຳເນົາຂໍ້ມູນທັງໝົດຢູ່ Google Drive ອອກບໍ?</string>
+    <string name="backup_erase_dialog_message_full">ຢຸດການສຳຮອງຂໍ້ມູນອຸປະກອນ (ເຊັ່ນ: ລະຫັດຜ່ານ Wi-Fi ແລະ ປະຫວັດການໂທ) ແລະ ຂໍ້ມູນແອັບ (ເຊັ່ນ: ການຕັ້ງຄ່າ ແລະ ໄຟລ໌ທີ່ແອັບບັນທຶກໄວ້) ແລະ ລຶບທຸກສຳເນົາຢູ່ໃນ Google Drive ອອກບໍ?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">There was an error opening photos settings</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"ເມື່ອ​ທ່ານ​ເປີດ​ນຳ​ໃຊ​້​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອັດ​ຕະ​ໂນ​ມັດ​ແລ້ວ:
+
+ ● ການຕັ້ງຄ່າອຸປະກອນ ແລະ ຂໍ້ມູນແອັບຈະຖືກບັນທຶກໄປໃສ່ໂຟນເດີສ່ວນຕົວໃນ Google Drive ເປັນໄລຍະໆ. ຂໍ້ມູນແອັບສາມາດເປັນຂໍ້ມູນໃດກໍໄດ້ທີ່ແອັບໃດໜຶ່ງນັ້ນໄດ້ບັນທຶກໄວ້ (ອີງຕາມການຕັ້ງຄ່າຂອງຜູ້ພັດທະນາ), ຮວມທັງຂໍ້ມູນທີ່ອາດເປັນຂໍ້ມູນລັບ ເຊັ່ນ: ລາຍຊື່ຜູ້ຕິດຕໍ່, ຂໍ້ຄວາມ ແລະ ຮູບພາບຕ່າງໆ.
+
+ ໄຟ​ລ໌​ໃຫຍ່, ຫຼື​ຜູ້​ພັດ​ທະ​ນາ​ໄຟ​ລ໌​ໄດ້​ເລືອກ​ທີ່​ຈະ​ຍົກ​ເວັ້ນ​ຈາກ​ການ​ບໍ​ລິ​ການ ແມ່ນ​ຈະ​ບໍ່​ຖືກ​ສຳ​ຮອງ​ໄວ້.
+
+ ● ຮູບພາບ ແລະ ວິດີໂອທີ່ບັນທຶກຈາກອຸປະກອນນີ້ແມ່ນຖືກບັນທຶກໄປໃສ່ຫ້ອງສະໝຸດ Google ຮູບພາບຂອງທ່ານ ເພື່ອໃຫ້ສາມາດຊອກຫາ, ແກ້ໄຂ, ແລະ ແບ່ງປັນຈາກອຸປະກອນໃດກໍໄດ້ຂອງທ່ານ.
+
+ ຕາມຄ່າເລີ່ມຕົ້ນ, ລະບົບຈະອັບໂຫລດຮູບພາບ ແລະ ວິດີໂອຄວາມລະອຽດແບບເຕັມ. ຂໍ້ມູນເຫຼົ່ານີ້ຈະບໍ່ຖືກນັບຮວມໂຄຕ້າພື້ນທີ່ຈັດເກັບຂໍ້ມູນ Drive ຂອງທ່ານ.
+
+ ● ລາຍຊື່ຜູ້ຕິດຕໍ່ ແລະ ຂໍ້ມູນທີ່ເຊື່ອມໂຍງກັນຈາກອຸປະກອນນີ້ແມ່ນຖືກຊິ້ງຂໍ້ມູນໄປໃສ່ລາຍຊື່ຜູ້ຕິດຕໍ່ Google ແລ້ວ. ທ່ານສາມາດໃຊ້ແອັບລາຍຊື່ຜູ້ຕິດຕໍ່ Google ເພື່ອຊອກຫາ, ແກ້ໄຂ, ລຶບ ແລະ ແບ່ງປັນລາຍຊື່ຜູ້ຕິດຕໍ່ຈາກອຸປະກອນໃດກໍໄດ້ຂອງທ່ານ.
+
+ ● ຂໍ້ມູນປະຕິທິນ ແລະ ຂໍ້ມູນທີ່ເຊື່ອມໂຍງຈາກອຸປະກອນນີ້ແມ່ນຖືກຊິ້ງໄປໃສ່ Google ປະຕິທິນແລ້ວ. ທ່ານສາມາດໃຊ້ແອັບ Google ປະຕິທິນເພື່ອຊອກຫາ, ແກ້ໄຂ, ລຶບ ແລະ ແບ່ງປັນລາຍຊື່ຜູ້ຕິດຕໍ່ຈາກອຸປະກອນໃດກໍໄດ້ຂອງທ່ານ.
+
+ ການສຳຮອງຂໍ້ມູນຈະບໍ່ຖືກນັບຮວມໃສ່ໂຄຕ້າພື້ນທີ່ຈັດເກັບຂໍ້ມູນ Drive ຂອງທ່ານ."</string>
+    <string name="backup_opt_in_backup_description">ການສຳຮອງຂໍ້ມູນອັດຕະໂນມັດຈະຮັບປະກັນວ່າທ່ານຈະສາມາດກູ້ຂໍ້ມູນຄືນ ຫຼື ສະຫຼັບໂທລະສັບຕອນໃດກໍໄດ້ຢ່າງງ່າຍດາຍ. <annotation link="backup_opt_in_learn_more">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">ປະຕິທິນ, ລາຍຊື່ຜູ້ຕິດຕໍ່, ຮູບພາບ ແລະ ວິດີໂອແມ່ນຖືກຊິ້ງຂໍ້ມູນໄປໃສ່ບັນຊີ Google ຂອງທ່ານແລ້ວ ແລະ ອາດຖືກໃຊ້ໃນບໍລິການຕ່າງໆນຳ.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"ນີ້ຈະເປັນການປິດການສຳຮອງຂໍ້ມູນສຳລັບ:
+
+ແອັບ ແລະ ຂໍ້ມູນແອັບ
+ປະຫວັດການໂທ
+ການຕັ້ງຄ່າອຸປະກອນ
+ຮູບພາບ ແລະ ວິດີໂອ
+SMS
+
+ປະຕິທິນ ແລະ ລາຍຊື່ຜູ້ຕິດຕໍ່ຈະຍັງຄົງສືບຕໍ່ຊິ້ງຂໍ້ມູນໄປໃສ່ບັນຊີ Google ຂອງທ່ານຢູ່. ເມື່ອຕັ້ງຄ່າສຳເລັດແລ້ວ, ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່າຊິ້ງຂໍ້ມູນໄດ້ໂດຍໄປທີ່ "<annotation link="backup_opt_in_settings_instructions">ການຕັ້ງຄ່າ > ບັນຊີ > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">ປິດການສຳຮອງຂໍ້ມູນບໍ?</string>
+    <string name="backup_opt_in_backup_list">"ແອັບ ແລະ ຂໍ້ມູນແອັບ
+ປະຕິທິນ
+ປະຫວັດການໂທ
+ລາຍຊື່ຜູ້ຕິດຕໍ່
+ການຕັ້ງຄ່າອຸປະກອນ (ຮວມທັງລະຫັດຜ່ານ Wi-Fi)
+ຮູບພາບແລະວິດີໂອ
+ຂໍ້ຄວາມ SMS"</string>
+    <string name="backup_opt_in_backup_list_header">ການສຳຮອງຂໍ້ມູນຮວມມີ:</string>
+    <string name="backup_opt_in_backup_title">ສຳຮອງຂໍ້ມູນໄປໃສ່ Google Drive</string>
+    <string name="backup_opt_in_disable_backup">ປິດການສຳຮອງຂໍ້ມູນ</string>
+    <string name="backup_photos_update">Please update Google Photos</string>
+    <string name="backup_settings_activity_title">ການສຳຮອງຂໍ້ມູນ ແລະ ຣີເຊັດ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">ບໍ່ສຳເນົາ</string>
+    <string name="close_button_label">ປິດ</string>
+    <string name="cloud_restore_app_picker_button">ກູ້ຄືນ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ການສຳຮອງຂໍ້ມູນຂອງທ່ານບໍ່ມີແອັບໃດໆເລີຍ</string>
+    <string name="cloud_restore_app_picker_title">ເລືອກແອັບເພື່ອກູ້ຄືນມາ</string>
+    <string name="common_accessibility_audience_view_editable">ແກ້ໄຂຜູ້ຊົມ</string>
+    <string name="common_add_account_label">ເພີ່ມບັນຊີ</string>
+    <string name="common_ads_settings_title">Ads</string>
+    <string name="common_app_name">ບໍລິການ Google Play</string>
+    <string name="common_audience_edit_button_label">ແກ້ໄຂ</string>
+    <string name="common_cancel">ຍົກເລີກ</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts ​ບໍ່​ສາ​ມາດ​ເລີ່ມ​ຕົ້ນ​ໄດ້.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ບໍ່​ສາ​ມາດ​ເລີ່ມ​ຕົ້ນ​ໄດ້ (ຂໍ້​ຜິດ​ພາດທາງ​ດ້ານ​ສິດ).</string>
+    <string name="common_car_permission_desc">ເຂົ້າ​ເຖິງ​ບໍ​ລິ​ການ​ລົດ.</string>
+    <string name="common_car_permission_label">ບໍ​ລິ​ການ​ລົດ</string>
+    <string name="common_chips_label_empty_circles">ບໍ່ມີ circles</string>
+    <string name="common_chips_label_extended_circles">Extended Circles</string>
+    <string name="common_chips_label_only_you">ສະເພາະທ່ານ</string>
+    <string name="common_chips_label_public">ສາທາລະນະ</string>
+    <string name="common_chips_label_your_circles">Circles ຂອງທ່ານ</string>
+    <string name="common_choose_account_label">ເລືອກ​ນຶ່ງບັນ​ຊີ</string>
+    <string name="common_clear_app_data_menu_item">ລຶບຂໍ້ມູນແອັບຯ</string>
+    <string name="common_connected_apps_settings_title">ແອັບທີ່ເຊື່ອມຕໍ່</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">ເປີດນຳໃຊ້</string>
+    <string name="common_google_play_services_enable_text">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play.</string>
+    <string name="common_google_play_services_enable_title">ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">ຜິດພາດ</string>
+    <string name="common_google_play_services_install_button">ຕິດຕັ້ງ</string>
+    <string name="common_google_play_services_install_text">%1$s ຈະບໍ່ສາມາດເປີດໃຊ້ໄດ້ຫາກບໍ່ມີການບໍລິການ Google Play ເຊິ່ງແທັບເລັດຂອງທ່ານບໍ່ມີ.</string>
+    <string name="common_google_play_services_install_title">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ຈະບໍ່ສາມາດໃຊ້ໄດ້ຫາກບໍ່ມີບໍລິການ Google Play ເຊິ່ງອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບ.</string>
+    <string name="common_google_play_services_update_button">ອັບເດດ</string>
+    <string name="common_google_play_services_update_text">%1$s ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_update_title">ອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ໂດຍທີ່ບໍ່ມີການ​ບໍ​ລິ​ການ Google Play, ເຊິ່ງ​ກຳ​ລັງ​ອັບ​ເດດ​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ.</string>
+    <string name="common_google_play_services_updating_title">ກຳລັງອັບເດດບໍລິການ Google Play</string>
+    <string name="common_google_play_services_wear_update_text">ຈຳ​ເປັນ​ຕ້ອງ​ມີ​ກາ​ນ​ບໍ​ລິ​ການ Google Play ເວີ​ຊັນ​ໃໝ່. ມັນ​ຈະ​ອັບ​ເດດ​ຕົວ​ເອງ​ໄວໆ​ນີ້.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">ຕິດ​ຕັ້ງ​ການ​ບໍ​ລິ​ການ Google Play ໂດຍມີ​ສະຖາປັດຍະກໍາທີ່ຜິດພາດ.</string>
+    <string name="common_google_play_services_wrong_architecture_text">ການ​ບໍ​ລິ​ການ Google Play ຖືກ​ຕິດ​ຕັ້ງ​ໂດຍມີ​ສະຖາປັດຍະກໍາ (%1$s) ທີ່​ແຕກ​ຕ່າງ​​ຈາກ​ສະຖາປັດຍະກໍາຂອງ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">ສະຖາປັດຍະກໍາ​ຜິດ​ພາດ</string>
+    <string name="common_google_settings">ການຕັ້ງຄ່າ Google+</string>
+    <string name="common_google_settings_account">ບັນຊີ</string>
+    <string name="common_google_settings_credentials_title">Smart Lock ສຳ​ລັບ Passwords</string>
+    <string name="common_google_settings_data_management_title">ການບໍລິຫານຂໍ້ມູນ</string>
+    <string name="common_google_settings_drive_network_usage">ອັບ​ເດດ​ໄຟ​ລ໌​ແອັບ​ທີ່ດ​ຣ້າຍ​ເປີດ​ໃຊ້​ງານ​ແລ້ວ</string>
+    <string name="common_google_settings_services">ການບໍລິການ</string>
+    <string name="common_list_apps_menu_help">ຊ່ວຍເຫຼືອ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ຊ່ວຍເຫຼືອ ແລະ ຕິຊົມ</string>
+    <string name="common_loading">ກຳລັງໂຫລດ…</string>
+    <string name="common_location_settings_title">ສະຖານທີ່</string>
+    <string name="common_maps_settings_title">ແຜນທີ່ ແລະ ລະຕິຈູດ</string>
+    <string name="common_mdm_feature_name">ຕົວຈັດການອຸປະກອນ Android</string>
+    <string name="common_missing_url_viewer">ຂາດ​ຕົວ​ເບິ່ງ​ໄປ​ທີ່​ຈະ​ສະ​ແດງ url ທາງນອກ.</string>
+    <string name="common_network_load_failed">ບໍ່ສາມາດນຳໃຊ້ໄດ້ ເນື່ອງຈາກອຸປະກອນດັ່ງກ່າວບໍ່ໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບເຄືອຂ່າຍ</string>
+    <string name="common_networking_settings_title">ການ​ສ້າງເຄືອຂ່າຍ</string>
+    <string name="common_no_browser_for_restricted_url">ຈຳກັດການເຂົ້າເຖິງ. ບໍ່ພົບໂປຣແກຣມທ່ອງເວັບ.</string>
+    <string name="common_no_network">ບໍ່ສາມາດໃຊ້ໄດ້ເນື່ອງຈາກອຸປະກອນດັ່ງກ່າວອອບລາຍຢູ່</string>
+    <string name="common_off">ປິດ</string>
+    <string name="common_ok">ຕົກລົງ</string>
+    <string name="common_on">ເປີດ</string>
+    <string name="common_open_on_phone">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="common_open_source_licenses">​ລິ​ຂະ​ສິດ​ໂອ​ເພນ​ຊອດ</string>
+    <string name="common_people_settings_title">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="common_permissions_enable_in_settings">ເປີດນຳໃຊ້ໃນການຕັ້ງຄ່າ</string>
+    <string name="common_permissions_missing_end">ເພື່ອດຳເນີນການຕໍ່, ໃຫ້ເປີດການຕັ້ງຄ່າ ຈາກນັ້ນໄປທີ່ການອະນຸຍາດ ແລ້ວອະນຸຍາດລາຍການທີ່ລະບຸທັງໝົດ.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ເພື່ອເປີດນຳໃຊ້, ໃຫ້ໄປທີ່ 
+ການຕັ້ງຄ່າ >
+ການອະນຸຍາດ >
+ບໍລິການ Google Play"</string>
+    <string name="common_permissions_missing_start">ແອັບນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຕາມປົກກະຕິເວັ້ນເສຍແຕ່ທ່ານຈະອະນຸຍາດຄຳຮ້ອງຂໍຂອງບໍລິການ Google Play ເພື່ອເຂົ້າຫາຂໍ້ມູນຕໍ່ໄປນີ້:</string>
+    <string name="common_permissions_open_settings">ເປີດການຕັ້ງຄ່າ</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">ຊອກຫາ ແລະ Now</string>
+    <string name="common_search_settings_title">ຊອກຫາ</string>
+    <string name="common_security_settings_title">ຄວາມປອດໄພ</string>
+    <string name="common_set_up_nearby_device_settings_title">ຕັ້ງ​ອຸ​ປະ​ກອນ​ໃກ້​ຄຽງ</string>
+    <string name="common_settings_drive_network_usage_all">ເທິງ Wi-Fi ຫຼືເຊວລູລາ</string>
+    <string name="common_settings_drive_network_usage_wifi">ຜ່ານ Wi-Fi ເທົ່ານັ້ນ</string>
+    <string name="common_signin_button_text">ລົງຊື່ເຂົ້າໃຊ້</string>
+    <string name="common_signin_button_text_long">ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google</string>
+    <string name="common_storage_settings_title">ບ່ອນຈັດເກັບຂໍ້ມູນບໍລິການ Play</string>
+    <string name="common_switch_bar_off">ປິດ</string>
+    <string name="common_switch_bar_on">ເປີດ</string>
+    <string name="common_ui_confirm_deleting_button">ລຶບ</string>
+    <string name="common_ui_confirm_deleting_checkbox">ຂ້ອຍເຂົ້າໃຈ ແລະ ຕ້ອງການລຶບມັນ</string>
+    <string name="common_url_load_unsuccessful_message">ອຸປະກອນ Android ຂອງທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດເທື່ອ. ເພື່ອເບິ່ງຂໍ້ມູນດັ່ງກ່າວຕອນນີ້ ໃຫ້ໄປທີ່ %s ດ້ວຍໂປຣແກຣມທ່ອງເວັບ.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">ອຸປະກອນ Android ຂອງທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ WiFi. ເພື່ອເບິ່ງຂໍ້ມູນດັ່ງກ່າວຕອນນີ້, ກະລຸນາທີ່ %s ໂດຍໃຊ້ໂປຣແກຣມທ່ອງເວັບໃດໜຶ່ງ.</string>
+    <string name="common_url_login_notice">ເຂົ້າ​ສູ່​ລະ​ບົບ​ເປັນ %1$s</string>
+    <string name="common_usage_and_diagnostics">ການນຳໃຊ້ ແລະ ການວິເຄາະ</string>
+    <string name="confirm_copy_button_text">ສຳເນົາ</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d SIM, %2$d ໃນເຄື່ອງ, ລາຍຊື່ຜູ້ຕິດຕໍ່ Google</string>
+    <string name="contacts_number_local_with_google">%1$d ໃນເຄື່ອງ, ລາຍຊື່ຜູ້ຕິດຕໍ່ Google</string>
+    <string name="contacts_number_sim_with_google">%1$d SIM, ລາຍຊື່ຜູ້ຕິດຕໍ່ Google</string>
+    <string name="copy_confirmation_description">ທ່ານກຳລັງຈະສຳເນົາຂໍ້ມູນ ເຊັ່ນ: ບັນຊີ ແລະ ແອັບ Google ຂອງທ່ານໄປໃສ່ໂທລະສັບໜ່ວຍໃໝ່</string>
+    <string name="copy_confirmation_title">ສຳເນົາໄປໃສ່ໂທລະສັບໃໝ່ຂອງທ່ານບໍ?</string>
+    <string name="d2d_app_picker_description_no_apps">ພວກເຮົາບໍ່ພົບແອັບໃດໆເລີຍ</string>
+    <string name="d2d_app_picker_title">ແອັບ</string>
+    <string name="d2d_migration_canceled_on_source">ຍົກເລີກການສຳເນົາແລ້ວ</string>
+    <string name="data_copied_fragment_description">ສຳເນົາຂໍ້ມູນຂອງທ່ານໄປໃສ່ໂທລະສັບໃໝ່ແລ້ວ. ທ່ານສາມາດຖອດສາຍໄດ້ແລ້ວ.</string>
+    <string name="data_copied_fragment_description_cancel">ທ່ານໄດ້ເລືອກໃຫ້ຢຸດການສຳເນົາແລ້ວ, ດັ່ງນັ້ນຈຶ່ງຈະມີພຽງຂໍ້ມູນບາງສ່ວນທີ່ຖືກສຳເນົາໄປໃສ່ໂທລະສັບໜ່ວຍໃໝ່.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">ທ່ານໄດ້ເລືອກໃຫ້ຢຸດການສຳເນົາຂອງມູນແລ້ວ, ດັ່ງນັ້ນຈຶ່ງບໍ່ມີການສຳເນົາຫຍັງໄປທີ່ໂທລະສັບໃໝ່ຂອງທ່ານ.</string>
+    <string name="data_copied_fragment_description_error">ເກີດບາງຢ່າງຜິດພາດຂຶ້ນ, ພວກເຮົາບໍ່ສາມາດສຳເນົາຄົບທຸກຢ່າງໄປໄດ້.</string>
+    <string name="data_copied_fragment_description_error_no_data">ເກີດບາງຢ່າງຜິດພາດຂຶ້ນ, ດັ່ງນັ້ນພວກເຮົາຈຶ່ງບໍ່ສາມາດສຳເນົາຂໍ້ມູນຂອງທ່ານໄດ້.</string>
+    <string name="data_copied_fragment_no_data_title">ບໍ່ສາມາດສຳເນົາໄດ້</string>
+    <string name="data_copied_fragment_some_data_title">ສຳເນົາຂໍ້ມູນບາງສ່ວນແລ້ວ</string>
+    <string name="data_copied_fragment_title">ສຳເນົາຂໍ້ມູນແລ້ວ</string>
+    <string name="device_backup_title">ສຳຮອງຂໍ້ມູນອຸປະກອນ</string>
+    <string name="device_not_supported_fragment_new_device">ທ່ານເຊື່ອມຕໍ່ຫາໂທລະສັບໜ່ວຍໃໝ່ແລ້ວ. ເພື່ອດຳເນີນການຕໍ່, ກະລຸນາເຊື່ອມຕໍ່ຫາໂທລະສັບໜ່ວຍກ່ອນອີກຄັ້ງ.</string>
+    <string name="device_not_supported_fragment_new_device_title">ເຊື່ອມຕໍ່ຫາໂທລະສັບກ່ອນໜ້ານີ້ອີກຄັ້ງ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ສາຍນີ້ບໍ່ສາມາດໂອນຍ້າຍຂໍ້ມູນໄດ້. ໃຫ້ລອງຕໍ່ດ້ວຍສາຍອື່ນແທນ.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ໃຫ້ລອງສາຍອື່ນເບິ່ງ</string>
+    <string name="device_not_supported_fragment_retry_description">ກະລຸນາກວດສອບວ່າທ່ານໄດ້ປົດລັອກໂທລະສັບຂອງທ່ານແລ້ວ, ຈາກນັ້ນຖອດສາຍ ແລະ ສຽບໃສ່ຄືນໃໝ່</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">ມີບາງສິ່ງຜິດປົກກະຕິເກີດຂຶ້ນ</string>
+    <string name="device_picker_description">ການສຳຮອງຂໍ້ມູນແມ່ນບັນທຶກໄວ້ໃນ Google Drive</string>
+    <string name="device_picker_item">ການສຳຮອງຂໍ້ມູນ %1$s</string>
+    <string name="device_picker_last_used">ໃຊ້ຄັ້ງສຸດທ້າຍ: ^1</string>
+    <string name="device_picker_skip">ບໍ່ກູ້ຄືນ</string>
+    <string name="device_picker_title">ເລືອກການສຳຮອງຂໍ້ມູນໃດໜຶ່ງເພື່ອກູ້ຄືນ</string>
+    <string name="disabled_by_admin_summary_text">ຄວບຄຸມໂດຍຜູ້ເບິ່ງແຍງ</string>
+    <string name="download_msg_error_invalid">ຕັ້ງ​ຄ່າ​ການ​ດາວ​ໂຫລດບໍ່​ຖືກ​ຕ້ອງ.</string>
+    <string name="download_msg_in_progress">ກຳ​ລັງ​ດຳ​ເນີນ​ການ​ດາວ​ໂຫລດ​ຢູ່.</string>
+    <string name="download_msg_not_allowed_space">​ມີ​ພື້ນ​ທີ່​ຫວ່າງ​ບໍ່​ພຽງ​ພໍ​ສຳ​ລັບ​ການ​ດາວ​ໂຫລດ.</string>
+    <string name="download_msg_pending">​ລໍ​ຖ້າ​ການ​ດາວ​ໂຫລດ​ຢູ່.</string>
+    <string name="download_notification_description">%1$s ຮ້ອງ​ຂໍ​ສິ່ງນີ້.</string>
+    <string name="download_notification_title">​ກຳ​ລັງ​ດຶງ​ຂໍ້​ມູນ​ເພີ່ມ​ເຕີມ</string>
+    <string name="drive_backup_account">ບັນຊີສຳລັບການສຳຮອງຂໍ້ມູນ</string>
+    <string name="drive_backup_app_includes_data">ຮວມຂໍ້ມູນແອັບນຳ</string>
+    <string name="drive_backup_apps_in_backup">ແອັບໃນຂໍ້ມູນສຳຮອງ</string>
+    <string name="drive_backup_apps_last_backup">Last backup</string>
+    <string name="drive_backup_apps_loading">ກຳລັງໂຫລດ…</string>
+    <string name="drive_backup_apps_screen_title">ແອັບ</string>
+    <string name="drive_backup_content_apps_title">ແອັບ</string>
+    <string name="drive_backup_content_calendar_title">ປະຕິທິນ</string>
+    <string name="drive_backup_content_callhistory_title">ປະຫວັດການໂທ</string>
+    <string name="drive_backup_content_contacts_title">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="drive_backup_content_devicesettings_title">ການຕັ້ງຄ່າອຸປະກອນ</string>
+    <string name="drive_backup_content_header">ເນື້ອຫາ</string>
+    <string name="drive_backup_content_photos_dialog_message">ທ່ານຕ້ອງການປ່ຽນບັນຊີການສຳຮອງຂໍ້ມູນຮູບພາບເປັນ %s ນຳບໍ່?</string>
+    <string name="drive_backup_content_photos_dialog_no">ບໍ່ປ່ຽນ</string>
+    <string name="drive_backup_content_photos_dialog_title">ປ່ຽນການສຳຮອງຂໍ້ມູນຮູບພາບບໍ?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ປ່ຽນ</string>
+    <string name="drive_backup_content_photos_title">ຮູບພາບ ແລະ ວິດີໂອ</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">ເຂົ້າໃຈແລ້ວ</string>
+    <string name="drive_backup_content_status_error">ເກີດຄວາມຜິດພາດໃນການເບິ່ງວັນທີສຳຮອງຂໍ້ມູນຫຼ້າສຸດ</string>
+    <string name="drive_backup_content_status_lastsaved">ບັນທຶກຫຼ້າສຸດ: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Not backed up</string>
+    <string name="drive_backup_content_status_sync_adapter_action">ການຕັ້ງຄ່າບັນຊີ</string>
+    <string name="drive_backup_content_status_updating">ກຳລັງ​ກວດສອບ​ສະຖານະ...</string>
+    <string name="drive_backup_settings_title">ສຳຮອງ​ຂໍ້ມູນ</string>
+    <string name="drive_backup_state">ສຳຮອງຂໍ້ມູນໄປໃສ່ Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"ນີ້ຈະເປັນການຢຸດການສຳຮອງຂໍ້ມູນໃນອະນາຄົດສຳລັບ %s, ຮວມທັງ Google ຮູບພາບ.
+
+ຮູບພາບ, ວິດີໂອ, ລາຍຊື່ຜູ້ຕິດຕໍ່ ແລະ ນັດໝາຍປະຕິທິນຕ່າງໆທີ່ມີການສຳຮອງຂໍ້ມູນໄວ້ແລ້ວຈະຍັງຄົງສາມາດເຂົ້າເຖິງໄດ້ຜ່ານຜະລິດຕະພັນ Google ທີ່ກ່ຽວຂ້ອງ.
+
+ຂໍ້ມູນອື່ນໆທັງໝົດຈະຖືກລຶບອອກ."</string>
+    <string name="drive_backup_state_dialog_okaction">ປິດການນຳໃຊ້</string>
+    <string name="drive_backup_state_dialog_title">ປິດການນຳໃຊ້ ແລະ ລຶບການສຳຮອງຂໍ້ມູນ</string>
+    <string name="durationDayHour">%1$d ມື້ %2$d ຊົ່ວໂມງ</string>
+    <string name="durationDayHours">%1$d ມື້ %2$d ຊົ່ວໂມງ</string>
+    <string name="durationDays">%1$d ມື້</string>
+    <string name="durationHourMinute">%1$d ຊົ່ວໂມງ %2$d ນາທີ</string>
+    <string name="durationHourMinutes">%1$d ຊົ່ວໂມງ %2$d ນາທີ</string>
+    <string name="durationHours">%1$d ຊົ່ວໂມງ</string>
+    <string name="durationMinute">%1$d ນາທີ</string>
+    <string name="durationMinuteSecond">%1$d ນາທີ %2$d ວິນາທີ</string>
+    <string name="durationMinuteSeconds">%1$d ນາທີ %2$d ວິນາທີ</string>
+    <string name="durationMinutes">%1$d ນາທີ</string>
+    <string name="durationSecond">%1$d ວິນາທີ</string>
+    <string name="durationSeconds">%1$d ວິນາທີ</string>
+    <string name="encryption_warning_fragment_description">"ອຸປະກອນ iPhone® ຂອງທ່ານມີການເປີດໃຊ້ການເຂົ້າລະຫັດການສຳຮອງຂໍ້ມູນ, ດັ່ງນັ້ນຈຶ່ງສາມາດສຳເນົາໄດ້ພຽງຮູບພາບ, ວິດີໂອ ແລະ ເພງເທົ່ານັ້ນ.
+
+ເພື່ອສຳເນົາຂໍ້ມູນເພີ່ມເຕີມ, ໃຫ້ເລີ່ມໂດຍການເຊື່ອມຕໍ່ iPhone® ໄປຫາຄອມພິວເຕີຂອງທ່ານ. ເປີດ iTunes® ໃນຄອມພິວເຕີ, ຈາກນັ້ນປິດການເຂົ້າລະຫັດການສຳຮອງຂໍ້ມູນ ແລ້ວລອງສຳເນົາອີກຄັ້ງ.
+
+ສຳລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ, ກະລຸນາເບິ່ງທີ່ "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"ນີ້ເປັນວິທີທີ່ໄວທີ່ສຸດໃນການສົ່ງຂໍ້ມູນໄປມາ.
+
+ໃຫ້ຊອກຫາອະແດັບເຕີທີ່ມາກັບກ່ອງ ແລ້ວສຽບມັນໃສ່່ໂທລະສັບໃໝ່ຂອງທ່ານ. ເຊື່ອມຕໍ່ໂທລະສັບໂດຍໃຊ້ສາຍ, ຈາກນັ້ນໃຫ້ປົດລັອກໂທລະສັບເກົ່າຂອງທ່ານ."</string>
+    <string name="fragment_waiting_title">ກະລຸນາລໍຖ້າ...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">ລາຍຊື່ຜູ້ຕິດຕໍ່ Google ຈະຊິ້ງຂໍ້ມູນ</string>
+    <string name="google_contacts_static_text_off">ລາຍຊື່ຜູ້ຕິດຕໍ່ Google ຈະຍັງຄົງຊິ້ງຂໍ້ມູນ</string>
+    <string name="header_set_backup_account">ຕັ້ງບັນຊີສຳຮອງ</string>
+    <string name="i_message_dialog_message">"To keep receiving SMS messages from iPhone® device users, you'll need to turn off iMessage®.
+
+Visit "<b>g.co/iMessageHelp</b> for instructions.</string>
+    <string name="instructions_fragment_title">ດຳເນີນການຕໍ່ໃນໂທລະສັບອີກໜ່ວຍຂອງທ່ານ</string>
+    <string name="ios_connected_fragment_description">"ເພື່ອດຳເນີນການຕໍ່, ໃຫ້ເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີTo  Google ທີ່ທ່ານໃຊ້ໃນອຸປະກອນ iPhone® ຂອງທ່ານ.
+
+ເພື່ອໃຫ້ໂອນຍ້າຍຂໍ້ມູນໄດ້ໄວຂຶ້ນ, ກະລຸນາຫຼີກເວັ້ນການນຳໃຊ້ອຸປະກອນ iPhone® ຂອງທ່ານໃນລະຫວ່າງການຕັ້ງຄ່ານີ້."</string>
+    <string name="ios_message_attachment_placeholder">[ບັນທຶກໄຟລ໌ແນບໄວ້ໃນ Google ຮູບພາບ > ໂຟນເດີອຸປະກອນ > ໄຟລ໌ແນບຂໍ້ຄວາມ]</string>
+    <string name="ios_message_attachments_placeholder">[ບັນທຶກໄຟລ໌ແນບໄວ້ໃນ Google ຮູບພາບ > ໂຟນເດີອຸປະກອນ > ໄຟລ໌ແນບຂໍ້ຄວາມ]</string>
+    <string name="ios_migration_default_calendar_title">ປະຕິທິນ</string>
+    <string name="ios_photos_dialog_message">"ບໍ່ສາມາດສຳເນົາຮູບພາບທີ່ຢູ່ໃນ iCloud® ໄດ້.
+
+ເພື່ອນຳເອົາຮູບພາບເຫຼົ່ານີ້ໄປໃສ່ໃນ Pixel ຂອງທ່ານ, ໃຫ້ຕິດຕັ້ງແອັບ Google ຮູບພາບໃນອຸປະກອນ iPhone® ຂອງທ່ານ ແລ້ວເປີດໃຊ້ການສຳຮອງ ແລະ ຊິ້ງຂໍ້ມູນກ່ອນ. ກະລຸນາເຂົ້າເບິ່ງທີ່ "<b>g.co/datatransferhelp</b> ສຳລັບຄຳແນະນຳເພີ່ມເຕີມ.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">ເພີ່ມບັນຊີ</string>
+    <string name="lockscreen_smartdevice_action_next">ຕໍ່ໄປ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ໃຫ້ປົດລັອກເພື່ອສືບຕໍ່ການຕັ້ງຄ່າໂທລະສັບຂອງທ່ານ</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ດ້ວຍເຫດຜົນດ້ານຄວາມປອດໄພ, ທ່ານຈະຕ້ອງຢືນຢັນໜ້າຈໍລັອກຂອງທ່ານເພື່ອດຳເນີນການຕໍ່</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">ຢືນຢັນໜ້າຈໍລັອກຂອງທ່ານ</string>
+    <string name="manage_data_label">​ຈັດ​ການ​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ</string>
+    <string name="master_clear_title">ຣີເຊັດຄ່າຈາກໂຮງງານ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">ຕ້ອງໄດ້ກໍານົດບັນຊີສຳຮອງຂໍ້ມູນ</string>
+    <string name="notification_content_title_set_backup_account">ສຳຮອງຂໍ້ມູນ</string>
+    <string name="notification_ticker_set_backup_account">ຕ້ອງການບັນຊີສຳຮອງ</string>
+    <string name="permgrouplab_calendar">ປະຕິທິນ</string>
+    <string name="permgrouplab_camera">ກ້ອງຖ່າຍຮູບ</string>
+    <string name="permgrouplab_contacts">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="permgrouplab_location">ສະຖານທີ່</string>
+    <string name="permgrouplab_microphone">ໄມໂຄຣໂຟນ</string>
+    <string name="permgrouplab_phone">ໂທລະສັບ</string>
+    <string name="permgrouplab_sensors">ເຊັນເຊີຮ່າງກາຍ</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">ບ່ອນຈັດເກັບຂໍ້ມູນ</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">ຕອນນີ້ບໍ່ມີບັນຊີໃດທີ່ຈັດເກັບຂໍ້ມູນສຳຮອງຮູບພາບໄວ້</string>
+    <string name="photos_backup_title">ສຳຮອງຂໍ້ມູນຮູບພາບ</string>
+    <string name="photos_filtering_option_all">ທັງໝົດ</string>
+    <string name="photos_filtering_option_none">ບໍ່ມີ</string>
+    <string name="restore_choice_data_disclaimer">"Some of the data on your other phone can't be copied to your ^1. "<annotation link="restore_choice_data_disclaimer_learn_more">Learn more</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Copied contacts will be saved to your Google Account.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Copied contacts and calendars will be saved to your Google Account.</string>
+    <string name="restore_choice_learn_more_android">"Some data from your old phone can't be copied automatically:
+
+ ● Downloads (such as PDF files)
+
+ ● Photos, videos &amp; music stored in hidden folders
+
+ ● Photos, videos &amp; music received via text message
+
+ ● Apps that aren't from the Google Play Store
+
+ ● App data (if the app doesn't use Android backup)
+
+ ● Certain device settings
+
+ ● Accounts other than Google Accounts (and any associated data)
+
+ ● Contacts &amp; calendars synced to services other than Google
+
+ ● Ringtones
+
+ For more details and help copying some of this data, visit g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"ບໍ່ສາມາດສຳເນົາຂໍ້ມູນບາງຢ່າງໃນໂທລະສັບໜ່ວຍເກົ່າຂອງທ່ານໄດ້ໂດຍອັດຕະໂນມັດ:
+
+ ● ແອັບ ແລະ ຂໍ້ມູນແອັບ
+
+ ● ຮູບພາບຕົ້ນສະບັບທີ່ບໍ່ໄດ້ບັນທຶກໃນໂທລະສັບຂອງທ່ານ (ຕົວຢ່າງແມ່ນໃນກໍລະນີທີ່ເປີດໃຊ້ການຕັ້ງຄ່າການປັບບ່ອນຈັດເກັບຂໍ້ມູນໃຫ້ເໝາະສົມ, ຮູບພາບຕົ້ນສະບັບແມ່ນຖືກບັນທຶກໄວ້ໃນ iCloud® ແທນ)
+
+ ● ໄຟລ໌ ແລະ ເອກະສານທີ່ບັນທຶກໄວ້ໃນ iCloud®
+
+ ● ການຕັ້ງຄ່າອຸປະກອນ (ເຊັ່ນ: ລະຫັດຜ່ານ Wi-Fi ແລະ ຮູບພື້ນຫຼັງ)
+
+ ● ເພງທີ່ປ້ອງກັນດ້ວຍ Digital Rights Management (DRM) (ເຊັ່ນ: ເພງ iTunes® ທີ່ຊື້ມາກ່ອນເດືອນເມສາ 2009 ຫຼື ເພງທີ່ດາວໂຫລດມາຟັງອອບລາຍໃນແອັບສະຕຣີມມິງເພງ)
+
+ ● ບັນຊີທີ່ບໍ່ແມ່ນບັນຊີຂອງ Google (ແລະ ຂໍ້ມູນທີ່ເຊື່ອມໂຍງ, ຫາກມີ)
+
+ ● ລາຍຊື່ຜູ້ຕິດຕໍ່ ແລະ ປະຕິທິນທີ່ນອກເໜືອໄປຈາກ Google ຫຼື iCloud®
+
+ ● ບຸກມາກຈາກ Safari®
+
+ ໄຟລ໌ແນບ iMessage® ຈະສາມາດໃຊ້ໄດ້ໃນ Google ຮູບພາບ >ໂຟນເດີອຸປະກອນ > ໄຟລ໌ແນບຂໍ້ຄວາມ.
+
+ ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ ແລະ ການຊ່ວຍສຳເນົາຂໍ້ມູນນີ້, ກະລຸນາເຂົ້າໄປທີ່ g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">ບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍ</string>
+    <string name="restore_choice_total_text">ຂອງການໂອນຍ້າຍ %1$s / %2$s ທີ່ທ່ານມີ</string>
+    <string name="restore_item_appdata">ຂໍ້ມູນແອັບ</string>
+    <string name="restore_item_calendar">ປະຕິທິນ</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google ປະຕິທິນ</string>
+    <string name="restore_item_calendar_ical_off_description">Google ປະຕິທິນຈະຊິ້ງຂໍ້ມູນ</string>
+    <string name="restore_item_calendar_sync_description">Google ປະຕິທິນຈະຊິ້ງຂໍ້ມູນ</string>
+    <string name="restore_item_call_logs">ປະຫວັດການໂທ</string>
+    <string name="restore_item_contacts">ລາຍຊື່ຜູ້ຕິດຕໍ່</string>
+    <string name="restore_item_device_settings_description">ລະຫັດຜ່ານ Wi-Fi ແລະ ອື່ນໆອີກ</string>
+    <string name="restore_item_downloads">ການດາວໂຫລດ</string>
+    <string name="restore_item_email">ອີເມວ</string>
+    <string name="restore_item_email_description">Gmail ຈະຊິ້ງຂໍ້ມູນ</string>
+    <string name="restore_item_message_attachments">ໄຟລ໌ແນບຂໍ້ຄວາມ</string>
+    <string name="restore_item_messages">ຂໍ້ຄວາມ</string>
+    <string name="restore_item_music">ເພງ</string>
+    <string name="restore_item_photos">ຮູບພາບ ແລະ ວິດີໂອ</string>
+    <string name="restore_item_settings">ການຕັ້ງຄ່າອຸປະກອນ</string>
+    <string name="restore_item_sms">ຂໍ້ຄວາມ SMS</string>
+    <string name="restore_item_will_be_synced_text">ນີ້ຈະເປັນການຊິ້ງຂໍ້ມູນໄປໃສ່ໂທລະສັບຂອງທ່ານ</string>
+    <string name="small_time_duration">ໜ້ອຍກວ່າ 1 ນາທີ</string>
+    <string name="source_connected_description">ກຳລັງກະກຽມ...</string>
+    <string name="source_connected_title">ເຊື່ອມຕໍ່ຫາ %1$s ຂອງທ່ານແລ້ວ</string>
+    <string name="source_copying_description">ກຳລັງສຳເນົາຂໍ້ມູນທີ່ທ່ານເລືອກໄປໃສ່ໂທລະສັບໃໝ່ຂອງທ່ານ</string>
+    <string name="source_copying_title">ກຳລັງສຳເນົາ...</string>
+    <string name="source_default_target_device_name">ອຸປະກອນໃຫມ່</string>
+    <string name="source_notification_device_disconnected">ເຊື່ອມຕໍ່ສາຍຂອງທ່ານຄືນໃໝ່</string>
+    <string name="source_notification_text">ກຳລັງດຳເນີນການການໂອນຍ້າຍຂໍ້ມູນໂທລະສັບຫາໂທລະສັບຢູ່</string>
+    <string name="source_notification_title">ໂອນຍ້າຍຂໍ້ມູນ</string>
+    <string name="source_success_description">ສຳເລັດການຕັ້ງຄ່າໃນ %1$s ຂອງທ່ານ.</string>
+    <string name="source_success_screen_title">ແລ້ວໝົດແລ້ວ!</string>
+    <string name="source_unplugged_description">ເຊື່ອມຕໍ່ຫາ %1$s ຂອງທ່ານຄືນໃໝ່</string>
+    <string name="source_unplugged_title">ຕັດການເຊື່ອມຕໍ່ສາຍແລ້ວ</string>
+    <string name="source_waiting_title">ສືບຕໍ່ການຕັ້ງຄ່າໃນ %1$s ໃໝ່ຂອງທ່ານ</string>
+    <string name="stop_copying_dialog_continue_button">ປິດໄວ້</string>
+    <string name="stop_copying_dialog_message_before_transfer">ຍັງບໍ່ໄດ້ສຳເນົາຂໍ້ມູນຂອງທ່ານໄປໃສ່ໂທລະສັບໜ່ວຍໃໝ່ເທື່ອ</string>
+    <string name="stop_copying_dialog_message_during_transfer">ບໍ່ໄດ້ສຳເນົາຂໍ້ມູນບາງຢ່າງຂອງທ່ານໄປໃສ່ໂທລະສັບໜ່ວຍໃໝ່</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">ບໍ່ສຳເນົາ</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ຢຸດ</string>
+    <string name="stop_copying_dialog_title_before_transfer">ບໍ່ສຳເນົາບໍ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">ຢຸດການສຳເນົາບໍ?</string>
+    <string name="storage_management_drive_clear_failure">​ເກີດ​ຄວາມ​ຜິດ​ພາດ​ໃນ​ການ​ລຶບ​ຂໍ້​ມູນ Drive. ກະ​ລຸ​ນາ​ລອງໃໝ່​ໃນ​ພາຍຫຼັງ.</string>
+    <string name="storage_management_drive_clear_label">ລຶບ</string>
+    <string name="storage_management_drive_clear_success">ຂໍ້​ມູນ Drive ສາ​ມາດ​ຖືກ​ລຶບ​ລ້າງ​ໄດ້.</string>
+    <string name="storage_management_drive_clearing">ກໍາລັງລຶບ…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">​ຂໍ້​ມູນ Drive ທີ່​ຢູ່​ໃນ​ເຄື່ອງ​ທັງ​ໝົດ​ສຳ​ລັບ​ແອັບຯ​ທີ່​ເປີດ​ນຳ​ໃຊ້ Drive ຈະ​ຖືກ​ລຶບ​ອອກ​ໂດຍ​ຖາ​ວອນ. ການ​ລຶບ​ນີ້​ອາດ​ຮວມ​ເຖິງ​ການ​ປ່ຽນ​ແປງ​ທີ່​ຍັງ​ບໍ​ໄດ້​ອັບ​ໂຫລດ​ໄປ​ໃສ່​ເຊີບ​ເວີ​ຂອງ Google Drive ເທື່ອ​ນຳ.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">​ລຶບ​ຂໍ້​ມູນ​ທັງ​ໝົດ​ບໍ່?</string>
+    <string name="storage_management_drive_descriptive_text">ແອັບຯ​ທີ່​ເປີດ​ນຳ​ໃຊ້ Drive ຈະ​ບັນ​ທຶກ​ໄຟລ໌ຕ່າງໆໄວ້​ໃນ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ເພື່ອປັບ​ປຸງ​ປະ​ສິດ​ທິ​ພາບ ແລະ​ເຮັດ​ໃຫ້​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ໄຟ​ລ໌​ໄດ້ໂດຍບໍ່​ຕ້ອງ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​.</string>
+    <string name="storage_management_drive_get_storage_failure">ເກີດ​ຄວາມ​ຜິດ​ພາດ​ໃນ​ການ​ຄຳ​ນວນ​ການ​ນຳ​ໃຊ້​ບ່ອນ​ຈັດ​ເກັບ​ຂໍ້​ມູນ Drive. ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ໃນ​ພາຍຫຼັງ.</string>
+    <string name="storage_management_drive_size_label">ບ່ອນ​ຈັດ​ເກັບ​ຂໍ້​ມູນ Drive ໃນ​ເຄື່ອງ</string>
+    <string name="storage_management_wear_descriptive_text">ແອັບຯ​ທີ່​ໃຊ້​ບ່ອນ​ຈັດເກັບຂໍ້ມູນ​ຂອງ​ທ່ານ​ເພື່ອ​ສ້າງ​ຂໍ້ມູນ​ສຳເນົາ​ໄປ​ໃຫ້​ອຸປະກອນ​ສວມ​ໃສ່.</string>
+    <string name="storage_management_wear_manage_size_label">ຈັດການ​ບ່ອນ​ຈັດເກັບ​ຂໍ້ມູນ​ອຸປະກອນ​ສວມ​ໃສ່</string>
+    <string name="storage_management_wear_size_label">ບ່ອນ​ຈັດເກັບ​ຂໍ້ມູນ​ອຸປະກອນ​ສວມ​ໃສ່</string>
+    <string name="storage_managment_all_storage_descriptive_text">ອັດຕາການນຳໃຊ້ຂໍ້ມູນທັງໝົດ ຂອງບໍລິການ Google Play, ຮວມມີການໃຊ້ລະບົບການຊອກຫາ ແລະ ຂໍ້ມູນອື່ນໆ.</string>
+    <string name="storage_managment_clear_all_data">ລຶບຂໍ້ມູນທັງໝົດ</string>
+    <string name="storage_managment_computing_size">ກຳລັງຄຳນວນ...</string>
+    <string name="storage_managment_icing_size_label">​ຂໍ້​ມູນ​ການ​ຊອກ​ຫາ</string>
+    <string name="storage_managment_manage_icing_button">​ຈັດ​ການ​ຂໍ້​ມູນ​ການຊອກ​ຫາ</string>
+    <string name="storage_managment_search_index_descriptive_text">ພວກເຮົາໄດ້ເພີ່ມຄວາມໄວໃນການຊອກຫາໃຫ້ກັບອຸປະກອນຂອງທ່ານໂດຍການສະໜອງລະບົບການຊອກຫາໃຫ້ແອັບທ່ານໃຊ້.</string>
+    <string name="storage_managment_title">ບ່ອນຈັດເກັບຂໍ້ມູນຂອງບໍລິການ Google Play</string>
+    <string name="storage_managment_total_size_label">ບ່ອນຈັດເກັບຂໍ້ມູນທັງໝົດ</string>
+    <string name="target_default_source_device_model">ອຸປະກອນກ່ອນ</string>
+    <string name="target_device_not_supported_cant_continue_description">ທ່ານຈະຕ້ອງເລືອກວິທີອື່ນໃນການສຳເນົາຂໍ້ມູນ</string>
+    <string name="target_device_not_supported_cant_continue_title">ບໍ່ຮອງຮັບໂທລະສັບອື່ນ</string>
+    <string name="target_smart_device_timeout_add_account">ເພີ່ມບັນຊີ</string>
+    <string name="target_smart_device_timeout_description">ທ່ານສາມາດເພີ່ມບັນຊີຂອງທ່ານດ້ວຍຕົນເອງໄດ້ຫາກຕ້ອງການ</string>
+    <string name="target_smart_device_timeout_dismiss">ປິດໄວ້</string>
+    <string name="target_smart_device_timeout_title">ມີບັນຫາບໍ?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ເຊື່ອມຕໍ່ໂທລະສັບແລ້ວ</string>
+    <string name="toast_reconnect_cable">ເຊື່ອມຕໍ່ສາຍຂອງທ່ານຄືນໃໝ່</string>
+    <string name="transfer_finished_fragment_title">ກຳລັງສຳເລັດຂັ້ນຕອນສຸດທ້າຍ…</string>
+    <string name="transfer_summary_copied">ສຳເນົາຂໍ້ມູນແລ້ວ</string>
+    <string name="transfer_summary_fragment_description">ກະລຸນາຖອດສາຍຫາກທ່ານຍັງບໍ່ໄດ້ຖອດເທື່ອ</string>
+    <string name="transfer_summary_fragment_finish">ແລ້ວໆ</string>
+    <string name="transfer_summary_fragment_title">ໂທລະສັບຂອງທ່ານໃກ້ພ້ອມແລ້ວ</string>
+    <string name="transfer_summary_icloud_photos_warning">ບໍ່ໄດ້ສຳເນົາບາງຮູບຂອງທ່ານ. <annotation link="transfer_summary_learn_more">ສຶກສາເພີ່ມເຕີມ</annotation></string>
+    <string name="transfer_summary_not_copied">ບໍ່ໄດ້ສຳເນົາຂໍ້ມູນເທື່ອ</string>
+    <string name="transfer_summary_partial">ສຳເນົາແລ້ວ %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ຈະຊິ້ງຂໍ້ມູນຫຼັງຈາກຕັ້ງຄ່າແລ້ວ</string>
+    <string name="transferring_fragment_calculating_remaining_time">ກຳລັງຄຳນວນເວລາທີ່ເຫຼືອ...</string>
+    <string name="transferring_fragment_header">ກຳລັງສຳເນົາ...</string>
+    <string name="transferring_fragment_remaining_time">%1$s left</string>
+    <string name="trust_instructions_description">ເພື່ອດຳເນີນການຕໍ່, ໃຫ້ກວດສອບອຸປະກອນ iPhone® ຂອງທ່ານແລ້ວອະນຸມັດການເຊື່ອມຕໍ່</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari ແລະ iTunes ເປັນເຄື່ອງໝາຍການຄ້າຂອງ Apple Inc., ຈົດທະບຽນໃນສະຫະລັດອາເມລິກາ ແລະ ປະເທດອື່ນໆ.</string>
+</resources>

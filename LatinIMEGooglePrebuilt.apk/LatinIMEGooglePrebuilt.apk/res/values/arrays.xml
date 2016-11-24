@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="activation_pages">
+        <item>@layout/first_run_page_enable</item>
+        <item>@layout/first_run_page_select_input_method</item>
+    </array>
+    <string-array name="customized_locale_names">
+        <item>@string/subtype_locale_en_US</item>
+        <item>@string/subtype_locale_en_GB</item>
+        <item>@string/subtype_locale_es_US</item>
+        <item>@string/subtype_locale_fa_AF</item>
+        <item>@string/subtype_locale_sr_XA</item>
+        <item>@string/subtype_locale_sr_XB</item>
+        <item>@string/subtype_locale_sr_ZZ</item>
+        <item>@string/subtype_locale_zz</item>
+        <item>@string/subtype_locale_tl</item>
+    </string-array>
+    <string-array name="customized_locale_names_with_layout">
+        <item>@string/subtype_with_layout_en_US</item>
+        <item>@string/subtype_with_layout_en_GB</item>
+        <item>@string/subtype_with_layout_es_US</item>
+        <item>@string/subtype_with_layout_fa_AF</item>
+        <item>@string/subtype_with_layout_sr_XA</item>
+        <item>@string/subtype_with_layout_sr_XB</item>
+        <item>@string/subtype_with_layout_sr_ZZ</item>
+        <item>@string/subtype_with_layout_zz</item>
+        <item>@string/subtype_with_layout_tl</item>
+    </string-array>
+    <string-array name="default_content_decriptions">
+        <item>-</item>
+        <item>@string/minus_key_content_desc</item>
+        <item>+</item>
+        <item>@string/plus_key_content_desc</item>
+        <item>=</item>
+        <item>@string/equals_key_content_desc</item>
+        <item>℅</item>
+        <item>@string/care_of_key_content_desc</item>
+        <item>￥</item>
+        <item>@string/rmb_key_content_desc</item>
+        <item>.com</item>
+        <item>@string/dot_com_key_content_desc</item>
+        <item>.edu</item>
+        <item>@string/dot_edu_key_content_desc</item>
+        <item>.net</item>
+        <item>@string/dot_net_key_content_desc</item>
+        <item>.org</item>
+        <item>@string/dot_org_key_content_desc</item>
+        <item>.gov</item>
+        <item>@string/dot_gov_key_content_desc</item>
+        <item>www.</item>
+        <item>@string/www_dot_key_content_desc</item>
+        <item>mail.</item>
+        <item>@string/mail_dot_key_content_desc</item>
+        <item>news.</item>
+        <item>@string/news_dot_key_content_desc</item>
+        <item>.cn</item>
+        <item>@string/dot_cn_key_content_desc</item>
+        <item>.tw</item>
+        <item>@string/dot_tw_key_content_desc</item>
+        <item>.hk</item>
+        <item>@string/dot_hk_key_content_desc</item>
+        <item>.中国</item>
+        <item>@string/dot_china_key_content_desc</item>
+        <item>，</item>
+        <item>@string/full_width_comma_key_content_desc</item>
+        <item>。</item>
+        <item>@string/full_width_period_key_content_desc</item>
+        <item>“</item>
+        <item>@string/left_double_quotation_key_content_desc</item>
+        <item>”</item>
+        <item>@string/right_double_quotation_key_content_desc</item>
+        <item>‘</item>
+        <item>@string/left_single_quotation_key_content_desc</item>
+        <item>’</item>
+        <item>@string/right_single_quotation_key_content_desc</item>
+        <item>『</item>
+        <item>@string/left_vertical_double_quotation_key_content_desc</item>
+        <item>』</item>
+        <item>@string/right_vertical_double_quotation_key_content_desc</item>
+        <item>「</item>
+        <item>@string/left_vertical_single_quotation_key_content_desc</item>
+        <item>」</item>
+        <item>@string/right_vertical_single_quotation_key_content_desc</item>
+        <item>(</item>
+        <item>@string/left_parenthesis_key_content_desc</item>
+        <item>（</item>
+        <item>@string/full_width_left_parenthesis_key_content_desc</item>
+        <item>)</item>
+        <item>@string/right_parenthesis_key_content_desc</item>
+        <item>）</item>
+        <item>@string/full_width_right_parenthesis_key_content_desc</item>
+        <item>、</item>
+        <item>@string/slight_pause_mark_key_content_desc</item>
+        <item>:</item>
+        <item>@string/colon_key_content_desc</item>
+        <item>：</item>
+        <item>@string/full_width_colon_key_content_desc</item>
+        <item>;</item>
+        <item>@string/semicolon_key_content_desc</item>
+        <item>；</item>
+        <item>@string/full_width_semicolon_key_content_desc</item>
+        <item>\?</item>
+        <item>@string/question_mark_key_content_desc</item>
+        <item>？</item>
+        <item>@string/full_width_question_mark_key_content_desc</item>
+        <item>!</item>
+        <item>@string/exclamation_key_content_desc</item>
+        <item>！</item>
+        <item>@string/full_width_exclamation_key_content_desc</item>
+        <item>~</item>
+        <item>@string/tilde_key_content_desc</item>
+        <item>～</item>
+        <item>@string/full_width_tilde_key_content_desc</item>
+        <item>…</item>
+        <item>@string/full_width_ellipsis_key_content_desc</item>
+        <item>·</item>
+        <item>@string/middle_dot_key_content_desc</item>
+        <item>[</item>
+        <item>@string/left_square_bracket_key_content_desc</item>
+        <item>［</item>
+        <item>@string/full_width_left_square_bracket_key_content_desc</item>
+        <item>]</item>
+        <item>@string/right_square_bracket_key_content_desc</item>
+        <item>］</item>
+        <item>@string/full_width_right_square_bracket_key_content_desc</item>
+        <item>【</item>
+        <item>@string/left_black_square_bracket_key_content_desc</item>
+        <item>】</item>
+        <item>@string/right_black_square_bracket_key_content_desc</item>
+        <item>〔</item>
+        <item>@string/left_hexagon_bracket_key_content_desc</item>
+        <item>〕</item>
+        <item>@string/right_hexagon_bracket_key_content_desc</item>
+        <item>〈</item>
+        <item>@string/single_left_book_title_key_content_desc</item>
+        <item>〉</item>
+        <item>@string/single_right_book_title_key_content_desc</item>
+        <item>《</item>
+        <item>@string/double_left_book_title_key_content_desc</item>
+        <item>》</item>
+        <item>@string/double_right_book_title_key_content_desc</item>
+        <item>↑</item>
+        <item>@string/up_arrow_key_content_desc</item>
+        <item>↓</item>
+        <item>@string/down_arrow_key_content_desc</item>
+        <item>←</item>
+        <item>@string/left_arrow_key_content_desc</item>
+        <item>→</item>
+        <item>@string/right_arrow_key_content_desc</item>
+    </string-array>
+    <string-array name="device_width_in_inch">
+        <item>MODEL=Nexus 5,2.44</item>
+        <item>MODEL=Nexus 6,2.9</item>
+        <item>MODEL=Nexus 6P,2.8</item>
+        <item>MODEL=HUAWEI MT7.*,2.99</item>
+        <item>MODEL=NX507J,2.44</item>
+        <item>MODEL=SM-9006,2.79</item>
+        <item>MODEL=MI 4C,2.4</item>
+        <item>MODEL=A0001,2.7</item>
+        <item>MODEL=A2001,2.7</item>
+        <item>MODEL=m2 note,2.7</item>
+    </string-array>
+    <string-array name="entries_builtin_additional_keyboard_theme">
+        <item>@string/kb_theme_google_blue_light</item>
+        <item>@string/kb_theme_google_blue_dark</item>
+        <item>@string/kb_theme_color_red</item>
+        <item>@string/kb_theme_color_green</item>
+        <item>@string/kb_theme_color_teal</item>
+        <item>@string/kb_theme_color_blue</item>
+        <item>@string/kb_theme_color_cyan</item>
+        <item>@string/kb_theme_color_deep_purple</item>
+        <item>@string/kb_theme_color_pink</item>
+        <item>@string/kb_theme_color_light_pink</item>
+        <item>@string/kb_theme_color_brown</item>
+        <item>@string/kb_theme_color_blue_grey</item>
+        <item>@string/kb_theme_color_black</item>
+        <item>@string/kb_theme_holo_blue</item>
+        <item>@string/kb_theme_holo_white</item>
+    </string-array>
+    <string-array name="entries_keyboard_height_ratio">
+        <item>@string/kb_height_short</item>
+        <item>@string/kb_height_midshort</item>
+        <item>@string/kb_height_normal</item>
+        <item>@string/kb_height_midtall</item>
+        <item>@string/kb_height_tall</item>
+    </string-array>
+    <string-array name="entries_keyboard_slide_sensitivity_ratio">
+        <item>@string/kb_slide_low</item>
+        <item>@string/kb_slide_midlow</item>
+        <item>@string/kb_slide_normal</item>
+        <item>@string/kb_slide_midhigh</item>
+        <item>@string/kb_slide_high</item>
+    </string-array>
+    <string-array name="entries_keyboard_theme">
+        <item>@string/kb_theme_material_light</item>
+        <item>@string/kb_theme_material_dark</item>
+    </string-array>
+    <string-array name="entries_one_handed_mode">
+        <item>@string/one_handed_mode_disable</item>
+        <item>@string/right_handed_mode</item>
+        <item>@string/left_handed_mode</item>
+    </string-array>
+    <string-array name="entryvalues_builtin_additional_keyboard_theme">
+        <item>@string/pref_entry_additional_keyboard_theme_google_blue_light</item>
+        <item>@string/pref_entry_additional_keyboard_theme_google_blue_dark</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_red</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_green</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_teal</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_blue</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_cyan</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_deep_purple</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_pink</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_light_pink</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_brown</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_blue_grey</item>
+        <item>@string/pref_entry_additional_keyboard_theme_color_black</item>
+        <item>@string/pref_entry_additional_keyboard_theme_holo_blue</item>
+        <item>@string/pref_entry_additional_keyboard_theme_holo_white</item>
+    </string-array>
+    <string-array name="entryvalues_builtin_additional_keyboard_theme_holo">
+        <item>assets:theme_package_metadata_holo_blue.binarypb</item>
+        <item>assets:theme_package_metadata_holo_white.binarypb</item>
+    </string-array>
+    <string-array name="entryvalues_keyboard_height_ratio">
+        <item>0.9</item>
+        <item>0.95</item>
+        <item>1.0</item>
+        <item>1.05</item>
+        <item>1.1</item>
+    </string-array>
+    <string-array name="entryvalues_keyboard_slide_sensitivity_ratio">
+        <item>3.0</item>
+        <item>1.5</item>
+        <item>1.0</item>
+        <item>0.8</item>
+        <item>0.5</item>
+    </string-array>
+    <string-array name="entryvalues_keyboard_theme">
+        <item>@string/pref_entry_keyboard_material_light_theme</item>
+        <item>@string/pref_entry_keyboard_material_dark_theme</item>
+    </string-array>
+    <string-array name="entryvalues_one_handed_mode">
+        <item>@string/pref_entry_normal_keyboard_mode</item>
+        <item>@string/pref_entry_right_handed_mode</item>
+        <item>@string/pref_entry_left_handed_mode</item>
+    </string-array>
+    <array name="external_dynamic_lms" />
+    <array name="feature_promote_pages">
+        <item>@layout/feature_page_gesture</item>
+        <item>@layout/feature_page_auto_dictionary</item>
+        <item>@layout/feature_page_symbol_keyboard</item>
+        <item>@layout/feature_page_theme</item>
+    </array>
+    <array name="first_run_pages">
+        <item>@layout/first_run_page_enable</item>
+        <item>@layout/first_run_page_select_input_method</item>
+        <item>@layout/first_run_page_permission</item>
+        <item>@layout/first_run_page_done</item>
+    </array>
+    <array name="first_run_pages_without_permission">
+        <item>@layout/first_run_page_enable</item>
+        <item>@layout/first_run_page_select_input_method</item>
+        <item>@layout/first_run_page_done</item>
+    </array>
+    <string-array name="gif_category">
+        <item>@string/gif_category_string_frequently_used</item>
+        <item>frequently used</item>
+        <item>@string/gif_category_string_high_five</item>
+        <item>high five</item>
+        <item>@string/gif_category_string_clapping</item>
+        <item>clapping</item>
+        <item>@string/gif_category_string_thumbs_up</item>
+        <item>thumbs up</item>
+        <item>@string/gif_category_string_no</item>
+        <item>no</item>
+        <item>@string/gif_category_string_yes</item>
+        <item>yes</item>
+        <item>@string/gif_category_string_shrug</item>
+        <item>shrug meh</item>
+        <item>@string/gif_category_string_mic_drop</item>
+        <item>mic drop</item>
+        <item>@string/gif_category_string_sorry</item>
+        <item>sorry</item>
+        <item>@string/gif_category_string_cheers</item>
+        <item>cheers</item>
+        <item>@string/gif_category_string_thank_you</item>
+        <item>thank you</item>
+        <item>@string/gif_category_string_wink</item>
+        <item>wink</item>
+        <item>@string/gif_category_string_angry</item>
+        <item>angry</item>
+        <item>@string/gif_category_string_nervous</item>
+        <item>nervous</item>
+        <item>@string/gif_category_string_duh</item>
+        <item>duh</item>
+        <item>@string/gif_category_string_oops</item>
+        <item>oops</item>
+        <item>@string/gif_category_string_hungry</item>
+        <item>hungry</item>
+        <item>@string/gif_category_string_hugs</item>
+        <item>hugs</item>
+        <item>@string/gif_category_string_wow</item>
+        <item>wow</item>
+        <item>@string/gif_category_string_bored</item>
+        <item>bored</item>
+        <item>@string/gif_category_string_goodnight</item>
+        <item>goodnight</item>
+        <item>@string/gif_category_string_awkward</item>
+        <item>awkward</item>
+        <item>@string/gif_category_string_aww</item>
+        <item>aww</item>
+        <item>@string/gif_category_string_please</item>
+        <item>please</item>
+        <item>@string/gif_category_string_yikes</item>
+        <item>yikes</item>
+        <item>@string/gif_category_string_omg</item>
+        <item>omg</item>
+        <item>@string/gif_category_string_bye</item>
+        <item>bye</item>
+        <item>@string/gif_category_string_waiting</item>
+        <item>waiting</item>
+        <item>@string/gif_category_string_eyeroll</item>
+        <item>eyeroll</item>
+        <item>@string/gif_category_string_idk</item>
+        <item>idk</item>
+        <item>@string/gif_category_string_kittens</item>
+        <item>kittens</item>
+        <item>@string/gif_category_string_puppies</item>
+        <item>puppies</item>
+        <item>@string/gif_category_string_loser</item>
+        <item>loser</item>
+        <item>@string/gif_category_string_cold</item>
+        <item>cold</item>
+        <item>@string/gif_category_string_party</item>
+        <item>party</item>
+        <item>@string/gif_category_string_agree</item>
+        <item>agree</item>
+        <item>@string/gif_category_string_dance</item>
+        <item>dance</item>
+        <item>@string/gif_category_string_excuse_me</item>
+        <item>excuse me</item>
+        <item>@string/gif_category_string_what</item>
+        <item>what</item>
+        <item>@string/gif_category_string_stop</item>
+        <item>stop</item>
+        <item>@string/gif_category_string_sleepy</item>
+        <item>sleepy</item>
+        <item>@string/gif_category_string_creep</item>
+        <item>creep</item>
+        <item>@string/gif_category_string_jk</item>
+        <item>jk</item>
+        <item>@string/gif_category_string_scared</item>
+        <item>scared</item>
+        <item>@string/gif_category_string_chill_out</item>
+        <item>chill out</item>
+        <item>@string/gif_category_string_miss_you</item>
+        <item>miss you</item>
+        <item>@string/gif_category_string_done</item>
+        <item>done</item>
+    </string-array>
+    <string-array name="gif_keyboard_default_candidates">
+        <item>@string/gif_keyboard_default_candidate_0</item>
+        <item>@string/gif_keyboard_default_candidate_1</item>
+        <item>@string/gif_keyboard_default_candidate_2</item>
+    </string-array>
+    <array name="google_blue_dark_theme">
+        <item>@style/GoogleBlueDarkTheme</item>
+    </array>
+    <array name="google_blue_light_theme">
+        <item>@style/GoogleBlueLightTheme</item>
+    </array>
+    <array name="icon_content_descriptions">
+        <item>@drawable/ic_key_main_category_smiley_dark_theme</item>
+        <item>@string/emoji_keyboard_key_content_desc</item>
+        <item>@drawable/ic_key_ime_action_previous</item>
+        <item>@string/navigate_previous_key_content_desc</item>
+        <item>@drawable/ic_key_ime_action_next</item>
+        <item>@string/navigate_next_key_content_desc</item>
+        <item>@drawable/ic_key_search</item>
+        <item>@string/search_key_content_desc</item>
+        <item>@drawable/ic_key_ime_action_done</item>
+        <item>@string/done_key_content_desc</item>
+        <item>@drawable/ic_key_ime_action_go</item>
+        <item>@string/go_key_content_desc</item>
+        <item>@drawable/ic_key_ime_action_send</item>
+        <item>@string/send_key_content_desc</item>
+        <item>@drawable/ic_key_popup_setting_white</item>
+        <item>@string/settings_content_desc</item>
+        <item>@drawable/ic_key_switch_to_left_handed_mode</item>
+        <item>@string/left_handed_content_desc</item>
+        <item>@drawable/ic_key_switch_to_right_handed_mode</item>
+        <item>@string/right_handed_content_desc</item>
+        <item>@drawable/ic_key_setting_material_dark_theme</item>
+        <item>@string/settings_content_desc</item>
+        <item>@drawable/ic_key_setting_material_light_theme</item>
+        <item>@string/settings_content_desc</item>
+        <item>@drawable/ic_key_switch_to_left_handed_mode_material_light_theme</item>
+        <item>@string/left_handed_content_desc</item>
+        <item>@drawable/ic_key_switch_to_left_handed_mode_material_dark_theme</item>
+        <item>@string/left_handed_content_desc</item>
+    </array>
+    <array name="language_labels" />
+    <array name="latin_bordered_material_dark_theme">
+        <item>@style/BorderedMaterialDarkTheme</item>
+        <item>@style/GestureBorderedMaterialDarkTheme</item>
+        <item>@style/SearchBorderedMaterialDarkTheme</item>
+    </array>
+    <array name="latin_bordered_material_light_theme">
+        <item>@style/BorderedMaterialLightTheme</item>
+        <item>@style/GestureBorderedMaterialLightTheme</item>
+        <item>@style/SearchBorderedMaterialLightTheme</item>
+    </array>
+    <string-array name="latin_entryvalues_keyboard_theme">
+        <item>@string/pref_entry_keyboard_material_light_theme</item>
+        <item>@string/pref_entry_keyboard_material_dark_theme</item>
+    </string-array>
+    <array name="latin_material_dark_theme">
+        <item>@style/MaterialDarkTheme</item>
+        <item>@style/LatinMaterialDarkTheme</item>
+        <item>@style/GestureMaterialDarkTheme</item>
+        <item>@style/SearchMaterialDarkTheme</item>
+    </array>
+    <array name="latin_material_light_theme">
+        <item>@style/MaterialLightTheme</item>
+        <item>@style/LatinMaterialLightTheme</item>
+        <item>@style/GestureMaterialLightTheme</item>
+        <item>@style/SearchMaterialLightTheme</item>
+    </array>
+    <string-array name="layout_variant_display_names">
+        <item>QWERTY</item>
+        <item>QWERTZ</item>
+        <item>AZERTY</item>
+        <item>Dvorak</item>
+        <item>Colemak</item>
+        <item>PC</item>
+        <item>QWERTY + Numbers</item>
+        <item>QWERTZ + Numbers</item>
+        <item>AZERTY + Numbers</item>
+    </string-array>
+    <string-array name="layout_variant_subtype_names">
+        <item>@string/subtype_generic_qwerty</item>
+        <item>@string/subtype_generic_qwertz</item>
+        <item>@string/subtype_generic_azerty</item>
+        <item>@string/subtype_generic_dvorak</item>
+        <item>@string/subtype_generic_colemak</item>
+        <item>@string/subtype_generic_pcqwerty</item>
+        <item>@string/subtype_generic_qwerty_with_numbers</item>
+        <item>@string/subtype_generic_qwertz_with_numbers</item>
+        <item>@string/subtype_generic_azerty_with_numbers</item>
+    </string-array>
+    <string-array name="layout_variants">
+        <item>qwerty</item>
+        <item>qwertz</item>
+        <item>azerty</item>
+        <item>dvorak</item>
+        <item>colemak</item>
+        <item>pcqwerty</item>
+        <item>qwerty_with_numbers</item>
+        <item>qwertz_with_numbers</item>
+        <item>azerty_with_numbers</item>
+    </string-array>
+    <string-array name="locales_with_customized_names">
+        <item>en_US</item>
+        <item>en_GB</item>
+        <item>es_US</item>
+        <item>fa_AF</item>
+        <item>sr_XA</item>
+        <item>sr_XB</item>
+        <item>sr_ZZ</item>
+        <item>zz</item>
+        <item>tl</item>
+    </string-array>
+    <string-array name="locales_with_localized_customized_names">
+        <item>en_US</item>
+        <item>en_GB</item>
+        <item>es_US</item>
+        <item>fa_AF</item>
+        <item>sr_XA</item>
+        <item>sr_XB</item>
+        <item>sr_ZZ</item>
+        <item>zz</item>
+        <item>kk</item>
+        <item>az_AZ</item>
+        <item>jv</item>
+        <item>ky</item>
+        <item>uz</item>
+        <item>st</item>
+        <item>su</item>
+        <item>tg</item>
+        <item>tk</item>
+        <item>tl</item>
+        <item>tt</item>
+        <item>my</item>
+        <item>hi_ZZ</item>
+        <item>co</item>
+    </string-array>
+    <string-array name="localized_customized_locale_names">
+        <item>@string/localized_subtype_locale_en_US</item>
+        <item>@string/localized_subtype_locale_en_GB</item>
+        <item>@string/localized_subtype_locale_es_US</item>
+        <item>@string/localized_subtype_locale_fa_AF</item>
+        <item>@string/localized_subtype_locale_sr_XA</item>
+        <item>@string/localized_subtype_locale_sr_XB</item>
+        <item>@string/localized_subtype_locale_sr_zz</item>
+        <item>@string/localized_subtype_locale_zz</item>
+        <item>@string/localized_subtype_locale_kk</item>
+        <item>@string/localized_subtype_locale_az_AZ</item>
+        <item>@string/localized_subtype_locale_jv</item>
+        <item>@string/localized_subtype_locale_ky</item>
+        <item>@string/localized_subtype_locale_uz</item>
+        <item>@string/localized_subtype_locale_st</item>
+        <item>@string/localized_subtype_locale_su</item>
+        <item>@string/localized_subtype_locale_tg</item>
+        <item>@string/localized_subtype_locale_tk</item>
+        <item>@string/localized_subtype_locale_tl</item>
+        <item>@string/localized_subtype_locale_tt</item>
+        <item>@string/localized_subtype_locale_my</item>
+        <item>@string/localized_subtype_locale_hi_ZZ</item>
+        <item>@string/localized_subtype_locale_co</item>
+    </string-array>
+    <array name="material_dark_theme">
+        <item>@style/MaterialDarkTheme</item>
+    </array>
+    <array name="material_light_theme">
+        <item>@style/MaterialLightTheme</item>
+    </array>
+    <array name="material_light_theme_for_test">
+        <item>@style/MaterialLightTheme</item>
+        <item>@style/SearchMaterialLightTheme</item>
+    </array>
+    <array name="one_handed_mode_theme">
+        <item>@style/OneHandedTheme</item>
+    </array>
+    <string-array name="pref_def_value_per_device_vibration_duration_on_keypress">
+        <item>MODEL=Nexus S:BRAND=google,5</item>
+        <item>MODEL=Galaxy Nexus:BRAND=google,5</item>
+        <item>MODEL=Nexus 4:BRAND=google,8</item>
+        <item>MODEL=Nexus 10:BRAND=google,16</item>
+        <item>MODEL=GT-I(9100[GMPT]?|9108|9210T?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SGH-(I9[27]7R?|I927|T989D?):MANUFACTURER=samsung,8</item>
+        <item>MODEL=SHW-M250[KLS]?|SPH-D710|SCH-R760:MANUFACTURER=samsung,8</item>
+        <item>MODEL=ISW11SC|SC-02C:MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(930[05][NT]?|9308):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(T999[V]?|I747[M]?|N064|N035):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(J021|R530|I535|I939):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SCL21|SC-06D|SC-03E):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-210[KLS]?|SPH-L710):MANUFACTURER=samsung,8</item>
+        <item>MODEL=(SAMSUNG-)?GT-I(950[0258][G]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SGH-(I337|M919|N045):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SCH-(I545|I959|R970):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?SPH-(L720):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SC-04E):MANUFACTURER=samsung,7</item>
+        <item>MODEL=(SAMSUNG-)?(SHV-E300[KLS]?):MANUFACTURER=samsung,7</item>
+        <item>MODEL=LG-E97[013]|LS970|L-01E:MANUFACTURER=LGE,15</item>
+        <item>MODEL=HTC One X:MANUFACTURER=HTC,20</item>
+        <item>MODEL=HTC One:MANUFACTURER=HTC,15</item>
+        <item>MODEL=HTL22:MANUFACTURER=HTC,15</item>
+        <item>MODEL=XT907:MANUFACTURER=motorola,30</item>
+        <item>MODEL=XT1035:MANUFACTURER=motorola,18</item>
+        <item>MODEL=C6603|C6806:MANUFACTURER=Sony,35</item>
+    </string-array>
+    <string-array name="pref_def_value_sound_volume_on_keypress">
+        <item>HARDWARE=herring,0.5f</item>
+        <item>HARDWARE=tuna,0.5f</item>
+        <item>HARDWARE=stingray,0.4f</item>
+        <item>HARDWARE=grouper,0.3f</item>
+        <item>HARDWARE=mako,0.3f</item>
+        <item>HARDWARE=manta,0.2f</item>
+    </string-array>
+    <string-array name="pref_framework_theme">
+        <item>@string/pref_entry_keyboard_material_dark_theme</item>
+        <item>@array/material_dark_theme</item>
+        <item>@string/pref_entry_keyboard_material_light_theme</item>
+        <item>@array/material_light_theme</item>
+    </string-array>
+    <string-array name="pref_latin_bordered_theme">
+        <item>@string/pref_entry_keyboard_material_dark_theme</item>
+        <item>@array/latin_bordered_material_dark_theme</item>
+        <item>@string/pref_entry_keyboard_material_light_theme</item>
+        <item>@array/latin_bordered_material_light_theme</item>
+    </string-array>
+    <string-array name="pref_latin_theme">
+        <item>@string/pref_entry_keyboard_material_dark_theme</item>
+        <item>@array/latin_material_dark_theme</item>
+        <item>@string/pref_entry_keyboard_material_light_theme</item>
+        <item>@array/latin_material_light_theme</item>
+    </string-array>
+    <string-array name="preferences_dataservice_default_values">
+        <item>@string/pref_key_enable_sync_user_dictionary</item>
+        <item>@bool/pref_def_value_enable_sync_user_dictionary</item>
+        <item>@string/pref_key_sync_user_dictionary_credentials_valid</item>
+        <item>@bool/pref_def_value_sync_user_dictionary_credentials_valid</item>
+        <item>@string/pref_key_download_notification_visibility</item>
+        <item>@integer/pref_def_value_download_notification_visibility</item>
+    </string-array>
+    <string-array name="preferences_default_values">
+        <item>@string/pref_key_english_prediction</item>
+        <item>@bool/pref_def_value_english_prediction</item>
+        <item>@string/pref_key_spell_correction</item>
+        <item>@bool/pref_def_value_spell_correction</item>
+        <item>@string/pref_key_auto_capitalization</item>
+        <item>@bool/pref_def_value_auto_capitalization</item>
+        <item>@string/pref_key_auto_space_smart_punctuation</item>
+        <item>@bool/pref_def_value_auto_space_smart_punctuation</item>
+        <item>@string/pref_key_suggest_emojis</item>
+        <item>@bool/pref_def_value_suggest_emojis</item>
+        <item>@string/pref_key_enable_training_data_cache</item>
+        <item>@bool/pref_def_value_enable_training_data_cache</item>
+        <item>@string/pref_key_enable_user_metrics</item>
+        <item>@bool/pref_def_value_enable_user_metrics</item>
+        <item>@string/pref_key_enable_share_snippets</item>
+        <item>@bool/pref_def_value_enable_share_snippets</item>
+        <item>@string/pref_key_enable_sound_on_keypress</item>
+        <item>@bool/pref_def_value_enable_sound_on_keypress</item>
+        <item>@string/pref_key_sound_volume_on_keypress</item>
+        <item>@id/pref_type_float</item>
+        <item>@array/pref_def_value_sound_volume_on_keypress</item>
+        <item>@string/pref_key_enable_vibrate_on_keypress</item>
+        <item>@bool/pref_def_value_enable_vibrate_on_keypress</item>
+        <item>@string/pref_key_enable_popup_on_keypress</item>
+        <item>@bool/pref_def_value_enable_popup_on_keypress</item>
+        <item>@string/pref_key_vibration_duration_on_keypress</item>
+        <item>@id/pref_type_string</item>
+        <item>@array/pref_def_value_per_device_vibration_duration_on_keypress</item>
+        <item>@string/pref_key_enable_voice_input</item>
+        <item>@bool/pref_def_value_enable_voice_input</item>
+        <item>@string/pref_key_keyboard_slide_sensitivity_ratio</item>
+        <item>@string/pref_def_value_keyboard_slide_sensitivity_ratio</item>
+        <item>@string/pref_key_keyboard_height_ratio</item>
+        <item>@string/pref_def_value_keyboard_height_ratio</item>
+        <item>@string/pref_key_enable_spatial_model</item>
+        <item>@bool/pref_def_value_enable_spatial_model</item>
+        <item>@string/pref_key_import_user_contacts</item>
+        <item>@bool/pref_def_value_import_user_contacts</item>
+        <item>@string/pref_key_show_english_keyboard</item>
+        <item>@bool/pref_def_value_show_english_keyboard</item>
+        <item>@string/pref_key_show_language_switch_key</item>
+        <item>@bool/pref_def_value_show_language_switch_key</item>
+        <item>@string/pref_key_switch_to_other_imes</item>
+        <item>@bool/pref_def_value_switch_to_other_imes</item>
+        <item>@string/pref_key_hide_english_keyboard</item>
+        <item>@bool/pref_def_value_hide_english_keyboard</item>
+        <item>@string/pref_key_key_long_press_delay</item>
+        <item>@string/pref_def_value_key_long_press_delay</item>
+        <item>@string/pref_key_additional_keyboard_theme</item>
+        <item>@string/pref_def_value_additional_keyboard_theme</item>
+        <item>@string/pref_key_enable_orientation_aware_preference</item>
+        <item>@bool/pref_def_value_enable_orientation_aware_preference</item>
+        <item>@string/pref_key_enable_double_space_period</item>
+        <item>@bool/pref_def_value_enable_double_space_period</item>
+        <item>@string/pref_key_enable_shortcuts_dictionary</item>
+        <item>@bool/pref_def_value_enable_shortcuts_dictionary</item>
+        <item>@string/pref_key_enable_handwriting_feedback</item>
+        <item>@bool/pref_def_value_enable_handwriting_feedback</item>
+        <item>@string/pref_key_enable_emoji_alt_physical_key</item>
+        <item>@bool/pref_def_value_enable_emoji_alt_physical_key</item>
+        <item>@string/pref_key_block_offensive_words</item>
+        <item>@bool/pref_def_value_block_offensive_words</item>
+        <item>@string/pref_key_always_true</item>
+        <item>@bool/pref_def_value_always_true</item>
+        <item>@string/pref_key_always_false</item>
+        <item>@bool/pref_def_value_always_false</item>
+        <item>@string/pref_key_save_non_prime_keyboard_type</item>
+        <item>@bool/pref_def_value_save_non_prime_keyboard_type</item>
+        <item>@string/pref_key_contacts_first_time_delay_millis</item>
+        <item>@integer/pref_def_value_contacts_first_time_delay_millis</item>
+        <item>@string/pref_key_contacts_task_delay_millis</item>
+        <item>@integer/pref_def_value_contacts_task_delay_millis</item>
+        <item>@string/pref_key_contacts_regular_import_interval_millis</item>
+        <item>@integer/pref_def_value_contacts_regular_import_interval_millis</item>
+        <item>@string/pref_key_contacts_retry_from_failure_interval_millis</item>
+        <item>@integer/pref_def_value_contacts_retry_from_failure_interval_millis</item>
+        <item>@string/pref_key_one_handed_mode</item>
+        <item>@string/pref_def_value_one_handed_mode</item>
+        <item>@string/pref_key_enable_scrub_delete</item>
+        <item>@bool/pref_def_value_enable_scrub_delete</item>
+        <item>@string/pref_key_enable_scrub_move</item>
+        <item>@bool/pref_def_value_enable_scrub_move</item>
+        <item>@string/pref_key_enable_incremental_gesture_input</item>
+        <item>@bool/pref_def_value_enable_incremental_gesture_input</item>
+        <item>@string/pref_key_enable_gesture_input</item>
+        <item>@bool/pref_def_value_enable_gesture_input</item>
+        <item>@string/pref_key_enable_gesture_auto_commit</item>
+        <item>@bool/pref_def_value_enable_gesture_auto_commit</item>
+        <item>@string/pref_key_gesture_preview_trail</item>
+        <item>@bool/pref_def_value_gesture_preview_trail</item>
+        <item>@string/pref_key_next_word_prediction</item>
+        <item>@bool/pref_def_value_next_word_prediction</item>
+        <item>@string/pref_key_show_recent_emoji_in_symbol_keyboard</item>
+        <item>@bool/pref_def_value_show_recent_emoji_in_symbol_keyboard</item>
+    </string-array>
+    <string-array name="preferences_forced_values">
+        <item>@string/pref_key_theme_array_id</item>
+        <item>@id/pref_type_resource_id</item>
+        <item>@array/pref_framework_theme</item>
+    </string-array>
+    <string-array name="preferences_latin_default_values">
+        <item>@string/pref_key_latin_auto_correction</item>
+        <item>@bool/pref_def_value_latin_auto_correction</item>
+        <item>@string/pref_key_latin_personalization</item>
+        <item>@bool/pref_def_value_latin_personalization</item>
+        <item>@string/pref_key_enable_user_metrics</item>
+        <item>@bool/pref_def_value_latin_enable_user_metrics</item>
+        <item>@string/pref_key_save_non_prime_keyboard_type</item>
+        <item>@bool/pref_def_value_latin_save_non_prime_keyboard_type</item>
+        <item>@string/pref_key_latin_personalization</item>
+        <item>@bool/pref_def_value_latin_personalization</item>
+        <item>@string/pref_key_enable_secondary_symbols</item>
+        <item>@bool/pref_def_value_enable_secondary_symbols</item>
+        <item>@string/pref_key_show_english_keyboard</item>
+        <item>@bool/pref_def_value_latin_show_english_keyboard</item>
+        <item>@string/pref_key_enable_scrub_delete</item>
+        <item>@bool/pref_def_value_latin_enable_scrub_delete</item>
+        <item>@string/pref_key_enable_scrub_move</item>
+        <item>@bool/pref_def_value_latin_enable_scrub_move</item>
+    </string-array>
+    <string-array name="preferences_latin_forced_values">
+        <item>@string/pref_key_theme_array_id</item>
+        <item>@id/pref_type_resource_id</item>
+        <item>@array/pref_latin_theme</item>
+        <item>@string/pref_key_bordered_theme_array_id</item>
+        <item>@id/pref_type_resource_id</item>
+        <item>@array/pref_latin_bordered_theme</item>
+        <item>@string/pref_key_preview_input_bundles_xml_id</item>
+        <item>@id/pref_type_resource_id</item>
+        <item>@xml/ime_zz</item>
+        <item>@string/pref_key_preview_keyboard_layout</item>
+        <item>@id/pref_type_string</item>
+        <item>@string/pref_forced_value_key_preview_keyboard_layout</item>
+    </string-array>
+    <string-array name="preferences_libs_latin_default_values">
+        <item>@string/pref_key_latin_show_suggestion</item>
+        <item>@bool/pref_def_value_latin_show_suggestion</item>
+        <item>@string/pref_key_auto_language_switching</item>
+        <item>@bool/pref_def_value_auto_language_switching</item>
+    </string-array>
+    <array name="scrub_delete_initial_stop_positions">
+        <item>23.0pt</item>
+        <item>41.0pt</item>
+    </array>
+    <array name="scrub_move_initial_stop_positions" />
+    <array name="style_sheet_theme">
+        <item>@style/StyleSheetTheme</item>
+    </array>
+</resources>

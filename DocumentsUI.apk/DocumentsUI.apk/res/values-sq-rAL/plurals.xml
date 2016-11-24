@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Po kopjon %1$d skedarë.</item>
+        <item quantity="one">Po kopjon %1$d skedar.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Po zhvendos %1$d skedarë.</item>
+        <item quantity="one">Po zhvendos %1$d skedar.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Po fshin %1$d skedarë.</item>
+        <item quantity="one">Po fshin %1$d skedar.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d skedarë nuk mund të kopjoheshin</item>
+        <item quantity="one">%1$d skedar nuk mund të kopjohej</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d skedarë nuk mund të zhvendoseshin</item>
+        <item quantity="one">%1$d skedar nuk mund të zhvendosej</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d skedarë nuk mund të fshiheshin</item>
+        <item quantity="one">%1$d skedar nuk mund të fshihej</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">U kopjuan %1$d skedarë në kujtesën e fragmenteve.</item>
+        <item quantity="one">U kopjua %1$d skedar në kujtesën e fragmenteve.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d të zgjedhur</item>
+        <item quantity="one">%1$d i zgjedhur</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d artikuj</item>
+        <item quantity="one">%1$d artikull</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Të fshihen %1$d skedarë?</item>
+        <item quantity="one">Të fshihet %1$d skedar?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Të fshihen %1$d dosje dhe përmbajtjet e saj?</item>
+        <item quantity="one">Të fshihet %1$d dosje dhe përmbajtjet e saj?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Të fshihen %1$d artikuj?</item>
+        <item quantity="one">Të fshihet %1$d artikull?</item>
+    </plurals>
+</resources>

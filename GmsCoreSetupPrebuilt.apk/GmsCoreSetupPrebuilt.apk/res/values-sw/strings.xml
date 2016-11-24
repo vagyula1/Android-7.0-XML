@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki na %s</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="app_picker_fetch_failure">Haikupata programu zozote</string>
+    <string name="app_picker_no_apps">Hakuna programu zilizochaguliwa</string>
+    <string name="auto_restore_summary">Unaposakinisha upya programu, rejesha hifadhi rudufu za mipangilio na data</string>
+    <string name="auto_restore_title">Kurejesha kiotomatiki</string>
+    <string name="backup_configure_account_default_summary">Hakuna akaunti ambayo kwa sasa inahifadhi rudufu za data</string>
+    <string name="backup_configure_account_title">Akaunti mbadala</string>
+    <string name="backup_data_summary">Hifadhi nakala ya data ya programu, manenosiri ya Wi-Fi na mipangilio mingine kwenye Hifadhi ya Google</string>
+    <string name="backup_data_summary_full">"Hifadhi nakala ya data ya kifaa kiotomatiki (kama vile manenosiri ya Wi-Fi na rekodi ya simu zilizopigwa) na data ya programu (kama vile mipangilio na faili zilizohifadhiwa na programu) kwa mbali.
+
+Unapowasha kuhifadhi rudufu kiotomatiki, data ya kifaa na programu huhifadhiwa mara kwa mara kwa mbali. Data ya programu inaweza kuwa data yoyote ambayo programu imehifadhi (kulingana na mipangilio ya msanidi programu), ikiwa ni pamoja na data inayoweza kuwa nyeti kama vile anwani, ujumbe na picha."</string>
+    <string name="backup_data_title">Weka nakala kwenye Hifadhi ya Google</string>
+    <string name="backup_erase_dialog_message">Ungependa kuacha kuhifadhi nakala za manenosiri ya Wi-Fi, alamisho, mipangilio mingine na data ya programu, na ufute nakala zote kwenye Hifadhi ya Google?</string>
+    <string name="backup_erase_dialog_message_full">Je, ungependa kuacha kuhifadhi nakala ya data ya kifaa (kama vile manenosiri ya Wi-Fi na rekodi ya simu zilizopigwa) na data ya programu (kama vile mipangilio na faili zilizohifadhiwa na programu), na pia ufute nakala zote zilizo kwenye Hifadhi ya Google?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Kumetokea hitilafu ya kufungua mipangilio ya picha</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Unapowasha kipengele cha kuhifadhi nakala kiotomatiki:
+
+ ● Mipangilio ya kifaa na data ya programu huhifadhiwa mara kwa mara kwenye folda ya faragha katika Hifadhi ya Google. Data ya programu inaweza kuwa data yoyote iliyohifadhiwa na programu (kulingana na mipangilio ya msanidi programu), ikiwa ni pamoja na data ambayo huenda ikawa nyeti, kama vile anwani, ujumbe na picha.
+
+ Faili kubwa au faili ambazo wasanidi programu wameamua kutojumuisha kwenye huduma hii hazitahifadhiwa rudufu.
+
+ ● Picha na rekodi za video kutoka kifaa hiki husawazishwa na maktaba ya Picha za Google ili uweze kutafuta, kubadilisha, kufuta na kushiriki kutoka vifaa vyako vyote.
+
+ Kwa kawaida, picha na video za ubora wa juu hupakiwa. Hizi hazijumuishwi kwenye kiwango cha nafasi ya Hifadhi ya Google.
+
+ ● Anwani na data husika kutoka kifaa hiki husawazishwa kwenye Anwani za Google. Unaweza kutumia programu ya Anwani za Google kutafuta, kubadilisha, kufuta na kushiriki anwani kutoka kifaa chako chochote.
+
+ ● Maelezo katika kalenda na data husika kutoka kifaa hiki husawazishwa kwenye Kalenda ya Google. Unaweza kutumia programu ya Kalenda ya Google kutafuta, kubadilisha, kufuta na kushiriki anwani kutoka vifaa vyako vyote.
+
+ Data iliyohifadhiwa rudufu haijumuishwi kwenye kiwango cha nafasi ya Hifadhi ya Google."</string>
+    <string name="backup_opt_in_backup_description">Kipengele cha kuhifadhi nakala kiotomatiki huhakikisha kuwa unaweza kurejesha au kubadilisha simu kwa urahisi wakati wowote. <annotation link="backup_opt_in_learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Imesawazisha kalenda, anwani, picha na video kwenye Akaunti yako ya Google na zinaweza kutumika katika huduma zote.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Hii itazima shughuli ya kuhifadhi rudufu za:
+
+Programu na data ya programu
+Historia ya simu zilizopigwa
+Mipangilio ya kifaa
+Picha na video
+SMS
+
+Kalenda na anwani zitaendelea kusawazisha kwenye Akaunti yako ya Google. Baada ya kumaliza kuweka mipangalio, utaweza kubadilisha mipangilio ya usawazishaji kwa kwenda kwenye "<annotation link="backup_opt_in_settings_instructions">Mipangilio > Akaunti > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Ungependa kuzima kipengele cha kuhifadhi nakala?</string>
+    <string name="backup_opt_in_backup_list">"Programu na data ya programu
+Kalenda
+Historia ya simu ulizopiga
+Anwani
+Mipangilio ya kifaa (ikiwemo manenosiri ya Wi-Fi)
+Picha na video
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Hifadhi rudufu hujumuisha:</string>
+    <string name="backup_opt_in_backup_title">Weka nakala kwenye Hifadhi ya Google</string>
+    <string name="backup_opt_in_disable_backup">Zima hifadhi rudufu</string>
+    <string name="backup_photos_update">Tafadhali sasisha programu ya Picha kwenye Google</string>
+    <string name="backup_settings_activity_title">Hifadhi nakala na urejeshe mipangilio ya kiwanda</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Usinakili</string>
+    <string name="close_button_label">Funga</string>
+    <string name="cloud_restore_app_picker_button">Rejesha</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Hujahifadhi nakala za programu zozote</string>
+    <string name="cloud_restore_app_picker_title">Chagua programu utakazorejesha</string>
+    <string name="common_accessibility_audience_view_editable">Hariri hadhira</string>
+    <string name="common_add_account_label">Ongeza akaunti</string>
+    <string name="common_ads_settings_title">Matangazo</string>
+    <string name="common_app_name">Huduma za Google Play</string>
+    <string name="common_audience_edit_button_label">Badilisha</string>
+    <string name="common_cancel">Ghairi</string>
+    <string name="common_cannot_start_hangouts_exception">Hangout haiwezi kuanzishwa.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangout haiwezi kuanzishwa (hitilafu ya ruhusa).</string>
+    <string name="common_car_permission_desc">Ufikiaji wa huduma ya gari.</string>
+    <string name="common_car_permission_label">Huduma ya Gari</string>
+    <string name="common_chips_label_empty_circles">Hakuna miduara</string>
+    <string name="common_chips_label_extended_circles">Miduara mipana</string>
+    <string name="common_chips_label_only_you">Wewe pekee</string>
+    <string name="common_chips_label_public">Umma</string>
+    <string name="common_chips_label_your_circles">Miduara yako</string>
+    <string name="common_choose_account_label">Chagua akaunti</string>
+    <string name="common_clear_app_data_menu_item">Futa data ya programu.</string>
+    <string name="common_connected_apps_settings_title">Programu zilizounganishwa</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Michezo ya Google Play</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Washa</string>
+    <string name="common_google_play_services_enable_text">%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_title">Washa huduma za Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Hitilafu</string>
+    <string name="common_google_play_services_install_button">Sakinisha</string>
+    <string name="common_google_play_services_install_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako.</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako.</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_google_play_services_update_text">%1$s haitafanya kazi hadi usasishe huduma za Google Play.</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa.</string>
+    <string name="common_google_play_services_updating_title">Huduma za Google Play zinasasishwa</string>
+    <string name="common_google_play_services_wear_update_text">Toleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Huduma za Google Play zimesakinishwa na usanifu usio sahihi.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Huduma za Google Play zimesakinishwa na usanifu (%1$s) ambao ni tofauti na usanifu wa kifaa chako (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Usanifu si sahihi</string>
+    <string name="common_google_settings">Mipangilio ya Google</string>
+    <string name="common_google_settings_account">Akaunti</string>
+    <string name="common_google_settings_credentials_title">Smart Lock kwa Manenosiri</string>
+    <string name="common_google_settings_data_management_title">Usimamizi wa data</string>
+    <string name="common_google_settings_drive_network_usage">Sasisha mafaili ya programu yanayoweza kutumiwa na Hifadhi</string>
+    <string name="common_google_settings_services">Huduma</string>
+    <string name="common_list_apps_menu_help">Usaidizi</string>
+    <string name="common_list_apps_menu_help_and_feedback">Usaidizi na maoni</string>
+    <string name="common_loading">Inapakia...</string>
+    <string name="common_location_settings_title">Mahali</string>
+    <string name="common_maps_settings_title">Ramani na Latitudo</string>
+    <string name="common_mdm_feature_name">Kidhibiti cha Vifaa vya Android</string>
+    <string name="common_missing_url_viewer">Onyesha url ya nje wakati hamna mtazamaji.</string>
+    <string name="common_network_load_failed">Haipatikani kwa sababu kifaa hiki hakikuweza kuunganisha kwenye mtandao</string>
+    <string name="common_networking_settings_title">Mtandao</string>
+    <string name="common_no_browser_for_restricted_url">Ufikiaji uliodhibitiwa. Haikupata kivinjari chochote.</string>
+    <string name="common_no_network">Haipatikani kwa sababu kifaa kiko nje ya mtandao</string>
+    <string name="common_off">Imezimwa</string>
+    <string name="common_ok">Sawa</string>
+    <string name="common_on">Imewashwa</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="common_open_source_licenses">Leseni za programu huria</string>
+    <string name="common_people_settings_title">Anwani</string>
+    <string name="common_permissions_enable_in_settings">Washa katika Mipangalio</string>
+    <string name="common_permissions_missing_end">Ili kuendelea, fungua Mipangilio, kisha Ruhusa na uruhusu vipengee vyote vilivyoorodheshwa.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Ili kuwasha, nenda kwenye
+Mipangilio>
+Ruhusa >
+huduma za Google Play"</string>
+    <string name="common_permissions_missing_start">Programu hii haitafanya kazi vizuri usiporuhusu ombi la huduma za Google Play kufikia yafuatayo:</string>
+    <string name="common_permissions_open_settings">Fungua Mipangilio</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Tafuta na Msaidizi</string>
+    <string name="common_search_settings_title">Tafuta</string>
+    <string name="common_security_settings_title">Usalama</string>
+    <string name="common_set_up_nearby_device_settings_title">Weka mipangilio kwenye kifaa kilicho karibu</string>
+    <string name="common_settings_drive_network_usage_all">Kwa kutumia Wi-Fi au Mtandao wa Simu</string>
+    <string name="common_settings_drive_network_usage_wifi">Kupitia Wi-Fi pekee</string>
+    <string name="common_signin_button_text">Ingia katika akaunti</string>
+    <string name="common_signin_button_text_long">Ingia katika akaunti ukitumia Google</string>
+    <string name="common_storage_settings_title">Hifadhi ya huduma za Google Play</string>
+    <string name="common_switch_bar_off">Imezimwa</string>
+    <string name="common_switch_bar_on">Imewashwa</string>
+    <string name="common_ui_confirm_deleting_button">Futa</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ninaelewa na ninataka kufuta</string>
+    <string name="common_url_load_unsuccessful_message">Kifaa chako cha Android hakijaunganishwa kwenye huduma ya data. Ili kuona maelezo haya sasa, tembelea %s kwa kivinjari.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Kifaa chako cha Android hakijaunganishwa kwenye mtandao wa Wi-Fi. Ili kuangalia maelezo haya sasa, tembelea %s ukitumia kivinjari.</string>
+    <string name="common_url_login_notice">Ingia katika akaunti kama %1$s</string>
+    <string name="common_usage_and_diagnostics">Matumizi na uchunguzi</string>
+    <string name="confirm_copy_button_text">Nakili</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d kwenye SIM, %2$d kwenye simu, Anwani za Google</string>
+    <string name="contacts_number_local_with_google">%1$d kwenye simu, Anwani za Google</string>
+    <string name="contacts_number_sim_with_google">%1$d kwenye SIM, Anwani za Google</string>
+    <string name="copy_confirmation_description">Utanakili data, kama vile Akaunti yako ya Google na programu zako, kwenye simu yako mpya</string>
+    <string name="copy_confirmation_title">Ungependa kunakili kwenye simu yako mpya?</string>
+    <string name="d2d_app_picker_description_no_apps">Hatukupata programu zozote</string>
+    <string name="d2d_app_picker_title">Programu</string>
+    <string name="d2d_migration_canceled_on_source">Umeghairi kunakili</string>
+    <string name="data_copied_fragment_description">Imenakili data kwenye simu yako mpya. Unaweza kuondoa kebo.</string>
+    <string name="data_copied_fragment_description_cancel">Ulighairi shughuli ya kunakili. Kwa hivyo, imenakili baadhi ya data kwenye simu yako mpya.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Uligharii shughuli ya kunakili. Kwa hivyo, hakuna data iliyonakiliwa kwenye simu yako mpya.</string>
+    <string name="data_copied_fragment_description_error">Hitilafu imetokea. Kwa hivyo, tumeshindwa kunakili data yote.</string>
+    <string name="data_copied_fragment_description_error_no_data">Hitilafu imetokea. Kwa hivyo, tumeshindwa kunakili data yako.</string>
+    <string name="data_copied_fragment_no_data_title">Imeshindwa kunakili</string>
+    <string name="data_copied_fragment_some_data_title">Imenakili baadhi ya data</string>
+    <string name="data_copied_fragment_title">Imenakili data</string>
+    <string name="device_backup_title">Hifadhi rudufu ya kifaa</string>
+    <string name="device_not_supported_fragment_new_device">Umeunganisha kwenye simu mpya. Ili uendelee, unganisha tena kwenye simu yako ya awali.</string>
+    <string name="device_not_supported_fragment_new_device_title">Unganisha tena kwenye simu ya awali</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kebo hii haiwezi kuhamisha data. Unganisha kwa kutumia kebo tofauti na ujaribu tena.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Jaribu kebo nyingine</string>
+    <string name="device_not_supported_fragment_retry_description">Hakikisha kuwa simu yako ya zamani imefunguliwa, kisha uondoe na uunganishe kebo</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Hitilafu fulani imetokea</string>
+    <string name="device_picker_description">Hifadhi rudufu huwekwa kwenye Hifadhi ya Google</string>
+    <string name="device_picker_item">Hifadhi rudufu ya %1$s</string>
+    <string name="device_picker_last_used">Mara ya mwisho ilitumika ^1</string>
+    <string name="device_picker_skip">Usirejeshe</string>
+    <string name="device_picker_title">Chagua hifadhi rudufu ya kurejesha</string>
+    <string name="disabled_by_admin_summary_text">Imedhibitiwa na msimamizi</string>
+    <string name="download_msg_error_invalid">Upakuaji haukusanidiwa kwa usahihi.</string>
+    <string name="download_msg_in_progress">Upakuaji unaendelea.</string>
+    <string name="download_msg_not_allowed_space">Nafasi haitoshi kupakua.</string>
+    <string name="download_msg_pending">Upakuaji unasubiri.</string>
+    <string name="download_notification_description">%1$s imeomba hii.</string>
+    <string name="download_notification_title">Inaleta data zaidi</string>
+    <string name="drive_backup_account">Akaunti ya hifadhi rudufu</string>
+    <string name="drive_backup_app_includes_data">Hujumuisha data ya programu</string>
+    <string name="drive_backup_apps_in_backup">Programu zilizohifadhiwa nakala</string>
+    <string name="drive_backup_apps_last_backup">Mara ya mwisho kuhifadhi nakala</string>
+    <string name="drive_backup_apps_loading">Inapakia…</string>
+    <string name="drive_backup_apps_screen_title">Programu</string>
+    <string name="drive_backup_content_apps_title">Programu</string>
+    <string name="drive_backup_content_calendar_title">Kalenda</string>
+    <string name="drive_backup_content_callhistory_title">Rekodi ya simu zilizopigwa</string>
+    <string name="drive_backup_content_contacts_title">Anwani zote</string>
+    <string name="drive_backup_content_devicesettings_title">Mipangilio ya kifaa</string>
+    <string name="drive_backup_content_header">Maudhui</string>
+    <string name="drive_backup_content_photos_dialog_message">Ungependa pia kubadiisha akaunti ya hifadhi rudufu ya programu ya Picha kuwa %s?</string>
+    <string name="drive_backup_content_photos_dialog_no">Hapana</string>
+    <string name="drive_backup_content_photos_dialog_title">Ungepeda kubadiisha hifadhi rudufu ya programu ya Picha?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Ndiyo</string>
+    <string name="drive_backup_content_photos_title">Picha na video</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Nimeelewa</string>
+    <string name="drive_backup_content_status_error">Hitilafu ya kupata tarehe ambapo kipengee kilihifadhiwa mara ya mwisho</string>
+    <string name="drive_backup_content_status_lastsaved">Mara ya mwisho kuhifadhiwa nakala: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Haijahifadhiwa nakala</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Mipangilio ya akaunti</string>
+    <string name="drive_backup_content_status_updating">Inakakuga hali...</string>
+    <string name="drive_backup_settings_title">Hifadhi rufudu</string>
+    <string name="drive_backup_state">Hifadhi nakala kwenye Hifadhi ya Google</string>
+    <string name="drive_backup_state_dialog_message">"Hatua hii itazuia shughuli ya baadaye ya kuhifadhi nakala katika %s, ikiwa ni pamoja na Picha kwenye Google.
+
+Hifadhi rudufu za picha, video, anwani na matukio ya kalenda zitaendelea kupatikana kupitia bidhaa husika za Google.
+
+Data nyingine yote itaondolewa."</string>
+    <string name="drive_backup_state_dialog_okaction">Zima</string>
+    <string name="drive_backup_state_dialog_title">Zima na ufute hifadhi nakala</string>
+    <string name="durationDayHour">Siku %1$d saa %2$d</string>
+    <string name="durationDayHours">Siku %1$d saa %2$d</string>
+    <string name="durationDays">Siku %1$d</string>
+    <string name="durationHourMinute">Saa %1$d dak %2$d</string>
+    <string name="durationHourMinutes">Saa %1$d, dak %2$d</string>
+    <string name="durationHours">Saa %1$d</string>
+    <string name="durationMinute">Dakika %1$d</string>
+    <string name="durationMinuteSecond">Dak %1$d sek %2$d</string>
+    <string name="durationMinuteSeconds">Dak %1$d sek %2$d</string>
+    <string name="durationMinutes">Dakika %1$d</string>
+    <string name="durationSecond">Sekunde %1$d</string>
+    <string name="durationSeconds">Sekunde %1$d</string>
+    <string name="encryption_warning_fragment_description">"Simu yako ya iPhone® ina kipengele cha kusimba kwa njia fiche hifadhi rudufu ambacho kimewashwa, kwa hivyo unaweza kunakili picha, video na muziki pekee.
+
+ Ili unakili data zaidi, anza kwa kuunganisha kifaa chako cha iPhone® kwenye kompyuta yako. Fungua iTunes kwenye kompyuta yako, zima kipengele cha kusimba kwa njia fiche hifadhi rudufu, na ujaribu kunakili.
+
+ Kwa usaidizi zaidi, tembelea "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Hii ni njia ya haraka zaidi ya kupakia data nyingi.
+
+Utapata adapta katika kikasha, kisha uichomeke kwenye simu yako mpya. Unganisha simu kwa kutumia kebo, kisha ufungue simu yako ya zamani."</string>
+    <string name="fragment_waiting_title">Subiri kidogo...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Itasawazisha Anwani za Google</string>
+    <string name="google_contacts_static_text_off">Anwani za Google zitaendelea kusawazishwa</string>
+    <string name="header_set_backup_account">Weka akaunti mbadala</string>
+    <string name="i_message_dialog_message">"Ili uendelee kupata SMS kutoka watumiaji wa vifaa vya iPhone®, utahitaji kuzima iMessage®.
+
+Tembelea "<b>g.co/iMessageHelp</b> ili upate maagizo.</string>
+    <string name="instructions_fragment_title">Endelea kwenye simu yako nyingine</string>
+    <string name="ios_connected_fragment_description">"Ili kuendelea, ingia kwa kutumia Akaunti ya Google ambayo unatumia kwenye simu yako ya iPhone®.
+
+Ili kuhamisha vipengee haraka, usitumie simu yako ya iPhone® unapoweka mipangilio."</string>
+    <string name="ios_message_attachment_placeholder">[Kiambatisho kimehifadhiwa katika programu ya Picha kwenye Google > Folda za kifaa > Viambatisho vya ujumbe]</string>
+    <string name="ios_message_attachments_placeholder">[Viambatisho vimehifadhiwa katika programu ya Picha kwenye Google > Folda za kifaa > Viambatisho vya ujumbe]</string>
+    <string name="ios_migration_default_calendar_title">Kalenda</string>
+    <string name="ios_photos_dialog_message">"Huwezi kunakili picha zilizohifadhiwa katika iCloud®.
+
+Ili uweke picha hizi kwenye Pixel yako, sakinisha programu ya Picha kwenye Google katika kifaa chako cha iPhone®, na uwashe kipengele cha Hifadhi rudufu na usawazishe. Kwa maelezo zaidi, tembelea "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Ongeza akaunti</string>
+    <string name="lockscreen_smartdevice_action_next">Inayofuata</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Fungua skrini ili uendelee kuweka mipangilio ya simu yako</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Kwa sababu za kiusalama, utahitaji kuthibitisha mbinu yako ya kufunga skrini ili uendelee kuweka mipangilio</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Thibitisha mbinu yako ya kufunga skrini</string>
+    <string name="manage_data_label">Simamia hifadhi rudufu ya data</string>
+    <string name="master_clear_title">Rejesha data ya mwanzo</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Unahitaji kuwa na akaunti ya kuhifadhi rudufu</string>
+    <string name="notification_content_title_set_backup_account">Hifadhi rufudu</string>
+    <string name="notification_ticker_set_backup_account">Unahitaji kuwa na akaunti mbadala</string>
+    <string name="permgrouplab_calendar">Kalenda</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Anwani</string>
+    <string name="permgrouplab_location">Mahali</string>
+    <string name="permgrouplab_microphone">Maikrofoni</string>
+    <string name="permgrouplab_phone">Simu</string>
+    <string name="permgrouplab_sensors">Vihisi vya Mwili</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Hifadhi</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Hakuna akaunti ambayo kwa sasa inahifadhi rudufu za picha</string>
+    <string name="photos_backup_title">Hifadhi rudufu za picha</string>
+    <string name="photos_filtering_option_all">Zote</string>
+    <string name="photos_filtering_option_none">Usinakili kipengee chochote</string>
+    <string name="restore_choice_data_disclaimer">Haiwezi kunakili baadhi ya data ya simu yako nyingine kwenye ^1 yako. <annotation link="restore_choice_data_disclaimer_learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Itahifadhi anwani ilizonakili kwenye Akaunti yako ya Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Itahifadhi anwani na kalenda ilizonakili kwenye Akaunti yako ya Google.</string>
+    <string name="restore_choice_learn_more_android">"Haiwezi kunakili baadhi ya data ya simu yako ya zamani kiotomatiki:
+
+ ● Vipakuliwa (kama vile faili za PDF)
+
+ ● Picha, video na muziki uliohifadhiwa kwenye folda zilizofichwa
+
+ ● Picha, video na muziki uliopokea kupitia SMS
+
+ ● Programu ambazo hazitoki kwenye Duka la Google Play
+
+ ● Data ya programu (kama programu haitumii hifadhi rudufu ya Android)
+
+ ●Mipangilio ya baadhi ya vifaa
+
+ ● Akaunti nyingine ambazo si za Google (na data iliyo kwenye akaunti hizo)
+
+ ● Anwani na kalenda zilizosawazishwa kwenye huduma ambazo si za Google
+
+ ● Milio ya simu
+
+ Ili upate maelezo zaidi na usaidizi kuhusu jinsi ya kunakili baadhi ya data hii, tembelea g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Haiwezi kunakili baadhi ya data ya simu yako ya zamani kiotomatiki:
+
+ ● Programu na data ya programu
+
+ ● Nakala ambazo hujahifadhi picha halisi kwenye simu yako (kwa mfano, kama umewasha mipangilio ya Imarisha Hifadhi, picha halisi huhifadhiwa katika iCloud®)
+
+ ● Faili na hati zilizohifadhiwa katika iCloud®
+
+ ● Mipangilio ya vifaa (kama vile mandhari na manenosiri ya Wi-Fi)
+
+ ● Muziki unaolindwa na sheria ya Usimamizi wa Haki za Maudhui Dijitali (DRM) (kwa mfano, muziki wa iTunes(R) ulionunuliwa kabla ya Aprili 2009 au muziki uliopakuliwa ili kusikilizwa nje ya mtandao katika programu ya kutiririsha muziki)
+
+ ● Akaunti ambazo si za Google (na data iliyo kwenye akaunti hizo)
+
+ ● Anwani na Kalenda zilizosawazishwa kwenye huduma ambazo si za Google au iCloud®
+
+ ● Alamisho kutoka Safari®
+
+ Viambatisho vya iMessage® vitapatikana katika Picha kwenye Google > Folda za kifaa > Viambatisho vya ujumbe.
+
+ Ili kupata maelezo zaidi kuhusu jinsi ya kunakili baadhi ya data hii, tembelea g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nafasi haitoshi</string>
+    <string name="restore_choice_total_text">kati ya nafasi ya data ya kuhamisha ya %1$s / %2$s</string>
+    <string name="restore_item_appdata">Data ya programu</string>
+    <string name="restore_item_calendar">Kalenda</string>
+    <string name="restore_item_calendar_ical_description">Kalenda ya iOS®, Kalenda ya Google</string>
+    <string name="restore_item_calendar_ical_off_description">Bado itasawazisha Kalenda ya Google</string>
+    <string name="restore_item_calendar_sync_description">Itasawazisha Kalenda ya Google</string>
+    <string name="restore_item_call_logs">Rekodi ya simu zilizopigwa</string>
+    <string name="restore_item_contacts">Anwani</string>
+    <string name="restore_item_device_settings_description">Manenosiri ya Wi-Fi na zaidi</string>
+    <string name="restore_item_downloads">Vipakuliwa</string>
+    <string name="restore_item_email">Barua pepe</string>
+    <string name="restore_item_email_description">Itasawazisha Gmail</string>
+    <string name="restore_item_message_attachments">Viambatisho vya ujumbe</string>
+    <string name="restore_item_messages">Ujumbe</string>
+    <string name="restore_item_music">Muziki</string>
+    <string name="restore_item_photos">Picha na video</string>
+    <string name="restore_item_settings">Mipangilio ya kifaa</string>
+    <string name="restore_item_sms">Ujumbe wa SMS</string>
+    <string name="restore_item_will_be_synced_text">Data hii itasawazishwa kwenye simu yako</string>
+    <string name="small_time_duration">Chini ya dakika 1</string>
+    <string name="source_connected_description">Inaandaa...</string>
+    <string name="source_connected_title">Imeunganishwa kwenye %1$s yako</string>
+    <string name="source_copying_description">Inanakili data uliyochagua kwenye simu yako mpya</string>
+    <string name="source_copying_title">Inanakili...</string>
+    <string name="source_default_target_device_name">kifaa kipya</string>
+    <string name="source_notification_device_disconnected">Unganisha kebo yako tena</string>
+    <string name="source_notification_text">Inaendelea kuhamisha data kutoka simu moja hadi nyingine</string>
+    <string name="source_notification_title">Uhamishaji wa Data</string>
+    <string name="source_success_description">Maliza kuweka mipangilio kwenye %1$s.</string>
+    <string name="source_success_screen_title">Umekamilisha!</string>
+    <string name="source_unplugged_description">Unganisha kwenye %1$s yako</string>
+    <string name="source_unplugged_title">Umeondoa kebo</string>
+    <string name="source_waiting_title">Endelea kuweka mipangilio kwenye %1$s yako</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Ondoa</string>
+    <string name="stop_copying_dialog_message_before_transfer">Haijanakili data kwenye simu yako mpya</string>
+    <string name="stop_copying_dialog_message_during_transfer">Haijanakili baadhi ya data kwenye simu yako mpya</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Usinakili</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Komesha</string>
+    <string name="stop_copying_dialog_title_before_transfer">Hutaki kunakili?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Ungependa kuacha kunakili?</string>
+    <string name="storage_management_drive_clear_failure">Kulikuwa na hitilafu katika kufuta data kwenye Hifadhi. Tafadhali jaribu tena baadaye.</string>
+    <string name="storage_management_drive_clear_label">Futa</string>
+    <string name="storage_management_drive_clear_success">Data iliyokuwa kwenye Hifadhi imefutwa.</string>
+    <string name="storage_management_drive_clearing">Inafuta...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Data yote kwenye Hifadhi za programu inayowashwa na Hifadhi itafutwa kabisa. Hii inaweza kujumuisha mabadiliko yanayonasubiri kushughulikiwa ambayo hayajapakiwa kwenye seva ya Hifadhi ya Google.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Je, ungependa kufuta data yote?</string>
+    <string name="storage_management_drive_descriptive_text">Programu zinazowashwa na Hifadhi huweka faili kwenye kifaa chako ili kuboresha utendaji na kuwasha uwezo wa kufikia nje ya mtandao.</string>
+    <string name="storage_management_drive_get_storage_failure">Kulikuwa na hitilafu katika kuhesabu matumizi ya nafasi ya Hifadhi. Tafadhali jaribu tena baadaye.</string>
+    <string name="storage_management_drive_size_label">Nafasi ya Hifadhi kwenye Kifaa</string>
+    <string name="storage_management_wear_descriptive_text">Programu hutumia hifadhi ya kifaa chako ili kutoa nakala ya data kwenda kwenye kifaa kinachoweza kubebwa au kuvaliwa mwilini.</string>
+    <string name="storage_management_wear_manage_size_label">Simamia hifadhi inayoweza kubebwa au kuvaliwa mwilini</string>
+    <string name="storage_management_wear_size_label">Hifadhi inayoweza kubebwa au kuvaliwa mwilini</string>
+    <string name="storage_managment_all_storage_descriptive_text">Jumla ya data iliyotumiwa na huduma za Google Play, pamoja na injini ya utafutaji na data nyingine.</string>
+    <string name="storage_managment_clear_all_data">Futa data yote</string>
+    <string name="storage_managment_computing_size">Inahesabu...</string>
+    <string name="storage_managment_icing_size_label">Data ya Utafutaji</string>
+    <string name="storage_managment_manage_icing_button">Dhibiti data ya utafutaji</string>
+    <string name="storage_managment_search_index_descriptive_text">Tunaongeza kasi ya utafutaji kwenye kifaa chako kwa kuanzisha mtambo wa kutafuta ili utumike katika Programu zako.</string>
+    <string name="storage_managment_title">Hifadhi ya huduma za Google Play</string>
+    <string name="storage_managment_total_size_label">Jumla ya hifadhi</string>
+    <string name="suw_back_button_label">Nyuma</string>
+    <string name="suw_more_button_label">Zaidi</string>
+    <string name="suw_next_button_label">Inayofuata</string>
+    <string name="target_default_source_device_model">kifaa cha zamani</string>
+    <string name="target_device_not_supported_cant_continue_description">Utahitaji kuchagua njia nyingine ya kunakili data</string>
+    <string name="target_device_not_supported_cant_continue_title">Simu nyingine haitumiki</string>
+    <string name="target_smart_device_timeout_add_account">ONGEZA AKAUNTI</string>
+    <string name="target_smart_device_timeout_description">Ikipenda, unaweza kujaribu kuongeza akaunti yako wewe mwenywe</string>
+    <string name="target_smart_device_timeout_dismiss">ONDOA</string>
+    <string name="target_smart_device_timeout_title">Je, unatatizika?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Simu zimeunganishwa</string>
+    <string name="toast_reconnect_cable">Unganisha tena kebo yako</string>
+    <string name="transfer_finished_fragment_title">Inaongeza vipengele vya mwisho...</string>
+    <string name="transfer_summary_copied">Imenakili data</string>
+    <string name="transfer_summary_fragment_description">Kama bado hujafanya hivyo, ondoa kebo</string>
+    <string name="transfer_summary_fragment_finish">MALIZA</string>
+    <string name="transfer_summary_fragment_title">Simu yako iko karibu kuanza kutumika</string>
+    <string name="transfer_summary_icloud_photos_warning">Baadhi ya picha zako hazikunakiliwa. <annotation link="transfer_summary_learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="transfer_summary_not_copied">Data haijanakiliwa</string>
+    <string name="transfer_summary_partial">Imenakili %1$s kati ya %2$s</string>
+    <string name="transfer_summary_will_sync">Data itasawazishwa baada ya kuweka mipangilio</string>
+    <string name="transferring_fragment_calculating_remaining_time">Tunahesabu muda uliosalia...</string>
+    <string name="transferring_fragment_header">Inanakili...</string>
+    <string name="transferring_fragment_remaining_time">Zimesalia %1$s</string>
+    <string name="trust_instructions_description">Ili kuendelea, angalia kifaa chako cha iPhone® na uidhinishe muunganisho</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, na iTunes ni chapa za biashara za Apple Inc., zilizosajiliwa Marekani na nchi zingine.</string>
+</resources>

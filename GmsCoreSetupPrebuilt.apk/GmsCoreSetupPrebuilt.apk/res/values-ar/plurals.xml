@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">جميع التطبيقات البالغ عددها %1$d</item>
+        <item quantity="zero">جميع التطبيقات البالغ عددها %1$d</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">جميع التطبيقات البالغ عددها %1$d</item>
+        <item quantity="few">جميع التطبيقات البالغ عددها %1$d</item>
+        <item quantity="many">جميع التطبيقات البالغ عددها %1$d</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">تم تحديد %1$d تطبيق</item>
+        <item quantity="zero">تم تحديد %1$d تطبيق</item>
+        <item quantity="one">تم تحديد تطبيق واحد</item>
+        <item quantity="two">تم تحديد تطبيقين (%1$d)</item>
+        <item quantity="few">تم تحديد %1$d تطبيقات</item>
+        <item quantity="many">تم تحديد %1$d تطبيقًا</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">تحتوي نسختك الاحتياطية على %1$d تطبيق. يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="zero">تحتوي نسختك الاحتياطية على %1$d تطبيق. يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="one">تحتوي نسختك الاحتياطية على تطبيق واحد (%1$d).</item>
+        <item quantity="two">تحتوي نسختك الاحتياطية على تطبيقين (%1$d). يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="few">تحتوي نسختك الاحتياطية على %1$d تطبيقات. يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="many">تحتوي نسختك الاحتياطية على %1$d تطبيقًا. يمكنك اختيار بعضها أو تحديد الكل.</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">%1$d جهة اتصال محلية</item>
+        <item quantity="zero">%1$d جهات اتصال محلية</item>
+        <item quantity="one">جهة اتصال محلية واحدة</item>
+        <item quantity="two">جهتا اتصال محليتان (%1$d)</item>
+        <item quantity="few">%1$d جهات اتصال محلية</item>
+        <item quantity="many">%1$d جهة اتصال محلية</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+        <item quantity="zero">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+        <item quantity="one">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+        <item quantity="two">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+        <item quantity="few">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+        <item quantity="many">‏%1$d على SIM و%2$d من جهات الاتصال المحلية</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">‏%1$d جهة اتصال على SIM</item>
+        <item quantity="zero">‏%1$d جهات اتصال على SIM</item>
+        <item quantity="one">‏جهة اتصال واحدة على SIM</item>
+        <item quantity="two">‏جهتا اتصال (%1$d) على SIM</item>
+        <item quantity="few">‏%1$d جهات اتصال على SIM</item>
+        <item quantity="many">‏%1$d جهة اتصال على SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">لقد وجدنا %1$d تطبيق، يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="zero">لقد وجدنا %1$d تطبيق، يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="one">لقد وجدنا تطبيقًا واحدًا (%1$d). هل لديك رغبة في جلبه؟</item>
+        <item quantity="two">لقد وجدنا تطبيقين (%1$d)، يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="few">لقد وجدنا %1$d تطبيقات، يمكنك اختيار بعضها أو تحديد الكل.</item>
+        <item quantity="many">لقد وجدنا %1$d تطبيقًا، يمكنك اختيار بعضها أو تحديد الكل.</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">يتبقى %1$d عنصر…</item>
+        <item quantity="zero">يتبقى %1$d عنصر…</item>
+        <item quantity="one">يتبقى %1$d عنصر…</item>
+        <item quantity="two">يتبقى عنصران (%1$d)…</item>
+        <item quantity="few">تتبقى %1$d عناصر…</item>
+        <item quantity="many">يتبقى %1$d عنصرًا…</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">%1$d جهة اتصال</item>
+        <item quantity="zero">%1$d جهة اتصال</item>
+        <item quantity="one">جهة اتصال واحدة</item>
+        <item quantity="two">جهتا اتصال (%1$d)</item>
+        <item quantity="few">%1$d جهات اتصال</item>
+        <item quantity="many">%1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">‏%1$d جهة اتصال، جهات اتصال Google</item>
+        <item quantity="zero">‏%1$d جهة اتصال، جهات اتصال Google</item>
+        <item quantity="one">‏جهة اتصال واحدة، جهات اتصال Google</item>
+        <item quantity="two">‏جهتا اتصال (%1$d)، جهات اتصال Google</item>
+        <item quantity="few">‏%1$d جهات اتصال، جهات اتصال Google</item>
+        <item quantity="many">‏%1$d جهة اتصال، جهات اتصال Google</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">تنبيه! لم يعد هذا الحدث يتضمن الضيوف التالين:</item>
+        <item quantity="zero">تنبيه! لم يعد هذا الحدث يتضمن الضيوف التالين:</item>
+        <item quantity="one">تنبيه! لم يعد هذا الحدث يتضمن الضيف التالي:</item>
+        <item quantity="two">تنبيه! لم يعد هذا الحدث يتضمن الضيفين التاليين:</item>
+        <item quantity="few">تنبيه! لم يعد هذا الحدث يتضمن الضيوف التالين:</item>
+        <item quantity="many">تنبيه! لم يعد هذا الحدث يتضمن الضيوف التالين:</item>
+    </plurals>
+</resources>

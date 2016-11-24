@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Derecho</string>
+    <string name="feature_check_msg">Comprobación del estado de la suscripción. Por favor, espere...</string>
+    <string name="vzw_self_provisioning_msg">"Para utilizar Mobile Hotspot, tendrá que suscribirse al servicio de Mobile Hotspot.
+Obtener más información y suscribirse a Mobile Hotspot visitando Mi Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Cancelar</string>
+    <string name="vzw_self_provisioning_learn_more">Más información</string>
+    <string name="vzw_error_msg_title">Su pedido no se pudo procesar</string>
+    <string name="vzw_error_msg">"Si desea suscribirse a Mobile Hotspot / Mobile Broadband Connect, llame al:
+ Consumidor: (800) 256-4646,
+ Negocios: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Necesaria actualización de servicio</string>
+    <string name="tmo_error_msg">Su plan actual de tarifas no incluye el servicio de Mobile Hotspot para smartphones que permite compartir la conexión de datos del teléfono con otros dispositivos ¿Desea añadir el servicio de Mobile Hotspot para smartphones a su plan de tarifas? También puede agregarlo en línea en https://my.t-mobile.com en Administrar> Planes y servicios. &lt;</string>
+    <string name="retv_terms_conditions_msg">Comprobación del estado de la suscripción. Por favor, espere...</string>
+    <string name="change_data_request_msg">Envío de solicitud de aprovisionamiento. Por favor espere...</string>
+    <string name="alert_dialog_failure_title">Su pedido no se pudo procesar</string>
+    <string name="alert_dialog_failure_msg">Inténtelo más tarde.</string>
+    <string name="network_connection_title">Error de conexión de red</string>
+    <string name="network_connection_error_msg">Su teléfono no se puede conectar actualmente al servidor de %s. Por favor, inténtelo de nuevo más tarde.</string>
+    <string name="mobile_hotspot">Punto de acceso móvil</string>
+    <string name="alert_dialog_upgrade_button">Actualizar</string>
+    <string name="alert_dialog_later_button">Más tarde</string>
+    <string name="current_subscription">(suscripción actual)</string>
+    <string name="unavailable_subscription">(no disponible según el nivel de almacenamiento)</string>
+    <string name="request_pending_title">Aprovisionamiento pendiente</string>
+    <string name="request_pending_error_msg">El servidor de Verizon está procesando su solicitud. Por favor inténtelo de nuevo en 5 minutos.</string>
+    <string name="browser_error_msg">No se puede abrir el navegador.</string>
+    <string name="att_error_msg">Para habilitar, ir a att.com/mywireless~~V o marcar 611</string>
+    <string name="att_error_msg_title">La cuenta no está configurado para la inmovilización</string>
+    <string name="att_error_msg_other">Hay un problema temporal de red que evita la habilitación de la función Mobile Hotspot. Por favor, inténtelo más tarde</string>
+    <string name="att_error_msg_other_title">Error en la red</string>
+    <string name="sprint_error_msg">No se puede conectar a la red de datos; Usted no puede estar suscrito al servicio de anclaje o Hotspot; Por favor, contacte su empresa telefónica.</string>
+    <string name="sprint_error_msg_title">Error de anclaje o de hotspot</string>
+    <string name="sprint_notification_msg">Tocar para ver más detalles</string>
+    <string name="term_and_conditions_title">Términos y condiciones</string>
+    <string name="sbm_content_activity_title">Términos de acuerdo</string>
+    <string name="consent_title">Términos de acuerdo</string>
+    <string name="consent_message">"Para utilizar esta aplicación, es necesario llegar a un acuerdo y enviar la siguiente información. En el contenido del registro de entrada, diríjase por favor a continuación.
+
+[Enviar información]
+Contratista - ID específico
+[Usar aplicaciones]
+Para utilizar la aplicación anclaje"</string>
+    <string name="consent_terms_btn">Términos del servicio</string>
+    <string name="concent_disagree_btn">No acepto</string>
+    <string name="concent_agree_btn">Acepto</string>
+    <string name="sbm_error_msg_title">Error de anclaje o de hotspot</string>
+    <string name="sbm_error_msg">No se puede conectar a la red de datos.</string>
+    <string name="sbm_error_msg_not_subscribed">No se ha podido verificar su suscripción a la Opción Anclaje.</string>
+    <string name="sbm_error_msg_not_authenticated">"Falla en la autenticación.
+(¡Falló! %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Error de autenticación. Por favor, inténtelo de nuevo en un lugar con buena recepción.</string>
+</resources>

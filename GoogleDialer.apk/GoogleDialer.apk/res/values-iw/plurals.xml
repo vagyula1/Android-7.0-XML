@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d הודעות דואר קולי חדשות</item>
+        <item quantity="one">הודעת דואר קולי חדשה %d</item>
+        <item quantity="two">%d הודעות דואר קולי חדשות</item>
+        <item quantity="many">%d הודעות דואר קולי חדשות</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות דואר קולי</item>
+        <item quantity="one">הודעת דואר קולי</item>
+        <item quantity="two">%1$d הודעות דואר קולי</item>
+        <item quantity="many">%1$d הודעות דואר קולי</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">נמצאו %d</item>
+        <item quantity="one">נמצא אחד</item>
+        <item quantity="two">נמצאו %d</item>
+        <item quantity="many">נמצאו %d</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d פריטים שלא נקראו.</item>
+        <item quantity="one">%1$s. %2$d פריט שלא נקרא.</item>
+        <item quantity="two">%1$s. %2$d פריטים שלא נקראו.</item>
+        <item quantity="many">%1$s. %2$d פריטים שלא נקראו.</item>
+    </plurals>
+</resources>

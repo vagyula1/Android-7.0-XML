@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">연락처 %d개</item>
+        <item quantity="one">연락처 1개</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. 읽지 않은 항목 %2$d개</item>
+        <item quantity="one">%1$s. 읽지 않은 항목 %2$d개</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">연락처 삭제됨</item>
+        <item quantity="one">연락처 삭제됨</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">전화번호가 포함된 연락처 %d개</item>
+        <item quantity="one">전화번호가 포함된 연락처 1개</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">연락처 %d개</item>
+        <item quantity="one">연락처 1개</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">그룹 %0$d개</item>
+        <item quantity="one">그룹 1개</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s 소속 %1$d명</item>
+        <item quantity="one">%2$s 소속 %1$d명</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d명</item>
+        <item quantity="one">%1$d명</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">연결된 연락처(%d개)</item>
+        <item quantity="one">연결된 연락처</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">중복된 것으로 보이는 연락처 %d개</item>
+        <item quantity="one">중복된 것으로 보이는 연락처 1개</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">연결된 연락처 %d개</item>
+        <item quantity="one">연결된 연락처 1개</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d개)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

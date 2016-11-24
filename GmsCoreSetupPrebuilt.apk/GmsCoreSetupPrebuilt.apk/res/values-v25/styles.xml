@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="common.Theme.Base.GoogleSettings" parent="@style/Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/common_nexus_primary</item>
+        <item name="colorPrimaryDark">@color/common_nexus_primary_dark</item>
+        <item name="colorAccent">@color/material_google_blue_500</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorPrimary">@color/common_nexus_primary</item>
+        <item name="android:colorPrimaryDark">@color/common_nexus_primary_dark</item>
+        <item name="android:colorAccent">@color/material_google_blue_400</item>
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:colorPrimary">@color/common_nexus_primary</item>
+        <item name="android:colorPrimaryDark">@color/common_nexus_primary_dark</item>
+        <item name="android:colorAccent">@color/material_google_blue_400</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">@color/material_google_blue_500</item>
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Light.Dialog.MinWidth">
+        <item name="android:colorAccent">@color/material_google_blue_500</item>
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Widget.Base.SwitchBar.GoogleSettings" parent="@style/common.Widget.SwitchBar">
+        <item name="colorPrimary">@color/common_nexus_secondary</item>
+        <item name="colorAccent">@color/material_google_blue_400</item>
+        <item name="colorControlHighlight">@color/ripple_material_dark</item>
+    </style>
+</resources>

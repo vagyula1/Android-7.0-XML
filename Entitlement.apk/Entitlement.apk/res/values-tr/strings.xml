@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yetki verme</string>
+    <string name="feature_check_msg">Abonelik durumu kontrol ediliyor. Lütfen bekleyin...</string>
+    <string name="vzw_self_provisioning_msg">"Mobile Hotspot'u kullanmak için, Mobile Hotspot hizmetine abone olmanız gerekecektir.
+My Verizon'u ziyaret ederek daha fazla bilgi alın ve Mobile Hotspot'a abone olun."</string>
+    <string name="vzw_self_provisioning_cancel">İptal</string>
+    <string name="vzw_self_provisioning_learn_more">Daha fazla bilgi edinin</string>
+    <string name="vzw_error_msg_title">Siparişiniz işlenemedi</string>
+    <string name="vzw_error_msg">"Mobile Hotspot/Mobil Geniş Bant Bağlantı abonesi olmak istiyorsanız, aşağıdaki telefon numaralarından birini arayın:
+ Bireysel müşteri: (800) 256-4646,
+ Kurumsal müşteri: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Hizmet yükseltme gerekli</string>
+    <string name="tmo_error_msg">Mevcut tarifeniz telefonunuzun veri bağlantısını diğer cihazlarla paylaşmanızı sağlayan Akıllı Telefon Mobile Hotspot hizmetini kapsamıyor. Tarifenize Akıllı Telefon Mobile Hotspot hizmetini dahil etmek istiyor musunuz? Bu tarifeyi https://my.t-mobile.com adresinden Yönet > Tarifler ve Hizmetler öğesi altında çevrimiçi olarak da dahil edebilirsiniz. &lt;</string>
+    <string name="retv_terms_conditions_msg">Abonelik durumu kontrol ediliyor. Lütfen bekleyin...</string>
+    <string name="change_data_request_msg">Ön tedarik talebi gönderiliyor. Lütfen bekleyin...</string>
+    <string name="alert_dialog_failure_title">Siparişiniz işlenemedi</string>
+    <string name="alert_dialog_failure_msg">Lütfen daha sonra tekrar deneyin.</string>
+    <string name="network_connection_title">Ağ bağlantı hatası</string>
+    <string name="network_connection_error_msg">Telefonunuz şu anda %s sunucusuna bağlanamıyor. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="mobile_hotspot">Mobil Erişim Noktası</string>
+    <string name="alert_dialog_positive_button">Tamam</string>
+    <string name="alert_dialog_upgrade_button">Yükseltme</string>
+    <string name="alert_dialog_later_button">Sonra</string>
+    <string name="current_subscription">(mevcut abonelik)</string>
+    <string name="unavailable_subscription">(depolama seviyesine bağlı olarak kullanılamayabilir)</string>
+    <string name="request_pending_title">Ön Tedarik Beklemede</string>
+    <string name="request_pending_error_msg">Verizon sunucusu talebinizi işliyor. Lütfen 5 dakika içinde tekrar deneyin.</string>
+    <string name="browser_error_msg">Tarayıcı açılamıyor.</string>
+    <string name="att_error_msg">Etkinleştirmek için, att.com/mywireless adresine gidin veya 611 numaralı telefonu arayın</string>
+    <string name="att_error_msg_title">Bağlantı için hesap oluşturulmadı</string>
+    <string name="att_error_msg_other">Mobil Erişim Alanı işlevinin etkinleşmesini engelleyen geçici bir ağ problemi var. Lütfen daha sonra yeniden deneyin</string>
+    <string name="att_error_msg_other_title">Şebeke hatası</string>
+    <string name="sprint_error_msg">Veri ağına bağlanılamıyor; Bağlantı veya Erişim Merkezi hizmeti abonesi olamayabilirsiniz; Lütfen telefon şirketinizle irtibata geçin.</string>
+    <string name="sprint_error_msg_title">Bağlantı veya Erişim Merkezi Hatası</string>
+    <string name="sprint_notification_msg">Daha fazla ayrıntı görmek için dokunun</string>
+    <string name="term_and_conditions_title">Şart ve Koşullar</string>
+    <string name="sbm_content_activity_title">Sözleşme şartları</string>
+    <string name="consent_title">Sözleşme şartları</string>
+    <string name="consent_message">"Bu uygulamayı kullanmak için, aşağıdaki bilgileri kabul edip göndermeniz gerekir. Kontrol içeriğinde, lütfen ilerleyin.
+
+[Bilgi gönder]
+Yükleniciye özel ID
+[Uygulamaları kullan]
+Bağlantı uygulamasını kullanma siparişi"</string>
+    <string name="consent_terms_btn">Hizmet şartları</string>
+    <string name="concent_disagree_btn">Kabul etmiyorum</string>
+    <string name="concent_agree_btn">Kabul</string>
+    <string name="sbm_error_msg_title">Bağlantı veya Erişim Merkezi Hatası</string>
+    <string name="sbm_error_msg">Veri ağına bağlanılamıyor.</string>
+    <string name="sbm_error_msg_not_subscribed">Bağlantı Seçeneği aboneliğiniz doğrulanamadı.</string>
+    <string name="sbm_error_msg_not_authenticated">"Kimlik doğrulanamadı.
+(Hata kodu %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Kimlik doğrulanamadı. Lütfen çekim gücünün yüksek olduğu bir konumdan tekrar deneyin.</string>
+</resources>

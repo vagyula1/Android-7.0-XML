@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%dসেকেন্ডের মধ্যে বন্ধ করা হবে…</item>
+        <item quantity="one">%dসেকেন্ডের মধ্যে বন্ধ করা হবে…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"নিম্নলিখিত অ্যাকাউন্টগুলি প্রস্তুত:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"নিম্নলিখিত অ্যাকাউন্টগুলি প্রস্তুত:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">QR কোড সেট আপ শুরু করতে আরো %d বার আলতো চাপ দিন</item>
+        <item quantity="one">QR কোড সেট আপ শুরু করতে আরো %d বার আলতো চাপ দিন</item>
+    </plurals>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d sporočil v odzivniku</item>
+        <item quantity="one">%d sporočilo v odzivniku</item>
+        <item quantity="two">%d sporočili v odzivniku</item>
+        <item quantity="few">%d sporočila v odzivniku</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d sporočil v odzivniku</item>
+        <item quantity="one">%1$d sporočilo v odzivniku</item>
+        <item quantity="two">%1$d sporočili v odzivniku</item>
+        <item quantity="few">%1$d sporočila v odzivniku</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d najdenih stikov</item>
+        <item quantity="one">%d najden stik</item>
+        <item quantity="two">%d najdena stika</item>
+        <item quantity="few">%d najdeni stiki</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d neprebranih elementov.</item>
+        <item quantity="one">%1$s. %2$d neprebran element.</item>
+        <item quantity="two">%1$s. %2$d neprebrana elementa.</item>
+        <item quantity="few">%1$s. %2$d neprebrani elementi.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">すべてのアプリ（%1$d 個）</item>
+        <item quantity="one">1 個のアプリ</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d 個のアプリが選択されています</item>
+        <item quantity="one">1 個のアプリが選択されています</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d 個のアプリがバックアップされています。必要なアプリを選択するか、すべてのアプリを選択して移動できます。</item>
+        <item quantity="one">%1$d 個のアプリがバックアップされています。</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">ローカルの連絡先 %1$d 件</item>
+        <item quantity="one">ローカルの連絡先 1 件</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">SIM %1$d 件、ローカル %2$d 件</item>
+        <item quantity="one">SIM %1$d 件、ローカル %2$d 件</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">SIM の連絡先 %1$d 件</item>
+        <item quantity="one">SIM の連絡先 1 件</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d 個のアプリが見つかりました。必要なアプリを選択するか、すべてのアプリを選択して移動できます。</item>
+        <item quantity="one">%1$d 個のアプリが見つかりました。このアプリを移動しますか？</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">残り %1$d 枚…</item>
+        <item quantity="one">残り %1$d 枚…</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">連絡先 %1$d 件</item>
+        <item quantity="one">連絡先 1 件</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">%1$d 件の連絡先、Google コンタクト</item>
+        <item quantity="one">1 件の連絡先、Google コンタクト</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">注: この予定には次の参加者は含まれていません。</item>
+        <item quantity="one">注: この予定には次の参加者は含まれていません。</item>
+    </plurals>
+</resources>

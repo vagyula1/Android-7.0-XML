@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Neste</string>
+    <string name="suw_back_button_label">Tilbake</string>
+    <string name="suw_more_button_label">Mer</string>
+    <string name="entitlement_check_progress">Sjekker abonnementstatus. Vent litt.</string>
+    <string name="att_service_upgrade_msg">For å slå på, gå til att.com/mywireless eller ring 611</string>
+    <string name="att_network_error">Nettverket er utilgjengelig. Prøv på nytt senere.</string>
+    <string name="sprint_entitlement_error">Tjenesten støttes ikke. Ta kontakt med tjenesteleverandøren din.</string>
+    <string name="sprint_network_error">Nettverket er utilgjengelig. Prøv på nytt senere.</string>
+    <string name="vzw_service_upgrade_msg">For å bruke den mobile Wi-Fi-sonen, ring kundeservice for å abonnere.</string>
+    <string name="vzw_network_error">Nettverket er utilgjengelig. Prøv på nytt senere.</string>
+    <string name="vzw_wfc_activation_error">Kan ikke aktivere Wi-Fi-anrop. Prøv på nytt senere.</string>
+    <string name="vzw_address_update_error">Vi kan ikke oppdatere den nåværende adressen for nødssituasjoner på dette tidspunktet. Prøv igjen senere.</string>
+    <string name="generic_error">Autentisering mislyktes. Prøv igjen senere.</string>
+    <string name="vzw_setup_app_label">Aktivering av Verizon-konto</string>
+    <string name="vzw_activate_title">Telefonaktivering</string>
+    <string name="vzw_activate_progress">Vent litt mens vi forbereder telefonen din.</string>
+    <string name="vzw_activate_exiting">Avslutter aktivering.</string>
+    <string name="vzw_verify_title">Bekreft kontoen din</string>
+    <string name="vzw_verify_ssn">For å komme i gang, skriv inn de siste 4 sifrene til kontoeierens amerikanske personnummer:</string>
+    <string name="vzw_verify_pwd">For å komme i gang, skriv inn faktureringspassordet for kontoen din.</string>
+    <string name="vzw_verify_button">Bekreft</string>
+    <string name="vzw_later_button">Senere</string>
+    <string name="vzw_verify_switch_ssn">Bruk personnummeret i stedet</string>
+    <string name="vzw_verify_switch_pwd">Bruk faktureringspassordet i stedet</string>
+    <string name="vzw_verify_progress_title">Bekrefter kontoen din …</string>
+    <string name="vzw_activate_ready_title">Er du klar til å aktivere?</string>
+    <string name="vzw_activate_ready_new">Dette kan ta noen minutter</string>
+    <string name="vzw_activate_ready_upgrade">"Sikkerhetskopiér kontaktene dine og slå av den gamle telefonen din før du aktiverer denne telefonen.
+
+Når du starter aktiveringen, overfører vi nummeret ditt til denne telefonen og deaktiverer den gamle telefonen."</string>
+    <string name="vzw_activate_button">Aktiver</string>
+    <string name="vzw_activating_new_title">Henter telefonnummeret …</string>
+    <string name="vzw_activating_upgrade_title">Overfører telefonnummeret …</string>
+    <string name="vzw_activating_upgrade">For å overføre nummeret ditt til den nye telefonen din må den gamle telefonen din være slått av.</string>
+    <string name="vzw_activate_success_title">Telefonen er aktivert</string>
+    <string name="vzw_activate_success">Verizon-telefonen din er nå aktiv. Telefonnummeret ditt er %1$s</string>
+    <string name="vzw_data_limit_title">Begrenset databruk</string>
+    <string name="vzw_data_limit">Databruken din er for tiden begrenset på grunn av klokkeslettet eller en datagrense. Du må bruke Wi-Fi for å fortsette konfigureringen av enheten din.</string>
+    <string name="vzw_data_restricted_title">Begrenset databruk</string>
+    <string name="vzw_data_restricted">På grunn av tid på dagen eller en datagrense</string>
+    <string name="vzw_data_redirected_title">Få Verizon-tjeneste</string>
+    <string name="vzw_data_redirected">Du har ikke Verizon Wireless-abonnement, eller du har brukt hele abonnementkvoten din. Ta kontakt med Verizon</string>
+    <string name="vzw_activate_notification_title">Klar til å aktivere</string>
+    <string name="vzw_activate_notification">Trykk for å aktivere telefonen</string>
+    <string name="vzw_cold_notification">Ta kontakt med Verizon for å aktivere telefonen din.</string>
+    <string name="vzw_activate_error_title">Kan ikke aktivere</string>
+    <string name="vzw_activate_error_network">Sørg for at du har godt signal (flere streker) og prøv igjen. Hvis dette problemet vedvarer, kan du ta kontakt med kundeservice på (800) 922-0204 for assistanse.</string>
+    <string name="vzw_activate_error_lookup">Beklager, men vi har problemer med å aktivere telefonen din. Ta kontakt med kundeservice på (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Personnummeret er feil. Prøv på nytt.</string>
+    <string name="vzw_activate_error_pwd">Faktureringspassordet er feil. Prøv på nytt.</string>
+    <string name="vzw_activate_error_not_retryable">Beklager, men vi har problemer med å aktivere telefonen din. Ta kontakt med kundeservice på (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">For å aktivere telefonen din, ring (800) 922-0204 fra en annen telefon.</string>
+    <string name="vzw_activate_error_restricted_title">Slik aktiverer du telefonen din</string>
+    <string name="vzw_activate_error_restricted">For å aktivere telefonen din, følg instruksjonene som følger med den nye telefonen din, eller ta kontakt med Verizon Wireless-administratoren i organisasjonen din.</string>
+    <string name="vzw_activate_error_lost_stolen">Beklager, men vi har problemer med å aktivere telefonen din. Ring (877) 807-4646 fra en annen telefon for å aktivere 4G LTE-tjenesten og prøv deretter igjen.</string>
+    <string name="vzw_activate_continue">Fortsett</string>
+    <string name="vzw_activate_retry">Prøv på nytt</string>
+    <string name="vzw_activate_skip">Hopp over</string>
+    <string name="emergency_address_app_label">Håndtering av adresse for nødssituasjoner</string>
+    <string name="progress_text">Vent litt</string>
+    <string name="vzw_tos_title">Aktiver Wi-Fi-anrop</string>
+    <string name="cancel">Avbryt</string>
+    <string name="vzw_tos_text">"Med Wi-Fi-anrop kan du utføre anrop over Wi-Fi når mobilnettverket er utilgjengelig.
+
+For å konfigurere Wi-Fi-anrop må du angi en amerikansk adresse. Denne adressen blir brukt av nødetatene på stedet du befinner deg, hvis du utfører et nødanrop (E911) over Wi-Fi fra denne telefonen i USA.
+
+Vi anbefaler at du endrer denne adressen når du utfører anrop med et annet Wi-Fi-nettverk, slik at informasjonen din er nøyaktig. Du kan når som helst endre stedet ditt ved å gå til innstillingsmenyen for Wi-Fi-anrop."</string>
+    <string name="vzw_tos_link">Vilkår</string>
+    <string name="vzw_e911_title">Informasjon om sted for nødssituasjoner</string>
+    <string name="vzw_e911_description"><b>VIKTIG – ADRESSE FOR NØDSSITUASJONER, 911 KREVES</b>"
+For å slå på Wi-Fi-anrop, angi den amerikanske adressen du ønsker at nødetatene skal sendes til hvis du ringer 911. Du kan når som helst endre denne adressen fra Innstillinger. Det er veldig viktig at du oppdaterer denne adressen hver gang du bytter sted."</string>
+    <string name="vzw_e911_warning"><b>ADVARSLER – BEGRENSINGER FOR NØDANROP TIL 911</b>"
+Når du ringer 911, må du alltid fortelle operatøren hvor du er. 911-anropet ditt går bare over Wi-Fi hvis mobilnettverket er utilgjengelig. 911-anrop over Wi-Fi kan bli forsinkede eller mislykkede hvis 911-systemet for eksempel ikke gjenkjenner adressen, strømmen er ute, eller Wi-Fi-tilkoblingen ikke fungerer. Nødetatene blir sendt til adressen du oppga ovenfor, så sørg for at du oppdaterer den når du endrer sted."</string>
+    <string name="house_number">Adressenummer</string>
+    <string name="street">Gate</string>
+    <string name="apt_suite_number">Leilighet, oppgang osv.</string>
+    <string name="city">By</string>
+    <string name="state">Poststed</string>
+    <string name="zip_code">Postnummer</string>
+    <string name="save">Lagre</string>
+    <string name="vzw_address_confirm_text">"Vi fant ikke adressen du oppga fordi gateadressen ikke ble funnet, eller fordi byen, poststedet eller postnummeret er feil.
+
+Hvis byen, poststedet og postnummeret er feil, trykker du på %1$s. Ellers trykker du på %2$s."</string>
+    <string name="vzw_address_confirm_text_part1">Vi fant ikke adressen du oppga fordi gateadressen ikke ble funnet, eller fordi byen, poststedet eller postnummeret er feil.</string>
+    <string name="vzw_address_confirm_text_part2">Hvis byen, poststedet og postnummeret er feil, trykker du på %1$s. Ellers trykker du på %2$s.</string>
+    <string name="save_anyway">Lagre likevel</string>
+    <string name="edit_address">Endre adressen</string>
+    <string name="ok">OK</string>
+    <string name="vzw_address_select_text">Vi fant ikke adressen du skrev inn:</string>
+    <string name="vzw_address_alternate_text">Mente du:</string>
+    <string name="vzw_partial_confirm_head">Nødetatene kunne ikke bekrefte adressen.</string>
+    <string name="vzw_partial_confirm_text">Er du sikker på at du vil bruke denne adressen i tilfelle en nødssituasjon?</string>
+    <string name="vzw_partial_failure_text">"Byen, poststedet eller postnummerer du oppga, er muligens feil.
+
+Sjekk adressen og prøv på nytt."</string>
+    <string name="vzw_partial_failure_text_part1">Byen, poststedet eller postnummerer du oppga, er muligens feil.</string>
+    <string name="vzw_partial_failure_text_part2">Kontrollér adressen og prøv igjen.</string>
+</resources>

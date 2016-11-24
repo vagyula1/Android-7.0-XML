@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%dစက္ကန့်အတွင်း စက်ပိတ်ပါမည်…</item>
+        <item quantity="one">1 စက္ကန့်အတွင်း စက်ပိတ်ပါမည်…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"အောက်ပါအကောင့်များသည် အဆင်သင့်ဖြစ်ပါပြီ − 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"အောက်ပါအကောင့်သည် အဆင်သင့်ဖြစ်ပါပြီ − 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">QR ကုဒ်တပ်ဆင်မှုစတင်ရန် နောက်ထပ် %d ခေါက်တို့ပါ</item>
+        <item quantity="one">QR ကုဒ်တပ်ဆင်မှုစတင်ရန် နောက်ထပ် %d ခေါက်တို့ပါ</item>
+    </plurals>
+</resources>

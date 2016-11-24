@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Lülitub välja %d sekundi pärast ...</item>
+        <item quantity="one">Lülitub välja 1 sekundi pärast ...</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Järgmised kontod on valmis:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Järgmine konto on valmis:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Veel %d puudutust QR-koodi seadistuse alustamiseks</item>
+        <item quantity="one">Veel %d puudutus QR-koodi seadistuse alustamiseks</item>
+    </plurals>
+</resources>

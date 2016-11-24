@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TalkBackSettings" parent="@android:style/Theme.DeviceDefault.Settings" />
+    <style name="TutorialActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">@color/tutorial_action_bar_background</item>
+    </style>
+    <style name="TutorialActivityTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/TutorialActionBar</item>
+    </style>
+</resources>

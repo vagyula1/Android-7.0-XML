@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zulazulela ekhaya</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Zulazulela phezulu</string>
+    <string name="abc_action_menu_overflow_description">Izinketho eziningi</string>
+    <string name="abc_action_mode_done">Kwenziwe</string>
+    <string name="abc_activity_chooser_view_see_all">Buka konke</string>
+    <string name="abc_activitychooserview_choose_application">Khetha uhlelo lokusebenza</string>
+    <string name="abc_capital_off">VALIWE</string>
+    <string name="abc_capital_on">VULIWE</string>
+    <string name="abc_search_hint">Iyasesha...</string>
+    <string name="abc_searchview_description_clear">Sula inkinga</string>
+    <string name="abc_searchview_description_query">Umbuzo wosesho</string>
+    <string name="abc_searchview_description_search">Sesha</string>
+    <string name="abc_searchview_description_submit">Hambisa umbuzo</string>
+    <string name="abc_searchview_description_voice">Ukusesha ngezwi</string>
+    <string name="abc_shareactionprovider_share_with">Yabelana no-</string>
+    <string name="abc_shareactionprovider_share_with_application">Yabelana no-%s</string>
+    <string name="abc_toolbar_collapse_description">Goqa</string>
+    <string name="app_picker_fetch_failure">Azikho izinhlelo zokusebenza ezitholiwe</string>
+    <string name="app_picker_no_apps">Azikho izinhlelo zokusebenza ezikhethiwe</string>
+    <string name="auto_restore_summary">Uma ufaka futhi uhlelo lokusebenza, buyisela okuhlelwe ukusebenza kwezipele kanye nemininingo</string>
+    <string name="auto_restore_title">Ukubuyisela esimweni okuzenzakalelayo</string>
+    <string name="backup_configure_account_default_summary">Ayikho i-akhawunti okwamanje egcina ukusekela ngokulondoloza idatha</string>
+    <string name="backup_configure_account_title">Sekela ngokulondoloza i-akhawunti</string>
+    <string name="backup_data_summary">Sekela ngokulondoloza idatha yohlelo lokusebenza, amaphasiwedi e-Wi-Fi, nezinye izilungiselelo kudrayivu ye-Google</string>
+    <string name="backup_data_summary_full">"Yenza isipele ngokuzenzakalela idatha yedivayisi (njengamaphasiwedi e-Wi-Fi nomlando wekholi) nedatha yohlelo lokusebenza (njengezilungiselelo namafayela alondolozwe yizinhlelo zokusebenza) ngokuzenzakalela.
+
+Uma uvula ukwenza isipele ngokuzenzakalela, idatha yedivayisi neyohlelo lokusebenza isetshenziswa ngokuzenzakalela. Idatha yohlelo lokusebenza kungaba yinoma iyiphi idatha leyo uhlelo lokusebenza elondoloziwe (ngokususelwe kuzilungiselelo zikanjiniyela), kufaka phakathi idatha ezwelayo njengoxhumana nabo, imilayezo nezithombe."</string>
+    <string name="backup_data_title">Yenza isipele ku-Google Drayivu</string>
+    <string name="backup_erase_dialog_message">Yeka ukulondoloza amaphasiwedi akho e-Wi-Fi, amabhukhimaki, ezinye izilungiselelo, kanye nedatha yezinhlelo zokusebenza, nokususa onke amakhophi ku-Google drayivu?</string>
+    <string name="backup_erase_dialog_message_full">Misa ukwenza isipele idatha yedivayisi (efana namaphasiwedi we-Wi-Fi nomlando wekholi) nedatha yohlelo lokusebenza (efana nezilungiselelo namafayela agcinwe yizinhlelo zokusebenza, uphinde ususe wonke amakhophi ku-Google Drayivu?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Kube nephutha ukuvula izilungiselelo zezithombe</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Uma uvula ukwenza isipele ngokuzenzakalela:
+
+ ● Izilungiselelo zedivayisi nedatha yohlelo lokusebenza kulondoloza ngesikhathi kwifolda eyimfihlo ku-Google Drayivu. idatha yohlelo lokusebenza kungaba inoma iyiphi idatha leyo uhlelo lokusebenza elulondolozile (ngokususelwe kuzilungiselelo zikanjiniyela), kufaka phakathi idatha ezwelayo njengoxhumana nabo, imilayezo, kanye nezitombe.
+
+ Amafayela amakhulu, noma amafayela onjniyela abakhethe ukuwakhipha kusuka kusevisi, ngeke enziwe isipele.
+
+ ● Ukurekhodwa kwezithombe namavidiyo kusuka kule divayisi kuvumelaniswa ngelabhulali yakho yezithombe ze-Google ukuze useshe, uhlele, ususe, futhi wabelane kusuka kunoma imaphi amadivayisi akho.
+
+ Ngokuzenzakalela, izithombe zokucaca okuphezulu namavidiyo kuyalayishwa. Lokhu akubali kusitoreji sakho sedrayivu.
+
+ ● Idatha yoxhumana nabo nephathelene kusuka kule divayisi kuvumelaniswa koxhumana nabo be-Google. Ungasebenzisa uhlelo lokusebenza loxhumana nabo le-Google ukuze useshe, usule, futhi wabelane ngoxhumana nabo kusuka kunoma imaphi amadivayisi akho.
+
+ ● Okungenayo kwekhalenda nedatha ephathelene kusuka kule divayisi kuvumelaniswa ku-Google khalenda. Ungasebenzisa uhlelo lokusebenza le-Google Ikhalenda ukuze useshe, uhlele, ususe, futhi wabelane ngoxhumana nabo kusuka kumadivayisi akho.
+
+ Ukwenza isipele idatha ngeke kubale kusitoreji sedrayivu."</string>
+    <string name="backup_opt_in_backup_description">Isipele ngokuzenzakalela siqinisekisa ukuthi ukwazi ukubuyisela kalula noma ushintshe amafoni noma kunini. <annotation link="backup_opt_in_learn_more">Funda kabanzi</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Ikhalenda, oxhumana nabo, izithombe, namavidiyo kuyavumelaniswa ku-akhawunti yakho ye-Google futhi kungasetshenziswa kuwo wonke amasevisi.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Lokhu kuzovala isipele salokhu:
+
+Idatha yezinhlelo zokusebenza neyohlelo lokusebenza
+Umlando wekholi
+Izilungiselelo zedivayisi
+Izithombe namavidiyo
+I-SMS
+
+Ikhalenda noxhumana nabo bazoqhubeka ukuvunyelaniswa ku-Akhawinti yakho ye-Google. Uma ukusetha sokuqediwe, ungashintsha izilungiselelo zokuvumelanisa ngokuya "<annotation link="backup_opt_in_settings_instructions">Kuzilungiselelo > ama-Akhawunti > i-Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vala isipele?</string>
+    <string name="backup_opt_in_backup_list">"Izinhlelo zokusebenza nedatha yohlelo lokusebenza
+Ikhalenda
+Umlando wekholi
+Oxhumana nabo
+Izilungiselelo zedivayisi (ezifaka amaphasiwedi e-Wi-Fi)
+Izithombe namavidiyo
+I-SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Isipele sifaka:</string>
+    <string name="backup_opt_in_backup_title">Yenza isipele ku-Google Drayivu</string>
+    <string name="backup_opt_in_disable_backup">Vala isipele</string>
+    <string name="backup_photos_update">Sicela ubuyekeze izithombe ze-Google</string>
+    <string name="backup_settings_activity_title">Yenza isipele uphinde usethe kabusha</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ungakopishi</string>
+    <string name="close_button_label">Vala</string>
+    <string name="cloud_restore_app_picker_button">Buyisela</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Isipele sakho asinazo ezinye izinhlelo zokusebenza</string>
+    <string name="cloud_restore_app_picker_title">Khetha izinhlelo zokusebenza ozozibuyisela</string>
+    <string name="common_accessibility_audience_view_editable">Hlela izithameli</string>
+    <string name="common_add_account_label">Engeza i-akhawunti</string>
+    <string name="common_ads_settings_title">Izikhangiso</string>
+    <string name="common_app_name">Amasevisi e-Google Play</string>
+    <string name="common_audience_edit_button_label">Hlela</string>
+    <string name="common_cancel">Khansela</string>
+    <string name="common_cannot_start_hangouts_exception">Ama-Hangout awakwazi ukuqalwa.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Ama-Hangout awakwazi ukuqalwa (iphutha lemvume).</string>
+    <string name="common_car_permission_desc">Ukufinyelela kusevisi yemoto.</string>
+    <string name="common_car_permission_label">Isevisi yemoto</string>
+    <string name="common_chips_label_empty_circles">Ayikho imibuthano</string>
+    <string name="common_chips_label_extended_circles">Imibuthano enwetshiwe</string>
+    <string name="common_chips_label_only_you">Wena kuphela</string>
+    <string name="common_chips_label_public">Esidlangalaleni</string>
+    <string name="common_chips_label_your_circles">Imibuthano yakho</string>
+    <string name="common_choose_account_label">Khetha i-akhawunti</string>
+    <string name="common_clear_app_data_menu_item">Sula idatha yohlelo lokusebenza</string>
+    <string name="common_connected_apps_settings_title">Izinhlelo zokusebenza ezixhunyiwe</string>
+    <string name="common_fitness_settings_title">I-Google Fit</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_google_platform_settings">I-Google</string>
+    <string name="common_google_play_services_enable_button">Nika amandla</string>
+    <string name="common_google_play_services_enable_text">I-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play.</string>
+    <string name="common_google_play_services_enable_title">Nika amandla amasevisi we-Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Iphutha</string>
+    <string name="common_google_play_services_install_button">Faka</string>
+    <string name="common_google_play_services_install_text">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho.</string>
+    <string name="common_google_play_services_install_title">Thola amasevisi we-Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Iphutha lamasevisi we-Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho.</string>
+    <string name="common_google_play_services_update_button">Isibuyekezo</string>
+    <string name="common_google_play_services_update_text">I-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play.</string>
+    <string name="common_google_play_services_update_title">Buyekeza amasevisi we-Google Play</string>
+    <string name="common_google_play_services_updating_text">I-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo.</string>
+    <string name="common_google_play_services_updating_title">Amasevisi e-Google Play ayabuyekezwa</string>
+    <string name="common_google_play_services_wear_update_text">Kudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Amasevisi we-Google Play afakiwe we-architecture engalungile.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Amasevisi we-Google Play afakwe nge-architecture (%1$s) ehlukile kusukela ku-architecture yedivayisi yakho (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">I-architecture engalungile</string>
+    <string name="common_google_settings">Izilungiselelo ze-Google</string>
+    <string name="common_google_settings_account">I-Akhawunti</string>
+    <string name="common_google_settings_credentials_title">I-Smart Lock yamaphasiwedi</string>
+    <string name="common_google_settings_data_management_title">Ukuphatha idatha</string>
+    <string name="common_google_settings_drive_network_usage">Buyekeza amafayela wohlelo lokusebenza anikwe idrayivu</string>
+    <string name="common_google_settings_services">Amasevisi</string>
+    <string name="common_list_apps_menu_help">Usizo</string>
+    <string name="common_list_apps_menu_help_and_feedback">Usizo nempendulo</string>
+    <string name="common_loading">Iyalayisha...</string>
+    <string name="common_location_settings_title">Indawo</string>
+    <string name="common_maps_settings_title">I-Maps ne-latitude</string>
+    <string name="common_mdm_feature_name">ISiphathi Sedivayisi ye-Android</string>
+    <string name="common_missing_url_viewer">Isibuki asikho ukuze kuboniswe i-url yangaphandle.</string>
+    <string name="common_network_load_failed">Akutholakali ngoba idivayisi ayikwazi ukuxhumeka kunethiwekhi</string>
+    <string name="common_networking_settings_title">Ukunethiwekha</string>
+    <string name="common_no_browser_for_restricted_url">Ukufinyelela kunomkhawulo. Asikho isiphequluli esitholakele.</string>
+    <string name="common_no_network">Ayikwazi ukuxhumeka ngoba idivayisi ayixhunyiwe ku-intanethi.</string>
+    <string name="common_off">Valiwe</string>
+    <string name="common_ok">KULUNGILE</string>
+    <string name="common_on">Vuliwe</string>
+    <string name="common_open_on_phone">Vula kufoni</string>
+    <string name="common_open_source_licenses">Amalayisense womthombo ovulekile</string>
+    <string name="common_people_settings_title">Oxhumana nabo</string>
+    <string name="common_permissions_enable_in_settings">Nika amandla kuzilungiselelo</string>
+    <string name="common_permissions_missing_end">Ukuze uqhubeke, vula okuthi Izilungiselelo, nokuthi Izimvume, uphinde uvumela zonke izinto ezifakwe kuhlu.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Ukunika amandla, iya kokuthi
+Izilungiselelo >
+Izimvume >
+amasevisi e-Google Play"</string>
+    <string name="common_permissions_missing_start">Lolu hlelo lokusebenza ngeke lusebenze kahle ngaphandle uma uvumela amasevisi e-Google Play ukucela ukufinyelela okulandelayo:</string>
+    <string name="common_permissions_open_settings">Vula izilungiselelo</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Usesho ne-Now</string>
+    <string name="common_search_settings_title">Sesha</string>
+    <string name="common_security_settings_title">Ukuvikela</string>
+    <string name="common_set_up_nearby_device_settings_title">Setha kusukela kudivayisi eseduze</string>
+    <string name="common_settings_drive_network_usage_all">Nge-Wi-Fi noma iselula</string>
+    <string name="common_settings_drive_network_usage_wifi">Ngaphezulu kwe-Wi-Fi kuphela</string>
+    <string name="common_signin_button_text">Ngena ngemvume</string>
+    <string name="common_signin_button_text_long">Ngena ngemvume nge-Google</string>
+    <string name="common_storage_settings_title">Amasevisi wesitoreji ku-Google Play</string>
+    <string name="common_switch_bar_off">Valiwe</string>
+    <string name="common_switch_bar_on">Vuliwe</string>
+    <string name="common_ui_confirm_deleting_button">Susa</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ngiyaqonda futhi ngifuna ukususa</string>
+    <string name="common_url_load_unsuccessful_message">Idivayisi yakho ye-Android ayixhunyiwe kusevisi yedatha. Ukuze ubuke lolu lwazi manje, vakashela i-%s ngesiphequluli sewebhu.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Idivayisi yakho ye-Android ayixhunyiwe kunethiwekhi ye-Wi-Fi. Ukuze ubuke lolu lwazi manje, vakashela i-%s ngesiphequluli sewebhu.</string>
+    <string name="common_url_login_notice">Ngena ngemvume njengo-%1$s</string>
+    <string name="common_usage_and_diagnostics">Ukusetshenziswa nokuhlola</string>
+    <string name="confirm_copy_button_text">Kopisha</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d SIM, %2$d okwendawo, Oxhumana nabo be-Google</string>
+    <string name="contacts_number_local_with_google">%1$d okwendawo, Oxhumana nabo be-Google</string>
+    <string name="contacts_number_sim_with_google">%1$d SIM, Oxhumana nabo be-Google</string>
+    <string name="copy_confirmation_description">Uzokopisha idatha, efana ne-Akhawunti yakho ye-Google nezinhlelo zokusebenza kufoni yakho entsha</string>
+    <string name="copy_confirmation_title">Kopishela kufoni yakho entsha?</string>
+    <string name="d2d_app_picker_description_no_apps">Asikwazanga ukuthola izinhlelo zokusebenza</string>
+    <string name="d2d_app_picker_title">Izinhlelo zokusebenza</string>
+    <string name="d2d_migration_canceled_on_source">Ukukopisha kukhanseliwe</string>
+    <string name="data_copied_fragment_description">Idatha yakho ikopishelwa efonini yakho entsha. Unganqamula ikhebuli.</string>
+    <string name="data_copied_fragment_description_cancel">Ukhethe ukumisa ukukopisha, ngakho-ke enye kuphela idatha ekopishelwe efonini yakho entsha.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Ukhethe ukumisa ukukopisha, ngakho-ke akukho okukopishelwe efonini yakho entsha.</string>
+    <string name="data_copied_fragment_description_error">Okuthile akuhambanga kahle, ngakho-ke asikwazanga ukukopisha yonke into.</string>
+    <string name="data_copied_fragment_description_error_no_data">Okuthile akuhambanga kahle, ngakho-ke asikwazanga ukukopisha idatha yakho.</string>
+    <string name="data_copied_fragment_no_data_title">Ayikwazanga ukukopisha</string>
+    <string name="data_copied_fragment_some_data_title">Enye idatha ikopishiwe</string>
+    <string name="data_copied_fragment_title">Idatha ikopishiwe</string>
+    <string name="device_backup_title">Ukwenza isipele idivayisi</string>
+    <string name="device_not_supported_fragment_new_device">Uxhumekile efonini entsha. Ukuze uqhubeke, ixhume kabusha kweyakho yangaphambilini.</string>
+    <string name="device_not_supported_fragment_new_device_title">Xhuma kabusha efonini yangaphambilini</string>
+    <string name="device_not_supported_fragment_no_data_cable">Le khebuli ayikwazi ukudlulisela idatha. Ixhume kabusha usebenzisa ikhebuli ehlukile bese uyazama futhi.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Zama enye ikhebuli</string>
+    <string name="device_not_supported_fragment_retry_description">Qiniseka ukuthi ifoni yakho endaba ivuliwe, bese unqamule futhi uxhume ikhebuli</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Okuthile akuhambanga kahle</string>
+    <string name="device_picker_description">Izipele zigcinwa ku-Google Drayivu</string>
+    <string name="device_picker_item">%1$s isipele</string>
+    <string name="device_picker_last_used">Igcine ukusetshenziswa ngomhla ka-^1</string>
+    <string name="device_picker_skip">Ungabuyiseli</string>
+    <string name="device_picker_title">Khetha isipele okumele usibuyisele</string>
+    <string name="disabled_by_admin_summary_text">Kulawulwa umqondisi</string>
+    <string name="download_msg_error_invalid">Ukulanda akulungisiwe kahle.</string>
+    <string name="download_msg_in_progress">Ukulanda kuyaqhubeka.</string>
+    <string name="download_msg_not_allowed_space">Asikho isikhala esanele sokulanda.</string>
+    <string name="download_msg_pending">Ukulanda kulindile.</string>
+    <string name="download_notification_description">%1$s ucele lokhu.</string>
+    <string name="download_notification_title">Ilanda idatha eningi</string>
+    <string name="drive_backup_account">I-akhawunti yesipele</string>
+    <string name="drive_backup_app_includes_data">Ifaka idatha yohlelo lokusebenza</string>
+    <string name="drive_backup_apps_in_backup">Izinhlelo zokusebenza ezikusipele</string>
+    <string name="drive_backup_apps_last_backup">Isipele sokugcina</string>
+    <string name="drive_backup_apps_loading">Iyalayisha...</string>
+    <string name="drive_backup_apps_screen_title">Izinhlelo zokusebenza</string>
+    <string name="drive_backup_content_apps_title">Izinhlelo zokusebenza</string>
+    <string name="drive_backup_content_calendar_title">Ikhalenda</string>
+    <string name="drive_backup_content_callhistory_title">Umlando wekholi</string>
+    <string name="drive_backup_content_contacts_title">Oxhumana nabo</string>
+    <string name="drive_backup_content_devicesettings_title">Izilungiselelo zedivayisi</string>
+    <string name="drive_backup_content_header">Okuqukethwe</string>
+    <string name="drive_backup_content_photos_dialog_message">Ingabe ufuna futhi ukushintsha i-akhawunti yesipele yezithombe kuya ku-%s?</string>
+    <string name="drive_backup_content_photos_dialog_no">Cha</string>
+    <string name="drive_backup_content_photos_dialog_title">Shintsha izipele sezithombe?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Yebo</string>
+    <string name="drive_backup_content_photos_title">Izithombe namavidiyo</string>
+    <string name="drive_backup_content_sms_title">I-SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Ngiyezwa</string>
+    <string name="drive_backup_content_status_error">Iphutha lokuthola idethi yokugcina yesipele</string>
+    <string name="drive_backup_content_status_lastsaved">Kugcinwe ukwenziwa isipele: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Akwenziwe isipele</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Izilungiselelo ze-akhawunti</string>
+    <string name="drive_backup_content_status_updating">Ihlola isimo...</string>
+    <string name="drive_backup_settings_title">Yenza isipele</string>
+    <string name="drive_backup_state">Yenza isipele ku-Google Drayivu</string>
+    <string name="drive_backup_state_dialog_message">"Lokhu kuzomisa izipele ezizayo zokungu-%s, ezifaka izithombe ze-Google.
+
+Izithombe ezenziwe isipele, amavidiyo, oxhumana nabo, nemicimbi yekhalenda kuzohlala kuhambisana nemikhiqizo ye-Google.
+
+Yonke enye idatha izosuswa."</string>
+    <string name="drive_backup_state_dialog_okaction">Khubaza</string>
+    <string name="drive_backup_state_dialog_title">Khubaza uphinde ususe isipele</string>
+    <string name="durationDayHour">%1$d usuku %2$d ihora</string>
+    <string name="durationDayHours">%1$d usuku %2$d amahora</string>
+    <string name="durationDays">%1$d izinsuku</string>
+    <string name="durationHourMinute">%1$d ihora %2$d iminithi</string>
+    <string name="durationHourMinutes">%1$d ihora %2$d amaminithi</string>
+    <string name="durationHours">%1$d amahora</string>
+    <string name="durationMinute">%1$d iminithi</string>
+    <string name="durationMinuteSecond">%1$d iminithi %2$d isekhondi</string>
+    <string name="durationMinuteSeconds">%1$d iminithi %2$d amasekhondi</string>
+    <string name="durationMinutes">%1$d amaminithi</string>
+    <string name="durationSecond">%1$d isekhondi</string>
+    <string name="durationSeconds">%1$d amasekhondi</string>
+    <string name="encryption_warning_fragment_description">"Idivayisi yakho ye-iPhone® ivulwe ukubethelwa kwesipele, ngakho-ke izithombe kuphela, amavidiyo, nomculo kungakopishwa.
+
+Ukuze ukopishe idatha eningi, qala ngokuxhuma idivayisi yakho ye-iPhone® kukhompyutha yakho. Vula i-iTunes® kukhompyutha yakho, vala ukubethela kwesipele, bese uzame ukukopisha futhi.
+
+Ngosizo olungeziwe, vakashela ku-"<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Le kuyindlela esheshayo yokuletha idatha eningi.
+
+Thola i-adaptha ebhokisini bese uyixhume efonini yakho entsha. Xhuma amafoni usebenzisa ikhebuli, bese uvule ifoni yakho endala."</string>
+    <string name="fragment_waiting_title">Linda kancane...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Oxhumana nabo be-Google bazovumelaniswa</string>
+    <string name="google_contacts_static_text_off">Oxhumana nabo be-Google basazovumelanisa</string>
+    <string name="header_set_backup_account">Setha i-akhawunti yokulondoloza</string>
+    <string name="i_message_dialog_message">"Ukuze uhlale uthola imilayezo ye-SMS kusukela kubasebenzisi bedivayisi ye-iPhone®, kuzomele uvale i-iMessage®.
+
+Vakashela ku-"<b>g.co/iMessageHelp</b> ukuze uthole imiyalelo.</string>
+    <string name="instructions_fragment_title">Qhubeka kwenye ifoni yakho</string>
+    <string name="ios_connected_fragment_description">"Ukuze uqhubeke, ngena ngemvume nge-akhawunti ye-Google oyisebenzisa kudivayisi yakho ye-iPhone®.
+
+Ukuze uthole ukudluliswa okusheshayo, gwema ukusebenzisa idivayisi yakho ye-iPhone® ngesikhathi sokusethwa."</string>
+    <string name="ios_message_attachment_placeholder">[Okunamathiselwe kulondolozwe ezithombeni ze-Google > Amafolda edivayisi > Okunamathiselwe komlayezo]</string>
+    <string name="ios_message_attachments_placeholder">[Okunamahtiselwe kulondolozwe ezithombeni ze-Google > Amafolda edivayisi > Okunamathiselwe komlayezo]</string>
+    <string name="ios_migration_default_calendar_title">Ikhalenda</string>
+    <string name="ios_photos_dialog_message">"Izithombe ezigcinwe ku-iCloud® azikwazi ukukopishwa.
+
+Ukuze ulethe lezi zithombe ku-Pixel yakho, faka uhlelo lokusebenza lwezithombe ze-Google kudivayisi yakho ye-iPhone®, uphinde uvule ukwenza isipele uphinde uvumelanise. Vakashela ku-"<b>g.co/datatransferhelp</b> ukuze uthole eminye imiyalelo.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Engeza i-akhawunti</string>
+    <string name="lockscreen_smartdevice_action_next">Okulandelayo</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Vula ukuze uqhubeke usethe ifoni yakho</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Ngezizathu zokuvikela, uzodinga ukuqinisekisa ukukhiya isikrini kwakho ukuze uqhubeke ukusetha</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Qinisekisa ukukhiya kwakho kwesikrini</string>
+    <string name="manage_data_label">Phatha isipele sedatha</string>
+    <string name="master_clear_title">Ukuhlela kabusha idatha yasembonini</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Udinga ukusetha i-akhawunti yesipele</string>
+    <string name="notification_content_title_set_backup_account">Yenza isipele</string>
+    <string name="notification_ticker_set_backup_account">I-akhawunti yokulondoloza iyadingeka</string>
+    <string name="permgrouplab_calendar">Ikhalenda</string>
+    <string name="permgrouplab_camera">Ikhamera</string>
+    <string name="permgrouplab_contacts">Oxhumana nabo</string>
+    <string name="permgrouplab_location">Indawo</string>
+    <string name="permgrouplab_microphone">Imakrofoni</string>
+    <string name="permgrouplab_phone">Ifoni</string>
+    <string name="permgrouplab_sensors">Izinzwa zomzimba</string>
+    <string name="permgrouplab_sms">I-SMS</string>
+    <string name="permgrouplab_storage">Isitoreji</string>
+    <string name="petabyteShort">I-PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ayikho i-akhawunti okwamanje egcina izithombe ezenziwe isipele</string>
+    <string name="photos_backup_title">Ukwenza isipele izithombe</string>
+    <string name="photos_filtering_option_all">Konke</string>
+    <string name="photos_filtering_option_none">Lutho</string>
+    <string name="restore_choice_data_disclaimer">Enye idatha kwenye ifoni yakho ayikwazi ukukopishelwa ku-^1 yakho. <annotation link="restore_choice_data_disclaimer_learn_more">Funda kabanzi</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Oxhumana nabo abakopishiwe bazolondolozwa ku-akhawunti yakho ye-Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Oxhumana nabo abakopishiwe namakhalenda azolondolozwa ku-akhawunti yakho ye-Google.</string>
+    <string name="restore_choice_learn_more_android">"Enye idatha kusukela kufoni yakho endala ayikwazi ukukopishwa ngokuzenzakalela:
+
+ ● Ukulandwa (okufana namafayela e-PDF)
+
+ ● Izithombe, amavidiyo nomculo ogcinwe kumafolda afihliwe
+
+ ● Izithombe, amavidiyo nomculo otholwe ngomlayezo wombhalo
+
+ ● Izinhlelo zokusebenza ezingaveli ku-Google Play Isitolo
+
+ ● Idatha yohlelo lokusebenza (uma uhlelo lokusebenza lingasebenzisi ukwenza isipele se-Android)
+
+ ● Izilungiselelo ezithile zedivayisi
+
+ ● Amanye ama-akhawunti ngaphandle kwama-akhawunti e-Google (kanye nanoma iyiphi idatha ehlotshaniswayo)
+
+ ● Oxhumana nabo namakhalenda avunyelaniswe kumasevisi angaphandle kwe-Google
+
+ ● Amathoni okukhala
+
+ Ukuze uthole eminye imininingwane nosizo lokukopisha enye yale datha, vakashela ku-g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Enye idatha kusukela kufoni yakho endala ayikwazi ukukopishwa ngokuzenzakalela:
+
+ ● Idatha yezinhlelo zokusebenza neyohlelo lokusebenza
+
+ ● Izithombe lapho okwangempela kungagciniwe kufoni yakho (isibonelo, uma kuvulwe isilungiselelo sokulungiselela isitoreji, izithombe zangempela zigcinwa ku-iCloud®)
+
+ ● Amafayela namadokhumenti agcinwe ku-iCloud®
+
+ ● Izilungiselelo zedivayisi (ezifana namaphasiwedi e-Wi-Fi nesithombe sangemuva)
+
+ ● Umculo uvikelwe ngokuvikelwa kwe-Digital Rights Management (i-DRM) (isibonelo, umculo we-iTunes® othengwe ngaphambi kwangomhla ka-Ephreli 2009 noma umculo olandiwe ukuze ulalelwe kungaxhunyiwe ku-inthanethi kuhlelo lokusebenza lokusakaza-bukhoma umculo)
+
+ ● Ama-akhawunti angaphandle kwama-akhawunti e-Google (kanye nanoma iyiphi idatha ehlotshaniswayo)
+
+ ● Oxhumana nabo namakhalenda avunyelaniswe kumasevisi angaphandle kwe-Google noma i-iCloud®
+
+ ● Amabhukhimakhi kusukela ku-Safari®
+
+ okunamathiselwe kwi-imeyili kwe-iMessage® kuzotholakala kuzithombe ze-Google > Amafolda edivayisi > Okunamathiselwe kwi-imeyili komlayezo.
+
+ Ukuze uthole eminye imininingwane nosizo lokukopisha enye yale datha, vakashela ku-g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Asikho isikhala esanele</string>
+    <string name="restore_choice_total_text">yokudluliswa kwakho okutholakalayo okungu-%1$s / %2$s</string>
+    <string name="restore_item_appdata">Idatha yohlelo lokusebenza</string>
+    <string name="restore_item_calendar">Ikhalenda</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, I-Google Khalenda</string>
+    <string name="restore_item_calendar_ical_off_description">I-Google Khalenda isazovumelanisa</string>
+    <string name="restore_item_calendar_sync_description">I-Google Khalenda izovumelanisa</string>
+    <string name="restore_item_call_logs">Umlando wekholi</string>
+    <string name="restore_item_contacts">Oxhumana nabo</string>
+    <string name="restore_item_device_settings_description">Amaphasiwedi e-Wi-Fi nokuningi</string>
+    <string name="restore_item_downloads">Okulandiwe</string>
+    <string name="restore_item_email">I-imeyili</string>
+    <string name="restore_item_email_description">I-Gmail izovumelana</string>
+    <string name="restore_item_message_attachments">Okunamathiselwe kwi-imeyili komlayezo</string>
+    <string name="restore_item_messages">Imilayezo</string>
+    <string name="restore_item_music">Umculo</string>
+    <string name="restore_item_photos">Izithombe namavidiyo</string>
+    <string name="restore_item_settings">Izilungiselelo zedivayisi</string>
+    <string name="restore_item_sms">Imilayezo ye-SMS</string>
+    <string name="restore_item_will_be_synced_text">Lokhu kuzovumelanisa efonini yakho</string>
+    <string name="small_time_duration">Ngaphansi kweminithi elingu-1</string>
+    <string name="source_connected_description">Iyalungisa...</string>
+    <string name="source_connected_title">Ixhumekile ku-%1$s yakho</string>
+    <string name="source_copying_description">Idatha oyikhethile ikopishelwa kufoni yakho entsha</string>
+    <string name="source_copying_title">Kuyakopishwa...</string>
+    <string name="source_default_target_device_name">idivayisi entsha</string>
+    <string name="source_notification_device_disconnected">Xhuma kabusha ikhebuli yakho</string>
+    <string name="source_notification_text">Ukudlulisela ifoni ngefoni</string>
+    <string name="source_notification_title">Ukudlulisela idatha</string>
+    <string name="source_success_description">Qedela ukusetha ku-%1$s yakho.</string>
+    <string name="source_success_screen_title">Kuqedile konke!</string>
+    <string name="source_unplugged_description">Phinda uxhumeke ku-%1$s yakho</string>
+    <string name="source_unplugged_title">Ikhebuli inqanyuliwe</string>
+    <string name="source_waiting_title">Qhubeka ngokusetha ku-%1$s yakho</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Cashisa</string>
+    <string name="stop_copying_dialog_message_before_transfer">Idatha yakho ayikakopishelwa kufoni yakho entsha</string>
+    <string name="stop_copying_dialog_message_during_transfer">Enye idatha yakho ayikakopishelwa kufoni yakho entsha</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ungakopishi</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Misa</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ingakopishi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Misa ukukopisha?</string>
+    <string name="storage_management_drive_clear_failure">Kube nephutha ekusuleni idatha yeDrayivu. Sicela uzame futhi emuva kwesikhathi.</string>
+    <string name="storage_management_drive_clear_label">Sula</string>
+    <string name="storage_management_drive_clear_success">Idatha yokushayela isuliwe.</string>
+    <string name="storage_management_drive_clearing">Iyasula…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Yonke idatha yendawo yeDrayivu yezinhlelo zokusebenza ezinikwe amandla zeDrayivu izosuswa unaphakade. Lokhu kungafaka izinguquko ezilindile okwamanje ezingakalayishwa kuseva ye-Google Drayivu.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Sula yonke idatha?</string>
+    <string name="storage_management_drive_descriptive_text">Izinhlelo zokusebenza ezinikwe amandla zigcina amafayela kudivayisi yakho ukuze kuthuthukiswe ukusebenza kuphinde kunikwe amandla ukufinyelela okungaxhunyiwe ku-intanethi.</string>
+    <string name="storage_management_drive_get_storage_failure">Kube nephutha ekubaleni ukusetshenziswa kwesitoreji seDrayivu. Sicela uzame futhi emuva kwesikhathi.</string>
+    <string name="storage_management_drive_size_label">Isitoreji sasendaweni seDrayivu</string>
+    <string name="storage_management_wear_descriptive_text">Izinhlelo zokusebenza zisebenzisa isitoreji sedivayisi yakho ukwenza impinda yedatha kunto engagqokwa.</string>
+    <string name="storage_management_wear_manage_size_label">Phatha isitoreji esingagqokwa</string>
+    <string name="storage_management_wear_size_label">Isitoreji esingagqokwa</string>
+    <string name="storage_managment_all_storage_descriptive_text">Inani ledatha esetshenziswa amasevisi we-Google Play, kufaka phakathi injini yokusesha nenye idatha.</string>
+    <string name="storage_managment_clear_all_data">Sula yonke idatha</string>
+    <string name="storage_managment_computing_size">Iyakhompyutha...</string>
+    <string name="storage_managment_icing_size_label">Sesha idatha</string>
+    <string name="storage_managment_manage_icing_button">Phatha ukusesha idatha</string>
+    <string name="storage_managment_search_index_descriptive_text">Sisheshise usesho kudivayisi yakho ngokunikeza injini yosesho ukuze isetshenziswe izinhlelo zakho zokusebenza.</string>
+    <string name="storage_managment_title">Isitoreji samasevisi we-Google Play</string>
+    <string name="storage_managment_total_size_label">Inani lesitoreji</string>
+    <string name="suw_back_button_label">Emuva</string>
+    <string name="suw_more_button_label">Okuningi</string>
+    <string name="suw_next_button_label">Okulandelayo</string>
+    <string name="target_default_source_device_model">idivayisi endala</string>
+    <string name="target_device_not_supported_cant_continue_description">Kuzomele ukhethe enye indlela yokukopisha idatha</string>
+    <string name="target_device_not_supported_cant_continue_title">Enye ifoni ayisekelwa</string>
+    <string name="target_smart_device_timeout_add_account">ENGEZA I-AKHAWUNTI</string>
+    <string name="target_smart_device_timeout_description">Uma ungathanda, ungazama ukungeza i-akhawunti yakho ngesandla</string>
+    <string name="target_smart_device_timeout_dismiss">CASHISA</string>
+    <string name="target_smart_device_timeout_title">Unenkinga?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Amafoni axhumekile</string>
+    <string name="toast_reconnect_cable">Xhuma kabusha ikhebuli yakho</string>
+    <string name="transfer_finished_fragment_title">Ingeza ukuthintwa kokugcina...</string>
+    <string name="transfer_summary_copied">Idatha ikopishiwe</string>
+    <string name="transfer_summary_fragment_description">Uma ungakenzi njalo, nqamula ikhebuli</string>
+    <string name="transfer_summary_fragment_finish">QEDA</string>
+    <string name="transfer_summary_fragment_title">Ifoni yakho isicishe ilungile</string>
+    <string name="transfer_summary_icloud_photos_warning">Ezinye izithombe zakho azizange zikopishwe. <annotation link="transfer_summary_learn_more">Funda kabanzi</annotation></string>
+    <string name="transfer_summary_not_copied">Idatha ayikopishiwe</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Kukopishiwe</string>
+    <string name="transfer_summary_will_sync">Idatha izovumelanisa ngemuva kwesethaphu</string>
+    <string name="transferring_fragment_calculating_remaining_time">Ibala isikhathi esisele...</string>
+    <string name="transferring_fragment_header">Kuyakopishwa...</string>
+    <string name="transferring_fragment_remaining_time">%1$s okusele</string>
+    <string name="trust_instructions_description">Ukuze uqhubeke, hlola idivayisi yakho ye-iPhone® uphinde uvumele ukuxhumeka</string>
+    <string name="trust_instructions_trademark_disclaimer">I-iPhone, i-iPad, i-iOS, i-iMessage, i-iCloud, i-Safari ne-iTunes izimpawu zokuhweba ze-Apple Inc., ezibhaliswe e-U.S. nakwamanye amazwe.</string>
+</resources>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AccountsSwitcher.AccountDetailsStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textColor">@color/account_text_color</item>
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+    </style>
+    <style name="AccountsSwitcher.AccountTextStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textColor">@color/add_accounts_text_color</item>
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+    </style>
+    <style name="AccountsSwitcher.AvatarStyle" parent="@style/AccountsSwitcher">
+        <item name="android:layout_width">@dimen/selected_account_avatar_size</item>
+        <item name="android:layout_height">@dimen/selected_account_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/avatar_margin_top</item>
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="AccountsSwitcher.ManageAccountsTextStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textColor">@color/manage_accounts_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+    </style>
+    <style name="AccountsSwitcher.RecentsOneStyle" parent="@style/AccountsSwitcher">
+        <item name="android:layout_width">@dimen/recent_account_avatar_size</item>
+        <item name="android:layout_height">@dimen/recent_account_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/avatar_margin_top</item>
+        <item name="android:layout_marginStart">@dimen/recents_start_horiz_padding</item>
+        <item name="android:layout_marginEnd">@dimen/recents_end_horiz_padding</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="AccountsSwitcher.RecentsTwoStyle" parent="@style/AccountsSwitcher">
+        <item name="android:layout_width">@dimen/recent_account_avatar_size</item>
+        <item name="android:layout_height">@dimen/recent_account_avatar_size</item>
+        <item name="android:layout_marginTop">@dimen/avatar_margin_top</item>
+        <item name="android:layout_toStartOf">@id/avatar_recents_one</item>
+    </style>
+    <style name="AccountsSwitcher.SelectedAccountButtonStyle" parent="@style/AccountsSwitcher">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_width">@dimen/expander_icon_width</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="AccountsSwitcher.SelectedAccountStyle" parent="@style/AccountsSwitcher">
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+    </style>
+    <style name="AccountsSwitcher.SignInTextStyle" parent="@style/AccountsSwitcher">
+        <item name="android:layout_marginStart">@dimen/start_horiz_padding</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="AddPeopleTextBox">
+        <item name="android:textAppearance">@style/TextAppearancePrimary</item>
+        <item name="android:paddingRight">@dimen/m_grid_8x</item>
+        <item name="android:paddingBottom">@dimen/m_grid_1x</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/default_list_item_height</item>
+        <item name="android:hint">@string/add_collaborators_textbox_title</item>
+        <item name="android:completionThreshold">1</item>
+        <item name="android:popupBackground">@color/m_add_collaborator_background_alpha_hack</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:paddingEnd">@dimen/m_grid_8x</item>
+    </style>
+    <style name="ChipAutocompleteDividerStyle">
+        <item name="android:background">@color/autocomplete_divider_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:layout_marginStart">@dimen/chip_wrapper_start_padding</item>
+    </style>
+    <style name="ChipAutocompleteDividerStyle.PermissionItem" parent="@style/ChipAutocompleteDividerStyle">
+        <item name="android:background">@drawable/chip_autocomplete_divider_background</item>
+        <item name="android:layout_height">3.0dip</item>
+        <item name="android:layout_marginStart">0.0dip</item>
+    </style>
+    <style name="ChipAutocompleteWrapperStyle">
+        <item name="android:paddingTop">@dimen/chip_wrapper_top_padding</item>
+        <item name="android:paddingBottom">@dimen/chip_wrapper_bottom_padding</item>
+        <item name="android:paddingStart">@dimen/chip_wrapper_start_padding</item>
+        <item name="android:paddingEnd">@dimen/chip_wrapper_end_padding</item>
+    </style>
+    <style name="ChipDeleteIconStyle" parent="@style/ChipDeleteIconBaseStyle">
+        <item name="android:paddingStart">@dimen/chip_icon_padding</item>
+    </style>
+    <style name="ChipEndIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginStart">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipPermissionStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_permission_text</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/chips_permission_text</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipStartIconStyle" parent="@style/ChipIconBaseStyle">
+        <item name="android:layout_marginEnd">@dimen/chip_icon_margin_end</item>
+    </style>
+    <style name="ChipSubtitleStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/text1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ChipTitleStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/chips_dropdown_text</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/title</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="DocListEntryGroupColumnTitle">
+        <item name="android:enabled">false</item>
+        <item name="android:textAppearance">@style/TextAppearanceHeader</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/m_grid_1x</item>
+        <item name="android:paddingBottom">@dimen/m_grid_1x</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_height">@dimen/doclist_group_title_height</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:lines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textDirection">locale</item>
+    </style>
+    <style name="EntryIcon">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_1x</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:tint">@color/m_icon_primary_tint</item>
+        <item name="android:layout_marginEnd">@dimen/m_grid_1x</item>
+    </style>
+    <style name="EntryLabel">
+        <item name="android:textAppearance">@style/TextAppearanceSecondary</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_1x</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:layout_marginEnd">@dimen/m_grid_1x</item>
+    </style>
+    <style name="EntryLabelFrame">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginEnd">@dimen/m_grid_1x</item>
+    </style>
+    <style name="EntryProgress.List" parent="@style/EntryProgress">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginStart">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginEnd">@dimen/m_grid_1x</item>
+    </style>
+    <style name="GridButton" parent="@style/Button">
+        <item name="android:background">@drawable/active_state_selector_background</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/m_touch_target_size</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:tint">@color/m_icon_tertiary_tint</item>
+        <item name="android:lines">0</item>
+        <item name="android:paddingStart">@dimen/m_grid_button_start_padding_center</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+    <style name="GridFooter.PaddingStart" parent="@style/GridFooter">
+        <item name="android:paddingStart">@dimen/m_grid_footer_internal_padding</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+    <style name="GridText.Primary.PaddingStart" parent="@style/GridText.Primary">
+        <item name="android:paddingStart">@dimen/m_grid_footer_internal_padding</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+    <style name="GridTile">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/m_grid_tile_margin</item>
+        <item name="android:layout_marginTop">@dimen/m_grid_tile_margin</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_tile_margin</item>
+        <item name="android:layout_marginBottom">@dimen/m_grid_tile_margin</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:layout_marginStart">@dimen/m_grid_tile_margin</item>
+        <item name="android:layout_marginEnd">@dimen/m_grid_tile_margin</item>
+    </style>
+    <style name="ListEntryTitle.DocList" parent="@style/ListEntryTitle">
+        <item name="android:textSize">@dimen/m_entry_text_size_primary</item>
+        <item name="android:textColor">@color/doclist_primary_text</item>
+        <item name="android:layout_marginLeft">@dimen/m_grid_2x</item>
+        <item name="android:layout_marginTop">@dimen/m_grid_2x</item>
+        <item name="android:layout_marginStart">@dimen/m_grid_2x</item>
+    </style>
+    <style name="ListEntryTitle.DocList.Relative" parent="@style/ListEntryTitle.DocList">
+        <item name="android:layout_marginLeft">@dimen/m_grid_9x</item>
+        <item name="android:layout_marginStart">@dimen/m_grid_9x</item>
+    </style>
+    <style name="ListIcon.Left" parent="@style/ListIcon">
+        <item name="android:layout_marginLeft">@dimen/m_entry_margin</item>
+        <item name="android:layout_marginStart">@dimen/m_entry_margin</item>
+    </style>
+    <style name="RecipientEditTextViewBase" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/chip_height</item>
+        <item name="android:popupBackground">@android:color/white</item>
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="@style/Base.DialogWindowTitle.AppCompat">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.DialogTitle.Icon" parent="@android:style/Widget">
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="@style/Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="RtlUnderlay.Widget.AppCompat.ActionButton" parent="@android:style/Widget">
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
+    <style name="RtlUnderlay.Widget.AppCompat.ActionButton.Overflow" parent="@style/Base.Widget.AppCompat.ActionButton">
+        <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
+        <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+    <style name="SelectionPreviewButton">
+        <item name="android:background">@drawable/active_state_selector_background</item>
+        <item name="android:padding">@dimen/m_grid_1x</item>
+        <item name="android:focusable">true</item>
+        <item name="android:visibility">invisible</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/doc_grid_title_height</item>
+        <item name="android:src">@drawable/ic_preview_normal</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:contentDescription">@string/doclist_selected_show_preview</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="TextAppearanceHeader">
+        <item name="android:textSize">@dimen/m_entry_text_size_secondary</item>
+        <item name="android:textColor">@color/m_entry_text_secondary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Widget.Action" parent="@style/Widget">
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:paddingStart">6.0dip</item>
+        <item name="android:paddingEnd">6.0dip</item>
+    </style>
+    <style name="Widget.Container" parent="@style/Widget">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/widget_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">56.0dip</item>
+        <item name="android:layout_marginLeft">@dimen/widget_margin_left_right</item>
+        <item name="android:layout_marginRight">@dimen/widget_margin_left_right</item>
+        <item name="android:layout_marginStart">@dimen/widget_margin_left_right</item>
+        <item name="android:layout_marginEnd">@dimen/widget_margin_left_right</item>
+    </style>
+    <style name="Widget.Logo" parent="@style/Widget">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:paddingStart">8.0dip</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="Widget.Text" parent="@style/Widget">
+        <item name="android:textColor">@color/widget_text</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingStart">4.0dip</item>
+    </style>
+    <style name="Widget.Text.AppTitle" parent="@style/Widget.Text">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+</resources>

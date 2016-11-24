@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="assistant_settings_home_suggested_room_names">
+        <item>Grenier</item>
+        <item>Salle de bains</item>
+        <item>Arrière-cour</item>
+        <item>Sous-sol</item>
+        <item>Chambre</item>
+        <item>Terrasse</item>
+        <item>Salon</item>
+        <item>Salle à manger</item>
+        <item>Allée</item>
+        <item>Rez-de-chaussée</item>
+        <item>Entrée</item>
+        <item>Salle commune</item>
+        <item>"Cour d'entrée"</item>
+        <item>Garage</item>
+        <item>Dépendance</item>
+        <item>"Chambre d'amis"</item>
+        <item>Couloir</item>
+        <item>Cuisine</item>
+        <item>Salle de séjour</item>
+        <item>Chambre principale</item>
+        <item>Bureau</item>
+        <item>Extérieur</item>
+        <item>Patio</item>
+        <item>Remise</item>
+        <item>Étage</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1re manche</item>
+        <item>2e manche</item>
+        <item>3e manche</item>
+        <item>4e manche</item>
+        <item>5e manche</item>
+        <item>6e manche</item>
+        <item>7e manche</item>
+        <item>8e manche</item>
+        <item>9e manche</item>
+        <item>10e manche</item>
+        <item>11e manche</item>
+        <item>12e manche</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Ne pas répéter</item>
+        <item>Tous les jours</item>
+        <item>Toutes les semaines</item>
+        <item>Tous les mois</item>
+        <item>Tous les ans</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>"Aujourd'hui"</item>
+        <item>Demain</item>
+        <item>Périodiquement</item>
+        <item>Définir la date…</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Domicile</item>
+        <item>Lieu de travail</item>
+        <item>Définir le lieu…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Matin</item>
+        <item>Après-midi</item>
+        <item>Soirée</item>
+        <item>Nuit</item>
+        <item>Toute la journée</item>
+        <item>"Définir l'heure…"</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>V</item>
+        <item>D</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>C</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>J</item>
+        <item>U</item>
+        <item>V</item>
+        <item>O</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>"Cette connexion Internet n'est pas fiable à l'heure actuelle."</item>
+        <item>Cette connexion Internet est instable pour le moment.</item>
+        <item>"Cette connexion Internet est trop faible à l'heure actuelle."</item>
+    </string-array>
+    <string-array name="offline_options_none_telephony">
+        <item>Play some music</item>
+        <item>Open Gmail</item>
+    </string-array>
+    <string-array name="offline_options_none_telephony_m_or_later">
+        <item>Turn on Wi-Fi</item>
+        <item>Turn on the flashlight</item>
+        <item>Turn off airplane mode</item>
+        <item>Turn on Bluetooth</item>
+    </string-array>
+    <string-array name="offline_options_none_telephony_not_launched">
+        <item>Turn up the volume</item>
+        <item>Dim the screen</item>
+    </string-array>
+    <string-array name="offline_options_telephony">
+        <item>Make a call</item>
+        <item>Send a text</item>
+        <item>Send an email</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>2e moitié, 1re manche</item>
+        <item>2e moitié, 2e manche</item>
+        <item>2e moitié, 3e manche</item>
+        <item>2e moitié, 4e manche</item>
+        <item>2e moitié, 5e manche</item>
+        <item>2e moitié, 6e manche</item>
+        <item>2e moitié, 7e manche</item>
+        <item>2e moitié, 8e manche</item>
+        <item>2e moitié, 9e manche</item>
+        <item>2e moitié, 10e manche</item>
+        <item>2e moitié, 11e manche</item>
+        <item>2e moitié, 12e manche</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1re moitié, 1re manche</item>
+        <item>1re moitié, 2e manche</item>
+        <item>1re moitié, 3e manche</item>
+        <item>1re moitié, 4e manche</item>
+        <item>1re moitié, 5e manche</item>
+        <item>1re moitié, 6e manche</item>
+        <item>1re moitié, 7e manche</item>
+        <item>1re moitié, 8e manche</item>
+        <item>1re moitié, 9e manche</item>
+        <item>1re moitié, 10e manche</item>
+        <item>1re moitié, 11e manche</item>
+        <item>1re moitié, 12e manche</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>TOUS LES JOURS</item>
+        <item>TOUTES LES SEMAINES</item>
+        <item>TOUS LES MOIS</item>
+        <item>TOUS LES ANS</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>tous les premiers vendredis</item>
+        <item>tous les deuxièmes vendredis</item>
+        <item>tous les troisièmes vendredis</item>
+        <item>tous les quatrièmes vendredis</item>
+        <item>tous les derniers vendredis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>tous les premiers lundis</item>
+        <item>tous les deuxièmes lundis</item>
+        <item>tous les troisièmes lundis</item>
+        <item>tous les quatrièmes lundis</item>
+        <item>tous les derniers lundis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>tous les premiers samedis</item>
+        <item>tous les deuxièmes samedis</item>
+        <item>tous les troisièmes samedis</item>
+        <item>tous les quatrièmes samedis</item>
+        <item>tous les derniers samedis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>tous les premiers dimanches</item>
+        <item>tous les deuxièmes dimanches</item>
+        <item>tous les troisièmes dimanches</item>
+        <item>tous les quatrièmes dimanches</item>
+        <item>tous les derniers dimanches</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>tous les premiers jeudis</item>
+        <item>tous les deuxièmes jeudis</item>
+        <item>tous les troisièmes jeudis</item>
+        <item>tous les quatrièmes jeudis</item>
+        <item>tous les derniers jeudis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>tous les premiers mardis</item>
+        <item>tous les deuxièmes mardis</item>
+        <item>tous les troisièmes mardis</item>
+        <item>tous les quatrièmes mardis</item>
+        <item>tous les derniers mardis</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>tous les premiers mercredis</item>
+        <item>tous les deuxièmes mercredis</item>
+        <item>tous les troisièmes mercredis</item>
+        <item>tous les quatrièmes mercredis</item>
+        <item>tous les derniers mercredis</item>
+    </string-array>
+</resources>

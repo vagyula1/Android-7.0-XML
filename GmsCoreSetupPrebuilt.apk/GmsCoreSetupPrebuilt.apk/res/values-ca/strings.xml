@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_search_hint">Cerca...</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="app_picker_fetch_failure">"No s'ha trobat cap aplicació"</string>
+    <string name="app_picker_no_apps">"No s'ha seleccionat cap aplicació"</string>
+    <string name="auto_restore_summary">Quan tornis a instal·lar una aplicació, restaura la configuració i les dades incloses a la còpia de seguretat</string>
+    <string name="auto_restore_title">Restauració automàtica</string>
+    <string name="backup_configure_account_default_summary">Ara no hi ha cap compte que emmagatzemi les dades amb còpia de seguretat</string>
+    <string name="backup_configure_account_title">Compte còpia de seguretat</string>
+    <string name="backup_data_summary">"Crea una còpia de seguretat a Google Drive de les dades de les aplicacions, de les contrasenyes de les xarxes Wi-Fi i d'altres opcions de configuració"</string>
+    <string name="backup_data_summary_full">"Crea còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi o l'historial de trucades) i de les aplicacions (com ara les opcions de configuració i els fitxers que desen) de manera remota.
+
+Quan activis les còpies de seguretat automàtiques, les dades del dispositiu i de les aplicacions es desaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos."</string>
+    <string name="backup_data_title">Crea una còpia de seguretat a Google Drive</string>
+    <string name="backup_erase_dialog_message">"Vols deixar de crear còpies de seguretat de les contrasenyes de les xarxes Wi-Fi, de les adreces d'interès, d'altres opcions de configuració i de les dades de les aplicacions i, a més, esborrar totes les còpies de Google Drive?"</string>
+    <string name="backup_erase_dialog_message_full">"Vols deixar de crear còpies de seguretat de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi i l'historial de trucades) i de les aplicacions (com ara les opcions de configuració i els fitxers que desen) i, a més, esborrar totes les còpies de Google Drive?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">"S'ha produït un error en obrir la configuració de Google Fotos"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Si actives la còpia de seguretat automàtica:
+
+ ● La configuració del dispositiu i les dades de les aplicacions es desen periòdicament en una carpeta privada a Google Drive. Les dades de les aplicacions poden ser qualsevol mena de dades que una aplicació hagi desat (en funció de la configuració del desenvolupador), incloses dades potencialment confidencials, com ara contactes, missatges i fotos.
+
+ No es faran còpies de seguretat dels fitxers grans o d'aquells que els desenvolupadors hagin decidit excloure del servei.
+
+ ● Les fotos i els enregistraments de vídeo d'aquest dispositiu se sincronitzen amb la teva biblioteca de Google Fotos perquè els puguis cercar, editar, suprimir i compartir des de qualsevol dispositiu.
+
+ De manera predeterminada, es pengen les fotos i els vídeos en resolució completa, però no ocupen espai de la quota d'emmagatzematge de Drive.
+
+ ● Els contactes i les dades associades d'aquest dispositiu se sincronitzen amb Contactes de Google. Pots utilitzar l'aplicació Contactes de Google per cercar, editar, suprimir i compartir contactes des de qualsevol dispositiu.
+
+ ● Les entrades del calendari i les dades associades d'aquest dispositiu se sincronitzen amb Google Calendar. Pots utilitzar l'aplicació Google Calendar per cercar, editar, suprimir i compartir contactes des de qualsevol dispositiu.
+
+ Les dades de la còpia de seguretat no ocupen espai de la quota d'emmagatzematge de Drive."</string>
+    <string name="backup_opt_in_backup_description">La còpia de seguretat automàtica et permet restaurar elements al telèfon o canviar de dispositiu fàcilment en qualsevol moment. <annotation link="backup_opt_in_learn_more">Més informació</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">El calendari, els contactes, les fotos i els vídeos se sincronitzen amb el teu compte de Google i es poden utilitzar en altres serveis.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Aquesta acció farà que es desactivi la còpia de seguretat dels elements següents:
+
+Aplicacions i dades d'aplicacions
+Historial de trucades
+Configuració del dispositiu
+Fotos i vídeos
+SMS
+
+El calendari i els contactes es continuaran sincronitzant amb el teu compte de Google. Quan la configuració hagi finalitzat, vés a "<annotation link="backup_opt_in_settings_instructions">Configuració > Comptes > Google</annotation> per canviar la configuració de sincronització.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vols desactivar la còpia de seguretat?</string>
+    <string name="backup_opt_in_backup_list">"Aplicacions i dades d'aplicacions
+Calendari
+Historial de trucades
+Contactes
+Configuració del dispositiu (incloses les contrasenyes de les xarxes Wi-Fi)
+Fotos i vídeos
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">"En la còpia seguretat s'inclouen aquests elements:"</string>
+    <string name="backup_opt_in_backup_title">Crea una còpia de seguretat a Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Desactiva la còpia de seguretat</string>
+    <string name="backup_photos_update">Actualitza Google Fotos</string>
+    <string name="backup_settings_activity_title">Còpia de seguretat i restauració</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">No copiïs</string>
+    <string name="close_button_label">Tanca</string>
+    <string name="cloud_restore_app_picker_button">Restaura</string>
+    <string name="cloud_restore_app_picker_description_no_apps">La còpia de seguretat no conté cap aplicació</string>
+    <string name="cloud_restore_app_picker_title">Tria les aplicacions que vulguis restaurar</string>
+    <string name="common_accessibility_audience_view_editable">Edita el públic</string>
+    <string name="common_add_account_label">Afegeix un compte</string>
+    <string name="common_ads_settings_title">Anuncis</string>
+    <string name="common_app_name">Serveis de Google Play</string>
+    <string name="common_audience_edit_button_label">Edita</string>
+    <string name="common_cancel">Cancel·la</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts no es pot iniciar.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts no es pot iniciar (error de permís).</string>
+    <string name="common_car_permission_desc">Accés al servei de cotxes</string>
+    <string name="common_car_permission_label">Servei de cotxes</string>
+    <string name="common_chips_label_empty_circles">Sense cercles</string>
+    <string name="common_chips_label_extended_circles">Cercles ampliats</string>
+    <string name="common_chips_label_only_you">Només tu</string>
+    <string name="common_chips_label_public">Públic</string>
+    <string name="common_chips_label_your_circles">Els teus cercles</string>
+    <string name="common_choose_account_label">Tria un compte</string>
+    <string name="common_clear_app_data_menu_item">"Esborra dades de l'aplicació"</string>
+    <string name="common_connected_apps_settings_title">Aplicacions connectades</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Play Jocs</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives els Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa els Serveis de Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si el dispositiu no té instal·lats els serveis de Google Play."</string>
+    <string name="common_google_play_services_install_title">Obtén els Serveis de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error dels Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no es pot executar sense els serveis de Google Play, però no són compatibles amb el teu dispositiu.</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes els Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els Serveis de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense els Serveis de Google Play, que s'estan actualitzant en aquest moment."</string>
+    <string name="common_google_play_services_updating_title">Actualitzant els Serveis de Google Play</string>
+    <string name="common_google_play_services_wear_update_text">"Cal una nova versió dels Serveis de Google Play. S'actualitzaran automàticament aviat."</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">"Els Serveis de Google Play s'han instal·lat amb una arquitectura incorrecta."</string>
+    <string name="common_google_play_services_wrong_architecture_text">"Els Serveis de Google Play s'han instal·lat amb una arquitectura (%1$s) diferent de l'arquitectura del dispositiu (%2$s)."</string>
+    <string name="common_google_play_services_wrong_architecture_title">Arquitectura incorrecta</string>
+    <string name="common_google_settings">Configuració Google</string>
+    <string name="common_google_settings_account">Compte</string>
+    <string name="common_google_settings_credentials_title">Smart Lock per a contrasenyes</string>
+    <string name="common_google_settings_data_management_title">Gestió de dades</string>
+    <string name="common_google_settings_drive_network_usage">"Actualització dels fitxers d'aplicacions compatibles amb Drive"</string>
+    <string name="common_google_settings_services">Serveis</string>
+    <string name="common_list_apps_menu_help">Ajuda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajuda i suggeriments</string>
+    <string name="common_loading">"S'està carregant…"</string>
+    <string name="common_location_settings_title">Ubicació</string>
+    <string name="common_maps_settings_title">Maps i Latitude</string>
+    <string name="common_mdm_feature_name">Gestor de dispositius Android</string>
+    <string name="common_missing_url_viewer">Per mostrar un URL extern, cal un visualitzador.</string>
+    <string name="common_network_load_failed">"No disponible perquè el dispositiu no s'ha pogut connectar a una xarxa"</string>
+    <string name="common_networking_settings_title">Xarxes</string>
+    <string name="common_no_browser_for_restricted_url">"Accés restringit. No s'ha trobat cap navegador."</string>
+    <string name="common_no_network">No disponible perquè el dispositiu no té connexió</string>
+    <string name="common_off">Desactivat</string>
+    <string name="common_ok">"D'acord"</string>
+    <string name="common_on">Activat</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_open_source_licenses">Llicències de codi obert</string>
+    <string name="common_people_settings_title">Contactes</string>
+    <string name="common_permissions_enable_in_settings">Activa a Configuració</string>
+    <string name="common_permissions_missing_end">Per continuar, obre Configuració i després Permisos, i permet els elements de la llista.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Per activar-los, vés a
+Configuració >
+Permisos >
+Serveis de Google Play"</string>
+    <string name="common_permissions_missing_start">Aquesta aplicació no funcionarà si no permets que els Serveis de Google Play accedeixin a:</string>
+    <string name="common_permissions_open_settings">Obre Configuració</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Cerca i Now</string>
+    <string name="common_search_settings_title">Cerca</string>
+    <string name="common_security_settings_title">Seguretat</string>
+    <string name="common_set_up_nearby_device_settings_title">Configura un dispositiu proper</string>
+    <string name="common_settings_drive_network_usage_all">Per Wi-Fi o dades mòbils</string>
+    <string name="common_settings_drive_network_usage_wifi">Només per Wi-Fi</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
+    <string name="common_storage_settings_title">Emmagatzematge dels Serveis de Google Play</string>
+    <string name="common_switch_bar_off">Desactivada</string>
+    <string name="common_switch_bar_on">Activada</string>
+    <string name="common_ui_confirm_deleting_button">Suprimeix</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ho entenc i ho vull suprimir</string>
+    <string name="common_url_load_unsuccessful_message">El teu dispositiu Android no està connectat a cap servei de dades. Per mostrar aquesta informació ara, visita %s amb un navegador web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"El teu dispositiu Android no està connectat a cap xarxa Wi-Fi. Vés a %s des d'un navegador web per veure aquesta informació ara."</string>
+    <string name="common_url_login_notice">Inicia la sessió com a %1$s</string>
+    <string name="common_usage_and_diagnostics">Ús i diagnòstic</string>
+    <string name="confirm_copy_button_text">Copia</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d contactes a la SIM, %2$d contactes locals, Contactes de Google</string>
+    <string name="contacts_number_local_with_google">%1$d contactes locals, Contactes de Google</string>
+    <string name="contacts_number_sim_with_google">%1$d contactes a la SIM, Contactes de Google</string>
+    <string name="copy_confirmation_description">Es copiaran aplicacions i dades, com ara el teu compte de Google, al telèfon nou</string>
+    <string name="copy_confirmation_title">Vols copiar-ho al telèfon nou?</string>
+    <string name="d2d_app_picker_description_no_apps">No hem trobat cap aplicació</string>
+    <string name="d2d_app_picker_title">Aplicacions</string>
+    <string name="d2d_migration_canceled_on_source">"S'ha cancel·lat la còpia"</string>
+    <string name="data_copied_fragment_description">"Les teves dades s'han copiat al telèfon nou. Ja pots desconnectar el cable."</string>
+    <string name="data_copied_fragment_description_cancel">"Has decidit aturar la còpia, de manera que només s'han copiat algunes dades al telèfon nou."</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"Has decidit aturar la còpia, de manera que no s'ha copiat res al telèfon nou."</string>
+    <string name="data_copied_fragment_description_error">"S'ha produït un error i no hem pogut copiar-ho tot."</string>
+    <string name="data_copied_fragment_description_error_no_data">"S'ha produït un error i no hem pogut copiar les teves dades."</string>
+    <string name="data_copied_fragment_no_data_title">"No s'ha pogut copiar"</string>
+    <string name="data_copied_fragment_some_data_title">"S'han copiat algunes dades"</string>
+    <string name="data_copied_fragment_title">Dades copiades</string>
+    <string name="device_backup_title">Còpia de seguretat del dispositiu</string>
+    <string name="device_not_supported_fragment_new_device">"Has connectat un telèfon nou. Per continuar, torna a connectar l'anterior."</string>
+    <string name="device_not_supported_fragment_new_device_title">Torna a connectar el telèfon anterior</string>
+    <string name="device_not_supported_fragment_no_data_cable">Aquest cable no pot transferir dades. Connecta un cable diferent i torna-ho a provar.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prova un altre cable</string>
+    <string name="device_not_supported_fragment_retry_description">"Comprova que el telèfon antic estigui desbloquejat i, a continuació, desconnecta el cable i torna'l a connectar"</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">"S'ha produït un error"</string>
+    <string name="device_picker_description">"Les còpies de seguretat s'emmagatzemen a Google Drive"</string>
+    <string name="device_picker_item">Còpia de seguretat de: %1$s</string>
+    <string name="device_picker_last_used">Últim ús: ^1</string>
+    <string name="device_picker_skip">No restauris</string>
+    <string name="device_picker_title">Tria la còpia de seguretat que vulguis restaurar</string>
+    <string name="disabled_by_admin_summary_text">"Controlada per l'administrador"</string>
+    <string name="download_msg_error_invalid">"La baixada no s'ha configurat correctament."</string>
+    <string name="download_msg_in_progress">La baixada està en curs.</string>
+    <string name="download_msg_not_allowed_space">No hi ha prou espai per dur a terme la baixada.</string>
+    <string name="download_msg_pending">La baixada està pendent.</string>
+    <string name="download_notification_description">%1$s ho ha sol·licitat.</string>
+    <string name="download_notification_title">"S'estan obtenint més dades"</string>
+    <string name="drive_backup_account">Compte per a la còpia de seguretat</string>
+    <string name="drive_backup_app_includes_data">Inclou dades de les aplicacions</string>
+    <string name="drive_backup_apps_in_backup">Aplicacions amb còpia de seguretat</string>
+    <string name="drive_backup_apps_last_backup">Última còpia de seguretat</string>
+    <string name="drive_backup_apps_loading">"S'està carregant…"</string>
+    <string name="drive_backup_apps_screen_title">Aplicacions</string>
+    <string name="drive_backup_content_apps_title">Aplicacions</string>
+    <string name="drive_backup_content_calendar_title">Calendar</string>
+    <string name="drive_backup_content_callhistory_title">Historial de trucades</string>
+    <string name="drive_backup_content_contacts_title">Contactes</string>
+    <string name="drive_backup_content_devicesettings_title">Configuració del dispositiu</string>
+    <string name="drive_backup_content_header">Contingut</string>
+    <string name="drive_backup_content_photos_dialog_message">Vols canviar també el compte de còpia de seguretat de Fotos per %s?</string>
+    <string name="drive_backup_content_photos_dialog_no">No</string>
+    <string name="drive_backup_content_photos_dialog_title">Vols canviar el compte de còpia de seguretat de Fotos?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Sí</string>
+    <string name="drive_backup_content_photos_title">Fotos i vídeos</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">"D'acord"</string>
+    <string name="drive_backup_content_status_error">"Error en obtenir la data de l'última còpia de seguretat"</string>
+    <string name="drive_backup_content_status_lastsaved">Última còpia de seguretat: %1$td %1$tb de %1$tY a les %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">"No se n'ha fet cap còpia de seguretat"</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Configuració del compte</string>
+    <string name="drive_backup_content_status_updating">"S'està comprovant l'estat…"</string>
+    <string name="drive_backup_settings_title">Còpia de seguretat</string>
+    <string name="drive_backup_state">Crea una còpia de seguretat a Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"S'aturaran les còpies de seguretat futures de %s, inclòs Google Fotos.
+
+Podràs continuar accedint a les fotos, els vídeos, els contactes i els esdeveniments del calendari mitjançant els productes de Google corresponents.
+
+La resta de dades se suprimiran."</string>
+    <string name="drive_backup_state_dialog_okaction">Desactiva</string>
+    <string name="drive_backup_state_dialog_title">Desactiva i suprimeix la còpia de seguretat</string>
+    <string name="durationDayHour">%1$d dia %2$d h</string>
+    <string name="durationDayHours">%1$d dia %2$d h</string>
+    <string name="durationDays">%1$d dies</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d hores</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d minuts</string>
+    <string name="durationSecond">%1$d segon</string>
+    <string name="durationSeconds">%1$d segons</string>
+    <string name="encryption_warning_fragment_description">"El teu dispositiu iPhone® té activada l'encriptació de les còpies de seguretat, així que només es poden copiar fotos, vídeos i música.
+
+Per copiar més dades, connecta el dispositiu iPhone® a l'ordinador, obre iTunes®, desactiva l'encriptació de les còpies de seguretat i prova de tornar a fer la còpia.
+
+Per obtenir més ajuda, visita "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Aquesta és la manera més ràpida de transferir la majoria de dades.
+
+Connecta al telèfon nou l'adaptador que trobaràs a la capsa. A continuació, connecta els dos telèfons amb un cable i desbloqueja el telèfon antic."</string>
+    <string name="fragment_waiting_title">Un moment…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Contactes de Google se sincronitzarà</string>
+    <string name="google_contacts_static_text_off">Contactes de Google se sincronitzarà de totes maneres</string>
+    <string name="header_set_backup_account">Compte de còpia de seguretat</string>
+    <string name="i_message_dialog_message">"Per continuar rebent missatges SMS d'usuaris de dispositius iPhone®, has de desactivar iMessage®.
+
+Vés a "<b>g.co/iMessageHelp</b> per consultar les instruccions.</string>
+    <string name="instructions_fragment_title">"Continua a l'altre telèfon"</string>
+    <string name="ios_connected_fragment_description">"Per continuar, inicia la sessió amb el compte de Google que utilitzes al teu dispositiu iPhone®.
+
+Per augmentar la velocitat de transferència, et recomanem que no utilitzis el dispositiu iPhone® durant la configuració."</string>
+    <string name="ios_message_attachment_placeholder">[Fitxer adjunt desat a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]</string>
+    <string name="ios_message_attachments_placeholder">[Fitxers adjunts desats a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]</string>
+    <string name="ios_migration_default_calendar_title">Calendari</string>
+    <string name="ios_photos_dialog_message">"Les fotos emmagatzemades a iCloud® no es poden copiar.
+
+Per transferir-les a Pixel, instal·la l'aplicació Google Fotos al teu dispositiu iPhone® i activa l'opció Crea una còpia de seguretat i sincronitza. A la pàgina "<b>g.co/datatransferhelp</b> hi trobaràs les instruccions per fer-ho.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Afegeix un compte</string>
+    <string name="lockscreen_smartdevice_action_next">Següent</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Desbloqueja el telèfon per continuar amb la configuració</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Per motius de seguretat, has de confirmar el bloqueig de pantalla per continuar amb la configuració</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Confirma el bloqueig de pantalla</string>
+    <string name="manage_data_label">Gestiona la còpia de seguretat de les dades</string>
+    <string name="master_clear_title">Restableix les dades de fàbrica</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Has de definir el compte de seguretat</string>
+    <string name="notification_content_title_set_backup_account">Crea un compte de seguretat</string>
+    <string name="notification_ticker_set_backup_account">Cal un compte de seguretat</string>
+    <string name="permgrouplab_calendar">Calendari</string>
+    <string name="permgrouplab_camera">Càmera</string>
+    <string name="permgrouplab_contacts">Contactes</string>
+    <string name="permgrouplab_location">Ubicació</string>
+    <string name="permgrouplab_microphone">Micròfon</string>
+    <string name="permgrouplab_phone">Telèfon</string>
+    <string name="permgrouplab_sensors">Sensors corporals</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Emmagatzematge</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ara no hi ha cap compte que emmagatzemi les fotos amb còpia de seguretat</string>
+    <string name="photos_backup_title">Còpia de seguretat de les fotos</string>
+    <string name="photos_filtering_option_all">Tot</string>
+    <string name="photos_filtering_option_none">Cap</string>
+    <string name="restore_choice_data_disclaimer">"Algunes dades de l'altre telèfon no es poden copiar al teu ^1. "<annotation link="restore_choice_data_disclaimer_learn_more">Més informació</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Els contactes copiats es desaran al teu compte de Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Els contactes i els calendaris copiats es desaran al teu compte de Google.</string>
+    <string name="restore_choice_learn_more_android">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● baixades (com ara fitxers PDF)
+
+ ● fotos, vídeos i música emmagatzemats en carpetes ocultes
+
+ ● fotos, vídeos i música rebuts a través d'un missatge de text
+
+ ● aplicacions que no formen part de Google Play Store
+
+ ● dades d'aplicacions (si l'aplicació no fa servir Android Backup)
+
+ ● determinades opcions de configuració del dispositiu
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google
+
+ ● sons de trucada
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, vés a g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● aplicacions i dades d'aplicacions
+
+ ● fotos que no tenen el fitxer original emmagatzemat al telèfon (per exemple, si l'opció Optimitza l'emmagatzematge està activada, les fotos originals es desen a iCloud®)
+
+ ● fitxers i documents emmagatzemats a iCloud®
+
+ ● configuració del dispositiu (com ara contrasenyes Wi-Fi i fons de pantalla)
+
+ ● música protegida amb gestió de drets digitals (DRM, Digital Rights Management), com ara la música d'iTunes® comprada abans del mes d'abril de 2009 o la música baixada per escoltar-la sense connexió en una aplicació de reproducció de música
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google o a iCloud®
+
+ ● adreces d'interès de Safari®
+
+ Els fitxers adjunts d'iMessage® estaran disponibles a Google Fotos > Carpetes del dispositiu > Fitxers adjunts dels missatges.
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, vés a g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">No hi ha prou espai</string>
+    <string name="restore_choice_total_text">"de l'espai total disponible, %1$s / Durada de la transferència: %2$s"</string>
+    <string name="restore_item_appdata">"Dades d'aplicacions"</string>
+    <string name="restore_item_calendar">Calendari</string>
+    <string name="restore_item_calendar_ical_description">Calendari iOS®, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar se sincronitzarà de totes maneres</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar se sincronitzarà</string>
+    <string name="restore_item_call_logs">Historial de trucades</string>
+    <string name="restore_item_contacts">Contactes</string>
+    <string name="restore_item_device_settings_description">Contrasenyes Wi-Fi i més</string>
+    <string name="restore_item_downloads">Baixades</string>
+    <string name="restore_item_email">Correu electrònic</string>
+    <string name="restore_item_email_description">Gmail se sincronitzarà</string>
+    <string name="restore_item_message_attachments">Fitxers adjunts dels missatges</string>
+    <string name="restore_item_messages">Missatges</string>
+    <string name="restore_item_music">Música</string>
+    <string name="restore_item_photos">Fotos i vídeos</string>
+    <string name="restore_item_settings">Configuració del dispositiu</string>
+    <string name="restore_item_sms">Missatges SMS</string>
+    <string name="restore_item_will_be_synced_text">Se sincronitzarà amb el teu telèfon</string>
+    <string name="small_time_duration">"Menys d'un minut"</string>
+    <string name="source_connected_description">"S'està preparant…"</string>
+    <string name="source_connected_title">"S'ha connectat al dispositiu %1$s"</string>
+    <string name="source_copying_description">"Les dades que has triat s'estan copiant al telèfon nou"</string>
+    <string name="source_copying_title">"S'està copiant…"</string>
+    <string name="source_default_target_device_name">dispositiu nou</string>
+    <string name="source_notification_device_disconnected">Torna a connectar el cable</string>
+    <string name="source_notification_text">Transferència de telèfon a telèfon en curs</string>
+    <string name="source_notification_title">Transferència de dades</string>
+    <string name="source_success_description">Finalitza la configuració al dispositiu %1$s.</string>
+    <string name="source_success_screen_title">Fet!</string>
+    <string name="source_unplugged_description">Torna a connectar el dispositiu %1$s</string>
+    <string name="source_unplugged_title">"El cable s'ha desconnectat"</string>
+    <string name="source_waiting_title">Continua amb la configuració al dispositiu %1$s</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="stop_copying_dialog_continue_button">Ignora</string>
+    <string name="stop_copying_dialog_message_before_transfer">"Les dades no s'han copiat al telèfon nou"</string>
+    <string name="stop_copying_dialog_message_during_transfer">"Algunes dades no s'han copiat al telèfon nou"</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">No copiïs les dades</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Atura</string>
+    <string name="stop_copying_dialog_title_before_transfer">No vols copiar les dades?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vols aturar la còpia?</string>
+    <string name="storage_management_drive_clear_failure">"S'ha produït un error en esborrar les dades de Drive. Torna-ho a provar més tard."</string>
+    <string name="storage_management_drive_clear_label">Esborra</string>
+    <string name="storage_management_drive_clear_success">"Les dades de Drive s'han esborrat."</string>
+    <string name="storage_management_drive_clearing">"S'estan esborrant…"</string>
+    <string name="storage_management_drive_confirm_clear_data_message">"Totes les dades locals de Drive de les aplicacions compatibles amb Drive se suprimiran de manera permanent. Això pot incloure canvis pendents que encara no s'hagin penjat al servidor de Google Drive."</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Vols esborrar totes les dades?</string>
+    <string name="storage_management_drive_descriptive_text">"Les aplicacions compatibles amb Drive emmagatzemen fitxers al dispositiu per millorar-ne el rendiment i permetre l'accés fora de línia."</string>
+    <string name="storage_management_drive_get_storage_failure">"S'ha produït un error en calcular l'ús d'emmagatzematge de Drive. Torna-ho a provar més tard."</string>
+    <string name="storage_management_drive_size_label">Emmagatzematge local de Drive</string>
+    <string name="storage_management_wear_descriptive_text">"Les aplicacions fan servir l'emmagatzematge del dispositiu per replicar les dades en un complement connectat."</string>
+    <string name="storage_management_wear_manage_size_label">"Gestiona l'emmagatzematge dels complements connectats"</string>
+    <string name="storage_management_wear_size_label">Emmagatzematge de complements connectats</string>
+    <string name="storage_managment_all_storage_descriptive_text">Les dades totals que utilitzen els Serveis de Google Play, incloses les dades del motor de cerca i altres dades</string>
+    <string name="storage_managment_clear_all_data">Esborrar totes les dades</string>
+    <string name="storage_managment_computing_size">"S'està calculant..."</string>
+    <string name="storage_managment_icing_size_label">Dades de cerca</string>
+    <string name="storage_managment_manage_icing_button">Gestiona les dades de cerca</string>
+    <string name="storage_managment_search_index_descriptive_text">Accelerem la cerca al dispositiu proporcionant un motor de cerca que poden fer servir les teves aplicacions.</string>
+    <string name="storage_managment_title">Emmagatzematge de Serveis de Google Play</string>
+    <string name="storage_managment_total_size_label">Emmagatzematge total</string>
+    <string name="suw_back_button_label">Enrere</string>
+    <string name="suw_more_button_label">Més</string>
+    <string name="suw_next_button_label">Següent</string>
+    <string name="target_default_source_device_model">dispositiu antic</string>
+    <string name="target_device_not_supported_cant_continue_description">Hauràs de triar una alta manera de copiar les dades</string>
+    <string name="target_device_not_supported_cant_continue_title">"L'altre telèfon no és compatible"</string>
+    <string name="target_smart_device_timeout_add_account">AFEGEIX UN COMPTE</string>
+    <string name="target_smart_device_timeout_description">"Pots provar d'afegir el compte manualment"</string>
+    <string name="target_smart_device_timeout_dismiss">DESCARTA</string>
+    <string name="target_smart_device_timeout_title">Tens problemes?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Els telèfons estan connectats</string>
+    <string name="toast_reconnect_cable">Torna a connectar el cable</string>
+    <string name="transfer_finished_fragment_title">Estem retocant els últims detalls…</string>
+    <string name="transfer_summary_copied">Dades copiades</string>
+    <string name="transfer_summary_fragment_description">Si encara no ho has fet, desconnecta el cable</string>
+    <string name="transfer_summary_fragment_finish">FINALITZA</string>
+    <string name="transfer_summary_fragment_title">El telèfon està gairebé a punt</string>
+    <string name="transfer_summary_icloud_photos_warning">"Algunes de les teves fotos no s'han copiat. "<annotation link="transfer_summary_learn_more">Més informació</annotation></string>
+    <string name="transfer_summary_not_copied">Dades no copiades</string>
+    <string name="transfer_summary_partial">"S'han copiat %1$s elements de %2$s"</string>
+    <string name="transfer_summary_will_sync">Les dades se sincronitzaran després de la configuració</string>
+    <string name="transferring_fragment_calculating_remaining_time">"S'està calculant quant falta…"</string>
+    <string name="transferring_fragment_header">"S'està copiant…"</string>
+    <string name="transferring_fragment_remaining_time">Temps restant: %1$s</string>
+    <string name="trust_instructions_description">Per continuar, comprova el dispositiu iPhone® i aprova la connexió</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari i iTunes són marques comercials d'Apple Inc., registrades als Estats Units i en altres països."</string>
+</resources>

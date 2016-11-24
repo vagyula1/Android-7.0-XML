@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlayOnboardV2TutorialPageBody" parent="@style/PlayOnboardV2TutorialPageBodyParent" />
+    <style name="PlayOnboardV2TutorialPageText" parent="@style/PlayOnboardV2TutorialPageTextParent">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="PlayOnboardV2TutorialPageTitle" parent="@style/PlayOnboardV2TutorialPageTitleParent" />
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+</resources>

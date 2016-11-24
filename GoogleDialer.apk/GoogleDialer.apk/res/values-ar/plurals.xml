@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d من الرسائل الصوتية</item>
+        <item quantity="zero">ليست هناك أية رسائل صوتية جديدة (%d)</item>
+        <item quantity="one">رسالة صوتية جديدة (%d)</item>
+        <item quantity="two">رسالتان صوتيتان جديدتان (%d)</item>
+        <item quantity="few">%d رسائل صوتية</item>
+        <item quantity="many">%d رسالة صوتية</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d من رسائل البريد الصوتي</item>
+        <item quantity="zero">لا تتوفر رسائل بريد صوتي (%1$d)</item>
+        <item quantity="one">رسالة بريد صوتي</item>
+        <item quantity="two">رسالتا بريد صوتي (%1$d)</item>
+        <item quantity="few">%1$d رسائل بريد صوتي</item>
+        <item quantity="many">%1$d رسالة بريد صوتي</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d من جهات الاتصال موجودة</item>
+        <item quantity="zero">%d - لا توجد أية جهة اتصال</item>
+        <item quantity="one">توجد جهة اتصال واحدة</item>
+        <item quantity="two">%d جهتا اتصال موجودتان</item>
+        <item quantity="few">%d جهات اتصال موجودة</item>
+        <item quantity="many">%d جهة اتصال موجودة</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d من العناصر غير المقروء.</item>
+        <item quantity="zero">%1$s. %2$d عنصر غير مقروء.</item>
+        <item quantity="one">%1$s. %2$d عنصر غير مقروء.</item>
+        <item quantity="two">%1$s. عنصران (%2$d) غير مقروءين.</item>
+        <item quantity="few">%1$s. %2$d عناصر غير مقروءة.</item>
+        <item quantity="many">%1$s. %2$d عنصر غير مقروء.</item>
+    </plurals>
+</resources>

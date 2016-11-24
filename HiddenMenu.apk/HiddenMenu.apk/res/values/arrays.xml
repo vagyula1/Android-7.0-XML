@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="view_edit">
+        <item>View</item>
+        <item>Edit</item>
+    </string-array>
+    <string-array name="enable_disable">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="disable_enable">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="onoff_arr">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="offon_arr">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="two_item_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="two_item_value_inverse">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="three_item_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="four_item_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="view_clear">
+        <item>View</item>
+        <item>Clear</item>
+    </string-array>
+    <string-array name="dss_operation_mode">
+        <item>1xRTT-Only</item>
+        <item>Hybrid</item>
+    </string-array>
+    <string-array name="dss_operation_item_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE | eHRPD</item>
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>GSM</item>
+    </string-array>
+    <string-array name="bearer_values">
+        <item>0</item>
+        <item>14</item>
+        <item>13</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="home_page_so">
+        <item>Wild</item>
+        <item>EVRC</item>
+        <item>13K</item>
+        <item>4GV</item>
+    </string-array>
+    <string-array name="home_orig_so">
+        <item>EVRC</item>
+        <item>13K</item>
+        <item>4GV</item>
+    </string-array>
+    <string-array name="voice_domain_pref_list">
+        <item>CS only</item>
+        <item>PS only</item>
+        <item>CS pref</item>
+        <item>PS pref</item>
+    </string-array>
+</resources>

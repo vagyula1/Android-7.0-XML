@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Выключение через %d секунд...</item>
+        <item quantity="one">Выключение через %d секунду...</item>
+        <item quantity="few">Выключение через %d секунды...</item>
+        <item quantity="many">Выключение через %d секунд...</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Добавлены аккаунты:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Чтобы начать сканирование QR-кода, нажмите ещё %d раза</item>
+        <item quantity="one">Чтобы начать сканирование QR-кода, нажмите ещё %d раз</item>
+        <item quantity="few">Чтобы начать сканирование QR-кода, нажмите ещё %d раза</item>
+        <item quantity="many">Чтобы начать сканирование QR-кода, нажмите ещё %d раз</item>
+    </plurals>
+</resources>

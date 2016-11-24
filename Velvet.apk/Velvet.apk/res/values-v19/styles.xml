@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchFooter">
+        <item name="android:layoutDirection">locale</item>
+    </style>
+    <style name="Theme" parent="@style/BaseWallpaperTheme">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.OptIn" parent="@style/Theme.BaseOptIn">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="Theme.OptIn.NoFullBleed" parent="@style/Theme.OptIn">
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+    <style name="Theme.SearchNow" parent="@style/Theme.Velvet">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Theme.WallpaperCropper" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarStyle">@style/WallpaperCropperActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

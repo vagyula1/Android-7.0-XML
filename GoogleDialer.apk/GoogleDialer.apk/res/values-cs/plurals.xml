@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d nových zpráv v hlasové schránce</item>
+        <item quantity="one">%d nová zpráva v hlasové schránce</item>
+        <item quantity="few">%d nové zprávy v hlasové schránce</item>
+        <item quantity="many">%d nové zprávy v hlasové schránce</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hlasových zpráv</item>
+        <item quantity="one">Hlasová zpráva</item>
+        <item quantity="few">%1$d hlasové zprávy</item>
+        <item quantity="many">%1$d hlasové zprávy</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Nalezeno %d kontaktů</item>
+        <item quantity="one">Nalezen 1 kontakt</item>
+        <item quantity="few">Nalezeny %d kontakty</item>
+        <item quantity="many">Nalezeno %d kontaktu</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d nepřečtených položek.</item>
+        <item quantity="one">%1$s. %2$d nepřečtená položka.</item>
+        <item quantity="few">%1$s. %2$d nepřečtené položky.</item>
+        <item quantity="many">%1$s. %2$d nepřečtené položky.</item>
+    </plurals>
+</resources>

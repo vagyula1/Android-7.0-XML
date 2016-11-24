@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">کوئی ایپس نہیں ملیں</string>
+    <string name="app_picker_no_apps">کوئی ایپ منتخب نہیں ہوئی</string>
+    <string name="auto_restore_summary">کسی ایپ کو دوبارہ انسٹال کرتے وقت بیک اپ کردہ ترتیبات اور ڈیٹا کو بحال کریں</string>
+    <string name="auto_restore_title">خود کار بحالی</string>
+    <string name="backup_configure_account_default_summary">فی الحال کوئی بھی اکاؤنٹ بیک اپ لیا گیا ڈیٹا اسٹور نہیں کر رہا ہے</string>
+    <string name="backup_configure_account_title">اکاؤنٹ کا بیک اپ لیں</string>
+    <string name="backup_data_summary">‏Google Drive پر ایپ کے ڈیٹا، Wi-Fi پاسورڈز اور دیگر ترتیبات کا بیک اپ لیں</string>
+    <string name="backup_data_summary_full">"‏خودکار طریقے سے دور سے آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لیں۔
+
+جب آپ خودکار بیک اپ آن کرتے ہیں تو آلہ اور ایپ کا ڈیٹا وقفہ وقفہ پر دور سے محفوظ کیا جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔"</string>
+    <string name="backup_data_title">‏Google Drive پر بیک اپ لیں</string>
+    <string name="backup_erase_dialog_message">‏اپنے Wi‑Fi پاسورڈز، بُک مارکس، دوسری ترتیبات اور ایپ کے ڈیٹا کا بیک اپ لینا بند کریں، نیز Google Drive پر موجود سبھی کاپیاں حذف کریں؟</string>
+    <string name="backup_erase_dialog_message_full">‏آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لینا بند کریں، نیز Google Drive پر موجود سبھی کاپیاں مٹائیں؟</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">تصاویر کی ترتیبات کھولنے میں ایک خرابی تھی</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏جب آپ خود کار بیک اپ آن کرتے ہیں تو:
+
+ ● آلہ کی ترتیبات اور ایپ کا ڈیٹا وقفہ وقفہ سے آپ کے Google Drive کے ایک نجی فولڈر میں محفوظ ہو جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت، ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔
+
+بڑی فائلیں، یا ایسی فائلیں جنہیں ڈیولپرز نے سروس میں شامل نہ کرنے کا انتخاب کیا ہے ان کا بیک اپ نہیں لیا جائے گا۔
+
+ ● اس آلہ کی تصاویر اور ویڈیو ریکارڈنگز کو کسی بھی آلہ سے تلاش، ترمیم، حذف اور اشتراک کرنے کیلئے Google تصاویر لائبریری سے مطابقت پذیر کر دیا جاتا ہے۔
+
+ فل ریزولیوشن تصاور اور ویڈیوز بذریعہ ڈیفالٹ اپ لوڈ ہوتی ہیں۔ ان کا شمار آپ کے کوٹا میں نہیں ہوتا۔
+
+ ● رابطے اور اس آلہ سے وابستہ ڈیٹا Google رابطوں سے مطابقت پذیر ہوتا ہے۔ آپ اپنے کسی بھی آلہ سے رابطوں کو ترمیم، حذف، تلاش  اور اشتراک کرنے کیلئے Google رابطہ ایپ استعمال کر سکتے ہیں۔
+
+ ● کیلنڈر کے اندراجات اور اس آلہ کا ڈیٹا Google کیلنڈر سے مطابقت پذیر ہوتا ہے۔ آپ اپنے کسی بھی آلہ سے رابطوں کو ترمیم، حذف، تلاش  اور اشتراک کرنے کیلئے Google کیلنڈر ایپ استعمال کر سکتے ہیں۔
+
+"</string>
+    <string name="backup_opt_in_backup_description">خودکار بیک اپ یقینی بناتا ہے کہ آپ کسی بھی وقت آسانی سے فونز کو دوبارہ بحال یا سوئچ کر سکتے ہیں۔ <annotation link="backup_opt_in_learn_more">مزید جانیں</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">‏کیلنڈر، رابطے اور تصاویر اور ویڈیوز آپ کے Google اکاؤنٹ پر مطابقت پذیر ہو جاتی ہیں اور شاید تمام سروسز کیلئے استعمال ہوں۔</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"‏اس سے بیک اپ ان سب کیلئے آف ہو جائے گا:
+
+ایپس اور ایپ ڈیٹا
+ کال کی سرگزشت
+آلہ کی ترتیبات
+تصاویر اور ویڈیوز
+SMS
+
+ کیلنڈر اور رابطے آپ کے Google اکاؤنٹ پر مطابقت پذیر ہوتے رہیں گے۔ جب سیٹ اپ مکمل ہو جائے گا تو آپ "<annotation link="backup_opt_in_settings_instructions">ترتیبات > اکاؤنٹس > Google</annotation> پر جا کر مطابقت پذیری کی ترتیبات تبدیل کر سکتے ہیں۔</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">بیک اپ آف کریں؟</string>
+    <string name="backup_opt_in_backup_list">"‏ایپس اور ایپ ڈیٹا
+کیلنڈر
+کال کی سرگزشت
+رابطے
+آلہ کی ترتیبات (بشمول Wi-Fi پاسورڈز)
+تصاویر اور ویڈیوز
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">بیک اپ میں یہ شامل ہے:</string>
+    <string name="backup_opt_in_backup_title">‏Google Drive پر بیک اپ لیں</string>
+    <string name="backup_opt_in_disable_backup">بیک اپ آف کریں</string>
+    <string name="backup_photos_update">‏براہ کرم Google تصاویر اپ ڈیٹ کریں</string>
+    <string name="backup_settings_activity_title">بیک اپ اور ری سیٹ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">کاپی نہ کریں</string>
+    <string name="close_button_label">بند کریں</string>
+    <string name="cloud_restore_app_picker_button">بحال کریں</string>
+    <string name="cloud_restore_app_picker_description_no_apps">آپ کے بیک اپ میں کوئی ایپ نہیں ہے</string>
+    <string name="cloud_restore_app_picker_title">بحال کرنے کیلئے ایپس منتخب کریں</string>
+    <string name="common_accessibility_audience_view_editable">ناظرین میں ترمیم کریں</string>
+    <string name="common_add_account_label">ایک اکاؤنٹ شامل کریں</string>
+    <string name="common_ads_settings_title">اشتہارات</string>
+    <string name="common_app_name">‏Google Play سروسز</string>
+    <string name="common_audience_edit_button_label">ترمیم کریں</string>
+    <string name="common_cancel">منسوخ کریں</string>
+    <string name="common_cannot_start_hangouts_exception">‏Hangouts شروع نہیں ہو سکتا ہے۔</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏Hangouts شروع نہیں ہو سکتا ہے (اجازت کی خرابی)۔</string>
+    <string name="common_car_permission_desc">کار سروس تک رسائی حاصل کریں۔</string>
+    <string name="common_car_permission_label">کار سروس</string>
+    <string name="common_chips_label_empty_circles">کوئی حلقے نہیں ہیں</string>
+    <string name="common_chips_label_extended_circles">توسیعی حلقے</string>
+    <string name="common_chips_label_only_you">صرف آپ</string>
+    <string name="common_chips_label_public">عوامی</string>
+    <string name="common_chips_label_your_circles">آپ کے حلقے</string>
+    <string name="common_choose_account_label">ایک اکاؤنٹ منتخب کریں</string>
+    <string name="common_clear_app_data_menu_item">ایپ کا ڈیٹا صاف کریں</string>
+    <string name="common_connected_apps_settings_title">منسلکہ ایپس</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">‏Play گیمز</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_error_dialog_title">خرابی</string>
+    <string name="common_google_play_services_install_button">انسٹال کریں</string>
+    <string name="common_google_play_services_install_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="common_google_play_services_updating_title">‏Google Play سروسز اپ ڈیٹ ہو رہی ہیں</string>
+    <string name="common_google_play_services_wear_update_text">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏Google Play سروسز غلط آرکیٹیکچر کے ساتھ انسٹال ہوگئیں۔</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏Google Play سروسز کو ایک ایسے آرکیٹیکچر (%1$s) کے ساتھ انسٹال کیا گیا ہے جو آپ کے آلہ کے آرکیٹیکچر (%2$s) سے مختلف ہے۔</string>
+    <string name="common_google_play_services_wrong_architecture_title">غلط آرکیٹیکچر</string>
+    <string name="common_google_settings">‏Google‎ کی ترتیبات</string>
+    <string name="common_google_settings_account">اکاؤنٹ</string>
+    <string name="common_google_settings_credentials_title">‏پاس ورڈز کیلئے Smart Lock</string>
+    <string name="common_google_settings_data_management_title">ڈیٹا کا نظم و نسق</string>
+    <string name="common_google_settings_drive_network_usage">‏Drive فعال کردہ ایپ فائلیں اپ ڈیٹ کریں</string>
+    <string name="common_google_settings_services">سروسز</string>
+    <string name="common_list_apps_menu_help">مدد</string>
+    <string name="common_list_apps_menu_help_and_feedback">مدد اور تاثرات</string>
+    <string name="common_loading">لوڈ ہو رہا ہے…</string>
+    <string name="common_location_settings_title">مقام</string>
+    <string name="common_maps_settings_title">‏Maps اور عرض البلد</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">‏ایک بیرونی url کو دکھانے کیلئے ناظر موجود نہیں ہے۔</string>
+    <string name="common_network_load_failed">غیر دستیاب ہے کیونکہ آلہ کسی نیٹ ورک سے مربوط نہیں ہو سکا</string>
+    <string name="common_networking_settings_title">نیٹ ورکنگ</string>
+    <string name="common_no_browser_for_restricted_url">محدود رسائی. کوئی براؤزر نہیں ملا۔</string>
+    <string name="common_no_network">آلہ آف لائن ہونے کی وجہ سے غیر دستیاب ہے</string>
+    <string name="common_off">آف</string>
+    <string name="common_ok">ٹھیک ہے</string>
+    <string name="common_on">آن</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="common_open_source_licenses">اوپن سورس لائسنسز</string>
+    <string name="common_people_settings_title">رابطے</string>
+    <string name="common_permissions_enable_in_settings">ترتیبات میں فعال کریں</string>
+    <string name="common_permissions_missing_end">جاری رکھنے کیلئے ترتیبات، پھر اجازتوں کو کھولیں اور تمام مندرج آئٹمز کی اجازت دیں۔</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+فعال کرنے کیلئے
+ترتیبات >
+اجازتیں >
+Google Play سروسز پر جائیں"</string>
+    <string name="common_permissions_missing_start">‏یہ ایپ تب تک ٹھیک طرح سے کام نہیں کرے گی جب تک کہ آپ Google Play سروسز کو مندرجہ ذیل تک رسائی کی درخواست کرنے کی اجازت نہیں دیتے:</string>
+    <string name="common_permissions_open_settings">ترتیبات کھولیں</string>
+    <string name="common_plus_settings_title">+Google</string>
+    <string name="common_search_and_now_settings_title">‏تلاش اور Now</string>
+    <string name="common_search_settings_title">تلاش</string>
+    <string name="common_security_settings_title">سیکیورٹی</string>
+    <string name="common_set_up_nearby_device_settings_title">قریبی آلہ ترتیب دیں</string>
+    <string name="common_settings_drive_network_usage_all">‏Wi-Fi یا سیلولر پر</string>
+    <string name="common_settings_drive_network_usage_wifi">‏صرف Wi-Fi پر</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="common_storage_settings_title">‏Play سروسز اسٹوریج</string>
+    <string name="common_switch_bar_off">آف</string>
+    <string name="common_switch_bar_on">آن</string>
+    <string name="common_ui_confirm_deleting_button">حذف کریں</string>
+    <string name="common_ui_confirm_deleting_checkbox">میں سمجھتا ہوں اور حذف کرنا چاہتا ہوں</string>
+    <string name="common_url_load_unsuccessful_message">‏آپ کا Android آلہ کسی ڈیٹا سروس سے مربوط نہیں ہے۔ یہ معلومات ابھی دیکھنے کیلئے، ایک ویب براؤزر سے %s ملاحظہ کریں۔</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏آپ کا Android آلہ کسی Wi-Fi نیٹ ورک سے منسلک نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے، کسی ویب براؤزر کے ذریعے %s ملاحظہ کریں۔</string>
+    <string name="common_url_login_notice">%1$s کے بطور سائن ان کریں</string>
+    <string name="common_usage_and_diagnostics">استعمال اور تشخیصات</string>
+    <string name="confirm_copy_button_text">کاپی کریں</string>
+    <string name="contacts_number_local_and_sim_with_google">‏%1$d SIM، %2$d مقامی، Google رابطے</string>
+    <string name="contacts_number_local_with_google">‏%1$d مقامی، Google رابطے</string>
+    <string name="contacts_number_sim_with_google">‏%1$d SIM، Google رابطے</string>
+    <string name="copy_confirmation_description">‏آپ کا ڈیٹا جیسے کہ آپ کا Google اکاؤنٹ اور ایپس آپ کے نئے فون پر کاپی ہو جائے گا۔</string>
+    <string name="copy_confirmation_title">آپ کے نئے فون پر کاپی کریں؟</string>
+    <string name="d2d_app_picker_description_no_apps">ہمیں کوئی ایپ نہیں ملی</string>
+    <string name="d2d_app_picker_title">ایپس</string>
+    <string name="d2d_migration_canceled_on_source">کاپی کرنا منسوخ ہو گیا</string>
+    <string name="data_copied_fragment_description">آپ کا ڈیٹا آپ کے نئے فون پر کاپی ہو گیا ہے۔ آپ کیبل کو ان پلگ کر سکتے ہیں۔</string>
+    <string name="data_copied_fragment_description_cancel">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر صرف کچھ ہی ڈیٹا کاپی ہوا ہے۔</string>
+    <string name="data_copied_fragment_description_cancel_no_data">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر کچھ بھی کاپی نہیں ہوا۔</string>
+    <string name="data_copied_fragment_description_error">کچھ غلط ہو گیا ہے لہذا ہم سب کچھ کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_description_error_no_data">کچھ غلط ہو گیا، لہذا ہم آپ کا ڈیٹا کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_no_data_title">کاپی نہیں ہو سکا</string>
+    <string name="data_copied_fragment_some_data_title">کچھ ڈیٹا کاپی ہوا</string>
+    <string name="data_copied_fragment_title">ڈیٹا کاپی ہو گیا</string>
+    <string name="device_backup_title">آلہ کا بیک اپ</string>
+    <string name="device_not_supported_fragment_new_device">آپ ایک نئے فون سے منسلک ہیں۔ جاری رکھنے کیلئے، اپنے گزشتہ فون سے دوبارہ منسلک کریں۔</string>
+    <string name="device_not_supported_fragment_new_device_title">گزشتہ فون پر دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_no_data_cable">یہ کیبل ڈیٹا منتقل نہیں کر سکتی۔ ایک مختلف کیبل استعمال کر کے دوبارہ منسلک کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">دوسری کیبل آزمائیں</string>
+    <string name="device_not_supported_fragment_retry_description">یقینی بنائیں کہ آپ کا پرانا فون غیر مقفل ہے، پھر کیبل کو غیر منسلک کرکے دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">کچھ غلط ہو گیا ہے</string>
+    <string name="device_picker_description">‏بیک اپس کو Google Drive میں محفوظ کیا جاتا ہے</string>
+    <string name="device_picker_item">%1$s بیک اپ</string>
+    <string name="device_picker_last_used">آخری بار استعمال ^1</string>
+    <string name="device_picker_skip">بحال نہ کریں</string>
+    <string name="device_picker_title">بحال کرنے کیلئے بیک اپ منتخب کریں</string>
+    <string name="disabled_by_admin_summary_text">کنٹرول کردہ بذریعہ منتظم</string>
+    <string name="download_msg_error_invalid">ڈاؤن لوڈ غلط طریقے سے کنفیگر کیا گیا تھا۔</string>
+    <string name="download_msg_in_progress">ڈاؤن لوڈ جاری ہے۔</string>
+    <string name="download_msg_not_allowed_space">ڈاؤن لوڈ کرنے کیلئے کافی جگہ نہیں ہے۔</string>
+    <string name="download_msg_pending">ڈاؤن لوڈ زیر التوا ہے</string>
+    <string name="download_notification_description">%1$s نے اس کی درخواست کی ہے۔</string>
+    <string name="download_notification_title">مزید ڈیٹا کی بازیافت ہو رہی ہے</string>
+    <string name="drive_backup_account">بیک اپ کیلئے اکاؤنٹ</string>
+    <string name="drive_backup_app_includes_data">ایپ ڈیٹا شامل ہے</string>
+    <string name="drive_backup_apps_in_backup">بیک اپ میں ایپس</string>
+    <string name="drive_backup_apps_last_backup">آخری بیک اپ</string>
+    <string name="drive_backup_apps_loading">لوڈ ہو رہا ہے…</string>
+    <string name="drive_backup_apps_screen_title">ایپس</string>
+    <string name="drive_backup_content_apps_title">ایپس</string>
+    <string name="drive_backup_content_calendar_title">کیلنڈر</string>
+    <string name="drive_backup_content_callhistory_title">کال کی سرگزشت</string>
+    <string name="drive_backup_content_contacts_title">رابطے</string>
+    <string name="drive_backup_content_devicesettings_title">آلہ کی ترتیبات</string>
+    <string name="drive_backup_content_header">مواد</string>
+    <string name="drive_backup_content_photos_dialog_message">‏کیا آپ تصاویر کے بیک اپ اکاؤنٹ کو بھی تبدیل کرکے ‎%s کرنا چاہتے ہیں؟</string>
+    <string name="drive_backup_content_photos_dialog_no">نہیں</string>
+    <string name="drive_backup_content_photos_dialog_title">تصاویر کا بیک اپ تبدیل کریں؟</string>
+    <string name="drive_backup_content_photos_dialog_yes">ہاں</string>
+    <string name="drive_backup_content_photos_title">تصاویر اور ویڈیوز</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">سمجھ آ گئی</string>
+    <string name="drive_backup_content_status_error">آخری بیک اپ کی تاریخ حاصل کرنے میں خرابی</string>
+    <string name="drive_backup_content_status_lastsaved">‏آخری بیک اپ: ‎%1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">بیک اپ نہیں ہوا ہے</string>
+    <string name="drive_backup_content_status_sync_adapter_action">اکاؤنٹ کی ترتیبات</string>
+    <string name="drive_backup_content_status_updating">اسٹیٹس کو چیک کیا جا رہا ہے…</string>
+    <string name="drive_backup_settings_title">بیک اپ</string>
+    <string name="drive_backup_state">‏Google Drive پر بیک اپ لیں</string>
+    <string name="drive_backup_state_dialog_message">"‏یہ ‎%s کیلئے مستقبل کے بیک اپس کو روک دے گا، Google تصاویر شامل ہے۔
+
+بیک اپ کردہ تصاویر، ویڈیوز، رابطے اور کیلنڈر ایونٹس متعلقہ Google پروڈکٹس کے ذریعے قابل رسائی رہیں گے۔
+
+باقی تمام ڈیٹا ہٹا دیا جائے گا۔"</string>
+    <string name="drive_backup_state_dialog_okaction">غیر فعال کریں</string>
+    <string name="drive_backup_state_dialog_title">بیک اپ غیر فعال اور حذف کریں</string>
+    <string name="durationDayHour">%1$d دن %2$d گھنٹہ</string>
+    <string name="durationDayHours">%1$d دن %2$d گھنٹے</string>
+    <string name="durationDays">%1$d دن</string>
+    <string name="durationHourMinute">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHourMinutes">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHours">%1$d گھنٹے</string>
+    <string name="durationMinute">%1$d منٹ</string>
+    <string name="durationMinuteSecond">%1$d منٹ %2$d سیکنڈ</string>
+    <string name="durationMinuteSeconds">%1$d منٹ %2$d سیکنڈ</string>
+    <string name="durationMinutes">%1$d منٹ</string>
+    <string name="durationSecond">%1$d سیکنڈ</string>
+    <string name="durationSeconds">%1$d سیکنڈ</string>
+    <string name="encryption_warning_fragment_description">"‏آپ کے ®iPhone پر بیک اپ مرموز کاری آن ہے لہذا صرف تصاویر، ویڈیوز اور موسیقی کاپی ہو سکتی ہے۔
+
+مزید ڈیٹا کاپی کرنے کیلئے اپنے ®iPhone آلہ کو اپنے کمپیوٹر سے منسلک کر کے شروع کریں۔ اپنے کمپیوٹر پر ®iTunes کھولیں، بیک اپ مرموز کاری کو آف کریں اور دوبارہ کاپی کرنے کی کوشش کریں۔
+
+مزید مدد کیلئے "<b>g.co/datatransferhelp</b> ملاحظہ کریں۔</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"یہ زیادہ سے زیادہ ڈیٹا لانے کا تیز ترین طریقہ ہے۔
+
+باکس میں اڈاپٹر تلاش کریں اور اسے اپنے نئے فون میں پلگ ان کریں۔ فونز کو کیبل کے ذریعے منسلک کریں، پھر اپنا پرانا فون غیر مقفل کریں۔"</string>
+    <string name="fragment_waiting_title">بس ایک سیکنڈ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">"‏'Google رابطے' مطابقت پذیر ہو گی"</string>
+    <string name="google_contacts_static_text_off">‏Google رابطے اب بھی مطابقت پذیر ہو گی</string>
+    <string name="header_set_backup_account">بیک اپ اکاؤنٹ سیٹ کریں</string>
+    <string name="i_message_dialog_message">"‏®iPhone آلہ کے صارفین سے SMS پیغامات حاصل کرنا جاری رکھنے کیلئے آپ کو ®iMessage کو آف کرنا ہو گا۔
+
+ہدایات کیلئے "<b>g.co/iMessageHelp</b> ملاحظہ کریں۔</string>
+    <string name="instructions_fragment_title">اپنے دوسرے فون پر جاری رکھیں</string>
+    <string name="ios_connected_fragment_description">"‏جاری رکھنے کیلئے، اس Google اکاؤنٹ کے ساتھ سائن ان کریں جو آپ اپنے  iPhone®‎ آلہ پر استعمال کرتے ہیں۔
+
+تیز منتقلی کیلئے سیٹ اپ کے دوران اپنا iPhone®‎ آلہ استعمال کرنے سے احتراز کریں۔"</string>
+    <string name="ios_message_attachment_placeholder">‏[منسلکہ Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_message_attachments_placeholder">‏[منسلکات Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_migration_default_calendar_title">کیلنڈر</string>
+    <string name="ios_photos_dialog_message">"‏®iCloud میں اسٹور کردہ تصاویر کاپی نہیں ہو سکتیں۔ 
+
+ان تصاویر کو اپنے Pixel پر لانے کیلئے اپنے ®iPhone آلہ پر Google تصاویر ایپ ڈاؤن لوڈ کریں اور بیک اپ اور مطابقت پذیری آن کریں۔ مزید ہدایات کیلئے "<b>g.co/datatransferhelp</b> ملاحظہ کریں۔</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">اکاؤنٹ شامل کریں</string>
+    <string name="lockscreen_smartdevice_action_next">اگلا</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">اپنے فون کا سیٹ اپ جاری رکھنے کیلئے غیر مقفل کریں</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">سیکیورٹی وجوہات کی بنا پر سیٹ اپ جاری رکھنے کیلئے آپ کو اپنے اسکرین قفل کی توثیق کرنی ہو گی</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">اپنے اسکرین قفل کی تصدیق کریں</string>
+    <string name="manage_data_label">ڈیٹا بیک اپ کا نظم کریں</string>
+    <string name="master_clear_title">فیکٹری ڈیٹا ری سیٹ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">بیک اپ اکاؤنٹ سیٹ کرنے کی ضرورت ہے</string>
+    <string name="notification_content_title_set_backup_account">بیک اپ</string>
+    <string name="notification_ticker_set_backup_account">بیک اپ اکاؤنٹ کی ضرورت ہے</string>
+    <string name="permgrouplab_calendar">کیلنڈر</string>
+    <string name="permgrouplab_camera">کیمرا</string>
+    <string name="permgrouplab_contacts">رابطے</string>
+    <string name="permgrouplab_location">مقام</string>
+    <string name="permgrouplab_microphone">مائیکروفون</string>
+    <string name="permgrouplab_phone">فون</string>
+    <string name="permgrouplab_sensors">باڈی سینسرز</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">اسٹوریج</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">فی الحال کوئی بھی اکاؤنٹ بیک اپ لی گئی تصاویر اسٹور نہیں کر رہا ہے</string>
+    <string name="photos_backup_title">تصاویر کا بیک اپ</string>
+    <string name="photos_filtering_option_all">سبھی</string>
+    <string name="photos_filtering_option_none">کوئی بھی نہیں</string>
+    <string name="restore_choice_data_disclaimer">آپ کے دوسرے فون کا کچھ ڈیٹا آپ کے ^1 پر کاپی نہیں ہو سکتا۔ <annotation link="restore_choice_data_disclaimer_learn_more">مزید جانیں</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏کاپی کردہ رابطے آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏کاپی کردہ رابطے اور کیلنڈرز آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_learn_more_android">"‏آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا: 
+
+ ● ڈاؤن لوڈز (جیسے PDF فائلز)
+
+ ● مخفی فولڈرز میں اسٹور کردہ تصاویر، ویڈیوز اور موسیقی
+
+ ● متنی پیغام کے ذریعے موصولہ تصاویر، ویڈیوز اور موسیقی
+
+ ● وہ ایپس جو Google Play اسٹور سے نہیں ہیں
+
+ ● ایپ ڈیٹا (اگر ایپ Android بیک اپ استعمال نہیں کرتی)
+
+ ● آلہ کی بعض ترتیبات
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google کے علاوہ کسی بھی دوسری سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● رنگ ٹونز
+
+ مزید معلومات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے visit g.co/datatransferhelp ملاحظہ کریں۔"</string>
+    <string name="restore_choice_learn_more_ios">"‏آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا:
+
+ ● ایپس اور ایپ ڈیٹا
+
+ ● تصاویر جہاں اصل آپ کے فون پر محفوظ نہ ہو (مثال کے طور پر، اگر اسٹوریج بہتر بنائیں کی ترتیب آن ہے؛ اصل تصاویر ®iCloud پر اسٹور کی جاتی ہیں)
+
+ ● ®iCloud میں اسٹور کردہ فائلز اور دستاویزات
+
+ ● آلہ کی ترتیبات (جیسے Wi-Fi پاسورڈز اور وال پیپر)
+
+ ● Digital Rights Management (DRM)‎ تحفظ کے ساتھ تحفظ یافتہ موسیقی (مثال کے طور پر اپریل 2009 سے قبل خریدی گئی iTunes(R)‎ موسیقی یا کسی موسیقی کی سلسلہ بندی والی ایپ میں آف لائن سننے کیلئے ڈاؤن لوڈ کردہ موسیقی)
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google یا ®iCloud کے علاوہ کسی سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● ®Safari سے بک مارکس
+
+ ®iMessage منسلکات Google تصاویر > آلہ کے فولڈرز > پیغام کی منسلکات میں دستیاب ہوں گے۔
+
+ مزید تفصیلات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے g.co/datatransferhelp  ملاحظہ کریں۔"</string>
+    <string name="restore_choice_not_enough_space">کافی جگہ نہيں ہے</string>
+    <string name="restore_choice_total_text">منتقلی کیلئے دستیاب آپ کی %1$s / %2$s</string>
+    <string name="restore_item_appdata">ایپ ڈیٹا</string>
+    <string name="restore_item_calendar">کیلنڈر</string>
+    <string name="restore_item_calendar_ical_description">‏®iOS کیلنڈر، Google کیلنڈر</string>
+    <string name="restore_item_calendar_ical_off_description">‏Google کیلنڈر اب بھی مطابقت پذیر ہو گی</string>
+    <string name="restore_item_calendar_sync_description">‏Google کیلنڈر مطابقت پذیر ہو گی</string>
+    <string name="restore_item_call_logs">کال کی سرگزشت</string>
+    <string name="restore_item_contacts">رابطے</string>
+    <string name="restore_item_device_settings_description">‏Wi-Fi پاسورڈز اور مزید</string>
+    <string name="restore_item_downloads">ڈاؤن لوڈز</string>
+    <string name="restore_item_email">ای میل</string>
+    <string name="restore_item_email_description">‏Gmail مطابقت پذیر ہو گی</string>
+    <string name="restore_item_message_attachments">پیغام منسلکہ جات</string>
+    <string name="restore_item_messages">پیغامات</string>
+    <string name="restore_item_music">موسیقی</string>
+    <string name="restore_item_photos">تصاویر اور ویڈیوز</string>
+    <string name="restore_item_settings">آلہ کی ترتیبات</string>
+    <string name="restore_item_sms">‏SMS پیغامات</string>
+    <string name="restore_item_will_be_synced_text">یہ آپ کے فون سے مطابقت پذیر ہو جائے گا</string>
+    <string name="small_time_duration">1 منٹ سے کم</string>
+    <string name="source_connected_description">تیار ہو رہا ہے…</string>
+    <string name="source_connected_title">آپ کے %1$s سے منسلک ہے</string>
+    <string name="source_copying_description">آپ کا منتخب کردہ ڈیٹا آپ کے نئے فون پر کاپی ہو رہا ہے</string>
+    <string name="source_copying_title">کاپی ہو رہا ہے…</string>
+    <string name="source_default_target_device_name">نیا آلہ</string>
+    <string name="source_notification_device_disconnected">اپنی کیبل دوبارہ منسلک کریں</string>
+    <string name="source_notification_text">فون سے فون پر منتقلی پیشرفت میں ہے</string>
+    <string name="source_notification_title">ڈیٹا کی منتقلی</string>
+    <string name="source_success_description">اپنے %1$s پر سیٹ اپ مکمل کریں۔</string>
+    <string name="source_success_screen_title">سبھی ہوگیا!</string>
+    <string name="source_unplugged_description">اپنے %1$s سے دوبارہ منسلک کریں</string>
+    <string name="source_unplugged_title">کیبل غیر منسلک ہے</string>
+    <string name="source_waiting_title">اپنے %1$s پر سیٹ اپ جاری رکھیں</string>
+    <string name="stop_copying_dialog_continue_button">کالعدم کریں</string>
+    <string name="stop_copying_dialog_message_before_transfer">آپ کا ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_message_during_transfer">آپ کا کچھ ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">کاپی نہ کریں</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">روکیں</string>
+    <string name="stop_copying_dialog_title_before_transfer">کاپی نہ کریں؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">کاپی کرنا بند کریں؟</string>
+    <string name="storage_management_drive_clear_failure">‏Drive ڈیٹا صاف کرنے میں ایک خرابی پیش آگئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="storage_management_drive_clear_label">صاف کریں</string>
+    <string name="storage_management_drive_clear_success">‏Drive کا ڈیٹا صاف کر دیا گیا ہے۔</string>
+    <string name="storage_management_drive_clearing">صاف ہو رہا ہے…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">‏Drive کیلئے فعال کردہ ایپس کیلئے سبھی مقامی Drive ڈیٹا مستقل طور پر حذف کر دیا جائے گا۔ اس میں وہ زیر التواء تبدیلیاں شامل ہو سکتی ہیں جو ابھی تک Google Drive سرور پر اپ لوڈ نہیں ہوئی ہیں۔</string>
+    <string name="storage_management_drive_confirm_clear_data_title">سبھی ڈیٹا صاف کریں؟</string>
+    <string name="storage_management_drive_descriptive_text">‏Drive کیلئے فعال کردہ ایپس کارکردگی کو بہتر کرنے اور آف لائن رسائی کو فعال کرنے کیلئے آپ کے آلہ پر فائلیں اسٹور کرتی ہیں۔</string>
+    <string name="storage_management_drive_get_storage_failure">‏Drive اسٹوریج کے استعمال کو شمار کرتے ہوئے ایک خرابی پیش آگئی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="storage_management_drive_size_label">‏مقامی Drive کا اسٹوریج</string>
+    <string name="storage_management_wear_descriptive_text">ایپس ڈیٹا کو ایک ویئرایبل میں کاپی کرنے کیلئے آپ کے آلہ کا اسٹوریج استعمال کرتی ہیں۔</string>
+    <string name="storage_management_wear_manage_size_label">ویئرایبل اسٹوریج کا نظم کریں</string>
+    <string name="storage_management_wear_size_label">ویئرایبل اسٹوریج</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏Google Play سروسز کے ذریعے استعمال کیا گیا کُل ڈیٹا، بشمول تلاش انجن اور دیگر ڈیٹا۔</string>
+    <string name="storage_managment_clear_all_data">سبھی ڈیٹا صاف کریں</string>
+    <string name="storage_managment_computing_size">حساب کتاب کر رہا ہے…</string>
+    <string name="storage_managment_icing_size_label">تلاش ڈیٹا</string>
+    <string name="storage_managment_manage_icing_button">تلاش ڈیٹا کا نظم کریں</string>
+    <string name="storage_managment_search_index_descriptive_text">ہم آپ کے ایپس کے استعمال کیلئے ایک تلاش انجن فراہم کرکے آپ کے آلے پر تلاش کو تیز کرتے ہیں۔</string>
+    <string name="storage_managment_title">‏Google Play سروسز کا اسٹوریج</string>
+    <string name="storage_managment_total_size_label">کُل اسٹوریج</string>
+    <string name="target_default_source_device_model">پرانا آلہ</string>
+    <string name="target_device_not_supported_cant_continue_description">آپ کو ڈیٹا کاپی کرنے کیلئے کوئی اور طریقہ منتخب کرنا پڑے گا</string>
+    <string name="target_device_not_supported_cant_continue_title">دوسرا فون تعاون یافتہ نہیں ہے</string>
+    <string name="target_smart_device_timeout_add_account">اکاؤنٹ شامل کریں</string>
+    <string name="target_smart_device_timeout_description">اگر آپ چاہیں تو آپ اپنا اکاؤنٹ دستی طور پر شامل کرنے کی کوشش کر سکتے ہیں</string>
+    <string name="target_smart_device_timeout_dismiss">برخاست کریں</string>
+    <string name="target_smart_device_timeout_title">مشکل پیش آ رہی ہے؟</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">فونز منسلک ہیں</string>
+    <string name="toast_reconnect_cable">اپنی کیبل دوبارہ منسلک کریں</string>
+    <string name="transfer_finished_fragment_title">حتمی شکل دی جا رہی ہے…</string>
+    <string name="transfer_summary_copied">ڈیٹا کاپی ہو گیا</string>
+    <string name="transfer_summary_fragment_description">اگر آپ نے پہلے سے نہیں کیا ہے، تو کیبل کو غیر منسلک کریں</string>
+    <string name="transfer_summary_fragment_finish">مکمل کریں</string>
+    <string name="transfer_summary_fragment_title">آپ کا فون تقریباً تیار ہے</string>
+    <string name="transfer_summary_icloud_photos_warning">آپ کی کچھ تصاویر کاپی نہیں ہوئیں۔ <annotation link="transfer_summary_learn_more">مزید جانیں</annotation></string>
+    <string name="transfer_summary_not_copied">ڈیٹا کاپی نہیں ہوا</string>
+    <string name="transfer_summary_partial">%1$s / %2$s کاپی ہو گئے</string>
+    <string name="transfer_summary_will_sync">ڈیٹا سیٹ اپ کے بعد مطابقت پذیر ہو گا</string>
+    <string name="transferring_fragment_calculating_remaining_time">باقی وقت کا تخمینہ لگایا جا رہا ہے…</string>
+    <string name="transferring_fragment_header">کاپی ہو رہا ہے…</string>
+    <string name="transferring_fragment_remaining_time">%1$s باقی ہیں</string>
+    <string name="trust_instructions_description">‏جاری رکھنے کیلئے، اپنا iPhone®‎ آلہ چیک کریں اور کنکشن منظور کریں</string>
+    <string name="trust_instructions_trademark_disclaimer">‏iPhone، iPad، iOS، iMessage، iCloud، Safari، اور iTunes ریاست ہائے متحدہ امریکہ اور دیگر ممالک میں Apple Inc.‎ کے رجسٹرڈ ٹریڈ مارکس ہیں۔</string>
+</resources>

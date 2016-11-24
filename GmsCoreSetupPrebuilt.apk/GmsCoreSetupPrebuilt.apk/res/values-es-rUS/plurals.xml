@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Todas las %1$d apps</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d apps seleccionadas</item>
+        <item quantity="one">1 app seleccionada</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Tu copia de seguridad tiene %1$d apps. Elige algunas o restáuralas todas.</item>
+        <item quantity="one">Tu copia de seguridad tiene %1$d app.</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">%1$d contactos locales</item>
+        <item quantity="one">1 contacto local</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">%1$d de la SIM, %2$d locales</item>
+        <item quantity="one">%1$d de la SIM, %2$d local</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contactos de la SIM</item>
+        <item quantity="one">1 contacto de la SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">Se encontraron %1$d apps. Elige algunas o restáuralas todas.</item>
+        <item quantity="one">Se encontró %1$d app. ¿Quieres restaurarla?</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d elementos restantes…</item>
+        <item quantity="one">%1$d elemento restante…</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">%1$d contactos</item>
+        <item quantity="one">1 contacto</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">%1$d contactos y Contactos de Google</item>
+        <item quantity="one">1 contacto y Contactos de Google</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">¡Atención! Este evento ya no incluye a los siguientes asistentes:</item>
+        <item quantity="one">¡Atención! Este evento ya no incluye al siguiente asistente:</item>
+    </plurals>
+</resources>

@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ControllerTagId" />
+    <item type="id" name="LoaderTagId" />
+    <item type="id" name="ScrollAdapterViewChild" />
+    <item type="id" name="ShadowView" />
+    <item type="id" name="action_about" />
+    <item type="id" name="action_send_feedback" />
+    <item type="id" name="action_usage_tips" />
+    <item type="id" name="body_group_view" />
+    <item type="id" name="candidate_separator" />
+    <item type="id" name="captcha" />
+    <item type="id" name="composing_text" />
+    <item type="id" name="default_keyboard_view" />
+    <item type="id" name="expand_keyboard" />
+    <item type="id" name="extension_body_view_holder" />
+    <item type="id" name="extension_header_view_holder" />
+    <item type="id" name="extra_value_append_space_after_commit" />
+    <item type="id" name="extra_value_auto_space_before_commit" />
+    <item type="id" name="extra_value_base_ime_class" />
+    <item type="id" name="extra_value_enable_prediction" />
+    <item type="id" name="extra_value_force_display_app_completions" />
+    <item type="id" name="extra_value_latin_auto_select_literal_candidate" />
+    <item type="id" name="extra_value_latin_enable_suspend_prediction_on_backspace" />
+    <item type="id" name="extra_value_latin_max_candidates_requested" />
+    <item type="id" name="extra_value_latin_update_suggestion_on_activate" />
+    <item type="id" name="extra_value_period" />
+    <item type="id" name="extra_value_show_suggestion_pref_key" />
+    <item type="id" name="extra_value_show_suggestions_in_preload" />
+    <item type="id" name="feature_page_auto_dictionary_multiple_pages" />
+    <item type="id" name="feature_page_blue_theme_image_view" />
+    <item type="id" name="feature_page_dark_theme_image_view" />
+    <item type="id" name="feature_page_deep_purple_theme_image_view" />
+    <item type="id" name="feature_page_enable_key_border" />
+    <item type="id" name="feature_page_light_theme_image_view" />
+    <item type="id" name="feature_page_pink_theme_image_view" />
+    <item type="id" name="feature_page_red_theme_image_view" />
+    <item type="id" name="feature_page_theme_selector_launcher_view" />
+    <item type="id" name="file_to_export" />
+    <item type="id" name="file_to_import" />
+    <item type="id" name="first_run_page_footer" />
+    <item type="id" name="first_run_page_permission_label" />
+    <item type="id" name="first_run_page_permission_list" />
+    <item type="id" name="first_run_page_setup_button" />
+    <item type="id" name="first_run_page_setup_description_label" />
+    <item type="id" name="first_run_page_setup_done_button" />
+    <item type="id" name="first_run_page_setup_languages_label" />
+    <item type="id" name="first_run_page_setup_step_title" />
+    <item type="id" name="first_run_page_show_features_button" />
+    <item type="id" name="first_run_pager" />
+    <item type="id" name="floating_candidates_view_holder" />
+    <item type="id" name="get_started_button" />
+    <item type="id" name="header_area" />
+    <item type="id" name="header_group_view" />
+    <item type="id" name="heading_candidates_area" />
+    <item type="id" name="hint_box_arrow" />
+    <item type="id" name="hint_box_text" />
+    <item type="id" name="host" />
+    <item type="id" name="icon" />
+    <item type="id" name="icon_bottom" />
+    <item type="id" name="imageDownloadTask" />
+    <item type="id" name="ime_app_completions_processor" />
+    <item type="id" name="ime_auto_space_processor" />
+    <item type="id" name="ime_decode_processor" />
+    <item type="id" name="ime_double_space_processor" />
+    <item type="id" name="ime_output_processor" />
+    <item type="id" name="ime_scrub_move_processor" />
+    <item type="id" name="indicator_bubble" />
+    <item type="id" name="indicator_icon" />
+    <item type="id" name="input" />
+    <item type="id" name="input_area" />
+    <item type="id" name="key_pos_0_0" />
+    <item type="id" name="key_pos_0_1" />
+    <item type="id" name="key_pos_0_10" />
+    <item type="id" name="key_pos_0_11" />
+    <item type="id" name="key_pos_0_12" />
+    <item type="id" name="key_pos_0_2" />
+    <item type="id" name="key_pos_0_3" />
+    <item type="id" name="key_pos_0_4" />
+    <item type="id" name="key_pos_0_5" />
+    <item type="id" name="key_pos_0_6" />
+    <item type="id" name="key_pos_0_7" />
+    <item type="id" name="key_pos_0_8" />
+    <item type="id" name="key_pos_0_9" />
+    <item type="id" name="key_pos_10key_0" />
+    <item type="id" name="key_pos_10key_1" />
+    <item type="id" name="key_pos_10key_2" />
+    <item type="id" name="key_pos_10key_3" />
+    <item type="id" name="key_pos_10key_4" />
+    <item type="id" name="key_pos_10key_5" />
+    <item type="id" name="key_pos_10key_6" />
+    <item type="id" name="key_pos_10key_7" />
+    <item type="id" name="key_pos_10key_8" />
+    <item type="id" name="key_pos_10key_9" />
+    <item type="id" name="key_pos_1_0" />
+    <item type="id" name="key_pos_1_1" />
+    <item type="id" name="key_pos_1_10" />
+    <item type="id" name="key_pos_1_11" />
+    <item type="id" name="key_pos_1_12" />
+    <item type="id" name="key_pos_1_2" />
+    <item type="id" name="key_pos_1_3" />
+    <item type="id" name="key_pos_1_4" />
+    <item type="id" name="key_pos_1_5" />
+    <item type="id" name="key_pos_1_6" />
+    <item type="id" name="key_pos_1_7" />
+    <item type="id" name="key_pos_1_8" />
+    <item type="id" name="key_pos_1_9" />
+    <item type="id" name="key_pos_2_0" />
+    <item type="id" name="key_pos_2_1" />
+    <item type="id" name="key_pos_2_10" />
+    <item type="id" name="key_pos_2_11" />
+    <item type="id" name="key_pos_2_2" />
+    <item type="id" name="key_pos_2_3" />
+    <item type="id" name="key_pos_2_4" />
+    <item type="id" name="key_pos_2_5" />
+    <item type="id" name="key_pos_2_6" />
+    <item type="id" name="key_pos_2_7" />
+    <item type="id" name="key_pos_2_8" />
+    <item type="id" name="key_pos_2_9" />
+    <item type="id" name="key_pos_3_0" />
+    <item type="id" name="key_pos_3_1" />
+    <item type="id" name="key_pos_3_10" />
+    <item type="id" name="key_pos_3_2" />
+    <item type="id" name="key_pos_3_3" />
+    <item type="id" name="key_pos_3_4" />
+    <item type="id" name="key_pos_3_5" />
+    <item type="id" name="key_pos_3_6" />
+    <item type="id" name="key_pos_3_7" />
+    <item type="id" name="key_pos_3_8" />
+    <item type="id" name="key_pos_3_9" />
+    <item type="id" name="key_pos_9key_1" />
+    <item type="id" name="key_pos_9key_2" />
+    <item type="id" name="key_pos_9key_3" />
+    <item type="id" name="key_pos_9key_4" />
+    <item type="id" name="key_pos_9key_5" />
+    <item type="id" name="key_pos_9key_6" />
+    <item type="id" name="key_pos_9key_7" />
+    <item type="id" name="key_pos_9key_8" />
+    <item type="id" name="key_pos_9key_9" />
+    <item type="id" name="key_pos_9key_symbol_panel_line4_2" />
+    <item type="id" name="key_pos_back_to_prime" />
+    <item type="id" name="key_pos_back_to_prime2" />
+    <item type="id" name="key_pos_bottom_symbol_1" />
+    <item type="id" name="key_pos_bottom_symbol_2" />
+    <item type="id" name="key_pos_bottom_symbol_3" />
+    <item type="id" name="key_pos_bottom_symbol_optional" />
+    <item type="id" name="key_pos_candidates_del" />
+    <item type="id" name="key_pos_candidates_ime_action" />
+    <item type="id" name="key_pos_candidates_page_down" />
+    <item type="id" name="key_pos_candidates_page_up" />
+    <item type="id" name="key_pos_caps" />
+    <item type="id" name="key_pos_del" />
+    <item type="id" name="key_pos_digit_0" />
+    <item type="id" name="key_pos_digit_1" />
+    <item type="id" name="key_pos_digit_2" />
+    <item type="id" name="key_pos_digit_3" />
+    <item type="id" name="key_pos_digit_4" />
+    <item type="id" name="key_pos_digit_5" />
+    <item type="id" name="key_pos_digit_6" />
+    <item type="id" name="key_pos_digit_7" />
+    <item type="id" name="key_pos_digit_8" />
+    <item type="id" name="key_pos_digit_9" />
+    <item type="id" name="key_pos_digit_right_symbol_1" />
+    <item type="id" name="key_pos_digit_right_symbol_2" />
+    <item type="id" name="key_pos_digit_right_symbol_3" />
+    <item type="id" name="key_pos_digit_symbol_1" />
+    <item type="id" name="key_pos_digit_symbol_2" />
+    <item type="id" name="key_pos_digit_symbol_line1_1" />
+    <item type="id" name="key_pos_digit_symbol_line1_2" />
+    <item type="id" name="key_pos_digit_symbol_line1_3" />
+    <item type="id" name="key_pos_digit_symbol_line1_4" />
+    <item type="id" name="key_pos_digit_symbol_line1_5" />
+    <item type="id" name="key_pos_digit_symbol_line2_1" />
+    <item type="id" name="key_pos_digit_symbol_line2_2" />
+    <item type="id" name="key_pos_digit_symbol_line2_3" />
+    <item type="id" name="key_pos_digit_symbol_line2_4" />
+    <item type="id" name="key_pos_digit_symbol_line2_5" />
+    <item type="id" name="key_pos_digit_symbol_line3_1" />
+    <item type="id" name="key_pos_digit_symbol_line3_2" />
+    <item type="id" name="key_pos_digit_symbol_line3_3" />
+    <item type="id" name="key_pos_digit_symbol_line3_4" />
+    <item type="id" name="key_pos_digit_symbol_line3_5" />
+    <item type="id" name="key_pos_empty" />
+    <item type="id" name="key_pos_header_bottom_separator" />
+    <item type="id" name="key_pos_header_emoji_1" />
+    <item type="id" name="key_pos_header_emoji_2" />
+    <item type="id" name="key_pos_header_emoji_3" />
+    <item type="id" name="key_pos_header_emoji_4" />
+    <item type="id" name="key_pos_header_emoji_5" />
+    <item type="id" name="key_pos_header_emoji_6" />
+    <item type="id" name="key_pos_header_lang_1" />
+    <item type="id" name="key_pos_header_lang_2" />
+    <item type="id" name="key_pos_header_notice" />
+    <item type="id" name="key_pos_header_voice" />
+    <item type="id" name="key_pos_ime_action" />
+    <item type="id" name="key_pos_input_symbol_1" />
+    <item type="id" name="key_pos_input_symbol_2" />
+    <item type="id" name="key_pos_move_cursor" />
+    <item type="id" name="key_pos_non_prime_category_1" />
+    <item type="id" name="key_pos_non_prime_category_2" />
+    <item type="id" name="key_pos_non_prime_category_3" />
+    <item type="id" name="key_pos_non_prime_sub_category_1" />
+    <item type="id" name="key_pos_non_prime_sub_category_2" />
+    <item type="id" name="key_pos_non_prime_sub_category_3" />
+    <item type="id" name="key_pos_non_prime_sub_category_4" />
+    <item type="id" name="key_pos_non_prime_sub_category_5" />
+    <item type="id" name="key_pos_non_prime_sub_category_6" />
+    <item type="id" name="key_pos_non_prime_sub_category_7" />
+    <item type="id" name="key_pos_non_prime_sub_category_8" />
+    <item type="id" name="key_pos_non_prime_sub_category_9" />
+    <item type="id" name="key_pos_non_prime_symbol_1" />
+    <item type="id" name="key_pos_non_prime_symbol_2" />
+    <item type="id" name="key_pos_number_0" />
+    <item type="id" name="key_pos_number_1" />
+    <item type="id" name="key_pos_number_2" />
+    <item type="id" name="key_pos_number_3" />
+    <item type="id" name="key_pos_number_4" />
+    <item type="id" name="key_pos_number_5" />
+    <item type="id" name="key_pos_number_6" />
+    <item type="id" name="key_pos_number_7" />
+    <item type="id" name="key_pos_number_8" />
+    <item type="id" name="key_pos_number_9" />
+    <item type="id" name="key_pos_number_line1_1" />
+    <item type="id" name="key_pos_number_line1_2" />
+    <item type="id" name="key_pos_number_line1_3" />
+    <item type="id" name="key_pos_number_line1_4" />
+    <item type="id" name="key_pos_number_line2_1" />
+    <item type="id" name="key_pos_number_line2_2" />
+    <item type="id" name="key_pos_number_line2_3" />
+    <item type="id" name="key_pos_number_line2_4" />
+    <item type="id" name="key_pos_number_line3_1" />
+    <item type="id" name="key_pos_number_line3_2" />
+    <item type="id" name="key_pos_number_line3_3" />
+    <item type="id" name="key_pos_number_line3_4" />
+    <item type="id" name="key_pos_number_line4_1" />
+    <item type="id" name="key_pos_number_line4_2" />
+    <item type="id" name="key_pos_number_line4_3" />
+    <item type="id" name="key_pos_page_down" />
+    <item type="id" name="key_pos_page_up" />
+    <item type="id" name="key_pos_password_header_number_0" />
+    <item type="id" name="key_pos_password_header_number_1" />
+    <item type="id" name="key_pos_password_header_number_2" />
+    <item type="id" name="key_pos_password_header_number_3" />
+    <item type="id" name="key_pos_password_header_number_4" />
+    <item type="id" name="key_pos_password_header_number_5" />
+    <item type="id" name="key_pos_password_header_number_6" />
+    <item type="id" name="key_pos_password_header_number_7" />
+    <item type="id" name="key_pos_password_header_number_8" />
+    <item type="id" name="key_pos_password_header_number_9" />
+    <item type="id" name="key_pos_qwerty_a" />
+    <item type="id" name="key_pos_qwerty_b" />
+    <item type="id" name="key_pos_qwerty_c" />
+    <item type="id" name="key_pos_qwerty_d" />
+    <item type="id" name="key_pos_qwerty_e" />
+    <item type="id" name="key_pos_qwerty_f" />
+    <item type="id" name="key_pos_qwerty_g" />
+    <item type="id" name="key_pos_qwerty_h" />
+    <item type="id" name="key_pos_qwerty_i" />
+    <item type="id" name="key_pos_qwerty_j" />
+    <item type="id" name="key_pos_qwerty_k" />
+    <item type="id" name="key_pos_qwerty_l" />
+    <item type="id" name="key_pos_qwerty_m" />
+    <item type="id" name="key_pos_qwerty_n" />
+    <item type="id" name="key_pos_qwerty_o" />
+    <item type="id" name="key_pos_qwerty_p" />
+    <item type="id" name="key_pos_qwerty_q" />
+    <item type="id" name="key_pos_qwerty_r" />
+    <item type="id" name="key_pos_qwerty_s" />
+    <item type="id" name="key_pos_qwerty_t" />
+    <item type="id" name="key_pos_qwerty_u" />
+    <item type="id" name="key_pos_qwerty_v" />
+    <item type="id" name="key_pos_qwerty_w" />
+    <item type="id" name="key_pos_qwerty_x" />
+    <item type="id" name="key_pos_qwerty_y" />
+    <item type="id" name="key_pos_qwerty_z" />
+    <item type="id" name="key_pos_right_side_3rd_key" />
+    <item type="id" name="key_pos_settings" />
+    <item type="id" name="key_pos_shift" />
+    <item type="id" name="key_pos_shift_right" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_0" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_1" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_2" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_3" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_4" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_5" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_6" />
+    <item type="id" name="key_pos_shortvowel_row1_pos_7" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_0" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_1" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_2" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_3" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_4" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_5" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_6" />
+    <item type="id" name="key_pos_shortvowel_row2_pos_7" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_0" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_1" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_2" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_3" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_4" />
+    <item type="id" name="key_pos_shortvowel_row3_pos_5" />
+    <item type="id" name="key_pos_show_more_candidates" />
+    <item type="id" name="key_pos_space" />
+    <item type="id" name="key_pos_switch_to_next_language" />
+    <item type="id" name="key_pos_switch_to_smiley" />
+    <item type="id" name="key_pos_switch_to_symbol" />
+    <item type="id" name="key_pos_switch_to_symbol_right" />
+    <item type="id" name="key_pos_tab" />
+    <item type="id" name="key_pos_zwnj_with_zwj" />
+    <item type="id" name="keyboard_area" />
+    <item type="id" name="keyboard_background_frame" />
+    <item type="id" name="keyboard_background_shadow" />
+    <item type="id" name="keyboard_body_view_holder" />
+    <item type="id" name="keyboard_dashboard" />
+    <item type="id" name="keyboard_date_time" />
+    <item type="id" name="keyboard_dummy" />
+    <item type="id" name="keyboard_en_9key" />
+    <item type="id" name="keyboard_en_hard_12keys" />
+    <item type="id" name="keyboard_en_hard_qwerty" />
+    <item type="id" name="keyboard_en_qwerty" />
+    <item type="id" name="keyboard_header_view_holder" />
+    <item type="id" name="keyboard_holder" />
+    <item type="id" name="keyboard_ko_10key" />
+    <item type="id" name="keyboard_ko_2_bulsik" />
+    <item type="id" name="keyboard_ko_2_bulsik_floating_hard" />
+    <item type="id" name="keyboard_ko_2_bulsik_hard" />
+    <item type="id" name="keyboard_ko_short_vowel" />
+    <item type="id" name="keyboard_left_frame" />
+    <item type="id" name="keyboard_non_prime_digit" />
+    <item type="id" name="keyboard_non_prime_emoticon" />
+    <item type="id" name="keyboard_non_prime_smiley" />
+    <item type="id" name="keyboard_non_prime_symbol" />
+    <item type="id" name="keyboard_number" />
+    <item type="id" name="keyboard_number_password" />
+    <item type="id" name="keyboard_password" />
+    <item type="id" name="keyboard_password_number_hard" />
+    <item type="id" name="keyboard_phone_number" />
+    <item type="id" name="keyboard_right_frame" />
+    <item type="id" name="label" />
+    <item type="id" name="label_bottom" />
+    <item type="id" name="label_candidate_annotation" />
+    <item type="id" name="label_candidate_deletable" />
+    <item type="id" name="label_candidate_ordinal" />
+    <item type="id" name="label_footer" />
+    <item type="id" name="label_header" />
+    <item type="id" name="label_sup" />
+    <item type="id" name="label_top" />
+    <item type="id" name="license_content" />
+    <item type="id" name="message" />
+    <item type="id" name="more_candidates_area" />
+    <item type="id" name="more_candidates_right_panel" />
+    <item type="id" name="navi_next" />
+    <item type="id" name="navi_request_permission" />
+    <item type="id" name="navi_skip" />
+    <item type="id" name="navi_welcome" />
+    <item type="id" name="number" />
+    <item type="id" name="page_activation" />
+    <item type="id" name="page_indicator" />
+    <item type="id" name="page_permission" />
+    <item type="id" name="pageable_view" />
+    <item type="id" name="permission_check_box" />
+    <item type="id" name="permission_hint" />
+    <item type="id" name="permission_request_check" />
+    <item type="id" name="popup_bubble" />
+    <item type="id" name="popup_content" />
+    <item type="id" name="popup_footer" />
+    <item type="id" name="popup_handle" />
+    <item type="id" name="popup_icon" />
+    <item type="id" name="popup_label" />
+    <item type="id" name="popup_layout" />
+    <item type="id" name="pref_type_boolean" />
+    <item type="id" name="pref_type_float" />
+    <item type="id" name="pref_type_integer" />
+    <item type="id" name="pref_type_resource_id" />
+    <item type="id" name="pref_type_string" />
+    <item type="id" name="seek_bar" />
+    <item type="id" name="seek_bar_text_left" />
+    <item type="id" name="seek_bar_text_right" />
+    <item type="id" name="seek_bar_text_top" />
+    <item type="id" name="select_file_to_import" />
+    <item type="id" name="softkey_9key_1" />
+    <item type="id" name="softkey_9key_abc" />
+    <item type="id" name="softkey_9key_def" />
+    <item type="id" name="softkey_9key_ghi" />
+    <item type="id" name="softkey_9key_jkl" />
+    <item type="id" name="softkey_9key_mno" />
+    <item type="id" name="softkey_9key_pqrs" />
+    <item type="id" name="softkey_9key_space" />
+    <item type="id" name="softkey_9key_space_en" />
+    <item type="id" name="softkey_9key_tuv" />
+    <item type="id" name="softkey_9key_up_1" />
+    <item type="id" name="softkey_9key_up_abc" />
+    <item type="id" name="softkey_9key_up_def" />
+    <item type="id" name="softkey_9key_up_ghi" />
+    <item type="id" name="softkey_9key_up_jkl" />
+    <item type="id" name="softkey_9key_up_mno" />
+    <item type="id" name="softkey_9key_up_pqrs" />
+    <item type="id" name="softkey_9key_up_tuv" />
+    <item type="id" name="softkey_9key_up_wxyz" />
+    <item type="id" name="softkey_9key_wxyz" />
+    <item type="id" name="softkey_action_done" />
+    <item type="id" name="softkey_action_go" />
+    <item type="id" name="softkey_action_next" />
+    <item type="id" name="softkey_action_previous" />
+    <item type="id" name="softkey_action_search" />
+    <item type="id" name="softkey_action_send" />
+    <item type="id" name="softkey_add" />
+    <item type="id" name="softkey_am" />
+    <item type="id" name="softkey_ampersand" />
+    <item type="id" name="softkey_apostrophe" />
+    <item type="id" name="softkey_asterisk" />
+    <item type="id" name="softkey_at" />
+    <item type="id" name="softkey_back" />
+    <item type="id" name="softkey_back_en" />
+    <item type="id" name="softkey_back_ko" />
+    <item type="id" name="softkey_back_on_down" />
+    <item type="id" name="softkey_backslash" />
+    <item type="id" name="softkey_bottom_at" />
+    <item type="id" name="softkey_bottom_at_popup_settings" />
+    <item type="id" name="softkey_bottom_com" />
+    <item type="id" name="softkey_bottom_comma" />
+    <item type="id" name="softkey_bottom_comma_popup_settings" />
+    <item type="id" name="softkey_bottom_sentence" />
+    <item type="id" name="softkey_bottom_sentence_popup_com" />
+    <item type="id" name="softkey_bottom_sentence_popup_punctuation" />
+    <item type="id" name="softkey_bottom_sentence_popup_smiley" />
+    <item type="id" name="softkey_bottom_slash" />
+    <item type="id" name="softkey_bottom_slash_popup_settings" />
+    <item type="id" name="softkey_bottom_underscore" />
+    <item type="id" name="softkey_bullet" />
+    <item type="id" name="softkey_candidate_del" />
+    <item type="id" name="softkey_candidate_del_composing" />
+    <item type="id" name="softkey_capital_letter_pi" />
+    <item type="id" name="softkey_careof" />
+    <item type="id" name="softkey_cent_sign" />
+    <item type="id" name="softkey_circumflex" />
+    <item type="id" name="softkey_clear_all" />
+    <item type="id" name="softkey_colon" />
+    <item type="id" name="softkey_comma" />
+    <item type="id" name="softkey_copyright" />
+    <item type="id" name="softkey_degree_sign" />
+    <item type="id" name="softkey_del" />
+    <item type="id" name="softkey_del_composing" />
+    <item type="id" name="softkey_digit_0" />
+    <item type="id" name="softkey_digit_1" />
+    <item type="id" name="softkey_digit_2" />
+    <item type="id" name="softkey_digit_3" />
+    <item type="id" name="softkey_digit_4" />
+    <item type="id" name="softkey_digit_5" />
+    <item type="id" name="softkey_digit_6" />
+    <item type="id" name="softkey_digit_7" />
+    <item type="id" name="softkey_digit_8" />
+    <item type="id" name="softkey_digit_9" />
+    <item type="id" name="softkey_division" />
+    <item type="id" name="softkey_dollar" />
+    <item type="id" name="softkey_dollar_sign" />
+    <item type="id" name="softkey_ellipsis" />
+    <item type="id" name="softkey_empty" />
+    <item type="id" name="softkey_en_active_in_dashboard" />
+    <item type="id" name="softkey_en_deactive_in_dashboard" />
+    <item type="id" name="softkey_en_qwerty_a" />
+    <item type="id" name="softkey_en_qwerty_b" />
+    <item type="id" name="softkey_en_qwerty_c" />
+    <item type="id" name="softkey_en_qwerty_d" />
+    <item type="id" name="softkey_en_qwerty_e" />
+    <item type="id" name="softkey_en_qwerty_f" />
+    <item type="id" name="softkey_en_qwerty_g" />
+    <item type="id" name="softkey_en_qwerty_h" />
+    <item type="id" name="softkey_en_qwerty_i" />
+    <item type="id" name="softkey_en_qwerty_j" />
+    <item type="id" name="softkey_en_qwerty_k" />
+    <item type="id" name="softkey_en_qwerty_l" />
+    <item type="id" name="softkey_en_qwerty_m" />
+    <item type="id" name="softkey_en_qwerty_m_underline" />
+    <item type="id" name="softkey_en_qwerty_n" />
+    <item type="id" name="softkey_en_qwerty_o" />
+    <item type="id" name="softkey_en_qwerty_p" />
+    <item type="id" name="softkey_en_qwerty_q" />
+    <item type="id" name="softkey_en_qwerty_r" />
+    <item type="id" name="softkey_en_qwerty_s" />
+    <item type="id" name="softkey_en_qwerty_t" />
+    <item type="id" name="softkey_en_qwerty_u" />
+    <item type="id" name="softkey_en_qwerty_up_a" />
+    <item type="id" name="softkey_en_qwerty_up_b" />
+    <item type="id" name="softkey_en_qwerty_up_c" />
+    <item type="id" name="softkey_en_qwerty_up_d" />
+    <item type="id" name="softkey_en_qwerty_up_e" />
+    <item type="id" name="softkey_en_qwerty_up_f" />
+    <item type="id" name="softkey_en_qwerty_up_g" />
+    <item type="id" name="softkey_en_qwerty_up_h" />
+    <item type="id" name="softkey_en_qwerty_up_i" />
+    <item type="id" name="softkey_en_qwerty_up_j" />
+    <item type="id" name="softkey_en_qwerty_up_k" />
+    <item type="id" name="softkey_en_qwerty_up_l" />
+    <item type="id" name="softkey_en_qwerty_up_m" />
+    <item type="id" name="softkey_en_qwerty_up_m_underline" />
+    <item type="id" name="softkey_en_qwerty_up_n" />
+    <item type="id" name="softkey_en_qwerty_up_o" />
+    <item type="id" name="softkey_en_qwerty_up_p" />
+    <item type="id" name="softkey_en_qwerty_up_q" />
+    <item type="id" name="softkey_en_qwerty_up_r" />
+    <item type="id" name="softkey_en_qwerty_up_s" />
+    <item type="id" name="softkey_en_qwerty_up_t" />
+    <item type="id" name="softkey_en_qwerty_up_u" />
+    <item type="id" name="softkey_en_qwerty_up_v" />
+    <item type="id" name="softkey_en_qwerty_up_w" />
+    <item type="id" name="softkey_en_qwerty_up_x" />
+    <item type="id" name="softkey_en_qwerty_up_y" />
+    <item type="id" name="softkey_en_qwerty_up_z" />
+    <item type="id" name="softkey_en_qwerty_up_z_comma" />
+    <item type="id" name="softkey_en_qwerty_v" />
+    <item type="id" name="softkey_en_qwerty_w" />
+    <item type="id" name="softkey_en_qwerty_x" />
+    <item type="id" name="softkey_en_qwerty_y" />
+    <item type="id" name="softkey_en_qwerty_z" />
+    <item type="id" name="softkey_en_qwerty_z_comma" />
+    <item type="id" name="softkey_enter" />
+    <item type="id" name="softkey_enter_plain_text" />
+    <item type="id" name="softkey_equal" />
+    <item type="id" name="softkey_euro_sign" />
+    <item type="id" name="softkey_exclamation" />
+    <item type="id" name="softkey_floating_candidate_del" />
+    <item type="id" name="softkey_floating_candidate_del_composing" />
+    <item type="id" name="softkey_floating_candidate_page_down" />
+    <item type="id" name="softkey_floating_candidate_page_down_disabled" />
+    <item type="id" name="softkey_floating_candidate_page_up" />
+    <item type="id" name="softkey_floating_candidate_page_up_disabled" />
+    <item type="id" name="softkey_floating_hide_more_candidates" />
+    <item type="id" name="softkey_floating_show_more_candidates" />
+    <item type="id" name="softkey_focusable_empty" />
+    <item type="id" name="softkey_fragment_action_key_popup_emoji" />
+    <item type="id" name="softkey_fragment_action_key_popup_emoticon" />
+    <item type="id" name="softkey_fragment_action_key_popup_insert_new_line" />
+    <item type="id" name="softkey_fragment_action_key_popup_next" />
+    <item type="id" name="softkey_fragment_action_key_popup_previous" />
+    <item type="id" name="softkey_fragment_bottom_popup_settings" />
+    <item type="id" name="softkey_fragment_bottom_popup_settings_with_symbols" />
+    <item type="id" name="softkey_fragment_popup_switch_to_left_handed_mode" />
+    <item type="id" name="softkey_fragment_popup_switch_to_right_handed_mode" />
+    <item type="id" name="softkey_grave" />
+    <item type="id" name="softkey_header_bottom_separator" />
+    <item type="id" name="softkey_hide_keyboard" />
+    <item type="id" name="softkey_hide_more_candidates" />
+    <item type="id" name="softkey_holder_10key_left" />
+    <item type="id" name="softkey_holder_9key_left_panel" />
+    <item type="id" name="softkey_holder_digit_tablet_left_part" />
+    <item type="id" name="softkey_holder_digit_tablet_right_part" />
+    <item type="id" name="softkey_holder_fixed_candidates" />
+    <item type="id" name="softkey_holder_more_candidates" />
+    <item type="id" name="softkey_holder_reading_text_candidates" />
+    <item type="id" name="softkey_holder_recent_emoji_holder" />
+    <item type="id" name="softkey_holder_symbol_header" />
+    <item type="id" name="softkey_increment" />
+    <item type="id" name="softkey_inverted_exclamation" />
+    <item type="id" name="softkey_inverted_question" />
+    <item type="id" name="softkey_ko_10key_row1_1" />
+    <item type="id" name="softkey_ko_10key_row1_2" />
+    <item type="id" name="softkey_ko_10key_row1_3" />
+    <item type="id" name="softkey_ko_10key_row2_1" />
+    <item type="id" name="softkey_ko_10key_row2_2" />
+    <item type="id" name="softkey_ko_10key_row2_3" />
+    <item type="id" name="softkey_ko_10key_row3_1" />
+    <item type="id" name="softkey_ko_10key_row3_2" />
+    <item type="id" name="softkey_ko_10key_row3_3" />
+    <item type="id" name="softkey_ko_10key_row4_1" />
+    <item type="id" name="softkey_ko_2_bulsik_0" />
+    <item type="id" name="softkey_ko_2_bulsik_1" />
+    <item type="id" name="softkey_ko_2_bulsik_2" />
+    <item type="id" name="softkey_ko_2_bulsik_3" />
+    <item type="id" name="softkey_ko_2_bulsik_4" />
+    <item type="id" name="softkey_ko_2_bulsik_5" />
+    <item type="id" name="softkey_ko_2_bulsik_6" />
+    <item type="id" name="softkey_ko_2_bulsik_7" />
+    <item type="id" name="softkey_ko_2_bulsik_8" />
+    <item type="id" name="softkey_ko_2_bulsik_9" />
+    <item type="id" name="softkey_ko_2_bulsik_a" />
+    <item type="id" name="softkey_ko_2_bulsik_b" />
+    <item type="id" name="softkey_ko_2_bulsik_c" />
+    <item type="id" name="softkey_ko_2_bulsik_d" />
+    <item type="id" name="softkey_ko_2_bulsik_f" />
+    <item type="id" name="softkey_ko_2_bulsik_g" />
+    <item type="id" name="softkey_ko_2_bulsik_h" />
+    <item type="id" name="softkey_ko_2_bulsik_j" />
+    <item type="id" name="softkey_ko_2_bulsik_k" />
+    <item type="id" name="softkey_ko_2_bulsik_l" />
+    <item type="id" name="softkey_ko_2_bulsik_m" />
+    <item type="id" name="softkey_ko_2_bulsik_m_underline" />
+    <item type="id" name="softkey_ko_2_bulsik_n" />
+    <item type="id" name="softkey_ko_2_bulsik_s" />
+    <item type="id" name="softkey_ko_2_bulsik_up_0" />
+    <item type="id" name="softkey_ko_2_bulsik_up_1" />
+    <item type="id" name="softkey_ko_2_bulsik_up_2" />
+    <item type="id" name="softkey_ko_2_bulsik_up_3" />
+    <item type="id" name="softkey_ko_2_bulsik_up_4" />
+    <item type="id" name="softkey_ko_2_bulsik_up_5" />
+    <item type="id" name="softkey_ko_2_bulsik_up_9" />
+    <item type="id" name="softkey_ko_2_bulsik_v" />
+    <item type="id" name="softkey_ko_2_bulsik_x" />
+    <item type="id" name="softkey_ko_2_bulsik_z" />
+    <item type="id" name="softkey_ko_short_vowel_0" />
+    <item type="id" name="softkey_ko_short_vowel_1" />
+    <item type="id" name="softkey_ko_short_vowel_2" />
+    <item type="id" name="softkey_ko_short_vowel_3" />
+    <item type="id" name="softkey_ko_short_vowel_4" />
+    <item type="id" name="softkey_ko_short_vowel_5" />
+    <item type="id" name="softkey_ko_short_vowel_6" />
+    <item type="id" name="softkey_ko_short_vowel_7" />
+    <item type="id" name="softkey_ko_short_vowel_8" />
+    <item type="id" name="softkey_ko_short_vowel_9" />
+    <item type="id" name="softkey_ko_short_vowel_row2_0" />
+    <item type="id" name="softkey_ko_short_vowel_row2_1" />
+    <item type="id" name="softkey_ko_short_vowel_row2_2" />
+    <item type="id" name="softkey_ko_short_vowel_row2_3" />
+    <item type="id" name="softkey_ko_short_vowel_row2_4" />
+    <item type="id" name="softkey_ko_short_vowel_row2_5" />
+    <item type="id" name="softkey_ko_short_vowel_row3_0" />
+    <item type="id" name="softkey_ko_short_vowel_row3_1" />
+    <item type="id" name="softkey_ko_short_vowel_row3_2" />
+    <item type="id" name="softkey_ko_short_vowel_row3_3" />
+    <item type="id" name="softkey_ko_short_vowel_row3_4" />
+    <item type="id" name="softkey_ko_short_vowel_row3_5" />
+    <item type="id" name="softkey_korean_active" />
+    <item type="id" name="softkey_korean_active_in_dashboard" />
+    <item type="id" name="softkey_korean_deactive" />
+    <item type="id" name="softkey_korean_deactive_in_dashboard" />
+    <item type="id" name="softkey_left_bracket" />
+    <item type="id" name="softkey_left_curley_bracket" />
+    <item type="id" name="softkey_left_double_quotation" />
+    <item type="id" name="softkey_left_parenthesis" />
+    <item type="id" name="softkey_left_square_bracket" />
+    <item type="id" name="softkey_less_than" />
+    <item type="id" name="softkey_less_than_or_equal_to" />
+    <item type="id" name="softkey_light_and" />
+    <item type="id" name="softkey_light_at" />
+    <item type="id" name="softkey_light_dollar" />
+    <item type="id" name="softkey_light_exclamation_mark" />
+    <item type="id" name="softkey_light_hat" />
+    <item type="id" name="softkey_light_left_bracket" />
+    <item type="id" name="softkey_light_percent" />
+    <item type="id" name="softkey_light_pound" />
+    <item type="id" name="softkey_light_right_bracket" />
+    <item type="id" name="softkey_light_star" />
+    <item type="id" name="softkey_lock" />
+    <item type="id" name="softkey_locked" />
+    <item type="id" name="softkey_low_line" />
+    <item type="id" name="softkey_minus" />
+    <item type="id" name="softkey_more_than" />
+    <item type="id" name="softkey_more_than_or_equal_to" />
+    <item type="id" name="softkey_move_cursor" />
+    <item type="id" name="softkey_multiplication" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_1_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_1_deactive" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_2_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_2_deactive" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_3_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_3_deactive" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_4_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_4_deactive" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_5_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_5_deactive" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_6_active" />
+    <item type="id" name="softkey_non_prime_emoticon_sub_category_6_deactive" />
+    <item type="id" name="softkey_non_prime_main_category_digit" />
+    <item type="id" name="softkey_non_prime_main_category_emoji" />
+    <item type="id" name="softkey_non_prime_main_category_emoticon" />
+    <item type="id" name="softkey_non_prime_main_category_symbol" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_1_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_1_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_2_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_2_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_3_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_3_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_4_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_4_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_5_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_5_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_6_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_6_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_7_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_7_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_8_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_8_deactive" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_9_active" />
+    <item type="id" name="softkey_non_prime_smiley_sub_category_9_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_1_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_1_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_2_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_2_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_3_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_3_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_4_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_4_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_5_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_5_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_6_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_6_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_7_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_7_deactive" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_8_active" />
+    <item type="id" name="softkey_non_prime_symbol_sub_category_8_deactive" />
+    <item type="id" name="softkey_non_prime_tab_digit_active" />
+    <item type="id" name="softkey_non_prime_tab_digit_deactive" />
+    <item type="id" name="softkey_non_prime_tab_smiley_active" />
+    <item type="id" name="softkey_non_prime_tab_symbol_active" />
+    <item type="id" name="softkey_non_prime_tab_symbol_deactive" />
+    <item type="id" name="softkey_non_prime_tab_web_active" />
+    <item type="id" name="softkey_non_prime_tab_web_deactive" />
+    <item type="id" name="softkey_not_equal_to" />
+    <item type="id" name="softkey_page_down" />
+    <item type="id" name="softkey_page_down_disabled" />
+    <item type="id" name="softkey_page_left" />
+    <item type="id" name="softkey_page_right" />
+    <item type="id" name="softkey_page_up" />
+    <item type="id" name="softkey_page_up_disabled" />
+    <item type="id" name="softkey_password_0" />
+    <item type="id" name="softkey_password_1" />
+    <item type="id" name="softkey_password_2" />
+    <item type="id" name="softkey_password_3" />
+    <item type="id" name="softkey_password_4" />
+    <item type="id" name="softkey_password_5" />
+    <item type="id" name="softkey_password_6" />
+    <item type="id" name="softkey_password_7" />
+    <item type="id" name="softkey_password_8" />
+    <item type="id" name="softkey_password_9" />
+    <item type="id" name="softkey_percent" />
+    <item type="id" name="softkey_period" />
+    <item type="id" name="softkey_phone_numbers_0" />
+    <item type="id" name="softkey_phone_numbers_0_add" />
+    <item type="id" name="softkey_phone_numbers_1" />
+    <item type="id" name="softkey_phone_numbers_123" />
+    <item type="id" name="softkey_phone_numbers_2" />
+    <item type="id" name="softkey_phone_numbers_3" />
+    <item type="id" name="softkey_phone_numbers_4" />
+    <item type="id" name="softkey_phone_numbers_5" />
+    <item type="id" name="softkey_phone_numbers_6" />
+    <item type="id" name="softkey_phone_numbers_7" />
+    <item type="id" name="softkey_phone_numbers_8" />
+    <item type="id" name="softkey_phone_numbers_9" />
+    <item type="id" name="softkey_phone_numbers_add" />
+    <item type="id" name="softkey_phone_numbers_asterisk" />
+    <item type="id" name="softkey_phone_numbers_left_bracket" />
+    <item type="id" name="softkey_phone_numbers_minus" />
+    <item type="id" name="softkey_phone_numbers_n" />
+    <item type="id" name="softkey_phone_numbers_pause" />
+    <item type="id" name="softkey_phone_numbers_pound" />
+    <item type="id" name="softkey_phone_numbers_right_bracket" />
+    <item type="id" name="softkey_phone_numbers_slash" />
+    <item type="id" name="softkey_phone_numbers_symbols" />
+    <item type="id" name="softkey_phone_numbers_wait" />
+    <item type="id" name="softkey_pilcrow" />
+    <item type="id" name="softkey_plus" />
+    <item type="id" name="softkey_plus_minus" />
+    <item type="id" name="softkey_pm" />
+    <item type="id" name="softkey_pound" />
+    <item type="id" name="softkey_pound_sign" />
+    <item type="id" name="softkey_question" />
+    <item type="id" name="softkey_quote" />
+    <item type="id" name="softkey_registered" />
+    <item type="id" name="softkey_right_bracket" />
+    <item type="id" name="softkey_right_curley_bracket" />
+    <item type="id" name="softkey_right_double_quotation" />
+    <item type="id" name="softkey_right_parenthesis" />
+    <item type="id" name="softkey_right_square_bracket" />
+    <item type="id" name="softkey_rmb" />
+    <item type="id" name="softkey_row_splitter" />
+    <item type="id" name="softkey_semicolon" />
+    <item type="id" name="softkey_sentence" />
+    <item type="id" name="softkey_sentence_am_pm" />
+    <item type="id" name="softkey_settings_key" />
+    <item type="id" name="softkey_shift" />
+    <item type="id" name="softkey_shift_disabled" />
+    <item type="id" name="softkey_shift_flip" />
+    <item type="id" name="softkey_shift_locked" />
+    <item type="id" name="softkey_shift_locked_flip" />
+    <item type="id" name="softkey_shift_no_lock" />
+    <item type="id" name="softkey_shift_shifted" />
+    <item type="id" name="softkey_shift_shifted_combo" />
+    <item type="id" name="softkey_shift_shifted_no_lock" />
+    <item type="id" name="softkey_show_more_candidates" />
+    <item type="id" name="softkey_slash" />
+    <item type="id" name="softkey_slash_colon" />
+    <item type="id" name="softkey_small_letter_pi" />
+    <item type="id" name="softkey_space_bottom_key" />
+    <item type="id" name="softkey_space_digit_0" />
+    <item type="id" name="softkey_space_empty" />
+    <item type="id" name="softkey_space_en" />
+    <item type="id" name="softkey_space_key" />
+    <item type="id" name="softkey_space_no_ime_picker_key" />
+    <item type="id" name="softkey_square_root" />
+    <item type="id" name="softkey_star" />
+    <item type="id" name="softkey_sub_category_separator" />
+    <item type="id" name="softkey_sub_category_separator_sticky" />
+    <item type="id" name="softkey_switch_to_emoji" />
+    <item type="id" name="softkey_switch_to_emoji_as_action" />
+    <item type="id" name="softkey_switch_to_emoticon" />
+    <item type="id" name="softkey_switch_to_emoticon_as_action" />
+    <item type="id" name="softkey_switch_to_en" />
+    <item type="id" name="softkey_switch_to_ko" />
+    <item type="id" name="softkey_switch_to_next_language" />
+    <item type="id" name="softkey_switch_to_next_language_disabled" />
+    <item type="id" name="softkey_switch_to_non_prime_keyboard" />
+    <item type="id" name="softkey_switch_to_symbols" />
+    <item type="id" name="softkey_switch_to_zh" />
+    <item type="id" name="softkey_template_action_key" />
+    <item type="id" name="softkey_template_header_emoji" />
+    <item type="id" name="softkey_template_ko_2_bulsik" />
+    <item type="id" name="softkey_template_ko_2_bulsik_up" />
+    <item type="id" name="softkey_template_ko_short_vowel" />
+    <item type="id" name="softkey_template_light_emoji" />
+    <item type="id" name="softkey_template_light_emoji_header" />
+    <item type="id" name="softkey_template_light_emoticon" />
+    <item type="id" name="softkey_template_light_symbol" />
+    <item type="id" name="softkey_template_light_symbol_auto_sized" />
+    <item type="id" name="softkey_template_sub_category_active" />
+    <item type="id" name="softkey_template_sub_category_deactive" />
+    <item type="id" name="softkey_template_sub_category_text_active" />
+    <item type="id" name="softkey_template_sub_category_text_deactive" />
+    <item type="id" name="softkey_template_symbol_bottom" />
+    <item type="id" name="softkey_template_symbol_number" />
+    <item type="id" name="softkey_tilde" />
+    <item type="id" name="softkey_trade_mark" />
+    <item type="id" name="softkey_tutorial" />
+    <item type="id" name="softkey_vertical_line" />
+    <item type="id" name="softkey_voice" />
+    <item type="id" name="softkey_wave" />
+    <item type="id" name="softkey_yen_sign" />
+    <item type="id" name="softkey_zwnj" />
+    <item type="id" name="softkey_zwnj_non_decode" />
+    <item type="id" name="softkeys_input_emoji_sub_category_1" />
+    <item type="id" name="softkeys_input_emoji_sub_category_2" />
+    <item type="id" name="softkeys_input_emoji_sub_category_3" />
+    <item type="id" name="softkeys_input_emoji_sub_category_4" />
+    <item type="id" name="softkeys_input_emoji_sub_category_5" />
+    <item type="id" name="softkeys_input_emoji_sub_category_6" />
+    <item type="id" name="softkeys_input_emoji_sub_category_7" />
+    <item type="id" name="softkeys_input_emoji_sub_category_8" />
+    <item type="id" name="softkeys_input_emoji_sub_category_9" />
+    <item type="id" name="softkeys_input_emoticon" />
+    <item type="id" name="softkeys_input_symbol" />
+    <item type="id" name="softkeys_symbol_header" />
+    <item type="id" name="softkeys_symbol_header_2" />
+    <item type="id" name="softkeys_symbols_digit_tablet_left_part" />
+    <item type="id" name="softkeys_symbols_digit_tablet_right_part" />
+    <item type="id" name="suggestions_strip" />
+    <item type="id" name="switch_one_hand" />
+    <item type="id" name="t9_input_area" />
+    <item type="id" name="theme_builder_opacity_overlay_view" />
+    <item type="id" name="theme_builder_pager_view" />
+    <item type="id" name="theme_selector_back" />
+    <item type="id" name="theme_selector_candidate_selector" />
+    <item type="id" name="theme_selector_candidates_holder" />
+    <item type="id" name="theme_selector_key_border" />
+    <item type="id" name="theme_selector_key_border_option" />
+    <item type="id" name="theme_selector_preview" />
+    <item type="id" name="theme_selector_view" />
+    <item type="id" name="tutorial_dark_theme_image_view" />
+    <item type="id" name="tutorial_enable_button" />
+    <item type="id" name="tutorial_enable_item_num_label" />
+    <item type="id" name="tutorial_light_theme_image_view" />
+    <item type="id" name="tutorial_pager" />
+    <item type="id" name="tutorial_select_button" />
+    <item type="id" name="tutorial_select_item_num_label" />
+    <item type="id" name="tutorial_select_languages_button" />
+    <item type="id" name="tutorial_selected_languages_label" />
+    <item type="id" name="user_metrics_check_box" />
+    <item type="id" name="user_metrics_hint" />
+    <item type="id" name="title">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="shadow_layout">false</item>
+    <item type="id" name="breadcrumb">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="controller_layout">false</item>
+    <item type="id" name="controller_duration">false</item>
+    <item type="id" name="controller_seekBar">false</item>
+    <item type="id" name="controller_time">false</item>
+    <item type="id" name="play_pause_wrapper">false</item>
+    <item type="id" name="controller_rw">false</item>
+    <item type="id" name="controller_prev">false</item>
+    <item type="id" name="controller_playpause">false</item>
+    <item type="id" name="controller_next">false</item>
+    <item type="id" name="controller_ffw">false</item>
+    <item type="id" name="art">false</item>
+    <item type="id" name="artist">false</item>
+    <item type="id" name="album">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="metadata_frame">false</item>
+    <item type="id" name="listview">false</item>
+    <item type="id" name="edittext">false</item>
+    <item type="id" name="features_pager">false</item>
+    <item type="id" name="done">false</item>
+    <item type="id" name="backspace">false</item>
+    <item type="id" name="mode_toggle">false</item>
+    <item type="id" name="mode_holder">false</item>
+    <item type="id" name="alphabet_holder">false</item>
+    <item type="id" name="number_holder">false</item>
+    <item type="id" name="keys">false</item>
+    <item type="id" name="circle">false</item>
+    <item type="id" name="picker">false</item>
+    <item type="id" name="column">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="separator">false</item>
+    <item type="id" name="controller_view">false</item>
+    <item type="id" name="dropzone_layout">false</item>
+    <item type="id" name="dropzone_text">false</item>
+    <item type="id" name="dropzone_view">false</item>
+    <item type="id" name="compatibility_overlay">false</item>
+    <item type="id" name="preference_frame">false</item>
+    <item type="id" name="pref_seekbar_value">false</item>
+    <item type="id" name="pref_seekbar_unit">false</item>
+    <item type="id" name="pref_seekbar_text_left">false</item>
+    <item type="id" name="pref_seekbar_text_center">false</item>
+    <item type="id" name="pref_seekbar_text_right">false</item>
+    <item type="id" name="pref_seekbar_seekbar">false</item>
+    <item type="id" name="selector">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="action_checkmark">false</item>
+    <item type="id" name="action_icon">false</item>
+    <item type="id" name="action_next_chevron_background">false</item>
+    <item type="id" name="action_next_chevron">false</item>
+    <item type="id" name="action_content">false</item>
+    <item type="id" name="action_title">false</item>
+    <item type="id" name="action_description">false</item>
+    <item type="id" name="theme_builder_brightness_bar_frame">false</item>
+    <item type="id" name="theme_builder_brightness_bar">false</item>
+    <item type="id" name="theme_builder_brightness_bar_value_text">false</item>
+    <item type="id" name="theme_builder_brightness_preview_background">false</item>
+    <item type="id" name="theme_builder_brightness_preview_header">false</item>
+    <item type="id" name="theme_builder_brightness_preview_body">false</item>
+    <item type="id" name="theme_builder_brightness_preview_face">false</item>
+    <item type="id" name="theme_builder_brightness_view_done">false</item>
+    <item type="id" name="theme_builder_cropping_view_background">false</item>
+    <item type="id" name="theme_builder_cropping_window_frame">false</item>
+    <item type="id" name="theme_builder_cropping_window">false</item>
+    <item type="id" name="theme_builder_cropping_view_next">false</item>
+    <item type="id" name="toast_layout_root">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="tutorial_overlay">false</item>
+    <item type="id" name="tutorial_edit">false</item>
+    <item type="id" name="tutorial_keyboard">false</item>
+    <item type="id" name="tutorial_replay_holder">false</item>
+    <item type="id" name="tutorial_replay">false</item>
+    <item type="id" name="tutorial_title">false</item>
+    <item type="id" name="tutorial_detail">false</item>
+    <item type="id" name="action_fragment">false</item>
+    <item type="id" name="content_fragment">false</item>
+    <item type="id" name="softkey_template_bottom_line_punctuation_bottom">false</item>
+    <item type="id" name="softkey_template_bottom_line_punctuation_bottom_popup_label_small">false</item>
+    <item type="id" name="softkey_template_bottom_line_punctuation">false</item>
+    <item type="id" name="softkey_template_9key">false</item>
+    <item type="id" name="softkey_template_digit">false</item>
+    <item type="id" name="softkey_template_password">false</item>
+    <item type="id" name="softkey_template_en_qwerty">false</item>
+    <item type="id" name="softkey_template_10key">false</item>
+    <item type="id" name="softkey_template_symbol">false</item>
+    <item type="id" name="softkey_template_9key_left_panel">false</item>
+    <item type="id" name="softkey_template_light_label">false</item>
+    <item type="id" name="softkey_template_number_and_label">false</item>
+    <item type="id" name="softkey_template_digit_left_panel">false</item>
+    <item type="id" name="softkey_template_digit_right_panel">false</item>
+    <item type="id" name="softkey_template_punctuation_number_tablet">false</item>
+    <item type="id" name="softkey_template_punctuation_qwerty_tablet">false</item>
+</resources>

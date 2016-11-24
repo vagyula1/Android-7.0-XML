@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="large_card_columns">1</integer>
+    <integer name="mainstage_recents_cols">3</integer>
+    <integer name="small_card_columns">2</integer>
+    <integer name="new_releases_columns">2</integer>
+    <integer name="new_releases_large_card_size">2</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="bottom_sheet_slide_duration">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_activityDefaultDur">220</integer>
+    <integer name="config_activityShortDur">150</integer>
+    <integer name="curated_radio_container_cluster_rows">2</integer>
+    <integer name="google_play_services_version">8487000</integer>
+    <integer name="leanback_scale_anim_duration">150</integer>
+    <integer name="lights_up_timeout_ms">1500</integer>
+    <integer name="lights_up_user_action_timeout_ms">4000</integer>
+    <integer name="mainstage_recents_rows">2</integer>
+    <integer name="mr_controller_volume_group_list_animation_duration_ms">400</integer>
+    <integer name="mr_controller_volume_group_list_fade_in_duration_ms">400</integer>
+    <integer name="mr_controller_volume_group_list_fade_out_duration_ms">200</integer>
+    <integer name="play_download_arc_background_transition_interval_ms">264</integer>
+    <integer name="play_download_arc_background_transition_step_ms">33</integer>
+    <integer name="play_download_arc_min_percent">6</integer>
+    <integer name="play_download_download_frame_ms">240</integer>
+    <integer name="play_download_finish_frame_ms">33</integer>
+    <integer name="play_download_press_frame_ms">33</integer>
+    <integer name="play_onboard__drop_count">15</integer>
+    <integer name="play_onboard__drop_duration_ms">2000</integer>
+    <integer name="play_onboard__slide_duration_ms">300</integer>
+    <integer name="play_onboard__splash_duration_ms">2000</integer>
+    <item type="integer" name="quiz_artist_columns">@integer/small_card_columns</item>
+    <item type="integer" name="quiz_genre_columns">@integer/small_card_columns</item>
+    <integer name="radio_container_cluster_rows">4</integer>
+    <item type="integer" name="short_animation_time">@android:integer/config_shortAnimTime</item>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="track_cluster_columns">1</integer>
+    <integer name="track_cluster_rows">5</integer>
+    <integer name="unavailable_card_opacity">50</integer>
+</resources>

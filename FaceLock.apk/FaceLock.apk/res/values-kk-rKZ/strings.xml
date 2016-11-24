@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_notification_needs_update_title">Қолданба Google Play қызметтерін жаңартуды талап етеді.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s пайдалану үшін Android Wear қолданбасын жаңарту қажет.</string>
+    <string name="common_google_play_services_needs_enabling_title">Қолданба Google Play қызметтерін қосуды қажет етеді.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s арқылы сұралған</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_install_text_phone">Google Play қызметтері телефонда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_text_tablet">Google Play қызметтері планшетте болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_button">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_enable_text">Google Play қызметтерін қосқанша %1$s жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_button">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_android_wear_update_title">Android Wear қолданбасын жаңарту</string>
+    <string name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_android_wear_update_text">Android Wear қолданбасын жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_updating_title">Google Play қызметтері жаңартылуда</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_network_error_title">Желі қатесі</string>
+    <string name="common_google_play_services_network_error_text">Google Play қызметтеріне қосылу үшін деректер байланысы талап етіледі.</string>
+    <string name="common_google_play_services_invalid_account_title">Жарамсыз тіркелгі</string>
+    <string name="common_google_play_services_invalid_account_text">Бұл құрылғыда көрсетілген тіркелгі жоқ. Басқа тіркелгіні таңдаңыз.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play қызметтерімен белгісіз мәселе.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play қызметтері</string>
+    <string name="common_google_play_services_unsupported_text">%1$s құрылғыңыз қолдау көрсетпейтін Google Play қызметтеріне негізделген. Көмек алу үшін өндірушіге хабарласыңыз.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s үшін қазір істемей тұрған бір немесе бірнеше Google Play қызметі қажет. Көмек алу үшін әзірлеушіге хабарласыңыз.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Кіру сәтсіз аяқталды</string>
+    <string name="common_google_play_services_sign_in_failed_text">Көрсетілген есептік жазбаға кіру кезіндегі қате. Басқа есептік жазбаны таңдаңыз.</string>
+    <string name="app_name">Сенімді бет</string>
+    <string name="trusted_face_service_app_name">Trusted Face Service</string>
+    <string name="receiver_app_name">Сенімді бетті таратуды қабылдағыш</string>
+    <string name="intro_screen_title">Сенімді бет туралы</string>
+    <string name="intro_screen_header">Телефоныңыздың құлпын оған қарап ашыңыз</string>
+    <string name="intro_screen_body_start">"Есте сақтаңыз: 
+"</string>
+    <string name="intro_screen_bullets">"Бет сәйкестігін анықтаудың қауіпсіздігі өрнек, PIN код немесе құпия сөзден азырақ
+
+Беті сізге ұқсайтын біреу телефоныңыздың құлпын ашуы мүмкін
+
+Бетіңізді тану үшін пайдаланылатын деректер телефоныңызда құпия күйінде сақталады"</string>
+    <string name="intro_screen_continue_label">Реттеу</string>
+    <string name="instructions_screen_title">Сенімді бет суретін қосу</string>
+    <string name="instructions_screen_header">Қажетті нәтиже алынуы үшін:</string>
+    <string name="instructions_screen_bullets">"Бөлменің тым жарық та, тым қараңғы да емес бір жерін табыңыз
+
+Телефонды көз деңгейінде ұстаңыз"</string>
+    <string name="instructions_screen_continue_label">Келесі</string>
+    <string name="enrollment_screen_title">Сенімді бетті қосу</string>
+    <string name="enrollment_screen_message_initializing">Іске қосылуда…</string>
+    <string name="enrollment_screen_message_initialization_error">Бетті анықтау функциясы қосылмайды</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Камера рұқсаты берілмеді</string>
+    <string name="enrollment_screen_message_camera_error">Камера қолжетімсіз</string>
+    <string name="enrollment_start_message">Бетті нүктемен белгіленген аумақты ұстаңыз</string>
+    <string name="enrollment_screen_message_instructions">Басыңыздың төбесінен иегіңіздің төменгі жағына дейін, бүкіл бетіңіз шеңбердің ішіне кіріп тұруы керек</string>
+    <string name="enrollment_screen_message_done">Бет қосылды</string>
+    <string name="enrollment_screen_status_no_face">Бетіңізді көрсетіңіз</string>
+    <string name="enrollment_screen_status_face_off_center">Бетіңіздің бір бөлігі көрінбей тұр</string>
+    <string name="enrollment_screen_status_missing_template">Бет-әлпетті толық көру мүмкін емес</string>
+    <string name="enrollment_screen_continue_label">Келесі</string>
+    <string name="enrollment_screen_done_label">Дайын</string>
+    <string name="enrollment_screen_talkback_preview_description">Камерадан алдын ала қарау</string>
+    <string name="enrollment_screen_talkback_face_added">Бет қосылды</string>
+    <string name="end_screen_title">Барлығы орнатылды!</string>
+    <string name="end_screen_body">Телефоныңыздың құлпын ашу үшін экраныңызды іске қосып, камераға қараңыз</string>
+    <string name="end_screen_bullet_one_text">Телефоныңыз сізді танығанда, құлпы ашылады.</string>
+    <string name="end_screen_bullet_two_text">Бетіңізді танымаса, құлыпты өрнек, PIN коды немесе құпия сөз арқылы ашыңыз</string>
+    <string name="end_screen_tip_text">Кеңес: әр түрлі жағдайдағы түріңізді көрсетсеңіз, бет сәйкестігін анықтау сапасы жақсарады.</string>
+    <string name="end_screen_licenses_label">Лицензиялар</string>
+    <string name="end_screen_continue_label">Дайын</string>
+    <string name="add_to_setup_intro_screen_title">Бет сәйкестігін анықтау сапасын жақсарту</string>
+    <string name="add_to_setup_intro_screen_header">Әр түрлі жағдайлардағы түріңізді көрсетіңіз.</string>
+    <string name="add_to_setup_intro_screen_body_start">"Мысалдар: 
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Әр түрлі жарықта
+
+Нұсқау бойынша көзілдірік таққан не тақпаған
+
+Сақалды немесе таза қырынған
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Телефонды көз деңгейінде ұстаңыз</string>
+    <string name="add_to_setup_intro_screen_continue_label">Келесі</string>
+    <string name="license_screen_title">Лицензиялар</string>
+    <string name="license_screen_header">Ашық бастапқы код туралы ескертулер</string>
+    <string name="license_screen_continue_label">Жарайды</string>
+    <string name="license_screen_description">\"Сенімді бет\" функциясы бастапқы коды ашық келесі кітапханалардың деректерін пайдалануы мүмкін (төменде лицензиялары да көрсетілген):</string>
+    <string name="license_screen_notices_header">Кітапханалар туралы ескертулер:</string>
+    <string name="shared_cancel_label">Бас тарту</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Бетті тану өзгерді. Оны пайдалануды жалғастыру үшін сенімді бетіңізді қайтадан қосыңыз.</string>
+</resources>

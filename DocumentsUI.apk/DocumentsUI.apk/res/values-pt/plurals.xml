@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Copiando %1$d arquivos.</item>
+        <item quantity="one">Copiando %1$d arquivos.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Movendo %1$d arquivos.</item>
+        <item quantity="one">Movendo %1$d arquivos.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Excluindo %1$d arquivos.</item>
+        <item quantity="one">Excluindo %1$d arquivos.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Não foi possível copiar %1$d arquivos</item>
+        <item quantity="one">Não foi possível copiar %1$d arquivos</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Não foi possível mover %1$d arquivos</item>
+        <item quantity="one">Não foi possível mover %1$d arquivos</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Não foi possível excluir %1$d arquivos</item>
+        <item quantity="one">Não foi possível excluir %1$d arquivos</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d arquivos copiados para a área de transferência.</item>
+        <item quantity="one">%1$d arquivos copiados para a área de transferência.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d itens</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Excluir %1$d arquivos?</item>
+        <item quantity="one">Excluir %1$d arquivos?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Excluir %1$d pastas e o respectivo conteúdo?</item>
+        <item quantity="one">Excluir %1$d pastas e o respectivo conteúdo?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Excluir %1$d itens?</item>
+        <item quantity="one">Excluir %1$d itens?</item>
+    </plurals>
+</resources>

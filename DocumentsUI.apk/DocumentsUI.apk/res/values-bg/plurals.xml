@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Копират се %1$d файла.</item>
+        <item quantity="one">Копира се %1$d файл.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">%1$d файла се преместват.</item>
+        <item quantity="one">%1$d файл се премества.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Изтриват се %1$d файла.</item>
+        <item quantity="one">Изтрива се %1$d файл.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">%1$d файла не можаха да се копират</item>
+        <item quantity="one">%1$d файл не можа да се копира</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d файла не можаха да бъдат преместени</item>
+        <item quantity="one">%1$d файл не можа да бъде преместен</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d файла не можаха да бъдат изтрити</item>
+        <item quantity="one">%1$d файл не можа да бъде изтрит</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">Копирахте %1$d файла в буферната памет.</item>
+        <item quantity="one">Копирахте %1$d файл в буферната памет.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d елемента</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Искате ли да изтриете %1$d файла?</item>
+        <item quantity="one">Искате ли да изтриете %1$d файл?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Искате ли да изтриете %1$d папки и съдържанието в тях?</item>
+        <item quantity="one">Искате ли да изтриете %1$d папка и съдържанието в нея?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Искате ли да изтриете %1$d елемента?</item>
+        <item quantity="one">Искате ли да изтриете %1$d елемент?</item>
+    </plurals>
+</resources>

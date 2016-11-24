@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suw_next_button_label">Далее</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Ещё</string>
+    <string name="entitlement_check_progress">Проверка статуса подписки. Подождите…</string>
+    <string name="att_service_upgrade_msg">Чтобы включить эту функцию, перейдите по ссылке att.com/mywireless или наберите 611</string>
+    <string name="att_network_error">Сеть недоступна. Повторите попытку позже.</string>
+    <string name="sprint_entitlement_error">Сервис не поддерживается. Обратитесь к своему поставщику услуг Интернета.</string>
+    <string name="sprint_network_error">Сеть недоступна. Повторите попытку позже.</string>
+    <string name="vzw_service_upgrade_msg">Чтобы использовать функцию мобильной точки доступа, обратитесь в службу поддержки.</string>
+    <string name="vzw_network_error">Сеть недоступна. Повторите попытку позже.</string>
+    <string name="vzw_wfc_activation_error">Не удалось включить звонки по Wi-Fi. Повторите попытку позже.</string>
+    <string name="vzw_address_update_error">Не удалось обновить экстренный адрес. Повторите попытку позже.</string>
+    <string name="generic_error">Ошибка авторизации. Повторите попытку позже.</string>
+    <string name="vzw_setup_app_label">Активация аккаунта Verizon</string>
+    <string name="vzw_activate_title">Активация телефона</string>
+    <string name="vzw_activate_progress">Подготовка телефона. Подождите…</string>
+    <string name="vzw_activate_exiting">Выход из режима активации…</string>
+    <string name="vzw_verify_title">Подтверждение аккаунта</string>
+    <string name="vzw_verify_ssn">Сначала введите последние четыре цифры номера социального обеспечения (SSN) владельца вашего акаунта:</string>
+    <string name="vzw_verify_pwd">Сначала введите платежный пароль вашего аккаунта:</string>
+    <string name="vzw_verify_button">Проверить</string>
+    <string name="vzw_later_button">Не сейчас</string>
+    <string name="vzw_verify_switch_ssn">Использовать номер социального обеспечения</string>
+    <string name="vzw_verify_switch_pwd">Использовать платежный пароль аккаунта</string>
+    <string name="vzw_verify_progress_title">Подтверждение аккаунта…</string>
+    <string name="vzw_activate_ready_title">Вы готовы выполнить активацию?</string>
+    <string name="vzw_activate_ready_new">Это может занять несколько минут</string>
+    <string name="vzw_activate_ready_upgrade">"Прежде чем начать активацию этого устройства, сделайте резервную копию контактов со старого телефона и выключите его.
+
+Как только вы запустите процесс активации, ваш старый телефон деактивируется, а номер будет перенесен на новый."</string>
+    <string name="vzw_activate_button">Активировать</string>
+    <string name="vzw_activating_new_title">Получение номера телефона...</string>
+    <string name="vzw_activating_upgrade_title">Перенос номера телефона...</string>
+    <string name="vzw_activating_upgrade">Перед тем как начать перенос номера телефона на новое устройство, выключите старый телефон.</string>
+    <string name="vzw_activate_success_title">Телефон активирован</string>
+    <string name="vzw_activate_success">Ваш телефон Verizon активирован. Номер телефона: %1$s</string>
+    <string name="vzw_data_limit_title">Мобильный трафик ограничен</string>
+    <string name="vzw_data_limit">Вы достигли дневного или общего лимита использования мобильного трафика. Чтобы продолжить настройку телефона, подключитесь к сети Wi-Fi.</string>
+    <string name="vzw_data_restricted_title">Мобильный трафик ограничен</string>
+    <string name="vzw_data_restricted">Достигнут лимит трафика</string>
+    <string name="vzw_data_redirected_title">Обратитесь в Verizon</string>
+    <string name="vzw_data_redirected">На вашем телефоне не подключен тариф Verizon Wireless, или вы использовали весь доступный объем трафика. Обратитесь в Verizon.</string>
+    <string name="vzw_activate_notification_title">Начать активацию</string>
+    <string name="vzw_activate_notification">Нажмите, чтобы активировать</string>
+    <string name="vzw_cold_notification">Обратитесь в Verizon, чтобы активировать телефон.</string>
+    <string name="vzw_activate_error_title">Ошибка активации</string>
+    <string name="vzw_activate_error_network">Проверьте наличие сигнала (несколько \"палочек\") и попробуйте ещё раз. Если проблема не исчезнет, обратитесь по телефону (800) 922-0204.</string>
+    <string name="vzw_activate_error_lookup">Не удалось активировать ваш телефон. Обратитесь в службу поддержки по телефону (800) 922-0204.</string>
+    <string name="vzw_activate_error_ssn">Номер социального обеспечения указан неверно. Повторите попытку.</string>
+    <string name="vzw_activate_error_pwd">Платежный пароль аккаунта указан неверно. Повторите попытку.</string>
+    <string name="vzw_activate_error_not_retryable">Не удалось активировать ваш телефон. Обратитесь в службу поддержки по телефону (800) 922-0204.</string>
+    <string name="vzw_activate_error_release">Чтобы активировать устройство, позвоните по номеру (800) 922-0204 с другого телефона.</string>
+    <string name="vzw_activate_error_restricted_title">Как активировать телефон</string>
+    <string name="vzw_activate_error_restricted">Чтобы активировать телефон, следуйте инструкциям к нему или обратитесь к администратору Verizon Wireless в вашей организации.</string>
+    <string name="vzw_activate_error_lost_stolen">Не удалось активировать ваш телефон. Обратитесь в службу поддержки (877) 807-4646 с другого телефона, попросите их активировать услугу 4G LTE и попробуйте ещё раз.</string>
+    <string name="vzw_activate_continue">Далее</string>
+    <string name="vzw_activate_retry">Повторить</string>
+    <string name="vzw_activate_skip">Пропустить</string>
+    <string name="emergency_address_app_label">Управление экстренным адресом</string>
+    <string name="progress_text">Подождите…</string>
+    <string name="vzw_tos_title">Включить звонки по Wi-Fi</string>
+    <string name="cancel">Отмена</string>
+    <string name="vzw_tos_text">"Функция звонков по Wi-Fi позволяет вам воспользоваться сетью Wi-Fi, если мобильная сеть недоступна.
+
+Чтобы настроить звонки по Wi-Fi, вам понадобится указать свой адрес в США. Он будет использоваться для случаев, если от вас поступит экстренный вызов (E911) по Wi-Fi с этого телефона в пределах США.
+
+Рекомендуем обновить этот адрес, если вы собираетесь звонить по Wi-Fi из другой сети, чтобы информация о вашем местонахождении всегда была максимально точной. Вы всегда можете изменить информацию о своем адресе в настройках звонков по Wi-Fi."</string>
+    <string name="vzw_tos_link">Условия использования</string>
+    <string name="vzw_e911_title">Экстренный адрес</string>
+    <string name="vzw_e911_description"><b>ВНИМАНИЕ! УКАЖИТЕ АДРЕС ДЛЯ ВЫЗОВА СЛУЖБЫ 911</b>"
+Чтобы совершать звонки по Wi-Fi, укажите свой адрес в США для вызова экстренных служб. Вы сможете изменить его в настройках в любой момент. Обязательно обновите этот адрес, если переедете."</string>
+    <string name="vzw_e911_warning"><b>ВНИМАНИЕ! КАК ЗВОНИТЬ В ЭКСТРЕННУЮ СЛУЖБУ</b>"
+При звонке по номеру 911 всегда сообщайте оператору, где находитесь. Экстренные вызовы выполняются по Wi-Fi, только если мобильная сеть недоступна. При этом могут возникать задержки и сбои (например, если экстренная служба не распознала адрес, если отключено электричество или не работает подключение к Wi-Fi). Спасатели прибудут по указанному выше адресу, поэтому не забывайте своевременно его обновлять."</string>
+    <string name="house_number">Номер дома</string>
+    <string name="street">Адрес</string>
+    <string name="apt_suite_number">Номер, квартира и пр.</string>
+    <string name="city">Город</string>
+    <string name="state">Область/регион</string>
+    <string name="zip_code">Почтовый индекс</string>
+    <string name="save">Сохранить</string>
+    <string name="vzw_address_confirm_text">"Не удалось найти указанный адрес: возможно, вы неверно ввели название улицы, город, страну или индекс?.
+
+Чтобы изменить адрес, нажмите \"%1$s\", в противном случае нажмите \"%2$s\"."</string>
+    <string name="vzw_address_confirm_text_part1">Не найден адрес либо неверно указан город, штат или почтовый индекс.</string>
+    <string name="vzw_address_confirm_text_part2">Если вы неверно ввели почтовый индекс, название города или штата, нажмите \"%1$s\", а если данные указаны правильно – \"%2$s\".</string>
+    <string name="save_anyway">Все равно сохранить</string>
+    <string name="edit_address">Изменить адрес</string>
+    <string name="ok">ОК</string>
+    <string name="vzw_address_select_text">Указанный адрес не найден:</string>
+    <string name="vzw_address_alternate_text">Возможно, вы имели в виду:</string>
+    <string name="vzw_partial_confirm_head">Экстренная служба не может проверить этот адрес.</string>
+    <string name="vzw_partial_confirm_text">Указать этот адрес как экстренный?</string>
+    <string name="vzw_partial_failure_text">"Возможно, вы неверно указали город, штат или индекс.
+
+Проверьте адрес и повторите попытку."</string>
+    <string name="vzw_partial_failure_text_part1">Возможно, вы неверно указали город, штат или индекс.</string>
+    <string name="vzw_partial_failure_text_part2">Проверьте правильность адреса и повторите попытку.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="common.Widget.Base.Snackbar" parent="@style/Theme.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxWidth">568.0dip</item>
+        <item name="android:minWidth">288.0dip</item>
+        <item name="windowGravity">bottom|left</item>
+        <item name="windowWidth">wrap_content</item>
+        <item name="windowXOffset">16.0dip</item>
+        <item name="windowYOffset">16.0dip</item>
+    </style>
+</resources>

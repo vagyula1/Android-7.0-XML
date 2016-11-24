@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d nya röstmeddelanden</item>
+        <item quantity="one">%d nytt röstmeddelande</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d röstmeddelanden</item>
+        <item quantity="one">röstmeddelande</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d hittade</item>
+        <item quantity="one">En hittad</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d olästa poster.</item>
+        <item quantity="one">%1$s. %2$d oläst post.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DetailsPurchasePanelLayout">
+        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ChoosiesDetailsInfoPanelContent.RedeemButton" parent="@style/ChoosiesDetailsInfoPanelContent">
+        <item name="layout_flmWidth">3.0</item>
+        <item name="layout_flmMarginTop">16.0dip</item>
+    </style>
+    <style name="MovieDetailsInfoPanelContent.Storyline" parent="@style/MovieDetailsInfoPanelContent">
+        <item name="layout_flmWidth">3.0</item>
+    </style>
+    <style name="PlayControlPlayPauseButton" parent="@style/PlayControlFabButton">
+        <item name="android:src">@drawable/player_play_pause</item>
+    </style>
+    <style name="ChoosiesDetailsInfoPanelContent.Badges" parent="@style/ChoosiesDetailsInfoPanelContent">
+        <item name="layout_flmWidth">4.0</item>
+    </style>
+    <style name="ExtendedSongProfileTitleText" parent="@style/KnowledgeCardTitleTextBig" />
+    <style name="PlayControlFineGrainedScrubbingIndicator" parent="@style/PlayControlFineGrainedScrubbingIndicatorTablet" />
+    <style name="PlayControlFineGrainedScrubbingTime" parent="@style/PlayControlFineGrainedScrubbingTimeTablet" />
+    <style name="DevicePairingTheme" parent="@style/Theme.AppCompat.Light.Dialog" />
+</resources>

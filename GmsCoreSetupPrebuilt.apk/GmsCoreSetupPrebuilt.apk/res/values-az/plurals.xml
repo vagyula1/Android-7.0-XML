@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Bütün %1$d tətbiq</item>
+        <item quantity="one">1 tətbiq</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d tətbiq seçildi</item>
+        <item quantity="one">1 tətbiq seçildi</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Yedəyinizdə %1$d tətbiq var. Bir neçəsini seçin və ya hamısını gətirin.</item>
+        <item quantity="one">Yedəyinizdə %1$d tətbiq var.</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">%1$d yerli kontakt</item>
+        <item quantity="one">1 yerli kontakt</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">SİM %1$d, yerli %2$d</item>
+        <item quantity="one">SİM %1$d, yerli %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM kontakt</item>
+        <item quantity="one">1 SIM kontakt</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d tətbiq tapdıq. Bir neçəsini seçin və ya hamısını gətirin.</item>
+        <item quantity="one">%1$d tətbiq tapdıq. Bunu köçürmək istəyirsiniz?</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d element qaldı…</item>
+        <item quantity="one">%1$d element qaldı…</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">%1$d kontakt</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">%1$d kontakt, Google Kontakt</item>
+        <item quantity="one">1 kontakt, Google Kontakt</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Diqqətli olun! Bu tədbirə artıq aşağıdakı iştirakçılar daxil deyil:</item>
+        <item quantity="one">Diqqətli olun! Bu tədbirə artıq aşağıdakı iştirakçı daxil deyil:</item>
+    </plurals>
+</resources>

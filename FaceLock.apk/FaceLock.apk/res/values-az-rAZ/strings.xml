@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_notification_needs_update_title">Bir tətbiq Google Play Xidmətləri üçün güncəlləşmə tələb edir.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s Android Wear tətbiqi üçün güncəlləşmə tələb edir.</string>
+    <string name="common_google_play_services_needs_enabling_title">Tətbiq Google Play Xidmətlərinin aktivləşməsini tələb edir.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s tərəfindən tələb edilib</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətləri əldə et</string>
+    <string name="common_google_play_services_install_text_phone">%1$s Sizin telefon itkin Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tablet itkin Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_button">Google Play xidmətlərini əldə et</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv et</string>
+    <string name="common_google_play_services_enable_text">Google Play xidmətlərini aktiv etməsəniz, %1$s işləməyəcək.</string>
+    <string name="common_google_play_services_enable_button">Google Play xidmətlərini aktiv et</string>
+    <string name="common_google_play_services_update_title">Update Google Play xidmətlərini güncəlllə</string>
+    <string name="common_android_wear_update_title">"Android Wear'i güncəlləşdirin"</string>
+    <string name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="common_android_wear_update_text">Android Wear güncəlləşməsə, %1$s işləməyəcək.</string>
+    <string name="common_google_play_services_updating_title">Google Play xidmətləri təzələyirik</string>
+    <string name="common_google_play_services_updating_text">%1$s Hal-hazırda təzələyirik Google Play xidmətləri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_network_error_title">Şəbəkə Xətası</string>
+    <string name="common_google_play_services_network_error_text">Google Play xidmətlərinə qoşulmaq üçün data bağlantısı tələb olunur.</string>
+    <string name="common_google_play_services_invalid_account_title">Etibarsız Hesab</string>
+    <string name="common_google_play_services_invalid_account_text">Göstərilmiş hesab bu cihazda mövcud deyil. Fərqli hesab seçin.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play xidmətləri ilə bağlı naməlum problem</string>
+    <string name="common_google_play_services_unsupported_title">Google Play xidmətləri</string>
+    <string name="common_google_play_services_unsupported_text">%1$s Sizin cihaz tərəfindən dəstəklənən deyil ki, Google Play xidmətləri, əsaslanır. Yardım üçün istehsalçısı ilə əlaqə saxlayın.</string>
+    <string name="common_google_play_services_update_button">Güncəllə</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s hazırda əlçatmaz olan bir və ya daha çox Google Play xidməti tələb edir.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Daxil olmadı</string>
+    <string name="common_google_play_services_sign_in_failed_text">Göstərilən hesaba daxil olarkən səhv baş verdi. Lütfən fərqli bir hesab seçin.</string>
+    <string name="app_name">Güvənli Üz</string>
+    <string name="trusted_face_service_app_name">Güvənli Üz Xidməti</string>
+    <string name="receiver_app_name">Güvənli Üz Yayımı Qəbuledicisi</string>
+    <string name="intro_screen_title">Güvənli üz haqqında</string>
+    <string name="intro_screen_header">Telefona baxaraq blok kilidini açın</string>
+    <string name="intro_screen_body_start">"Unutmayın: 
+"</string>
+    <string name="intro_screen_bullets">"Üz uyğunluğu model, PIN kod və ya paroldan daha az güvənlidir
+
+Sizə oxşayan kimsə telefonunuzu kiliddən çıxara bilər
+
+Üzünüzü müəyyən etmək üçün olan data telefonda gizli saxlanılır"</string>
+    <string name="intro_screen_continue_label">Quraşdırın</string>
+    <string name="instructions_screen_title">Güvənli üz əlavə edin</string>
+    <string name="instructions_screen_header">Ən yaxşı nəticələr üçün:</string>
+    <string name="instructions_screen_bullets">"İçəridə çox işıqlı və ya çox qaranlıq olmayan yer tapın.
+
+Telefonu göz səviyyəsində tutun"</string>
+    <string name="instructions_screen_continue_label">Növbəti</string>
+    <string name="enrollment_screen_title">Güvənli üz əlavə edin</string>
+    <string name="enrollment_screen_message_initializing">Başlayır...</string>
+    <string name="enrollment_screen_message_initialization_error">Üzünüzü tapmağa başlaya bilmədi</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kamera icazəsi qəbul edilmədi</string>
+    <string name="enrollment_screen_message_camera_error">Kamera əlçatmazdır</string>
+    <string name="enrollment_start_message">Üzü nöqtəli sahədə saxlayın</string>
+    <string name="enrollment_screen_message_instructions">Başınız yuxarısı və çənənizin aşağısını dairə daxilində saxlayın</string>
+    <string name="enrollment_screen_message_done">Üz əlavə edildi</string>
+    <string name="enrollment_screen_status_no_face">Üzünüzü göstərin</string>
+    <string name="enrollment_screen_status_face_off_center">Üzünüzün bir hissəsini görmək olmur</string>
+    <string name="enrollment_screen_status_missing_template">Özəlliklərinizi görmək olmur</string>
+    <string name="enrollment_screen_continue_label">Növbəti</string>
+    <string name="enrollment_screen_done_label">Hazırdır</string>
+    <string name="enrollment_screen_talkback_preview_description">Kamera önizləməsi</string>
+    <string name="enrollment_screen_talkback_face_added">Üz əlavə edildi</string>
+    <string name="end_screen_title">Tam hazır!</string>
+    <string name="end_screen_body">Telefonunuzu kiliddən çıxarmaq üçün sadəcə ekranı yandırın və kameraya baxın</string>
+    <string name="end_screen_bullet_one_text">Telefonunuz Sizi tanıyan kimi kiliddən çıxacaq</string>
+    <string name="end_screen_bullet_two_text">Üzünüz tanınmasa, nümunə kod, PIN kod və ya parol ilə kiliddən çıxarın</string>
+    <string name="end_screen_tip_text">İpucu: Müxtəlif istiqamətlərdən üzünüzü göstərməklə tanınmanı inkişaf etdirin və asanlaşdırın</string>
+    <string name="end_screen_licenses_label">Lisenziyalar</string>
+    <string name="end_screen_continue_label">Hazırdır</string>
+    <string name="add_to_setup_intro_screen_title">Üz uyğunluğunu təkmilləşdirin</string>
+    <string name="add_to_setup_intro_screen_header">Müxtəlif istiqamətlərdən özünüzü göstərin</string>
+    <string name="add_to_setup_intro_screen_body_start">"Nümunələr:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Müxtəlif işıqlanmada
+
+Eynəkli və ya eynəksiz
+
+Saqqallı və ya təmiz üzlü
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Telefonu göz səviyyəsində tutun</string>
+    <string name="add_to_setup_intro_screen_continue_label">Növbəti</string>
+    <string name="license_screen_title">Lisenziyalar</string>
+    <string name="license_screen_header">Açıq mənbə bildirişləri</string>
+    <string name="license_screen_continue_label">Ok</string>
+    <string name="license_screen_description">"'Güvənli üz' funksiyası aşağıdakı lizenziyalar ilə lisenziyalaşdırılmış açıq mənbə kitabxana hissələrini istifadə edə bilər:"</string>
+    <string name="license_screen_notices_header">Kitabxanalar üçün bildirişlər:</string>
+    <string name="shared_cancel_label">Ləğv et</string>
+    <string name="reenrollment_notification_title">Məntiqli Kilid</string>
+    <string name="reenrollment_notification_text">Üz tanıma dəyişdirildi. İstifadəyə davam etmək üçün yenidən etibarlı üz əlavə edin.</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play xizmatlari xatosi</string>
+    <string name="common_google_play_services_notification_needs_update_title">Ilova Google Play xizmatlarining yangilanishini talab qiladi.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s bilan ishlashda davom etish uchun Android Wear ilovasini yangilang.</string>
+    <string name="common_google_play_services_needs_enabling_title">Ilova Google Play xizmatlarining yoqilishini talab qiladi.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">So‘rov manbasi: %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play xizmatlarini yuklab oling</string>
+    <string name="common_google_play_services_install_text_phone">%1$s ishlashi uchun telefoningizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s ishlashi uchun planshetingizga Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_button">Google Play xizmatlarini yuklab oling</string>
+    <string name="common_google_play_services_enable_title">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_enable_text">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="common_google_play_services_enable_button">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_update_title">Google Play xizmatlarini yangilash</string>
+    <string name="common_android_wear_update_title">Android Wear ilovasini yangilash</string>
+    <string name="common_google_play_services_update_text">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="common_android_wear_update_text">Android Wear ilovasi yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="common_google_play_services_updating_title">Google Play xizmatlari yangilanmoqda</string>
+    <string name="common_google_play_services_updating_text">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="common_google_play_services_network_error_title">Tarmoq xatosi</string>
+    <string name="common_google_play_services_network_error_text">Google Play xizmatlariga ulanish uchun internet zarur.</string>
+    <string name="common_google_play_services_invalid_account_title">Hisob haqiqiy emas</string>
+    <string name="common_google_play_services_invalid_account_text">Ushbu qurilmada ko‘rsatilgan hisob mavjud emas. Boshqa hisobni tanlang.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play xizmatlari bilan bog‘liq noma’lum muammo yuz berdi.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play xizmatlari</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi. Yordam olish uchun qurilmaning ishlab chiqaruvchisi bilan bog‘laning.</string>
+    <string name="common_google_play_services_update_button">Yangilash</string>
+    <string name="common_open_on_phone">Telefonda ochish</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s ilovasining ishlashi uchun zarur bo‘lgan bir yoki bir nechta Google Play xizmatlari yo‘q. Yordam olish uchun ilovaning ishlab chiquvchisi bilan bog‘laning.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Kirish amalga oshmadi</string>
+    <string name="common_google_play_services_sign_in_failed_text">Ko‘rsatilgan hisobga kirishda xatolik yuz berdi. Boshqa hisob tanlang.</string>
+    <string name="app_name">Ishonchli yuz</string>
+    <string name="trusted_face_service_app_name">Ishonchli yuz xizmati</string>
+    <string name="receiver_app_name">Ishonchli yuz ma’lumotni qabul qilgich</string>
+    <string name="intro_screen_title">Ishonchli yuz haqida</string>
+    <string name="intro_screen_header">Telefoningizni yuz tekshiruvi yordamida qulfdan chiqaring</string>
+    <string name="intro_screen_body_start">"Esda tuting:
+"</string>
+    <string name="intro_screen_bullets">"Yuz tekshiruvining himoya darajasi grafik kalit, PIN-kod yoki parolnikidek emas
+
+Sizga o‘xshaydigan biror kimsa telefoningizni qulfdan chiqara olishi mumkin
+
+Yuzingizni tanish uchun ishlatiladigan ma’lumotlar faqat ushbu telefonda saqlanadi"</string>
+    <string name="intro_screen_continue_label">Sozlash</string>
+    <string name="instructions_screen_title">Ishonchli yuz qo‘shish</string>
+    <string name="instructions_screen_header">Eng yaxshi natijaga erishish uchun:</string>
+    <string name="instructions_screen_bullets">"Ichkaridan juda yorug‘ ham, juda qorong‘i ham bo‘lmagan joy toping
+
+Telefonni ko‘z balandligida tuting"</string>
+    <string name="instructions_screen_continue_label">Keyingisi</string>
+    <string name="enrollment_screen_title">Ishonchli yuz qo‘shish</string>
+    <string name="enrollment_screen_message_initializing">Ishga tushirilmoqda…</string>
+    <string name="enrollment_screen_message_initialization_error">Yuzingizni topib bo‘lmayapti</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kamera ruxsatnomasi taqdim etilmagan</string>
+    <string name="enrollment_screen_message_camera_error">Kamera tayyor emas</string>
+    <string name="enrollment_start_message">Yuzingizni nuqtalar bilan belgilangan hudud ichida tuting</string>
+    <string name="enrollment_screen_message_instructions">Yuzingiz to‘liq aylana ichiga tushsin</string>
+    <string name="enrollment_screen_message_done">Yuz tekshiruvi tugadi</string>
+    <string name="enrollment_screen_status_no_face">Yuzingizni ko‘rsating</string>
+    <string name="enrollment_screen_status_face_off_center">Yuzingizning bir qismi ko‘rinmayapti</string>
+    <string name="enrollment_screen_status_missing_template">Yuzingiz tuzilishi ko‘rinmayapti</string>
+    <string name="enrollment_screen_continue_label">Keyingisi</string>
+    <string name="enrollment_screen_done_label">Tayyor</string>
+    <string name="enrollment_screen_talkback_preview_description">Kamera orqali ko‘rish</string>
+    <string name="enrollment_screen_talkback_face_added">Yuz tekshiruvi tugadi</string>
+    <string name="end_screen_title">Hammasi tayyor!</string>
+    <string name="end_screen_body">Telefonni qulfdan chiqarish uchun shunchaki ekranni yoqing va kameraga qarang</string>
+    <string name="end_screen_bullet_one_text">Telefon sizni tanishi bilanoq qulfdan chiqariladi</string>
+    <string name="end_screen_bullet_two_text">Agar qurilma yuzingizni taniy olmasa, grafik kalit, PIN kod yoki parolni kiritishga to‘g‘ri keladi.</string>
+    <string name="end_screen_tip_text">Maslahat: Yuzingizni turli holatlarda suratga tushirish orqali yuzni tanish aniqligini oshiring</string>
+    <string name="end_screen_licenses_label">Litsenziyalar</string>
+    <string name="end_screen_continue_label">Tayyor</string>
+    <string name="add_to_setup_intro_screen_title">Yuz tekshiruvini yaxshilash</string>
+    <string name="add_to_setup_intro_screen_header">Yuzingizni turli holatlarda suratga tushiring</string>
+    <string name="add_to_setup_intro_screen_body_start">"Masalan:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Turli yorug‘lik ostida
+
+Ko‘zoynak bilan yoki ko‘zoynaksiz
+
+Soqol bilan yoki soqol qirilgan holatda
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Telefonnni ko‘z balandligida tuting</string>
+    <string name="add_to_setup_intro_screen_continue_label">Keyingisi</string>
+    <string name="license_screen_title">Litsenziyalar</string>
+    <string name="license_screen_header">Ochiq kodli dasturiy ta’minot eslatmalari</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">“Ishonchli yuz” xususiyatini ishlab chiqishda quyidagi litsenziyalar ostida litsenziyalangan ayrim ochiq kodli dasturiy ta’minot kutubxonalaridan foydalanilgan:</string>
+    <string name="license_screen_notices_header">Kutubxonalar uchun eslatmalar:</string>
+    <string name="shared_cancel_label">Bekor qilish</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Yuz tekshiruvi o‘zgartirildi. Undan foydalanishda davom etish uchun ishonchli yuz qo‘shing.</string>
+</resources>

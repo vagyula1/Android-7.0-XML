@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Setup" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+    <style name="HeadlineText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/title_text</item>
+    </style>
+    <style name="SubheadText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.87</item>
+    </style>
+    <style name="BodyText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.54</item>
+    </style>
+    <style name="CaptionText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Button" parent="@android:style/Widget.Material.Light.Button.Borderless">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:minWidth">@dimen/button_bar_min_button_width</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PrimaryButton" parent="@style/Button">
+        <item name="android:textColor">?android:colorAccent</item>
+    </style>
+    <style name="SecondaryButton" parent="@style/Button">
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.54</item>
+    </style>
+    <style name="DialogTitleText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.87</item>
+    </style>
+    <style name="DialogSubtitleText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.54</item>
+    </style>
+    <style name="DialogSubheadText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/basic_text</item>
+        <item name="android:alpha">0.54</item>
+    </style>
+</resources>

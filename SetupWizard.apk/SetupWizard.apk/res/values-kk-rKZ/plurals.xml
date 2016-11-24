@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d секундтан кейін өшіріледі…</item>
+        <item quantity="one">1 секундтан кейін өшіріледі…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Келесі есептік жазбалар дайын:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Келесі есептік жазба дайын:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">QR-кодты реттеуді бастау үшін тағы %d рет түртіңіз</item>
+        <item quantity="one">QR-кодты реттеуді бастау үшін тағы %d рет түртіңіз</item>
+    </plurals>
+</resources>

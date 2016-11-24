@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Les %1$d aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplicacions seleccionades</item>
+        <item quantity="one">1 aplicació seleccionada</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">"La còpia de seguretat conté %1$d aplicacions. Tria'n unes quantes o restaura-les totes."</item>
+        <item quantity="one">La còpia de seguretat conté %1$d aplicació.</item>
+    </plurals>
+    <plurals name="contacts_number_local">
+        <item quantity="other">%1$d contactes locals</item>
+        <item quantity="one">1 contacte local</item>
+    </plurals>
+    <plurals name="contacts_number_local_and_sim">
+        <item quantity="other">%1$d a la SIM, %2$d locals</item>
+        <item quantity="one">%1$d a la SIM, %2$d local</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contactes a la SIM</item>
+        <item quantity="one">1 contacte a la SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">"Hem trobat %1$d aplicacions. Tria'n unes quantes o restaura-les totes."</item>
+        <item quantity="one">Hem trobat %1$d aplicació. Vols restaurar-la?</item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">Queden %1$d elements…</item>
+        <item quantity="one">Queda %1$d element…</item>
+    </plurals>
+    <plurals name="ios_contacts_number">
+        <item quantity="other">%1$d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="ios_contacts_number_with_google">
+        <item quantity="other">%1$d contactes, Contactes de Google</item>
+        <item quantity="one">1 contacte, Contactes de Google</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Tingues present que aquest esdeveniment ja no inclou els assistents següents:</item>
+        <item quantity="one">"Tingues present que aquest esdeveniment ja no inclou l'assistent següent:"</item>
+    </plurals>
+</resources>

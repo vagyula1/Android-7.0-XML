@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">כיבוי יתבצע בעוד %d שניות…</item>
+        <item quantity="one">כיבוי יתבצע בעוד שנייה אחת…</item>
+        <item quantity="two">כיבוי יתבצע בעוד %d שניות…</item>
+        <item quantity="many">כיבוי יתבצע בעוד %d שניות…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"החשבון הבא מוכן:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="two">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"החשבונות הבאים מוכנים:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">‏נדרשות עוד %d הקשות כדי להתחיל בהגדרת קוד QR</item>
+        <item quantity="one">‏נדרשת עוד %d הקשה כדי להתחיל בהגדרת קוד QR</item>
+        <item quantity="two">‏נדרשות עוד %d הקשות כדי להתחיל בהגדרת קוד QR</item>
+        <item quantity="many">‏נדרשות עוד %d הקשות כדי להתחיל בהגדרת קוד QR</item>
+    </plurals>
+</resources>

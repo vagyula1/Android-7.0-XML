@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဂူဂယ်လ်၏ စာသားမှအသံပြောင်းခြင်း(Text-to-speech)အင်ဂျင်</string>
+    <string name="general_settings">အထွေထွေဆက်တင်များ</string>
+    <string name="license_activity_title">အခမဲ့ ရင်းမြစ် လိုင်စင်များ</string>
+    <string name="license_activity_loading">ဖွင့်နေစဉ်…</string>
+    <string name="license_activity_unavailable">လိုင်စင်များကို ဖတ်တင်ရန် ပြသနာရှိနေပါသည်</string>
+    <string name="tts_settings_label">ဂူဂယ်လ်၏ TTS ရွေးချယ်မှုများ</string>
+    <string name="voice_data_install_title">ဂူဂယ်လ်၏ TTS အသံဒေတာ</string>
+    <string name="install_data_header">သင့်စက်တွင် ချိတ်ဆက်လိုင်းမရှိပဲ အသံပူးပေါင်းမှုကို အထောက်အကူပြုရန်အတွက် ဤဒေတာကို ဒေါင်းလုပ်ပြုလုပ်ပါ</string>
+    <string name="download_invite_title">%1$s စကားပြောအသံကို ထည့်သွင်းရန်</string>
+    <string name="download_invite">%1$sအတွက် စာသားမှအသံပြောင်းခြင်း(Text-to-speech)ကို လိုင်းမရှိပဲသုံးနိုင်ရမည်</string>
+    <string name="install_voice_text_2">ဒေါင်းလုပ်ပြုလုပ်နိုင်ပြီ</string>
+    <string name="download_in_progress">ဒေါင်းလုဒ် ပြုလုပ်နေဆဲဖြစ်သည်</string>
+    <string name="no_installable_voices">ဒေါင်းလုပ်ပြုလုပ်နိုင်သော အသံမရှိပါ</string>
+    <string name="cancel">မလုပ်တော့ပါ</string>
+    <string name="delete_voice_data">ဖျက်ပစ်ရန်</string>
+    <string name="update">အဆင်မြှင့်ခြင်း</string>
+    <string name="download">ဒေါင်းလုပ်ပြုလုပ်သည်</string>
+    <string name="voice_installed">ထည့်သွင်းပြီး</string>
+    <string name="voice_installed_and_default">ထည့်သွင်းပြီး ပုံ​သေအဖြစ် သတ်မှတ်ရန်</string>
+    <string name="download_notification_title">%1$s အတွက် %2$s</string>
+    <string name="download_notification_description">စာသားမှအသံပြောင်းခြင်း(Text-to-speech)အတွက် အသံဒေတာ</string>
+    <string name="download_success_title">%1$sအတွက် အသံဒေတာကို ဒေါင်းလုဒ် ပြုလုပ်မည်</string>
+    <string name="download_success_description">ဆက်ံတင်ကို သွားရန် တို့ထိပြီး ဤအသံကို ပုံသေ လုပ်မည်</string>
+    <string name="download_failure_title">%1$sအတွက် အသံဒေတာဒေါင်းလုပ်ပြုလုပ်ခြင်းတွင် အမှားဖြစ်ပေါ်သည်</string>
+    <string name="download_failure_description">ပြန်လည်ကြိုးစားရန် တို့ထိပါ</string>
+    <string name="download_failed_toast">အသံပါအထုပ်ကို ဒေါင်းလုပ်ပြုလုပ်ရန် မအောင်မြင်ပါ</string>
+    <string name="manage_voice_data">အသံဒေတာကို စီမံရန်</string>
+    <string name="auto_update_title">အသံများကို အလိုအလျောက်အဆင့်မြှင့်ရန်</string>
+    <string name="auto_update_wifi_title">ဝိုင်ဖိုင်ကိုသာ အသုံးပြုမည်</string>
+    <string name="auto_update_wifi_summary">အသံများဒေတာကို ဝိုင်ဖိုင်ဖြင့်သာ ဒေါင်းလုပ်ပြုလုပ်မည်၊ ဒေတာအသုံးပြုမှုကို ထိန်းသိမ်းစောင့်ရှောက်မည်</string>
+    <string name="feedback_title">ထင်မြင်ချက်</string>
+    <string name="feedback_failed">ထင်မြင်ချက် ပုံစံကို မဖွင့်နိုင်ခဲ့ပါ</string>
+    <string name="voices_type_title">အသံအမျိုးအစား</string>
+    <string name="voices_type_summary">[စမ်းသပ်ပရိုဂရမ်] စကားပြောစုပေါင်းခြင်း အမျိုးအစား</string>
+    <string name="analytics_title">အမည်မသိရ သုံးစွဲမှု အစီရင်ခံစာများ</string>
+    <string name="analytics_summary_on">ဖွင့်</string>
+    <string name="analytics_summary_off">ပိတ်</string>
+    <string name="analytics_screen_explanation">"ဒီ အင်္ဂါရပ်ကို ဖွင့်ထားလျှင်၊ ကျွန်တော်တို့သည် သုံးစွဲမှု အစီရင်ခံချက်များကို အမည်မသိရဘဲ စုစည်းသည်။ အဲဒါက သင်၏ ကိရိယာထဲက Google စာသား-မှ-စကားသို့၏ လုပ်ဆောင်မှုကို ကျွန်တော်တို့အား ပိုကောင်းမွန်စွာ နားလည် လာစေသည်။ 
+
+ ကျွန်တော်တို့ စုစည်းသည့် တိုင်းတာမှု အမျိုးမျိုး၏ နမူနာများ: 
+"<li><ul>" စာသား-မှ-စကားသို့ အား ဘယ်လောက် မကြာခဏ အသုံးပြုသည်။ 
+"<li> Tစာသား-မှ-စကားသို့ တောင်းဆိုချက်များအား လုပ်ဆောင်ပေးပုံ။</li>"
+"<li> အသုံးပြုတဲ့ ဘာသာစကားများ။</li>"
+"<li> စာသား-မှ-စကားသို့က ဘယ်လောက် မကြာခဏ စကားကို ထုတ်ပေးရန် ပျက်ကွက်ခဲ့တာလဲ။ </li>"
+"</ul></li></string>
+    <string name="process_text_title">စာသားရွေးချယ်မှုမီနူးသို့ GoogleTTS ထည့်သွင်းမှုတစ်ခုကို ထည့်ပါ</string>
+    <string name="process_text_summary">ဤထည့်သွင်းမှုအသစ်သည် ရွေးထားသည့်စာသားတိုင်းကို ပေါင်းစည်းပေးပါလိမ့်မည်။</string>
+    <string name="voice_pack_status_installed">ထည့်သွင်းပြီး (%1$s)</string>
+    <string name="voice_pack_status_gender_female">အမျိုးသမီး</string>
+    <string name="voice_pack_status_gender_male">အမျိုးသား</string>
+    <string name="voice_entity_status_gender_female">အမျိုးသမီး %1$d</string>
+    <string name="voice_entity_status_gender_male">အမျိုးသား %1$d</string>
+    <string name="voice_entity_status_gender_unknown">လိင်ကွဲပြားမှု မသိရပါ %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">အမျိုးသမီး အသံဟောင်း</string>
+    <string name="voice_pack_status_gender_male_legacy">အမျိုးသား အသံဟောင်း</string>
+    <string name="voice_pack_status_gender_unknown">လိင်ကွဲပြားမှု မသိရပါ</string>
+    <string name="voice_pack_status_updatable">အဆင့်မြှင့်ရန် ရှိနေပါပြီ</string>
+    <string name="voice_pack_status_downloadable">ဒေါင်းလုဒ် (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">လက်ရှိအသံ</string>
+    <string name="voice_pack_status_downloading">ဒေါင်းလုဒ် ပြုလုပ်နေစဉ်</string>
+    <string name="voice_pack_name_high_quality">%1$s (အရည်အသွေးမြင့်သော)</string>
+    <string name="voice_pack_description">"အမည် - %1$s 
+ပင်ရင်း - %2$s 
+ ဒေတာအရွယ်အစား - ~%3$s 
+စကားပြောသူ၏လိင် - %4$s"</string>
+    <string name="voice_pack_action_download">ဒေါင်းလုဒ်(~%1$s)</string>
+    <string name="voice_pack_action_remove">ဖယ်ရှားရန်</string>
+    <string name="voice_pack_action_update">အဆင့်မြှင့်ရန် (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">%1$sအတွက် လက်ရှိအသံအဖြစ် ထားပါ</string>
+    <string name="voice_pack_action_cancel">ဒေါင်းလုပ်ပြုလုပ်မှုကို ပယ်ဖျက်ရန်</string>
+    <string name="voice_pack_install_tab_installed">ထည့်သွင်းပြီး</string>
+    <string name="voice_pack_install_tab_all">အားလုံး</string>
+    <string name="voice_pack_install_tab_settings">ဆက်တင်များ</string>
+    <string name="voice_entry_details">အသံ အပြန်အလှန်ဆွေးနွေးမှု အသေးစိတ်ကို စတင် သုံးစွဲရန်</string>
+    <string name="voice_entry_edit_desc">အသံ အထုပ်ကို ဖွင့်ပါ</string>
+    <string name="voice_entry_overflow_desc">ဖြည့်စွက် အသံပါအထုပ်လုပ်ဆောင်ချက်များ</string>
+    <string name="voice_entry_download_desc">အသံပါအထုပ်ကို ဒေါင်းလုပ်ပြုလုပ်ရန်</string>
+    <string name="voice_entry_cancel_download_desc">အသံပါအထုပ်အား ဒေါင်းလုပ်ပြုလုပ်ခြင်းကို ပယ်ဖျက်ရန်</string>
+    <string name="voice_entry_delete_desc">အသံပါအထုပ်ကို ပယ်ဖျက်ရန်</string>
+    <string name="voice_entry_sample">အသံနမူနာများကို ဖွင့်ရန်</string>
+    <string name="voice_pack_not_enough_space">စက်တွင်းသိုလှောင်မှုမှာ လုံလောက်သောနေရာလွတ်မရှိပါ၊ ဤအသံကို ထည့်သွင်းရန်အတွက် နေရာလွတ်ပြုလုပ်ပါ</string>
+    <string name="action_settings">ရွေးချယ်မှုများ</string>
+    <string name="action_licenses">အခမဲ့ ရင်းမြစ် လိုင်စင်များ</string>
+    <string name="action_voice_pack_update">အဆင်မြှင့်ခြင်း</string>
+    <string name="action_voice_pack_uninstall">ဖယ်ရှားခြင်း</string>
+    <string name="voice_pack_uninstall_dialog">ဤအသံကို ပြန်လည်ထုတ်မည်လား?</string>
+    <string name="voice_pack_uninstall_keep">သိမ်းထားရန်</string>
+    <string name="voice_pack_uninstall_uninstall">ပြန်ဖြုတ်ရန်</string>
+    <string name="voice_pack_unpack_failure">ဒေါင်းလုပ်ပြုလုပ်ထားသော အသံကို ထည့်သွင်းရန် မအောင်မြင်ပါ</string>
+    <string name="multi_voice_pack_title">%1$s အသံများ</string>
+    <string name="multi_voice_pack_entry_name">အသံ သတ်မှတ်မှု%1$d</string>
+    <string name="morphed_voice_set_title">အသံ သတ်မှတ်မှု</string>
+    <string name="select_voice_title">အသံရွေးချယ်ပါ</string>
+    <string name="play_sample_text_button_description">%1$s အတွက်နမူနာစာသားကို ဖွင့်ပါ</string>
+    <string name="voice_pack_no_download_manager">ဒေါင်းလုဒ် မန်နေဂျာ ပိတ်ထား သို့မဟုတ် မရှိပါ၊ အသံ အထုပ်ကို ဒေါင်းလုဒ် မလုပ်နိုင်ပါ။</string>
+    <string name="unpack_voice_pack_service_title">စာမှ စကားသို့ဒေတာ အသစ်မွမ်းမံနေသည်</string>
+    <string name="unpack_voice_pack_service_text">ဖွင့်နေသည်…</string>
+    <string name="sample_text_synthesis_failure">ဤအသံအတွက် နမူနာပြုလုပ်ခြင်း မအောင်မြင်ပါ။</string>
+    <string name="quick_wait_for_init">ဖွင့်နေသည်</string>
+    <string name="quick_synthesizing">ပေါင်းစည်းနေသည်</string>
+    <string name="quick_speaking">ပြောဆိုနေသည်</string>
+    <string name="quick_stopped">ရပ်တန့်သွားသည်</string>
+    <string name="quick_error">ချွတ်ယွင်းချက်</string>
+</resources>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">Tətbiq tapılmadı</string>
+    <string name="app_picker_no_apps">Heç bir proqram seçilmədi</string>
+    <string name="auto_restore_summary">Tətbiqi yenidən quraşdıranda yedəklənən ayar və datanı bərpa edin.</string>
+    <string name="auto_restore_title">Avtomatik bərpa</string>
+    <string name="backup_configure_account_default_summary">Yedəklənmiş data hazırda heç bir hesabda saxlanılmır</string>
+    <string name="backup_configure_account_title">Yedəkləmə hesabı</string>
+    <string name="backup_data_summary">Tətbiq datasını, Wi-Fi parollarını və digər ayarları Google Diskinə yedəkləyin</string>
+    <string name="backup_data_summary_full">"Cihaz datası (Wi-Fi parolları və zəng tarixçəsi) və tətbiq datasını (tətbiqlər tərəfindən saxlanılan ayar və fayllar) uzaqdan avtomatik yedəkləyin.
+
+Avtomatik yedəkləməni aktiv etdikdə, cihaz və tətbiq datası dövri olaraq uzaqdan saxlanılacaq. Tətbiq datası tətbiqin yadda saxladığı (developer ayarlarından asılı olaraq) istənilən data ola bilər, bura kontakt, mesaj və fotolar kimi həssas data da daxildir."</string>
+    <string name="backup_data_title">Google Diskinə yedəkləyin</string>
+    <string name="backup_erase_dialog_message">Wi-Fi parollarının, əlfəcinlərin, tətbiq datasının və digər ayarların yedəklənməsi dayandırılsın və Google Diskindəki bütün kopyalar silinsin?</string>
+    <string name="backup_erase_dialog_message_full">Cihaz datası (Wi-Fi parolları və zəng tarixçəsi) və tətbiq datasının (tətbiqlər tərəfindən saxlanılan ayar və fayllar) yedəklənməsi və Google Diskdəki bütün kopyalar silinsin?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Foto ayarlarını açarkən xəta oldu</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Avtomatik yedəkləməni aktiv etdiyinizdə:
+
+ ● Cihaz ayarları vətətbiq datası Google Diskdəki gizli qovluqda davamlı olaraq yadda saxlanır. Tətbiq datası tətbiqin yadda saxladığı (developer ayarlarından asılı olaraq) istənilən data ola bilər, buta kontant, mesaj və fotolar kimi həssas data da daxildir.
+
+ Developerlər böyük faylları xidmətdən kənarlaşdırmaq istədikdə onlar yedəklənməyəcək.
+
+ ● Bu cihazdan olan foto və video qeydetmələriniz hər hansı cihazınızdan axtarış, redaktə, silmək və kontaktların paylaşımı üçün Google Foto kitabxanası ilə sinxronizasiya olundu.
+
+ Defolt olaraq, yüksək keyfiyyətli foto və videolar yükləndi. Bu, disk yaddaşı kvotanıza təsir etməyəcək.
+
+ ● Kontakt və əlaqədar data bu cihazdan Google Kontaktlara sinxronizasiya olundu. Google Kontakt tətbiqini hər hansı cihazınızdan axtarış, redaktə, silmək və kontaktların paylaşımı üçün istifadə edə bilərsiniz.
+
+ ● Təqvim daxiletmələri və əlaqədar data bu cihazdan Google Təqvimə sinxronizasiya olundu. Google Təqvim tətbiqini hər hansı cihazınızdan axtarış, redaktə, silmək və kontaktların paylaşımı üçün istifadə edə bilərsiniz.
+
+ Yedək data Disk yaddaşı kvotanıza təsir etməyəcək."</string>
+    <string name="backup_opt_in_backup_description">Avtomatik yedəkləmə istədiyiniz zaman asanlıqla bərpa etməni və ya telefonlar arasında keçidi təmin edir. <annotation link="backup_opt_in_learn_more">Ətraflı məlumat</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Təqvim, kontakt, foto və videolar Google Hesabınıza sinxronizasiya olundu və xidmətlər üzərindən istifadə edilə bilər.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Yedəklənmə bunlar üçün deaktiv ediləcək:
+
+Tətbiq və tətbiq datası
+Zəng tarixçəsi
+Cihaz ayarları
+Foto və videolar
+SMS
+
+Təqvim və kontaktlar Google Hesabınıza yedəklənməyə davam edəcək. Ayarlanma tamamlandıqda, sinxronizasiya ayarlarını "<annotation link="backup_opt_in_settings_instructions">Ayarlar > Hesablar > Google</annotation> bölməsinə gedərək dəyişə bilərsiniz.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Yedəkləmə söndürülsün?</string>
+    <string name="backup_opt_in_backup_list">"Tətbiqlər və tətbiq datası
+Təqvim
+Zəng tarixçəsi
+Kontaktlar
+Cihaz ayarları (WiFi parolları daxil olmaqla)
+Foto və videolar
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Yedəkləməyə daxildir:</string>
+    <string name="backup_opt_in_backup_title">Google Diskinə yedəkləyin</string>
+    <string name="backup_opt_in_disable_backup">Yedəkləməni söndürün</string>
+    <string name="backup_photos_update">Google Fotonu güncəlləyin</string>
+    <string name="backup_settings_activity_title">Yedəklə və sıfırla</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Kopyalamayın</string>
+    <string name="close_button_label">Qapadın</string>
+    <string name="cloud_restore_app_picker_button">Bərpa edin</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Yedəyinizdə heç bir tətbiq yoxdur</string>
+    <string name="cloud_restore_app_picker_title">Bərpa üçün tətbiq seçin</string>
+    <string name="common_accessibility_audience_view_editable">Auditoriyanı dəyişin</string>
+    <string name="common_add_account_label">Hesab əlavə edin</string>
+    <string name="common_ads_settings_title">Elanlar</string>
+    <string name="common_app_name">Google Play xidmətləri</string>
+    <string name="common_audience_edit_button_label">Redaktə edin</string>
+    <string name="common_cancel">Ləğv edin</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts başlaya bilməz.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts başlaya bilməz (icazə xətası).</string>
+    <string name="common_car_permission_desc">Avtomobil xidmətinə giriş.</string>
+    <string name="common_car_permission_label">Avtomobil Xidməti</string>
+    <string name="common_chips_label_empty_circles">Çevrə yoxdur</string>
+    <string name="common_chips_label_extended_circles">Genişləndirilmiş çevrələr</string>
+    <string name="common_chips_label_only_you">Yalnız Siz</string>
+    <string name="common_chips_label_public">İctimai</string>
+    <string name="common_chips_label_your_circles">Sizin çevrələriniz</string>
+    <string name="common_choose_account_label">Bir hesab seçin</string>
+    <string name="common_clear_app_data_menu_item">Tətbiq məlumatlarını silin</string>
+    <string name="common_connected_apps_settings_title">Qoşulu tətbiqlər</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Oyun oynayın</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Aktiv edin</string>
+    <string name="common_google_play_services_enable_text">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv edin</string>
+    <string name="common_google_play_services_error_dialog_title">Xəta</string>
+    <string name="common_google_play_services_install_button">Quraşdırın</string>
+    <string name="common_google_play_services_install_text">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə edin</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="common_google_play_services_update_button">Güncəlləyin</string>
+    <string name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="common_google_play_services_updating_text">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_updating_title">Google Play xidmətləri yenilənir</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Yüklü Google səhv memarlıq xidmətlərini pulsuz.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play xidmətləri (bir memarlıq ilə yüklü edilmişdir %1$s ) Sizin cihaz memarlıq fərqli olan ( %2$s ).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Yanlış memarlıq</string>
+    <string name="common_google_settings">Google Parametrlər</string>
+    <string name="common_google_settings_account">Hesab</string>
+    <string name="common_google_settings_credentials_title">Parollar üçün Smart Lock</string>
+    <string name="common_google_settings_data_management_title">Verilənlərin idarəolunması</string>
+    <string name="common_google_settings_drive_network_usage">Drive ilə aktivləşdirilən proqram fayllarını yenilə</string>
+    <string name="common_google_settings_services">Xidmətlər</string>
+    <string name="common_list_apps_menu_help">Yardım</string>
+    <string name="common_list_apps_menu_help_and_feedback">Yardım və geri əlaqə</string>
+    <string name="common_loading">Yüklənir…</string>
+    <string name="common_location_settings_title">Yer</string>
+    <string name="common_maps_settings_title">Xəritə və Lokator</string>
+    <string name="common_mdm_feature_name">Android Cihaz Meneceri</string>
+    <string name="common_missing_url_viewer">Xarici url-i göstərmək üçün nümayişetdirici yoxdur.</string>
+    <string name="common_network_load_failed">Cihaz şəbəkəyə qoşula bilmədiyi üçün mümkün deyil</string>
+    <string name="common_networking_settings_title">Şəbəkə</string>
+    <string name="common_no_browser_for_restricted_url">Məhdudlaşdırılmış giriş. Heç bir brauzer tapılmadı.</string>
+    <string name="common_no_network">Cihaz oflayn olduğu üçün mümkün deyil</string>
+    <string name="common_off">Deaktiv</string>
+    <string name="common_ok">Ok</string>
+    <string name="common_on">Aktiv</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_open_source_licenses">Açıq mənbə lisenziyaları</string>
+    <string name="common_people_settings_title">Kontaktlar</string>
+    <string name="common_permissions_enable_in_settings">Parametrlərdə aktivləşdirin</string>
+    <string name="common_permissions_missing_end">Davam etmək üçün Ayarları, sonra İcazələri açın və qeyd edilən bütün elementlərə icazə verin.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Aktiv etmək üçün,
+Ayarlar >
+İcazələr >
+Google Play xidmətlərinə gedin"</string>
+    <string name="common_permissions_missing_start">Google Play xidmətlərinə aşağıdakılara daxil olmaq üçün sorğu göndərməyə icazə verməsəniz, bu tətbiq düzgün işləməyəcək:</string>
+    <string name="common_permissions_open_settings">Ayarları Açın</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Axtar və İndi</string>
+    <string name="common_search_settings_title">Axtarış</string>
+    <string name="common_security_settings_title">Güvənlik</string>
+    <string name="common_set_up_nearby_device_settings_title">Yaxın qurun</string>
+    <string name="common_settings_drive_network_usage_all">Wi-Fi və ya Mobil vasitəsilə</string>
+    <string name="common_settings_drive_network_usage_wifi">Yalnız Wi-Fi vasitəsilə</string>
+    <string name="common_signin_button_text">Daxil olun</string>
+    <string name="common_signin_button_text_long">Google ilə daxil olun</string>
+    <string name="common_storage_settings_title">Play xidmətlərinin yaddaş ehtiyatı</string>
+    <string name="common_switch_bar_off">Deaktiv</string>
+    <string name="common_switch_bar_on">Aktiv</string>
+    <string name="common_ui_confirm_deleting_button">Sil</string>
+    <string name="common_ui_confirm_deleting_checkbox">Mən başa düşürəm və silmək istəyirəm</string>
+    <string name="common_url_load_unsuccessful_message">Android cihazınız data xidmətinə qoşulu deyil. Bu məlumatı indi görüntüləmək üçün %s linkinə veb brauzer ilə daxil olun.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Androidiniz Wi-Fi şəbəkəyə qoşulmayıb. Bu məlumatı indi görmək üçün %s linkinə veb brauzer ilə daxil olun.</string>
+    <string name="common_url_login_notice">%1$s olaraq hesaba daxil olun</string>
+    <string name="common_usage_and_diagnostics">İstifadə və diaqnostika</string>
+    <string name="confirm_copy_button_text">Kopyalayın</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d SIM, %2$d yerli, Google Kontakt</string>
+    <string name="contacts_number_local_with_google">%1$d yerli, Google Kontakt</string>
+    <string name="contacts_number_sim_with_google">%1$d SIM, Google Kontakt</string>
+    <string name="copy_confirmation_description">Google Hesabı və tətbiq kimi dataları yeni telefonunuza köçürəcəksiniz</string>
+    <string name="copy_confirmation_title">Yeni telefonunuza kopyalansın?</string>
+    <string name="d2d_app_picker_description_no_apps">Hər hansı tətbiq tapa bilmədik</string>
+    <string name="d2d_app_picker_title">Tətbiq</string>
+    <string name="d2d_migration_canceled_on_source">Kopyalama ləğv edildi</string>
+    <string name="data_copied_fragment_description">Data yeni telefonunuza kopyalandı. Kabeli çıxara bilərsiniz.</string>
+    <string name="data_copied_fragment_description_cancel">Kopyalamanı dayandırmağı seçdiniz, belə ki, datalardan bəziləri yeni telefonunuza kopyalandı.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Kopyalamanı dayandırmağı seçdiniz, belə ki, heç bir data telefonunuza kopyalanmadı.</string>
+    <string name="data_copied_fragment_description_error">Nəsə xəta oldu, hamısını kopyalaya bilmədik.</string>
+    <string name="data_copied_fragment_description_error_no_data">Nəsə xəta oldu, datanızı kopyalaya bilmədik.</string>
+    <string name="data_copied_fragment_no_data_title">Kopyalana bilmədi</string>
+    <string name="data_copied_fragment_some_data_title">Datanın bir hissəsi kopyalandı</string>
+    <string name="data_copied_fragment_title">Data kopyalandı</string>
+    <string name="device_backup_title">Cihaz yedəklənməsi</string>
+    <string name="device_not_supported_fragment_new_device">Yeni telefona qoşulmusunuz. Davam etmək üçün, əvvəlki telefonunuza yenidən qoşulun.</string>
+    <string name="device_not_supported_fragment_new_device_title">Əvvəlki telefona yenidən qoşulun</string>
+    <string name="device_not_supported_fragment_no_data_cable">Bu kabel datanı köçürə bilməz. Başqa kabel istifadə edərək yenidən qoşulun və yenidən cəhd edin.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Digər kabeli istifadə edin</string>
+    <string name="device_not_supported_fragment_retry_description">Köhnə telefonunuzu kiliddən çıxardığınıza əmin olun, daha sonra kabel bağlantısını sonlandırın və yenidən bağlantı yaradın</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Nəsə baş verdi.</string>
+    <string name="device_picker_description">Yedəkləmələr Google Diskdə yerləşdirildi</string>
+    <string name="device_picker_item">%1$s yedəyi</string>
+    <string name="device_picker_last_used">Son istifadə tarixi: ^1</string>
+    <string name="device_picker_skip">Bərpa etməyin</string>
+    <string name="device_picker_title">Bərpa etmək üçün yedək seçin</string>
+    <string name="disabled_by_admin_summary_text">Admin tərəfindən nəzarət olunur</string>
+    <string name="download_msg_error_invalid">Endirmə yanlış sazlanmışdı.</string>
+    <string name="download_msg_in_progress">Endirmə davam edir.</string>
+    <string name="download_msg_not_allowed_space">Endirmək üçün yetərli yer yoxdur.</string>
+    <string name="download_msg_pending">Endirmə gözlənilir.</string>
+    <string name="download_notification_description">%1$s bunu tələb etdi.</string>
+    <string name="download_notification_title">Daha çox data əldə edir</string>
+    <string name="drive_backup_account">Yedəkləmək üçün hesab</string>
+    <string name="drive_backup_app_includes_data">Tətbiq datası daxildir</string>
+    <string name="drive_backup_apps_in_backup">Yedəkdəki tətbiqlər</string>
+    <string name="drive_backup_apps_last_backup">Sonuncu dəfə yedəklənib</string>
+    <string name="drive_backup_apps_loading">Yüklənir…</string>
+    <string name="drive_backup_apps_screen_title">Tətbiqlər</string>
+    <string name="drive_backup_content_apps_title">Tətbiqlər</string>
+    <string name="drive_backup_content_calendar_title">Təqvim</string>
+    <string name="drive_backup_content_callhistory_title">Zəng tarixçəsi</string>
+    <string name="drive_backup_content_contacts_title">Kontaktlar</string>
+    <string name="drive_backup_content_devicesettings_title">Cihaz ayarları</string>
+    <string name="drive_backup_content_header">Məzmun</string>
+    <string name="drive_backup_content_photos_dialog_message">Həmçinin Fotoların arxafon hesabını %s ilə dəyişmək istəyirsiniz?</string>
+    <string name="drive_backup_content_photos_dialog_no">Xeyr</string>
+    <string name="drive_backup_content_photos_dialog_title">Foto yedəkləməsi dəyişdirilsin?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Bəli</string>
+    <string name="drive_backup_content_photos_title">Foto və videolar</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Anladım!</string>
+    <string name="drive_backup_content_status_error">Son yedəkləmə tarixini əldə edərkən xəta oldu</string>
+    <string name="drive_backup_content_status_lastsaved">Sonuncu dəfə yedəklənib: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Yedəklənməyib</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Hesab ayarları</string>
+    <string name="drive_backup_content_status_updating">Status yoxlanılır...</string>
+    <string name="drive_backup_settings_title">Yedəkləmə</string>
+    <string name="drive_backup_state">Google Diskinə yedəkləyin</string>
+    <string name="drive_backup_state_dialog_message">"Google Foto da daxil olmaqla, bu, %s üçün gələcək yedəkləməni dayandıracaq. 
+
+Yedəklənmiş foto, video, kontakt və təqvim tədbirləri müvafiq Google məhsulları ilə əlçatan olacaq. 
+
+Digər bütün data silinəcək."</string>
+    <string name="drive_backup_state_dialog_okaction">Deaktiv edin</string>
+    <string name="drive_backup_state_dialog_title">Deaktiv edin və yedəyi silin</string>
+    <string name="durationDayHour">%1$d gün %2$d saat</string>
+    <string name="durationDayHours">%1$d gün %2$d saat</string>
+    <string name="durationDays">%1$d gün</string>
+    <string name="durationHourMinute">%1$d saat %2$d dəqiqə</string>
+    <string name="durationHourMinutes">%1$d saat %2$d dəqiqə</string>
+    <string name="durationHours">%1$d saat</string>
+    <string name="durationMinute">%1$d dəqiqə</string>
+    <string name="durationMinuteSecond">%1$d dəqiqə %2$d saniyə</string>
+    <string name="durationMinuteSeconds">%1$d dəqiqə %2$d saniyə</string>
+    <string name="durationMinutes">%1$d dəqiqə</string>
+    <string name="durationSecond">%1$d saniyə</string>
+    <string name="durationSeconds">%1$d saniyə</string>
+    <string name="encryption_warning_fragment_description">"iPhone® cihazının yedək şifrələməsi aktiv edildiyi üçün yalnız foto, video və musiqi kopyalana bilər.
+
+Daha çox data kopyalamaq üçün, iPhone® cihazı ilə kompüter arasında bağlantı yaradın. Kompüterinizdə iTunes® açın, yedək şifrələməsini deaktiv edin və yenidən kopyalamağa çalışın.
+
+Ətraflı məlumat üçün "<b>g.co/datatransferhelp</b> bölməsinə daxil olun.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Bu, bütün datanı əldə etməyin ən sürətli yoludur.
+
+Qutudan adapteri tapın və yeni telefonunuza taxın. Kabeli istifadə edərək telefonları qoşun, daha sonra köhnə telefonunuzun kilidini açın."</string>
+    <string name="fragment_waiting_title">Bir saniyə...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontakt sinxronizasiya olunacaq</string>
+    <string name="google_contacts_static_text_off">Google Kontakt hələ də sinxronizasiya olunacaq</string>
+    <string name="header_set_backup_account">Rezerv hesabını ayarlayın</string>
+    <string name="i_message_dialog_message">"iPhone® istifadəçilərindən SMS mesajları əldə etməyə davam etmək üçün, iMessage® xidmətini deaktiv etməlisiniz.
+
+Təlimatlar üçün "<b>g.co/iMessageHelp</b> bölməsinə daxil olun.</string>
+    <string name="instructions_fragment_title">Digər telefonunuzda davam edin</string>
+    <string name="ios_connected_fragment_description">"Davam etmək üçün, iPhone® cihazında istifadə etdiyiniz Google Hesabı ilə daxil olun.
+
+Daha sürətli köçürmə üçün, quraşdırma zamanı iPhone® cihazını istifadə etməyin."</string>
+    <string name="ios_message_attachment_placeholder">[Qoşma Google Fotoları > Cihaz qovluqları > Mesaj qoşmaları bölməsində yadda saxlandı]</string>
+    <string name="ios_message_attachments_placeholder">[Qoşmalar Google Fotoları > Cihaz qovluqları > Mesaj qoşmaları bölməsində yadda saxlandı]</string>
+    <string name="ios_migration_default_calendar_title">Təqvim</string>
+    <string name="ios_photos_dialog_message">"iCloud® bölməsində yerləşdirilmiş fotolar kopyalana bilməz.
+
+Bunları Pixel'ə gətirmək üçün, iPhone® cihazına Google Fotonu yükləyin və Yedəkləmə və sinxronizasiyanı aktiv edin. Daha çox təlimat üçün "<b>g.co/datatransferhelp</b> bölməsinə daxil olun.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Hesab əlavə edin</string>
+    <string name="lockscreen_smartdevice_action_next">Növbəti</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Telefonu ayarlamağa davam etmək üçün kiliddən çıxarın</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Ayarlamağa davam etmək üçün təhlükəsizlik məqsədilə ekran kilidinizi təsdiq etməlisiniz.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Ekran kilidini təsdiqləyin</string>
+    <string name="manage_data_label">Data yedəklənməsini idarə edin</string>
+    <string name="master_clear_title">Data zavod sıfırlaması</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Yedək hesab yaratmaq lazımdır</string>
+    <string name="notification_content_title_set_backup_account">Yedəkləmə</string>
+    <string name="notification_ticker_set_backup_account">Yedək hesabı lazımdır</string>
+    <string name="permgrouplab_calendar">Təqvim</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktlar</string>
+    <string name="permgrouplab_location">Yer</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Bədən Sensorları</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Yaddaş</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Yedəklənmiş fotolar hazırda heç bir hesabda saxlanılmır</string>
+    <string name="photos_backup_title">Foto yedəklənməsi</string>
+    <string name="photos_filtering_option_all">Bütün</string>
+    <string name="photos_filtering_option_none">Heç biri</string>
+    <string name="restore_choice_data_disclaimer">Digər telefondakı bəzi data ^1 cihazına kopyalana bilməz. <annotation link="restore_choice_data_disclaimer_learn_more">Ətraflı məlumat</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopyalanmış kontaktlar Google Hesabında yadda saxlanacaq.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopyalanmış kontakt və təqvimlər Google Hesabında yadda saxlanacaq.</string>
+    <string name="restore_choice_learn_more_android">"Köhnə telefonunuzdakı bir neçə data avtomatik olaraq kopyalana bilməz:
+
+ ● Endirmələr (PDF faylları kimi)
+
+ ● Gizli qovluqlardakı foto, video və musiqilər
+
+ ● Mətn mesajı vasitəsi ilə qəbul edilmiş foto, video və musiqilər
+
+ ● Google Play Marketə aid olmayan tətbiqlər
+
+ ● Tətbiq datası (əgər tətbiq Android yedəkləməsi istifadə etmirsə)
+
+ ● Müəyyən cihaz ayarları
+
+ ● Google Hesablarından kənar hesablar (və hər hansı əlaqədar data)
+
+ ● Google'dan kənar xidmətlərə sinxronizasiya olunmuş kontakt və təqvimlər
+
+ ● Zəng səsləri
+
+ /traflı məlumat və bu datanın bəzisini kopyalamaq ilə bağlı kömək üçün,  g.co/datatransferhelp bölməsinə daxil olun."</string>
+    <string name="restore_choice_learn_more_ios">"Köhnə telefondakı bir neçə data avtomatik kopyalana bilməz:
+
+ ● Tətbiq və tətbiq datası
+
+ ● Orijinalı telefonunuzda yerləşdirilməmiş fotolar (məsələn, əgər Optimallaşdırılmış Yaddaş ayarı aktivdirsə, orijinal fotolar iCloud® daxilinə yerləşdirilir)
+
+ ● iCloud® bölməsində olan fayl və sənədlər
+
+ ● Cihaz ayarları (Wi-Fi parolları və divar kağızı kimi)
+
+ ● Rəqəmsal Hüquqların İdarəedilməsi (DRM) tərəfindən qorunan musiqi (məsələn, April 2009 tarixindən əvvəl alınmış iTunes(R) musiqisi və ya musiqi yayımı tətbiqində qulaq asmaq üçün endirilmiş musiqi)
+
+ ● Google Hesablarından kənar hesablar (və hər hansı əlaqədar data)
+
+ ● Google və iCloud® xidmətindən kənar xidmətlərə sinxronziasiya olunmuş kontakt və təqvimlər
+
+ ● Safari® brauzerindəki əlfəcinlər
+
+ iMessage® qoşmaları Google Foto > Cihaz qovluqları > Mesaj qoşmaları bölməsində əlçatan olacaq.
+
+ Ətraflı məlumat və bu datanın bir neçəsini kopyalamaq ilə bağlı kömək üçün, g.co/datatransferhelp bölməsinə daxil olun."</string>
+    <string name="restore_choice_not_enough_space">Yetərincə yer yoxdur</string>
+    <string name="restore_choice_total_text">əlçatan %1$s / %2$s yaddaş köçürməsindən</string>
+    <string name="restore_item_appdata">Tətbiq datası</string>
+    <string name="restore_item_calendar">Təqvim</string>
+    <string name="restore_item_calendar_ical_description">iOS® Təqvim, Google Təqvim</string>
+    <string name="restore_item_calendar_ical_off_description">Google Təqvim hələ də sinxronizasiya olunacaq</string>
+    <string name="restore_item_calendar_sync_description">Google Təqvim sinxronizasiya olunacaq</string>
+    <string name="restore_item_call_logs">Zəng tarixçəsi</string>
+    <string name="restore_item_contacts">Kontaktlar</string>
+    <string name="restore_item_device_settings_description">Wi-Fi parolları və daha çoxu</string>
+    <string name="restore_item_downloads">Endirmələr</string>
+    <string name="restore_item_email">E-poçt</string>
+    <string name="restore_item_email_description">Gmail sinxronizasiya olunacaq</string>
+    <string name="restore_item_message_attachments">Mesaj qoşmaları</string>
+    <string name="restore_item_messages">Mesajlarım</string>
+    <string name="restore_item_music">Musiqi</string>
+    <string name="restore_item_photos">Foto və videolar</string>
+    <string name="restore_item_settings">Cihaz ayarları</string>
+    <string name="restore_item_sms">SMS mesajları</string>
+    <string name="restore_item_will_be_synced_text">Telefonunuza sinxronizasiya olanacaq</string>
+    <string name="small_time_duration">1 dəqiqədən az</string>
+    <string name="source_connected_description">Hazırlanır...</string>
+    <string name="source_connected_title">%1$s cihazınıza qoşuldu</string>
+    <string name="source_copying_description">Seçdiyiniz data yeni telefona kopyalandı</string>
+    <string name="source_copying_title">Kopyalanır...</string>
+    <string name="source_default_target_device_name">yeni cihaz</string>
+    <string name="source_notification_device_disconnected">Kabelinizi yenidən qoşun</string>
+    <string name="source_notification_text">Telefondan telefona köçürmə icra olunur</string>
+    <string name="source_notification_title">Data Köçürməsi</string>
+    <string name="source_success_description">%1$s cihazında ayarlamanı tamamlayın.</string>
+    <string name="source_success_screen_title">Hazırdır!</string>
+    <string name="source_unplugged_description">%1$s cihazına yenidən qoşuldu</string>
+    <string name="source_unplugged_title">Kabel bağlantısı kəsildi</string>
+    <string name="source_waiting_title">%1$s cihazınızda ayarlamağa davam edin</string>
+    <string name="stop_copying_dialog_continue_button">Rədd edin</string>
+    <string name="stop_copying_dialog_message_before_transfer">Data yeni telefonunuza köçürülmədi</string>
+    <string name="stop_copying_dialog_message_during_transfer">Datadan bəzisi yeni telefonunuza köçürülmədi</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Kopyalamayın</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Dayandırın</string>
+    <string name="stop_copying_dialog_title_before_transfer">Kopyalanmasın?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopyalama dayandırılsın?</string>
+    <string name="storage_management_drive_clear_failure">Disk datasını təmizləyərkən xəta oldu. Yenidən cəhd etməyiniz xahiş olunur.</string>
+    <string name="storage_management_drive_clear_label">Təmizləyin</string>
+    <string name="storage_management_drive_clear_success">Disk datası təmizləndi.</string>
+    <string name="storage_management_drive_clearing">Təmizlənir...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Disk-icazəli tətbiqlər üçün bütün lokal Disk datası həmişəlik silinəcək. Buna Google Disk serverinə hələ yüklənməmiş gözlənilən dəyişikliklər də daxil ola bilər.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Bütün data silinsin?</string>
+    <string name="storage_management_drive_descriptive_text">Disk icazəli tətbiqlər faylları cihazlarınızda saxlayır ki, performansı və oflayn girişi artırsın.</string>
+    <string name="storage_management_drive_get_storage_failure">Disk yaddaş yerini hesablamaqla bağlı problem oldu. Sonra yenidən cəhd edin.</string>
+    <string name="storage_management_drive_size_label">Lokal Disk yaddaşı</string>
+    <string name="storage_management_wear_descriptive_text">Tətbiqlər cihazınızı datanızı danışa bilən etmək məqsədilə replikasiya etmək üçün işlədir.</string>
+    <string name="storage_management_wear_manage_size_label">Daşına bilən yaddaşı idarə edin</string>
+    <string name="storage_management_wear_size_label">Daşına bilən yaddaş</string>
+    <string name="storage_managment_all_storage_descriptive_text">Axtarış mühərriki və digər data daxil olmaqla Google Play xidmətləri tərəfindən istifadə olunan ümumi data.</string>
+    <string name="storage_managment_clear_all_data">Bütün datanı sil</string>
+    <string name="storage_managment_computing_size">Hesablanır...</string>
+    <string name="storage_managment_icing_size_label">Axtarış Datası</string>
+    <string name="storage_managment_manage_icing_button">Axtarış datasını idarə edin</string>
+    <string name="storage_managment_search_index_descriptive_text">Tətbiqlərinizin işlətməsi üçün axtarış mühərriki təchiz edərək cihazınızda axtarışı sürətləndiririk.</string>
+    <string name="storage_managment_title">Google Play xidmət yaddaşı</string>
+    <string name="storage_managment_total_size_label">Ümumi yaddaş</string>
+    <string name="target_default_source_device_model">köhnə cihaz</string>
+    <string name="target_device_not_supported_cant_continue_description">Datanı kopyalamaq üçün başqa üsul seçməlisiniz</string>
+    <string name="target_device_not_supported_cant_continue_title">Digər telefon dəstəklənmir</string>
+    <string name="target_smart_device_timeout_add_account">Hesab əlavə edin</string>
+    <string name="target_smart_device_timeout_description">Əgər istəyirsinizsə, hesabınızı mexaniki olaraq əlavə edə bilərsiniz</string>
+    <string name="target_smart_device_timeout_dismiss">KƏNARLAŞDIRIN</string>
+    <string name="target_smart_device_timeout_title">Problem var?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonlar qoşulub</string>
+    <string name="toast_reconnect_cable">Kabelinizi yenidən qoşun</string>
+    <string name="transfer_finished_fragment_title">Tamamlama toxunuşları əlavə edilir…</string>
+    <string name="transfer_summary_copied">Data kopyalandı</string>
+    <string name="transfer_summary_fragment_description">Əgər yoxunuzdursa, kabeli ayırın</string>
+    <string name="transfer_summary_fragment_finish">BİTİR</string>
+    <string name="transfer_summary_fragment_title">Telefonunuz demək olar ki hazırdır</string>
+    <string name="transfer_summary_icloud_photos_warning">Bəzi fotolar kopyalanmadı. <annotation link="transfer_summary_learn_more">Ətraflı məlumat</annotation></string>
+    <string name="transfer_summary_not_copied">Data kopyalanmadı</string>
+    <string name="transfer_summary_partial">%1$s / %2$s Kopyalandı</string>
+    <string name="transfer_summary_will_sync">Data quraşdırma sonra sinxronizasiya olunacaq</string>
+    <string name="transferring_fragment_calculating_remaining_time">Qalan vaxt hesablanır...</string>
+    <string name="transferring_fragment_header">Kopyalanır...</string>
+    <string name="transferring_fragment_remaining_time">%1$s qaldı</string>
+    <string name="trust_instructions_description">Davam etmək üçün, iPhone® cihazınızı yoxlayın və bağlantını təsdiq edin</string>
+    <string name="trust_instructions_trademark_disclaimer">ABŞ və digər ölkələrdə qeydiyyatdan keçmiş iPhone, iPad, iOS, iMessage, iCloud, Safari və iTunes Apple Inc.-nin ticarət nişanlarıdır.</string>
+</resources>

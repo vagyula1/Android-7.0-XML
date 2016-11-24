@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopierar %1$d filer.</item>
+        <item quantity="one">Kopierar %1$d fil.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Flyttar %1$d filer.</item>
+        <item quantity="one">Flyttar %1$d fil.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Raderar %1$d filer.</item>
+        <item quantity="one">Raderar %1$d fil.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Det gick inte att kopiera %1$d filer</item>
+        <item quantity="one">Det gick inte att kopiera %1$d fil</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Det gick inte att flytta %1$d filer</item>
+        <item quantity="one">Det gick inte att flytta %1$d fil</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Det gick inte att radera %1$d filer</item>
+        <item quantity="one">Det gick inte att radera %1$d fil</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d filer har kopierats till Urklipp.</item>
+        <item quantity="one">%1$d fil har kopierats till Urklipp.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d objekt</item>
+        <item quantity="one">%1$d objekt</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Vill du radera %1$d filer?</item>
+        <item quantity="one">Vill du radera %1$d fil?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Vill du radera %1$d mappar och deras innehåll?</item>
+        <item quantity="one">Vill du radera %1$d mapp och dess innehåll?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Vill du radera %1$d objekt?</item>
+        <item quantity="one">Vill du radera %1$d objekt?</item>
+    </plurals>
+</resources>

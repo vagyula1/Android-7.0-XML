@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Behörighet</string>
+    <string name="feature_check_msg">Kontrollerar prenumerationsstatus. Vänta...</string>
+    <string name="vzw_self_provisioning_msg">"För att använda mobilasurfpunkter, behöver du prenumerera på tjänsten mobilsurfpunkt.
+Läs mer och prenumerera på mobilsurfpunkt genom att besöka My Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Avbryt</string>
+    <string name="vzw_self_provisioning_learn_more">Läs mer</string>
+    <string name="vzw_error_msg_title">Det gick inte att behandla din order</string>
+    <string name="vzw_error_msg">"Om du vill prenumerera på Mobile Hotspot/Mobil bredbandsanslutning ringer du:
+ Privatkund: (800) 256-4646,
+Företag: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Tjänsteuppgradering krävs</string>
+    <string name="tmo_error_msg">Ditt aktuella abonnemang inkluderar inte Smartphone-tjänsten Mobile HotSpot som möjliggör delning av telefonens dataanslutning med andra enheter. Vill du lägga till Smartphone-tjänsten Mobile HotSpot till ditt abonnemang? Du kan även lägga till det online på https://my.t-mobile.com under Hantera > Abonnemang och tjänster. &lt;</string>
+    <string name="retv_terms_conditions_msg">Kontrollerar prenumerationsstatus. Vänta...</string>
+    <string name="change_data_request_msg">Skickar begäran om anskaffning. Vänta lite...</string>
+    <string name="alert_dialog_failure_title">Det gick inte att behandla din order</string>
+    <string name="alert_dialog_failure_msg">Försök igen senare.</string>
+    <string name="network_connection_title">Nätverksanslutningsfel</string>
+    <string name="network_connection_error_msg">Din telefon kan inte ansluta till servern för %s. Försök igen senare.</string>
+    <string name="mobile_hotspot">Mobil Hotspot</string>
+    <string name="alert_dialog_upgrade_button">Uppgradera</string>
+    <string name="alert_dialog_later_button">Senare</string>
+    <string name="current_subscription">(aktuell prenumeration)</string>
+    <string name="unavailable_subscription">(otillgänglig baserad på lagringsnivå)</string>
+    <string name="request_pending_title">Anskaffning väntar</string>
+    <string name="request_pending_error_msg">Verizons server behandlar din begäran. Försök igen om 5 minuter.</string>
+    <string name="browser_error_msg">Det går inte att öppna webbläsaren.</string>
+    <string name="att_error_msg">Gå till sidan att.com/mywireless eller ring 611 för att utföra aktiveringen</string>
+    <string name="att_error_msg_title">Kontot ej konfigurerat för internetdelning</string>
+    <string name="att_error_msg_other">Det finns ett tillfälligt nätverks problem som hindrar aktiveringen av Mobil Hotspot-funktionen. Försök igen senare</string>
+    <string name="att_error_msg_other_title">Nätfel</string>
+    <string name="sprint_error_msg">Kan inte ansluta till datanätverk; Du kanske inte prenumererar på internetdelning eller hotspot-tjänsten; Vänligen kontakta din teleoperatören.</string>
+    <string name="sprint_error_msg_title">Internetdelning eller hotspot-fel</string>
+    <string name="sprint_notification_msg">Tryck för att visa fler detaljer</string>
+    <string name="term_and_conditions_title">Villkor</string>
+    <string name="sbm_content_activity_title">Avtalsregler</string>
+    <string name="consent_title">Avtalsregler</string>
+    <string name="consent_message">"För att använda det här programmet behöver du godkänna och skicka följande information. Fortsätt sedan med det innehåll som ska kontrolleras.
+
+[Skicka information]
+Entreprenörsspecifkt ID
+[Använd program]
+Ordning som ska användas för internetdelning av program"</string>
+    <string name="consent_terms_btn">Tjänstevillkor</string>
+    <string name="concent_disagree_btn">Godkänner inte</string>
+    <string name="concent_agree_btn">Godkänn</string>
+    <string name="sbm_error_msg_title">Internetdelning eller hotspot-fel</string>
+    <string name="sbm_error_msg">Det går inte att ansluta till datanätverket.</string>
+    <string name="sbm_error_msg_not_subscribed">Det gick inte att verifiera prenumerationen enligt internetdelningsalternativet.</string>
+    <string name="sbm_error_msg_not_authenticated">"Autentisering misslyckades.
+(Felkod %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Autentisering misslyckades. Försök igen senare på en plats med god mottagning.</string>
+</resources>

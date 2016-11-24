@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">授权</string>
+    <string name="feature_check_msg">正在检查订阅状态。请稍候...</string>
+    <string name="vzw_self_provisioning_msg">"若要使用移动热点，您将需要订阅移动热点服务。
+通过访问 My Verizon 来了解更多信息并订阅移动热点。"</string>
+    <string name="vzw_self_provisioning_cancel">取消</string>
+    <string name="vzw_self_provisioning_learn_more">了解详情</string>
+    <string name="vzw_error_msg_title">您的订购无法处理</string>
+    <string name="vzw_error_msg">"若想订阅至 Mobile Hotspot/Mobile Broadband Connect（移动宽带连接），请呼叫：
+ 客户：(800) 256-4646，
+ 企业：(800) 899-4249。"</string>
+    <string name="tmo_error_msg_title">所需服务更新</string>
+    <string name="tmo_error_msg">您当前的费率计划并不包括可与其他设备共享手机数据连接的智能手机 Mobile Hotspot 服务。是否要将智能手机 Mobile Hotspot 服务添加至您的费率计划？您也可通过在管理 > 计划和服务下的 https://my.t-mobile.com 上进行在线添加。 &lt;</string>
+    <string name="retv_terms_conditions_msg">正在检查订阅状态。请稍候...</string>
+    <string name="change_data_request_msg">正在发送配置请求。请稍后...</string>
+    <string name="alert_dialog_failure_title">您的订购无法处理</string>
+    <string name="alert_dialog_failure_msg">请稍后再试。</string>
+    <string name="network_connection_title">网络连接错误</string>
+    <string name="network_connection_error_msg">您的手机当前无法连接至 %s 的服务器。请稍后重试。</string>
+    <string name="mobile_hotspot">移动热点</string>
+    <string name="vcast_media_manager">备份助手+</string>
+    <string name="alert_dialog_positive_button">确定</string>
+    <string name="alert_dialog_upgrade_button">升级</string>
+    <string name="alert_dialog_later_button">稍后</string>
+    <string name="current_subscription">（当前订阅）</string>
+    <string name="unavailable_subscription">（根据存储器级别不可用）</string>
+    <string name="request_pending_title">正在配置等待</string>
+    <string name="request_pending_error_msg">Verizon 的服务器正在处理您的请求。请在 5 分钟内重试。</string>
+    <string name="browser_error_msg">无法打开浏览器。</string>
+    <string name="att_error_msg">如要启用，请转至 att.com/mywireless 或拨打 611</string>
+    <string name="att_error_msg_title">未为连接设置帐户</string>
+    <string name="att_error_msg_other">临时性网络问题妨碍了移动热点功能的启用。请稍后再试</string>
+    <string name="att_error_msg_other_title">网络错误</string>
+    <string name="sprint_error_msg">无法连接到数据网络；您或许不会订阅网络共享或热点服务；请联系您的手机生产商</string>
+    <string name="sprint_error_msg_title">网络共享或热点错误</string>
+    <string name="sprint_notification_msg">触摸以查看更多详细信息</string>
+    <string name="term_and_conditions_title">条款</string>
+    <string name="sbm_content_activity_title">协议条款</string>
+    <string name="consent_title">协议条款</string>
+    <string name="consent_message">"如要使用该应用程序，您需要同意并发送以下信息。关于检查的内容，请继续进行。
+
+[发送信息]
+订约人-具体的 ID
+[使用应用程序]
+订购并使用网络共享应用程序"</string>
+    <string name="consent_terms_btn">服务条款</string>
+    <string name="concent_disagree_btn">不同意</string>
+    <string name="concent_agree_btn">同意</string>
+    <string name="sbm_error_msg_title">网络共享或热点错误</string>
+    <string name="sbm_error_msg">无法连接到数据网络。</string>
+    <string name="sbm_error_msg_not_subscribed">无法验证您对“网络共享选项”的订阅。</string>
+    <string name="sbm_error_msg_not_authenticated">"认证失败。
+(状态码 %1$s)"</string>
+    <string name="sbm_error_msg_no_response">认证失败。 请在接收信号好的位置处重试。</string>
+</resources>

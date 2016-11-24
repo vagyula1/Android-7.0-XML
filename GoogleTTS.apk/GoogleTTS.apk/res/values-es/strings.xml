@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Error de servicios de Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Una aplicación requiere una actualización de servicios de Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s necesita que la aplicación Android Wear se actualice.</string>
+    <string name="common_google_play_services_needs_enabling_title">Una aplicación requiere que se habiliten los servicios de Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitada por %1$s</string>
+    <string name="common_google_play_services_install_title">Descargar servicios de Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s no se ejecutará si los servicios de Google Play no están instalados en tu teléfono.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s no se ejecutará si los servicios de Google Play no están instalados en tu tablet.</string>
+    <string name="common_google_play_services_install_button">Descargar servicios de Google Play</string>
+    <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites los servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_button">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_update_title">Actualizar servicios de Google Play</string>
+    <string name="common_android_wear_update_title">Actualizar Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s no se ejecutará hasta que no actualices los servicios de Google Play.</string>
+    <string name="common_android_wear_update_text">%1$s no se ejecutará hasta que no actualices la aplicación Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Actualización servicios Play en curso</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de los servicios de Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Error de red</string>
+    <string name="common_google_play_services_network_error_text">Se necesita una conexión de datos para establecer conexión con los servicios de Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Cuenta no válida</string>
+    <string name="common_google_play_services_invalid_account_text">La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta.</string>
+    <string name="common_google_play_services_unknown_issue">Error desconocido relacionado con los servicios de Google Play</string>
+    <string name="common_google_play_services_unsupported_title">Servicios de Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s se basa en los servicios de Google Play, pero no son compatibles con tu dispositivo. Ponte en contacto con el fabricante para obtener asistencia.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s necesita uno o varios servicios de Google Play que no están disponibles en este momento. Ponte en contacto con el desarrollador para obtener ayuda.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Error al iniciar sesión</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error al iniciar sesión en la cuenta especificada. Selecciona otra cuenta.</string>
+    <string name="app_name">Síntesis de Google</string>
+    <string name="general_settings">Ajustes generales</string>
+    <string name="license_activity_title">Licencias de código abierto</string>
+    <string name="license_activity_loading">Cargando...</string>
+    <string name="license_activity_unavailable">Se ha detectado un problema al cargar las licencias.</string>
+    <string name="tts_settings_label">Opciones de síntesis de voz de Google</string>
+    <string name="voice_data_install_title">Datos de síntesis de voz de Google</string>
+    <string name="install_data_header">Descarga estos datos para poder usar la síntesis de voz sin conexión en tu dispositivo.</string>
+    <string name="download_invite_title">Instalar voz de síntesis de voz de %1$s</string>
+    <string name="download_invite">Habilitar síntesis de voz sin conexión para %1$s</string>
+    <string name="install_voice_text_2">Disponible para descargar</string>
+    <string name="download_in_progress">Descarga en curso</string>
+    <string name="no_installable_voices">No hay voces que se puedan descargar.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_voice_data">Eliminar</string>
+    <string name="update">Actualizar</string>
+    <string name="download">Descargar</string>
+    <string name="voice_installed">Instalada</string>
+    <string name="voice_installed_and_default">Instalada y establecida como predeterminada</string>
+    <string name="download_notification_title">%2$s para %1$s</string>
+    <string name="download_notification_description">Datos de síntesis de voz</string>
+    <string name="download_success_title">Descargar datos de voz para %1$s</string>
+    <string name="download_success_description">Toca para acceder a los ajustes y hacer que esta voz sea la predeterminada.</string>
+    <string name="download_failure_title">Error al descargar datos de voz para %1$s</string>
+    <string name="download_failure_description">Toca para volver a intentarlo.</string>
+    <string name="download_failed_toast">Error al iniciar descarga de paquete de voz.</string>
+    <string name="manage_voice_data">Administrar datos de voz</string>
+    <string name="auto_update_title">Actualizar voces automáticamente</string>
+    <string name="auto_update_wifi_title">Usar solo Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Descargar los datos de las voces solo en redes Wi-Fi para utilizar menos cantidad de datos</string>
+    <string name="feedback_title">Enviar comentarios</string>
+    <string name="feedback_failed">No se ha podido abrir el formulario de comentarios</string>
+    <string name="voices_type_title">Tipo de voces</string>
+    <string name="voices_type_summary">[PRUEBA INTERNA]Tipo de sintetizador de voz</string>
+    <string name="analytics_title">Informes de uso anónimo</string>
+    <string name="analytics_summary_on">Sí</string>
+    <string name="analytics_summary_off">No</string>
+    <string name="analytics_screen_explanation">"Cuando esta función está activada, recopilamos informes de uso anónimos. Esta información nos ayuda a comprender mejor el rendimiento de la síntesis de voz de Google en tu dispositivo.
+
+Ejemplos de las métricas totales que recopilamos:
+"<li><ul>"Frecuencia con la que se utiliza la síntesis de voz
+"<li>Rendimiento de las solicitudes de síntesis de voz</li>"
+"<li>Idiomas que se utilizan</li>"
+"<li>Frecuencia con la que la síntesis de voz no funciona</li>"
+"</ul></li></string>
+    <string name="process_text_title">Añadir TTS de Google al menú de selección</string>
+    <string name="process_text_summary">Esta nueva entrada sintetizará cualquier texto seleccionado.</string>
+    <string name="voice_pack_status_installed">Instalado (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Mujer</string>
+    <string name="voice_pack_status_gender_male">Hombre</string>
+    <string name="voice_entity_status_gender_female">Mujer %1$d</string>
+    <string name="voice_entity_status_gender_male">Hombre %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Sexo desconocido %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Voz heredada femenina</string>
+    <string name="voice_pack_status_gender_male_legacy">Voz heredada masculina</string>
+    <string name="voice_pack_status_gender_unknown">Sexo desconocido</string>
+    <string name="voice_pack_status_updatable">Actualización disponible</string>
+    <string name="voice_pack_status_downloadable">Descargar (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Voz actual</string>
+    <string name="voice_pack_status_downloading">Descargando...</string>
+    <string name="voice_pack_name_high_quality">%1$s (alta calidad)</string>
+    <string name="voice_pack_description">"Nombre: %1$s 
+Idioma: %2$s 
+Tamaño de datos: ~%3$s 
+Tipo de interlocutor: %4$s"</string>
+    <string name="voice_pack_action_download">Descargar (~%1$s)</string>
+    <string name="voice_pack_action_remove">Eliminar</string>
+    <string name="voice_pack_action_update">Actualizar (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Establecer como voz actual para %1$s</string>
+    <string name="voice_pack_action_cancel">Cancelar descarga</string>
+    <string name="voice_pack_install_tab_installed">INSTALADOS</string>
+    <string name="voice_pack_install_tab_all">TODO</string>
+    <string name="voice_pack_install_tab_settings">AJUSTES</string>
+    <string name="voice_entry_details">Abrir cuadro de diálogo de detalles de voz</string>
+    <string name="voice_entry_edit_desc">Abrir paquete de voz</string>
+    <string name="voice_entry_overflow_desc">Acciones de paquete de voz adicionales</string>
+    <string name="voice_entry_download_desc">Descargar paquete de voz</string>
+    <string name="voice_entry_cancel_download_desc">Cancelar descarga de paquete de voz</string>
+    <string name="voice_entry_delete_desc">Eliminar paquete de voz</string>
+    <string name="voice_entry_sample">Reproducir muestra de voz</string>
+    <string name="voice_pack_not_enough_space">Debes liberar espacio en el almacenamiento interno para instalar esta voz.</string>
+    <string name="action_settings">Opciones</string>
+    <string name="action_licenses">Licencias código abierto</string>
+    <string name="action_voice_pack_update">Actualizar</string>
+    <string name="action_voice_pack_uninstall">Desinstalar</string>
+    <string name="voice_pack_uninstall_dialog">¿Desinstalar esta voz?</string>
+    <string name="voice_pack_uninstall_keep">Mantener</string>
+    <string name="voice_pack_uninstall_uninstall">Desinstalar</string>
+    <string name="voice_pack_unpack_failure">Error al instalar la voz descargada</string>
+    <string name="multi_voice_pack_title">Voces de %1$s</string>
+    <string name="multi_voice_pack_entry_name">Conjunto de voces %1$d</string>
+    <string name="morphed_voice_set_title">Conjunto de voces</string>
+    <string name="select_voice_title">Selecciona una voz</string>
+    <string name="play_sample_text_button_description">Reproducir texto de muestra de %1$s</string>
+    <string name="voice_pack_no_download_manager">El administrador de descargas falta o está inhabilitado; no es posible descargar el paquete de voz</string>
+    <string name="unpack_voice_pack_service_title">Actualizando datos de síntesis de voz</string>
+    <string name="unpack_voice_pack_service_text">Desempaquetando…</string>
+    <string name="sample_text_synthesis_failure">Error al sintetizar un ejemplo de esta voz.</string>
+    <string name="quick_wait_for_init">Cargando</string>
+    <string name="quick_synthesizing">Sintetizando</string>
+    <string name="quick_speaking">Hablando</string>
+    <string name="quick_stopped">Detenido</string>
+    <string name="quick_error">Error</string>
+</resources>

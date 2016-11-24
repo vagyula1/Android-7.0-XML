@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s perlu pembaruan aplikasi Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_android_wear_update_text">%1$s tidak akan berjalan jika aplikasi Android Wear tidak diperbarui.</string>
+    <string name="common_google_play_services_updating_title">Layanan Google Play sedang diperbarui</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s memerlukan layanan Google Play, yang tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapat bantuan.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_signin_button_text">Masuk</string>
+    <string name="common_signin_button_text_long">Masuk dengan Google</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s memerlukan satu atau beberapa layanan Google Play yang saat ini tidak tersedia. Hubungi pengembang untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Gagal masuk</string>
+    <string name="common_google_play_services_sign_in_failed_text">Kesalahan saat masuk ke akun yang ditentukan. Pilih akun yang lain.</string>
+    <string name="app_name">Mesin Google Text-to-speech</string>
+    <string name="general_settings">Setelan Umum</string>
+    <string name="license_activity_title">Lisensi Sumber Terbuka</string>
+    <string name="license_activity_loading">Memuat...</string>
+    <string name="license_activity_unavailable">Ada masalah saat memuat lisensi.</string>
+    <string name="tts_settings_label">Opsi Google TTS</string>
+    <string name="voice_data_install_title">Data suara untuk Google TTS</string>
+    <string name="install_data_header">Unduh data ini untuk mendukung sintesis ucapan offline pada perangkat Anda.</string>
+    <string name="download_invite_title">Pasang suara ucapan %1$s</string>
+    <string name="download_invite">Aktifkan text-to-speech offline untuk %1$s</string>
+    <string name="install_voice_text_2">Tersedia untuk diunduh.</string>
+    <string name="download_in_progress">Unduhan sedang berlangsung</string>
+    <string name="no_installable_voices">Tidak ada suara yang dapat diunduh</string>
+    <string name="cancel">Batal</string>
+    <string name="delete_voice_data">Hapus</string>
+    <string name="update">Perbarui</string>
+    <string name="download">Unduh</string>
+    <string name="voice_installed">Terpasang.</string>
+    <string name="voice_installed_and_default">Terpasang dan disetel sebagai default.</string>
+    <string name="download_notification_title">%2$s untuk %1$s</string>
+    <string name="download_notification_description">Data suara untuk text-to-speech</string>
+    <string name="download_success_title">Data suara untuk %1$s telah diunduh</string>
+    <string name="download_success_description">Sentuh untuk mengunjungi setelan dan menjadikan ini sebagai suara default.</string>
+    <string name="download_failure_title">Kesalahan saat mengunduh data suara untuk %1$s</string>
+    <string name="download_failure_description">Sentuh untuk mencoba lagi.</string>
+    <string name="download_failed_toast">Gagal memulai unduhan paket suara.</string>
+    <string name="manage_voice_data">Kelola data suara</string>
+    <string name="auto_update_title">Pembaruan suara otomatis</string>
+    <string name="auto_update_wifi_title">Gunakan Wi-Fi saja</string>
+    <string name="auto_update_wifi_summary">Unduh data suara menggunakan Wi-Fi saja. Menghemat penggunaan data.</string>
+    <string name="feedback_title">Masukan</string>
+    <string name="feedback_failed">Tidak dapat membuka formulir masukan</string>
+    <string name="voices_type_title">Jenis suara</string>
+    <string name="voices_type_summary">[DOGFOOD]Jenis penyintesis ucapan</string>
+    <string name="analytics_title">Laporan penggunaan anonim</string>
+    <string name="analytics_summary_on">Aktif</string>
+    <string name="analytics_summary_off">Nonaktif</string>
+    <string name="analytics_screen_explanation">"Jika fitur ini diaktifkan, kami mengumpulkan laporan penggunaan anonim. Ini membantu kami lebih memahami kinerja Google text-to-speech di perangkat.
+
+Contoh metrik agregat yang kami kumpulkan:
+"<li><ul>"Seberapa sering text-to-speech digunakan.
+"<li>Kinerja permintaan text-to-speech.</li>"
+"<li>Bahasa mana yang digunakan.</li>"
+"<li>Seberapa sering text-to-speech gagal memberikan keluaran ucapan.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Tambah entri GoogleTTS ke menu pemilihan teks</string>
+    <string name="process_text_summary">Entri baru ini akan menyintesis teks yang dipilih.</string>
+    <string name="voice_pack_status_installed">Terpasang (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Wanita</string>
+    <string name="voice_pack_status_gender_male">Pria</string>
+    <string name="voice_entity_status_gender_female">Wanita %1$d</string>
+    <string name="voice_entity_status_gender_male">Pria %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Jenis kelamin tak diketahui %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Suara lawas wanita</string>
+    <string name="voice_pack_status_gender_male_legacy">Suara lawas pria</string>
+    <string name="voice_pack_status_gender_unknown">Jenis kelamin tidak diketahui</string>
+    <string name="voice_pack_status_updatable">Pembaruan tersedia</string>
+    <string name="voice_pack_status_downloadable">Unduh (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Suara saat ini</string>
+    <string name="voice_pack_status_downloading">Mengunduh…</string>
+    <string name="voice_pack_name_high_quality">%1$s (kualitas tinggi)</string>
+    <string name="voice_pack_description">"Nama: %1$s 
+Lokal: %2$s 
+Ukuran data: ~%3$s 
+Gender pembicara: %4$s"</string>
+    <string name="voice_pack_action_download">Unduh (~%1$s)</string>
+    <string name="voice_pack_action_remove">Hapus</string>
+    <string name="voice_pack_action_update">Perbarui (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Jadikan suara saat ini untuk %1$s</string>
+    <string name="voice_pack_action_cancel">Batalkan unduhan</string>
+    <string name="voice_pack_install_tab_installed">TERPASANG</string>
+    <string name="voice_pack_install_tab_all">SEMUA</string>
+    <string name="voice_pack_install_tab_settings">SETELAN</string>
+    <string name="voice_entry_details">Luncurkan dialog detail suara</string>
+    <string name="voice_entry_edit_desc">Buka paket suara</string>
+    <string name="voice_entry_overflow_desc">Tindakan paket suara tambahan</string>
+    <string name="voice_entry_download_desc">Unduh paket suara</string>
+    <string name="voice_entry_cancel_download_desc">Batalkan unduhan paket suara</string>
+    <string name="voice_entry_delete_desc">Hapus paket suara</string>
+    <string name="voice_entry_sample">Putar contoh suara</string>
+    <string name="voice_pack_not_enough_space">Ruang di penyimpanan internal tidak cukup. Kosongkan ruang untuk memasangnya.</string>
+    <string name="action_settings">Opsi</string>
+    <string name="action_licenses">Lisensi Sumber Terbuka</string>
+    <string name="action_voice_pack_update">Pembaruan</string>
+    <string name="action_voice_pack_uninstall">Copot pemasangan</string>
+    <string name="voice_pack_uninstall_dialog">Copot pemasangan suara?</string>
+    <string name="voice_pack_uninstall_keep">Simpan</string>
+    <string name="voice_pack_uninstall_uninstall">Copot pemasangan</string>
+    <string name="voice_pack_unpack_failure">Gagal memasang suara yang telah diunduh</string>
+    <string name="multi_voice_pack_title">Suara %1$s</string>
+    <string name="multi_voice_pack_entry_name">Kumpulan suara %1$d</string>
+    <string name="morphed_voice_set_title">Kumpulan Suara</string>
+    <string name="select_voice_title">Pilih suara</string>
+    <string name="play_sample_text_button_description">Putar contoh teks untuk %1$s</string>
+    <string name="voice_pack_no_download_manager">Pengelola Unduhan tidak ada atau nonaktif; tidak dapat mengunduh paket suara</string>
+    <string name="unpack_voice_pack_service_title">Memperbarui Data Text-To-Speech</string>
+    <string name="unpack_voice_pack_service_text">Sedang membongkar…</string>
+    <string name="sample_text_synthesis_failure">Gagal menyintesis contoh suara ini.</string>
+    <string name="quick_wait_for_init">Memuat</string>
+    <string name="quick_synthesizing">Menyintesis</string>
+    <string name="quick_speaking">Mengucapkan</string>
+    <string name="quick_stopped">Dihentikan</string>
+    <string name="quick_error">Kesalahan</string>
+</resources>

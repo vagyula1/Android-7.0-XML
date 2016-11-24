@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Skakel oor %d sekondes af …</item>
+        <item quantity="one">Skakel oor 1 sekonde af …</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Die volgende rekeninge is gereed:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Die volgende rekening is gereed:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Nog %d tikke om QR-kodeopstelling te begin</item>
+        <item quantity="one">Nog %d tik om QR-kodeopstelling te begin</item>
+    </plurals>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rettighed</string>
+    <string name="feature_check_msg">Kontrollerer abonnementsstatus. Vent venligst...</string>
+    <string name="vzw_self_provisioning_msg">"Hvis du vil bruge Mobile Hotspot, skal du tilmelde dig Mobile Hotspot-tjenesten.
+Få mere at vide, og tilmeld dig Mobile Hotspot ved at besøge Min Verizon."</string>
+    <string name="vzw_self_provisioning_cancel">Annuller</string>
+    <string name="vzw_self_provisioning_learn_more">Flere oplysninger</string>
+    <string name="vzw_error_msg_title">Din ordre kunne ikke behandles</string>
+    <string name="vzw_error_msg">"Hvis du gerne vil abonnere på Mobile Hotspot/Mobile Broadband Connect, skal du ringe til:
+ Kunde: (800) 256-4646,
+ Erhverv: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Tjenesteopgradering påkrævet</string>
+    <string name="tmo_error_msg">Din nuværende prisplan omfatter ikke Smartphone Mobile Hotspot-tjenesten, som gør det muligt for dig at dele telefonens dataforbindelse med andre enheder. Vil du føje Smartphone Mobile Hotspot-tjenesten til din prisplan? Du kan også tilføje den på https://my.t-mobile.com under Administrer > Planer og tjenester. &lt;</string>
+    <string name="retv_terms_conditions_msg">Kontrollerer abonnementsstatus. Vent venligst...</string>
+    <string name="change_data_request_msg">Anmodning om klargøring sendes. Vent venligst...</string>
+    <string name="alert_dialog_failure_title">Din ordre kunne ikke behandles</string>
+    <string name="alert_dialog_failure_msg">Prøv igen senere.</string>
+    <string name="network_connection_title">Netværksforbindelsesfejl</string>
+    <string name="network_connection_error_msg">Telefonen kan i øjeblikket ikke oprette forbindelse til %ss server. Prøv igen senere.</string>
+    <string name="mobile_hotspot">Mobil Hotspot</string>
+    <string name="alert_dialog_upgrade_button">Opgrader</string>
+    <string name="alert_dialog_later_button">Senere</string>
+    <string name="current_subscription">(nuværende abonnement)</string>
+    <string name="unavailable_subscription">(utilgængelig på grund af lagerniveau)</string>
+    <string name="request_pending_title">Autorisation afventer</string>
+    <string name="request_pending_error_msg">Verizons server behandler din anmodning. Prøv igen om 5 minutter.</string>
+    <string name="browser_error_msg">Det er ikke muligt at åbne browser.</string>
+    <string name="att_error_msg">Hvis du vil aktivere, skal du gå til att.com/mywireless eller ringe til 611</string>
+    <string name="att_error_msg_title">Konto er ikke konfigureret til internetdeling</string>
+    <string name="att_error_msg_other">Et midlertidigt netværksproblem står i vejen for Mobile Hotspot-funktionen. Prøv igen senere</string>
+    <string name="att_error_msg_other_title">Netværksfejl</string>
+    <string name="sprint_error_msg">Kan ikke oprette forbindelse til datanetværk; Du bliver måske ikke tilmeldt internetdelings- eller hotspottjeneste; Kontakt dit teleselskab.</string>
+    <string name="sprint_error_msg_title">Internetdelings- eller hotspotfejl</string>
+    <string name="sprint_notification_msg">Tryk for at se flere oplysninger</string>
+    <string name="term_and_conditions_title">Vilkår og betingelser</string>
+    <string name="sbm_content_activity_title">Aftalens vilkår</string>
+    <string name="consent_title">Aftalens vilkår</string>
+    <string name="consent_message">"Hvis du vil bruge denne applikation, skal du acceptere og sende følgende oplysninger. Kontrollér indholdet, og fortsæt derefter.
+
+[Send oplysninger]
+Kontraktansattes specifikke id
+[Brug applikationer]
+Ordre til at bruge applikationen til internetdeling"</string>
+    <string name="consent_terms_btn">Betingelser for tjeneste</string>
+    <string name="concent_disagree_btn">Accepter ikke</string>
+    <string name="concent_agree_btn">Accepter</string>
+    <string name="sbm_error_msg_title">Internetdelings- eller hotspotfejl</string>
+    <string name="sbm_error_msg">Forbindelse til datanetværket kan ikke oprettes.</string>
+    <string name="sbm_error_msg_not_subscribed">Det var ikke muligt at bekræfte dit abonnement på valgmuligheden Internetdeling.</string>
+    <string name="sbm_error_msg_not_authenticated">"Godkendelse mislykkedes.
+(Fejlkode %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Godkendelse mislykkedes. Flyt dig til et sted med god modtagelse, og prøv igen.</string>
+</resources>

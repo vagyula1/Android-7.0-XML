@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TrackSeekBar">
+        <item name="android:paddingTop">@dimen/seek_bar_top_bottom_padding</item>
+        <item name="android:paddingBottom">@dimen/seek_bar_top_bottom_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/nowplaying_screen_progress_left_right_margin</item>
+        <item name="android:layout_marginRight">@dimen/nowplaying_screen_progress_left_right_margin</item>
+        <item name="android:layout_marginBottom">@dimen/nowplaying_screen_progress_bottom_margin</item>
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+        <item name="android:mirrorForRtl">false</item>
+    </style>
+    <style name="XdiNowPlaying" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowOverscan">true</item>
+    </style>
+</resources>

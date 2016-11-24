@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_notification_needs_update_title">Rakenduse kasutamiseks tuleb värskendada Google Play teenuseid.</string>
+    <string name="common_android_wear_notification_needs_update_text">Rakendus %1$s nõuab rakenduse Android Wear värskendust.</string>
+    <string name="common_google_play_services_needs_enabling_title">Rakenduse kasutamiseks peavad olema lubatud Google Play teenused.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Taotluse esitas %1$s</string>
+    <string name="common_google_play_services_install_title">Hankige Google Play teenused</string>
+    <string name="common_google_play_services_install_text_phone">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie telefonis pole.</string>
+    <string name="common_google_play_services_install_text_tablet">Rakendus %1$s töötab ainult koos Google Play teenustega, mida teie tahvelarvutis pole.</string>
+    <string name="common_google_play_services_install_button">Hankige Google Play teenused</string>
+    <string name="common_google_play_services_enable_title">Lubage Google Play teenused</string>
+    <string name="common_google_play_services_enable_text">Rakendus %1$s töötab ainult siis, kui lubate Google Play teenused.</string>
+    <string name="common_google_play_services_enable_button">Lubage Google Play teenused</string>
+    <string name="common_google_play_services_update_title">Värskendage Google Play teenuseid</string>
+    <string name="common_android_wear_update_title">Rakenduse Android Wear värskendamine</string>
+    <string name="common_google_play_services_update_text">Rakenduse %1$s töötamiseks peate värskendama Google Play teenuseid.</string>
+    <string name="common_android_wear_update_text">Rakendus %1$s töötab ainult siis, kui värskendate rakendust Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Google Play teenuseid värskendatakse</string>
+    <string name="common_google_play_services_updating_text">Rakendus %1$s töötab ainult koos Google Play teenustega, mida praegu värskendatakse.</string>
+    <string name="common_google_play_services_network_error_title">Võrgu viga</string>
+    <string name="common_google_play_services_network_error_text">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="common_google_play_services_invalid_account_title">Vale konto</string>
+    <string name="common_google_play_services_invalid_account_text">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play teenuste tundmatu probleem.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play teenused</string>
+    <string name="common_google_play_services_unsupported_text">Rakendus %1$s toetub Google Play teenustele, mida teie seadmes ei toetata. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_google_play_services_api_unavailable_text">Rakenduse %1$s kasutamiseks on vaja ühte või mitut Google Play teenust, mis pole praegu saadaval. Võtke abi saamiseks ühendust arendajaga.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sisselogimine ebaõnnestus</string>
+    <string name="common_google_play_services_sign_in_failed_text">Määratud kontole sisselogimisel ilmnes viga. Valige teine konto.</string>
+    <string name="app_name">Usaldusväärne nägu</string>
+    <string name="trusted_face_service_app_name">Teenus Usaldusväärne nägu</string>
+    <string name="receiver_app_name">Funktsiooni Usaldusväärne nägu ülekande vastuvõtja</string>
+    <string name="intro_screen_title">Teave funktsiooni Usaldusväärne nägu kohta</string>
+    <string name="intro_screen_header">Avage telefon seda vaadates</string>
+    <string name="intro_screen_body_start">"Pidage meeles:
+"</string>
+    <string name="intro_screen_bullets">"Näotuvastusega avamine ei ole nii turvaline kui muster, PIN-kood või parool
+
+Teiega sarnane inimene võib teie telefoni avada
+
+Teie näo tuvastamiseks kasutatavaid andmeid hoitakse telefonis privaatselt"</string>
+    <string name="intro_screen_continue_label">Seadista</string>
+    <string name="instructions_screen_title">Lisage usaldusväärne nägu</string>
+    <string name="instructions_screen_header">Parimate tulemuste saavutamiseks:</string>
+    <string name="instructions_screen_bullets">"Leidke toas koht, mis pole liiga valge või liiga hämar
+
+Hoidke telefoni silmade kõrgusel"</string>
+    <string name="instructions_screen_continue_label">Järgmine</string>
+    <string name="enrollment_screen_title">Usaldusväärse näo lisamine</string>
+    <string name="enrollment_screen_message_initializing">Käivitamine ...</string>
+    <string name="enrollment_screen_message_initialization_error">Näo otsimist ei õnnestunud alustada</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kaameraluba pole antud</string>
+    <string name="enrollment_screen_message_camera_error">Kaamera ei ole saadaval</string>
+    <string name="enrollment_start_message">Hoidke nägu punktidega märgistatud alas</string>
+    <string name="enrollment_screen_message_instructions">Hoidke pealagi ja lõua alaosa ringi sees</string>
+    <string name="enrollment_screen_message_done">Nägu on lisatud</string>
+    <string name="enrollment_screen_status_no_face">Näidake oma nägu</string>
+    <string name="enrollment_screen_status_face_off_center">Ei näe tervet nägu</string>
+    <string name="enrollment_screen_status_missing_template">Ei näe näojooni</string>
+    <string name="enrollment_screen_continue_label">Järgmine</string>
+    <string name="enrollment_screen_done_label">Valmis</string>
+    <string name="enrollment_screen_talkback_preview_description">Kaamera eelvaade</string>
+    <string name="enrollment_screen_talkback_face_added">Nägu on lisatud</string>
+    <string name="end_screen_title">Kõik on valmis</string>
+    <string name="end_screen_body">Telefoni avamiseks lülitage ekraan sisse ja vaadake kaamerasse</string>
+    <string name="end_screen_bullet_one_text">Telefon avaneb kohe, kui teid ära tunneb</string>
+    <string name="end_screen_bullet_two_text">Kui teie nägu ei tuvastata, avage telefon mustri, PIN-koodi või parooliga</string>
+    <string name="end_screen_tip_text">Nõuanne. Näotuvastuse täiustamiseks näidake oma nägu erinevates oludes</string>
+    <string name="end_screen_licenses_label">Litsentsid</string>
+    <string name="end_screen_continue_label">Valmis</string>
+    <string name="add_to_setup_intro_screen_title">Näotuvastuse täiustamine</string>
+    <string name="add_to_setup_intro_screen_header">Näidake oma välimust erinevates tingimustes</string>
+    <string name="add_to_setup_intro_screen_body_start">"Näited:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Erinevas valguses
+
+Prillidega või ilma
+
+Habemega või raseeritud
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Hoidke telefoni silmade kõrgusel</string>
+    <string name="add_to_setup_intro_screen_continue_label">Järgmine</string>
+    <string name="license_screen_title">Litsentsid</string>
+    <string name="license_screen_header">Avatud lähtekoodi teatised</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">Funktsioon „Usaldusväärne nägu” võib kasutada järgmiste avatud lähtekoodiga kogude andmeid, mis on litsentsitud allolevate litsentside alusel.</string>
+    <string name="license_screen_notices_header">Kogude teatised:</string>
+    <string name="shared_cancel_label">Tühista</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Näotuvastuse funktsiooni on muudetud. Selle kasutamise jätkamiseks lisage usaldusväärne nägu uuesti.</string>
+</resources>

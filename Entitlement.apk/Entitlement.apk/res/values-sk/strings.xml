@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nárok</string>
+    <string name="feature_check_msg">Kontroluje sa stav predplatného. Čakajte, prosím...</string>
+    <string name="vzw_self_provisioning_msg">"Ak chcete používať Mobile Hotspot, musíte si objednať službu Mobile Hotspot.
+Návštevou My Verizon si môžete pozrieť ďalšie informácie a objednať si službu Mobile Hotspot."</string>
+    <string name="vzw_self_provisioning_cancel">Zrušiť</string>
+    <string name="vzw_self_provisioning_learn_more">Ďalšie informácie</string>
+    <string name="vzw_error_msg_title">Vašu objednávku sa nepodarilo spracovať</string>
+    <string name="vzw_error_msg">"Ak si chcete predplatiť službu Mobile Hotspot/Mobile Broadband Connect, zavolajte na číslo:
+ Zákazníci: (800) 256-4646,
+ Firmy: (800) 899-4249."</string>
+    <string name="tmo_error_msg_title">Vyžaduje sa inovácia služby</string>
+    <string name="tmo_error_msg">Váš aktuálny tarifný plán neobsahuje službu Mobile Hotspot pre smartfóny, ktorá umožňuje zdieľanie dátového pripojenia vášho telefónu s inými zariadeniami. Chcete v rámci svojho tarifného plánu pridať službu Mobile Hotspot pre smartfóny? Môžete ju pridať aj on-line na adrese https://my.t-mobile.com v sekcii Správa > Plány a služby. &lt;</string>
+    <string name="retv_terms_conditions_msg">Kontroluje sa stav predplatného. Čakajte, prosím...</string>
+    <string name="change_data_request_msg">Odosiela sa požiadavka na poskytovanie. Čakajte, prosím...</string>
+    <string name="alert_dialog_failure_title">Vašu objednávku sa nepodarilo spracovať</string>
+    <string name="alert_dialog_failure_msg">Skúste to znova neskôr.</string>
+    <string name="network_connection_title">Chyba sieťového pripojenia</string>
+    <string name="network_connection_error_msg">Váš telefón sa momentálne nedokáže pripojiť k serveru %s. Skúste znova neskôr.</string>
+    <string name="mobile_hotspot">Mob.príst.bod</string>
+    <string name="alert_dialog_upgrade_button">Aktualiz.</string>
+    <string name="alert_dialog_later_button">Neskôr</string>
+    <string name="current_subscription">(aktuálne predplatné)</string>
+    <string name="unavailable_subscription">(nedostupné kvôli veľkosti úložiska)</string>
+    <string name="request_pending_title">Poskytovanie v štádiu schvaľovania</string>
+    <string name="request_pending_error_msg">Server Verizon spracováva vašu požiadavku. Skúste znova o 5 minút.</string>
+    <string name="browser_error_msg">Prehliadač nemožno tvoriť.</string>
+    <string name="att_error_msg">Na aktivovanie prejdite na lokalitu att.com/mywireless alebo vytočte 611</string>
+    <string name="att_error_msg_title">Konto nie je nastavené na používanie tetheringu.</string>
+    <string name="att_error_msg_other">Dočasný problém siete zabraňuje aktivovaniu funkcie mobilného prístupového bodu. Skúste znova neskôr</string>
+    <string name="att_error_msg_other_title">Chyba siete</string>
+    <string name="sprint_error_msg">Nepodarilo sa pripojiť k dátovej sieti; Možno nemáte predplatenú službu tetheringu alebo prístupového bodu; Spojte sa so svojím poskytovateľom telefónnych služieb.</string>
+    <string name="sprint_error_msg_title">Chyba tetheringu alebo prístupového bodu</string>
+    <string name="sprint_notification_msg">Stlačte na zobrazenie ďalších podrobností</string>
+    <string name="term_and_conditions_title">Zmluvné podmienky</string>
+    <string name="sbm_content_activity_title">Zmluvné podmienky</string>
+    <string name="consent_title">Zmluvné podmienky</string>
+    <string name="consent_message">"Aby ste mohli túto aplikáciu používať, musíte súhlasiť a odoslať nasledujúce informácie. Záležitosti týkajúce sa kontroly; potom pokračujte.
+
+[Odoslanie informácií]
+ID špecifické pre zmluvnú stranu
+[Používanie aplikácií]
+Objednávka na používanie aplikácie na tethering"</string>
+    <string name="consent_terms_btn">Podmienky služby</string>
+    <string name="concent_disagree_btn">Nesúhlasím</string>
+    <string name="concent_agree_btn">Prijať</string>
+    <string name="sbm_error_msg_title">Chyba tetheringu alebo prístupového bodu</string>
+    <string name="sbm_error_msg">Nepodarilo sa pripojiť k dátovej sieti.</string>
+    <string name="sbm_error_msg_not_subscribed">Nepodarilo sa overiť vaše predplatné možnosti tethering.</string>
+    <string name="sbm_error_msg_not_authenticated">"Nepodarilo sa overiť.
+(Kód chyby %1$s)"</string>
+    <string name="sbm_error_msg_no_response">Nepodarilo sa overiť. Skúste znova na mieste s dobrým príjmom.</string>
+</resources>

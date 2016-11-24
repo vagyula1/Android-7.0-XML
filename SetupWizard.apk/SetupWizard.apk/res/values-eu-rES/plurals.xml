@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d segundo barru itzaliko da…</item>
+        <item quantity="one">Segundo bat barru itzaliko da…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Prest daude kontu hauek:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Prest dago kontu hau:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Beste %d sakatze QR kodea konfiguratzen hasteko</item>
+        <item quantity="one">Beste %d sakatze QR kodea konfiguratzen hasteko</item>
+    </plurals>
+</resources>

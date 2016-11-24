@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_load_unsuccessful_message">タブレットがモバイルデータサービスに接続されていません。この情報を今すぐ確認するには、ウェブブラウザで %s にアクセスしてください。</string>
+    <string name="activation_text">今すぐモバイルサービスを有効にするには[<b>有効にする</b>"]をタップしてください（数分かかることがあります）。
+
+代わりにWi-Fi接続を使ってタブレットをセットアップする場合は["<b>スキップ</b>]をタップしてください。</string>
+    <string name="activation_skip_confirmation">"モバイルデータサービスを有効にするまで、タブレットのほとんどの機能は使用できません。
+
+いったんスキップする場合は、後ほど[システム設定]で有効にできます。"</string>
+    <string name="activation_failure_text">"モバイルデータサービスを有効にできませんでした。これは一時的な問題と考えられます。
+
+いったんスキップする場合は、後ほど必ず[システム設定]で有効にしてください。有効にするまでタブレットのほとんどの機能は利用できません。"</string>
+    <string name="activation_failure_text_gen">モバイルデータサービスを有効にできませんでした。これは一時的な問題である可能性があり、タブレットを再起動すると解決する場合があります。</string>
+    <string name="activation_spc_failure_text">エラーが発生しました。もう一度有効化を試すにはタブレットをシャットダウンして再起動する必要があります。タブレットは60秒後に自動的にシャットダウンされますが、[<b>今すぐシャットダウン</b>"]をタップすることもできます。
+
+タブレットのシャットダウンが完了したら、電源ボタンを押して再起動してください。"</string>
+    <string name="sim_missing_text">SIMカードを挿入するには、タブレットの取扱説明書をお読みください。</string>
+    <string name="setup_complete_message">タブレットのセットアップが完了し、ご使用の準備が整いました。</string>
+</resources>

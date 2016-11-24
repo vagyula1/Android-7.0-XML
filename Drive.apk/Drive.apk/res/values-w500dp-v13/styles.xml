@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SelectionFloatingHandleStyle">
+        <item name="android:layout_width">320.0dip</item>
+        <item name="android:layout_height">@dimen/selection_fh_bg_height</item>
+        <item name="android:layout_marginBottom">@dimen/m_grid_2x</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+</resources>

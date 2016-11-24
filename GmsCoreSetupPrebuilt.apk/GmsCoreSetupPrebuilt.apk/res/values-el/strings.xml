@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="app_picker_fetch_failure">Δεν βρέθηκαν εφαρμογές</string>
+    <string name="app_picker_no_apps">Δεν επιλέχτηκαν εφαρμογές</string>
+    <string name="auto_restore_summary">Κατά την εκ νέου εγκατάσταση μιας εφαρμογής, να γίνεται επαναφορά των ρυθμίσεων και των δεδομένων για τα οποία έχουν δημιουργηθεί αντίγραφα ασφαλείας</string>
+    <string name="auto_restore_title">Αυτόματη επαναφορά</string>
+    <string name="backup_configure_account_default_summary">Αυτήν τη στιγμή δεν αποθηκεύονται δεδομένα αντιγρ. ασφαλ. από κάποιον λογαριασμό</string>
+    <string name="backup_configure_account_title">Λογαριασμός αντιγ. ασφαλ.</string>
+    <string name="backup_data_summary">Δημιουργία αντιγράφων ασφαλείας για τα δεδομένα εφαρμογών, τους κωδικούς πρόσβασης Wi-Fi και για άλλες ρυθμίσεις στο Google Drive</string>
+    <string name="backup_data_summary_full">"Δημιουργήστε αντίγραφα ασφαλείας για τα δεδομένα της συσκευής σας (όπως τους κωδικούς Wi-Fi και το ιστορικό κλήσεων) και τα δεδομένα εφαρμογών (όπως ρυθμίσεις και αρχεία που έχουν αποθηκευτεί από εφαρμογές) απομακρυσμένα και αυτόματα.
+
+Με την ενεργοποίηση της αυτόματης δημιουργίας αντιγράφων ασφαλείας, τα δεδομένα της συσκευής και των εφαρμογών αποθηκεύονται απομακρυσμένα περιοδικά. Τα δεδομένα εφαρμογών μπορεί να είναι διαφόρων ειδών δεδομένα τα οποία έχουν αποθηκευτεί από κάποια εφαρμογή (ανάλογα με τις ρυθμίσεις του προγραμματιστή), συμπεριλαμβανομένων δυνητικά ευαίσθητων δεδομένων, όπως επαφών, μηνυμάτων και φωτογραφιών."</string>
+    <string name="backup_data_title">Δημιουργία αντιγράφων ασφαλείας στο Google Drive</string>
+    <string name="backup_erase_dialog_message">Να διακοπεί η δημιουργία αντιγράφων ασφαλείας για τους κωδικούς πρόσβασης Wi-Fi, τους σελιδοδείκτες και τις άλλες ρυθμίσεις και τα δεδομένα εφαρμογών και να διαγραφούν όλα τα αντίτυπα από το Google Drive;</string>
+    <string name="backup_erase_dialog_message_full">Να διακοπεί η δημιουργία αντιγράφων ασφαλείας για τα δεδομένα συσκευών (όπως είναι οι κωδικοί πρόσβασης Wi-Fi και το ιστορικό κλήσεων) και τα δεδομένα εφαρμογών (όπως είναι οι ρυθμίσεις και τα αρχεία που αποθηκεύουν οι εφαρμογές) και να διαγραφούν όλα τα αντίγραφα από το Google Drive;</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Παρουσιάστηκε σφάλμα κατά το άνοιγμα των ρυθμίσεων των φωτογραφιών</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Όταν ενεργοποιείτε την αυτόματη δημιουργία αντιγράφων ασφαλείας:
+
+ ● Οι ρυθμίσεις συσκευής και τα δεδομένα εφαρμογών αποθηκεύονται ανά τακτά χρονικά διαστήματα σε έναν ιδιωτικό φάκελο στο Google Drive. Τα δεδομένα εφαρμογών μπορεί να είναι οποιουδήποτε τύπου δεδομένα που έχουν αποθηκευτεί από κάποια εφαρμογή (με βάση τις ρυθμίσεις του προγραμματιστή), συμπεριλαμβανομένων δυνητικά ευαίσθητων δεδομένων, όπως είναι οι επαφές, τα μηνύματα και οι φωτογραφίες.
+
+ Τυχόν μεγάλα αρχεία ή αρχεία που οι προγραμματιστές επέλεξαν να εξαιρέσουν από την υπηρεσία δεν θα συμπεριλαμβάνονται στα αντίγραφα ασφαλείας.
+
+ ● Οι φωτογραφίες και οι εγγραφές βίντεο που προέρχονται από αυτήν τη συσκευή θα συγχρονίζονται με τη βιβλιοθήκη σας στο Google Photos, για να μπορείτε να τις αναζητήσετε, να τις επεξεργαστείτε, να τις διαγράψετε και να τις μοιραστείτε από οποιαδήποτε από τις συσκευές σας.
+
+ Από προεπιλογή, μεταφορτώνονται φωτογραφίες και βίντεο πλήρους ανάλυσης. Αυτές οι φωτογραφίες και τα βίντεο δεν υπολογίζονται στο όριο του αποθηκευτικού σας χώρου στο Drive.
+
+ ● Οι επαφές και τα συσχετισμένα δεδομένα που προέρχονται από αυτήν τη συσκευή συγχρονίζονται με τις Επαφές Google. Μπορείτε να χρησιμοποιείτε την εφαρμογή \"Επαφές Google\" για την αναζήτηση, την επεξεργασία, τη διαγραφή και την κοινή χρήση επαφών από οποιαδήποτε από τις συσκευές σας.
+
+ ● Οι καταχωρίσεις ημερολογίου και τα συσχετισμένα δεδομένα που προέρχονται από αυτήν τη συσκευή συγχρονίζονται με το Ημερολόγιο Google. Μπορείτε να χρησιμοποιείτε την εφαρμογή \"Ημερολόγιο Google\" για την αναζήτηση, την επεξεργασία, τη διαγραφή και την κοινή χρήση επαφών από οποιαδήποτε από τις συσκευές σας
+
+ Τα δεδομένα για τα οποία έχουν δημιουργηθεί αντίγραφα ασφαλείας δεν θα υπολογίζονται στο όριο του αποθηκευτικού σας χώρου στο Drive."</string>
+    <string name="backup_opt_in_backup_description">Η αυτόματη δημιουργία αντιγράφων ασφαλείας διασφαλίζει την εύκολη επαναφορά ή την αλλαγή τηλεφώνων ανά πάσα στιγμή. <annotation link="backup_opt_in_learn_more">Μάθετε περισσότερα</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Το ημερολόγιο, οι επαφές, οι φωτογραφίες και τα βίντεο συγχρονίζονται με τον Λογαριασμό σας Google και μπορούν να χρησιμοποιηθούν σε διάφορες υπηρεσίες.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Αυτή η ενέργεια θα απενεργοποιήσει το αντίγραφο ασφαλείας για τα εξής:
+
+Εφαρμογές και δεδομένα εφαρμογών
+Ιστορικό κλήσεων
+Ρυθμίσεις συσκευής
+Φωτογραφίες και βίντεο
+SMS
+
+Το ημερολόγιο και οι επαφές θα συνεχίσουν να συγχρονίζονται με τον Λογαριασμό σας Google. Μόλις ολοκληρωθεί η ρύθμιση, θα μπορείτε να αλλάζετε τις ρυθμίσεις συγχρονισμού από το μενού "<annotation link="backup_opt_in_settings_instructions">Ρυθμίσεις > Λογαριασμοί > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Απενεργοποίηση αντιγράφου ασφαλείας;</string>
+    <string name="backup_opt_in_backup_list">"Εφαρμογές και δεδομένα εφαρμογών
+Ημερολόγιο
+Ιστορικό κλήσεων
+Επαφές
+Ρυθμίσεις συσκευών (συμπεριλαμβανομένων των κωδικών πρόσβασης Wi-Fi)
+Φωτογραφίες και βίντεο
+Μηνύματα SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Το αντίγραφο ασφαλείας περιλαμβάνει:</string>
+    <string name="backup_opt_in_backup_title">Δημιουργία αντιγράφων ασφαλείας στο Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Απενεργοποίηση αντιγράφου ασφαλείας</string>
+    <string name="backup_photos_update">Ενημερώστε το Google Photos</string>
+    <string name="backup_settings_activity_title">Δημιουργία αντιγράφων ασφαλείας και επαναφορά</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Να μην γίνει αντιγραφή</string>
+    <string name="close_button_label">Κλείσιμο</string>
+    <string name="cloud_restore_app_picker_button">Επαναφορά</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Το αντίγραφο ασφαλείας δεν περιέχει εφαρμογές</string>
+    <string name="cloud_restore_app_picker_title">Επιλέξτε εφαρμογές για επαναφορά</string>
+    <string name="common_accessibility_audience_view_editable">Επεξεργασία κοινού</string>
+    <string name="common_add_account_label">Προσθήκη λογαριασμού</string>
+    <string name="common_ads_settings_title">Διαφημίσεις</string>
+    <string name="common_app_name">Υπηρεσίες Google Play</string>
+    <string name="common_audience_edit_button_label">Επεξεργασία</string>
+    <string name="common_cancel">Ακύρωση</string>
+    <string name="common_cannot_start_hangouts_exception">Δεν είναι δυνατή η έναρξη Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Δεν είναι δυνατή η έναρξη του Hangouts (σφάλμα άδειας).</string>
+    <string name="common_car_permission_desc">Πρόσβαση στην υπηρεσία αυτοκινήτου.</string>
+    <string name="common_car_permission_label">Υπηρεσία αυτοκινήτου</string>
+    <string name="common_chips_label_empty_circles">Χωρίς κύκλους</string>
+    <string name="common_chips_label_extended_circles">Εκτεταμένοι κύκλοι</string>
+    <string name="common_chips_label_only_you">Μόνο εσείς</string>
+    <string name="common_chips_label_public">Δημόσια</string>
+    <string name="common_chips_label_your_circles">Οι κύκλοι σας</string>
+    <string name="common_choose_account_label">Επιλογή λογαριασμού</string>
+    <string name="common_clear_app_data_menu_item">Διαγραφή δεδομένων εφαρμογής</string>
+    <string name="common_connected_apps_settings_title">Συνδεδεμένες εφαρμογές</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Παιχνίδια Play</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
+    <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Σφάλμα</string>
+    <string name="common_google_play_services_install_button">Εγκατάσταση</string>
+    <string name="common_google_play_services_install_text">Η εφαρμογή %1$s δεν μπορεί να εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από τη συσκευή σας.</string>
+    <string name="common_google_play_services_install_title">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
+    <string name="common_google_play_services_unsupported_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας.</string>
+    <string name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string name="common_google_play_services_update_text">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="common_google_play_services_updating_title">Ενημέρωση των υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Οι Υπηρεσίες Google Play εγκαταστάθηκαν με λάθος αρχιτεκτονική.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Οι Υπηρεσίες Google Play εγκαταστάθηκαν με μια αρχιτεκτονική (%1$s), η οποία είναι διαφορετική από την αρχιτεκτονική της συσκευής σας (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Λάθος αρχιτεκτονική</string>
+    <string name="common_google_settings">Ρυθμίσεις Google</string>
+    <string name="common_google_settings_account">Λογαριασμός</string>
+    <string name="common_google_settings_credentials_title">Smart Lock για κωδικούς πρόσβασης</string>
+    <string name="common_google_settings_data_management_title">Διαχείριση δεδομένων</string>
+    <string name="common_google_settings_drive_network_usage">Ενημέρωση αρχείων με δυνατότητα Drive</string>
+    <string name="common_google_settings_services">Υπηρεσίες</string>
+    <string name="common_list_apps_menu_help">Βοήθεια</string>
+    <string name="common_list_apps_menu_help_and_feedback">Βοήθεια και σχόλια</string>
+    <string name="common_loading">Φόρτωση…</string>
+    <string name="common_location_settings_title">Τοποθεσία</string>
+    <string name="common_maps_settings_title">Χάρτες και Latitude</string>
+    <string name="common_mdm_feature_name">Διαχείριση συσκευής Android</string>
+    <string name="common_missing_url_viewer">Λείπει θεατής για την εμφάνιση μιας εξωτερικής διεύθυνσης URL.</string>
+    <string name="common_network_load_failed">Μη διαθέσιμο επειδή δεν ήταν δυνατή η σύνδεση της συσκευής σε δίκτυο</string>
+    <string name="common_networking_settings_title">Δικτύωση</string>
+    <string name="common_no_browser_for_restricted_url">Περιορισμένη πρόσβαση. Δεν βρέθηκε πρόγραμμα περιήγησης.</string>
+    <string name="common_no_network">Μη διαθέσιμο επειδή η συσκευή είναι εκτός σύνδεσης</string>
+    <string name="common_off">Ανενεργό</string>
+    <string name="common_ok">ΟΚ</string>
+    <string name="common_on">Ενεργό</string>
+    <string name="common_open_on_phone">Άνοιγμα σε τηλέφωνο</string>
+    <string name="common_open_source_licenses">Άδειες λογισμικού ανοικτού κώδικα</string>
+    <string name="common_people_settings_title">Επαφές</string>
+    <string name="common_permissions_enable_in_settings">Ενεργοποίηση στις Ρυθμίσεις</string>
+    <string name="common_permissions_missing_end">Για να συνεχίσετε, ανοίξτε τις Ρυθμίσεις και, στη συνέχεια, τα Δικαιώματα, και επιτρέψτε όλα τα αναφερόμενα στοιχεία.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Για ενεργοποίηση, μεταβείτε στις
+Ρυθμίσεις >
+Δικαιώματα >
+Υπηρεσίες Google Play"</string>
+    <string name="common_permissions_missing_start">Αυτή η εφαρμογή δεν θα λειτουργεί σωστά εάν δεν αποδεχτείτε το αίτημα πρόσβασης των υπηρεσιών Google Play στα παρακάτω στοιχεία:</string>
+    <string name="common_permissions_open_settings">Άνοιγμα ρυθμίσεων</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Αναζήτηση και Now</string>
+    <string name="common_search_settings_title">Αναζήτηση</string>
+    <string name="common_security_settings_title">Ασφάλεια</string>
+    <string name="common_set_up_nearby_device_settings_title">Ρύθμιση κοντινής συσκευής</string>
+    <string name="common_settings_drive_network_usage_all">Μέσω Wi-Fi ή δικτύου κινητής τηλεφωνίας</string>
+    <string name="common_settings_drive_network_usage_wifi">Μόνο μέσω Wi-Fi</string>
+    <string name="common_signin_button_text">Σύνδεση</string>
+    <string name="common_signin_button_text_long">Συνδεθείτε με το Google</string>
+    <string name="common_storage_settings_title">Αποθηκευτικός χώρος Υπηρεσιών Play</string>
+    <string name="common_switch_bar_off">Ανενεργό</string>
+    <string name="common_switch_bar_on">Ενεργό</string>
+    <string name="common_ui_confirm_deleting_button">Διαγραφή</string>
+    <string name="common_ui_confirm_deleting_checkbox">Το κατανοώ και θέλω να γίνει η διαγραφή</string>
+    <string name="common_url_load_unsuccessful_message">Η συσκευή Android δεν είναι συνδεδεμένη σε υπηρεσία δεδομένων. Για να δείτε τώρα αυτές τις πληροφορίες, επισκεφτείτε τη διεύθυνση %s με ένα πρόγραμμα περιήγησης ιστού.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Η συσκευή σας Android δεν είναι συνδεδεμένη σε δίκτυο Wi-Fi. Για να δείτε τώρα αυτές τις πληροφορίες, επισκεφτείτε τη διεύθυνση %s με κάποιο πρόγραμμα περιήγησης στον ιστό.</string>
+    <string name="common_url_login_notice">Σύνδεση ως %1$s</string>
+    <string name="common_usage_and_diagnostics">Χρήση και διαγνωστικά</string>
+    <string name="confirm_copy_button_text">Αντιγραφή</string>
+    <string name="contacts_number_local_and_sim_with_google">%1$d στη SIM, %2$d τοπικές, Επαφές Google</string>
+    <string name="contacts_number_local_with_google">%1$d τοπικά, Επαφές Google</string>
+    <string name="contacts_number_sim_with_google">%1$d στη SIM, Επαφές Google</string>
+    <string name="copy_confirmation_description">Θα αντιγράψετε δεδομένα, όπως είναι ο Λογαριασμός Google και οι εφαρμογές σας, στο νέο σας τηλέφωνο</string>
+    <string name="copy_confirmation_title">Αντιγραφή στο νέο σας τηλέφωνο;</string>
+    <string name="d2d_app_picker_description_no_apps">Δεν βρέθηκαν εφαρμογές</string>
+    <string name="d2d_app_picker_title">Εφαρμογές</string>
+    <string name="d2d_migration_canceled_on_source">Η αντιγραφή ακυρώθηκε</string>
+    <string name="data_copied_fragment_description">Τα δεδομένα σας αντιγράφηκαν στο νέο σας τηλέφωνο. Μπορείτε να αποσυνδέσετε το καλώδιο.</string>
+    <string name="data_copied_fragment_description_cancel">Επιλέξατε να διακόψετε την αντιγραφή, συνεπώς μόνο ορισμένα δεδομένα αντιγράφηκαν στο νέο τηλέφωνό σας.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Επιλέξατε να διακόψετε την αντιγραφή, συνεπώς δεν αντιγράφηκαν δεδομένα στο νέο τηλέφωνό σας.</string>
+    <string name="data_copied_fragment_description_error">Παρουσιάστηκε κάποιο πρόβλημα και δεν ήταν δυνατή η αντιγραφή όλων των δεδομένων.</string>
+    <string name="data_copied_fragment_description_error_no_data">Παρουσιάστηκε κάποιο πρόβλημα και δεν ήταν δυνατή η αντιγραφή των δεδομένων σας.</string>
+    <string name="data_copied_fragment_no_data_title">Δεν ήταν δυνατή η αντιγραφή</string>
+    <string name="data_copied_fragment_some_data_title">Αντιγράφηκαν ορισμένα δεδομένα</string>
+    <string name="data_copied_fragment_title">Τα δεδομένα αντιγράφηκαν</string>
+    <string name="device_backup_title">Δημιουργία αντιγράφων ασφαλείας συσκευής</string>
+    <string name="device_not_supported_fragment_new_device">Συνδεθήκατε σε ένα νέο τηλέφωνο. Για να συνεχίσετε, συνδέστε ξανά τη συσκευή στο προηγούμενο τηλέφωνο.</string>
+    <string name="device_not_supported_fragment_new_device_title">Συνδεθείτε ξανά στο προηγούμενη τηλέφωνο</string>
+    <string name="device_not_supported_fragment_no_data_cable">Αυτό το καλώδιο δεν μπορεί να μεταφέρει δεδομένα. Συνδεθείτε ξανά χρησιμοποιώντας διαφορετικό καλώδιο και δοκιμάστε ξανά.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Δοκιμάστε άλλο καλώδιο</string>
+    <string name="device_not_supported_fragment_retry_description">Βεβαιωθείτε ότι το παλιό σας τηλέφωνο είναι ξεκλειδωμένο και, στη συνέχεια, αποσυνδέστε και συνδέστε ξανά το καλώδιο</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Παρουσιάστηκε κάποιο πρόβλημα</string>
+    <string name="device_picker_description">Τα αντίγραφα ασφαλείας αποθηκεύονται στο Google Drive</string>
+    <string name="device_picker_item">Αντίγραφο ασφαλείας από τη συσκευή %1$s</string>
+    <string name="device_picker_last_used">Τελευταία χρήση ^1</string>
+    <string name="device_picker_skip">Να μην γίνει επαναφορά</string>
+    <string name="device_picker_title">Επιλέξτε ένα αντίγραφο ασφαλείας για επαναφορά</string>
+    <string name="disabled_by_admin_summary_text">Ελέγχονται από τον διαχειριστή</string>
+    <string name="download_msg_error_invalid">Η λήψη δεν διαμορφώθηκε σωστά.</string>
+    <string name="download_msg_in_progress">Η λήψη βρίσκεται σε εξέλιξη.</string>
+    <string name="download_msg_not_allowed_space">Δεν υπάρχει αρκετός χώρος για την ολοκλήρωση της λήψης.</string>
+    <string name="download_msg_pending">Η λήψη είναι σε εκκρεμότητα.</string>
+    <string name="download_notification_description">Το αίτημα υποβλήθηκε από %1$s.</string>
+    <string name="download_notification_title">Ανάκτηση νέων δεδομένων</string>
+    <string name="drive_backup_account">Λογαριασμός για δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="drive_backup_app_includes_data">Περιλαμβάνει δεδομένα εφαρμογών</string>
+    <string name="drive_backup_apps_in_backup">Εφαρμογές στα αντίγραφα ασφαλείας</string>
+    <string name="drive_backup_apps_last_backup">Τελευταίο αντίγραφο ασφαλείας</string>
+    <string name="drive_backup_apps_loading">Φόρτωση...</string>
+    <string name="drive_backup_apps_screen_title">Εφαρμογές</string>
+    <string name="drive_backup_content_apps_title">Εφαρμογές</string>
+    <string name="drive_backup_content_calendar_title">Ημερολόγιο</string>
+    <string name="drive_backup_content_callhistory_title">Ιστορικό κλήσεων</string>
+    <string name="drive_backup_content_contacts_title">Επαφές</string>
+    <string name="drive_backup_content_devicesettings_title">Ρυθμίσεις συσκευής</string>
+    <string name="drive_backup_content_header">Περιεχόμενο</string>
+    <string name="drive_backup_content_photos_dialog_message">Θα θέλατε επίσης να αλλάξετε τον λογαριασμό δημιουργίας αντιγράφων ασφαλείας του Photos σε %s;</string>
+    <string name="drive_backup_content_photos_dialog_no">Όχι</string>
+    <string name="drive_backup_content_photos_dialog_title">Αλλαγή αντιγράφων ασφαλείας του Photos;</string>
+    <string name="drive_backup_content_photos_dialog_yes">Ναι</string>
+    <string name="drive_backup_content_photos_title">Φωτογραφίες και βίντεο</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Το κατάλαβα</string>
+    <string name="drive_backup_content_status_error">Σφάλμα λήψης ημερομηνίας τελευταίας ενημέρωσης</string>
+    <string name="drive_backup_content_status_lastsaved">Τελευταίο αντίγραφο ασφαλείας: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Δεν έχει δημιουργηθεί αντίγραφο ασφαλείας</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Ρυθμίσεις λογαριασμού</string>
+    <string name="drive_backup_content_status_updating">Έλεγχος κατάστασης...</string>
+    <string name="drive_backup_settings_title">Δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="drive_backup_state">Δημιουργία αντιγράφων ασφαλείας στο Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Με αυτήν την ενέργεια, θα διαγραφούν τα αντίγραφα ασφαλείας για το %s, συμπεριλαμβανομένου του Google Photos.
+
+Οι φωτογραφίες, τα βίντεο, οι επαφές και τα συμβάντα ημερολογίου για τα οποία έχουν δημιουργηθεί αντίγραφα ασφαλείας θα παραμείνουν προσβάσιμα μέσω των σχετικών προϊόντων Google.
+
+Όλα τα άλλα δεδομένα θα καταργηθούν."</string>
+    <string name="drive_backup_state_dialog_okaction">Απενεργοποίηση</string>
+    <string name="drive_backup_state_dialog_title">Απενεργοποίηση και διαγραφή αντιγράφων ασφαλείας</string>
+    <string name="durationDayHour">%1$d ημ. %2$d ώρα</string>
+    <string name="durationDayHours">%1$d ημ. %2$d ώρ.</string>
+    <string name="durationDays">%1$d ημέρες</string>
+    <string name="durationHourMinute">%1$d ώρα %2$d λεπ.</string>
+    <string name="durationHourMinutes">%1$d ώρα %2$d λεπ.</string>
+    <string name="durationHours">%1$d ώρες</string>
+    <string name="durationMinute">%1$d λεπτό</string>
+    <string name="durationMinuteSecond">%1$d λεπ. %2$d δ.</string>
+    <string name="durationMinuteSeconds">%1$d λεπ. %2$d δ.</string>
+    <string name="durationMinutes">%1$d λεπτά</string>
+    <string name="durationSecond">%1$d δευτερ.</string>
+    <string name="durationSeconds">%1$d δευτερ.</string>
+    <string name="encryption_warning_fragment_description">"Η συσκευή iPhone® έχει ενεργοποιημένη την κρυπτογράφηση αντιγράφων ασφαλείας, Συνεπώς, μπορούν να αντιγραφούν μόνο φωτογραφίες, βίντεο και μουσική.
+
+Για να αντιγράψετε περισσότερα δεδομένα, ξεκινήστε συνδέοντας τη συσκευή iPhone® στον υπολογιστή σας. Ανοίξτε το iTunes® στον υπολογιστή, απενεργοποιήστε την κρυπτογράφηση αντιγράφων ασφαλείας και δοκιμάστε να αντιγράψετε τα δεδομένα σας ξανά.
+
+Για περισσότερη βοήθεια, επισκεφτείτε τη διεύθυνση "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Αυτός είναι ο πιο γρήγορος τρόπος να μεταφέρετε τα περισσότερα δεδομένα.
+
+Βρείτε τον προσαρμογέα που περιέχεται στο κουτί και συνδέστε τον στο νέο σας τηλέφωνο. Συνδέστε τα τηλέφωνα χρησιμοποιώντας ένα καλώδιο και, στη συνέχεια, ξεκλειδώστε το παλιό σας τηλέφωνο."</string>
+    <string name="fragment_waiting_title">Μισό λεπτό...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Οι Επαφές Google θα συγχρονιστούν</string>
+    <string name="google_contacts_static_text_off">Οι Επαφές Google θα συγχρονιστούν ούτως ή άλλως</string>
+    <string name="header_set_backup_account">Επιλέξτε λογ. αντι/φων ασφ/ας</string>
+    <string name="i_message_dialog_message">"Για να εξακολουθήσετε να λαμβάνετε μηνύματα SMS από χρήστες συσκευών iPhone®, θα πρέπει να απενεργοποιήσετε το iMessage®.
+
+Για οδηγίες, μεταβείτε στη διεύθυνση "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instructions_fragment_title">Συνεχίστε στο άλλο τηλέφωνό σας</string>
+    <string name="ios_connected_fragment_description">"Για να συνεχίσετε, συνδεθείτε στον Λογαριασμό Google που χρησιμοποιείτε στη συσκευή σας iPhone®.
+
+Προκειμένου η μεταφορά να ολοκληρωθεί ταχύτερα, αποφύγετε τη χρήση της συσκευής σας iPhone® κατά τη ρύθμιση."</string>
+    <string name="ios_message_attachment_placeholder">[Το συνημμένο αποθηκεύτηκε στην τοποθεσία Google Photos > Φάκελοι συσκευής > Συνημμένα μηνυμάτων]</string>
+    <string name="ios_message_attachments_placeholder">[Τα συνημμένα αποθηκεύτηκαν στην τοποθεσία Google Photos > Φάκελοι συσκευής > Συνημμένα μηνυμάτων]</string>
+    <string name="ios_migration_default_calendar_title">Ημερολόγιο</string>
+    <string name="ios_photos_dialog_message">"Δεν είναι δυνατή η αντιγραφή φωτογραφιών που έχουν αποθηκευτεί στο iCloud®.
+
+Για να μεταφέρετε αυτές τις φωτογραφίες στο Pixel, εγκαταστήστε την εφαρμογή Google Photos στη συσκευή iPhone® και ενεργοποιήστε τη λειτουργία \"Δημιουργία αντιγράφων ασφαλείας και συγχρονισμός\". Για περισσότερες οδηγίες, επισκεφτείτε τη διεύθυνση "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Προσθήκη λογαριασμού</string>
+    <string name="lockscreen_smartdevice_action_next">Επόμενο</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Ξεκλειδώστε για να συνεχίσετε τη ρύθμιση του τηλεφώνου σας</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Για λόγους ασφαλείας, θα πρέπει να επιβεβαιώσετε το κλείδωμα οθόνης για να συνεχίσετε τη ρύθμιση</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Επιβεβαιώστε το κλείδωμα οθόνης</string>
+    <string name="manage_data_label">Διαχείριση αντιγράφων ασφαλείας δεδομένων</string>
+    <string name="master_clear_title">Επαναφορά εργοστασιακών δεδομένων</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Θα πρέπει να οριστεί ο λογαριασμός δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="notification_content_title_set_backup_account">Δημιουργία αντιγράφων ασφαλείας</string>
+    <string name="notification_ticker_set_backup_account">Απαιτείται λογαριασμός δημιουργίας αντιγράφων ασφαλείας</string>
+    <string name="permgrouplab_calendar">Ημερολόγιο</string>
+    <string name="permgrouplab_camera">Κάμερα</string>
+    <string name="permgrouplab_contacts">Επαφές</string>
+    <string name="permgrouplab_location">Τοποθεσία</string>
+    <string name="permgrouplab_microphone">Μικρόφωνο</string>
+    <string name="permgrouplab_phone">Τηλέφωνο</string>
+    <string name="permgrouplab_sensors">Αισθητήρες σώματος</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Αποθηκευτικός χώρος</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Αυτή τη στιγμή δεν αποθηκεύονται φωτογρ. με αντιγρ. ασφ. από κάποιον λογαριασμό</string>
+    <string name="photos_backup_title">Δημιουργία αντιγράφων ασφαλείας φωτογραφιών</string>
+    <string name="photos_filtering_option_all">Όλα</string>
+    <string name="photos_filtering_option_none">Κανένα</string>
+    <string name="restore_choice_data_disclaimer">Ορισμένα από τα δεδομένα του παλιού σας τηλεφώνου δεν μπορούν να αντιγραφούν στη συσκευή ^1. <annotation link="restore_choice_data_disclaimer_learn_more">Μάθετε περισσότερα</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Οι επαφές που αντιγράφονται θα αποθηκευτούν στον Λογαριασμό σας Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Οι επαφές και τα ημερολόγια που αντιγράφονται θα αποθηκευτούν στον Λογαριασμό σας Google.</string>
+    <string name="restore_choice_learn_more_android">"Δεν είναι δυνατή η αυτόματη αντιγραφή ορισμένων από τα δεδομένα του παλιού σας τηλεφώνου:
+
+ ● Λήψεις (όπως αρχεία PDF)
+
+ ● Φωτογραφίες, βίντεο και μουσική που έχουν αποθηκευτεί σε κρυμμένους φακέλους
+
+ ● Φωτογραφίες, βίντεο και μουσική που έχουν ληφθεί μέσω μηνυμάτων κειμένου
+
+ ● Εφαρμογές που δεν προέρχονται από το Google Play Store
+
+ ● Δεδομένα εφαρμογών (εάν η εφαρμογή δεν χρησιμοποιεί την υπηρεσία δημιουργίας αντιγράφων ασφαλείας Android)
+
+ ● Συγκεκριμένες ρυθμίσεις συσκευής
+
+ ● Λογαριασμοί εκτός των Λογαριασμών Google (και τυχόν συσχετισμένα δεδομένα)
+
+ ● Επαφές και ημερολόγια που έχουν συγχρονιστεί με υπηρεσίες εκτός των υπηρεσιών Google
+
+ ● Ήχοι κλήσης
+
+ Για περισσότερες λεπτομέρειες και για βοήθεια σχετικά με την αντιγραφή ορισμένων από αυτά τα δεδομένα, μεταβείτε στη διεύθυνση g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Ορισμένα δεδομένα από το παλιό σας τηλέφωνο δεν μπορούν να αντιγραφούν αυτόματα:
+
+ ● Εφαρμογές και δεδομένα εφαρμογών
+
+ ● Φωτογραφίες για τις οποίες δεν έχει αποθηκευτεί η αρχική φωτογραφία στο τηλέφωνό σας (για παράδειγμα, εάν η ρύθμιση Βελτιστοποίησης αποθηκευτικού χώρου είναι ενεργοποιημένη, οι αρχικές φωτογραφίες αντιγράφονται στο iCloud®)
+
+ ● Αρχεία και έγγραφα που έχουν αποθηκευτεί στο iCloud®
+
+ ● Ρυθμίσεις συσκευής (όπως κωδικοί πρόσβασης Wi-Fi και ταπετσαρία)
+
+ ● Μουσική που προστατεύεται από την προστασία Διαχείρισης δικαιωμάτων ψηφιακού περιεχομένου (Digital Rights Management - DRM) (για παράδειγμα, μουσική από το iTunes® η οποία αγοράστηκε πριν από τον Απρίλιο του 2009 ή μουσική που κατεβάσατε για ακρόαση εκτός σύνδεσης σε κάποια εφαρμογή μετάδοσης μουσικής σε ροή)
+
+ ● Λογαριασμοί εκτός των Λογαριασμών Google (και τυχόν συσχετισμένα δεδομένα)
+
+ ● Επαφές και ημερολόγια που έχουν συγχρονιστεί με υπηρεσίες εκτός των υπηρεσιών Google ή iCloud®
+
+ ● Σελιδοδείκτες από το Safari®
+
+ Τα συνημμένα του iMessage® θα είναι διαθέσιμα στο Google Photos > Φάκελοι συσκευής > Συνημμένα μηνυμάτων.
+
+ Για περισσότερες λεπτομέρειες και για βοήθεια σχετικά με την αντιγραφή ορισμένων από αυτά τα δεδομένα, επισκεφτείτε τη διεύθυνση g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Ανεπαρκής χώρος</string>
+    <string name="restore_choice_total_text">από τη διαθέσιμη μεταφορά σας %1$s / %2$s</string>
+    <string name="restore_item_appdata">Δεδομένα εφαρμογών</string>
+    <string name="restore_item_calendar">Ημερολόγιο</string>
+    <string name="restore_item_calendar_ical_description">Ημερολόγιο iOS®, Ημερολόγιο Google</string>
+    <string name="restore_item_calendar_ical_off_description">Το Ημερολόγιο Google θα συγχρονιστεί ούτως ή άλλως</string>
+    <string name="restore_item_calendar_sync_description">Το Ημερολόγιο Google θα συγχρονιστεί</string>
+    <string name="restore_item_call_logs">Ιστορικό κλήσεων</string>
+    <string name="restore_item_contacts">Επαφές</string>
+    <string name="restore_item_device_settings_description">Κωδικοί πρόσβασης Wi-Fi και άλλα</string>
+    <string name="restore_item_downloads">Λήψεις</string>
+    <string name="restore_item_email">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="restore_item_email_description">Το Gmail θα συγχρονιστεί</string>
+    <string name="restore_item_message_attachments">Συνημμένα μηνυμάτων</string>
+    <string name="restore_item_messages">Μηνύματα</string>
+    <string name="restore_item_music">Μουσική</string>
+    <string name="restore_item_photos">Φωτογραφίες και βίντεο</string>
+    <string name="restore_item_settings">Ρυθμίσεις συσκευής</string>
+    <string name="restore_item_sms">Μηνύματα SMS</string>
+    <string name="restore_item_will_be_synced_text">Αυτά τα δεδομένα θα συγχρονιστούν στο τηλέφωνό σας</string>
+    <string name="small_time_duration">Σε λιγότερο από 1 λεπτό</string>
+    <string name="source_connected_description">Προετοιμασία…</string>
+    <string name="source_connected_title">Συνδεθήκατε στη συσκευή %1$s</string>
+    <string name="source_copying_description">Τα δεδομένα που επιλέξατε αντιγράφονται στο νέο σας τηλέφωνο</string>
+    <string name="source_copying_title">Αντιγραφή…</string>
+    <string name="source_default_target_device_name">νέα συσκευή</string>
+    <string name="source_notification_device_disconnected">Συνδέστε ξανά το καλώδιο</string>
+    <string name="source_notification_text">Μεταφορά από τηλέφωνο σε τηλέφωνο σε εξέλιξη</string>
+    <string name="source_notification_title">Μεταφορά δεδομένων</string>
+    <string name="source_success_description">Ολοκληρώστε τη ρύθμιση στη συσκευή σας %1$s.</string>
+    <string name="source_success_screen_title">Τελειώσατε!</string>
+    <string name="source_unplugged_description">Συνδέστε το ξανά στη συσκευή σας %1$s</string>
+    <string name="source_unplugged_title">Το καλώδιο αποσυνδέθηκε</string>
+    <string name="source_waiting_title">Συνεχίστε τη ρύθμιση στη συσκευή σας %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Παράβλεψη</string>
+    <string name="stop_copying_dialog_message_before_transfer">Τα δεδομένα σας δεν θα αντιγραφούν στο νέο σας τηλέφωνο</string>
+    <string name="stop_copying_dialog_message_during_transfer">Ορισμένα δεδομένα δεν αντιγράφηκαν στο νέο σας τηλέφωνο</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Να μην γίνει αντιγραφή</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Διακοπή</string>
+    <string name="stop_copying_dialog_title_before_transfer">Να μην γίνει αντιγραφή;</string>
+    <string name="stop_copying_dialog_title_during_transfer">Διακοπή αντιγραφής;</string>
+    <string name="storage_management_drive_clear_failure">Παρουσιάστηκε σφάλμα κατά τη διαγραφή των δεδομένων του Drive. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="storage_management_drive_clear_label">Διαγραφή</string>
+    <string name="storage_management_drive_clear_success">Έγινε διαγραφή των δεδομένων του Drive.</string>
+    <string name="storage_management_drive_clearing">Διαγραφή…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Όλα τα τοπικά δεδομένα του Drive για εφαρμογές που υποστηρίζουν την υπηρεσία Drive θα διαγραφούν οριστικά. Η ενέργεια ενδέχεται να περιλαμβάνει εκκρεμείς αλλαγές που δεν έχουν μεταφορτωθεί ακόμα στο διακομιστή του Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Διαγραφή όλων των δεδομένων;</string>
+    <string name="storage_management_drive_descriptive_text">Οι εφαρμογές που υποστηρίζουν την υπηρεσία Drive αποθηκεύουν αρχεία στη συσκευή σας, για να βελτιώσουν την απόδοσή τους και να επιτρέψουν την πρόσβαση εκτός σύνδεσης.</string>
+    <string name="storage_management_drive_get_storage_failure">Παρουσιάστηκε σφάλμα κατά τον υπολογισμό της χρήσης του αποθηκευτικού χώρου του Drive. Δοκιμάστε ξανά αργότερα.</string>
+    <string name="storage_management_drive_size_label">Τοπικός χώρος αποθήκ. Drive</string>
+    <string name="storage_management_wear_descriptive_text">Οι εφαρμογές χρησιμοποιούν τον αποθηκευτικό χώρο της συσκευής για την αντιγραφή δεδομένων σε ένα φορετό στοιχείο.</string>
+    <string name="storage_management_wear_manage_size_label">Διαχείριση αποθ. χώρου φορετών στοιχείων</string>
+    <string name="storage_management_wear_size_label">Αποθ. χώρος φορετών στοιχείων</string>
+    <string name="storage_managment_all_storage_descriptive_text">Σύνολο δεδομένων που χρησιμοποιούνται από τις υπηρεσίες του Google Play, συμπεριλαμβανομένων των μηχανών αναζήτησης και άλλων δεδομένων.</string>
+    <string name="storage_managment_clear_all_data">Διαγραφή όλων των δεδομένων</string>
+    <string name="storage_managment_computing_size">Υπολογισμός…</string>
+    <string name="storage_managment_icing_size_label">Δεδομένα αναζήτησης</string>
+    <string name="storage_managment_manage_icing_button">Διαχείριση δεδομ. αναζήτησης</string>
+    <string name="storage_managment_search_index_descriptive_text">Επιταχύνουμε την αναζήτηση στη συσκευή σας, παρέχοντας μια μηχανή αναζήτησης για χρήση από τις εφαρμογές σας.</string>
+    <string name="storage_managment_title">Υπηρεσίες αποθηκ. χώρου Google Play</string>
+    <string name="storage_managment_total_size_label">Συνολικός αποθηκευτικός χώρος</string>
+    <string name="suw_back_button_label">Πίσω</string>
+    <string name="suw_more_button_label">Περισσότερα</string>
+    <string name="suw_next_button_label">Επόμενο</string>
+    <string name="target_default_source_device_model">παλιά συσκευή</string>
+    <string name="target_device_not_supported_cant_continue_description">Θα χρειαστεί να επιλέξετε κάποιον άλλο τρόπο για την αντιγραφή των δεδομένων</string>
+    <string name="target_device_not_supported_cant_continue_title">Το άλλο τηλέφωνο δεν υποστηρίζεται</string>
+    <string name="target_smart_device_timeout_add_account">ΠΡΟΣΘΗΚΗ ΛΟΓΑΡΙΑΣΜΟΥ</string>
+    <string name="target_smart_device_timeout_description">Αν θέλετε, μπορείτε να δοκιμάσετε να προσθέσετε τον λογαριασμό σας με μη αυτόματο τρόπο</string>
+    <string name="target_smart_device_timeout_dismiss">ΠΑΡΑΒΛΕΨΗ</string>
+    <string name="target_smart_device_timeout_title">Παρουσιάστηκε κάποιο πρόβλημα;</string>
+    <string name="terabyteShort">ΤΒ</string>
+    <string name="toast_phones_connected">Τα τηλέφωνα συνδέθηκαν</string>
+    <string name="toast_reconnect_cable">Συνδέστε ξανά το καλώδιο</string>
+    <string name="transfer_finished_fragment_title">Προσθήκη τελευταίων στοιχείων…</string>
+    <string name="transfer_summary_copied">Τα δεδομένα αντιγράφηκαν</string>
+    <string name="transfer_summary_fragment_description">Αν δεν το έχετε κάνει ήδη, αποσυνδέστε το καλώδιο</string>
+    <string name="transfer_summary_fragment_finish">ΤΕΛΟΣ</string>
+    <string name="transfer_summary_fragment_title">Το τηλέφωνό σας είναι σχεδόν έτοιμο</string>
+    <string name="transfer_summary_icloud_photos_warning">Ορισμένες από τις φωτογραφίες σας αντιγράφηκαν. <annotation link="transfer_summary_learn_more">Μάθετε περισσότερα</annotation></string>
+    <string name="transfer_summary_not_copied">Τα δεδομένα δεν αντιγράφηκαν</string>
+    <string name="transfer_summary_partial">Αντιγράφηκαν %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">Τα δεδομένα θα συγχρονιστούν μετά από τη ρύθμιση</string>
+    <string name="transferring_fragment_calculating_remaining_time">Υπολογισμός του χρόνου που απομένει…</string>
+    <string name="transferring_fragment_header">Αντιγραφή…</string>
+    <string name="transferring_fragment_remaining_time">Απομένουν %1$s</string>
+    <string name="trust_instructions_description">Για να συνεχίσετε, επιλέξτε τη συσκευή σας iPhone® και εγκρίνετε τη σύνδεση</string>
+    <string name="trust_instructions_trademark_disclaimer">Οι επωνυμίες iPhone, iPad, iOS, iMessage, iCloud, Safari και iTunes είναι εμπορικά σήματα της Apple Inc., κατατεθέντα στις ΗΠΑ και σε άλλες χώρες.</string>
+</resources>

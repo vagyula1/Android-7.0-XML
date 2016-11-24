@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contactos encontrados</item>
+        <item quantity="one">1 contacto encontrado</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s. %2$d elementos no leídos.</item>
+        <item quantity="one">%1$s. %2$d elemento no leído.</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Contactos eliminados</item>
+        <item quantity="one">Contacto eliminado</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contactos con número de teléfono</item>
+        <item quantity="one">1 contacto con número de teléfono</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d contactos encontrados</item>
+        <item quantity="one">1 contacto encontrado</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupos</item>
+        <item quantity="one">1 grupo</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d personas de %2$s</item>
+        <item quantity="one">%1$d persona de %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personas</item>
+        <item quantity="one">%1$d persona</item>
+    </plurals>
+    <plurals name="compact_editor_linked_contacts_selector_title">
+        <item quantity="other">Contactos enlazados (%d)</item>
+        <item quantity="one">Contacto enlazado</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_card_title">
+        <item quantity="other">%d posibles duplicados</item>
+        <item quantity="one">1 posible duplicado</item>
+    </plurals>
+    <plurals name="quickcontact_suggestions_number">
+        <item quantity="other">%d contactos enlazados</item>
+        <item quantity="one">1 contacto enlazado</item>
+    </plurals>
+    <plurals name="quickcontact_suggestion_account_type_number">
+        <item quantity="other">(%d)</item>
+        <item quantity="one"></item>
+    </plurals>
+</resources>

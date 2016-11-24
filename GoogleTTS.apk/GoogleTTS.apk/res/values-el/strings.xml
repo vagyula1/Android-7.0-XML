@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Η εφαρμογή %1$s απαιτεί την ενημέρωση της εφαρμογής Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Υποβλήθηκε αίτημα από την εφαρμογή %1$s</string>
+    <string name="common_google_play_services_install_title">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας.</string>
+    <string name="common_google_play_services_install_text_tablet">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας.</string>
+    <string name="common_google_play_services_install_button">Λήψη υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_enable_text">Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις Υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_enable_button">Ενεργοπ. υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_android_wear_update_title">Ενημέρωση Android Wear</string>
+    <string name="common_google_play_services_update_text">Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</string>
+    <string name="common_android_wear_update_text">Η εφαρμογή %1$s δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Ενημέρωση των Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</string>
+    <string name="common_google_play_services_network_error_title">Σφάλμα δικτύου</string>
+    <string name="common_google_play_services_network_error_text">Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Μη έγκυρος λογαριασμός</string>
+    <string name="common_google_play_services_invalid_account_text">Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="common_google_play_services_unknown_issue">Άγνωστο πρόβλημα με τις υπηρεσίες Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Υπηρεσίες Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Η εφαρμογή %1$s βασίζεται στις Υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για βοήθεια.</string>
+    <string name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string name="common_signin_button_text">Σύνδεση</string>
+    <string name="common_signin_button_text_long">Συνδεθείτε στο Google</string>
+    <string name="common_open_on_phone">Άνοιγμα στο τηλέφωνο</string>
+    <string name="common_google_play_services_api_unavailable_text">Η εφαρμογή %1$s απαιτεί μία ή περισσότερες υπηρεσίες του Google Play που δεν είναι διαθέσιμες προς το παρόν. Επικοινωνήστε με τον προγραμματιστή για βοήθεια.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Η σύνδεση απέτυχε</string>
+    <string name="common_google_play_services_sign_in_failed_text">Σφάλμα κατά τη σύνδεση στον συγκεκριμένο λογαριασμό. Επιλέξτε έναν διαφορετικό λογαριασμό.</string>
+    <string name="app_name">Μηχανή κειμένου σε ομιλία Google</string>
+    <string name="general_settings">Γενικές ρυθμίσεις</string>
+    <string name="license_activity_title">Άδειες ανοικτού κώδικα</string>
+    <string name="license_activity_loading">Φόρτωση…</string>
+    <string name="license_activity_unavailable">Παρουσιάστηκε κάποιο πρόβλημα κατά τη φόρτωση των αδειών.</string>
+    <string name="tts_settings_label">Επιλογές Google TTS</string>
+    <string name="voice_data_install_title">Φωνητικά δεδομένα Google TTS</string>
+    <string name="install_data_header">Πραγματοποιήστε λήψη αυτών των δεδομένων ώστε η συσκευή σας να υποστηρίζει σύνθεση φωνής εκτός σύνδεσης.</string>
+    <string name="download_invite_title">Εγκατάσταση φωνητικών εντολών για %1$s</string>
+    <string name="download_invite">Ενεργοποίηση μετατροπής κειμένου σε λόγο εκτός σύνδεσης για %1$s</string>
+    <string name="install_voice_text_2">Διαθέσιμο για λήψη.</string>
+    <string name="download_in_progress">Λήψη σε εξέλιξη</string>
+    <string name="no_installable_voices">Δεν υπάρχουν φωνές με δυνατότητα λήψης</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="delete_voice_data">Διαγραφή</string>
+    <string name="update">Ενημέρωση</string>
+    <string name="download">Λήψη</string>
+    <string name="voice_installed">Εγκατεστημένο.</string>
+    <string name="voice_installed_and_default">Εγκαταστάθηκε και ορίστηκε ως προεπιλογή.</string>
+    <string name="download_notification_title">%2$s για %1$s</string>
+    <string name="download_notification_description">Φωνητικά δεδομένα για μετατροπή κειμένου σε ομιλία</string>
+    <string name="download_success_title">Έγινε λήψη φωνητικών δεδομένων για τη γλώσσα %1$s</string>
+    <string name="download_success_description">Αγγίξτε για να μεταβείτε στις ρυθμίσεις και να ορίσετε αυτήν τη γλώσσα ως την προεπιλεγμένη γλώσσα.</string>
+    <string name="download_failure_title">Σφάλμα κατά τη λήψη των δεδομένων φωνής για τη γλώσσα %1$s</string>
+    <string name="download_failure_description">Αγγίξτε για να προσπαθήσετε ξανά.</string>
+    <string name="download_failed_toast">Αποτυχία έναρξης λήψης φωνητικού πακέτου.</string>
+    <string name="manage_voice_data">Διαχείριση δεδομένων φωνής</string>
+    <string name="auto_update_title">Αυτ/τη ενημέρωση φωνών</string>
+    <string name="auto_update_wifi_title">Χρήση μόνο Wi-Fi</string>
+    <string name="auto_update_wifi_summary">Λήψη φωνητικών δεδομένων μόνο με χρήση Wi-Fi. Εξοικονόμηση δεδομένων.</string>
+    <string name="feedback_title">Σχόλια</string>
+    <string name="feedback_failed">Δεν ήταν δυνατό το άνοιγμα της φόρμας σχολίων</string>
+    <string name="voices_type_title">Τύπος φωνής</string>
+    <string name="voices_type_summary">[DOGFOOD]Τύπος συσκευής σύνθεσης ομιλίας</string>
+    <string name="analytics_title">Ανώνυμες αναφορές χρήσης</string>
+    <string name="analytics_summary_on">Ενεργό</string>
+    <string name="analytics_summary_off">Ανενεργό</string>
+    <string name="analytics_screen_explanation">"Όταν είναι ενεργοποιημένη αυτή η λειτουργία, συλλέγουμε ανώνυμες αναφορές χρήσης. Αυτό μας διευκολύνει να κατανοήσουμε καλύτερα την απόδοση της μετατροπής κειμένου σε ομιλία Google στη συσκευή σας.
+
+Παραδείγματα συγκεντρωτικών μετρήσεων που συλλέγουμε:
+"<li><ul>"Συχνότητα χρήσης μετατροπής κειμένου σε ομιλία.
+"<li>Απόδοση των αιτημάτων μετατροπής κειμένου σε ομιλία.</li>"
+"<li>Γλώσσες στις οποίες χρησιμοποιείται.</li>"
+"<li>Συχνότητα αποτυχιών της μετατροπής κειμένου σε ομιλία να παρέχει έξοδο ομιλίας.</li>"
+"</ul></li></string>
+    <string name="process_text_title">Προσθ. καταχ. GoogleTTS στο μενού επιλ. κειμ.</string>
+    <string name="process_text_summary">Αυτή η νέα καταχώριση θα συνθέσει οποιοδήποτε επιλεγμένο κείμενο.</string>
+    <string name="voice_pack_status_installed">Εγκαταστάθηκε (%1$s)</string>
+    <string name="voice_pack_status_gender_female">Γυναίκα</string>
+    <string name="voice_pack_status_gender_male">Άνδρας</string>
+    <string name="voice_entity_status_gender_female">Γυναικεία %1$d</string>
+    <string name="voice_entity_status_gender_male">Ανδρική %1$d</string>
+    <string name="voice_entity_status_gender_unknown">Άγνωστο φύλο %1$d</string>
+    <string name="voice_pack_status_gender_female_legacy">Γυναικεία φωνή παλαιού τύπου</string>
+    <string name="voice_pack_status_gender_male_legacy">Ανδρική φωνή παλαιού τύπου</string>
+    <string name="voice_pack_status_gender_unknown">Άγνωστο φύλο</string>
+    <string name="voice_pack_status_updatable">Διαθέσιμη ενημέρωση</string>
+    <string name="voice_pack_status_downloadable">Λήψη (~%1$s)</string>
+    <string name="voice_pack_status_locale_default">Τρέχουσα φωνή επιλογή</string>
+    <string name="voice_pack_status_downloading">Λήψη…</string>
+    <string name="voice_pack_name_high_quality">%1$s (υψηλής ποιότητας)</string>
+    <string name="voice_pack_description">"Όνομα: %1$s 
+Τοπικές ρυθμίσεις: %2$s 
+Μέγεθος δεδομένων: ~%3$s 
+Φύλο ομιλητή: %4$s"</string>
+    <string name="voice_pack_action_download">Λήψη (~%1$s)</string>
+    <string name="voice_pack_action_remove">Κατάργηση</string>
+    <string name="voice_pack_action_update">Ενημέρωση (~%1$s)</string>
+    <string name="voice_pack_action_locale_default">Ορισμός ως τρέχουσας φωνητικής επιλογής %1$s</string>
+    <string name="voice_pack_action_cancel">Ακύρωση λήψης</string>
+    <string name="voice_pack_install_tab_installed">ΕΓΚΑΤΕΣΤΗΜΕΝΑ</string>
+    <string name="voice_pack_install_tab_all">ΟΛΑ</string>
+    <string name="voice_pack_install_tab_settings">ΡΥΘΜΙΣΕΙΣ</string>
+    <string name="voice_entry_details">Εκκίνηση παραθύρου διαλόγου λεπτομερειών φωνής</string>
+    <string name="voice_entry_edit_desc">Άνοιγμα πακέτου φωνητικών λειτουργιών</string>
+    <string name="voice_entry_overflow_desc">Πρόσθετες ενέργειες πακέτου φωνητικών λειτουργιών</string>
+    <string name="voice_entry_download_desc">Λήψη πακέτου φωνητικών λειτουργιών</string>
+    <string name="voice_entry_cancel_download_desc">Ακύρωση λήψης πακέτου φωνητικών λειτουργιών</string>
+    <string name="voice_entry_delete_desc">Διαγραφή πακέτου φωνητικών λειτουργιών</string>
+    <string name="voice_entry_sample">Αναπαραγωγή δείγματος φωνής</string>
+    <string name="voice_pack_not_enough_space">Ανεπαρκής χώρος. Απελευθερώσετε χώρο για να εγκαταστήσετε τα φωνητικά δεδομένα.</string>
+    <string name="action_settings">Επιλογές</string>
+    <string name="action_licenses">Άδειες ανοικτού κώδικα</string>
+    <string name="action_voice_pack_update">Ενημέρωση</string>
+    <string name="action_voice_pack_uninstall">Απεγκατάσταση</string>
+    <string name="voice_pack_uninstall_dialog">Απεγκατάσταση της φωνής;</string>
+    <string name="voice_pack_uninstall_keep">Διατήρηση</string>
+    <string name="voice_pack_uninstall_uninstall">Απεγκατάσταση</string>
+    <string name="voice_pack_unpack_failure">Αποτυχία εγκατάστασης των ληφθέντων φωνητικών δεδομένων</string>
+    <string name="multi_voice_pack_title">%1$s πακέτα φωνητικών λειτουργιών</string>
+    <string name="multi_voice_pack_entry_name">Σύνολο φωνών %1$d</string>
+    <string name="morphed_voice_set_title">Σύνολο φωνών</string>
+    <string name="select_voice_title">Επιλογή φωνής</string>
+    <string name="play_sample_text_button_description">Αναπαραγωγή δείγματος κειμένου για τη φωνή %1$s</string>
+    <string name="voice_pack_no_download_manager">Η Διαχείριση λήψεων είναι απενεργοποιημένη ή λείπει. Αδύνατη η λήψη του πακέτου φωνητ. λειτουργιών</string>
+    <string name="unpack_voice_pack_service_title">Ενημέρωση δεδομένων μετατροπής κειμένου σε λόγο</string>
+    <string name="unpack_voice_pack_service_text">Αποσυσκευασία…</string>
+    <string name="sample_text_synthesis_failure">Αποτυχία σύνθεσης παραδείγματος για αυτήν τη φωνή.</string>
+    <string name="quick_wait_for_init">Φόρτωση</string>
+    <string name="quick_synthesizing">Σύνθεση</string>
+    <string name="quick_speaking">Εκφώνηση</string>
+    <string name="quick_stopped">Διακόπηκε</string>
+    <string name="quick_error">Σφάλμα</string>
+</resources>

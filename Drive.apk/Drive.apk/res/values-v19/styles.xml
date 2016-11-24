@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CakemixTheme.Translucent.TranslucentStatus" parent="@style/CakemixTheme.Translucent">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="Fab">
+        <item name="android:layout_marginLeft">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginTop">@dimen/m_grid_1x</item>
+        <item name="android:layout_marginRight">@dimen/m_grid_2x</item>
+        <item name="android:layout_marginBottom">@dimen/m_grid_2x</item>
+    </style>
+    <style name="WelcomeTheme" parent="@style/WelcomeThemeBase">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>

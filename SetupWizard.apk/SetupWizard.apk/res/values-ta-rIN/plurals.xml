@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d வினாடிகளில் முடக்கப்படும்…</item>
+        <item quantity="one">1 வினாடியில் முடக்கப்படும்…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"பின்வரும் கணக்குகள் தயாராக உள்ளன:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"பின்வரும் கணக்கு தயாராக உள்ளது:
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">QR குறியீட்டு அமைவைத் தொடங்க, மேலும் %d முறை தட்டவும்</item>
+        <item quantity="one">QR குறியீட்டு அமைவைத் தொடங்க, மேலும் %d முறை தட்டவும்</item>
+    </plurals>
+</resources>

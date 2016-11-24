@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_picker_fetch_failure">Hech qanday ilova topilmadi</string>
+    <string name="app_picker_no_apps">Hech narsa tanlanmadi</string>
+    <string name="auto_restore_summary">Ilovani qayta o‘rnatish vaqtida sozlama va ma’lumotlarning zaxira nusxasini tiklang</string>
+    <string name="auto_restore_title">Avtomatik tiklash</string>
+    <string name="backup_configure_account_default_summary">Hozir hech qaysi hisobda zahiralangan ma’lumotlar mavjud emas</string>
+    <string name="backup_configure_account_title">Zaxiralash uchun hisob</string>
+    <string name="backup_data_summary">Ilova ma’lumotlari, Wi-Fi parollari va boshqa sozlamalarning zaxira nusxasini Google Drive xizmatiga saqlang</string>
+    <string name="backup_data_summary_full">"Qurilmadagi ma’lumotlar (m-n, Wi-Fi parollari va qo‘ng‘iroqlar tarixi) va ilovalarga oid ma’lumotlar (m-n, sozlamalar va ilovalar tomonidan saqlangan fayllar) zaxira nusxasini Google Drive xizmatiga avtomatik saqlang.
+
+Agar avtomatik zaxiralash funksiyasi yoqilsa, qurilma va ilova ma’lumotlarining zaxira nusxasi vaqti-vaqti bilan Google Drive xizmatidagi shaxsiy jildga saqlab turiladi. Ilova ma’lumotlariga ilova tomonidan saqlangan har qanday ma’lumot (dasturchi sozlamalari asosida), jumladan, kontaktlar, xabar va rasmlar kabi maxfiy ma’lumotlar ham kiradi."</string>
+    <string name="backup_data_title">Google Drive omboriga zaxiralash</string>
+    <string name="backup_erase_dialog_message">Wi-Fi parollari, xatcho‘plar, boshqa sozlamalar va ilova ma’lumotlarining zaxira nusxasini saqlash to‘xtatilib, ularning barcha nusxalari Google Drive xizmatidan o‘chirib tashlansinmi?</string>
+    <string name="backup_erase_dialog_message_full">Qurilmadagi ma’lumotlar (m-n, Wi-Fi parollari va qo‘ng‘iroqlar tarixi) va ilova ma’lumotlarining (m-n, sozlamalar va ilovalar tomonidan saqlangan fayllar) zaxira nusxasini saqlash to‘xtatililib, ularning Google Drive xizmatidagi barcha nusxalari o‘chirib tashlansinmi?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Google Photos sozlamalarini ochib bo‘lmadi</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Avtomatik zaxiralash yoqilganda:
+
+ ● Qurilma sozlamalari va ilova ma’lumotlari muntazam ravishda Google Drive xizmatidagi shaxsiy jildingizga saqlanib boriladi. Ilovaga tegishli ma’lumotlar – bu ilovalar tomonidan saqlangan (dasturchi o‘rnatgan sozlamalarga asoslanib) har qanday ma’lumot, shuningdek, kontaktlar, xabarlar va suratlar kabi shaxsiy ma’lumotlar bo‘lishi ham mumkin.
+
+ Katta fayllar yoki dasturchilar xizmatdan chiqarib tashlagan fayllar nusxasi zaxiralanmaydi.
+
+ ● Bu qurilmadagi surat va video tasvirlar Google Photos xizmatidagi kutubxonaga sinxronlanadi va ularni qidirish, tahrirlash, o‘chirib tashlash va xohlagan qurilmadan ulashish mumkin.
+
+ Standart holatda, to‘liq o‘lchamdagi surat va videolar yuklanadi. Ular egallagan joy Google Drive xizmatidagi sizga ajratilgan joyga ta’sir qilmaydi.
+
+ ● Bu qurilmadagi kontaktlar va ularga bog‘liq ma’lumotlar Google Kontaktlar xizmatiga sinxronlanadi. Google Kontaktlar ilovasi orqali xohlagan qurilmadan kontaktlarni qidirish, tahrirlash, o‘chirib tashlash va ulashish mumkin.
+
+ ● Bu qurilmadagi taqvim qaydlari va ularga bog‘liq ma’lumotlar Google Taqvim xizmatiga sinxronlanadi. Google Taqvim ilovasi orqali xohlagan qurilmadan ma’lumotlarni qidirish, tahrirlash, o‘chirib tashlash va ulashish mumkin.
+
+ Zaxiralangan ma’lumotlar Google Drive xotirasidagi ajratilgan joyga ta’sir qilmaydi."</string>
+    <string name="backup_opt_in_backup_description">Avtomatik zaxiralash xohlagan vaqtda osongina qayta tiklash yoki telefon almashtirish imkonini beradi. <annotation link="backup_opt_in_learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="backup_opt_in_backup_description_extra">Taqvim ma’lumotlari, kontaktlar, suratlar va video fayllar Google hisobingizga sinxronlandi, endi ulardan barcha xizmatlar bo‘ylab foydalanishingiz mumkin.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_description">"Quyidagilar uchun zaxiralash o‘chirib qo‘yiladi:
+
+Ilovalar va ularga tegishli ma’lumotlar
+Qo‘ng‘iroqlar tarixi
+Qurilma sozlamalari
+Surat va videolar
+SMS xabarlari
+
+Taqvim va kontaktlar Google hisobingizga sinxronlashda davom etadi. Sozlash tugallangach, "<annotation link="backup_opt_in_settings_instructions">Sozlamalar > Hisoblar > Google</annotation> orqali sinxronlash sozlamalarini o‘zgartirish mumkin.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Zaxiralash o‘chirib qo‘yilsinmi?</string>
+    <string name="backup_opt_in_backup_list">"Ilovalar va ularga tegishli ma’lumotlar
+Taqvim ma’lumotlari
+Qo‘ng‘iroqlar tarixi
+Kontaktlar
+Qurilma sozlamalari (jumladan, WiFi parollari)
+Surat va videolar
+SMS xabarlar"</string>
+    <string name="backup_opt_in_backup_list_header">Zaxiralash quyidagilarni o‘z ichiga oladi:</string>
+    <string name="backup_opt_in_backup_title">Google Drive omboriga zaxiralash</string>
+    <string name="backup_opt_in_disable_backup">Zaxiralashni o‘chirib qo‘yish</string>
+    <string name="backup_photos_update">Google Photos ilovasini yangilang</string>
+    <string name="backup_settings_activity_title">Zaxira nusxa va asliga qaytarish</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nusxalanmasin</string>
+    <string name="close_button_label">Yopish</string>
+    <string name="cloud_restore_app_picker_button">Qayta tiklash</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Zaxirada hech qanday ilova yo‘q</string>
+    <string name="cloud_restore_app_picker_title">Tiklash uchun ilovalarni tanlang</string>
+    <string name="common_accessibility_audience_view_editable">Auditoriyani tahrirlash</string>
+    <string name="common_add_account_label">Hisob qo‘shing</string>
+    <string name="common_ads_settings_title">Reklamalar</string>
+    <string name="common_app_name">Google Play xizmatlari</string>
+    <string name="common_audience_edit_button_label">Tahrirlash</string>
+    <string name="common_cancel">Bekor qilish</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts ilovasini ishga tushirib bo‘lmadi.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ilovasini ishga tushirish uchun ruxsat talab qilinadi.</string>
+    <string name="common_car_permission_desc">Avtomobil xizmatiga kirish</string>
+    <string name="common_car_permission_label">Avtomobil xizmati</string>
+    <string name="common_chips_label_empty_circles">Hech qanday davra yo‘q</string>
+    <string name="common_chips_label_extended_circles">Kengaytirilgan davralar</string>
+    <string name="common_chips_label_only_you">Faqat siz</string>
+    <string name="common_chips_label_public">Umumiy</string>
+    <string name="common_chips_label_your_circles">Davralaringiz</string>
+    <string name="common_choose_account_label">Hisobni tanlang</string>
+    <string name="common_clear_app_data_menu_item">Ilova ma’lumotlarini tozalash</string>
+    <string name="common_connected_apps_settings_title">Bog‘langan ilovalar</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_games_settings_title">Play O‘yinlar</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Yoqish</string>
+    <string name="common_google_play_services_enable_text">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="common_google_play_services_enable_title">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_error_dialog_title">Xato</string>
+    <string name="common_google_play_services_install_button">O‘rnatish</string>
+    <string name="common_google_play_services_install_text">%1$s ishlashi uchun qurilmangizda Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_title">Google Play xizmatlarini o‘rnatish</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xizmatlari xatosi</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ilovasini Google Play xizmatlariga ulab bo‘lmadi. Qaytadan urinib ko‘ring.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi.</string>
+    <string name="common_google_play_services_update_button">Yangilash</string>
+    <string name="common_google_play_services_update_text">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="common_google_play_services_update_title">Google Play xizmatlarini yangilash</string>
+    <string name="common_google_play_services_updating_text">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="common_google_play_services_updating_title">Google Play xizmatlari yangilanmoqda</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xizmatlarining yangi versiyasi zarur. U o‘zini qisqa vaqt ichida yangilaydi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play xizmatlari noto‘g‘ri arxitektura bilan o‘rnatilgan.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play xizmatlari noto‘g‘ri (%1$s) arxitektura bilan o‘rnatilgan, qurilmada esa boshqa (%2$s) arxitektura.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Noto‘g‘ri arxitektura</string>
+    <string name="common_google_settings">Google sozlamalari</string>
+    <string name="common_google_settings_account">Hisob</string>
+    <string name="common_google_settings_credentials_title">Parollar uchun Smart Lock</string>
+    <string name="common_google_settings_data_management_title">Mobil internetni boshqarish</string>
+    <string name="common_google_settings_drive_network_usage">Google Diskka bog‘langan ilova fayllarini yangilash</string>
+    <string name="common_google_settings_services">Xizmatlar</string>
+    <string name="common_list_apps_menu_help">Yordam</string>
+    <string name="common_list_apps_menu_help_and_feedback">Yordam va fikr-mulohaza</string>
+    <string name="common_loading">Yuklanmoqda…</string>
+    <string name="common_location_settings_title">Joylashuv</string>
+    <string name="common_maps_settings_title">Xaritalar va Lokator</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">Tashqi URLni ko‘rsatish vositasi yo‘q.</string>
+    <string name="common_network_load_failed">Tarmoqqa ulanib bo‘lmadi</string>
+    <string name="common_networking_settings_title">Tarmoqlar</string>
+    <string name="common_no_browser_for_restricted_url">Kirish cheklangan. Hech qanday brauzer topilmadi.</string>
+    <string name="common_no_network">Mavjud emas: qurilma internetga ulanmagan</string>
+    <string name="common_off">O‘chiq</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Yoniq</string>
+    <string name="common_open_on_phone">Telefonda ochish</string>
+    <string name="common_open_source_licenses">Ochiq kodli DT litsenziyalari</string>
+    <string name="common_people_settings_title">Kontaktlar</string>
+    <string name="common_permissions_enable_in_settings">Sozlamalardan yoqish</string>
+    <string name="common_permissions_missing_end">Davom etish uchun, Sozlamalar > Ruxsatnomalar sahifasiga kirib, ro‘yxatdagi barcha obyektlarga ruxsat bering.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Yoqish uchun
+Sozlamalar >
+Ruxsatnomalar >
+Google Play xizmatlariga o‘ting"</string>
+    <string name="common_permissions_missing_start">Bu ilova to‘g‘ri ishlashi uchun Google Play xizmatlariga quyidagi ruxsatnomalar taqdim etilishi kerak:</string>
+    <string name="common_permissions_open_settings">Sozlamalarni ochish</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_and_now_settings_title">Qidiruv va Google Now</string>
+    <string name="common_search_settings_title">Qidiruv</string>
+    <string name="common_security_settings_title">Xavfsizlik</string>
+    <string name="common_set_up_nearby_device_settings_title">Yaqin-atrofdagi qurilmani sozlash</string>
+    <string name="common_settings_drive_network_usage_all">Wi-Fi yoki mobil internet orqali</string>
+    <string name="common_settings_drive_network_usage_wifi">Faqat Wi-Fi orqali</string>
+    <string name="common_signin_button_text">Kirish</string>
+    <string name="common_signin_button_text_long">Google orqali kirish</string>
+    <string name="common_storage_settings_title">Google Play xizmatlari xotirasi</string>
+    <string name="common_switch_bar_off">O‘CHIQ</string>
+    <string name="common_switch_bar_on">YONIQ</string>
+    <string name="common_ui_confirm_deleting_button">O‘chirish</string>
+    <string name="common_ui_confirm_deleting_checkbox">Tushundim, baribir o‘chirilsin</string>
+    <string name="common_url_load_unsuccessful_message">Android qurilmangiz internetga ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun biror veb-brauzer orqali %s veb-sahifasiga tashrif buyuring.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android qurilmangiz biror Wi-Fi tarmog‘iga ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun brauzer orqali %s havolasiga tashrif buyuring.</string>
+    <string name="common_url_login_notice">%1$s hisobiga kirish</string>
+    <string name="common_usage_and_diagnostics">Foydalanish va tashxis</string>
+    <string name="confirm_copy_button_text">Nusxalash</string>
+    <string name="contacts_number_local_and_sim_with_google">SIM kartada %1$d ta, qurilmada %2$d ta, Google Kontaktlar</string>
+    <string name="contacts_number_local_with_google">Qurilmada %1$d ta, Google Kontaktlar</string>
+    <string name="contacts_number_sim_with_google">SIM kartada %1$d ta, Google Kontaktlar</string>
+    <string name="copy_confirmation_description">Yangi telefonga Google hisobingiz va ilovalar kabi ma’lumotlar nusxalanadi</string>
+    <string name="copy_confirmation_title">Yangi telefoningizga nusxalansinmi?</string>
+    <string name="d2d_app_picker_description_no_apps">Hech qanday ilova topilmadi</string>
+    <string name="d2d_app_picker_title">Ilovalar</string>
+    <string name="d2d_migration_canceled_on_source">Nusxalash bekor qilindi</string>
+    <string name="data_copied_fragment_description">Ma’lumotlar yangi telefonga nusxalandi. Kabelni uzishingiz mumkin.</string>
+    <string name="data_copied_fragment_description_cancel">Nusxalashni to‘xtatdingiz, lekin yangi telefonga allaqachon bir qancha ma’lumotlar nusxalandi.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Nusxalashni to‘xtatdingiz, shuning uchun yangi telefonga hech narsa nusxalanmadi.</string>
+    <string name="data_copied_fragment_description_error">Xatolik yuz berdi. Barcha ma’lumotlarni nusxalab bo‘lmadi.</string>
+    <string name="data_copied_fragment_description_error_no_data">Xatolik yuz berdi. Ma’lumotlarni nusxalab bo‘lmadi.</string>
+    <string name="data_copied_fragment_no_data_title">Nusxalab bo‘lmadi</string>
+    <string name="data_copied_fragment_some_data_title">Ba’zi ma’lumotlar nusxalandi</string>
+    <string name="data_copied_fragment_title">Ma’lumotlar nusxalandi</string>
+    <string name="device_backup_title">Qurilmani zaxiralash</string>
+    <string name="device_not_supported_fragment_new_device">Yangi telefonga ulanildi. Davom ettirish uchun avvalgi telefonga qayta ulang.</string>
+    <string name="device_not_supported_fragment_new_device_title">Avvalgi telefonga qayta ulang</string>
+    <string name="device_not_supported_fragment_no_data_cable">Bu kabel orqali ma’lumotlarni uzatib bo‘lmaydi. Boshqa kabelni ulab, qaytadan urinib ko‘ring.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Boshqa kabeldan foydalanib ko‘ring</string>
+    <string name="device_not_supported_fragment_retry_description">Eski telefon qulfdan chiqarilganligini tekshirib, kabelni uzing va qayta ulang</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Noma’lum xatolik yuz berdi</string>
+    <string name="device_picker_description">Zaxira nusxalar Google Drive omborida saqlanadi</string>
+    <string name="device_picker_item">%1$s zaxirasi</string>
+    <string name="device_picker_last_used">So‘nggi foydalanish: ^1</string>
+    <string name="device_picker_skip">Qayta tiklanmasin</string>
+    <string name="device_picker_title">Tiklash uchun zaxirani tanlang</string>
+    <string name="disabled_by_admin_summary_text">Administrator tomonidan boshqariladi</string>
+    <string name="download_msg_error_invalid">Yuklab olish noto‘g‘ri sozlangan.</string>
+    <string name="download_msg_in_progress">Yuklab olish davom etmoqda.</string>
+    <string name="download_msg_not_allowed_space">Yuklab olish uchun xotirada joy yetarli emas.</string>
+    <string name="download_msg_pending">Yuklab olish kutib turibdi.</string>
+    <string name="download_notification_description">Buni %1$s so‘ragan.</string>
+    <string name="download_notification_title">Ko‘proq ma’lumotlar olinmoqda</string>
+    <string name="drive_backup_account">Zaxiralash uchun hisob</string>
+    <string name="drive_backup_app_includes_data">Ilova ma’lumotlarini o‘z ichiga oladi</string>
+    <string name="drive_backup_apps_in_backup">Zaxira nusxasi yaratiladigan ilovalar</string>
+    <string name="drive_backup_apps_last_backup">So‘nggi zahiraga nusxalash</string>
+    <string name="drive_backup_apps_loading">Yuklanmoqda…</string>
+    <string name="drive_backup_apps_screen_title">Ilovalar</string>
+    <string name="drive_backup_content_apps_title">Ilovalar</string>
+    <string name="drive_backup_content_calendar_title">Taqvim</string>
+    <string name="drive_backup_content_callhistory_title">Qo‘ng‘iroqlar tarixi</string>
+    <string name="drive_backup_content_contacts_title">Kontaktlar</string>
+    <string name="drive_backup_content_devicesettings_title">Qurilma sozlamalari</string>
+    <string name="drive_backup_content_header">Kontent</string>
+    <string name="drive_backup_content_photos_dialog_message">Suratlarning zaxira nusxasi ham %s hisobiga saqlansinmi?</string>
+    <string name="drive_backup_content_photos_dialog_no">Yo‘q</string>
+    <string name="drive_backup_content_photos_dialog_title">Suratlarning zaxira nusxasi saqlanadigan hisob o‘zgartirilsinmi?</string>
+    <string name="drive_backup_content_photos_dialog_yes">Ha</string>
+    <string name="drive_backup_content_photos_title">Rasm va videolar</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Oxirgi zaxiralash sanasini aniqlashda xatolik</string>
+    <string name="drive_backup_content_status_lastsaved">So‘nggi zahiraga nusxalash: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Zaxiraga nusxalanmagan</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Hisob sozlamalari</string>
+    <string name="drive_backup_content_status_updating">Holati tekshirilmoqda…</string>
+    <string name="drive_backup_settings_title">Zaxiralash</string>
+    <string name="drive_backup_state">Google Drive omboriga zaxiralash</string>
+    <string name="drive_backup_state_dialog_message">"Bu %s uchun keyingi zaxiralashni, jumladan, Google Photos omboriga zaxiralashni to‘xtatadi.
+
+Zaxiralangan rasm, video, kontakt va taqvim tadbirlaridan tegishli Google xizmatlari orqali foydalanish mumkin bo‘ladi.
+
+Boshqa barcha ma’lumotlar o‘chirib tashlanadi."</string>
+    <string name="drive_backup_state_dialog_okaction">O‘chirib qo‘yish</string>
+    <string name="drive_backup_state_dialog_title">Zaxiralarni o‘chirib qo‘yish va o‘chirib tashlash</string>
+    <string name="durationDayHour">%1$d kun %2$d soat</string>
+    <string name="durationDayHours">%1$d kun %2$d soat</string>
+    <string name="durationDays">%1$d kun</string>
+    <string name="durationHourMinute">%1$d soat %2$d daqiqa</string>
+    <string name="durationHourMinutes">%1$d soat %2$d daqiqa</string>
+    <string name="durationHours">%1$d soat</string>
+    <string name="durationMinute">%1$d daqiqa</string>
+    <string name="durationMinuteSecond">%1$d daqiqa %2$d soniya</string>
+    <string name="durationMinuteSeconds">%1$d daqiqa %2$d soniya</string>
+    <string name="durationMinutes">%1$d daqiqa</string>
+    <string name="durationSecond">%1$d soniya</string>
+    <string name="durationSeconds">%1$d soniya</string>
+    <string name="encryption_warning_fragment_description">"iPhone® qurilmasida zaxira nusxalarni shifrlash funksiyasi yoniq. Bunda faqat surat, video va musiqalarni nusxalash mumkin.
+
+Boshqa ma’lumotlarni nusxalash uchun iPhone® qurilmasini kompyuterga ulang. iTunes® dasturini ochib, zaxira nusxalarni shifrlashni o‘chirib qo‘yib, qaytadan nusxalab ko‘ring.
+
+Qo‘shimcha ma’lumot uchun: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_description">"Bu ko‘proq ma’lumotlarni ko‘chirib o‘tkazishning eng tezkor usulidir.
+
+Qutidan adapterni topib, uni yangi telefonga suqing. Kabel orqali telefonlarni ulab, eski telefonni qulfdan chiqaring."</string>
+    <string name="fragment_waiting_title">Iltimos, kuting…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_static_text">Google Kontaktlar sinxronlanadi</string>
+    <string name="google_contacts_static_text_off">Google Kontaktlar sinxronlanadi</string>
+    <string name="header_set_backup_account">Ma’lumotlar qayerga saqlansin?</string>
+    <string name="i_message_dialog_message">"iPhone foydalanuvchilaridan SMS olib turish uchun iMessage® xizmatini o‘chirib qo‘yish kerak bo‘ladi.
+
+Ko‘rsatmalarni ko‘rish uchun "<b>g.co/iMessageHelp</b> sahifasiga tashrif buyuring.</string>
+    <string name="instructions_fragment_title">Boshqa telefonda davom ettirish</string>
+    <string name="ios_connected_fragment_description">"Davom ettirish uchun iPhone® qurilmangizda Google hisobingiz bilan kiring.
+
+Tezroq o‘tkazish uchun sozlash paytida iPhone® qurilmasidan foydalanmang."</string>
+    <string name="ios_message_attachment_placeholder">[Fayl mana bu yerga saqlandi: Google Photos > Qurilmadagi jildlar > Xatlardagi fayllar]</string>
+    <string name="ios_message_attachments_placeholder">[Xatga biriktirilgan fayllar Google Photos > Qurilma jildlari > Xat biriktirmalariga saqlandi]</string>
+    <string name="ios_migration_default_calendar_title">Taqvim</string>
+    <string name="ios_photos_dialog_message">"iCloud® xizmatida saqlanadigan suratlarni nusxalab bo‘lmaydi.
+
+Ushbu suratlarni Pixel qurilmasiga ko‘chirish uchun iPhone® qurilmasiga Google Photos ilovasini o‘rnating va “Zaxiralash va sinxronlash” funksiyasini yoqing. Qo‘shimcha ma’lumot uchun: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Hisob qo‘shish</string>
+    <string name="lockscreen_smartdevice_action_next">Keyingisi</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Telefonni sozlashda davom etish uchun uni qulfdan chiqaring</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Xavfsizlik maqsadida, sozlashda davom etish uchun ekran qulfini tasdiqlang</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Ekran qulfini kiriting</string>
+    <string name="manage_data_label">Ma’lumotlarni zaxiralashni boshqarish</string>
+    <string name="master_clear_title">Zavod sozlamalarini tiklash</string>
+    <string name="megabyteShort">MB</string>
+    <string name="notification_content_text_set_backup_account">Zaxira nusxa uchun hisobni tanlang</string>
+    <string name="notification_content_title_set_backup_account">Zaxira nusxa olish</string>
+    <string name="notification_ticker_set_backup_account">Zaxiralash uchun hisob ko‘rsatilmagan</string>
+    <string name="permgrouplab_calendar">Taqvim</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktlar</string>
+    <string name="permgrouplab_location">Joylashuv</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Tana sezgichlari</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Xotira</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Hozir hech qaysi hisobda zahiralangan rasmlar mavjud emas</string>
+    <string name="photos_backup_title">Rasmlarni zaxiralash</string>
+    <string name="photos_filtering_option_all">Hammasi</string>
+    <string name="photos_filtering_option_none">Hech qaysi</string>
+    <string name="restore_choice_data_disclaimer">Boshqa telefondagi ba’zi ma’lumotlarni ^1 qurilmangizga nusxalab bo‘lmadi. <annotation link="restore_choice_data_disclaimer_learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Nusxa olingan kontaktlar Google hisobingizda saqlanadi.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Nusxa olingan kontakt va taqvim ma’lumotlari Google hisobingizda saqlanadi.</string>
+    <string name="restore_choice_learn_more_android">"Eski telefondagi ba’zi ma’lumotlarni avtomatik ravishda nusxalab bo‘lmaydi:
+
+ ● Yuklanmalar (masalan, PDF fayllar)
+
+ ● Yashirin jildlardagi musiqa, video va suratlar
+
+ ● Matnli xabarlar orqali qabul qilingan video, musiqa va suratlar
+
+ ● Google Play Market orqali o‘rnatilmagan ilovalar
+
+ ● Ilovaga tegishli ma’lumotlar (agar ilova Android zaxiralash xizmatidan foydalanmasa)
+
+ ● Ayrim qurilma sozlamalari
+
+ ● Google hisobidan boshqa hisoblar (hamda ular bilan bog‘liq ma’lumotlar)
+
+ ● Google xizmatlaridan boshqa xizmatlarga sinxronlangan kontakt va taqvim ma’lumotlari
+
+ ● Ringtonlar
+
+ Qo‘shimcha ma’lumotlar: g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Eski telefondagi ba’zi ma’lumotlarni avtomatik ravishda nusxalab bo‘lmaydi:
+
+ ● Ilovalar va ularga tegishli ma’lumotlar
+
+ ● Telefonda asli saqlanmagan suratlar (masalan, agar “Xotirani optimallashtirish” sozlamasi yoqilgan bo‘lsa, asl suratlar iCloud® xizmatida saqlanadi)
+
+ ● iCloud® xizmatida saqlangan fayl va hujjatlar
+
+ ● Qurilma sozlamalari (masalan, Wi-Fi parollari va fon rasmlari)
+
+ ● Raqamli huquqlar boshqaruvi (DRM) orqali himoyalangan qo‘shiqlar (masalan, iTunes® orqali 2009-yil, aprel oyidan oldin xarid qilingan qo‘shiqlar yoki musiqa ta’minotchisi ilovasida oflayn eshitish uchun yuklab olingan qo‘shiqlar)
+
+ ● Google hisobidan boshqa hisoblar (hamda ular bilan bog‘liq ma’lumotlar)
+
+ ● iCloud® yoki Google xizmatlaridan boshqa xizmatlarga sinxronlangan kontakt va taqvim ma’lumotlari
+
+ ● Safari® brauzeridagi xatcho‘plar
+
+ iMessage® biriktirmalarini Google Photos > Qurilma jildlari > Xat biriktirmalari orqali ko‘rish mumkin.
+
+ Qo‘shimcha ma’lumotlar: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Joy yetarli emas</string>
+    <string name="restore_choice_total_text">bo‘sh joy: %1$s / o‘tkazish vaqti: %2$s</string>
+    <string name="restore_item_appdata">Ilovaga tegishli ma’lumotlar</string>
+    <string name="restore_item_calendar">Taqvim</string>
+    <string name="restore_item_calendar_ical_description">iOS® Taqvim, Google Taqvim</string>
+    <string name="restore_item_calendar_ical_off_description">Google Taqvim sinxronlanadi</string>
+    <string name="restore_item_calendar_sync_description">Google Taqvim sinxronlanadi</string>
+    <string name="restore_item_call_logs">Qo‘ng‘iroqlar tarixi</string>
+    <string name="restore_item_contacts">Kontaktlar</string>
+    <string name="restore_item_device_settings_description">Wi-Fi parollari va boshqalar</string>
+    <string name="restore_item_downloads">Yuklanmalar</string>
+    <string name="restore_item_email">E-pochta</string>
+    <string name="restore_item_email_description">Gmail sinxronlanadi</string>
+    <string name="restore_item_message_attachments">Xatga biriktirilgan fayllar</string>
+    <string name="restore_item_messages">Xabarlar</string>
+    <string name="restore_item_music">Musiqa</string>
+    <string name="restore_item_photos">Rasm va videolar</string>
+    <string name="restore_item_settings">Qurilma sozlamalari</string>
+    <string name="restore_item_sms">SMS xabarlar</string>
+    <string name="restore_item_will_be_synced_text">Ma’lumotlar telefon bilan sinxronlanadi</string>
+    <string name="small_time_duration">1 daqiqadan kamroq</string>
+    <string name="source_connected_description">Tayyorlanmoqda…</string>
+    <string name="source_connected_title">%1$s qurilmangizga ulandi</string>
+    <string name="source_copying_description">Tanlangan ma’lumotlar yangi telefoningizga nusxalanmoqda</string>
+    <string name="source_copying_title">Nusxalanmoqda…</string>
+    <string name="source_default_target_device_name">yangi qurilma</string>
+    <string name="source_notification_device_disconnected">Kabelni qayta ulang</string>
+    <string name="source_notification_text">Telefondan telefonga uzatilmoqda</string>
+    <string name="source_notification_title">Ma’lumotlarni uzatish</string>
+    <string name="source_success_description">Sozlashni %1$s qurilmasida nihoyasiga yetkazing.</string>
+    <string name="source_success_screen_title">Tayyor!</string>
+    <string name="source_unplugged_description">%1$s qurilmasiga qayta ulang</string>
+    <string name="source_unplugged_title">Kabel uzilgan</string>
+    <string name="source_waiting_title">Sozlashni %1$s qurilmangizda davom ettiring</string>
+    <string name="stop_copying_dialog_continue_button">Yopish</string>
+    <string name="stop_copying_dialog_message_before_transfer">Ma’lumotlaringiz yangi telefonga nusxalanmadi.</string>
+    <string name="stop_copying_dialog_message_during_transfer">Ba’zi ma’lumotlar yangi telefonga nusxalangani yo‘q</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nusxalanmasin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">To‘xtatish</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nusxalanmasinmi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Nusxalash to‘xtatilsinmi?</string>
+    <string name="storage_management_drive_clear_failure">Google Disk ma’lumotlarini o‘chirib bo‘lmadi. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="storage_management_drive_clear_label">Tozalash</string>
+    <string name="storage_management_drive_clear_success">Google Disk ma’lumotlari tozalab tashlandi.</string>
+    <string name="storage_management_drive_clearing">Tozalanmoqda…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Google Disk bilan bog‘langan ilovalarning barcha ma’lumotlari qurilmadan o‘chirib tashlanadi. Google Disk serveriga saqlanmagan o‘zgarishlar ham o‘chib ketadi.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Barcha ma’lumotlar o‘chirib tashlansinmi?</string>
+    <string name="storage_management_drive_descriptive_text">Google Disk bilan bog‘liq ilovalar o‘z unumdorligini oshirish va ma’lumotlarga oflayn rejimida ham kirish uchun fayllarni qurilma xotirasida saqlaydi.</string>
+    <string name="storage_management_drive_get_storage_failure">Google Disk xotirasidan foydalanish statistikasini hisoblashda xatolik yuz berdi. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="storage_management_drive_size_label">Diskning qurilmadagi xotirasi</string>
+    <string name="storage_management_wear_descriptive_text">Ilovalar taqiladigan qurilmaga ma’lumotlarni ko‘chirish uchun qurilmangiz xotirasidan foydalanadi.</string>
+    <string name="storage_management_wear_manage_size_label">Taqiladigan qurilma xotirasini boshqarish</string>
+    <string name="storage_management_wear_size_label">Taqiladigan qurilma xotirasi</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play xizmatlari, jumladan qidiruv tizimi va boshqa ma’lumotlarni saqlash uchun ishlatilgan joy.</string>
+    <string name="storage_managment_clear_all_data">Barcha ma’lumotlarni o‘chirish</string>
+    <string name="storage_managment_computing_size">Hisoblanmoqda…</string>
+    <string name="storage_managment_icing_size_label">Qidiruv indeksi xotirasi</string>
+    <string name="storage_managment_manage_icing_button">Qidiruv xotirasini boshqarish</string>
+    <string name="storage_managment_search_index_descriptive_text">Qidiruv tezroq ishlashi uchun qurilmangizdagi ilovalar qidiruv indeksidan foydalanishi mumkin.</string>
+    <string name="storage_managment_title">Google Play xizmatlari xotirasi</string>
+    <string name="storage_managment_total_size_label">Jami xotira</string>
+    <string name="target_default_source_device_model">eski qurilma</string>
+    <string name="target_device_not_supported_cant_continue_description">Ma’lumotlarni nusxalash uchun boshqa usulni tanlashingiz lozim</string>
+    <string name="target_device_not_supported_cant_continue_title">Boshqa telefon qo‘llab-quvvatlanmaydi</string>
+    <string name="target_smart_device_timeout_add_account">HISOB QO‘SHISH</string>
+    <string name="target_smart_device_timeout_description">Agar xohlasangiz, hisobingizni qo‘lda kiritishingiz mumkin</string>
+    <string name="target_smart_device_timeout_dismiss">YOPISH</string>
+    <string name="target_smart_device_timeout_title">Muammoga duch keldingizmi?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefonlar bir-biriga ulandi</string>
+    <string name="toast_reconnect_cable">Kabelni qayta ulang</string>
+    <string name="transfer_finished_fragment_title">Qurilma deyarli sozlandi…</string>
+    <string name="transfer_summary_copied">Ma’lumotlar nusxalandi</string>
+    <string name="transfer_summary_fragment_description">Kabelni uzing</string>
+    <string name="transfer_summary_fragment_finish">TAYYOR</string>
+    <string name="transfer_summary_fragment_title">Telefon deyarli tayyor</string>
+    <string name="transfer_summary_icloud_photos_warning">Ba’zi suratlarni nusxalab bo‘lmadi. <annotation link="transfer_summary_learn_more">Batafsil ma’lumot</annotation></string>
+    <string name="transfer_summary_not_copied">Ma’lumotlar nusxalanmadi</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ta nusxalandi</string>
+    <string name="transfer_summary_will_sync">Sozlab bo‘lgach, ma’lumotlar sinxronlanadi</string>
+    <string name="transferring_fragment_calculating_remaining_time">Qolgan vaqt hisoblanmoqda…</string>
+    <string name="transferring_fragment_header">Nusxalanmoqda…</string>
+    <string name="transferring_fragment_remaining_time">%1$s qoldi</string>
+    <string name="trust_instructions_description">Davom etish uchun iPhone® qurilmasini tekshiring va ulanishni tasdiqlang</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari va iTunes – Apple Inc. kompaniyasining AQSH va boshqa mamlakatlarda qayd qilingan savdo belgilari hisoblanadi.</string>
+</resources>

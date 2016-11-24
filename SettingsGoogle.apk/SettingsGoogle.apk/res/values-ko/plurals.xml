@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d단계만 더 완료하면 개발자가 될 수 있습니다.</item>
+        <item quantity="one">%1$d단계만 더 완료하면 개발자가 될 수 있습니다.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">선택한 언어를 삭제하시겠습니까?</item>
+        <item quantity="one">선택한 언어를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">지문 %1$d개 설정됨</item>
+        <item quantity="one">지문 %1$d개 설정됨</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">문자가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">문자가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">소문자가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">소문자가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">대문자가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">대문자가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">숫자가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">숫자가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">특수 기호가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">특수 기호가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">글자가 아닌 문자가 %d개 이상 포함되어야 함</item>
+        <item quantity="one">글자가 아닌 문자가 1개 이상 포함되어야 함</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN 코드가 잘못되었습니다. %d번 더 시도할 수 있습니다.</item>
+        <item quantity="one">SIM PIN 코드가 잘못되었습니다. %d번 더 실패하면 이동통신사에 문의하여 기기를 잠금 해제해야 합니다.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d개 항목</item>
+        <item quantity="one">1개 항목</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">거의 지연 없음(%1$d밀리초)</item>
+        <item quantity="one">거의 지연 없음(%1$d밀리초)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">매우 짧은 지연(%1$d밀리초)</item>
+        <item quantity="one">매우 짧은 지연(%1$d밀리초)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">짧은 지연(%1$d밀리초)</item>
+        <item quantity="one">짧은 지연(%1$d밀리초)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">긴 지연(%1$d밀리초)</item>
+        <item quantity="one">긴 지연(%1$d밀리초)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">매우 긴 지연(%1$d밀리초)</item>
+        <item quantity="one">매우 긴 지연(%1$d밀리초)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">인쇄 작업 %d개</item>
+        <item quantity="one">인쇄 작업 1개</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">인증서 신뢰 또는 삭제</item>
+        <item quantity="one">인증서 신뢰 또는 삭제</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s에서 내 기기에 인증서를 설치했으며, 이메일, 앱, 보안 웹사이트를 포함한 내 기기의 네트워크 활동을 모니터링하도록 허용할 수도 있습니다.
+
+이 인증서를 자세히 알아보려면 관리자에게 문의하세요."</item>
+        <item quantity="one">"%s에서 내 기기에 인증서를 설치했으며, 이메일, 앱, 보안 웹사이트를 포함한 내 기기의 네트워크 활동을 모니터링하도록 허용할 수도 있습니다.
+
+이 인증서를 자세히 알아보려면 관리자에게 문의하세요."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s에서 직장 프로필의 인증서를 설치했으며, 이메일, 앱, 보안 웹사이트를 포함한 직장 네트워크 활동을 모니터링하도록 허용할 수 있습니다.
+
+이 인증서를 자세히 알아보려면 관리자에게 문의하세요."</item>
+        <item quantity="one">"%s에서 직장 프로필의 인증서를 설치했으며, 이메일, 앱, 보안 웹사이트를 포함한 직장 네트워크 활동을 모니터링하도록 허용할 수 있습니다.
+
+이 인증서를 자세히 알아보려면 관리자에게 문의하세요."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">인증서 확인</item>
+        <item quantity="one">인증서 확인</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">%d개의 숨겨진 항목 표시</item>
+        <item quantity="one">%d개의 숨겨진 항목 표시</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d개 앱이 알림을 읽을 수 있습니다.</item>
+        <item quantity="one">%d개 앱이 알림을 읽을 수 있습니다.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">%1$d분 동안 알람만 수신 모드로 변경(%2$s까지)</item>
+        <item quantity="one">%2$s까지 1분 동안 알람만 수신 모드로 변경</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">%2$s까지 %1$d시간 동안 알람만 수신 모드로 변경</item>
+        <item quantity="one">%2$s까지 1시간 동안 알람만 수신 모드로 변경</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">권한 %d개 부여받음</item>
+        <item quantity="one">권한 %d개 부여받음</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">권한 %1$d개 중 %2$d개가 부여됨</item>
+        <item quantity="one">권한 %1$d개 중 %2$d개가 부여됨</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">추가 권한 %d개</item>
+        <item quantity="one">추가 권한 %d개</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d개 앱에서 지원되는 링크를 열 수 있습니다.</item>
+        <item quantity="one">1개 앱에서 지원되는 링크를 열 수 있습니다.</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d개 앱이 배터리 최적화를 무시하도록 허용되었습니다.</item>
+        <item quantity="one">1개 앱이 배터리 최적화를 무시하도록 허용되었습니다.</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">지난 %2$s 동안 앱 %1$d개에서 메모리를 사용했습니다.</item>
+        <item quantity="one">지난 %2$s 동안 앱 1개에서 메모리를 사용했습니다.</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d개의 앱 전송 차단됨</item>
+        <item quantity="one">%d개의 앱 전송 차단됨</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">데이터 절약 모드가 켜져 있을 때 %1$d개의 앱이 무제한 데이터를 사용할 수 있도록 허용됨</item>
+        <item quantity="one">데이터 절약 모드가 켜져 있을 때 1개의 앱이 무제한 데이터를 사용할 수 있도록 허용됨</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+</resources>

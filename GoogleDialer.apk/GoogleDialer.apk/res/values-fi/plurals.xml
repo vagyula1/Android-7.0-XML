@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="description_voicemail_unread">
+        <item quantity="other">%d uutta vastaajaviestiä</item>
+        <item quantity="one">%d uusi vastaajaviesti</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d vastaajaviestiä</item>
+        <item quantity="one">Vastaajaviesti</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d löytyi</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="tab_title_with_unread_items">
+        <item quantity="other">%1$s, %2$d lukematonta kohdetta</item>
+        <item quantity="one">%1$s, %2$d lukematon kohde</item>
+    </plurals>
+</resources>

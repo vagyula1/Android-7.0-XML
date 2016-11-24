@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NavigationBreadcrumbItem" parent="@style/NavigationBreadcrumbItem_Landscape" />
+    <style name="SpeakerNotePresence">
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+    <style name="WrapJustWidthInLandAndViceVersa">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="team_drive_art_view_style">
+        <item name="android:layout_marginRight">50.0dip</item>
+        <item name="android:layout_toRightOf">@id/team_drive_empty_state_text</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="team_drive_empty_message_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/quantum_grey500</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_marginLeft">50.0dip</item>
+        <item name="android:layout_marginTop">50.0dip</item>
+        <item name="android:layout_marginRight">50.0dip</item>
+        <item name="android:layout_toLeftOf">@id/centre_point</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="DocListEntryButton_Tablet" parent="@style/SingleLine">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">@dimen/doc_entry_row_button_width</item>
+        <item name="android:layout_height">@dimen/doc_entry_row_button_height</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="PunchDividerRule">
+        <item name="android:background">#ffcccccc</item>
+        <item name="android:layout_width">1.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+</resources>
